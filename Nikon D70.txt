@@ -1,0 +1,27 @@
+Deciphering makernote tags...
+
+Nikon Browser identifies the lens as "18-70mm F/3.5-4.5 G" which is identical to metadata extractor, except for the G.  This must be coming from another tag...
+
+Nikon Browser calls the metering mode "Multi-Pattern", whereas metadata extractor calls it "Multi-segment".
+
+Nikon Browser has "Optimize Image:" as a tag (though I've only seen it blank).  Perhaps this maps to an unknown tag?
+
+Note that the camera implements image protection (locking images) via the file's 'readonly' attribute.  Similarly image hiding uses the 'hidden' attribute.
+
+more unknown tag values:
+
+0x0016 = 0 0 49163 53255
+0x0017 = 
+0x0018 = 
+0x0019 = 0
+0x00a0 = NO= 00002539        
+0x00a2 = 1564851
+0x00a3 = 0
+0x00a7 = 5062
+0x00aa = NORMAL (Saturation)
+0x00ab = AUTO (Sharpening)
+
+
+TODO:
+- investigate TAG_NIKON_TYPE3_UNKNOWN_10 with a few more images to determine it's meaning (seen NATURAL, SPEEDLIGHT...)
+

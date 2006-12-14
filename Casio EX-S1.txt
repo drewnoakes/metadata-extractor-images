@@ -1,0 +1,13 @@
+This image contains quite a few tags I've never seen before.  Does anyone have any ideas?
+
+Exif 0xa401 Unknown tag (Exif 0xa401) 0
+Exif 0xa402 Unknown tag (Exif 0xa402) 0
+Exif 0xa403 Unknown tag (Exif 0xa403) 0
+Exif 0xa404 Unknown tag (Exif 0xa404) 0/16
+Exif 0xa405 Unknown tag (Exif 0xa405) 37
+Exif 0xa406 Unknown tag (Exif 0xa406) 0
+Exif 0xa407 Unknown tag (Exif 0xa407) 1
+Exif 0xa408 Unknown tag (Exif 0xa408) 0
+Exif 0xa409 Unknown tag (Exif 0xa409) 0
+Exif 0xa40a Unknown tag (Exif 0xa40a) 0
+Exif 0xc4a5 Unknown tag (Exif 0xc4a5) 80 114 105 110 116 73 77 0 48 50 53 48 0 0 0 4 0 1 0 22 0 22 0 2 1 0 0 0 1 0 5 0 0 0 1 1 1 0 0 0

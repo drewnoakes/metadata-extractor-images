@@ -1,0 +1,1 @@
+Nikon Browser somehow interprets the flash sync mode as Front Curtain, where the tag returns "NORMAL" (a string).

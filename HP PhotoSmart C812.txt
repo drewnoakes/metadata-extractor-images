@@ -1,0 +1,3 @@
+This image has an Exif segment in which the final four bytes reference an
+out-of-bounds segment...  ExifExtractor ignores this reference.  Otherwise,
+it contains legal Exif data.
