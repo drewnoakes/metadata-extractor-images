@@ -1,0 +1,1 @@
+This camera model uses most of the Sony Type 1 makernote tags.

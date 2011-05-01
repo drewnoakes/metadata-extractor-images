@@ -1,0 +1,14 @@
+This file contains a rare type of metadata in the JPEG APP1 segment, prefixed with "QVCI":
+
+This information is found in the APP1 QVCI segment of JPEG images from the Casio QV-7000SX.
+
+    Idx Tag
+    44  CasioQuality    1 = Economy
+                        2 = Normal
+                        3 = Fine
+                        4 = Super Fine
+    55  FocalRange (?)
+    77  DateTimeOriginal
+    98  ModelType
+    114 ManufactureIndex
+    124 ManufactureCode

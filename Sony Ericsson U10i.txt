@@ -1,0 +1,3 @@
+Contains Sony 6 makernote data from a camera phone.
+
+Thanks to Andreas Ziermann for this sample image.
