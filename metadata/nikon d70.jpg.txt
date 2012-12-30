@@ -1,0 +1,120 @@
+FILE: nikon d70.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2000 pixels
+[JPEG] Image Width = 3008 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/60 sec
+[Exif SubIFD] F-Number = F4.5
+[Exif SubIFD] Exposure Program = Unknown program (0)
+[Exif SubIFD] Exif Version = 2.21
+[Exif SubIFD] Date/Time Original = 2004:11:21 21:29:12
+[Exif SubIFD] Date/Time Digitized = 2004:11:21 21:29:12
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F4.4
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash fired, return detected, auto, red-eye reduction
+[Exif SubIFD] Focal Length = 70.0 mm
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] Sub-Sec Time = 20
+[Exif SubIFD] Sub-Sec Time Original = 20
+[Exif SubIFD] Sub-Sec Time Digitized = 20
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 3008 pixels
+[Exif SubIFD] Exif Image Height = 2000 pixels
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] CFA Pattern = 0 2 0 2 2 1 1 0
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Digital Zoom Ratio = 1
+[Exif SubIFD] Focal Length 35 = 105mm
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Gain Control = None
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Subject Distance Range = Unknown
+
+[Exif IFD0] Make = NIKON CORPORATION
+[Exif IFD0] Model = NIKON D70
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 300 dots per inch
+[Exif IFD0] Y Resolution = 300 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Nikon Transfer 6.2.1 W
+[Exif IFD0] Date/Time = 2004:11:22 00:29:43
+[Exif IFD0] YCbCr Positioning = Center of pixel array
+
+[Nikon Makernote] Firmware Version = 2.00
+[Nikon Makernote] ISO = ISO 400
+[Nikon Makernote] Quality & File Format = NORMAL 
+[Nikon Makernote] White Balance = AUTO        
+[Nikon Makernote] Sharpening = AUTO  
+[Nikon Makernote] AF Type = MANUAL
+[Nikon Makernote] Flash Sync Mode = RED-EYE     
+[Nikon Makernote] Auto Flash Mode = Built-in,TTL
+[Nikon Makernote] White Balance Fine = 0
+[Nikon Makernote] White Balance RB Coefficients = 10242/1 34305/1 0/1 0/1
+[Nikon Makernote] Program Shift = 0 EV
+[Nikon Makernote] Exposure Difference = -1.5 EV
+[Nikon Makernote] Preview IFD = 1379
+[Nikon Makernote] Auto Flash Compensation = 0 EV
+[Nikon Makernote] ISO = 0 400
+[Nikon Makernote] Image Boundary = 0 0 49163 53255
+[Nikon Makernote] Flash Exposure Compensation = 0 EV
+[Nikon Makernote] Flash Bracket Compensation = 0 EV
+[Nikon Makernote] AE Bracket Compensation = 0
+[Nikon Makernote] Tone Compensation = AUTO    
+[Nikon Makernote] Lens Type = AF, D, G
+[Nikon Makernote] Lens = 18-70mm f/3.5-4.5
+[Nikon Makernote] Flash Used = Fired, TTL Mode
+[Nikon Makernote] Shooting Mode = Continuous
+[Nikon Makernote] Unknown 20 = 0
+[Nikon Makernote] Lens Stops = 5.33 EV
+[Nikon Makernote] Colour Mode = Mode I (sRGB)
+[Nikon Makernote] Light source = SPEEDLIGHT 
+[Nikon Makernote] Shot Info = [465 bytes]
+[Nikon Makernote] Camera Hue Adjustment = 0 degrees
+[Nikon Makernote] Noise Reduction = OFF 
+[Nikon Makernote] Color Balance = [140 bytes]
+[Nikon Makernote] Lens Data = [31 bytes]
+[Nikon Makernote] Sensor Pixel Size = 78/10 78/10
+[Nikon Makernote] Camera Serial Number = NO= 00002539        
+[Nikon Makernote] Image Data Size = 1564851
+[Nikon Makernote] Unknown 27 = 0
+[Nikon Makernote] Exposure Sequence Number = 5062
+[Nikon Makernote] Saturation = NORMAL
+[Nikon Makernote] Digital Vari Program = AUTO
+[Nikon Makernote] Nikon Scan = 1473
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 2437 bytes
+[Exif Thumbnail] Thumbnail Length = 8741 bytes
+
+[Photoshop] IPTC-NAA Record = 81 bytes binary data
+
+[Iptc] By-line = Drew Noakes
+[Iptc] Credit = Drew Noakes
+[Iptc] City = London
+[Iptc] Country/Primary Location Name = England
+[Iptc] Copyright Notice = http://drewnoakes.com
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

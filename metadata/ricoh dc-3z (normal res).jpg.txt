@@ -1,0 +1,40 @@
+FILE: ricoh dc-3z (normal res).jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 480 pixels
+[JPEG] Image Width = 640 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = null component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Y component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exif Version = 1.10
+[Exif SubIFD] Date/Time Original = 1997:01:28 02:13:30
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD] Shutter Speed Value = 1/1448 sec
+[Exif SubIFD] Aperture Value = F4
+[Exif SubIFD] Brightness Value = 10
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F4
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 15.0 mm
+[Exif SubIFD] User Comment = 
+
+[Exif IFD0] Make = RICOH      
+[Exif IFD0] Model = DC-3Z          
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] White Point = 3720/10000 3714/10000
+[Exif IFD0] Primary Chromaticities = 640/1000 330/1000 300/1000 600/1000 150/1000 60/1000
+[Exif IFD0] YCbCr Coefficients = 299/1000 587/1000 114/1000
+[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0] Reference Black/White = [0,128,128] [255,255,255]
+[Exif IFD0] Copyright = (C)Hendrik W�rdehoff     
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

@@ -1,0 +1,86 @@
+FILE: minolta dimage 7.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2560 pixels
+[JPEG] Image Width = 1920 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Jfif] Version = 1.1
+[Jfif] Resolution Units = none
+[Jfif] X Resolution = 1 dot
+[Jfif] Y Resolution = 1 dot
+
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 100
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2001:07:01 18:55:08
+[Exif SubIFD] Date/Time Digitized = 2001:07:01 18:55:08
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Shutter Speed Value = 1/127 sec
+[Exif SubIFD] Aperture Value = F4.8
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F3.4
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 21.938 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 2560 pixels
+[Exif SubIFD] Exif Image Height = 1920 pixels
+
+[Exif IFD0] Image Description = DCF 1.0
+[Exif IFD0] Make = Minolta Co., Ltd.
+[Exif IFD0] Model = DiMAGE 7
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = A1v014e
+[Exif IFD0] Date/Time = 2001:07:01 18:55:08
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Olympus Makernote] Makernote Version = 109 108 116 48
+[Olympus Makernote] Camera Settings = [156 bytes]
+[Olympus Makernote] Unknown tag (0x0010) = [12968 bytes]
+[Olympus Makernote] Unknown tag (0x0020) = [260 bytes]
+[Olympus Makernote] Compressed Image Size = -2105341207 564877062 698697708 -179290119
+[Olympus Makernote] Print Image Matching (PIM) Info = [40 bytes]
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 14172 bytes
+[Exif Thumbnail] Thumbnail Length = 12102 bytes
+[Exif Thumbnail] YCbCr Positioning = Center of pixel array
+
+[ICC Profile] Profile Size = 524
+[ICC Profile] CMM Type = Win 
+[ICC Profile] Version = 2.2.0
+[ICC Profile] Class = Display Device
+[ICC Profile] Color space = RGB 
+[ICC Profile] Profile Connection Space = XYZ 
+[ICC Profile] Profile Date/Time = Thu Aug 02 15:34:08 BST 2001
+[ICC Profile] Signature = acsp
+[ICC Profile] Primary Platform = Microsoft Corporation
+[ICC Profile] Device manufacturer = MNLT
+[ICC Profile] XYZ values = 0.9641876 1.0 0.8248749
+[ICC Profile] Tag Count = 9
+[ICC Profile] Copyright = Copyright 2001 Minolta Co.,Ltd.
+[ICC Profile] Profile Description = sRGB (Minolta Co.,Ltd.)
+[ICC Profile] Red Colorant = (0.4360962, 0.2224884, 0.013885498)
+[ICC Profile] Green Colorant = (0.38508606, 0.7168884, 0.097091675)
+[ICC Profile] Blue Colorant = (0.14309692, 0.06059265, 0.71409607)
+[ICC Profile] Red TRC = 0.0085908
+[ICC Profile] Green TRC = 0.0085908
+[ICC Profile] Blue TRC = 0.0085908
+[ICC Profile] Media White Point = (0.9504852, 1.0, 1.0890961)
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

@@ -1,0 +1,81 @@
+FILE: nikon e950.jpg
+
+[ERROR: Photoshop] Attempt to read from beyond end of underlying data source (requested index: 2668, requested count: 1670090635, max index: 5129)
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 600 pixels
+[JPEG] Image Width = 800 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Jfif] Version = 1.2
+[Jfif] Resolution Units = inch
+[Jfif] X Resolution = 72 dots
+[Jfif] Y Resolution = 72 dots
+
+[Exif SubIFD] Exposure Time = 1/77 sec
+[Exif SubIFD] F-Number = F5.5
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 80
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2001:04:06 11:51:40
+[Exif SubIFD] Date/Time Digitized = 2001:04:06 11:51:40
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.5
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 12.8 mm
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 1600 pixels
+[Exif SubIFD] Exif Image Height = 1200 pixels
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+
+[Exif IFD0] Image Description =           
+[Exif IFD0] Make = NIKON
+[Exif IFD0] Model = E950
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 300 dots per inch
+[Exif IFD0] Y Resolution = 300 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = v981-79
+[Exif IFD0] Date/Time = 2001:04:06 11:51:40
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Nikon Makernote] Makernote Unknown 1 = 08.00
+[Nikon Makernote] Quality = Unknown (12)
+[Nikon Makernote] Color Mode = Color
+[Nikon Makernote] Image Adjustment = Contrast +
+[Nikon Makernote] CCD Sensitivity = ISO80
+[Nikon Makernote] White Balance = Auto
+[Nikon Makernote] Focus = 0
+[Nikon Makernote] Makernote Unknown 2 = 
+[Nikon Makernote] Digital Zoom = No digital zoom
+[Nikon Makernote] Fisheye Converter = None
+[Nikon Makernote] Makernote Unknown 3 = [30 ints]
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 300 dots per inch
+[Exif Thumbnail] Y Resolution = 300 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 2036 bytes
+[Exif Thumbnail] Thumbnail Length = 4662 bytes
+
+[Adobe JPEG] DCT Encode Version = 1
+[Adobe JPEG] Flags 0 = 0
+[Adobe JPEG] Flags 1 = 0
+[Adobe JPEG] Color Transform = YCbCr
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

@@ -1,0 +1,56 @@
+FILE: kodak dc240.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 480 pixels
+[JPEG] Image Width = 640 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/30 sec
+[Exif SubIFD] F-Number = F4
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 1999:05:25 21:00:09
+[Exif SubIFD] Date/Time Digitized = 1999:05:25 21:00:09
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Shutter Speed Value = 1/32 sec
+[Exif SubIFD] Aperture Value = F4
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F3.7
+[Exif SubIFD] Metering Mode = Average
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash fired
+[Exif SubIFD] Focal Length = 14.0 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 1280 pixels
+[Exif SubIFD] Exif Image Height = 960 pixels
+[Exif SubIFD] Exposure Index = 140
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+
+[Exif IFD0] Make = EASTMAN KODAK COMPANY
+[Exif IFD0] Model = KODAK DC240 ZOOM DIGITAL CAMERA
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 192 dots per inch
+[Exif IFD0] Y Resolution = 192 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] YCbCr Positioning = Center of pixel array
+[Exif IFD0] Copyright = KODAK DC240 ZOOM DIGITAL CAMERA 
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 1480 bytes
+[Exif Thumbnail] Thumbnail Length = 6934 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

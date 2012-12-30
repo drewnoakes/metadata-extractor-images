@@ -1,0 +1,53 @@
+FILE: pentax optio s4i.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 60 pixels
+[JPEG] Image Width = 60 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/1000 sec
+[Exif SubIFD] F-Number = F4.3
+[Exif SubIFD] ISO Speed Ratings = 50
+[Exif SubIFD] Exif Version = 2.20
+[Exif SubIFD] Date/Time Original = 2004:08:30 17:33:34
+[Exif SubIFD] Date/Time Digitized = 2004:08:30 17:33:34
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 23183360/3981312 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.6
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] Flash = Flash did not fire, auto
+[Exif SubIFD] Focal Length = 5.8 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 60 pixels
+[Exif SubIFD] Exif Image Height = 60 pixels
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Digital Zoom Ratio = Digital zoom not used.
+[Exif SubIFD] Focal Length 35 = 35mm
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Subject Distance Range = Distant view
+
+[Exif IFD0] Make = PENTAX Corporation 
+[Exif IFD0] Model = PENTAX Optio S4i 
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Optio S4i Ver 1.01 
+[Exif IFD0] Date/Time = 2004:08:30 17:33:34
+[Exif IFD0] YCbCr Positioning = Center of pixel array
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

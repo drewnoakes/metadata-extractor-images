@@ -1,0 +1,55 @@
+FILE: sony dcr-pc110e (2).jpg
+
+[ERROR: Exif IFD0] Invalid thumbnail data specification: Attempt to read from beyond end of underlying data source (requested index: 691, requested count: 6031, max index: 6720)
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 864 pixels
+[JPEG] Image Width = 1152 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/425 sec
+[Exif SubIFD] F-Number = F4
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2001:05:01 18:22:42
+[Exif SubIFD] Date/Time Digitized = 2001:05:01 18:22:42
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F1.8
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 12.4 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 1152 pixels
+[Exif SubIFD] Exif Image Height = 864 pixels
+
+[Exif IFD0] Make = SONY
+[Exif IFD0] Model = DCR-PC110E 
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Date/Time = 2001:05:01 18:22:42
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Unknown tag (0x010f) = SONY
+[Exif Thumbnail] Unknown tag (0x0110) = DCR-PC110E 
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Unknown tag (0x0132) = 2001:05:01 18:22:42
+[Exif Thumbnail] Thumbnail Offset = 685 bytes
+[Exif Thumbnail] Thumbnail Length = 6031 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

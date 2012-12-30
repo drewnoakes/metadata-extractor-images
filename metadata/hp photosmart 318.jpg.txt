@@ -1,0 +1,52 @@
+FILE: hp photosmart 318.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 1200 pixels
+[JPEG] Image Width = 1792 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = null component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Y component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 33147/1000000 sec
+[Exif SubIFD] F-Number = F28
+[Exif SubIFD] ISO Speed Ratings = 100
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2002:05:08 17:28:03
+[Exif SubIFD] Date/Time Digitized = 2002:05:08 17:28:03
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 0.13 bits/pixel
+[Exif SubIFD] Shutter Speed Value = 1/30 sec
+[Exif SubIFD] Aperture Value = F2.8
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F8
+[Exif SubIFD] Subject Distance = 0.3 metres
+[Exif SubIFD] Metering Mode = Center weighted average
+[Exif SubIFD] Flash = Flash fired
+[Exif SubIFD] Focal Length = 6.79 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 1792 pixels
+[Exif SubIFD] Exif Image Height = 1200 pixels
+
+[Exif IFD0] Make = Hewlett-Packard
+[Exif IFD0] Model = HP PhotoSmart 318
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = V4.00
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 1012 bytes
+[Exif Thumbnail] Thumbnail Length = 3728 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

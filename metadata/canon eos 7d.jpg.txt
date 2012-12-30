@@ -1,0 +1,123 @@
+FILE: canon eos 7d.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 900 pixels
+[JPEG] Image Width = 600 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Jfif] Version = 1.1
+[Jfif] Resolution Units = none
+[Jfif] X Resolution = 1 dot
+[Jfif] Y Resolution = 1 dot
+
+[Exif SubIFD] Exposure Time = 1/125 sec
+[Exif SubIFD] F-Number = F11
+[Exif SubIFD] Exposure Program = Manual control
+[Exif SubIFD] ISO Speed Ratings = 200
+[Exif SubIFD] Exif Version = 2.21
+[Exif SubIFD] Date/Time Original = 2010:12:12 12:41:35
+[Exif SubIFD] Date/Time Digitized = 2010:12:12 12:41:35
+[Exif SubIFD] Shutter Speed Value = 1/124 sec
+[Exif SubIFD] Aperture Value = F11
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.8
+[Exif SubIFD] Subject Distance = 2.25 metres
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] Flash = Flash did not fire, auto
+[Exif SubIFD] Focal Length = 57.0 mm
+[Exif SubIFD] Sub-Sec Time Original = 00
+[Exif SubIFD] Sub-Sec Time Digitized = 00
+[Exif SubIFD] Focal Plane X Resolution = 907/5184000 inches
+[Exif SubIFD] Focal Plane Y Resolution = 119/691200 inches
+[Exif SubIFD] Focal Plane Resolution Unit = Inches
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Manual exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Scene Capture Type = Standard
+
+[Exif IFD0] Image Description = mit blauem Kleid
+[Exif IFD0] Make = Canon
+[Exif IFD0] Model = Canon EOS 7D
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Adobe Photoshop Lightroom
+[Exif IFD0] Date/Time = 2011:01:10 21:09:00
+[Exif IFD0] Artist = Peter Bemmann
+[Exif IFD0] Copyright = (C) Peter Bemmann
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 786 bytes
+[Exif Thumbnail] Thumbnail Length = 10286 bytes
+
+[Xmp] Lens Information = 24/1 70/1 0/0 0/0
+[Xmp] Lens = EF24-70mm f/2.8L USM
+[Xmp] Serial Number = 380319450
+[Xmp] Firmware = 1.2.1
+[Xmp] Make = Canon
+[Xmp] Model = Canon EOS 7D
+[Xmp] Exposure Time = 1/125 sec
+[Xmp] Exposure Program = Manual control
+[Xmp] Aperture Value = F11
+[Xmp] F-Number = F11
+[Xmp] Focal Length = 57.0 mm
+[Xmp] Shutter Speed Value = 1/124 sec
+[Xmp] Date/Time Original = Sun Dec 12 11:41:35 GMT 2010
+[Xmp] Date/Time Digitized = Sun Dec 12 11:41:35 GMT 2010
+[Xmp] Rating = 3.0
+
+[ICC Profile] Profile Size = 560
+[ICC Profile] CMM Type = ADBE
+[ICC Profile] Version = 2.1.0
+[ICC Profile] Class = Display Device
+[ICC Profile] Color space = RGB 
+[ICC Profile] Profile Connection Space = XYZ 
+[ICC Profile] Profile Date/Time = Sat Jul 03 01:00:00 BST 1999
+[ICC Profile] Signature = acsp
+[ICC Profile] Primary Platform = Apple Computer, Inc.
+[ICC Profile] Device manufacturer = none
+[ICC Profile] XYZ values = 0.9642029 1.0 0.8249054
+[ICC Profile] Tag Count = 10
+[ICC Profile] Copyright = Copyright 1999 Adobe Systems Incorporated
+[ICC Profile] Profile Description = Adobe RGB (1998)
+[ICC Profile] Media White Point = (0.9504547, 1.0, 1.0890503)
+[ICC Profile] Media Black Point = (0.0, 0.0, 0.0)
+[ICC Profile] Red TRC = 0.0085908
+[ICC Profile] Green TRC = 0.0085908
+[ICC Profile] Blue TRC = 0.0085908
+[ICC Profile] Red Colorant = (0.6097412, 0.31111145, 0.019470215)
+[ICC Profile] Green Colorant = (0.20527649, 0.6256714, 0.06086731)
+[ICC Profile] Blue Colorant = (0.14918518, 0.06321716, 0.7445679)
+
+[Photoshop] Resolution Info = 72.0x72.0 DPI
+[Photoshop] IPTC-NAA Record = 165 bytes binary data
+[Photoshop] Copyright Flag = Yes
+[Photoshop] URL = http://www.meine-ansichten.de/verschiedenes/copyright.html
+[Photoshop] Thumbnail Data = JpegRGB, 171x256, Decomp 132096 bytes, 1572865 bpp, 10286 bytes
+[Photoshop] Caption Digest = -121 125 71 -116 68 -17 11 -80 119 -24 -119 -57 -21 79 114 122
+
+[Iptc] Application Record Version = 2
+[Iptc] By-line = Peter Bemmann
+[Iptc] By-line Title = Hobbyfotograf
+[Iptc] City = Mainz
+[Iptc] Sub-location = Fotostudio HS
+[Iptc] Province/State = Rheinland-Pfalz
+[Iptc] Country/Primary Location Name = Deutschland
+[Iptc] Headline = Titel - Kyra
+[Iptc] Copyright Notice = � Peter Bemmann
+[Iptc] Caption/Abstract = mit blauem Kleid
+
+[Adobe JPEG] DCT Encode Version = 1
+[Adobe JPEG] Flags 0 = 64
+[Adobe JPEG] Flags 1 = 0
+[Adobe JPEG] Color Transform = YCbCr
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

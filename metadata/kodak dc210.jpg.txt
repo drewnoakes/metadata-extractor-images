@@ -1,0 +1,55 @@
+FILE: kodak dc210.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 480 pixels
+[JPEG] Image Width = 640 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JpegComment] JPEG Comment = Lovely smoke effect here, of which I'm secretly very proud.
+
+[Exif SubIFD] Exposure Time = 1/30 sec
+[Exif SubIFD] F-Number = F4
+[Exif SubIFD] Exif Version = 1.10
+[Exif SubIFD] Date/Time Original = 2000:10:26 16:46:51
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 0 bits/pixel
+[Exif SubIFD] Shutter Speed Value = 1/32 sec
+[Exif SubIFD] Aperture Value = F4
+[Exif SubIFD] Brightness Value = 1.5
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F4
+[Exif SubIFD] Subject Distance = � metres
+[Exif SubIFD] Metering Mode = Center weighted average
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash fired
+[Exif SubIFD] Focal Length = 4.4 mm
+
+[Exif IFD0] Image Description = 
+[Exif IFD0] Make = Eastman Kodak Company
+[Exif IFD0] Model = DC210 Zoom (V05.00)
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 216 dots per inch
+[Exif IFD0] Y Resolution = 216 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] YCbCr Positioning = Center of pixel array
+[Exif IFD0] Copyright = 
+
+[Exif Thumbnail] Thumbnail Image Width = 96 pixels
+[Exif Thumbnail] Thumbnail Image Height = 72 pixels
+[Exif Thumbnail] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif Thumbnail] Thumbnail Compression = Uncompressed
+[Exif Thumbnail] Photometric Interpretation = RGB
+[Exif Thumbnail] Strip Offsets = 928
+[Exif Thumbnail] Samples Per Pixel = 3 samples/pixel
+[Exif Thumbnail] Rows Per Strip = 72 rows/strip
+[Exif Thumbnail] Strip Byte Counts = 20736 bytes
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

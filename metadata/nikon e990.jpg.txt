@@ -1,0 +1,74 @@
+FILE: nikon e990.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 1536 pixels
+[JPEG] Image Width = 2048 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 10/3441 sec
+[Exif SubIFD] F-Number = F7
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 100
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2000:12:30 10:18:16
+[Exif SubIFD] Date/Time Digitized = 2000:12:30 10:18:16
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 3 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F3.4
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 8.2 mm
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 2048 pixels
+[Exif SubIFD] Exif Image Height = 1536 pixels
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+
+[Exif IFD0] Image Description =           
+[Exif IFD0] Make = NIKON
+[Exif IFD0] Model = E990
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 300 dots per inch
+[Exif IFD0] Y Resolution = 300 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = E990v1.1
+[Exif IFD0] Date/Time = 2000:12:30 10:18:16
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Nikon Makernote] Firmware Version = 1.00
+[Nikon Makernote] ISO = Unknown (0 0)
+[Nikon Makernote] Color Mode = COLOR
+[Nikon Makernote] Quality & File Format = FINE  
+[Nikon Makernote] White Balance = AUTO        
+[Nikon Makernote] Sharpening = AUTO  
+[Nikon Makernote] AF Type = AF-C  
+[Nikon Makernote] Flash Sync Mode = NORMAL 
+[Nikon Makernote] Unknown tag (0x000a) = 4416/500
+[Nikon Makernote] ISO Mode = AUTO  
+[Nikon Makernote] Image Adjustment = AUTO         
+[Nikon Makernote] Adapter = OFF         
+[Nikon Makernote] Manual Focus Distance = 0
+[Nikon Makernote] Digital Zoom = No digital zoom
+[Nikon Makernote] AF Focus Position = Centre
+[Nikon Makernote] Data Dump = [174 bytes]
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 300 dots per inch
+[Exif Thumbnail] Y Resolution = 300 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 4084 bytes
+[Exif Thumbnail] Thumbnail Length = 8680 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

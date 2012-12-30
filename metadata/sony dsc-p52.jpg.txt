@@ -1,0 +1,75 @@
+FILE: sony dsc-p52.jpg
+
+[ERROR: Sony Makernote] Invalid TIFF tag format code: 0
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 1224 pixels
+[JPEG] Image Width = 1632 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/40 sec
+[Exif SubIFD] F-Number = F4
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 250
+[Exif SubIFD] Exif Version = 2.20
+[Exif SubIFD] Date/Time Original = 2003:07:07 15:44:28
+[Exif SubIFD] Date/Time Digitized = 2003:07:07 15:44:28
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F3.8
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash fired, return not detected, auto, red-eye reduction
+[Exif SubIFD] Focal Length = 6.3 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 1632 pixels
+[Exif SubIFD] Exif Image Height = 1224 pixels
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Scene Capture Type = Standard
+
+[Exif IFD0] Image Description =                                
+[Exif IFD0] Make = SONY
+[Exif IFD0] Model = DSC-P52
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Date/Time = 2003:07:07 15:44:28
+[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0] Unknown tag (0xc4a5) = [28 bytes]
+
+[Sony Makernote] Unknown tag (0x9001) = [148 bytes]
+[Sony Makernote] Unknown tag (0x9002) = [200 bytes]
+[Sony Makernote] Unknown tag (0x9003) = [200 bytes]
+[Sony Makernote] Unknown tag (0x9004) = [26 bytes]
+[Sony Makernote] Unknown tag (0x9005) = [120 bytes]
+[Sony Makernote] Unknown tag (0x9006) = [252 bytes]
+[Sony Makernote] Unknown tag (0x9007) = [200 bytes]
+[Sony Makernote] Unknown tag (0x9008) = [200 bytes]
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Unknown tag (0x010f) = SONY
+[Exif Thumbnail] Unknown tag (0x0110) = DSC-P52
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Unknown tag (0x0132) = 2003:07:07 15:44:28
+[Exif Thumbnail] Thumbnail Offset = 2385 bytes
+[Exif Thumbnail] Thumbnail Length = 3523 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

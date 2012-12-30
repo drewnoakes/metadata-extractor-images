@@ -1,0 +1,126 @@
+FILE: nikon d90.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2848 pixels
+[JPEG] Image Width = 4288 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 0.1 sec
+[Exif SubIFD] F-Number = F3.2
+[Exif SubIFD] Exposure Program = Aperture priority
+[Exif SubIFD] ISO Speed Ratings = 250
+[Exif SubIFD] Exif Version = 2.21
+[Exif SubIFD] Date/Time Original = 2011:04:25 01:55:30
+[Exif SubIFD] Date/Time Digitized = 2011:04:25 01:55:30
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.8
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 24.0 mm
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] Sub-Sec Time = 00
+[Exif SubIFD] Sub-Sec Time Original = 00
+[Exif SubIFD] Sub-Sec Time Digitized = 00
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 4288 pixels
+[Exif SubIFD] Exif Image Height = 2848 pixels
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] CFA Pattern = 0 2 0 2 1 2 0 1
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Digital Zoom Ratio = 1
+[Exif SubIFD] Focal Length 35 = 36mm
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Gain Control = None
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Subject Distance Range = Unknown
+
+[Exif IFD0] Make = NIKON CORPORATION
+[Exif IFD0] Model = NIKON D90
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 300 dots per inch
+[Exif IFD0] Y Resolution = 300 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Ver.1.00 
+[Exif IFD0] Date/Time = 2011:04:25 01:55:30
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Nikon Makernote] Firmware Version = 2.10
+[Nikon Makernote] ISO = ISO 250
+[Nikon Makernote] Quality & File Format = NORMAL 
+[Nikon Makernote] White Balance = AUTO        
+[Nikon Makernote] AF Type = AF-A  
+[Nikon Makernote] Flash Sync Mode = NORMAL      
+[Nikon Makernote] Auto Flash Mode =                    
+[Nikon Makernote] White Balance Fine = 0 0
+[Nikon Makernote] White Balance RB Coefficients = 340/256 456/256 256/256 256/256
+[Nikon Makernote] Program Shift = 0 EV
+[Nikon Makernote] Exposure Difference = 0 EV
+[Nikon Makernote] Preview IFD = 9210
+[Nikon Makernote] Auto Flash Compensation = 0 EV
+[Nikon Makernote] ISO = 0 250
+[Nikon Makernote] Image Boundary = 0 0 4288 2848
+[Nikon Makernote] Flash Exposure Compensation = 0 EV
+[Nikon Makernote] Flash Bracket Compensation = 0 EV
+[Nikon Makernote] AE Bracket Compensation = 0
+[Nikon Makernote] Crop High Speed = 0 4352 2868 4352 2868 0 0
+[Nikon Makernote] Exposure Tuning = 0 EV
+[Nikon Makernote] Camera Serial Number = 2188172
+[Nikon Makernote] Color Space = sRGB
+[Nikon Makernote] VR Info = 48 49 48 48 2 2 0 0
+[Nikon Makernote] Active D-Lighting = Auto
+[Nikon Makernote] Picture Control = [58 bytes]
+[Nikon Makernote] World Time = 2 28 0 0
+[Nikon Makernote] ISO Info = 76 1 12 0 0 0 76 1 12 0 0 0 0 0
+[Nikon Makernote] Unknown 41 = [94 bytes]
+[Nikon Makernote] Lens Type = AF, D
+[Nikon Makernote] Lens = 24-24mm f/2.8-2.8
+[Nikon Makernote] Flash Used = Flash Not Used
+[Nikon Makernote] Shooting Mode = Single Frame
+[Nikon Makernote] Unknown 20 = 2
+[Nikon Makernote] Lens Stops = 6 EV
+[Nikon Makernote] Shot Info = [6600 bytes]
+[Nikon Makernote] Noise Reduction = OFF 
+[Nikon Makernote] Color Balance = [1302 bytes]
+[Nikon Makernote] Lens Data = [33 bytes]
+[Nikon Makernote] Retouch History = 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote] Image Data Size = 3130035
+[Nikon Makernote] Unknown 27 = 0
+[Nikon Makernote] Exposure Sequence Number = 4044
+[Nikon Makernote] Flash Info = [22 bytes]
+[Nikon Makernote] Digital Vari Program =                
+[Nikon Makernote] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote] High ISO Noise Reduction = Off
+[Nikon Makernote] Power Up Time = null
+[Nikon Makernote] AF Info 2 = [30 bytes]
+[Nikon Makernote] File Info = [172 bytes]
+[Nikon Makernote] Unknown 49 = 48 49 48 48 -1 0
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[GPS] GPS Version ID = 2.200
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 300 dots per inch
+[Exif Thumbnail] Y Resolution = 300 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 33720 bytes
+[Exif Thumbnail] Thumbnail Length = 9056 bytes
+[Exif Thumbnail] YCbCr Positioning = Datum point
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

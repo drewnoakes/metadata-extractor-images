@@ -1,0 +1,117 @@
+FILE: olympus c720uz.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 1488 pixels
+[JPEG] Image Width = 1984 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 2, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/800 sec
+[Exif SubIFD] F-Number = F3.2
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 100
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2004:04:25 17:10:14
+[Exif SubIFD] Date/Time Digitized = 2004:04:25 17:10:14
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.8
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 10.37 mm
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 1984 pixels
+[Exif SubIFD] Exif Image Height = 1488 pixels
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+
+[Exif IFD0] Image Description = OLYMPUS DIGITAL CAMERA         
+[Exif IFD0] Make = OLYMPUS OPTICAL CO.,LTD
+[Exif IFD0] Model = C720UZ          
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 144 dots per inch
+[Exif IFD0] Y Resolution = 144 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = 34-1036                        
+[Exif IFD0] Date/Time = 2004:04:25 17:10:14
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Olympus Makernote] Special Mode = Normal picture taking mode - Unknown sequence number - 
+[Olympus Makernote] JPEG Quality = HQ
+[Olympus Makernote] Macro = Normal (no macro)
+[Olympus Makernote] Makernote Unknown 1 = 0
+[Olympus Makernote] DigiZoom Ratio = Unknown (1)
+[Olympus Makernote] Makernote Unknown 2 = 6.91
+[Olympus Makernote] Makernote Unknown 3 = -40 -62 -59 -33 -43 -34
+[Olympus Makernote] Firmware Version = D4034
+[Olympus Makernote] Camera Id = [32 bytes]
+[Olympus Makernote] Unknown tag (0x1000) = 2491/256
+[Olympus Makernote] Unknown tag (0x1001) = 1195/256
+[Olympus Makernote] Unknown tag (0x1002) = 428/128
+[Olympus Makernote] Unknown tag (0x1003) = 1076/128
+[Olympus Makernote] Flash Mode = 3
+[Olympus Makernote] Unknown tag (0x1005) = 0 0
+[Olympus Makernote] Bracket = 0
+[Olympus Makernote] Unknown tag (0x1009) = 0
+[Olympus Makernote] Unknown tag (0x100a) = 0
+[Olympus Makernote] Focus Mode = 0
+[Olympus Makernote] Focus Distance = 0
+[Olympus Makernote] Zoom = 11
+[Olympus Makernote] Macro Focus = 255
+[Olympus Makernote] Sharpness = 0
+[Olympus Makernote] Unknown tag (0x1010) = 0
+[Olympus Makernote] Colour Matrix = 342 65428 16 65494 366 65464 65528 65424 374
+[Olympus Makernote] Black Level = 18 17 17 16
+[Olympus Makernote] Unknown tag (0x1013) = 0
+[Olympus Makernote] Unknown tag (0x1014) = 0
+[Olympus Makernote] White Balance = 1 0
+[Olympus Makernote] Unknown tag (0x1016) = 0
+[Olympus Makernote] Red Bias = 362 64
+[Olympus Makernote] Blue Bias = 316 64
+[Olympus Makernote] Serial Number = 108479926                      
+[Olympus Makernote] Unknown tag (0x101b) = 0
+[Olympus Makernote] Unknown tag (0x101c) = 0
+[Olympus Makernote] Unknown tag (0x101d) = 0
+[Olympus Makernote] Unknown tag (0x101e) = 0
+[Olympus Makernote] Unknown tag (0x101f) = 0
+[Olympus Makernote] Unknown tag (0x1020) = 0
+[Olympus Makernote] Unknown tag (0x1021) = 0
+[Olympus Makernote] Unknown tag (0x1022) = 0
+[Olympus Makernote] Flash Bias = 0
+[Olympus Makernote] Unknown tag (0x1024) = 0
+[Olympus Makernote] Unknown tag (0x1025) = 0
+[Olympus Makernote] Unknown tag (0x1026) = 0
+[Olympus Makernote] Unknown tag (0x1027) = 0
+[Olympus Makernote] Unknown tag (0x1028) = 0
+[Olympus Makernote] Contrast = 1
+[Olympus Makernote] Sharpness Factor = 448
+[Olympus Makernote] Colour Control = 24 1024 768 1024 16 256
+[Olympus Makernote] Valid Bits = 10 0
+[Olympus Makernote] Coring Filter = 3072
+[Olympus Makernote] Final Width = 1984
+[Olympus Makernote] Final Height = 1488
+[Olympus Makernote] Unknown tag (0x1030) = 0
+[Olympus Makernote] Unknown tag (0x1031) = 0 0 0 0 0 0 0 0
+[Olympus Makernote] Unknown tag (0x1033) = [720 ints]
+[Olympus Makernote] Unknown tag (0x1038) = 0
+[Olympus Makernote] Unknown tag (0x103b) = 265
+[Olympus Makernote] Unknown tag (0x103c) = 338
+[Olympus Makernote] Unknown tag (0x103d) = 2247/256
+[Olympus Makernote] Unknown tag (0x103e) = 1995/256
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 6534 bytes
+[Exif Thumbnail] Thumbnail Length = 6124 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

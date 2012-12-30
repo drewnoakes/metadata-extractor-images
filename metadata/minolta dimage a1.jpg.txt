@@ -1,0 +1,83 @@
+FILE: minolta dimage a1.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 1920 pixels
+[JPEG] Image Width = 2560 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/80 sec
+[Exif SubIFD] F-Number = F3.5
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 100
+[Exif SubIFD] Exif Version = 2.20
+[Exif SubIFD] Date/Time Original = 2003:09:13 16:10:42
+[Exif SubIFD] Date/Time Digitized = 2003:09:13 16:10:42
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Brightness Value = 5
+[Exif SubIFD] Exposure Bias Value = 0.3 EV
+[Exif SubIFD] Max Aperture Value = F2.8
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire, auto
+[Exif SubIFD] Focal Length = 12.48 mm
+[Exif SubIFD] Subject Location = 1280 960 2560 1920
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 2560 pixels
+[Exif SubIFD] Exif Image Height = 1920 pixels
+[Exif SubIFD] Custom Rendered = Custom process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Digital Zoom Ratio = Digital zoom not used.
+[Exif SubIFD] Focal Length 35 = 48mm
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Gain Control = None
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Subject Distance Range = Distant view
+
+[Exif IFD0] Image Description = Minolta DSC
+[Exif IFD0] Make = Minolta Co., Ltd.
+[Exif IFD0] Model = DiMAGE A1
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Ver.1.00u
+[Exif IFD0] Date/Time = 2003:09:13 16:10:42
+[Exif IFD0] YCbCr Positioning = Center of pixel array
+[Exif IFD0] Unknown tag (0xc4a5) = [118 bytes]
+
+[Olympus Makernote] Makernote Version = 77 76 84 48
+[Olympus Makernote] Camera Settings = [284 bytes]
+[Olympus Makernote] Unknown tag (0x0010) = [24576 bytes]
+[Olympus Makernote] Unknown tag (0x0018) = 0 0 0 0
+[Olympus Makernote] Unknown tag (0x0020) = [4088 bytes]
+[Olympus Makernote] Compressed Image Size = 2210924
+[Olympus Makernote] Thumbnail Offset = 2246055
+[Olympus Makernote] Thumbnail Length = 59817
+[Olympus Makernote] Unknown tag (0x0100) = 0
+[Olympus Makernote] Colour Mode = 0
+[Olympus Makernote] Image Quality = 2
+[Olympus Makernote] Unknown tag (0x0104) = 0
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 30198 bytes
+[Exif Thumbnail] Thumbnail Length = 3725 bytes
+[Exif Thumbnail] YCbCr Positioning = Center of pixel array
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

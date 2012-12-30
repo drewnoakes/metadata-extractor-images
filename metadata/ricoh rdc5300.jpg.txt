@@ -1,0 +1,52 @@
+FILE: ricoh rdc5300.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 600 pixels
+[JPEG] Image Width = 896 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2000:05:31 21:50:40
+[Exif SubIFD] Date/Time Digitized = 2000:05:31 21:50:40
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 3 bits/pixel
+[Exif SubIFD] Shutter Speed Value = 1/90 sec
+[Exif SubIFD] Aperture Value = F4
+[Exif SubIFD] Brightness Value = -2
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F3.9
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash fired
+[Exif SubIFD] Focal Length = 13.3 mm
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 1792 pixels
+[Exif SubIFD] Exif Image Height = 1200 pixels
+[Exif SubIFD] Related Sound File =             
+
+[Exif IFD0] Make = RICOH      
+[Exif IFD0] Model = RDC-5300       
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0] Copyright = (C) by RDC-5300 User     
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 1061 bytes
+[Exif Thumbnail] Thumbnail Length = 5046 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

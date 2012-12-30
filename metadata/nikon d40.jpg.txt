@@ -1,0 +1,132 @@
+FILE: nikon d40.jpg
+
+[ERROR: Iptc] Too few bytes remain for a valid IPTC tag
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2000 pixels
+[JPEG] Image Width = 3008 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/160 sec
+[Exif SubIFD] F-Number = F6.3
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 200
+[Exif SubIFD] Exif Version = 2.21
+[Exif SubIFD] Date/Time Original = 2006:12:16 12:42:05
+[Exif SubIFD] Date/Time Digitized = 2006:12:16 12:42:04
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F4
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 26.0 mm
+[Exif SubIFD] User Comment = dpreview.com
+[Exif SubIFD] Sub-Sec Time = 90
+[Exif SubIFD] Sub-Sec Time Original = 90
+[Exif SubIFD] Sub-Sec Time Digitized = 90
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 3008 pixels
+[Exif SubIFD] Exif Image Height = 2000 pixels
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] CFA Pattern = 0 2 0 2 2 1 1 0
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Digital Zoom Ratio = 1
+[Exif SubIFD] Focal Length 35 = 39mm
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Gain Control = None
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Subject Distance Range = Unknown
+[Exif SubIFD] Unknown tag (0xea1c) = [2060 bytes]
+[Exif SubIFD] Unknown tag (0xea1d) = 4122
+
+[Exif IFD0] Make = NIKON CORPORATION
+[Exif IFD0] Model = NIKON D40
+[Exif IFD0] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0] X Resolution = 300 dots per inch
+[Exif IFD0] Y Resolution = 300 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Ver.1.00 
+[Exif IFD0] Date/Time = 2006:12:16 12:42:05
+[Exif IFD0] Artist = Phil Askey
+[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0] Windows XP Author = Phil Askey
+[Exif IFD0] Unknown tag (0xea1c) = [2060 bytes]
+
+[Nikon Makernote] Firmware Version = 2.10
+[Nikon Makernote] ISO = ISO 200
+[Nikon Makernote] Color Mode = COLOR
+[Nikon Makernote] Quality & File Format = FINE   
+[Nikon Makernote] White Balance = AUTO        
+[Nikon Makernote] Sharpening = AUTO  
+[Nikon Makernote] AF Type = AF-A  
+[Nikon Makernote] Flash Sync Mode = NORMAL      
+[Nikon Makernote] Auto Flash Mode =                    
+[Nikon Makernote] White Balance Fine = 0
+[Nikon Makernote] White Balance RB Coefficients = 578/256 333/256 256/256 256/256
+[Nikon Makernote] Program Shift = 0 EV
+[Nikon Makernote] Exposure Difference = 0 EV
+[Nikon Makernote] Preview IFD = 2650
+[Nikon Makernote] Auto Flash Compensation = 0 EV
+[Nikon Makernote] ISO = 0 200
+[Nikon Makernote] Image Boundary = 0 0 3008 2000
+[Nikon Makernote] Flash Exposure Compensation = 0 EV
+[Nikon Makernote] Crop High Speed = 0 3040 2014 3040 2014 0 0
+[Nikon Makernote] Camera Serial Number = 6006078
+[Nikon Makernote] Color Space = sRGB
+[Nikon Makernote] VR Info = 48 49 48 48 2 0 0 0
+[Nikon Makernote] Tone Compensation = AUTO    
+[Nikon Makernote] Lens Type = AF, D, G
+[Nikon Makernote] Lens = 18-55mm f/3.5-5.6
+[Nikon Makernote] Flash Used = Flash Not Used
+[Nikon Makernote] AF Focus Position = Unknown (0 0 0 1)
+[Nikon Makernote] Shooting Mode = Single Frame
+[Nikon Makernote] Unknown 20 = 0
+[Nikon Makernote] Lens Stops = 5.33 EV
+[Nikon Makernote] Colour Mode = MODE3a  
+[Nikon Makernote] Light source = NATURAL    
+[Nikon Makernote] Shot Info = [1113 bytes]
+[Nikon Makernote] Camera Hue Adjustment = 0 degrees
+[Nikon Makernote] Noise Reduction = OFF 
+[Nikon Makernote] Color Balance = [556 bytes]
+[Nikon Makernote] Lens Data = [32 bytes]
+[Nikon Makernote] Sensor Pixel Size = 605/100 605/100
+[Nikon Makernote] Retouch History = 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote] Image Data Size = 2961062
+[Nikon Makernote] Unknown 27 = 0
+[Nikon Makernote] Exposure Sequence Number = 1204
+[Nikon Makernote] Flash Info = [21 bytes]
+[Nikon Makernote] Image Optimisation = NORMAL         
+[Nikon Makernote] Saturation = AUTO           
+[Nikon Makernote] Digital Vari Program =                
+[Nikon Makernote] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote] High ISO Noise Reduction = Off
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 1/96 dots per inch
+[Exif Thumbnail] Y Resolution = 1/96 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 36268 bytes
+[Exif Thumbnail] Thumbnail Length = 6833 bytes
+
+[Photoshop] IPTC-NAA Record = 21 bytes binary data
+
+[Iptc] By-line = Phil Askey
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

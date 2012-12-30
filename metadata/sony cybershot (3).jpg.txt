@@ -1,0 +1,71 @@
+FILE: sony cybershot (3).jpg
+
+[ERROR: Photoshop] Attempt to read from beyond end of underlying data source (requested index: 2668, requested count: 402288298, max index: 4585)
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 450 pixels
+[JPEG] Image Width = 311 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Jfif] Version = 1.2
+[Jfif] Resolution Units = inch
+[Jfif] X Resolution = 72 dots
+[Jfif] Y Resolution = 72 dots
+
+[Exif SubIFD] Exposure Time = 1/90 sec
+[Exif SubIFD] F-Number = F2
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 141
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2001:11:27 18:33:44
+[Exif SubIFD] Date/Time Digitized = 2001:11:27 18:33:44
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2
+[Exif SubIFD] Metering Mode = Center weighted average
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash fired
+[Exif SubIFD] Focal Length = 9.3 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 640 pixels
+[Exif SubIFD] Exif Image Height = 480 pixels
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+
+[Exif IFD0] Image Description =                                
+[Exif IFD0] Make = SONY
+[Exif IFD0] Model = CYBERSHOT
+[Exif IFD0] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Date/Time = 2001:11:27 18:33:44
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Unknown tag (0x010f) = SONY
+[Exif Thumbnail] Unknown tag (0x0110) = CYBERSHOT
+[Exif Thumbnail] Orientation = Right side, top (Rotate 90 CW)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Unknown tag (0x0132) = 2001:11:27 18:33:44
+[Exif Thumbnail] Thumbnail Offset = 797 bytes
+[Exif Thumbnail] Thumbnail Length = 3448 bytes
+
+[Adobe JPEG] DCT Encode Version = 1
+[Adobe JPEG] Flags 0 = 128
+[Adobe JPEG] Flags 1 = 0
+[Adobe JPEG] Color Transform = YCbCr
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

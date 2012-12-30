@@ -1,0 +1,97 @@
+FILE: casio ex-s1.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 480 pixels
+[JPEG] Image Width = 640 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/30 sec
+[Exif SubIFD] F-Number = F2.5
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] Exif Version = 2.20
+[Exif SubIFD] Date/Time Original = 2002:07:13 00:07:18
+[Exif SubIFD] Date/Time Digitized = 2002:07:13 00:07:18
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 143360/307200 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.4
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash fired, auto
+[Exif SubIFD] Focal Length = 5.6 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 640 pixels
+[Exif SubIFD] Exif Image Height = 480 pixels
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Digital Zoom Ratio = Digital zoom not used.
+[Exif SubIFD] Focal Length 35 = 37mm
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Gain Control = Low gain up
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = None
+
+[Exif IFD0] Make = CASIO COMPUTER CO.,LTD.
+[Exif IFD0] Model = EX-S1  
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = 1.00                 
+[Exif IFD0] Date/Time = 2002:07:13 00:07:18
+[Exif IFD0] YCbCr Positioning = Center of pixel array
+[Exif IFD0] Unknown tag (0xc4a5) = [40 bytes]
+
+[Casio Makernote] Thumbnail Dimensions = 320 x 240 pixels
+[Casio Makernote] Thumbnail Size = 30518 bytes
+[Casio Makernote] Thumbnail Offset = 1224
+[Casio Makernote] Casio Preview Thumbnail = <30518 bytes of image data>
+[Casio Makernote] Unknown tag (0x2001) = 0205
+[Casio Makernote] Unknown tag (0x2002) = 
+[Casio Makernote] Unknown tag (0x2003) = 0 0 0 0 0 0 0 0
+[Casio Makernote] White Balance Bias = 132 76
+[Casio Makernote] White Balance = Flash
+[Casio Makernote] Unknown tag (0x2013) = 2
+[Casio Makernote] Unknown tag (0x2021) = 65535 65535 65535 65535
+[Casio Makernote] Object Distance = 536870912 mm
+[Casio Makernote] Unknown tag (0x2023) = 0
+[Casio Makernote] Unknown tag (0x2031) = 0 3
+[Casio Makernote] Unknown tag (0x2032) = 0 100
+[Casio Makernote] Unknown tag (0x2033) = 1
+[Casio Makernote] Flash Distance = Unknown (1000)
+[Casio Makernote] Record Mode = Normal
+[Casio Makernote] Self Timer = Off
+[Casio Makernote] Quality = Unknown (2)
+[Casio Makernote] Focus Mode = Fixation
+[Casio Makernote] Unknown tag (0x3005) = 0 0
+[Casio Makernote] Time Zone = 
+[Casio Makernote] BestShot Mode = Unknown (0)
+[Casio Makernote] Unknown tag (0x3011) = 0 0
+[Casio Makernote] Unknown tag (0x3012) = 0 0
+[Casio Makernote] Unknown tag (0x3013) = 0 0
+[Casio Makernote] CCD ISO Sensitivity = Off
+[Casio Makernote] Colour Mode = Off
+[Casio Makernote] Enhancement = Off
+[Casio Makernote] Filter = Off
+[Casio Makernote] Unknown tag (0x3018) = 0
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 31866 bytes
+[Exif Thumbnail] Thumbnail Length = 6880 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

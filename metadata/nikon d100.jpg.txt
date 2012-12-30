@@ -1,0 +1,104 @@
+FILE: nikon d100.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2000 pixels
+[JPEG] Image Width = 3008 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/640 sec
+[Exif SubIFD] F-Number = F6.3
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] Exif Version = 2.20
+[Exif SubIFD] Date/Time Original = 2004:01:02 14:26:41
+[Exif SubIFD] Date/Time Digitized = 2004:01:02 14:26:41
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F5.7
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Flash
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 130.0 mm
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] Sub-Sec Time = 10
+[Exif SubIFD] Sub-Sec Time Original = 10
+[Exif SubIFD] Sub-Sec Time Digitized = 10
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 3008 pixels
+[Exif SubIFD] Exif Image Height = 2000 pixels
+[Exif SubIFD] Related Sound File =             
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] CFA Pattern = 0 2 0 2 1 0 2 1
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Manual white balance
+[Exif SubIFD] Digital Zoom Ratio = 1
+[Exif SubIFD] Focal Length 35 = 195mm
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Gain Control = None
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = Low
+[Exif SubIFD] Subject Distance Range = Unknown
+
+[Exif IFD0] Image Description =                                 
+[Exif IFD0] Make = NIKON CORPORATION
+[Exif IFD0] Model = NIKON D100 
+[Exif IFD0] X Resolution = 300 dots per inch
+[Exif IFD0] Y Resolution = 300 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Ver.2.00 
+[Exif IFD0] Date/Time = 2004:01:02 14:26:41
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Nikon Makernote] Firmware Version = 2.00
+[Nikon Makernote] ISO = ISO 200
+[Nikon Makernote] Quality & File Format = FINE   
+[Nikon Makernote] White Balance = CLOUDY      
+[Nikon Makernote] Sharpening = NONE  
+[Nikon Makernote] AF Type = MANUAL
+[Nikon Makernote] Flash Sync Mode = NORMAL      
+[Nikon Makernote] Auto Flash Mode =         
+[Nikon Makernote] White Balance Fine = 0
+[Nikon Makernote] Program Shift = 0 EV
+[Nikon Makernote] Exposure Difference = 0 EV
+[Nikon Makernote] Preview IFD = 914
+[Nikon Makernote] Auto Flash Compensation = 0 EV
+[Nikon Makernote] ISO = 0 200
+[Nikon Makernote] Tone Compensation = AUTO    
+[Nikon Makernote] Lens Type = AF, D
+[Nikon Makernote] Lens = 28-300mm f/3.5-6.3
+[Nikon Makernote] Flash Used = Flash Not Used
+[Nikon Makernote] AF Focus Position = Centre
+[Nikon Makernote] Shooting Mode = Single Frame
+[Nikon Makernote] Unknown 20 = 0
+[Nikon Makernote] Lens Stops = 5.42 EV
+[Nikon Makernote] Colour Mode = Mode I (sRGB)
+[Nikon Makernote] Light source = NATURAL    
+[Nikon Makernote] Shot Info = [202 bytes]
+[Nikon Makernote] Camera Hue Adjustment = 0 degrees
+[Nikon Makernote] Noise Reduction = OFF 
+[Nikon Makernote] Color Balance = [156 bytes]
+[Nikon Makernote] Lens Data = [20 bytes]
+[Nikon Makernote] Sensor Pixel Size = 78/10 78/10
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 300 dots per inch
+[Exif Thumbnail] Y Resolution = 300 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 24284 bytes
+[Exif Thumbnail] Thumbnail Length = 10339 bytes
+[Exif Thumbnail] YCbCr Positioning = Datum point
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

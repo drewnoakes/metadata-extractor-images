@@ -1,0 +1,6 @@
+FILE: canon eos 10d.crw
+
+[ERROR: Exif IFD0] Unexpected TIFF marker after byte order identifier: 0x1a
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

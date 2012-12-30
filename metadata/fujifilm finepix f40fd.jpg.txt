@@ -1,0 +1,101 @@
+FILE: fujifilm finepix f40fd.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2472 pixels
+[JPEG] Image Width = 3296 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 2, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/300 sec
+[Exif SubIFD] F-Number = F2.8
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 200
+[Exif SubIFD] Exif Version = 2.20
+[Exif SubIFD] Date/Time Original = 2011:08:14 18:43:01
+[Exif SubIFD] Date/Time Digitized = 2011:08:14 18:43:01
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD] Shutter Speed Value = 1/304 sec
+[Exif SubIFD] Aperture Value = F2.8
+[Exif SubIFD] Brightness Value = 5.41
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.8
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire, auto
+[Exif SubIFD] Focal Length = 8.0 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 3296 pixels
+[Exif SubIFD] Exif Image Height = 2472 pixels
+[Exif SubIFD] Focal Plane X Resolution = 1/4236 cm
+[Exif SubIFD] Focal Plane Y Resolution = 1/4236 cm
+[Exif SubIFD] Focal Plane Resolution Unit = cm
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Subject Distance Range = Unknown
+
+[Exif IFD0] Make = FUJIFILM
+[Exif IFD0] Model = FinePix F40fd  
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Digital Camera FinePix F40fd   Ver1.01
+[Exif IFD0] Date/Time = 2011:08:14 18:43:01
+[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0] Copyright =     
+[Exif IFD0] Unknown tag (0xc4a5) = [28 bytes]
+
+[FujiFilm Makernote] Makernote Version = 48 49 51 48
+[FujiFilm Makernote] Unknown tag (0x0010) = 20�
+[FujiFilm Makernote] Quality = 
+[FujiFilm Makernote] Sharpness = Normal
+[FujiFilm Makernote] White Balance = Auto
+[FujiFilm Makernote] Color Saturation = Normal (STD)
+[FujiFilm Makernote] Flash Mode = Off
+[FujiFilm Makernote] Flash Strength = 52166656/-1845362688 EV (Apex)
+[FujiFilm Makernote] Macro = Off
+[FujiFilm Makernote] Focus Mode = Auto focus
+[FujiFilm Makernote] Unknown tag (0x1022) = 1
+[FujiFilm Makernote] Unknown tag (0x1023) = 1648 1236
+[FujiFilm Makernote] Slow Synch = Off
+[FujiFilm Makernote] Picture Mode = Unknown (7)
+[FujiFilm Makernote] Makernote Unknown 1 = 1
+[FujiFilm Makernote] Continuous Taking Or Auto Bracketting = Off
+[FujiFilm Makernote] Unknown tag (0x1101) = 0
+[FujiFilm Makernote] Makernote Unknown 2 = 0
+[FujiFilm Makernote] Unknown tag (0x1210) = 0
+[FujiFilm Makernote] Blur Warning = No blur warning
+[FujiFilm Makernote] Focus Warning = Auto focus good
+[FujiFilm Makernote] AE Warning = AE good
+[FujiFilm Makernote] Unknown tag (0x1303) = 0
+[FujiFilm Makernote] Unknown tag (0x1400) = 1
+[FujiFilm Makernote] Unknown tag (0x1408) = 48 49 48 48
+[FujiFilm Makernote] Unknown tag (0x1409) = 48 49 48 48
+[FujiFilm Makernote] Unknown tag (0x140a) = 0
+[FujiFilm Makernote] Unknown tag (0x4100) = 0
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 1426 bytes
+[Exif Thumbnail] Thumbnail Length = 8388 bytes
+[Exif Thumbnail] YCbCr Positioning = Datum point
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

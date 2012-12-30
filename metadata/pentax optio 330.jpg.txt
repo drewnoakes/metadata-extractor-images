@@ -1,0 +1,85 @@
+FILE: pentax optio 330.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2048 pixels
+[JPEG] Image Width = 1536 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Jfif] Version = 1.1
+[Jfif] Resolution Units = none
+[Jfif] X Resolution = 1 dot
+[Jfif] Y Resolution = 1 dot
+
+[Exif SubIFD] Exposure Time = 1/500 sec
+[Exif SubIFD] F-Number = F2.6
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2001:09:28 14:03:54
+[Exif SubIFD] Date/Time Digitized = 2001:09:28 14:03:54
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.6
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 7.6 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 2048 pixels
+[Exif SubIFD] Exif Image Height = 1536 pixels
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+
+[Exif IFD0] Make = Asahi Optical Co.,Ltd
+[Exif IFD0] Model = PENTAX Optio 330 
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Ver1.10              
+[Exif IFD0] Date/Time = 2001:09:28 14:03:54
+[Exif IFD0] YCbCr Positioning = Center of pixel array
+
+[Pentax Makernote] Capture Mode = Unknown (0)
+[Pentax Makernote] Quality Level = Best
+[Pentax Makernote] Focus Mode = Custom
+[Pentax Makernote] Flash Mode = Flash Off
+[Pentax Makernote] Unknown tag (0x0005) = 13
+[Pentax Makernote] Unknown tag (0x0006) = 167
+[Pentax Makernote] White Balance = Auto
+[Pentax Makernote] Unknown tag (0x0008) = 1
+[Pentax Makernote] Unknown tag (0x0009) = 1
+[Pentax Makernote] Digital Zoom = Off
+[Pentax Makernote] Sharpness = Normal
+[Pentax Makernote] Contrast = Normal
+[Pentax Makernote] Saturation = Normal
+[Pentax Makernote] Unknown tag (0x000e) = 0
+[Pentax Makernote] Unknown tag (0x000f) = 0
+[Pentax Makernote] Unknown tag (0x0010) = 0
+[Pentax Makernote] Unknown tag (0x0011) = 72418366
+[Pentax Makernote] Unknown tag (0x0012) = 16
+[Pentax Makernote] Unknown tag (0x0013) = 16
+[Pentax Makernote] ISO Speed = ISO 100
+[Pentax Makernote] Unknown tag (0x0015) = 0
+[Pentax Makernote] Colour = Normal
+[Pentax Makernote] Unknown tag (0x0018) = 0
+[Pentax Makernote] Unknown tag (0x0019) = 1
+[Pentax Makernote] Print Image Matching (PIM) Info = [124 bytes]
+[Pentax Makernote] Time Zone = 76 79 78 32
+[Pentax Makernote] Daylight Savings = 32 32 32 32
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 1144 bytes
+[Exif Thumbnail] Thumbnail Length = 4725 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

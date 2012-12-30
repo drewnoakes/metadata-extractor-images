@@ -1,0 +1,69 @@
+FILE: samsung nv10.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2736 pixels
+[JPEG] Image Width = 3648 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/640 sec
+[Exif SubIFD] F-Number = F7.1
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 100
+[Exif SubIFD] Exif Version = 2.21
+[Exif SubIFD] Date/Time Original = 2008.07.10  15:16:55
+[Exif SubIFD] Date/Time Digitized = 2008.07.10  15:16:55
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.9
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire, auto, red-eye reduction
+[Exif SubIFD] Focal Length = 7.4 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 3648 pixels
+[Exif SubIFD] Exif Image Height = 2736 pixels
+[Exif SubIFD] Focal Plane X Resolution = 1/6652 inches
+[Exif SubIFD] Focal Plane Y Resolution = 1/6652 inches
+[Exif SubIFD] Focal Plane Resolution Unit = Inches
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Digital Zoom Ratio = Digital zoom not used.
+[Exif SubIFD] Focal Length 35 = Unknown
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Subject Distance Range = Unknown
+
+[Exif IFD0] Image Description = SAMSUNG DIGITAL CAMERA
+[Exif IFD0] Make = SAMSUNG TECHWIN
+[Exif IFD0] Model = VLUU NV10, NV10
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = 608013  
+[Exif IFD0] Date/Time = 2008.07.10  15:16:55
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 6292 bytes
+[Exif Thumbnail] Thumbnail Length = 13317 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

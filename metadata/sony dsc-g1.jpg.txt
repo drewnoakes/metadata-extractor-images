@@ -1,0 +1,102 @@
+FILE: sony dsc-g1.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2112 pixels
+[JPEG] Image Width = 2816 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/160 sec
+[Exif SubIFD] F-Number = F6.3
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 100
+[Exif SubIFD] Exif Version = 2.21
+[Exif SubIFD] Date/Time Original = 2007:07:07 12:46:32
+[Exif SubIFD] Date/Time Digitized = 2007:07:07 12:46:32
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F3.5
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire, auto
+[Exif SubIFD] Focal Length = 12.85 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 2816 pixels
+[Exif SubIFD] Exif Image Height = 2112 pixels
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Unique Image ID = 00000000000000000000000000000009
+
+[Exif IFD0] Image Description =                                
+[Exif IFD0] Make = SONY
+[Exif IFD0] Model = DSC-G1
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Date/Time = 2007:07:07 12:46:32
+[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0] Unknown tag (0xc4a5) = [28 bytes]
+
+[Sony Makernote] Multi Burst Mode = 0
+[Sony Makernote] Multi Burst Image Width = 0
+[Sony Makernote] Multi Burst Image Height = 0
+[Sony Makernote] Unknown tag (0x2000) = 0
+[Sony Makernote] Color Mode Setting = Standard
+[Sony Makernote] Macro = Off
+[Sony Makernote] Exposure Mode = Auto
+[Sony Makernote] Focus Mode = 1
+[Sony Makernote] AF Mode = 1
+[Sony Makernote] AF Illuminator = 1
+[Sony Makernote] Unknown tag (0xb045) = 0
+[Sony Makernote] Unknown tag (0xb046) = 0
+[Sony Makernote] Quality = Normal
+[Sony Makernote] Flash Level = 0
+[Sony Makernote] Release Mode = 0
+[Sony Makernote] Sequence Number = 0
+[Sony Makernote] Anti Blur = On (Shooting)
+[Sony Makernote] Unknown tag (0xb04c) = 1
+[Sony Makernote] Unknown tag (0xb04d) = 0
+[Sony Makernote] Long Exposure Noise Reduction = Off
+[Sony Makernote] Unknown tag (0x9001) = [296 bytes]
+[Sony Makernote] Unknown tag (0x9002) = [256 bytes]
+[Sony Makernote] Unknown tag (0x9003) = [400 bytes]
+[Sony Makernote] Unknown tag (0x9004) = [640 bytes]
+[Sony Makernote] Unknown tag (0x9005) = [360 bytes]
+[Sony Makernote] Unknown tag (0x9006) = [1092 bytes]
+[Sony Makernote] Unknown tag (0x9007) = [400 bytes]
+[Sony Makernote] Unknown tag (0x9008) = [400 bytes]
+[Sony Makernote] Unknown tag (0x9009) = [256 bytes]
+[Sony Makernote] Unknown tag (0x900a) = [200 bytes]
+[Sony Makernote] Unknown tag (0x900c) = [500 bytes]
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Unknown tag (0x010e) =                                
+[Exif Thumbnail] Unknown tag (0x010f) = SONY
+[Exif Thumbnail] Unknown tag (0x0110) = DSC-G1
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Unknown tag (0x0132) = 2007:07:07 12:46:32
+[Exif Thumbnail] Thumbnail Offset = 6228 bytes
+[Exif Thumbnail] Thumbnail Length = 6048 bytes
+[Exif Thumbnail] YCbCr Positioning = Datum point
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

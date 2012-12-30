@@ -1,0 +1,106 @@
+FILE: canon ixus.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 480 pixels
+[JPEG] Image Width = 640 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/350 sec
+[Exif SubIFD] F-Number = F4
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2001:06:09 15:17:32
+[Exif SubIFD] Date/Time Digitized = 2001:06:09 15:17:32
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 3 bits/pixel
+[Exif SubIFD] Shutter Speed Value = 1/350 sec
+[Exif SubIFD] Aperture Value = F4
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.8
+[Exif SubIFD] Subject Distance = 3.75 metres
+[Exif SubIFD] Metering Mode = Center weighted average
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 10.812 mm
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 640 pixels
+[Exif SubIFD] Exif Image Height = 480 pixels
+[Exif SubIFD] Focal Plane X Resolution = 103/320000 inches
+[Exif SubIFD] Focal Plane Y Resolution = 31/96000 inches
+[Exif SubIFD] Focal Plane Resolution Unit = Inches
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+
+[Exif IFD0] Make = Canon
+[Exif IFD0] Model = Canon DIGITAL IXUS
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 180 dots per inch
+[Exif IFD0] Y Resolution = 180 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Date/Time = 2001:06:09 15:17:32
+[Exif IFD0] YCbCr Positioning = Center of pixel array
+
+[Canon Makernote] Unknown tag (0xc100) = 38
+[Canon Makernote] Macro Mode = Normal
+[Canon Makernote] Self Timer Delay = Self timer not used
+[Canon Makernote] Quality = Fine
+[Canon Makernote] Flash Mode = Auto
+[Canon Makernote] Continuous Drive Mode = Single shot
+[Canon Makernote] Unknown Camera Setting 2 = 0
+[Canon Makernote] Focus Mode = AI Servo
+[Canon Makernote] Unknown Camera Setting 3 = 0
+[Canon Makernote] Unknown Camera Setting 4 = 1
+[Canon Makernote] Image Size = Small
+[Canon Makernote] Easy Shooting Mode = Manual
+[Canon Makernote] Digital Zoom = No digital zoom
+[Canon Makernote] Contrast = Normal
+[Canon Makernote] Saturation = Normal
+[Canon Makernote] Sharpness = Normal
+[Canon Makernote] Iso = Not specified (see ISOSpeedRatings tag)
+[Canon Makernote] Metering Mode = Unknown (0)
+[Canon Makernote] Focus Type = Auto
+[Canon Makernote] Unknown tag (0xc200) = 2
+[Canon Makernote] Unknown tag (0xc201) = 346
+[Canon Makernote] Unknown tag (0xc202) = 211
+[Canon Makernote] Unknown tag (0xc203) = 158
+[Canon Makernote] Unknown tag (0x0003) = 0 0 0 0
+[Canon Makernote] Unknown tag (0xc400) = 30
+[Canon Makernote] Auto ISO = 0
+[Canon Makernote] Base ISO = 140
+[Canon Makernote] Measured EV = 258
+[Canon Makernote] Target Aperture = 128
+[Canon Makernote] Target Exposure Time = 270
+[Canon Makernote] Exposure Compensation = 0
+[Canon Makernote] White Balance = 0
+[Canon Makernote] Slow Shutter = 0
+[Canon Makernote] Sequence Number = 1
+[Canon Makernote] Optical Zoom Code = 4
+[Canon Makernote] Unknown tag (0xc40b) = 0
+[Canon Makernote] Camera Temperature = 0
+[Canon Makernote] Flash Guide Number = 0
+[Canon Makernote] AF Points in Focus = 12290
+[Canon Makernote] Unknown tag (0x0000) = 0 0 0 0 0 0
+[Canon Makernote] Image Type = IMG:JPEG file
+[Canon Makernote] Firmware Version = Firmware Version 1.0
+[Canon Makernote] Image Number = 1010163
+[Canon Makernote] Owner Name = Tom Rowan and Sarah Clifton
+[Canon Makernote] Canon Model ID = 100925440
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+[Interoperability] Related Image Width = 640
+[Interoperability] Related Image Length = 480
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] X Resolution = 180 dots per inch
+[Exif Thumbnail] Y Resolution = 180 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 1524 bytes
+[Exif Thumbnail] Thumbnail Length = 5342 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

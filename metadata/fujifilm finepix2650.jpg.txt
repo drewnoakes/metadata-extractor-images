@@ -1,0 +1,92 @@
+FILE: fujifilm finepix2650.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 960 pixels
+[JPEG] Image Width = 1280 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 2, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/280 sec
+[Exif SubIFD] F-Number = F3.5
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 100
+[Exif SubIFD] Exif Version = 2.20
+[Exif SubIFD] Date/Time Original = 2003:07:09 11:20:22
+[Exif SubIFD] Date/Time Digitized = 2003:07:09 11:20:22
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD] Shutter Speed Value = 1/274 sec
+[Exif SubIFD] Aperture Value = F3.5
+[Exif SubIFD] Brightness Value = 6.88
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F3.5
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire, auto
+[Exif SubIFD] Focal Length = 18.0 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 1280 pixels
+[Exif SubIFD] Exif Image Height = 960 pixels
+[Exif SubIFD] Focal Plane X Resolution = 1/2462 cm
+[Exif SubIFD] Focal Plane Y Resolution = 1/2462 cm
+[Exif SubIFD] Focal Plane Resolution Unit = cm
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Subject Distance Range = Unknown
+
+[Exif IFD0] Make = FUJIFILM
+[Exif IFD0] Model = FinePix2650   
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Digital Camera FinePix2650    Ver1.00
+[Exif IFD0] Date/Time = 2003:07:09 11:20:22
+[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0] Copyright =     
+
+[FujiFilm Makernote] Makernote Version = 48 49 51 48
+[FujiFilm Makernote] Quality = 
+[FujiFilm Makernote] Sharpness = Normal
+[FujiFilm Makernote] White Balance = Auto
+[FujiFilm Makernote] Color Saturation = Normal (STD)
+[FujiFilm Makernote] Flash Mode = Auto
+[FujiFilm Makernote] Flash Strength = 361117 EV (Apex)
+[FujiFilm Makernote] Macro = Off
+[FujiFilm Makernote] Focus Mode = Auto focus
+[FujiFilm Makernote] Unknown tag (0x1022) = 0
+[FujiFilm Makernote] Unknown tag (0x1023) = 640 480
+[FujiFilm Makernote] Slow Synch = Off
+[FujiFilm Makernote] Picture Mode = Auto
+[FujiFilm Makernote] Makernote Unknown 1 = 1
+[FujiFilm Makernote] Continuous Taking Or Auto Bracketting = Off
+[FujiFilm Makernote] Unknown tag (0x1101) = 0
+[FujiFilm Makernote] Makernote Unknown 2 = 0
+[FujiFilm Makernote] Blur Warning = No blur warning
+[FujiFilm Makernote] Focus Warning = Auto focus good
+[FujiFilm Makernote] AE Warning = AE good
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 1240 bytes
+[Exif Thumbnail] Thumbnail Length = 10089 bytes
+[Exif Thumbnail] YCbCr Positioning = Datum point
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

@@ -1,0 +1,72 @@
+FILE: kodak z1012 is.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2736 pixels
+[JPEG] Image Width = 3648 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/200 sec
+[Exif SubIFD] F-Number = F2.8
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 80
+[Exif SubIFD] Exif Version = 2.21
+[Exif SubIFD] Date/Time Original = 2008:05:23 08:09:48
+[Exif SubIFD] Date/Time Digitized = 2008:05:23 08:09:48
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Shutter Speed Value = 1/203 sec
+[Exif SubIFD] Aperture Value = F2.8
+[Exif SubIFD] Brightness Value = 1
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2.8
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire, auto
+[Exif SubIFD] Focal Length = 5.85 mm
+[Exif SubIFD] Sub-Sec Time Original = 75
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 3648 pixels
+[Exif SubIFD] Exif Image Height = 2736 pixels
+[Exif SubIFD] Exposure Index = 80
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] Custom Rendered = Custom process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Digital Zoom Ratio = Digital zoom not used.
+[Exif SubIFD] Focal Length 35 = 33mm
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Gain Control = Low gain up
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Subject Distance Range = Unknown
+
+[Exif IFD0] Make = EASTMAN KODAK COMPANY
+[Exif IFD0] Model = KODAK EASYSHARE Z1012 IS Digital Camera
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 480 dots per inch
+[Exif IFD0] Y Resolution = 480 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Date/Time = 2008:05:23 08:09:48
+[Exif IFD0] YCbCr Positioning = Center of pixel array
+[Exif IFD0] Unknown tag (0x4746) = 0
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 14284 bytes
+[Exif Thumbnail] Thumbnail Length = 10775 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

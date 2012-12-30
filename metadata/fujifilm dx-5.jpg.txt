@@ -1,0 +1,64 @@
+FILE: fujifilm dx-5.jpg
+
+[ERROR: Photoshop] Attempt to read from beyond end of underlying data source (requested index: 2668, requested count: 1146739911, max index: 5091)
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 263 pixels
+[JPEG] Image Width = 350 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Jfif] Version = 1.2
+[Jfif] Resolution Units = inch
+[Jfif] X Resolution = 72 dots
+[Jfif] Y Resolution = 72 dots
+
+[Exif SubIFD] Exif Version = 1.10
+[Exif SubIFD] Date/Time Original =     :  :     :  :  
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 1.4 bits/pixel
+[Exif SubIFD] Shutter Speed Value = 1/90 sec
+[Exif SubIFD] Aperture Value = F8
+[Exif SubIFD] Flash = Flash fired
+
+[Exif IFD0] Make = FUJIFILM
+[Exif IFD0] Model = DX-5
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] White Point = 3127/10000 3290/10000
+[Exif IFD0] Primary Chromaticities = 640/1000 330/1000 300/1000 600/1000 150/1000 60/1000
+[Exif IFD0] YCbCr Coefficients = 299/1000 587/1000 114/1000
+[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0] Reference Black/White = [0,128,128] [255,255,255]
+[Exif IFD0] Copyright =           
+
+[Exif Thumbnail] Thumbnail Image Width = 80 pixels
+[Exif Thumbnail] Thumbnail Image Height = 60 pixels
+[Exif Thumbnail] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif Thumbnail] Thumbnail Compression = Uncompressed
+[Exif Thumbnail] Photometric Interpretation = YCbCr
+[Exif Thumbnail] Strip Offsets = 812
+[Exif Thumbnail] Samples Per Pixel = 3 samples/pixel
+[Exif Thumbnail] Rows Per Strip = 60 rows/strip
+[Exif Thumbnail] Strip Byte Counts = 9600 bytes
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] YCbCr Coefficients = 299/1000 587/1000 114/1000
+[Exif Thumbnail] YCbCr Sub-Sampling = YCbCr4:2:2
+[Exif Thumbnail] YCbCr Positioning = Datum point
+[Exif Thumbnail] Reference Black/White = [0,128,128] [255,255,255]
+
+[Adobe JPEG] DCT Encode Version = 1
+[Adobe JPEG] Flags 0 = 128
+[Adobe JPEG] Flags 1 = 0
+[Adobe JPEG] Color Transform = YCbCr
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

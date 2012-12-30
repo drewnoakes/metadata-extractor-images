@@ -1,0 +1,57 @@
+FILE: olympus pen e-pl1.orf
+
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+
+[Exif IFD0] Unknown tag (0x0100) = 4100
+[Exif IFD0] Unknown tag (0x0101) = 3084
+[Exif IFD0] Unknown tag (0x0102) = 16
+[Exif IFD0] Unknown tag (0x0103) = 1
+[Exif IFD0] Unknown tag (0x0106) = 1
+[Exif IFD0] Image Description = OLYMPUS DIGITAL CAMERA         
+[Exif IFD0] Make = OLYMPUS IMAGING CORP.  
+[Exif IFD0] Model = E-PL1           
+[Exif IFD0] Unknown tag (0x0111) = 1449472
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] Unknown tag (0x0115) = 1
+[Exif IFD0] Unknown tag (0x0116) = 3084
+[Exif IFD0] Unknown tag (0x0117) = 10776021
+[Exif IFD0] X Resolution = 350 dots per inch
+[Exif IFD0] Y Resolution = 350 dots per inch
+[Exif IFD0] Unknown tag (0x011c) = 1
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Version 1.2                    
+[Exif IFD0] Date/Time = 2011:10:18 15:36:36
+[Exif IFD0] Unknown tag (0xc4a5) = [528 bytes]
+
+[Exif SubIFD] Exposure Time = 1/60 sec
+[Exif SubIFD] F-Number = F3.9
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 200
+[Exif SubIFD] Exif Version = 2.21
+[Exif SubIFD] Date/Time Original = 2011:10:18 15:36:36
+[Exif SubIFD] Date/Time Digitized = 2011:10:18 15:36:36
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F3.5
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash fired, auto
+[Exif SubIFD] Focal Length = 18.0 mm
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] CFA Pattern = 2 0 2 0 0 1 1 2
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Digital Zoom Ratio = 1
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Gain Control = Low gain up
+[Exif SubIFD] Contrast = None
+[Exif SubIFD] Saturation = None
+[Exif SubIFD] Sharpness = None
+
+[Olympus Makernote] Camera Settings = [459008 ints]
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

@@ -1,0 +1,124 @@
+FILE: sigma dp1.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 1760 pixels
+[JPEG] Image Width = 2640 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 0.4 sec
+[Exif SubIFD] F-Number = F11
+[Exif SubIFD] Exposure Program = Aperture priority
+[Exif SubIFD] ISO Speed Ratings = 100
+[Exif SubIFD] Exif Version = 2.21
+[Exif SubIFD] Date/Time Original = 2038:05:05 01:29:24
+[Exif SubIFD] Date/Time Digitized = 2038:05:05 01:29:24
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Exposure Bias Value = 0.3 EV
+[Exif SubIFD] Max Aperture Value = F4
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 16.6 mm
+[Exif SubIFD] User Comment = 
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 2640 pixels
+[Exif SubIFD] Exif Image Height = 1760 pixels
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Focal Length 35 = 28mm
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Unique Image ID = 303130303134303374a68b8031376134
+[Exif SubIFD] Gamma = 0
+
+[Exif IFD0] Make = SIGMA
+[Exif IFD0] Model = SIGMA DP1
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 180 dots per inch
+[Exif IFD0] Y Resolution = 180 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = 1.01.0.000000000
+[Exif IFD0] Date/Time = 2038:05:05 01:29:24
+[Exif IFD0] YCbCr Positioning = Datum point
+
+[Sigma Makernote] Serial Number = 1001403
+[Sigma Makernote] Drive Mode = 2S
+[Sigma Makernote] Resolution Mode = HI
+[Sigma Makernote] Auto Focus Mode = AF-S
+[Sigma Makernote] Focus Setting = AF
+[Sigma Makernote] White Balance = Auto
+[Sigma Makernote] Exposure Mode = A
+[Sigma Makernote] Metering Mode = 8
+[Sigma Makernote] Lens Range = 16.6
+[Sigma Makernote] Color Space = sRGB
+[Sigma Makernote] Exposure = 0
+[Sigma Makernote] Contrast = 0
+[Sigma Makernote] Shadow = 0
+[Sigma Makernote] Highlight = 0
+[Sigma Makernote] Saturation = 0
+[Sigma Makernote] Sharpness = 0
+[Sigma Makernote] Fill Light = 0
+[Sigma Makernote] Color Adjustment = 0/10 0/10 0/10
+[Sigma Makernote] Adjustment Mode = Auto Setting Mode
+[Sigma Makernote] Quality = Qual:FINE
+[Sigma Makernote] Firmware = 1.01
+[Sigma Makernote] Software =  
+[Sigma Makernote] Auto Bracket =  
+[Sigma Makernote] Unknown tag (0x001a) = 12444
+[Sigma Makernote] Unknown tag (0x001b) = 43582
+[Sigma Makernote] Unknown tag (0x001c) = 640 480
+[Sigma Makernote] Unknown tag (0x001d) = 48 49 48 48
+[Sigma Makernote] Unknown tag (0x001e) = 4
+[Sigma Makernote] Unknown tag (0x001f) = Center
+[Sigma Makernote] Unknown tag (0x0020) = 
+[Sigma Makernote] Unknown tag (0x0021) = 
+[Sigma Makernote] Unknown tag (0x0022) = JPG-S
+[Sigma Makernote] Unknown tag (0x0023) =  
+[Sigma Makernote] Unknown tag (0x0024) = Starting calibration file for SD14F13_Rev3; S/N C70_1403; SD14Cal Rel_17; TestExec V2.4; 
+RunID: SD14Cal-001; Run time: 25-Jan-2008 11:52:55
+[Sigma Makernote] Unknown tag (0x0025) = 0.70
+[Sigma Makernote] Unknown tag (0x0026) = 0
+[Sigma Makernote] Unknown tag (0x0027) = 0
+[Sigma Makernote] Unknown tag (0x0028) = 0
+[Sigma Makernote] Unknown tag (0x0029) = 0
+[Sigma Makernote] Unknown tag (0x002a) = 0
+[Sigma Makernote] Unknown tag (0x002b) = 0
+[Sigma Makernote] Unknown tag (0x002c) = 0
+[Sigma Makernote] Unknown tag (0x002d) = 0
+[Sigma Makernote] Unknown tag (0x002e) = 0
+[Sigma Makernote] Unknown tag (0x002f) = 0
+[Sigma Makernote] Unknown tag (0x0030) = 4.0
+[Sigma Makernote] Unknown tag (0x0031) = 11
+[Sigma Makernote] Unknown tag (0x0032) = 0.4
+[Sigma Makernote] Unknown tag (0x0033) = 400000
+[Sigma Makernote] Unknown tag (0x0034) = 0
+[Sigma Makernote] Unknown tag (0x0035) = 0.3
+[Sigma Makernote] Unknown tag (0x0036) =  
+[Sigma Makernote] Unknown tag (0x0037) =  
+[Sigma Makernote] Unknown tag (0x0038) =  
+[Sigma Makernote] Unknown tag (0x0039) = 28
+[Sigma Makernote] Unknown tag (0x003a) = 0
+[Sigma Makernote] Unknown tag (0x003b) = 1.01
+[Sigma Makernote] Unknown tag (0x003c) = Auto
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 180 dots per inch
+[Exif Thumbnail] Y Resolution = 180 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 2360 bytes
+[Exif Thumbnail] Thumbnail Length = 10081 bytes
+[Exif Thumbnail] YCbCr Positioning = Datum point
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/

@@ -1,0 +1,64 @@
+FILE: minolta dimage s404.jpg
+
+[ERROR: Olympus Makernote] Illegal TIFF tag pointer offset
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 1704 pixels
+[JPEG] Image Width = 2272 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Program = Portrait mode
+[Exif SubIFD] ISO Speed Ratings = 64
+[Exif SubIFD] Exif Version = 2.10
+[Exif SubIFD] Date/Time Original = 2002:05:16 15:43:26
+[Exif SubIFD] Date/Time Digitized = 2002:05:16 15:43:26
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Shutter Speed Value = 1/127 sec
+[Exif SubIFD] Aperture Value = F3.6
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F3.6
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire
+[Exif SubIFD] Focal Length = 19.938 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 2272 pixels
+[Exif SubIFD] Exif Image Height = 1704 pixels
+
+[Exif IFD0] Image Description = DCF 1.0
+[Exif IFD0] Make = Minolta Co., Ltd.
+[Exif IFD0] Model = DiMAGE S404
+[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = D2v001e
+[Exif IFD0] Date/Time = 2002:05:16 15:43:26
+[Exif IFD0] YCbCr Positioning = Center of pixel array
+
+[Olympus Makernote] Makernote Version = 77 76 84 48
+[Olympus Makernote] Camera Settings = [172 bytes]
+[Olympus Makernote] Unknown tag (0x0010) = [12968 bytes]
+[Olympus Makernote] Unknown tag (0x0020) = [354 bytes]
+[Olympus Makernote] Compressed Image Size = 1826901
+[Olympus Makernote] Print Image Matching (PIM) Info = [40 bytes]
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 14338 bytes
+[Exif Thumbnail] Thumbnail Length = 4381 bytes
+[Exif Thumbnail] YCbCr Positioning = Center of pixel array
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/
