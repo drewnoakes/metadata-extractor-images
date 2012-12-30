@@ -130,9 +130,9 @@ FILE: panasonic dmc-lx3 (lumix).jpg
 
 [GPS] GPS Version ID = 2.200
 [GPS] GPS Latitude Ref = N
-[GPS] GPS Latitude = 41.0° 53.0' 43.443603515625"
+[GPS] GPS Latitude = 41° 53' 43.44"
 [GPS] GPS Longitude Ref = E
-[GPS] GPS Longitude = 12.0° 28.0' 57.75901794433594"
+[GPS] GPS Longitude = 12° 28' 57.76"
 [GPS] GPS Altitude Ref = Sea level
 
 [Exif Thumbnail] Thumbnail Compression = JPEG (old-style)

@@ -140,9 +140,9 @@ FILE: panasonic dmc-tz10.jpg
 
 [GPS] GPS Version ID = 2.200
 [GPS] GPS Latitude Ref = N
-[GPS] GPS Latitude = 53.0° 8.0' 49.65000000000941"
+[GPS] GPS Latitude = 53° 8' 49.65"
 [GPS] GPS Longitude Ref = E
-[GPS] GPS Longitude = 8.0° 10.0' 45.10000000000076"
+[GPS] GPS Longitude = 8° 10' 45.1"
 [GPS] GPS Time-Stamp = 10:17:21 UTC
 [GPS] GPS Satellites = 5
 [GPS] GPS Status = Active (Measurement in progress)

@@ -11,10 +11,10 @@ FILE: fujifilm dx-5.jpg
 [JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Jfif] Version = 1.2
-[Jfif] Resolution Units = inch
-[Jfif] X Resolution = 72 dots
-[Jfif] Y Resolution = 72 dots
+[JFIF] Version = 1.2
+[JFIF] Resolution Units = inch
+[JFIF] X Resolution = 72 dots
+[JFIF] Y Resolution = 72 dots
 
 [Exif SubIFD] Exif Version = 1.10
 [Exif SubIFD] Date/Time Original =     :  :     :  :  

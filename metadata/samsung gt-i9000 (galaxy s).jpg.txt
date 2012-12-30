@@ -59,9 +59,9 @@ FILE: samsung gt-i9000 (galaxy s).jpg
 
 [GPS] GPS Version ID = 2.200
 [GPS] GPS Latitude Ref = N
-[GPS] GPS Latitude = 0.0° 0.0' 0.0"
+[GPS] GPS Latitude = 0° 0' 0"
 [GPS] GPS Longitude Ref = E
-[GPS] GPS Longitude = 0.0° 0.0' 0.0"
+[GPS] GPS Longitude = 0° 0' 0"
 [GPS] GPS Altitude Ref = Sea level
 [GPS] GPS Altitude = 0 metres
 

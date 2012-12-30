@@ -140,9 +140,9 @@ FILE: sony nex-5n.jpg
 [Interoperability] Interoperability Version = 1.00
 
 [GPS] GPS Latitude Ref = N
-[GPS] GPS Latitude = 49.0° 22.0' 15.456000000013432"
+[GPS] GPS Latitude = 49° 22' 15.46"
 [GPS] GPS Longitude Ref = E
-[GPS] GPS Longitude = 8.0° 38.0' 27.06000000000131"
+[GPS] GPS Longitude = 8° 38' 27.06"
 [GPS] GPS Altitude Ref = Sea level
 [GPS] GPS Altitude = 117 metres
 

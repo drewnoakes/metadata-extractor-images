@@ -11,10 +11,10 @@ FILE: sony cybershot (7).jpg
 [JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Jfif] Version = 1.2
-[Jfif] Resolution Units = inch
-[Jfif] X Resolution = 300 dots
-[Jfif] Y Resolution = 300 dots
+[JFIF] Version = 1.2
+[JFIF] Resolution Units = inch
+[JFIF] X Resolution = 300 dots
+[JFIF] Y Resolution = 300 dots
 
 [Adobe JPEG] DCT Encode Version = 1
 [Adobe JPEG] Flags 0 = 0

@@ -9,10 +9,10 @@ FILE: olympus c860l.jpg
 [JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Jfif] Version = 1.1
-[Jfif] Resolution Units = inch
-[Jfif] X Resolution = 72 dots
-[Jfif] Y Resolution = 72 dots
+[JFIF] Version = 1.1
+[JFIF] Resolution Units = inch
+[JFIF] X Resolution = 72 dots
+[JFIF] Y Resolution = 72 dots
 
 [Exif SubIFD] Exposure Time = 1/30 sec
 [Exif SubIFD] F-Number = F2.8

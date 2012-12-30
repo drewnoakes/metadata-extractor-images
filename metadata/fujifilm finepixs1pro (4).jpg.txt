@@ -9,10 +9,10 @@ FILE: fujifilm finepixs1pro (4).jpg
 [JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Jfif] Version = 1.2
-[Jfif] Resolution Units = inch
-[Jfif] X Resolution = 72 dots
-[Jfif] Y Resolution = 72 dots
+[JFIF] Version = 1.2
+[JFIF] Resolution Units = inch
+[JFIF] X Resolution = 72 dots
+[JFIF] Y Resolution = 72 dots
 
 [Exif SubIFD] Exposure Time = 167772160/2886533120 sec
 [Exif SubIFD] F-Number = F0.2
@@ -57,9 +57,9 @@ FILE: fujifilm finepixs1pro (4).jpg
 
 [GPS] GPS Version ID = 2.000
 [GPS] GPS Latitude Ref = N
-[GPS] GPS Latitude = 54.0° 54.0' 48.599999999996726"
+[GPS] GPS Latitude = 54° 54' 48.6"
 [GPS] GPS Longitude Ref = W
-[GPS] GPS Longitude = -1.0° 35.0' 19.799999999999898"
+[GPS] GPS Longitude = -1° 35' 19.8"
 [GPS] GPS Time-Stamp = 11:3:52 UTC
 [GPS] GPS Map Datum = WGS84
 
@@ -121,23 +121,23 @@ FILE: fujifilm finepixs1pro (4).jpg
 [Photoshop] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 7.0) 1
 [Photoshop] JPEG Quality = 9 (High), Standard format, 3 scans
 
-[Iptc] Application Record Version = 2
-[Iptc] Caption/Abstract = The Gateshead Angel
-[Iptc] Caption Writer/Editor = Ian Britton
-[Iptc] Headline = The Gateshead Angel
-[Iptc] By-line = Ian Britton
-[Iptc] By-line Title = Photographer
-[Iptc] Credit = Ian Britton - FreeFoto.com
-[Iptc] Source =  FreeFoto.com
-[Iptc] Object Name = The Gateshead Angel
-[Iptc] Date Created = Thu Sep 05 00:00:00 BST 2002
-[Iptc] City = Gateshead
-[Iptc] Province/State = Tyne & Wear
-[Iptc] Country/Primary Location Name = United Kingdom
-[Iptc] Category = GAT
-[Iptc] Supplemental Category(s) = The Gateshead Angel
-[Iptc] Keywords = The Gateshead Angel
-[Iptc] Copyright Notice = FreeFoto.com    
+[IPTC] Application Record Version = 2
+[IPTC] Caption/Abstract = The Gateshead Angel
+[IPTC] Caption Writer/Editor = Ian Britton
+[IPTC] Headline = The Gateshead Angel
+[IPTC] By-line = Ian Britton
+[IPTC] By-line Title = Photographer
+[IPTC] Credit = Ian Britton - FreeFoto.com
+[IPTC] Source =  FreeFoto.com
+[IPTC] Object Name = The Gateshead Angel
+[IPTC] Date Created = Thu Sep 05 00:00:00 BST 2002
+[IPTC] City = Gateshead
+[IPTC] Province/State = Tyne & Wear
+[IPTC] Country/Primary Location Name = United Kingdom
+[IPTC] Category = GAT
+[IPTC] Supplemental Category(s) = The Gateshead Angel
+[IPTC] Keywords = The Gateshead Angel
+[IPTC] Copyright Notice = FreeFoto.com    
 
 [Adobe JPEG] DCT Encode Version = 1
 [Adobe JPEG] Flags 0 = 64

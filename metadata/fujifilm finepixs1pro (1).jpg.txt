@@ -9,10 +9,10 @@ FILE: fujifilm finepixs1pro (1).jpg
 [JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Jfif] Version = 1.2
-[Jfif] Resolution Units = inch
-[Jfif] X Resolution = 300 dots
-[Jfif] Y Resolution = 300 dots
+[JFIF] Version = 1.2
+[JFIF] Resolution Units = inch
+[JFIF] X Resolution = 300 dots
+[JFIF] Y Resolution = 300 dots
 
 [Exif SubIFD] F-Number = F0.6
 [Exif SubIFD] Exposure Program = Shutter priority
@@ -55,9 +55,9 @@ FILE: fujifilm finepixs1pro (1).jpg
 
 [GPS] GPS Version ID = 2.000
 [GPS] GPS Latitude Ref = N
-[GPS] GPS Latitude = 54.0° 59.0' 22.799999999992906"
+[GPS] GPS Latitude = 54° 59' 22.8"
 [GPS] GPS Longitude Ref = W
-[GPS] GPS Longitude = -1.0° 54.0' 50.99999999999966"
+[GPS] GPS Longitude = -1° 54' 51"
 [GPS] GPS Time-Stamp = 14:58:24 UTC
 [GPS] GPS Map Datum = WGS84
 
@@ -119,24 +119,24 @@ FILE: fujifilm finepixs1pro (1).jpg
 [Photoshop] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 7.0) 1
 [Photoshop] JPEG Quality = 9 (High), Standard format, 3 scans
 
-[Iptc] Application Record Version = 2
-[Iptc] Caption/Abstract = Communications
-[Iptc] Caption Writer/Editor = Ian Britton
-[Iptc] Headline = Communications
-[Iptc] By-line = Ian Britton
-[Iptc] By-line Title = Photographer
-[Iptc] Credit = Ian Britton
-[Iptc] Source = FreeFoto.com
-[Iptc] Object Name = Communications
-[Iptc] Date Created = Thu Jun 20 00:00:00 BST 2002
-[Iptc] City =  
-[Iptc] Province/State =  
-[Iptc] Country/Primary Location Name = Ubited Kingdom
-[Iptc] Category = BUS
-[Iptc] Supplemental Category(s) = Communications
-[Iptc] Urgency = 53
-[Iptc] Keywords = Communications
-[Iptc] Copyright Notice = ian Britton - FreeFoto.com
+[IPTC] Application Record Version = 2
+[IPTC] Caption/Abstract = Communications
+[IPTC] Caption Writer/Editor = Ian Britton
+[IPTC] Headline = Communications
+[IPTC] By-line = Ian Britton
+[IPTC] By-line Title = Photographer
+[IPTC] Credit = Ian Britton
+[IPTC] Source = FreeFoto.com
+[IPTC] Object Name = Communications
+[IPTC] Date Created = Thu Jun 20 00:00:00 BST 2002
+[IPTC] City =  
+[IPTC] Province/State =  
+[IPTC] Country/Primary Location Name = Ubited Kingdom
+[IPTC] Category = BUS
+[IPTC] Supplemental Category(s) = Communications
+[IPTC] Urgency = 53
+[IPTC] Keywords = Communications
+[IPTC] Copyright Notice = ian Britton - FreeFoto.com
 
 [Adobe JPEG] DCT Encode Version = 1
 [Adobe JPEG] Flags 0 = 64

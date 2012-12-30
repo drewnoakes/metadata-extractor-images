@@ -9,10 +9,10 @@ FILE: canon powershot g2 (1).jpg
 [JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Jfif] Version = 1.1
-[Jfif] Resolution Units = none
-[Jfif] X Resolution = 1 dot
-[Jfif] Y Resolution = 1 dot
+[JFIF] Version = 1.1
+[JFIF] Resolution Units = none
+[JFIF] X Resolution = 1 dot
+[JFIF] Y Resolution = 1 dot
 
 [Exif SubIFD] Exposure Time = 1/640 sec
 [Exif SubIFD] F-Number = F4

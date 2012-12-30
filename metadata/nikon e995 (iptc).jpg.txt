@@ -72,7 +72,7 @@ FILE: nikon e995 (iptc).jpg
 
 [Photoshop] IPTC-NAA Record = 850 bytes binary data
 
-[Iptc] Caption/Abstract = Dateiname : DSCN1767.JPG
+[IPTC] Caption/Abstract = Dateiname : DSCN1767.JPG
 Dateigr��e : 668.1 KB (684158 Byte)
 Aufnahmedatum : 2002/08/29 17:31:40
 Bildgr��e : 2048 x 1536 Pixel

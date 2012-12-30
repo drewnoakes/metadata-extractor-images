@@ -1,7 +1,7 @@
 FILE: nikon d1x.jpg
 
 [ERROR: GPS] Invalid TIFF tag format code: 0
-[ERROR: Iptc] Too few bytes remain for a valid IPTC tag
+[ERROR: IPTC] Too few bytes remain for a valid IPTC tag
 
 [JPEG] Compression Type = Baseline
 [JPEG] Data Precision = 8 bits
@@ -97,20 +97,20 @@ FILE: nikon d1x.jpg
 
 [Photoshop] IPTC-NAA Record = 180 bytes binary data
 
-[Iptc] Application Record Version = 2
-[Iptc] Object Name = 
-[Iptc] Supplemental Category(s) = Woodworking
-[Iptc] Keywords = Woodworking
-[Iptc] Special Instructions = 
-[Iptc] Date Created = Wed Aug 06 00:00:00 BST 2003
-[Iptc] Time Created = 180434-0500
-[Iptc] By-line = 
-[Iptc] By-line Title = 
-[Iptc] Headline = 
-[Iptc] Credit = 
-[Iptc] Source = 
-[Iptc] Copyright Notice = � 2003 Joseph S. Colson
-[Iptc] Caption/Abstract = Workshop showing workbench and storage
+[IPTC] Application Record Version = 2
+[IPTC] Object Name = 
+[IPTC] Supplemental Category(s) = Woodworking
+[IPTC] Keywords = Woodworking
+[IPTC] Special Instructions = 
+[IPTC] Date Created = Wed Aug 06 00:00:00 BST 2003
+[IPTC] Time Created = 180434-0500
+[IPTC] By-line = 
+[IPTC] By-line Title = 
+[IPTC] Headline = 
+[IPTC] Credit = 
+[IPTC] Source = 
+[IPTC] Copyright Notice = � 2003 Joseph S. Colson
+[IPTC] Caption/Abstract = Workshop showing workbench and storage
 
 Generated using metadata-extractor
 http://drewnoakes.com/code/exif/

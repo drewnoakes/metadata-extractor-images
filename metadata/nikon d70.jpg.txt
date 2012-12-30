@@ -110,11 +110,11 @@ FILE: nikon d70.jpg
 
 [Photoshop] IPTC-NAA Record = 81 bytes binary data
 
-[Iptc] By-line = Drew Noakes
-[Iptc] Credit = Drew Noakes
-[Iptc] City = London
-[Iptc] Country/Primary Location Name = England
-[Iptc] Copyright Notice = http://drewnoakes.com
+[IPTC] By-line = Drew Noakes
+[IPTC] Credit = Drew Noakes
+[IPTC] City = London
+[IPTC] Country/Primary Location Name = England
+[IPTC] Copyright Notice = http://drewnoakes.com
 
 Generated using metadata-extractor
 http://drewnoakes.com/code/exif/

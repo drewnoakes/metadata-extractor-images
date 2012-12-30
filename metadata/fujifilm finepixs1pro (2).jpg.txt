@@ -9,10 +9,10 @@ FILE: fujifilm finepixs1pro (2).jpg
 [JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Jfif] Version = 1.2
-[Jfif] Resolution Units = inch
-[Jfif] X Resolution = 72 dots
-[Jfif] Y Resolution = 72 dots
+[JFIF] Version = 1.2
+[JFIF] Resolution Units = inch
+[JFIF] X Resolution = 72 dots
+[JFIF] Y Resolution = 72 dots
 
 [Exif SubIFD] Exposure Time = 167772160/3791912960 sec
 [Exif SubIFD] F-Number = F1.1
@@ -57,9 +57,9 @@ FILE: fujifilm finepixs1pro (2).jpg
 
 [GPS] GPS Version ID = 2.000
 [GPS] GPS Latitude Ref = N
-[GPS] GPS Latitude = 51.0° 50.0' 47.99999999999045"
+[GPS] GPS Latitude = 51° 50' 48"
 [GPS] GPS Longitude Ref = W
-[GPS] GPS Longitude = -3.0° 20.0' 16.199999999999548"
+[GPS] GPS Longitude = -3° 20' 16.2"
 [GPS] GPS Time-Stamp = 14:50:1 UTC
 [GPS] GPS Map Datum = WGS84
 
@@ -121,23 +121,23 @@ FILE: fujifilm finepixs1pro (2).jpg
 [Photoshop] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 7.0) 1
 [Photoshop] JPEG Quality = 9 (High), Standard format, 3 scans
 
-[Iptc] Application Record Version = 2
-[Iptc] Caption/Abstract = Harvest
-[Iptc] Caption Writer/Editor = Ian Britton
-[Iptc] Headline = Harvest
-[Iptc] By-line = Ian Britton
-[Iptc] By-line Title = Photographer
-[Iptc] Credit = Ian Britton
-[Iptc] Source = FreeFoto.com
-[Iptc] Object Name = Harvest
-[Iptc] Date Created = Mon Sep 16 00:00:00 BST 2002
-[Iptc] Province/State = Northumberland
-[Iptc] Country/Primary Location Name = United Kingdom
-[Iptc] Category = FAR
-[Iptc] Supplemental Category(s) = Harvest
-[Iptc] Urgency = 53
-[Iptc] Keywords = Harvest
-[Iptc] Copyright Notice = ian Britton - FreeFoto.com
+[IPTC] Application Record Version = 2
+[IPTC] Caption/Abstract = Harvest
+[IPTC] Caption Writer/Editor = Ian Britton
+[IPTC] Headline = Harvest
+[IPTC] By-line = Ian Britton
+[IPTC] By-line Title = Photographer
+[IPTC] Credit = Ian Britton
+[IPTC] Source = FreeFoto.com
+[IPTC] Object Name = Harvest
+[IPTC] Date Created = Mon Sep 16 00:00:00 BST 2002
+[IPTC] Province/State = Northumberland
+[IPTC] Country/Primary Location Name = United Kingdom
+[IPTC] Category = FAR
+[IPTC] Supplemental Category(s) = Harvest
+[IPTC] Urgency = 53
+[IPTC] Keywords = Harvest
+[IPTC] Copyright Notice = ian Britton - FreeFoto.com
 
 [Adobe JPEG] DCT Encode Version = 1
 [Adobe JPEG] Flags 0 = 64

@@ -98,9 +98,9 @@ FILE: sony dsc-hx5v.jpg
 
 [GPS] GPS Version ID = 2.200
 [GPS] GPS Latitude Ref = N
-[GPS] GPS Latitude = 39.0° 34.0' 11.562000000006947"
+[GPS] GPS Latitude = 39° 34' 11.56"
 [GPS] GPS Longitude Ref = W
-[GPS] GPS Longitude = -104.0° 18.0' 13.846999999988157"
+[GPS] GPS Longitude = -104° 18' 13.85"
 [GPS] GPS Altitude Ref = Sea level
 [GPS] GPS Altitude = 1723 metres
 [GPS] GPS Time-Stamp = 16:59:55 UTC

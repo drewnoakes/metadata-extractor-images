@@ -9,10 +9,10 @@ FILE: fujifilm finepixs2pro.jpg
 [JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Jfif] Version = 1.2
-[Jfif] Resolution Units = inch
-[Jfif] X Resolution = 300 dots
-[Jfif] Y Resolution = 300 dots
+[JFIF] Version = 1.2
+[JFIF] Resolution Units = inch
+[JFIF] X Resolution = 300 dots
+[JFIF] Y Resolution = 300 dots
 
 [Exif SubIFD] Exposure Time = 167772160/2282946560 sec
 [Exif SubIFD] F-Number = F0.2
@@ -55,9 +55,9 @@ FILE: fujifilm finepixs2pro.jpg
 
 [GPS] GPS Version ID = 2.000
 [GPS] GPS Latitude Ref = N
-[GPS] GPS Latitude = 48.0° 51.0' 28.199999999994816"
+[GPS] GPS Latitude = 48° 51' 28.2"
 [GPS] GPS Longitude Ref = E
-[GPS] GPS Longitude = 2.0° 17.0' 49.20000000000044"
+[GPS] GPS Longitude = 2° 17' 49.2"
 [GPS] GPS Time-Stamp = 12:59:4 UTC
 [GPS] GPS Map Datum = WGS84
 
@@ -118,8 +118,8 @@ FILE: fujifilm finepixs2pro.jpg
 [Photoshop] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 7.0) 1
 [Photoshop] JPEG Quality = 9 (High), Standard format, 3 scans
 
-[Iptc] Application Record Version = 2
-[Iptc] Copyright Notice =     
+[IPTC] Application Record Version = 2
+[IPTC] Copyright Notice =     
 
 [Adobe JPEG] DCT Encode Version = 1
 [Adobe JPEG] Flags 0 = 64

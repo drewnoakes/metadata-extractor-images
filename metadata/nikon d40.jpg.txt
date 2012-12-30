@@ -1,6 +1,6 @@
 FILE: nikon d40.jpg
 
-[ERROR: Iptc] Too few bytes remain for a valid IPTC tag
+[ERROR: IPTC] Too few bytes remain for a valid IPTC tag
 
 [JPEG] Compression Type = Baseline
 [JPEG] Data Precision = 8 bits
@@ -126,7 +126,7 @@ FILE: nikon d40.jpg
 
 [Photoshop] IPTC-NAA Record = 21 bytes binary data
 
-[Iptc] By-line = Phil Askey
+[IPTC] By-line = Phil Askey
 
 Generated using metadata-extractor
 http://drewnoakes.com/code/exif/
