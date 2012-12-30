@@ -1,0 +1,116 @@
+FILE: fujifilm finepix x100.jpg
+
+[JPEG] Compression Type = Baseline
+[JPEG] Data Precision = 8 bits
+[JPEG] Image Height = 2848 pixels
+[JPEG] Image Width = 4288 pixels
+[JPEG] Number of Components = 3
+[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG] Component 3 = Cr component: Quantization table 2, Sampling factors 1 horiz/1 vert
+
+[Exif SubIFD] Exposure Time = 1/300 sec
+[Exif SubIFD] F-Number = F5
+[Exif SubIFD] Exposure Program = Program normal
+[Exif SubIFD] ISO Speed Ratings = 400
+[Exif SubIFD] Unknown tag (0x8830) = 1
+[Exif SubIFD] Exif Version = 2.30
+[Exif SubIFD] Date/Time Original = 2041:09:02 14:14:11
+[Exif SubIFD] Date/Time Digitized = 2041:09:02 14:14:11
+[Exif SubIFD] Components Configuration = YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel = 3.2 bits/pixel
+[Exif SubIFD] Shutter Speed Value = 1/300 sec
+[Exif SubIFD] Aperture Value = F5
+[Exif SubIFD] Brightness Value = 7.18
+[Exif SubIFD] Exposure Bias Value = 0 EV
+[Exif SubIFD] Max Aperture Value = F2
+[Exif SubIFD] Metering Mode = Multi-segment
+[Exif SubIFD] White Balance = Unknown
+[Exif SubIFD] Flash = Flash did not fire, auto
+[Exif SubIFD] Focal Length = 23.0 mm
+[Exif SubIFD] FlashPix Version = 1.00
+[Exif SubIFD] Color Space = sRGB
+[Exif SubIFD] Exif Image Width = 4288 pixels
+[Exif SubIFD] Exif Image Height = 2848 pixels
+[Exif SubIFD] Focal Plane X Resolution = 1/1821 cm
+[Exif SubIFD] Focal Plane Y Resolution = 1/1821 cm
+[Exif SubIFD] Focal Plane Resolution Unit = cm
+[Exif SubIFD] Sensing Method = One-chip color area sensor
+[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD] Custom Rendered = Normal process
+[Exif SubIFD] Exposure Mode = Auto exposure
+[Exif SubIFD] White Balance Mode = Auto white balance
+[Exif SubIFD] Scene Capture Type = Standard
+[Exif SubIFD] Sharpness = None
+[Exif SubIFD] Subject Distance Range = Unknown
+
+[Exif IFD0] Make = FUJIFILM
+[Exif IFD0] Model = FinePix X100
+[Exif IFD0] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0] X Resolution = 72 dots per inch
+[Exif IFD0] Y Resolution = 72 dots per inch
+[Exif IFD0] Resolution Unit = Inch
+[Exif IFD0] Software = Digital Camera FinePix X100 Ver1.10
+[Exif IFD0] Date/Time = 2041:09:02 14:14:11
+[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0] Copyright =     
+[Exif IFD0] Unknown tag (0xc4a5) = [106 bytes]
+
+[FujiFilm Makernote] Makernote Version = 48 49 51 48
+[FujiFilm Makernote] Unknown tag (0x0010) = 
+[FujiFilm Makernote] Quality = 
+[FujiFilm Makernote] Sharpness = Normal
+[FujiFilm Makernote] White Balance = Auto
+[FujiFilm Makernote] Color Saturation = Normal (STD)
+[FujiFilm Makernote] Unknown tag (0x100a) = 1048576 -1844838400
+[FujiFilm Makernote] Unknown tag (0x100b) = 256
+[FujiFilm Makernote] Unknown tag (0x100e) = 0
+[FujiFilm Makernote] Flash Mode = Off
+[FujiFilm Makernote] Flash Strength = 65541/60293120 EV (Apex)
+[FujiFilm Makernote] Macro = On
+[FujiFilm Makernote] Focus Mode = Auto focus
+[FujiFilm Makernote] Unknown tag (0x1022) = 1
+[FujiFilm Makernote] Unknown tag (0x1023) = 2144 1424
+[FujiFilm Makernote] Unknown tag (0x1026) = 48
+[FujiFilm Makernote] Slow Synch = Off
+[FujiFilm Makernote] Picture Mode = Program AE
+[FujiFilm Makernote] Makernote Unknown 1 = 1
+[FujiFilm Makernote] Unknown tag (0x1040) = 0
+[FujiFilm Makernote] Unknown tag (0x1041) = 0
+[FujiFilm Makernote] Continuous Taking Or Auto Bracketting = Off
+[FujiFilm Makernote] Unknown tag (0x1101) = 0
+[FujiFilm Makernote] Makernote Unknown 2 = 0
+[FujiFilm Makernote] Blur Warning = No blur warning
+[FujiFilm Makernote] Focus Warning = Auto focus good
+[FujiFilm Makernote] AE Warning = AE good
+[FujiFilm Makernote] Unknown tag (0x1303) = 0
+[FujiFilm Makernote] Unknown tag (0x1304) = 0
+[FujiFilm Makernote] Unknown tag (0x1305) = 0
+[FujiFilm Makernote] Unknown tag (0x1400) = 1
+[FujiFilm Makernote] Unknown tag (0x1401) = 0
+[FujiFilm Makernote] Unknown tag (0x1402) = 1
+[FujiFilm Makernote] Unknown tag (0x1403) = 100
+[FujiFilm Makernote] Unknown tag (0x1408) = 48 49 48 48
+[FujiFilm Makernote] Unknown tag (0x1409) = 48 49 48 48
+[FujiFilm Makernote] Unknown tag (0x140a) = 1
+[FujiFilm Makernote] Unknown tag (0x1424) = 4096
+[FujiFilm Makernote] Unknown tag (0x1430) = [129 bytes]
+[FujiFilm Makernote] Unknown tag (0x1431) = 0
+[FujiFilm Makernote] Unknown tag (0x4100) = 0
+[FujiFilm Makernote] Unknown tag (0x4200) = 0
+
+[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version = 1.00
+
+[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail] Orientation = Right side, top (Rotate 90 CW)
+[Exif Thumbnail] X Resolution = 72 dots per inch
+[Exif Thumbnail] Y Resolution = 72 dots per inch
+[Exif Thumbnail] Resolution Unit = Inch
+[Exif Thumbnail] Thumbnail Offset = 1816 bytes
+[Exif Thumbnail] Thumbnail Length = 9022 bytes
+[Exif Thumbnail] YCbCr Positioning = Datum point
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/
