@@ -36,11 +36,11 @@ FILE: fujifilm sp-2500.jpg
 [Exif IFD0] Date/Time = 2003:09:10 20:59:18
 [Exif IFD0] YCbCr Positioning = Center of pixel array
 
-[FujiFilm Makernote] Makernote Version = 48 49 51 48
-[FujiFilm Makernote] Unknown tag (0x8000) = �
-[FujiFilm Makernote] Unknown tag (0x8002) = 856100
-[FujiFilm Makernote] Unknown tag (0x8020) = 1
-[FujiFilm Makernote] Unknown tag (0x8021) = 3
+[Fujifilm Makernote] Makernote Version = 1.30
+[Fujifilm Makernote] File Source = �
+[Fujifilm Makernote] Order Number = 856100
+[Fujifilm Makernote] Unknown tag (0x8020) = 1
+[Fujifilm Makernote] Unknown tag (0x8021) = 3
 
 [Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability] Interoperability Version = 1.00

@@ -47,21 +47,21 @@ FILE: fujifilm finepix4900zoom.jpg
 [Exif IFD0] YCbCr Positioning = Datum point
 [Exif IFD0] Copyright =           
 
-[FujiFilm Makernote] Makernote Version = 48 49 51 48
-[FujiFilm Makernote] Quality = era Fine
-[FujiFilm Makernote] Sharpness = Normal
-[FujiFilm Makernote] White Balance = Auto
-[FujiFilm Makernote] Flash Mode = On
-[FujiFilm Makernote] Flash Strength = 880306512/1513107513 EV (Apex)
-[FujiFilm Makernote] Macro = Off
-[FujiFilm Makernote] Focus Mode = Auto focus
-[FujiFilm Makernote] Slow Synch = Off
-[FujiFilm Makernote] Picture Mode = Program AE
-[FujiFilm Makernote] Continuous Taking Or Auto Bracketting = Off
-[FujiFilm Makernote] Makernote Unknown 2 = 0
-[FujiFilm Makernote] Blur Warning = No blur warning
-[FujiFilm Makernote] Focus Warning = Auto focus good
-[FujiFilm Makernote] AE Warning = AE good
+[Fujifilm Makernote] Makernote Version = 1.30
+[Fujifilm Makernote] Quality = era Fine
+[Fujifilm Makernote] Sharpness = Normal
+[Fujifilm Makernote] White Balance = Auto
+[Fujifilm Makernote] Flash Mode = On
+[Fujifilm Makernote] Flash Strength = 880306512/1513107513 EV (Apex)
+[Fujifilm Makernote] Macro = Off
+[Fujifilm Makernote] Focus Mode = Auto Focus
+[Fujifilm Makernote] Slow Sync = Off
+[Fujifilm Makernote] Picture Mode = Program AE
+[Fujifilm Makernote] Auto Bracketing = Off
+[Fujifilm Makernote] Unknown tag (0x1200) = 0
+[Fujifilm Makernote] Blur Warning = No Blur Warning
+[Fujifilm Makernote] Focus Warning = Good Focus
+[Fujifilm Makernote] AE Warning = AE Good
 
 [Interoperability] Interoperability Index = Unknown ()
 [Interoperability] Interoperability Version = A6.68
