@@ -11,7 +11,7 @@ FILE: nikon d70.jpg
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
 [Exif SubIFD - 0x829d] F-Number = F4.5
-[Exif SubIFD - 0x8822] Exposure Program = Unknown program (0)
+[Exif SubIFD - 0x8822] Exposure Program = Unknown (0)
 [Exif SubIFD - 0x9000] Exif Version = 2.21
 [Exif SubIFD - 0x9003] Date/Time Original = 2004:11:21 21:29:12
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2004:11:21 21:29:12
