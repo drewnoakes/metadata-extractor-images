@@ -1,56 +1,56 @@
 FILE: kodak dc3400.jpg
 
-[JPEG] Compression Type = Baseline
-[JPEG] Data Precision = 8 bits
-[JPEG] Image Height = 1168 pixels
-[JPEG] Image Width = 1760 pixels
-[JPEG] Number of Components = 3
-[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1168 pixels
+[JPEG - 0x0003] Image Width = 1760 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Exif SubIFD] Exposure Time = 1/45 sec
-[Exif SubIFD] F-Number = F3
-[Exif SubIFD] Exif Version = 2.10
-[Exif SubIFD] Date/Time Original = 2002:01:09 22:07:02
-[Exif SubIFD] Date/Time Digitized = 2002:01:09 22:07:02
-[Exif SubIFD] Components Configuration = YCbCr
-[Exif SubIFD] Shutter Speed Value = 1/45 sec
-[Exif SubIFD] Aperture Value = F2.9
-[Exif SubIFD] Exposure Bias Value = 0 EV
-[Exif SubIFD] Max Aperture Value = F2.9
-[Exif SubIFD] Metering Mode = Average
-[Exif SubIFD] White Balance = Unknown
-[Exif SubIFD] Flash = Flash fired
-[Exif SubIFD] Focal Length = 6.3 mm
-[Exif SubIFD] FlashPix Version = 1.00
-[Exif SubIFD] Color Space = sRGB
-[Exif SubIFD] Exif Image Width = 1760 pixels
-[Exif SubIFD] Exif Image Height = 1168 pixels
-[Exif SubIFD] Exposure Index = 100
-[Exif SubIFD] Sensing Method = One-chip color area sensor
-[Exif SubIFD] File Source = Digital Still Camera (DSC)
-[Exif SubIFD] Scene Type = Directly photographed image
+[Exif SubIFD - 0x829a] Exposure Time = 1/45 sec
+[Exif SubIFD - 0x829d] F-Number = F3
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2002:01:09 22:07:02
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2002:01:09 22:07:02
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/45 sec
+[Exif SubIFD - 0x9202] Aperture Value = F2.9
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = F2.9
+[Exif SubIFD - 0x9207] Metering Mode = Average
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash fired
+[Exif SubIFD - 0x920a] Focal Length = 6.3 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 1760 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1168 pixels
+[Exif SubIFD - 0xa215] Exposure Index = 100
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
 
-[Exif IFD0] Make = EASTMAN KODAK COMPANY
-[Exif IFD0] Model = KODAK DC3400 ZOOM DIGITAL CAMERA
-[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0] X Resolution = 192 dots per inch
-[Exif IFD0] Y Resolution = 192 dots per inch
-[Exif IFD0] Resolution Unit = Inch
-[Exif IFD0] YCbCr Positioning = Center of pixel array
-[Exif IFD0] Copyright = KODAK DC3400 ZOOM DIGITAL CAMERA
+[Exif IFD0 - 0x010f] Make = EASTMAN KODAK COMPANY
+[Exif IFD0 - 0x0110] Model = KODAK DC3400 ZOOM DIGITAL CAMERA
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 192 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 192 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0x8298] Copyright = KODAK DC3400 ZOOM DIGITAL CAMERA
 
-[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability] Interoperability Version = 1.00
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
 
-[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
-[Exif Thumbnail] X Resolution = 72 dots per inch
-[Exif Thumbnail] Y Resolution = 72 dots per inch
-[Exif Thumbnail] Resolution Unit = Inch
-[Exif Thumbnail] Thumbnail Offset = 1490 bytes
-[Exif Thumbnail] Thumbnail Length = 7180 bytes
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 1490 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 7180 bytes
 
 Generated using metadata-extractor
 http://drewnoakes.com/code/exif/

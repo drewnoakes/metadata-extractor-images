@@ -2,61 +2,61 @@ FILE: canon powershot s330.jpg
 
 [ERROR: Canon Makernote] Illegally sized directory
 
-[JPEG] Compression Type = Baseline
-[JPEG] Data Precision = 8 bits
-[JPEG] Image Height = 600 pixels
-[JPEG] Image Width = 800 pixels
-[JPEG] Number of Components = 3
-[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 600 pixels
+[JPEG - 0x0003] Image Width = 800 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[JpegComment] JPEG Comment = AppleMark
+[JpegComment - 0x0000] JPEG Comment = AppleMark
 
 
-[Exif SubIFD] Exposure Time = 0.1 sec
-[Exif SubIFD] F-Number = F4.7
-[Exif SubIFD] Exif Version = 2.10
-[Exif SubIFD] Date/Time Original = 2002:11:16 15:27:01
-[Exif SubIFD] Date/Time Digitized = 2002:11:16 15:27:01
-[Exif SubIFD] Components Configuration = YCbCr
-[Exif SubIFD] Compressed Bits Per Pixel = 5 bits/pixel
-[Exif SubIFD] Shutter Speed Value = 1/9 sec
-[Exif SubIFD] Aperture Value = F4.7
-[Exif SubIFD] Exposure Bias Value = 0 EV
-[Exif SubIFD] Max Aperture Value = F2.7
-[Exif SubIFD] Metering Mode = Multi-segment
-[Exif SubIFD] Flash = Flash did not fire, auto
-[Exif SubIFD] Focal Length = 16.188 mm
-[Exif SubIFD] User Comment = 
-[Exif SubIFD] FlashPix Version = 1.00
-[Exif SubIFD] Color Space = sRGB
-[Exif SubIFD] Exif Image Width = 1600 pixels
-[Exif SubIFD] Exif Image Height = 1200 pixels
-[Exif SubIFD] Focal Plane X Resolution = 103/1600000 inches
-[Exif SubIFD] Focal Plane Y Resolution = 31/480000 inches
-[Exif SubIFD] Focal Plane Resolution Unit = Inches
-[Exif SubIFD] Sensing Method = One-chip color area sensor
-[Exif SubIFD] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0x829a] Exposure Time = 0.1 sec
+[Exif SubIFD - 0x829d] F-Number = F4.7
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2002:11:16 15:27:01
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2002:11:16 15:27:01
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 5 bits/pixel
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/9 sec
+[Exif SubIFD - 0x9202] Aperture Value = F4.7
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = F2.7
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 16.188 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 1600 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1200 pixels
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 103/1600000 inches
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 31/480000 inches
+[Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
-[Exif IFD0] Make = Canon
-[Exif IFD0] Model = Canon PowerShot S330
-[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0] X Resolution = 180 dots per inch
-[Exif IFD0] Y Resolution = 180 dots per inch
-[Exif IFD0] Resolution Unit = Inch
-[Exif IFD0] Software = QuickTime 6.0.2
-[Exif IFD0] Date/Time = 2002:11:18 22:46:09
-[Exif IFD0] Unknown tag (0x013c) = Mac OS X 10.2.2
-[Exif IFD0] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon PowerShot S330
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = QuickTime 6.0.2
+[Exif IFD0 - 0x0132] Date/Time = 2002:11:18 22:46:09
+[Exif IFD0 - 0x013c] Unknown tag (0x013c) = Mac OS X 10.2.2
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
-[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail] X Resolution = 180 dots per inch
-[Exif Thumbnail] Y Resolution = 180 dots per inch
-[Exif Thumbnail] Resolution Unit = Inch
-[Exif Thumbnail] Thumbnail Offset = 1496 bytes
-[Exif Thumbnail] Thumbnail Length = 2347 bytes
-[Exif Thumbnail] YCbCr Positioning = Center of pixel array
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 180 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 1496 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 2347 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
 
 Generated using metadata-extractor
 http://drewnoakes.com/code/exif/

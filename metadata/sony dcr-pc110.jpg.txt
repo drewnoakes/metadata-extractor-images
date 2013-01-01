@@ -2,47 +2,47 @@ FILE: sony dcr-pc110.jpg
 
 [ERROR: Exif IFD0] Invalid thumbnail data specification: Attempt to read from beyond end of underlying data source (requested index: 567, requested count: 5995, max index: 6560)
 
-[JPEG] Compression Type = Baseline
-[JPEG] Data Precision = 8 bits
-[JPEG] Image Height = 480 pixels
-[JPEG] Image Width = 640 pixels
-[JPEG] Number of Components = 3
-[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 480 pixels
+[JPEG - 0x0003] Image Width = 640 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Exif SubIFD] Exif Version = 2.10
-[Exif SubIFD] Date/Time Original = 2001:04:01 16:29:03
-[Exif SubIFD] Date/Time Digitized = 2001:04:01 16:29:03
-[Exif SubIFD] Components Configuration = YCbCr
-[Exif SubIFD] Compressed Bits Per Pixel = 2 bits/pixel
-[Exif SubIFD] FlashPix Version = 1.00
-[Exif SubIFD] Color Space = sRGB
-[Exif SubIFD] Exif Image Width = 640 pixels
-[Exif SubIFD] Exif Image Height = 480 pixels
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2001:04:01 16:29:03
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2001:04:01 16:29:03
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 640 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 480 pixels
 
-[Exif IFD0] Make = SONY
-[Exif IFD0] Model = DCR-PC100  
-[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0] X Resolution = 72 dots per inch
-[Exif IFD0] Y Resolution = 72 dots per inch
-[Exif IFD0] Resolution Unit = Inch
-[Exif IFD0] Date/Time = 2001:04:01 16:29:03
-[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x010f] Make = SONY
+[Exif IFD0 - 0x0110] Model = DCR-PC100  
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2001:04:01 16:29:03
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
-[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability] Interoperability Version = 1.00
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
 
-[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail] Unknown tag (0x010f) = SONY
-[Exif Thumbnail] Unknown tag (0x0110) = DCR-PC100  
-[Exif Thumbnail] Orientation = Top, left side (Horizontal / normal)
-[Exif Thumbnail] X Resolution = 72 dots per inch
-[Exif Thumbnail] Y Resolution = 72 dots per inch
-[Exif Thumbnail] Resolution Unit = Inch
-[Exif Thumbnail] Unknown tag (0x0132) = 2001:04:01 16:29:03
-[Exif Thumbnail] Thumbnail Offset = 561 bytes
-[Exif Thumbnail] Thumbnail Length = 5995 bytes
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x010f] Unknown tag (0x010f) = SONY
+[Exif Thumbnail - 0x0110] Unknown tag (0x0110) = DCR-PC100  
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0132] Unknown tag (0x0132) = 2001:04:01 16:29:03
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 561 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 5995 bytes
 
 Generated using metadata-extractor
 http://drewnoakes.com/code/exif/

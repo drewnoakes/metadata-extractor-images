@@ -1,61 +1,61 @@
 FILE: kyocera fc-s3.jpg
 
-[JPEG] Compression Type = Baseline
-[JPEG] Data Precision = 8 bits
-[JPEG] Image Height = 2048 pixels
-[JPEG] Image Width = 1536 pixels
-[JPEG] Number of Components = 3
-[JPEG] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
-[JPEG] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2048 pixels
+[JPEG - 0x0003] Image Width = 1536 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[JFIF] Version = 1.1
-[JFIF] Resolution Units = none
-[JFIF] X Resolution = 1 dot
-[JFIF] Y Resolution = 1 dot
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = none
+[JFIF - 0x0008] X Resolution = 1 dot
+[JFIF - 0x000a] Y Resolution = 1 dot
 
-[Exif SubIFD] Exposure Program = Program normal
-[Exif SubIFD] ISO Speed Ratings = 100
-[Exif SubIFD] Exif Version = 2.10
-[Exif SubIFD] Date/Time Original = 2001:07:11 11:18:07
-[Exif SubIFD] Date/Time Digitized = 2001:07:11 11:18:07
-[Exif SubIFD] Components Configuration = YCbCr
-[Exif SubIFD] Compressed Bits Per Pixel = 1.6 bits/pixel
-[Exif SubIFD] Shutter Speed Value = 1/630 sec
-[Exif SubIFD] Aperture Value = F6.2
-[Exif SubIFD] Exposure Bias Value = 0 EV
-[Exif SubIFD] Metering Mode = Multi-segment
-[Exif SubIFD] Flash = Flash did not fire
-[Exif SubIFD] Focal Length = 7.8 mm
-[Exif SubIFD] User Comment = 
-[Exif SubIFD] FlashPix Version = 1.00
-[Exif SubIFD] Color Space = sRGB
-[Exif SubIFD] Exif Image Width = 2048 pixels
-[Exif SubIFD] Exif Image Height = 1536 pixels
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2001:07:11 11:18:07
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2001:07:11 11:18:07
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 1.6 bits/pixel
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/630 sec
+[Exif SubIFD - 0x9202] Aperture Value = F6.2
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 7.8 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2048 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
 
-[Exif IFD0] Image Description =           
-[Exif IFD0] Make = KYOCERA
-[Exif IFD0] Model = FC-S3
-[Exif IFD0] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0] X Resolution = 72 dots per inch
-[Exif IFD0] Y Resolution = 72 dots per inch
-[Exif IFD0] Resolution Unit = Inch
-[Exif IFD0] Software = FC-S3   Ver 1.00 
-[Exif IFD0] Date/Time = 2001:07:11 11:18:07
-[Exif IFD0] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x010e] Image Description =           
+[Exif IFD0 - 0x010f] Make = KYOCERA
+[Exif IFD0 - 0x0110] Model = FC-S3
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = FC-S3   Ver 1.00 
+[Exif IFD0 - 0x0132] Date/Time = 2001:07:11 11:18:07
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
-[Kyocera/Contax Makernote] Proprietary Thumbnail Format Data = (55160 bytes)
-[Kyocera/Contax Makernote] Print Image Matching (PIM) Info = (40 bytes)
+[Kyocera/Contax Makernote - 0x0001] Proprietary Thumbnail Format Data = (55160 bytes)
+[Kyocera/Contax Makernote - 0x0e00] Print Image Matching (PIM) Info = (40 bytes)
 
-[Interoperability] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability] Interoperability Version = 1.00
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
 
-[Exif Thumbnail] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail] X Resolution = 72 dots per inch
-[Exif Thumbnail] Y Resolution = 72 dots per inch
-[Exif Thumbnail] Resolution Unit = Inch
-[Exif Thumbnail] Thumbnail Offset = 56282 bytes
-[Exif Thumbnail] Thumbnail Length = 8192 bytes
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 56282 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 8192 bytes
 
 Generated using metadata-extractor
 http://drewnoakes.com/code/exif/
