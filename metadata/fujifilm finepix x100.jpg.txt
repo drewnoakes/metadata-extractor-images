@@ -58,16 +58,16 @@ FILE: fujifilm finepix x100.jpg
 [Exif IFD0] Unknown tag (0xc4a5) = [106 bytes]
 
 [Fujifilm Makernote] Makernote Version = 1.30
-[Fujifilm Makernote] Serial Number = 
-[Fujifilm Makernote] Quality = 
+[Fujifilm Makernote] Serial Number = FPX 20892021     592D36323234110817F28030116F5A
+[Fujifilm Makernote] Quality = FINE   
 [Fujifilm Makernote] Sharpness = Normal
 [Fujifilm Makernote] White Balance = Auto
 [Fujifilm Makernote] Color Saturation = Normal
-[Fujifilm Makernote] White Balance Fine Tune = 1048576 -1844838400
+[Fujifilm Makernote] White Balance Fine Tune = 0 0
 [Fujifilm Makernote] Noise Reduction = N/A
 [Fujifilm Makernote] High ISO Noise Reduction = Normal
 [Fujifilm Makernote] Flash Mode = Off
-[Fujifilm Makernote] Flash Strength = 65541/60293120 EV (Apex)
+[Fujifilm Makernote] Flash Strength = 0 EV (Apex)
 [Fujifilm Makernote] Macro = On
 [Fujifilm Makernote] Focus Mode = Auto Focus
 [Fujifilm Makernote] Unknown tag (0x1022) = 1

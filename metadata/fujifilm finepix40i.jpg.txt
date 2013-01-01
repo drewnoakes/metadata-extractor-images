@@ -48,11 +48,11 @@ FILE: fujifilm finepix40i.jpg
 [Exif IFD0] Copyright =           
 
 [Fujifilm Makernote] Makernote Version = 1.30
-[Fujifilm Makernote] Quality =  FinePix
+[Fujifilm Makernote] Quality = NORMAL 
 [Fujifilm Makernote] Sharpness = Normal
 [Fujifilm Makernote] White Balance = Auto
 [Fujifilm Makernote] Flash Mode = On
-[Fujifilm Makernote] Flash Strength = 543764532/829580630 EV (Apex)
+[Fujifilm Makernote] Flash Strength = 0 EV (Apex)
 [Fujifilm Makernote] Macro = Off
 [Fujifilm Makernote] Focus Mode = Auto Focus
 [Fujifilm Makernote] Slow Sync = Off

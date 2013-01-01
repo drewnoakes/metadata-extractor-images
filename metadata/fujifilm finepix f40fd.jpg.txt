@@ -57,13 +57,13 @@ FILE: fujifilm finepix f40fd.jpg
 [Exif IFD0] Unknown tag (0xc4a5) = [28 bytes]
 
 [Fujifilm Makernote] Makernote Version = 1.30
-[Fujifilm Makernote] Serial Number = 20�
-[Fujifilm Makernote] Quality = 
+[Fujifilm Makernote] Serial Number = FC  A3115393     592D31333533070731962330313C44
+[Fujifilm Makernote] Quality = NORMAL 
 [Fujifilm Makernote] Sharpness = Normal
 [Fujifilm Makernote] White Balance = Auto
 [Fujifilm Makernote] Color Saturation = Normal
 [Fujifilm Makernote] Flash Mode = Off
-[Fujifilm Makernote] Flash Strength = 52166656/-1845362688 EV (Apex)
+[Fujifilm Makernote] Flash Strength = 0 EV (Apex)
 [Fujifilm Makernote] Macro = Off
 [Fujifilm Makernote] Focus Mode = Auto Focus
 [Fujifilm Makernote] Unknown tag (0x1022) = 1

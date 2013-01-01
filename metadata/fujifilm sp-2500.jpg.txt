@@ -37,7 +37,7 @@ FILE: fujifilm sp-2500.jpg
 [Exif IFD0] YCbCr Positioning = Center of pixel array
 
 [Fujifilm Makernote] Makernote Version = 1.30
-[Fujifilm Makernote] File Source = �
+[Fujifilm Makernote] File Source = 135_C
 [Fujifilm Makernote] Order Number = 856100
 [Fujifilm Makernote] Unknown tag (0x8020) = 1
 [Fujifilm Makernote] Unknown tag (0x8021) = 3
