@@ -65,7 +65,7 @@ FILE: panasonic lumix dmc-gf2.jpg
 [Panasonic Makernote - 0x001c] Macro Mode = On
 [Panasonic Makernote - 0x001f] Record Mode = Aperture Priority
 [Panasonic Makernote - 0x0020] Audio = On
-[Panasonic Makernote - 0x0021] Unknown Data Dump = [6152 bytes]
+[Panasonic Makernote - 0x0021] Unknown Data Dump = (6152 bytes)
 [Panasonic Makernote - 0x0022] Easy Mode = 0
 [Panasonic Makernote - 0x0024] Flash Bias = 0
 [Panasonic Makernote - 0x0025] Internal Serial Number = F931010080265
