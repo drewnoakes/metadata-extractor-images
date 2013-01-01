@@ -67,7 +67,7 @@ FILE: panasonic dmc-lc33 (lumix).jpg
 [Panasonic Makernote - 0x001f] Record Mode = Normal
 [Panasonic Makernote - 0x0020] Audio = On
 [Panasonic Makernote - 0x0021] Unknown Data Dump = [240 bytes]
-[Panasonic Makernote - 0x0022] Unknown tag (0x0022) = 0
+[Panasonic Makernote - 0x0022] Easy Mode = 0
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

@@ -63,7 +63,7 @@ FILE: panasonic fz5.jpg
 [Panasonic Makernote - 0x001f] Record Mode = Program
 [Panasonic Makernote - 0x0020] Audio = On
 [Panasonic Makernote - 0x0021] Unknown Data Dump = [5370 bytes]
-[Panasonic Makernote - 0x0022] Unknown tag (0x0022) = 0
+[Panasonic Makernote - 0x0022] Easy Mode = 0
 [Panasonic Makernote - 0x0023] White Balance Bias = 0
 [Panasonic Makernote - 0x0024] Flash Bias = 0
 [Panasonic Makernote - 0x0025] Internal Serial Number = S000501110223

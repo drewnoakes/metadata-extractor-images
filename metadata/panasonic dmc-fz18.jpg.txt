@@ -64,7 +64,7 @@ FILE: panasonic dmc-fz18.jpg
 [Panasonic Makernote - 0x001f] Record Mode = Program
 [Panasonic Makernote - 0x0020] Audio = On
 [Panasonic Makernote - 0x0021] Unknown Data Dump = [6152 bytes]
-[Panasonic Makernote - 0x0022] Unknown tag (0x0022) = 0
+[Panasonic Makernote - 0x0022] Easy Mode = 0
 [Panasonic Makernote - 0x0024] Flash Bias = 0
 [Panasonic Makernote - 0x0025] Internal Serial Number = S060706210122
 [Panasonic Makernote - 0x0026] Exif Version = 2.30
