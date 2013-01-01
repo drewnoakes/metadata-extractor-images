@@ -54,8 +54,8 @@ FILE: sigma dp1.jpg
 [Sigma Makernote - 0x0005] Auto Focus Mode = AF-S
 [Sigma Makernote - 0x0006] Focus Setting = AF
 [Sigma Makernote - 0x0007] White Balance = Auto
-[Sigma Makernote - 0x0008] Exposure Mode = A
-[Sigma Makernote - 0x0009] Metering Mode = 8
+[Sigma Makernote - 0x0008] Exposure Mode = Aperture Priority AE
+[Sigma Makernote - 0x0009] Metering Mode = Multi Segment
 [Sigma Makernote - 0x000a] Lens Range = 16.6
 [Sigma Makernote - 0x000b] Color Space = sRGB
 [Sigma Makernote - 0x000c] Exposure = 0
