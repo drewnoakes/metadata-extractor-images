@@ -1,7 +1,5 @@
 FILE: kodak dx6490.jpg
 
-[ERROR: Kodak Makernote] Invalid TIFF tag format code: 55303
-
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 2304 pixels
@@ -53,6 +51,33 @@ FILE: kodak dx6490.jpg
 [Exif IFD0 - 0x011b] Y Resolution = 230 dots per inch
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Kodak Makernote - 0x0000] Kodak Model = DX6490  
+[Kodak Makernote - 0x0009] Quality = Fine
+[Kodak Makernote - 0x000a] Burst Mode = Off
+[Kodak Makernote - 0x000c] Image Width = 2304
+[Kodak Makernote - 0x000e] Image Height = 1728
+[Kodak Makernote - 0x0010] Year Created = 2008
+[Kodak Makernote - 0x0012] Month/Day Created = 7 3
+[Kodak Makernote - 0x0014] Time Created = 17 21 11 46
+[Kodak Makernote - 0x0018] Burst Mode 2 = 0
+[Kodak Makernote - 0x001b] Shutter Speed = Auto
+[Kodak Makernote - 0x001c] Metering Mode = 0
+[Kodak Makernote - 0x001d] Sequence Number = 0
+[Kodak Makernote - 0x001e] F Number = 280
+[Kodak Makernote - 0x0020] Exposure Time = 1562
+[Kodak Makernote - 0x0024] Exposure Compensation = 0
+[Kodak Makernote - 0x0038] Focus Mode = Normal
+[Kodak Makernote - 0x0040] White Balance = Auto
+[Kodak Makernote - 0x005c] Flash Mode = Auto
+[Kodak Makernote - 0x005d] Flash Fired = Yes
+[Kodak Makernote - 0x005e] ISO Setting = 0
+[Kodak Makernote - 0x0060] ISO = 79
+[Kodak Makernote - 0x0062] Total Zoom = 100
+[Kodak Makernote - 0x0064] Date/Time Stamp = 0
+[Kodak Makernote - 0x0066] Color Mode = Saturated Color
+[Kodak Makernote - 0x0068] Digital Zoom = 100
+[Kodak Makernote - 0x006b] Sharpness = Normal
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

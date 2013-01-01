@@ -1,7 +1,5 @@
 FILE: kodak dx4900 zoom.jpg
 
-[ERROR: Kodak Makernote] Illegally sized directory
-
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 1632 pixels
@@ -42,6 +40,33 @@ FILE: kodak dx4900 zoom.jpg
 [Exif IFD0 - 0x011b] Y Resolution = 230 dots per inch
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Kodak Makernote - 0x0000] Kodak Model = DX4900  
+[Kodak Makernote - 0x0009] Quality = Fine
+[Kodak Makernote - 0x000a] Burst Mode = Off
+[Kodak Makernote - 0x000c] Image Width = 36873
+[Kodak Makernote - 0x000e] Image Height = 24582
+[Kodak Makernote - 0x0010] Year Created = 53767
+[Kodak Makernote - 0x0012] Month/Day Created = 5 1
+[Kodak Makernote - 0x0014] Time Created = 10 22 28 62
+[Kodak Makernote - 0x0018] Burst Mode 2 = 0
+[Kodak Makernote - 0x001b] Shutter Speed = Auto
+[Kodak Makernote - 0x001c] Metering Mode = 0
+[Kodak Makernote - 0x001d] Sequence Number = 0
+[Kodak Makernote - 0x001e] F Number = 41218
+[Kodak Makernote - 0x0020] Exposure Time = 3489726464
+[Kodak Makernote - 0x0024] Exposure Compensation = 0
+[Kodak Makernote - 0x0038] Focus Mode = Normal
+[Kodak Makernote - 0x0040] White Balance = Auto
+[Kodak Makernote - 0x005c] Flash Mode = Auto
+[Kodak Makernote - 0x005d] Flash Fired = No
+[Kodak Makernote - 0x005e] ISO Setting = 0
+[Kodak Makernote - 0x0060] ISO = 27648
+[Kodak Makernote - 0x0062] Total Zoom = 35840
+[Kodak Makernote - 0x0064] Date/Time Stamp = 0
+[Kodak Makernote - 0x0066] Color Mode = B&W
+[Kodak Makernote - 0x0068] Digital Zoom = 25600
+[Kodak Makernote - 0x006b] Sharpness = Normal
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

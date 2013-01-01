@@ -1,6 +1,6 @@
 FILE: canon powershot s30 (2).jpg
 
-[ERROR: Interoperability] Ignored directory marked to start outside data segment
+[ERROR: Interoperability] Ignored IFD marked to start outside data segment
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

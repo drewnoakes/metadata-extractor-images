@@ -1,6 +1,6 @@
 FILE: canon powershot s330.jpg
 
-[ERROR: Canon Makernote] Illegally sized directory
+[ERROR: Canon Makernote] Illegally sized IFD
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
