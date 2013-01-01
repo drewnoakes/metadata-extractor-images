@@ -73,7 +73,7 @@ FILE: casio ex-z3.jpg
 [Casio Makernote - 0x3003] Focus Mode = Unknown (5)
 [Casio Makernote - 0x3005] Unknown tag (0x3005) = 1 1
 [Casio Makernote - 0x3006] Time Zone = New York
-[Casio Makernote - 0x3007] BestShot Mode = Unknown (15)
+[Casio Makernote - 0x3007] BestShot Mode = 15
 [Casio Makernote - 0x3011] Unknown tag (0x3011) = 0 0
 [Casio Makernote - 0x3012] Unknown tag (0x3012) = 0 0
 [Casio Makernote - 0x3013] Unknown tag (0x3013) = 0 0

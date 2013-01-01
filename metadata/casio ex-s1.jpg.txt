@@ -73,7 +73,7 @@ FILE: casio ex-s1.jpg
 [Casio Makernote - 0x3003] Focus Mode = Fixation
 [Casio Makernote - 0x3005] Unknown tag (0x3005) = 0 0
 [Casio Makernote - 0x3006] Time Zone = 
-[Casio Makernote - 0x3007] BestShot Mode = Unknown (0)
+[Casio Makernote - 0x3007] BestShot Mode = 0
 [Casio Makernote - 0x3011] Unknown tag (0x3011) = 0 0
 [Casio Makernote - 0x3012] Unknown tag (0x3012) = 0 0
 [Casio Makernote - 0x3013] Unknown tag (0x3013) = 0 0
