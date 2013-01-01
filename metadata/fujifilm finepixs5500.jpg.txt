@@ -77,7 +77,7 @@ FILE: fujifilm finepixs5500.jpg
 [Fujifilm Makernote - 0x1300] Blur Warning = No Blur Warning
 [Fujifilm Makernote - 0x1301] Focus Warning = Good Focus
 [Fujifilm Makernote - 0x1302] AE Warning = AE Good
-[Fujifilm Makernote - 0x1400] Dynamic Range = Unknown (1)
+[Fujifilm Makernote - 0x1400] Dynamic Range = Standard
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

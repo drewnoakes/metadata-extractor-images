@@ -79,7 +79,7 @@ FILE: fujifilm finepix f40fd.jpg
 [Fujifilm Makernote - 0x1301] Focus Warning = Good Focus
 [Fujifilm Makernote - 0x1302] AE Warning = AE Good
 [Fujifilm Makernote - 0x1303] Unknown tag (0x1303) = 0
-[Fujifilm Makernote - 0x1400] Dynamic Range = Unknown (1)
+[Fujifilm Makernote - 0x1400] Dynamic Range = Standard
 [Fujifilm Makernote - 0x1408] Unknown tag (0x1408) = 48 49 48 48
 [Fujifilm Makernote - 0x1409] Unknown tag (0x1409) = 48 49 48 48
 [Fujifilm Makernote - 0x140a] Unknown tag (0x140a) = 0
