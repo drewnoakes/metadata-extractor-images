@@ -40,6 +40,10 @@ FILE: sanyo sr6.jpg
 [Exif IFD0 - 0x0132] Date/Time = 1998:01:01 00:00:00
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
+[Sanyo Makernote - 0x0200] Special Mode = 66316 285413634 -335528192
+[Sanyo Makernote - 0x0201] Sanyo Quality = Normal/Medium Low
+[Sanyo Makernote - 0x0f00] Data Dump = [20 ints]
+
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
