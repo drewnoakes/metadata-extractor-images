@@ -169,7 +169,7 @@ FILE: canon eos 60d.jpg
 [Canon Makernote - 0x00d0] VRD Offset = 0
 [Canon Makernote - 0x00e0] Sensor Information Array = [17 ints]
 [Canon Makernote - 0x4001] Color Data Array 1 = [1346 ints]
-[Canon Makernote - 0x4008] Unknown tag (0x4008) = 129 129 129
+[Canon Makernote - 0x4008] Black Level = 129 129 129
 [Canon Makernote - 0x4009] Unknown tag (0x4009) = 0 0 0
 [Canon Makernote - 0x4010] Custom Picture Style File Name = 
 [Canon Makernote - 0x4011] Unknown tag (0x4011) = [252 bytes]

@@ -175,7 +175,7 @@ FILE: canon eos 20d (1).jpg
 [Canon Makernote - 0x00d0] VRD Offset = 0
 [Canon Makernote - 0x00e0] Sensor Information Array = [17 ints]
 [Canon Makernote - 0x4001] Color Data Array 1 = [582 ints]
-[Canon Makernote - 0x4002] Unknown tag (0x4002) = [2676 ints]
+[Canon Makernote - 0x4002] CRW Parameters = [2676 ints]
 [Canon Makernote - 0x4003] Color Data Array 2 = [22 ints]
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)

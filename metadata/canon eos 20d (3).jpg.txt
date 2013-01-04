@@ -177,7 +177,7 @@ FILE: canon eos 20d (3).jpg
 [Canon Makernote - 0x00d0] VRD Offset = 0
 [Canon Makernote - 0x00e0] Sensor Information Array = [17 ints]
 [Canon Makernote - 0x4001] Color Data Array 1 = [582 ints]
-[Canon Makernote - 0x4002] Unknown tag (0x4002) = [2676 ints]
+[Canon Makernote - 0x4002] CRW Parameters = [2676 ints]
 [Canon Makernote - 0x4003] Color Data Array 2 = [22 ints]
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
