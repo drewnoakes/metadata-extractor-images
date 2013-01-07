@@ -14,6 +14,13 @@ FILE: htc desire.jpg
 [JFIF - 0x0008] X Resolution = 72 dots
 [JFIF - 0x000a] Y Resolution = 72 dots
 
+[Exif IFD0 - 0x010f] Make = HTC
+[Exif IFD0 - 0x0110] Model = HTC Desire
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 53
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2011:05:06 09:59:48
@@ -23,13 +30,6 @@ FILE: htc desire.jpg
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 776 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 909 pixels
-
-[Exif IFD0 - 0x010f] Make = HTC
-[Exif IFD0 - 0x0110] Model = HTC Desire
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
 
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 45° 30' 2.4"

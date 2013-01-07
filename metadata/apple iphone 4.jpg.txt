@@ -14,6 +14,15 @@ FILE: apple iphone 4.jpg
 [JFIF - 0x0008] X Resolution = 72 dots
 [JFIF - 0x000a] Y Resolution = 72 dots
 
+[Exif IFD0 - 0x010f] Make = Apple
+[Exif IFD0 - 0x0110] Model = iPhone 4
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 4.1
+[Exif IFD0 - 0x0132] Date/Time = 2011:01:13 14:33:39
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/15 sec
 [Exif SubIFD - 0x829d] F-Number = F2.8
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -36,15 +45,6 @@ FILE: apple iphone 4.jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa40a] Sharpness = Hard
-
-[Exif IFD0 - 0x010f] Make = Apple
-[Exif IFD0 - 0x0110] Model = iPhone 4
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = 4.1
-[Exif IFD0 - 0x0132] Date/Time = 2011:01:13 14:33:39
 
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 41° 51' 10.8"

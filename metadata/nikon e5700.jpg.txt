@@ -9,6 +9,20 @@ FILE: nikon e5700.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
+[Exif IFD0 - 0x010e] Image Description =           
+[Exif IFD0 - 0x010f] Make = NIKON
+[Exif IFD0 - 0x0110] Model = E5700
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = E5700v1.0
+[Exif IFD0 - 0x0132] Date/Time = 2002:08:27 15:38:49
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [255,255,255]
+[Exif IFD0 - 0x8298] Copyright =        
+[Exif IFD0 - 0x9003] Unknown tag (0x9003) = 2002:08:22 15:38:49
+
 [Exif SubIFD - 0x829a] Exposure Time = 403225/100000000 sec
 [Exif SubIFD - 0x829d] F-Number = F5.6
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -27,20 +41,6 @@ FILE: nikon e5700.jpg
 [Exif SubIFD - 0xa003] Exif Image Height = 2560 pixels
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa302] CFA Pattern = 0 2 0 2 5 3 1 4
-
-[Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
-[Exif IFD0 - 0x010e] Image Description =           
-[Exif IFD0 - 0x010f] Make = NIKON
-[Exif IFD0 - 0x0110] Model = E5700
-[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = E5700v1.0
-[Exif IFD0 - 0x0132] Date/Time = 2002:08:27 15:38:49
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [255,255,255]
-[Exif IFD0 - 0x8298] Copyright =        
-[Exif IFD0 - 0x9003] Unknown tag (0x9003) = 2002:08:22 15:38:49
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.00
 [Nikon Makernote - 0x0002] ISO = ISO 100

@@ -14,6 +14,17 @@ FILE: nikon e5000.jpg
 [JFIF - 0x0008] X Resolution = 72 dots
 [JFIF - 0x000a] Y Resolution = 72 dots
 
+[Exif IFD0 - 0x010e] Image Description =           
+[Exif IFD0 - 0x010f] Make = NIKON
+[Exif IFD0 - 0x0110] Model = E5000
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = E5000v1.6
+[Exif IFD0 - 0x0132] Date/Time = 2004:02:22 14:27:33
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/15 sec
 [Exif SubIFD - 0x829d] F-Number = F3
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
@@ -36,17 +47,6 @@ FILE: nikon e5000.jpg
 [Exif SubIFD - 0xa003] Exif Image Height = 1200 pixels
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-
-[Exif IFD0 - 0x010e] Image Description =           
-[Exif IFD0 - 0x010f] Make = NIKON
-[Exif IFD0 - 0x0110] Model = E5000
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = E5000v1.6
-[Exif IFD0 - 0x0132] Date/Time = 2004:02:22 14:27:33
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Nikon Makernote - 0x0001] Firmware Version = 1.00
 [Nikon Makernote - 0x0002] ISO = ISO 100

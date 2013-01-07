@@ -9,6 +9,16 @@ FILE: pentax optio 430.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = Asahi Optical Co.,Ltd
+[Exif IFD0 - 0x0110] Model = PENTAX Optio 430 
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver1.00              
+[Exif IFD0 - 0x0132] Date/Time = 2002:01:22 11:10:48
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/500 sec
 [Exif SubIFD - 0x829d] F-Number = F4.8
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -27,16 +37,6 @@ FILE: pentax optio 430.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 2240 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1680 pixels
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
-
-[Exif IFD0 - 0x010f] Make = Asahi Optical Co.,Ltd
-[Exif IFD0 - 0x0110] Model = PENTAX Optio 430 
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Ver1.00              
-[Exif IFD0 - 0x0132] Date/Time = 2002:01:22 11:10:48
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Pentax Makernote - 0x0001] Capture Mode = Unknown (0)
 [Pentax Makernote - 0x0002] Quality Level = Best

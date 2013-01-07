@@ -14,6 +14,17 @@ FILE: canon powershot s330.jpg
 [JpegComment - 0x0000] JPEG Comment = AppleMark
 
 
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon PowerShot S330
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = QuickTime 6.0.2
+[Exif IFD0 - 0x0132] Date/Time = 2002:11:18 22:46:09
+[Exif IFD0 - 0x013c] Unknown tag (0x013c) = Mac OS X 10.2.2
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x829a] Exposure Time = 0.1 sec
 [Exif SubIFD - 0x829d] F-Number = F4.7
 [Exif SubIFD - 0x9000] Exif Version = 2.10
@@ -38,17 +49,6 @@ FILE: canon powershot s330.jpg
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
-
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon PowerShot S330
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = QuickTime 6.0.2
-[Exif IFD0 - 0x0132] Date/Time = 2002:11:18 22:46:09
-[Exif IFD0 - 0x013c] Unknown tag (0x013c) = Mac OS X 10.2.2
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch

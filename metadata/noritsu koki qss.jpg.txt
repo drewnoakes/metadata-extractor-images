@@ -9,15 +9,6 @@ FILE: noritsu koki qss.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Exif SubIFD - 0x9000] Exif Version = 2.10
-[Exif SubIFD - 0x9003] Date/Time Original =     :  :     :  :  
-[Exif SubIFD - 0x9004] Date/Time Digitized =     :  :     :  :  
-[Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0xa000] FlashPix Version = 1.00
-[Exif SubIFD - 0xa001] Color Space = sRGB
-[Exif SubIFD - 0xa002] Exif Image Width = 3088 pixels
-[Exif SubIFD - 0xa003] Exif Image Height = 2048 pixels
-
 [Exif IFD0 - 0x010f] Make = Noritsu Koki
 [Exif IFD0 - 0x0110] Model = QSS
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -26,6 +17,15 @@ FILE: noritsu koki qss.jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original =     :  :     :  :  
+[Exif SubIFD - 0x9004] Date/Time Digitized =     :  :     :  :  
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 3088 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2048 pixels
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

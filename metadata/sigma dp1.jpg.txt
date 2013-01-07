@@ -9,6 +9,16 @@ FILE: sigma dp1.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = SIGMA
+[Exif IFD0 - 0x0110] Model = SIGMA DP1
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 1.01.0.000000000
+[Exif IFD0 - 0x0132] Date/Time = 2038:05:05 01:29:24
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x829a] Exposure Time = 0.4 sec
 [Exif SubIFD - 0x829d] F-Number = F11
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
@@ -37,16 +47,6 @@ FILE: sigma dp1.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa420] Unique Image ID = 303130303134303374a68b8031376134
 [Exif SubIFD - 0xa500] Gamma = 0
-
-[Exif IFD0 - 0x010f] Make = SIGMA
-[Exif IFD0 - 0x0110] Model = SIGMA DP1
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = 1.01.0.000000000
-[Exif IFD0 - 0x0132] Date/Time = 2038:05:05 01:29:24
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Sigma Makernote - 0x0002] Serial Number = 1001403
 [Sigma Makernote - 0x0003] Drive Mode = 2S

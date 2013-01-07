@@ -9,6 +9,18 @@ FILE: samsung gt-i9100 (galaxy sii).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 3264
+[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 2448
+[Exif IFD0 - 0x010f] Make = SAMSUNG
+[Exif IFD0 - 0x0110] Model = GT-I9100
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = I9100XWLPT
+[Exif IFD0 - 0x0132] Date/Time = 2012:12:31 16:06:20
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/33 sec
 [Exif SubIFD - 0x829d] F-Number = F2.6
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
@@ -33,18 +45,6 @@ FILE: samsung gt-i9100 (galaxy sii).jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa420] Unique Image ID = OCEE09
-
-[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 3264
-[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 2448
-[Exif IFD0 - 0x010f] Make = SAMSUNG
-[Exif IFD0 - 0x0110] Model = GT-I9100
-[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = I9100XWLPT
-[Exif IFD0 - 0x0132] Date/Time = 2012:12:31 16:06:20
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif Thumbnail - 0x0100] Thumbnail Image Width = 320 pixels
 [Exif Thumbnail - 0x0101] Thumbnail Image Height = 240 pixels

@@ -9,6 +9,18 @@ FILE: minolta dimage 7hi.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description = Minolta DSC
+[Exif IFD0 - 0x010f] Make = Minolta Co., Ltd.
+[Exif IFD0 - 0x0110] Model = DiMAGE 7Hi
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver.1.00u
+[Exif IFD0 - 0x0132] Date/Time = 2002:11:11 11:01:09
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [118 bytes]
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/500 sec
 [Exif SubIFD - 0x829d] F-Number = F6.7
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -40,18 +52,6 @@ FILE: minolta dimage 7hi.jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Distant view
-
-[Exif IFD0 - 0x010e] Image Description = Minolta DSC
-[Exif IFD0 - 0x010f] Make = Minolta Co., Ltd.
-[Exif IFD0 - 0x0110] Model = DiMAGE 7Hi
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Ver.1.00u
-[Exif IFD0 - 0x0132] Date/Time = 2002:11:11 11:01:09
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [118 bytes]
 
 [Olympus Makernote - 0x0000] Makernote Version = 77 76 84 48
 [Olympus Makernote - 0x0003] Camera Settings = [228 bytes]

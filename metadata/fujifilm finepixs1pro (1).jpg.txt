@@ -14,6 +14,20 @@ FILE: fujifilm finepixs1pro (1).jpg
 [JFIF - 0x0008] X Resolution = 300 dots
 [JFIF - 0x000a] Y Resolution = 300 dots
 
+[Exif IFD0 - 0x010e] Image Description = Communications
+[Exif IFD0 - 0x010f] Make = FUJIFILM
+[Exif IFD0 - 0x0110] Model = FinePixS1Pro
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
+[Exif IFD0 - 0x0132] Date/Time = 2002:07:19 13:28:10
+[Exif IFD0 - 0x013b] Artist = Ian Britton
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
+[Exif IFD0 - 0x8298] Copyright = ian Britton - FreeFoto.com
+
 [Exif SubIFD - 0x829d] F-Number = F0.6
 [Exif SubIFD - 0x8822] Exposure Program = Shutter priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 0
@@ -38,20 +52,6 @@ FILE: fujifilm finepixs1pro (1).jpg
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Unknown (0)
 [Exif SubIFD - 0xa301] Scene Type = Unknown (0)
-
-[Exif IFD0 - 0x010e] Image Description = Communications
-[Exif IFD0 - 0x010f] Make = FUJIFILM
-[Exif IFD0 - 0x0110] Model = FinePixS1Pro
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
-[Exif IFD0 - 0x0132] Date/Time = 2002:07:19 13:28:10
-[Exif IFD0 - 0x013b] Artist = Ian Britton
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
-[Exif IFD0 - 0x8298] Copyright = ian Britton - FreeFoto.com
 
 [GPS - 0x0000] GPS Version ID = 2.000
 [GPS - 0x0001] GPS Latitude Ref = N

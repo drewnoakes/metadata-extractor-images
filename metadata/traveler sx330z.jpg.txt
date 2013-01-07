@@ -9,6 +9,17 @@ FILE: traveler sx330z.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description = TRAVELER DIGITAL CAMERA        
+[Exif IFD0 - 0x010f] Make = TRAVELER OPTICAL CO,LTD
+[Exif IFD0 - 0x0110] Model = SX330Z
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = v951-78
+[Exif IFD0 - 0x0132] Date/Time = 2001:12:00 00:00:00
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2002:01:20 13:52:46
@@ -26,17 +37,6 @@ FILE: traveler sx330z.jpg
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 1024 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 768 pixels
-
-[Exif IFD0 - 0x010e] Image Description = TRAVELER DIGITAL CAMERA        
-[Exif IFD0 - 0x010f] Make = TRAVELER OPTICAL CO,LTD
-[Exif IFD0 - 0x0110] Model = SX330Z
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = v951-78
-[Exif IFD0 - 0x0132] Date/Time = 2001:12:00 00:00:00
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

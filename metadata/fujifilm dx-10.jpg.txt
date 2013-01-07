@@ -9,6 +9,17 @@ FILE: fujifilm dx-10.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 2, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = FUJIFILM
+[Exif IFD0 - 0x0110] Model = DX-10
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Digital Camera DX-10 Ver1.00
+[Exif IFD0 - 0x0132] Date/Time = 2001:04:12 20:33:14
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x8298] Copyright = J P Bowen 
+
 [Exif SubIFD - 0x829d] F-Number = F4.2
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 150
@@ -35,17 +46,6 @@ FILE: fujifilm dx-10.jpg
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-
-[Exif IFD0 - 0x010f] Make = FUJIFILM
-[Exif IFD0 - 0x0110] Model = DX-10
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Digital Camera DX-10 Ver1.00
-[Exif IFD0 - 0x0132] Date/Time = 2001:04:12 20:33:14
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x8298] Copyright = J P Bowen 
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

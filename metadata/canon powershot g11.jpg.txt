@@ -9,6 +9,16 @@ FILE: canon powershot g11.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description =                                
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon PowerShot G11
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2010:11:12 07:37:32
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
 [Exif SubIFD - 0x829d] F-Number = F4
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 80
@@ -39,16 +49,6 @@ FILE: canon powershot g11.jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-
-[Exif IFD0 - 0x010e] Image Description =                                
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon PowerShot G11
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2010:11:12 07:37:32
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 96
 [Canon Makernote - 0xc101] Macro Mode = Normal

@@ -14,6 +14,15 @@ FILE: canon powershot g2 (3).jpg
 [JFIF - 0x0008] X Resolution = 1 dot
 [JFIF - 0x000a] Y Resolution = 1 dot
 
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon PowerShot G2
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2003:01:09 19:12:03
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/640 sec
 [Exif SubIFD - 0x829d] F-Number = F4
 [Exif SubIFD - 0x9000] Exif Version = 2.20
@@ -43,15 +52,6 @@ FILE: canon powershot g2 (3).jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon PowerShot G2
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2003:01:09 19:12:03
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 80
 [Canon Makernote - 0xc101] Macro Mode = Normal

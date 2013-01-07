@@ -14,6 +14,17 @@ FILE: fujifilm mx-2900zoom.jpg
 [JFIF - 0x0008] X Resolution = 1 dot
 [JFIF - 0x000a] Y Resolution = 1 dot
 
+[Exif IFD0 - 0x010f] Make = FUJIFILM
+[Exif IFD0 - 0x0110] Model = MX-2900ZOOM
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Digital Camera MX-2900ZOOM Ver1.00
+[Exif IFD0 - 0x0132] Date/Time = 1999:09:15 17:03:20
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x8298] Copyright =           
+
 [Exif SubIFD - 0x829d] F-Number = F3.4
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 125
@@ -40,17 +51,6 @@ FILE: fujifilm mx-2900zoom.jpg
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-
-[Exif IFD0 - 0x010f] Make = FUJIFILM
-[Exif IFD0 - 0x0110] Model = MX-2900ZOOM
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Digital Camera MX-2900ZOOM Ver1.00
-[Exif IFD0 - 0x0132] Date/Time = 1999:09:15 17:03:20
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x8298] Copyright =           
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

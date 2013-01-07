@@ -16,6 +16,16 @@ FILE: canon powershot s30 (2).jpg
 [JFIF - 0x0008] X Resolution = 180 dots
 [JFIF - 0x000a] Y Resolution = 180 dots
 
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon PowerShot S30
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2002:10:07 08:03:20
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0xa217] Unknown tag (0xa217) = 2
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/640 sec
 [Exif SubIFD - 0x829d] F-Number = F2.8
 [Exif SubIFD - 0x9000] Exif Version = 2.10
@@ -40,16 +50,6 @@ FILE: canon powershot s30 (2).jpg
 [Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 209/1536000 inches
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
-
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon PowerShot S30
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2002:10:07 08:03:20
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0xa217] Unknown tag (0xa217) = 2
 
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 10
 [Canon Makernote - 0xc101] Macro Mode = Unknown (0)

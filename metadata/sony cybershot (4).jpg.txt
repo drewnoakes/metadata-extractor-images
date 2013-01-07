@@ -16,6 +16,16 @@ FILE: sony cybershot (4).jpg
 [JFIF - 0x0008] X Resolution = 72 dots
 [JFIF - 0x000a] Y Resolution = 72 dots
 
+[Exif IFD0 - 0x010e] Image Description =                                
+[Exif IFD0 - 0x010f] Make = SONY
+[Exif IFD0 - 0x0110] Model = CYBERSHOT
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2002:04:26 12:42:41
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/173 sec
 [Exif SubIFD - 0x829d] F-Number = F5.6
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -37,16 +47,6 @@ FILE: sony cybershot (4).jpg
 [Exif SubIFD - 0xa003] Exif Image Height = 1200 pixels
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-
-[Exif IFD0 - 0x010e] Image Description =                                
-[Exif IFD0 - 0x010f] Make = SONY
-[Exif IFD0 - 0x0110] Model = CYBERSHOT
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2002:04:26 12:42:41
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

@@ -11,6 +11,17 @@ FILE: sanyo vpcsx550.jpg
 
 [JpegComment - 0x0000] JPEG Comment = Et voila. For starters we have warmed goats cheese in breadcrumbs on a herb salad base...
 
+[Exif IFD0 - 0x010e] Image Description = SANYO DIGITAL CAMERA
+[Exif IFD0 - 0x010f] Make = SANYO Electric Co.,Ltd.
+[Exif IFD0 - 0x0110] Model = SX113 
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = V113p-73
+[Exif IFD0 - 0x0132] Date/Time = 2000:11:18 21:14:19
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x829a] Exposure Time = 10/483 sec
 [Exif SubIFD - 0x829d] F-Number = F2.4
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 400
@@ -31,17 +42,6 @@ FILE: sanyo vpcsx550.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 640 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 480 pixels
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
-
-[Exif IFD0 - 0x010e] Image Description = SANYO DIGITAL CAMERA
-[Exif IFD0 - 0x010f] Make = SANYO Electric Co.,Ltd.
-[Exif IFD0 - 0x0110] Model = SX113 
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = V113p-73
-[Exif IFD0 - 0x0132] Date/Time = 2000:11:18 21:14:19
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Sanyo Makernote - 0x0200] Special Mode = 3903884212 4055172542 1038202134
 [Sanyo Makernote - 0x0201] Sanyo Quality = Fine/Medium Low

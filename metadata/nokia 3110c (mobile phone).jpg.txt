@@ -9,13 +9,6 @@ FILE: nokia 3110c (mobile phone).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Exif SubIFD - 0x9000] Exif Version = 2.20
-[Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0xa000] FlashPix Version = 1.00
-[Exif SubIFD - 0xa001] Color Space = sRGB
-[Exif SubIFD - 0xa002] Exif Image Width = 1024 pixels
-[Exif SubIFD - 0xa003] Exif Image Height = 1280 pixels
-
 [Exif IFD0 - 0x010f] Make = Nokia
 [Exif IFD0 - 0x0110] Model = 3110c
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -24,6 +17,13 @@ FILE: nokia 3110c (mobile phone).jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = V 05.50
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 1024 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1280 pixels
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch

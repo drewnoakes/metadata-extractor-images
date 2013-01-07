@@ -9,6 +9,16 @@ FILE: nikon d70.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = NIKON CORPORATION
+[Exif IFD0 - 0x0110] Model = NIKON D70
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Nikon Transfer 6.2.1 W
+[Exif IFD0 - 0x0132] Date/Time = 2004:11:22 00:29:43
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
 [Exif SubIFD - 0x829d] F-Number = F4.5
 [Exif SubIFD - 0x8822] Exposure Program = Unknown (0)
@@ -45,16 +55,6 @@ FILE: nikon d70.jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
-
-[Exif IFD0 - 0x010f] Make = NIKON CORPORATION
-[Exif IFD0 - 0x0110] Model = NIKON D70
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Nikon Transfer 6.2.1 W
-[Exif IFD0 - 0x0132] Date/Time = 2004:11:22 00:29:43
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.00
 [Nikon Makernote - 0x0002] ISO = ISO 400

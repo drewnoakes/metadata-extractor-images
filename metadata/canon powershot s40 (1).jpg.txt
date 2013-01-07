@@ -9,6 +9,19 @@ FILE: canon powershot s40 (1).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon PowerShot S40
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = OfotoNow v3.03
+[Exif IFD0 - 0x0132] Date/Time = 2001:12:27 11:39:44
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0x9286] Unknown tag (0x9286) = &lt;?xml version="1.0"?&gt;&lt;on:exif_data version="3.0"&gt;    &lt;on:picture_id&gt;96116352105&lt;/on:picture_id&gt;    &lt;on:file_checksum&gt;2002-02-13161537&lt;/on:file_checksum&gt;&lt;/on:exif_data&gt;
+[Exif IFD0 - 0xa002] Unknown tag (0xa002) = 1600
+[Exif IFD0 - 0xa003] Unknown tag (0xa003) = 1200
+
 [Exif SubIFD - 0x829a] Exposure Time = 0.01 sec
 [Exif SubIFD - 0x829d] F-Number = F2.8
 [Exif SubIFD - 0x9000] Exif Version = 2.10
@@ -34,19 +47,6 @@ FILE: canon powershot s40 (1).jpg
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
-
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon PowerShot S40
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = OfotoNow v3.03
-[Exif IFD0 - 0x0132] Date/Time = 2001:12:27 11:39:44
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0x9286] Unknown tag (0x9286) = &lt;?xml version="1.0"?&gt;&lt;on:exif_data version="3.0"&gt;    &lt;on:picture_id&gt;96116352105&lt;/on:picture_id&gt;    &lt;on:file_checksum&gt;2002-02-13161537&lt;/on:file_checksum&gt;&lt;/on:exif_data&gt;
-[Exif IFD0 - 0xa002] Unknown tag (0xa002) = 1600
-[Exif IFD0 - 0xa003] Unknown tag (0xa003) = 1200
 
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 5
 [Canon Makernote - 0xc101] Macro Mode = Unknown (5)

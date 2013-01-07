@@ -14,6 +14,15 @@ FILE: canon eos 20d (2).jpg
 [JFIF - 0x0008] X Resolution = 1 dot
 [JFIF - 0x000a] Y Resolution = 1 dot
 
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon EOS 20D
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2005:04:10 13:04:54
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x829a] Exposure Time = 0.05 sec
 [Exif SubIFD - 0x829d] F-Number = F8
 [Exif SubIFD - 0x8822] Exposure Program = Manual control
@@ -40,15 +49,6 @@ FILE: canon eos 20d (2).jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon EOS 20D
-[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2005:04:10 13:04:54
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 1
 [Canon Makernote - 0xc101] Macro Mode = Unknown (32767)

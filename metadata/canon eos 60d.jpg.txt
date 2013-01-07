@@ -9,6 +9,17 @@ FILE: canon eos 60d.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon EOS 60D
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2010:11:08 18:33:13
+[Exif IFD0 - 0x013b] Artist = 
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x8298] Copyright = 
+
 [Exif SubIFD - 0x829a] Exposure Time = 0.01 sec
 [Exif SubIFD - 0x829d] F-Number = F8
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
@@ -45,17 +56,6 @@ FILE: canon eos 60d.jpg
 [Exif SubIFD - 0xa432] Lens Specification = 15/1 85/1 0/0 0/0
 [Exif SubIFD - 0xa434] Lens Model = EF-S15-85mm f/3.5-5.6 IS USM
 [Exif SubIFD - 0xa435] Lens Serial Number = 00002000f3
-
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon EOS 60D
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2010:11:08 18:33:13
-[Exif IFD0 - 0x013b] Artist = 
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x8298] Copyright = 
 
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 98
 [Canon Makernote - 0xc101] Macro Mode = Normal

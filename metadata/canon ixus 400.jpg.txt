@@ -9,6 +9,16 @@ FILE: canon ixus 400.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon DIGITAL IXUS 400
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = ACD Systems Digital Imaging
+[Exif IFD0 - 0x0132] Date/Time = 2003:09:09 08:15:27
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/13 sec
 [Exif SubIFD - 0x829d] F-Number = F3.5
 [Exif SubIFD - 0x9000] Exif Version = 2.10
@@ -39,16 +49,6 @@ FILE: canon ixus 400.jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon DIGITAL IXUS 400
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = ACD Systems Digital Imaging
-[Exif IFD0 - 0x0132] Date/Time = 2003:09:09 08:15:27
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 0
 [Canon Makernote - 0xc101] Macro Mode = Unknown (0)

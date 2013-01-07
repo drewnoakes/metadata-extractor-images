@@ -14,6 +14,17 @@ FILE: minolta dimage 7.jpg
 [JFIF - 0x0008] X Resolution = 1 dot
 [JFIF - 0x000a] Y Resolution = 1 dot
 
+[Exif IFD0 - 0x010e] Image Description = DCF 1.0
+[Exif IFD0 - 0x010f] Make = Minolta Co., Ltd.
+[Exif IFD0 - 0x0110] Model = DiMAGE 7
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = A1v014e
+[Exif IFD0 - 0x0132] Date/Time = 2001:07:01 18:55:08
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
 [Exif SubIFD - 0x9000] Exif Version = 2.10
@@ -32,17 +43,6 @@ FILE: minolta dimage 7.jpg
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 2560 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1920 pixels
-
-[Exif IFD0 - 0x010e] Image Description = DCF 1.0
-[Exif IFD0 - 0x010f] Make = Minolta Co., Ltd.
-[Exif IFD0 - 0x0110] Model = DiMAGE 7
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = A1v014e
-[Exif IFD0 - 0x0132] Date/Time = 2001:07:01 18:55:08
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Olympus Makernote - 0x0000] Makernote Version = 109 108 116 48
 [Olympus Makernote - 0x0001] Camera Settings = [156 bytes]

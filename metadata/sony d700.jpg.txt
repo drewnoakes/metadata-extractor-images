@@ -9,6 +9,16 @@ FILE: sony d700.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description = 
+[Exif IFD0 - 0x010f] Make = SONY
+[Exif IFD0 - 0x0110] Model = DSC-D700
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 1998:12:01 14:22:36
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 200
 [Exif SubIFD - 0x9000] Exif Version = 2.00
@@ -25,16 +35,6 @@ FILE: sony d700.jpg
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 1344 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1024 pixels
-
-[Exif IFD0 - 0x010e] Image Description = 
-[Exif IFD0 - 0x010f] Make = SONY
-[Exif IFD0 - 0x0110] Model = DSC-D700
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 1998:12:01 14:22:36
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif Thumbnail - 0x0100] Thumbnail Image Width = 80 pixels
 [Exif Thumbnail - 0x0101] Thumbnail Image Height = 60 pixels

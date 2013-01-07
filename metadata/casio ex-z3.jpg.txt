@@ -9,6 +9,17 @@ FILE: casio ex-z3.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = CASIO COMPUTER CO.,LTD 
+[Exif IFD0 - 0x0110] Model = EX-Z3  
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 1.01                 
+[Exif IFD0 - 0x0132] Date/Time = 2003:10:25 15:29:18
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [40 bytes]
+
 [Exif SubIFD - 0x829a] Exposure Time = 2 sec
 [Exif SubIFD - 0x829d] F-Number = F2.6
 [Exif SubIFD - 0x8822] Exposure Program = Manual control
@@ -38,17 +49,6 @@ FILE: casio ex-z3.jpg
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
-
-[Exif IFD0 - 0x010f] Make = CASIO COMPUTER CO.,LTD 
-[Exif IFD0 - 0x0110] Model = EX-Z3  
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = 1.01                 
-[Exif IFD0 - 0x0132] Date/Time = 2003:10:25 15:29:18
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [40 bytes]
 
 [Casio Makernote - 0x0002] Thumbnail Dimensions = 320 x 240 pixels
 [Casio Makernote - 0x0003] Thumbnail Size = 28348 bytes

@@ -9,6 +9,17 @@ FILE: panasonic lz2.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = Panasonic
+[Exif IFD0 - 0x0110] Model = DMC-LZ2
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver.1.0  
+[Exif IFD0 - 0x0132] Date/Time = 2005:03:26 13:28:27
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [208 bytes]
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/2000 sec
 [Exif SubIFD - 0x829d] F-Number = F5.6
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -41,17 +52,6 @@ FILE: panasonic lz2.jpg
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
-
-[Exif IFD0 - 0x010f] Make = Panasonic
-[Exif IFD0 - 0x0110] Model = DMC-LZ2
-[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Ver.1.0  
-[Exif IFD0 - 0x0132] Date/Time = 2005:03:26 13:28:27
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [208 bytes]
 
 [Panasonic Makernote - 0x0001] Quality Mode = High
 [Panasonic Makernote - 0x0002] Version = 1.02

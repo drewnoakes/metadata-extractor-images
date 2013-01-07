@@ -14,6 +14,17 @@ FILE: sanyo sr662.jpg
 [JFIF - 0x0008] X Resolution = 72 dots
 [JFIF - 0x000a] Y Resolution = 72 dots
 
+[Exif IFD0 - 0x010e] Image Description = SANYO DIGITAL CAMERA
+[Exif IFD0 - 0x010f] Make = SANYO Electric Co.,Ltd.
+[Exif IFD0 - 0x0110] Model = SR662
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = V662U-71
+[Exif IFD0 - 0x0132] Date/Time = 2001:09:15 18:11:27
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x829a] Exposure Time = 0.25 sec
 [Exif SubIFD - 0x829d] F-Number = F2.8
 [Exif SubIFD - 0x9000] Exif Version = 2.00
@@ -33,17 +44,6 @@ FILE: sanyo sr662.jpg
 [Exif SubIFD - 0xa003] Exif Image Height = 768 pixels
 [Exif SubIFD - 0xa004] Related Sound File =             
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
-
-[Exif IFD0 - 0x010e] Image Description = SANYO DIGITAL CAMERA
-[Exif IFD0 - 0x010f] Make = SANYO Electric Co.,Ltd.
-[Exif IFD0 - 0x0110] Model = SR662
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = V662U-71
-[Exif IFD0 - 0x0132] Date/Time = 2001:09:15 18:11:27
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Sanyo Makernote - 0x0200] Special Mode = 33554691 1114897 3502768191
 [Sanyo Makernote - 0x0201] Sanyo Quality = Normal/Medium High

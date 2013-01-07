@@ -11,6 +11,18 @@ FILE: sony nex-5n.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description =                                
+[Exif IFD0 - 0x010f] Make = SONY
+[Exif IFD0 - 0x0110] Model = NEX-5N
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 350 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 350 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = NEX-5N v1.00
+[Exif IFD0 - 0x0132] Date/Time = 2011:02:26 15:49:58
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [106 bytes]
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/2000 sec
 [Exif SubIFD - 0x829d] F-Number = F4
 [Exif SubIFD - 0x8822] Exposure Program = Shutter priority
@@ -46,18 +58,6 @@ FILE: sony nex-5n.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa432] Lens Specification = 240/10 240/10 18/10 18/10
 [Exif SubIFD - 0xa434] Lens Model = E 24mm F1.8 ZA
-
-[Exif IFD0 - 0x010e] Image Description =                                
-[Exif IFD0 - 0x010f] Make = SONY
-[Exif IFD0 - 0x0110] Model = NEX-5N
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 350 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 350 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = NEX-5N v1.00
-[Exif IFD0 - 0x0132] Date/Time = 2011:02:26 15:49:58
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [106 bytes]
 
 [Sony Makernote - 0x1003] Panorama = 3166591869 3696971355 3059175003 805952816 1532748622 1470716894 1535269779 3787405468 1398519933 945512643 944447528 2958768127 1533711707 1952835885 4288682208 394
 [Sony Makernote - 0x2000] Unknown tag (0x2000) = 0

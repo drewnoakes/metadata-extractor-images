@@ -11,6 +11,15 @@ FILE: sony dcr-pc110.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = SONY
+[Exif IFD0 - 0x0110] Model = DCR-PC100  
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2001:04:01 16:29:03
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2001:04:01 16:29:03
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2001:04:01 16:29:03
@@ -20,15 +29,6 @@ FILE: sony dcr-pc110.jpg
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 640 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 480 pixels
-
-[Exif IFD0 - 0x010f] Make = SONY
-[Exif IFD0 - 0x0110] Model = DCR-PC100  
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2001:04:01 16:29:03
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

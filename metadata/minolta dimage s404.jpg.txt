@@ -11,6 +11,17 @@ FILE: minolta dimage s404.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description = DCF 1.0
+[Exif IFD0 - 0x010f] Make = Minolta Co., Ltd.
+[Exif IFD0 - 0x0110] Model = DiMAGE S404
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = D2v001e
+[Exif IFD0 - 0x0132] Date/Time = 2002:05:16 15:43:26
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x8822] Exposure Program = Portrait mode
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 64
 [Exif SubIFD - 0x9000] Exif Version = 2.10
@@ -29,17 +40,6 @@ FILE: minolta dimage s404.jpg
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 2272 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1704 pixels
-
-[Exif IFD0 - 0x010e] Image Description = DCF 1.0
-[Exif IFD0 - 0x010f] Make = Minolta Co., Ltd.
-[Exif IFD0 - 0x0110] Model = DiMAGE S404
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = D2v001e
-[Exif IFD0 - 0x0132] Date/Time = 2002:05:16 15:43:26
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Olympus Makernote - 0x0000] Makernote Version = 77 76 84 48
 [Olympus Makernote - 0x0001] Camera Settings = [172 bytes]

@@ -14,6 +14,15 @@ FILE: hp photosmart c812.jpg
 [JFIF - 0x0008] X Resolution = 1 dot
 [JFIF - 0x000a] Y Resolution = 1 dot
 
+[Exif IFD0 - 0x010f] Make = Hewlett-Packard
+[Exif IFD0 - 0x0110] Model = HP PhotoSmart C812 (V09.33)
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0x92d6] Unknown tag (0x92d6) = 
+
 [Exif SubIFD - 0x829a] Exposure Time = 76/50000 sec
 [Exif SubIFD - 0x829d] F-Number = F5.5
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
@@ -30,15 +39,6 @@ FILE: hp photosmart c812.jpg
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 2272 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1712 pixels
-
-[Exif IFD0 - 0x010f] Make = Hewlett-Packard
-[Exif IFD0 - 0x0110] Model = HP PhotoSmart C812 (V09.33)
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0x92d6] Unknown tag (0x92d6) = 
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

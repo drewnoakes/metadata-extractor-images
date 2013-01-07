@@ -14,15 +14,6 @@ FILE: kodak proback.jpg
 [JFIF - 0x0008] X Resolution = 1 dot
 [JFIF - 0x000a] Y Resolution = 1 dot
 
-[Exif SubIFD - 0x9000] Exif Version = 2.10
-[Exif SubIFD - 0x9003] Date/Time Original = 2004:03:13 12:33:04
-[Exif SubIFD - 0x9004] Date/Time Digitized = 2004:03:13 12:33:04
-[Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0xa000] FlashPix Version = 1.00
-[Exif SubIFD - 0xa001] Color Space = sRGB
-[Exif SubIFD - 0xa002] Exif Image Width = 4062 pixels
-[Exif SubIFD - 0xa003] Exif Image Height = 2902 pixels
-
 [Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 0
 [Exif IFD0 - 0x010e] Image Description = 
 [Exif IFD0 - 0x010f] Make = Kodak
@@ -36,6 +27,15 @@ FILE: kodak proback.jpg
 [Exif IFD0 - 0x8290] Unknown tag (0x8290) = 356
 [Exif IFD0 - 0x83bb] Unknown tag (0x83bb) = [1024 longs]
 [Exif IFD0 - 0x9003] Unknown tag (0x9003) = 2004:03:13 12:33:04
+
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2004:03:13 12:33:04
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2004:03:13 12:33:04
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4062 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2902 pixels
 
 [Exif Thumbnail - 0x00fe] Unknown tag (0x00fe) = 0
 [Exif Thumbnail - 0x0100] Thumbnail Image Width = 156 pixels

@@ -9,6 +9,17 @@ FILE: samsung gt-i9000 (galaxy s).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 2, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description = SAMSUNG            
+[Exif IFD0 - 0x010f] Make = SAMSUNG            
+[Exif IFD0 - 0x0110] Model = GT-I9000
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = fw 05.15 prm 07.53 
+[Exif IFD0 - 0x0132] Date/Time = 2011:04:02 18:30:10
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x829a] Exposure Time = 512/6888 sec
 [Exif SubIFD - 0x829d] F-Number = F2.6
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -42,17 +53,6 @@ FILE: samsung gt-i9000 (galaxy s).jpg
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
-
-[Exif IFD0 - 0x010e] Image Description = SAMSUNG            
-[Exif IFD0 - 0x010f] Make = SAMSUNG            
-[Exif IFD0 - 0x0110] Model = GT-I9000
-[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = fw 05.15 prm 07.53 
-[Exif IFD0 - 0x0132] Date/Time = 2011:04:02 18:30:10
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

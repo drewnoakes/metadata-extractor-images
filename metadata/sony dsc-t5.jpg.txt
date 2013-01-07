@@ -9,6 +9,17 @@ FILE: sony dsc-t5.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description =                                
+[Exif IFD0 - 0x010f] Make = SONY
+[Exif IFD0 - 0x0110] Model = DSC-T5
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2007:07:13 14:24:53
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [28 bytes]
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/125 sec
 [Exif SubIFD - 0x829d] F-Number = F6.3
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -37,17 +48,6 @@ FILE: sony dsc-t5.jpg
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
-
-[Exif IFD0 - 0x010e] Image Description =                                
-[Exif IFD0 - 0x010f] Make = SONY
-[Exif IFD0 - 0x0110] Model = DSC-T5
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2007:07:13 14:24:53
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [28 bytes]
 
 [Sony Makernote - 0x2000] Unknown tag (0x2000) = 0
 [Sony Makernote - 0x9001] Unknown tag (0x9001) = [148 bytes]

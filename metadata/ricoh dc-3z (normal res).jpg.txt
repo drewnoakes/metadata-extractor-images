@@ -9,6 +9,19 @@ FILE: ricoh dc-3z (normal res).jpg
 [JPEG - 0x0007] Component 2 = Y component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = RICOH      
+[Exif IFD0 - 0x0110] Model = DC-3Z          
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x013e] White Point = 3720/10000 3714/10000
+[Exif IFD0 - 0x013f] Primary Chromaticities = 640/1000 330/1000 300/1000 600/1000 150/1000 60/1000
+[Exif IFD0 - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
+[Exif IFD0 - 0x8298] Copyright = (C)Hendrik W�rdehoff     
+
 [Exif SubIFD - 0x9000] Exif Version = 1.10
 [Exif SubIFD - 0x9003] Date/Time Original = 1997:01:28 02:13:30
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
@@ -22,19 +35,6 @@ FILE: ricoh dc-3z (normal res).jpg
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 15.0 mm
 [Exif SubIFD - 0x9286] User Comment = 
-
-[Exif IFD0 - 0x010f] Make = RICOH      
-[Exif IFD0 - 0x0110] Model = DC-3Z          
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x013e] White Point = 3720/10000 3714/10000
-[Exif IFD0 - 0x013f] Primary Chromaticities = 640/1000 330/1000 300/1000 600/1000 150/1000 60/1000
-[Exif IFD0 - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
-[Exif IFD0 - 0x8298] Copyright = (C)Hendrik W�rdehoff     
 
 Generated using metadata-extractor
 http://drewnoakes.com/code/exif/

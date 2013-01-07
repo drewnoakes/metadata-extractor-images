@@ -11,6 +11,19 @@ FILE: nikon d40.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = NIKON CORPORATION
+[Exif IFD0 - 0x0110] Model = NIKON D40
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver.1.00 
+[Exif IFD0 - 0x0132] Date/Time = 2006:12:16 12:42:05
+[Exif IFD0 - 0x013b] Artist = Phil Askey
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x9c9d] Windows XP Author = Phil Askey
+[Exif IFD0 - 0xea1c] Unknown tag (0xea1c) = [2060 bytes]
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/160 sec
 [Exif SubIFD - 0x829d] F-Number = F6.3
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -51,19 +64,6 @@ FILE: nikon d40.jpg
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 [Exif SubIFD - 0xea1c] Unknown tag (0xea1c) = [2060 bytes]
 [Exif SubIFD - 0xea1d] Unknown tag (0xea1d) = 4122
-
-[Exif IFD0 - 0x010f] Make = NIKON CORPORATION
-[Exif IFD0 - 0x0110] Model = NIKON D40
-[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
-[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Ver.1.00 
-[Exif IFD0 - 0x0132] Date/Time = 2006:12:16 12:42:05
-[Exif IFD0 - 0x013b] Artist = Phil Askey
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x9c9d] Windows XP Author = Phil Askey
-[Exif IFD0 - 0xea1c] Unknown tag (0xea1c) = [2060 bytes]
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.10
 [Nikon Makernote - 0x0002] ISO = ISO 200

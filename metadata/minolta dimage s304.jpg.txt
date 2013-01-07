@@ -9,6 +9,17 @@ FILE: minolta dimage s304.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description = DCF 1.0
+[Exif IFD0 - 0x010f] Make = Minolta Co., Ltd.
+[Exif IFD0 - 0x0110] Model = DiMAGE S304
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = D1v024j
+[Exif IFD0 - 0x0132] Date/Time = 2001:09:01 11:18:11
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 125
 [Exif SubIFD - 0x9000] Exif Version = 2.10
@@ -28,17 +39,6 @@ FILE: minolta dimage s304.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 2048 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
 [Exif SubIFD - 0xa004] Related Sound File = PICT0057.WAV
-
-[Exif IFD0 - 0x010e] Image Description = DCF 1.0
-[Exif IFD0 - 0x010f] Make = Minolta Co., Ltd.
-[Exif IFD0 - 0x0110] Model = DiMAGE S304
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = D1v024j
-[Exif IFD0 - 0x0132] Date/Time = 2001:09:01 11:18:11
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Olympus Makernote - 0x0000] Makernote Version = 109 108 116 48
 [Olympus Makernote - 0x0001] Camera Settings = [172 bytes]

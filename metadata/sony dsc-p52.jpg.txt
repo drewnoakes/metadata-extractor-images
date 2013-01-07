@@ -11,6 +11,17 @@ FILE: sony dsc-p52.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description =                                
+[Exif IFD0 - 0x010f] Make = SONY
+[Exif IFD0 - 0x0110] Model = DSC-P52
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2003:07:07 15:44:28
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [28 bytes]
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/40 sec
 [Exif SubIFD - 0x829d] F-Number = F4
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -36,17 +47,6 @@ FILE: sony dsc-p52.jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-
-[Exif IFD0 - 0x010e] Image Description =                                
-[Exif IFD0 - 0x010f] Make = SONY
-[Exif IFD0 - 0x0110] Model = DSC-P52
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2003:07:07 15:44:28
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [28 bytes]
 
 [Sony Makernote - 0x9001] Unknown tag (0x9001) = [148 bytes]
 [Sony Makernote - 0x9002] Unknown tag (0x9002) = [200 bytes]

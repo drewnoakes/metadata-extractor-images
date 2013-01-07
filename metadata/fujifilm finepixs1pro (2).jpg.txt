@@ -14,6 +14,20 @@ FILE: fujifilm finepixs1pro (2).jpg
 [JFIF - 0x0008] X Resolution = 72 dots
 [JFIF - 0x000a] Y Resolution = 72 dots
 
+[Exif IFD0 - 0x010e] Image Description = Harvest
+[Exif IFD0 - 0x010f] Make = FUJIFILM
+[Exif IFD0 - 0x0110] Model = FinePixS2Pro
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
+[Exif IFD0 - 0x0132] Date/Time = 2002:09:17 12:41:04
+[Exif IFD0 - 0x013b] Artist = Ian Britton
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
+[Exif IFD0 - 0x8298] Copyright = ian Britton - FreeFoto.com
+
 [Exif SubIFD - 0x829a] Exposure Time = 167772160/3791912960 sec
 [Exif SubIFD - 0x829d] F-Number = F1.1
 [Exif SubIFD - 0x8822] Exposure Program = Shutter priority
@@ -40,20 +54,6 @@ FILE: fujifilm finepixs1pro (2).jpg
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Unknown (0)
 [Exif SubIFD - 0xa301] Scene Type = Unknown (0)
-
-[Exif IFD0 - 0x010e] Image Description = Harvest
-[Exif IFD0 - 0x010f] Make = FUJIFILM
-[Exif IFD0 - 0x0110] Model = FinePixS2Pro
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
-[Exif IFD0 - 0x0132] Date/Time = 2002:09:17 12:41:04
-[Exif IFD0 - 0x013b] Artist = Ian Britton
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
-[Exif IFD0 - 0x8298] Copyright = ian Britton - FreeFoto.com
 
 [GPS - 0x0000] GPS Version ID = 2.000
 [GPS - 0x0001] GPS Latitude Ref = N

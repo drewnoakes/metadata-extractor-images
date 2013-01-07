@@ -9,6 +9,15 @@ FILE: hp photosmart 735.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = Hewlett-Packard
+[Exif IFD0 - 0x0110] Model = hp photosmart 735
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver 1.12
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x829a] Exposure Time = 10218/1000000 sec
 [Exif SubIFD - 0x829d] F-Number = F4.3
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -40,15 +49,6 @@ FILE: hp photosmart 735.jpg
 [Exif SubIFD - 0xa409] Saturation = High saturation
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
-
-[Exif IFD0 - 0x010f] Make = Hewlett-Packard
-[Exif IFD0 - 0x0110] Model = hp photosmart 735
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Ver 1.12
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

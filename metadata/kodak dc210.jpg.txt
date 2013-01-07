@@ -11,6 +11,16 @@ FILE: kodak dc210.jpg
 
 [JpegComment - 0x0000] JPEG Comment = Lovely smoke effect here, of which I'm secretly very proud.
 
+[Exif IFD0 - 0x010e] Image Description = 
+[Exif IFD0 - 0x010f] Make = Eastman Kodak Company
+[Exif IFD0 - 0x0110] Model = DC210 Zoom (V05.00)
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 216 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 216 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0x8298] Copyright = 
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
 [Exif SubIFD - 0x829d] F-Number = F4
 [Exif SubIFD - 0x9000] Exif Version = 1.10
@@ -27,16 +37,6 @@ FILE: kodak dc210.jpg
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired
 [Exif SubIFD - 0x920a] Focal Length = 4.4 mm
-
-[Exif IFD0 - 0x010e] Image Description = 
-[Exif IFD0 - 0x010f] Make = Eastman Kodak Company
-[Exif IFD0 - 0x0110] Model = DC210 Zoom (V05.00)
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 216 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 216 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0x8298] Copyright = 
 
 [Exif Thumbnail - 0x0100] Thumbnail Image Width = 96 pixels
 [Exif Thumbnail - 0x0101] Thumbnail Image Height = 72 pixels

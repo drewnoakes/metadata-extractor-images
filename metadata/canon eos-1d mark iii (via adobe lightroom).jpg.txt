@@ -9,6 +9,16 @@ FILE: canon eos-1d mark iii (via adobe lightroom).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description = caption
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon EOS-1D Mark III
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop Lightroom
+[Exif IFD0 - 0x0132] Date/Time = 2008:12:19 19:06:11
+[Exif IFD0 - 0x8298] Copyright = iptc copyright-copyright
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/640 sec
 [Exif SubIFD - 0x829d] F-Number = F5.6
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -32,16 +42,6 @@ FILE: canon eos-1d mark iii (via adobe lightroom).jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-
-[Exif IFD0 - 0x010e] Image Description = caption
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon EOS-1D Mark III
-[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Adobe Photoshop Lightroom
-[Exif IFD0 - 0x0132] Date/Time = 2008:12:19 19:06:11
-[Exif IFD0 - 0x8298] Copyright = iptc copyright-copyright
 
 [Xmp - 0x0006] Lens Information = 70/1 200/1 0/0 0/0
 [Xmp - 0x0007] Lens = EF70-200mm f/2.8L IS USM

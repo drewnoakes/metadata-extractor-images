@@ -9,6 +9,14 @@ FILE: hp photosmart 318.jpg
 [JPEG - 0x0007] Component 2 = Y component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = Hewlett-Packard
+[Exif IFD0 - 0x0110] Model = HP PhotoSmart 318
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = V4.00
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
 [Exif SubIFD - 0x829a] Exposure Time = 33147/1000000 sec
 [Exif SubIFD - 0x829d] F-Number = F28
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
@@ -29,14 +37,6 @@ FILE: hp photosmart 318.jpg
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 1792 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1200 pixels
-
-[Exif IFD0 - 0x010f] Make = Hewlett-Packard
-[Exif IFD0 - 0x0110] Model = HP PhotoSmart 318
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = V4.00
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

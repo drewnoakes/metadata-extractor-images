@@ -9,6 +9,18 @@ FILE: fujifilm finepix x100.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 2, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = FUJIFILM
+[Exif IFD0 - 0x0110] Model = FinePix X100
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Digital Camera FinePix X100 Ver1.10
+[Exif IFD0 - 0x0132] Date/Time = 2041:09:02 14:14:11
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x8298] Copyright =     
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [106 bytes]
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/300 sec
 [Exif SubIFD - 0x829d] F-Number = F5
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -44,18 +56,6 @@ FILE: fujifilm finepix x100.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
-
-[Exif IFD0 - 0x010f] Make = FUJIFILM
-[Exif IFD0 - 0x0110] Model = FinePix X100
-[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Digital Camera FinePix X100 Ver1.10
-[Exif IFD0 - 0x0132] Date/Time = 2041:09:02 14:14:11
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x8298] Copyright =     
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [106 bytes]
 
 [Fujifilm Makernote - 0x0000] Makernote Version = 1.30
 [Fujifilm Makernote - 0x0010] Serial Number = FPX 20892021     592D36323234110817F28030116F5A

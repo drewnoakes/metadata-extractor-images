@@ -9,6 +9,15 @@ FILE: kodak dc3400.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = EASTMAN KODAK COMPANY
+[Exif IFD0 - 0x0110] Model = KODAK DC3400 ZOOM DIGITAL CAMERA
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 192 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 192 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0x8298] Copyright = KODAK DC3400 ZOOM DIGITAL CAMERA
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/45 sec
 [Exif SubIFD - 0x829d] F-Number = F3
 [Exif SubIFD - 0x9000] Exif Version = 2.10
@@ -31,15 +40,6 @@ FILE: kodak dc3400.jpg
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-
-[Exif IFD0 - 0x010f] Make = EASTMAN KODAK COMPANY
-[Exif IFD0 - 0x0110] Model = KODAK DC3400 ZOOM DIGITAL CAMERA
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 192 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 192 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0x8298] Copyright = KODAK DC3400 ZOOM DIGITAL CAMERA
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

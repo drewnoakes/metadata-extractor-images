@@ -9,6 +9,22 @@ FILE: canon powershot a85.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon PowerShot A85
+[Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
+[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2005:01:31 05:51:17
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0x1001] Unknown tag (0x1001) = 2272
+[Exif IFD0 - 0x1002] Unknown tag (0x1002) = 1704
+[Exif IFD0 - 0xa401] Unknown tag (0xa401) = 0
+[Exif IFD0 - 0xa402] Unknown tag (0xa402) = 0
+[Exif IFD0 - 0xa403] Unknown tag (0xa403) = 1
+[Exif IFD0 - 0xa404] Unknown tag (0xa404) = 1
+[Exif IFD0 - 0xa406] Unknown tag (0xa406) = 0
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/160 sec
 [Exif SubIFD - 0x829d] F-Number = F6.3
 [Exif SubIFD - 0x9000] Exif Version = 2.20
@@ -33,22 +49,6 @@ FILE: canon powershot a85.jpg
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
-
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon PowerShot A85
-[Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
-[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2005:01:31 05:51:17
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0x1001] Unknown tag (0x1001) = 2272
-[Exif IFD0 - 0x1002] Unknown tag (0x1002) = 1704
-[Exif IFD0 - 0xa401] Unknown tag (0xa401) = 0
-[Exif IFD0 - 0xa402] Unknown tag (0xa402) = 0
-[Exif IFD0 - 0xa403] Unknown tag (0xa403) = 1
-[Exif IFD0 - 0xa404] Unknown tag (0xa404) = 1
-[Exif IFD0 - 0xa406] Unknown tag (0xa406) = 0
 
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 0
 [Canon Makernote - 0xc101] Macro Mode = Unknown (0)

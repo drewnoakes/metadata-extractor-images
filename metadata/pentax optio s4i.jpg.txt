@@ -9,6 +9,15 @@ FILE: pentax optio s4i.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010f] Make = PENTAX Corporation 
+[Exif IFD0 - 0x0110] Model = PENTAX Optio S4i 
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Optio S4i Ver 1.01 
+[Exif IFD0 - 0x0132] Date/Time = 2004:08:30 17:33:34
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/1000 sec
 [Exif SubIFD - 0x829d] F-Number = F4.3
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 50
@@ -36,15 +45,6 @@ FILE: pentax optio s4i.jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Distant view
-
-[Exif IFD0 - 0x010f] Make = PENTAX Corporation 
-[Exif IFD0 - 0x0110] Model = PENTAX Optio S4i 
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Optio S4i Ver 1.01 
-[Exif IFD0 - 0x0132] Date/Time = 2004:08:30 17:33:34
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

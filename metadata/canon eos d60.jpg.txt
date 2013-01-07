@@ -14,6 +14,16 @@ FILE: canon eos d60.jpg
 [JFIF - 0x0008] X Resolution = 300 dots
 [JFIF - 0x000a] Y Resolution = 300 dots
 
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon EOS D60
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
+[Exif IFD0 - 0x0132] Date/Time = 2002:10:26 23:35:08
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
 [Exif SubIFD - 0x829d] F-Number = F2.8
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 400
@@ -43,16 +53,6 @@ FILE: canon eos d60.jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon EOS D60
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
-[Exif IFD0 - 0x0132] Date/Time = 2002:10:26 23:35:08
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch

@@ -14,6 +14,16 @@ FILE: fujifilm sp-2500.jpg
 [JFIF - 0x0008] X Resolution = 72 dots
 [JFIF - 0x000a] Y Resolution = 72 dots
 
+[Exif IFD0 - 0x010f] Make = FUJI PHOTO FILM CO., LTD.
+[Exif IFD0 - 0x0110] Model = SP-2500
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = FDi V4.5 / FRONTIER390-6.0-0F-265
+[Exif IFD0 - 0x0132] Date/Time = 2003:09:10 20:59:18
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original =     :  :     :  :  
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2003:09:10 20:59:18
@@ -25,16 +35,6 @@ FILE: fujifilm sp-2500.jpg
 [Exif SubIFD - 0xa003] Exif Image Height = 2240 pixels
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-
-[Exif IFD0 - 0x010f] Make = FUJI PHOTO FILM CO., LTD.
-[Exif IFD0 - 0x0110] Model = SP-2500
-[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = FDi V4.5 / FRONTIER390-6.0-0F-265
-[Exif IFD0 - 0x0132] Date/Time = 2003:09:10 20:59:18
-[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Fujifilm Makernote - 0x0000] Makernote Version = 1.30
 [Fujifilm Makernote - 0x8000] File Source = 135_C

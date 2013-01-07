@@ -12,6 +12,18 @@ FILE: nikon d1x.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Exif IFD0 - 0x010e] Image Description =                                
+[Exif IFD0 - 0x010f] Make = NIKON CORPORATION
+[Exif IFD0 - 0x0110] Model = NIKON D1X
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver.5.01 
+[Exif IFD0 - 0x0132] Date/Time = 2003:08:06 18:04:34
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
+[Exif IFD0 - 0x8298] Copyright = Copyright,                      
+
 [Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
 [Exif SubIFD - 0x829d] F-Number = F4.8
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
@@ -48,18 +60,6 @@ FILE: nikon d1x.jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = Low
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
-
-[Exif IFD0 - 0x010e] Image Description =                                
-[Exif IFD0 - 0x010f] Make = NIKON CORPORATION
-[Exif IFD0 - 0x0110] Model = NIKON D1X
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = Ver.5.01 
-[Exif IFD0 - 0x0132] Date/Time = 2003:08:06 18:04:34
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
-[Exif IFD0 - 0x8298] Copyright = Copyright,                      
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.00
 [Nikon Makernote - 0x0002] ISO = ISO 200
