@@ -1,7 +1,5 @@
 FILE: canon eos 20d (3).jpg
 
-[ERROR: Exif Thumbnail] Invalid TIFF tag format code: 321
-
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 2336 pixels
@@ -138,7 +136,7 @@ FILE: canon eos 20d (3).jpg
 [Canon Makernote - 0x000c] Camera Serial Number = 009800002
 [Canon Makernote - 0x000d] Camera Info Array = [1024 bytes]
 [Canon Makernote - 0x000f] Custom Functions = [19 ints]
-[Canon Makernote - 0x0010] Canon Model ID = -2147483275
+[Canon Makernote - 0x0010] Canon Model ID = 2147484021
 [Canon Makernote - 0xd200] AF Point Count = 9
 [Canon Makernote - 0xd201] Valid AF Point Count = 9
 [Canon Makernote - 0xd202] Image Width = 3504
@@ -168,7 +166,7 @@ FILE: canon eos 20d (3).jpg
 [Canon Makernote - 0xd21a] Unknown tag (0xd21a) = 267
 [Canon Makernote - 0xd21b] Unknown tag (0xd21b) = 65535
 [Canon Makernote - 0x0013] Thumbnail Image Valid Area = 0 159 7 112
-[Canon Makernote - 0x0015] Serial Number Format = -1610612736
+[Canon Makernote - 0x0015] Serial Number Format = 2684354560
 [Canon Makernote - 0x0019] Unknown tag (0x0019) = 1
 [Canon Makernote - 0x0083] Original Decision Data Offset = 0
 [Canon Makernote - 0x0093] File Info Array = 32 6593 74 0 0 0 65535 65535 0 0 0 0 0 0 0 0
@@ -180,15 +178,15 @@ FILE: canon eos 20d (3).jpg
 [Canon Makernote - 0x4002] CRW Parameters = [2676 ints]
 [Canon Makernote - 0x4003] Color Data Array 2 = [22 ints]
 
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 9716 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 9874 bytes
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
 
 Generated using metadata-extractor
 http://drewnoakes.com/code/exif/

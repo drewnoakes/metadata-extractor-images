@@ -44,7 +44,7 @@ FILE: minolta dimage x.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Olympus Makernote - 0x0000] Makernote Version = 77 76 84 48
-[Olympus Makernote - 0x0200] Special Mode = Normal picture taking mode - Unknown sequence number - 
+[Olympus Makernote - 0x0200] Special Mode = Normal picture taking mode
 [Olympus Makernote - 0x0201] JPEG Quality = SHQ
 [Olympus Makernote - 0x0202] Macro = Normal (no macro)
 [Olympus Makernote - 0x0203] BW Mode = Off

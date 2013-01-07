@@ -45,9 +45,9 @@ FILE: sanyo sr662.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2001:09:15 18:11:27
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
-[Sanyo Makernote - 0x0200] Special Mode = 33554691 1114897 -792199105
+[Sanyo Makernote - 0x0200] Special Mode = 33554691 1114897 3502768191
 [Sanyo Makernote - 0x0201] Sanyo Quality = Normal/Medium High
-[Sanyo Makernote - 0x0f00] Data Dump = [20 ints]
+[Sanyo Makernote - 0x0f00] Data Dump = [20 longs]
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch

@@ -81,7 +81,7 @@ FILE: sony dsc-h9.jpg
 [Sony Makernote - 0x900a] Unknown tag (0x900a) = [200 bytes]
 [Sony Makernote - 0x900b] Unknown tag (0x900b) = [200 bytes]
 [Sony Makernote - 0x900c] Unknown tag (0x900c) = [500 bytes]
-[Sony Makernote - 0xa000] Unknown tag (0xa000) = -2147483643
+[Sony Makernote - 0xa000] Unknown tag (0xa000) = 2147483653
 [Sony Makernote - 0xa001] Unknown tag (0xa001) = 16
 [Sony Makernote - 0xa100] Unknown tag (0xa100) = [136 bytes]
 [Sony Makernote - 0xa101] Unknown tag (0xa101) = [404 bytes]

@@ -139,11 +139,11 @@ FILE: canon powershot a560.jpg
 [Canon Makernote - 0x0007] Firmware Version = Firmware Version 1.00
 [Canon Makernote - 0x0008] Image Number = 1000533
 [Canon Makernote - 0x0009] Owner Name = 
-[Canon Makernote - 0x000d] Camera Info Array = [148 ints]
+[Canon Makernote - 0x000d] Camera Info Array = [148 longs]
 [Canon Makernote - 0x0010] Canon Model ID = 34865152
 [Canon Makernote - 0x0026] AF Info Array 2 = [48 ints]
 [Canon Makernote - 0x0013] Thumbnail Image Valid Area = 0 0 0 0
-[Canon Makernote - 0x0018] Unknown tag (0x0018) = [256 ints]
+[Canon Makernote - 0x0018] Unknown tag (0x0018) = [256 shorts]
 [Canon Makernote - 0x0019] Unknown tag (0x0019) = 1
 [Canon Makernote - 0x001c] Date Stamp Mode = 0
 [Canon Makernote - 0x001d] My Colors = 32 1 0 2 2 2 2 0 0 0 0 0 0 0 0 0

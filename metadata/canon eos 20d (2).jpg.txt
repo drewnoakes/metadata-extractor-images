@@ -141,7 +141,7 @@ FILE: canon eos 20d (2).jpg
 [Canon Makernote - 0x000c] Camera Serial Number = 002000104
 [Canon Makernote - 0x000d] Camera Info Array = [1024 bytes]
 [Canon Makernote - 0x000f] Custom Functions = [19 ints]
-[Canon Makernote - 0x0010] Canon Model ID = -2147483275
+[Canon Makernote - 0x0010] Canon Model ID = 2147484021
 [Canon Makernote - 0xd200] AF Point Count = 571
 [Canon Makernote - 0xd201] Valid AF Point Count = 8
 [Canon Makernote - 0xd202] Image Width = 504
@@ -171,7 +171,7 @@ FILE: canon eos 20d (2).jpg
 [Canon Makernote - 0xd21a] Unknown tag (0xd21a) = 3072
 [Canon Makernote - 0xd21b] Unknown tag (0xd21b) = 3328
 [Canon Makernote - 0x0013] Thumbnail Image Valid Area = 0 0 0 0
-[Canon Makernote - 0x0015] Serial Number Format = -1610612736
+[Canon Makernote - 0x0015] Serial Number Format = 2684354560
 [Canon Makernote - 0x0019] Unknown tag (0x0019) = 1
 [Canon Makernote - 0x0083] Original Decision Data Offset = 0
 [Canon Makernote - 0x0093] File Info Array = 0 28 0 0 0 0 0 0 0 32768 5200 0 0 0 0 10

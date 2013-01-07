@@ -41,7 +41,7 @@ FILE: sony ericsson c905c.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2011:02:18 00:39:22
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
-[Sony Makernote - 0x2000] Maker Note Thumb Version = 1.00
+[Sony Makernote - 0x2000] Makernote Thumb Version = 1.00
 [Sony Makernote - 0x0201] Unknown tag (0x0201) = 50
 [Sony Makernote - 0x0202] Unknown tag (0x0202) = 11909
 

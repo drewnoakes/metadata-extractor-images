@@ -117,10 +117,10 @@ FILE: pentax ist d.jpg
 [Casio Makernote - 0x0212] Unknown tag (0x0212) = 38293 38293 38293 38294
 [Casio Makernote - 0x0213] Unknown tag (0x0213) = 38550 38550 38550 38550
 [Casio Makernote - 0x0214] Unknown tag (0x0214) = 38550 38550 38807 38807
-[Casio Makernote - 0x0215] Unknown tag (0x0215) = -1751672937 -1751672937 -1751607144 -1734829928 -1734829928
+[Casio Makernote - 0x0215] Unknown tag (0x0215) = 2543294359 2543294359 2543360152 2560137368 2560137368
 [Casio Makernote - 0x0216] Unknown tag (0x0216) = -104 -104 -104 -103 -103 -103
 [Casio Makernote - 0x03ff] Unknown tag (0x03ff) = 39321 39321 39321 39321 39578 39578 39578 39578 39578 39578 39578 39835 39835 39835 39835 39835
-[Casio Makernote - 0x0402] Unknown tag (0x0402) = [4096 ints]
+[Casio Makernote - 0x0402] Unknown tag (0x0402) = [4096 shorts]
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

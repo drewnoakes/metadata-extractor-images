@@ -43,12 +43,12 @@ FILE: sanyo vpcsx550.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2000:11:18 21:14:19
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
-[Sanyo Makernote - 0x0200] Special Mode = -391083084 -239794754 1038202134
+[Sanyo Makernote - 0x0200] Special Mode = 3903884212 4055172542 1038202134
 [Sanyo Makernote - 0x0201] Sanyo Quality = Fine/Medium Low
 [Sanyo Makernote - 0x0202] Macro = Normal
 [Sanyo Makernote - 0x0203] Unknown tag (0x0203) = 0
 [Sanyo Makernote - 0x0204] Digital Zoom = 0.628
-[Sanyo Makernote - 0x0f00] Data Dump = [18 ints]
+[Sanyo Makernote - 0x0f00] Data Dump = [18 longs]
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

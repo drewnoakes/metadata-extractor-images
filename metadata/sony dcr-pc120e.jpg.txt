@@ -1,6 +1,6 @@
 FILE: sony dcr-pc120e.jpg
 
-[ERROR: Exif IFD0] Invalid thumbnail data specification: Attempt to read from beyond end of underlying data source (requested index: 757, requested count: 5827, max index: 6582)
+[ERROR: Exif Thumbnail] Invalid thumbnail data specification: Attempt to read from beyond end of underlying data source (requested index: 757, requested count: 5827, max index: 6582)
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

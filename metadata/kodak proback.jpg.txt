@@ -34,7 +34,7 @@ FILE: kodak proback.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2004:03:13 12:33:04
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8290] Unknown tag (0x8290) = 356
-[Exif IFD0 - 0x83bb] Unknown tag (0x83bb) = [1024 ints]
+[Exif IFD0 - 0x83bb] Unknown tag (0x83bb) = [1024 longs]
 [Exif IFD0 - 0x9003] Unknown tag (0x9003) = 2004:03:13 12:33:04
 
 [Exif Thumbnail - 0x00fe] Unknown tag (0x00fe) = 0

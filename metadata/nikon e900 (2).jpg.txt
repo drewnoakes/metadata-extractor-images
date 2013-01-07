@@ -42,7 +42,7 @@ FILE: nikon e900 (2).jpg
 [Nikon Makernote - 0x0003] Quality = SXGA Normal
 [Nikon Makernote - 0x0004] Color Mode = Color
 [Nikon Makernote - 0x0005] Image Adjustment = Normal
-[Nikon Makernote - 0x0f00] Makernote Unknown 3 = [25 ints]
+[Nikon Makernote - 0x0f00] Makernote Unknown 3 = [25 longs]
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch

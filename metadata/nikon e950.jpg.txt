@@ -60,7 +60,7 @@ FILE: nikon e950.jpg
 [Nikon Makernote - 0x0009] Makernote Unknown 2 = 
 [Nikon Makernote - 0x000a] Digital Zoom = No digital zoom
 [Nikon Makernote - 0x000b] Fisheye Converter = None
-[Nikon Makernote - 0x0f00] Makernote Unknown 3 = [30 ints]
+[Nikon Makernote - 0x0f00] Makernote Unknown 3 = [30 longs]
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

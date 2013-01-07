@@ -86,7 +86,7 @@ FILE: sony dsc-hx5v.jpg
 [Sony Makernote - 0xb052] Intelligent Auto = 1
 [Sony Makernote - 0xb053] Unknown tag (0xb053) = 0
 [Sony Makernote - 0xb054] White Balance 2 = 0
-[Sony Makernote - 0xa000] Unknown tag (0xa000) = -2147483634
+[Sony Makernote - 0xa000] Unknown tag (0xa000) = 2147483662
 [Sony Makernote - 0xa001] Unknown tag (0xa001) = 0
 [Sony Makernote - 0xa100] Unknown tag (0xa100) = [168 bytes]
 [Sony Makernote - 0xa101] Unknown tag (0xa101) = [404 bytes]

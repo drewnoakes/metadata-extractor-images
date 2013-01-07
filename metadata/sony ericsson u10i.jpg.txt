@@ -41,7 +41,7 @@ FILE: sony ericsson u10i.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2009:11:21 10:19:43
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
-[Sony Makernote - 0x2000] Maker Note Thumb Version = 2.00
+[Sony Makernote - 0x2000] Makernote Thumb Version = 2.00
 [Sony Makernote - 0x0201] Unknown tag (0x0201) = 62
 [Sony Makernote - 0x0202] Unknown tag (0x0202) = 51856
 [Sony Makernote - 0x0203] Unknown tag (0x0203) = 56

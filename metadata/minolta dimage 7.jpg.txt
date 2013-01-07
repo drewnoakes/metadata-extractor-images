@@ -48,7 +48,7 @@ FILE: minolta dimage 7.jpg
 [Olympus Makernote - 0x0001] Camera Settings = [156 bytes]
 [Olympus Makernote - 0x0010] Unknown tag (0x0010) = [12968 bytes]
 [Olympus Makernote - 0x0020] Unknown tag (0x0020) = [260 bytes]
-[Olympus Makernote - 0x0040] Compressed Image Size = -2105341207 564877062 698697708 -179290119
+[Olympus Makernote - 0x0040] Compressed Image Size = 2189626089 564877062 698697708 4115677177
 [Olympus Makernote - 0x0e00] Print Image Matching (PIM) Info = [40 bytes]
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
