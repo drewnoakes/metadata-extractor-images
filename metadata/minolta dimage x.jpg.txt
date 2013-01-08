@@ -43,9 +43,9 @@ FILE: minolta dimage x.jpg
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
 
-[Olympus Makernote - 0x0000] Makernote Version = 77 76 84 48
+[Olympus Makernote - 0x0000] Makernote Version = ML.T0
 [Olympus Makernote - 0x0200] Special Mode = Normal picture taking mode
-[Olympus Makernote - 0x0201] JPEG Quality = SHQ
+[Olympus Makernote - 0x0201] JPEG Quality = Super High Quality
 [Olympus Makernote - 0x0202] Macro = Normal (no macro)
 [Olympus Makernote - 0x0203] BW Mode = Off
 [Olympus Makernote - 0x0204] DigiZoom Ratio = Normal
