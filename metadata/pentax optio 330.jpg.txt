@@ -43,7 +43,7 @@ FILE: Pentax Optio 330.jpg
 [Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
-[Pentax Makernote - 0x0001] Capture Mode = Unknown (0)
+[Pentax Makernote - 0x0001] Capture Mode = Auto
 [Pentax Makernote - 0x0002] Quality Level = Best
 [Pentax Makernote - 0x0003] Focus Mode = Custom
 [Pentax Makernote - 0x0004] Flash Mode = Flash Off
