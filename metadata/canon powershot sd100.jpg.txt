@@ -1,4 +1,4 @@
-FILE: canon powershot sd100.jpg
+FILE: Canon PowerShot SD100.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

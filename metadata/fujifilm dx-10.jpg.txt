@@ -1,4 +1,4 @@
-FILE: fujifilm dx-10.jpg
+FILE: FujiFilm DX-10.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

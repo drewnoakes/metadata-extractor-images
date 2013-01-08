@@ -1,4 +1,4 @@
-FILE: samsung gt-i9100 (galaxy sii).jpg
+FILE: Samsung GT-I9100 (Galaxy SII).jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

@@ -1,4 +1,4 @@
-FILE: canon powershot s30.jpg
+FILE: Canon PowerShot S30.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

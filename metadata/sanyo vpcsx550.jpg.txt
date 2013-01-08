@@ -1,4 +1,4 @@
-FILE: sanyo vpcsx550.jpg
+FILE: Sanyo VPCSX550.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

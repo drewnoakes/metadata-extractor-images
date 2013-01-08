@@ -1,4 +1,4 @@
-FILE: pentax optio s4.jpg
+FILE: Pentax Optio S4.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

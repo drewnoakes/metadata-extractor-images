@@ -1,4 +1,4 @@
-FILE: nikon d300.nef
+FILE: Nikon D300.nef
 
 [Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
 [Exif IFD0 - 0x0100] Unknown tag (0x0100) = 160

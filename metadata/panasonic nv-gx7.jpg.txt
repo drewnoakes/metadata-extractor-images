@@ -1,4 +1,4 @@
-FILE: panasonic nv-gx7.jpg
+FILE: Panasonic NV-GX7.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

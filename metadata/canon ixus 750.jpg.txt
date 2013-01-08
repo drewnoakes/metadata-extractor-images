@@ -1,4 +1,4 @@
-FILE: canon ixus 750.jpg
+FILE: Canon IXUS 750.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

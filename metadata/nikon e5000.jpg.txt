@@ -1,4 +1,4 @@
-FILE: nikon e5000.jpg
+FILE: Nikon E5000.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

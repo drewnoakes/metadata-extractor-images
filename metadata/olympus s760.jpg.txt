@@ -1,4 +1,4 @@
-FILE: olympus s760.jpg
+FILE: Olympus S760.jpg
 
 [ERROR: Olympus Makernote] Illegally sized IFD
 

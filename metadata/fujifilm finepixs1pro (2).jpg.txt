@@ -1,4 +1,4 @@
-FILE: fujifilm finepixs1pro (2).jpg
+FILE: FujiFilm FinePixS1Pro (2).jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

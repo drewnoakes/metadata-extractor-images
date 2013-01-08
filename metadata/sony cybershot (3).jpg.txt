@@ -1,4 +1,4 @@
-FILE: sony cybershot (3).jpg
+FILE: Sony Cybershot (3).jpg
 
 [ERROR: Photoshop] Attempt to read from beyond end of underlying data source (requested index: 2668, requested count: 402288298, max index: 4585)
 

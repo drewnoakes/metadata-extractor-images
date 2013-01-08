@@ -1,4 +1,4 @@
-FILE: jvc gr-dc2000.jpg
+FILE: JVC GR-DC2000.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

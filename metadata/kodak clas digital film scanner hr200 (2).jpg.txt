@@ -1,4 +1,4 @@
-FILE: kodak clas digital film scanner hr200 (2).jpg
+FILE: Kodak CLAS Digital Film Scanner HR200 (2).jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

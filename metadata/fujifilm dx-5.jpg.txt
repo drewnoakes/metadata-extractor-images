@@ -1,4 +1,4 @@
-FILE: fujifilm dx-5.jpg
+FILE: FujiFilm DX-5.jpg
 
 [ERROR: Photoshop] Attempt to read from beyond end of underlying data source (requested index: 2668, requested count: 1146739911, max index: 5091)
 

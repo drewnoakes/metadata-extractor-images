@@ -1,4 +1,4 @@
-FILE: fujifilm finepix2650.jpg
+FILE: FujiFilm FinePix2650.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

@@ -1,4 +1,4 @@
-FILE: sony cybershot (4).jpg
+FILE: Sony Cybershot (4).jpg
 
 [ERROR: Photoshop] Number of requested bytes cannot be negative (-1754413113)
 

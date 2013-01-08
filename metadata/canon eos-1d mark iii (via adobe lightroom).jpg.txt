@@ -1,4 +1,4 @@
-FILE: canon eos-1d mark iii (via adobe lightroom).jpg
+FILE: Canon EOS-1D Mark III (via Adobe Lightroom).jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

@@ -1,4 +1,4 @@
-FILE: pentax optio 430.jpg
+FILE: Pentax Optio 430.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

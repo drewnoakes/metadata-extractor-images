@@ -1,4 +1,4 @@
-FILE: kodak z1012 is.jpg
+FILE: Kodak Z1012 IS.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

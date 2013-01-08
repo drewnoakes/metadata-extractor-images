@@ -1,4 +1,4 @@
-FILE: apple iphone 4s.jpg
+FILE: Apple iPhone 4S.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

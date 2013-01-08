@@ -1,4 +1,4 @@
-FILE: nikon d300.tif
+FILE: Nikon D300.tif
 
 [Exif IFD0 - 0x0100] Unknown tag (0x0100) = 4288
 [Exif IFD0 - 0x0101] Unknown tag (0x0101) = 2848

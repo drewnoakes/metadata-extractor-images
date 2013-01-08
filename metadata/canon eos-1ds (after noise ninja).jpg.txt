@@ -1,4 +1,4 @@
-FILE: canon eos-1ds (after noise ninja).jpg
+FILE: Canon EOS-1DS (after Noise Ninja).jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

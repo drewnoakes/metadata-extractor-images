@@ -1,4 +1,4 @@
-FILE: kodak dc240.jpg
+FILE: Kodak DC240.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

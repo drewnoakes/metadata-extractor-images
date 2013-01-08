@@ -1,4 +1,4 @@
-FILE: nikon d40.jpg
+FILE: Nikon D40.jpg
 
 [ERROR: IPTC] Too few bytes remain for a valid IPTC tag
 

@@ -1,4 +1,4 @@
-FILE: sony dcr-pc110e (1).jpg
+FILE: Sony DCR-PC110E (1).jpg
 
 [ERROR: Exif Thumbnail] Invalid thumbnail data specification: Attempt to read from beyond end of underlying data source (requested index: 691, requested count: 6003, max index: 6692)
 

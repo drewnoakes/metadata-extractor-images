@@ -1,4 +1,4 @@
-FILE: casio qv-3000ex.jpg
+FILE: Casio QV-3000EX.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

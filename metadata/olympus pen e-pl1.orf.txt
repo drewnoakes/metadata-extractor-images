@@ -1,4 +1,4 @@
-FILE: olympus pen e-pl1.orf
+FILE: Olympus Pen E-PL1.orf
 
 [ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
 

@@ -1,4 +1,4 @@
-FILE: sony ericsson c905c.jpg
+FILE: Sony Ericsson C905c.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

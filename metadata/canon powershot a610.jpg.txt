@@ -1,4 +1,4 @@
-FILE: canon powershot a610.jpg
+FILE: Canon PowerShot A610.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

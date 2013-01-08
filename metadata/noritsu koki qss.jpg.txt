@@ -1,4 +1,4 @@
-FILE: noritsu koki qss.jpg
+FILE: Noritsu Koki QSS.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

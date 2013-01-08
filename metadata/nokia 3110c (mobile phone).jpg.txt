@@ -1,4 +1,4 @@
-FILE: nokia 3110c (mobile phone).jpg
+FILE: Nokia 3110c (Mobile Phone).jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

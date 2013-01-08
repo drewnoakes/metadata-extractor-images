@@ -1,4 +1,4 @@
-FILE: canon powershot sd850 is.jpg
+FILE: Canon PowerShot SD850 IS.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

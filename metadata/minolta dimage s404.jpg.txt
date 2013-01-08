@@ -1,4 +1,4 @@
-FILE: minolta dimage s404.jpg
+FILE: Minolta DiMAGE S404.jpg
 
 [ERROR: Olympus Makernote] Illegal TIFF tag pointer offset
 

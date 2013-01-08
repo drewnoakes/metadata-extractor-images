@@ -1,4 +1,4 @@
-FILE: kodak dx4900 zoom.jpg
+FILE: Kodak DX4900 Zoom.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

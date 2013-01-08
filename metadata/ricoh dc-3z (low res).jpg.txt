@@ -1,4 +1,4 @@
-FILE: ricoh dc-3z (low res).jpg
+FILE: Ricoh DC-3Z (low res).jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

@@ -1,4 +1,4 @@
-FILE: sanyo sr662.jpg
+FILE: Sanyo SR662.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

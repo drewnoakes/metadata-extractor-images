@@ -1,4 +1,4 @@
-FILE: casio qv-7000sx.jpg
+FILE: Casio QV-7000SX.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

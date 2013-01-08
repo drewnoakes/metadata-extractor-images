@@ -1,4 +1,4 @@
-FILE: nikon d1x.jpg
+FILE: Nikon D1X.jpg
 
 [ERROR: GPS] Invalid TIFF tag format code: 0
 [ERROR: IPTC] Too few bytes remain for a valid IPTC tag

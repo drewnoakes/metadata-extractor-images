@@ -1,4 +1,4 @@
-FILE: canon powershot s330.jpg
+FILE: Canon PowerShot S330.jpg
 
 [ERROR: Canon Makernote] Illegally sized IFD
 

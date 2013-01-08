@@ -1,4 +1,4 @@
-FILE: sigma dp1.jpg
+FILE: Sigma DP1.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

@@ -1,4 +1,4 @@
-FILE: nikon e950.jpg
+FILE: Nikon E950.jpg
 
 [ERROR: Photoshop] Attempt to read from beyond end of underlying data source (requested index: 2668, requested count: 1670090635, max index: 5129)
 

@@ -1,4 +1,4 @@
-FILE: kodak dx6490.jpg
+FILE: Kodak DX6490.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

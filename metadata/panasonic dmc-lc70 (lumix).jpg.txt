@@ -1,4 +1,4 @@
-FILE: panasonic dmc-lc70 (lumix).jpg
+FILE: Panasonic DMC-LC70 (Lumix).jpg
 
 [JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
 [JPEG - 0x0000] Data Precision = 8 bits

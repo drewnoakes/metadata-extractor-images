@@ -1,4 +1,4 @@
-FILE: fujifilm finepix f40fd.jpg
+FILE: FujiFilm FinePix F40fd.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

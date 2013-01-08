@@ -1,4 +1,4 @@
-FILE: panasonic fx7.jpg
+FILE: Panasonic FX7.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

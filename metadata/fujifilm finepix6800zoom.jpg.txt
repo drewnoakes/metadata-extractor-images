@@ -1,4 +1,4 @@
-FILE: fujifilm finepix6800zoom.jpg
+FILE: FujiFilm FinePix6800Zoom.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

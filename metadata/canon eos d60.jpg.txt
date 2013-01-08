@@ -1,4 +1,4 @@
-FILE: canon eos d60.jpg
+FILE: Canon EOS D60.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

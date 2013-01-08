@@ -1,4 +1,4 @@
-FILE: samsung gt-i9000 (galaxy s).jpg
+FILE: Samsung GT-I9000 (Galaxy S).jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

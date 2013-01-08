@@ -1,4 +1,4 @@
-FILE: nikon coolpix p7000.jpg
+FILE: Nikon Coolpix P7000.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

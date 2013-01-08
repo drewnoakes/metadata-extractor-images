@@ -1,4 +1,4 @@
-FILE: hp photosmart 735.jpg
+FILE: HP PhotoSmart 735.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

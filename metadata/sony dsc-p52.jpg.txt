@@ -1,4 +1,4 @@
-FILE: sony dsc-p52.jpg
+FILE: Sony DSC-P52.jpg
 
 [ERROR: Sony Makernote] Invalid TIFF tag format code: 0
 
