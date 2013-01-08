@@ -33,6 +33,7 @@ FILE: Traveler SX330Z.jpg
 [Exif SubIFD - 0x9207] Metering Mode = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired
 [Exif SubIFD - 0x920a] Focal Length = 23.28 mm
+[Exif SubIFD - 0x927c] Makernote = [264 bytes]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 1024 pixels

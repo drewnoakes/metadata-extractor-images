@@ -1,4 +1,4 @@
-FILE: panasonic dmc-lx3 (lumix).jpg
+FILE: Panasonic DMC-LX3 (Lumix).JPG
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
