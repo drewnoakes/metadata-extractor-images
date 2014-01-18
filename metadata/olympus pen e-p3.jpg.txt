@@ -1,0 +1,73 @@
+FILE: Olympus PEN E-P3.jpg
+
+[ERROR: Olympus Makernote] Illegally sized IFD
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 960 pixels
+[JPEG - 0x0003] Image Width = 1280 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010e] Image Description = OLYMPUS DIGITAL CAMERA         
+[Exif IFD0 - 0x010f] Make = OLYMPUS IMAGING CORP.  
+[Exif IFD0 - 0x0110] Model = E-P3            
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 160 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 160 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Version 1.3                    
+[Exif IFD0 - 0x0132] Date/Time = 2013:08:27 19:45:23
+[Exif IFD0 - 0x013b] Artist = 
+[Exif IFD0 - 0x013e] White Point = 313/1000 329/1000
+[Exif IFD0 - 0x013f] Primary Chromaticities = 64/100 33/100 21/100 71/100 15/100 6/100
+[Exif IFD0 - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x8298] Copyright = 
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [528 bytes]
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
+[Exif SubIFD - 0x829d] F-Number = F1.8
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 1600
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2013:08:27 19:45:23
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2013:08:27 19:45:23
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = F1.8
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown (9)
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 17.0 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 1280 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 960 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Manual white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = Low gain down
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa500] Gamma = 2.2
+
+[Interoperability - 0x0001] Interoperability Index = Unknown (R03)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 13588 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 6209 bytes
+
+Generated using metadata-extractor
+http://drewnoakes.com/code/exif/
