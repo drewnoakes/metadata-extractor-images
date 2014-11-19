@@ -56,4 +56,4 @@ FILE: Olympus PEN E-P3.orf
 [Olympus Makernote - 0x0003] Camera Settings = [459008 ints]
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

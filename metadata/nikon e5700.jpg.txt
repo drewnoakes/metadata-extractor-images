@@ -96,4 +96,4 @@ FILE: Nikon E5700.jpg
 [ICC Profile - 0x63707274] Copyright = Nikon Inc. & Nikon Corporation 2001
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

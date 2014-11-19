@@ -128,4 +128,4 @@ FILE: Sony DSC-HX5V.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 11490 bytes
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

@@ -120,4 +120,4 @@ FILE: Minolta DiMAGE S304.jpg
 [ICC Profile - 0x77747074] Media White Point = (0.9504852, 1.0, 1.0890961)
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

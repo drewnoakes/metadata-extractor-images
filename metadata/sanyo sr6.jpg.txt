@@ -52,4 +52,4 @@ FILE: Sanyo SR6.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3602 bytes
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

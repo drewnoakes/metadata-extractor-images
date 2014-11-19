@@ -58,4 +58,4 @@ FILE: Samsung GT-I9100 (Galaxy SII).jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 51601 bytes
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

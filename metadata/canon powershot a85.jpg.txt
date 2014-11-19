@@ -184,4 +184,4 @@ FILE: Canon PowerShot A85.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6624 bytes
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

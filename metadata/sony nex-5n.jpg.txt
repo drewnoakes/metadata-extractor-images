@@ -147,4 +147,4 @@ FILE: Sony NEX-5N.JPG
 [GPS - 0x0006] GPS Altitude = 117 metres
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

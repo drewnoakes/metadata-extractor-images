@@ -129,4 +129,4 @@ FILE: Canon PowerShot S40 (1).jpg
 [Canon Makernote - 0x000d] Camera Info Array = [21 ints]
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

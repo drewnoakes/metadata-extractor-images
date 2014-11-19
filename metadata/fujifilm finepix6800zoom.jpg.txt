@@ -75,4 +75,4 @@ FILE: FujiFilm FinePix6800Zoom.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3364 bytes
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

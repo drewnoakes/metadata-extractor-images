@@ -145,4 +145,4 @@ FILE: Panasonic DMC-LX3 (Lumix).JPG
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

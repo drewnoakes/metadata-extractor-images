@@ -48,4 +48,4 @@ FILE: FujiFilm DS-7 (3).jpg
 [Exif Thumbnail - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

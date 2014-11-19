@@ -123,4 +123,4 @@ FILE: Nikon D90.jpg
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

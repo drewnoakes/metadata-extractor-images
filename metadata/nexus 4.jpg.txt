@@ -49,4 +49,4 @@ FILE: Nexus 4.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 53228 bytes
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

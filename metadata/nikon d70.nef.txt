@@ -100,4 +100,4 @@ FILE: Nikon D70.nef
 [Nikon Makernote - 0x0e10] Nikon Scan = 9793
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

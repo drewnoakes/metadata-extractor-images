@@ -178,4 +178,4 @@ FILE: Canon PowerShot S95.jpg
 [Xmp - 0x1001] Rating = 0.0
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

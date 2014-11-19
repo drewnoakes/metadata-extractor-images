@@ -129,4 +129,4 @@ FILE: Nikon D40.jpg
 [IPTC - 0x0250] By-line = Phil Askey
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

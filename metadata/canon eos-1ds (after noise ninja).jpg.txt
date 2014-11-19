@@ -43,4 +43,4 @@ FILE: Canon EOS-1DS (after Noise Ninja).jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

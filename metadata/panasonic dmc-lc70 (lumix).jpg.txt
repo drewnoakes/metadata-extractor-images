@@ -114,4 +114,4 @@ FILE: Panasonic DMC-LC70 (Lumix).jpg
 [Photoshop - 0x0406] JPEG Quality = 12 (Maximum), Progressive  format, 3 scans
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

@@ -15,4 +15,4 @@ FILE: Casio QV-7000SX.jpg
 [JFIF - 0x000a] Y Resolution = 1 dot
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

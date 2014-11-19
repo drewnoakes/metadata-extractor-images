@@ -117,4 +117,4 @@ FILE: Nikon D70.jpg
 [IPTC - 0x0274] Copyright Notice = http://drewnoakes.com
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

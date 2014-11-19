@@ -38,4 +38,4 @@ FILE: Ricoh DC-3Z (low res).jpg
 [Exif SubIFD - 0x9286] User Comment = 
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

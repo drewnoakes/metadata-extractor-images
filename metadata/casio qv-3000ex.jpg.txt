@@ -70,4 +70,4 @@ FILE: Casio QV-3000EX.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 4486 bytes
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

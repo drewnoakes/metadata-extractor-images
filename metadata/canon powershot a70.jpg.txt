@@ -175,4 +175,4 @@ FILE: Canon PowerShot A70.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 4815 bytes
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

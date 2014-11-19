@@ -80,4 +80,4 @@ FILE: Kodak DX4900 Zoom.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 11301 bytes
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

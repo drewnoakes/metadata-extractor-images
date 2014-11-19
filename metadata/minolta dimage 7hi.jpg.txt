@@ -134,4 +134,4 @@ FILE: Minolta DiMAGE 7Hi.jpg
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

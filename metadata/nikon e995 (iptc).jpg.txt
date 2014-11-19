@@ -107,4 +107,4 @@ L�nge (GPS) : N/A
 H�he (GPS) : N/A
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

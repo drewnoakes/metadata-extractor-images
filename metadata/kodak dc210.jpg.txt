@@ -53,4 +53,4 @@ FILE: Kodak DC210.jpg
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

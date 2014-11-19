@@ -113,4 +113,4 @@ FILE: Nikon D300.nef
 [GPS - 0x0000] GPS Version ID = 2.200
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

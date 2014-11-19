@@ -119,4 +119,4 @@ FILE: Nikon Coolpix P7000.jpg
 [Xmp - 0x000d] Date/Time Original = Thu Oct 21 11:22:48 BST 2010
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

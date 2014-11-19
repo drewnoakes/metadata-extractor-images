@@ -50,4 +50,4 @@ FILE: Pentax Optio S4.jpg
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

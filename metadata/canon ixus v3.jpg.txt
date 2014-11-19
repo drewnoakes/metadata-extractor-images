@@ -138,4 +138,4 @@ FILE: Canon IXUS v3.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 7932 bytes
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

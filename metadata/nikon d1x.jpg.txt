@@ -113,4 +113,4 @@ FILE: Nikon D1X.jpg
 [IPTC - 0x0278] Caption/Abstract = Workshop showing workbench and storage
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

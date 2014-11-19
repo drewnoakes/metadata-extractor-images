@@ -107,4 +107,4 @@ FILE: Canon Powershot S90.jpg
 [Adobe JPEG - 0x0003] Color Transform = YCbCr
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/

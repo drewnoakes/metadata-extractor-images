@@ -139,4 +139,4 @@ FILE: Canon PowerShot G2 (3).jpg
 [Interoperability - 0x1002] Related Image Length = 1704
 
 Generated using metadata-extractor
-http://drewnoakes.com/code/exif/
+https://drewnoakes.com/code/exif/
