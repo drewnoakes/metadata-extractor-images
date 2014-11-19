@@ -32,7 +32,7 @@ FILE: Kodak DC210.jpg
 [Exif SubIFD - 0x9203] Brightness Value = 1.5
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = F4
-[Exif SubIFD - 0x9206] Subject Distance = � metres
+[Exif SubIFD - 0x9206] Subject Distance = 0.0 metres
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired

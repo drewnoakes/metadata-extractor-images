@@ -29,7 +29,7 @@ FILE: Traveler SX330Z.jpg
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/69 sec
 [Exif SubIFD - 0x9202] Aperture Value = F3.4
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9206] Subject Distance = � metres
+[Exif SubIFD - 0x9206] Subject Distance = 0.0 metres
 [Exif SubIFD - 0x9207] Metering Mode = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired
 [Exif SubIFD - 0x920a] Focal Length = 23.28 mm
