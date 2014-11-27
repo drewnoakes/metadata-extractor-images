@@ -1,5 +1,7 @@
 FILE: Nikon D70.nef
 
+[ERROR: IPTC] Invalid start to IPTC tag
+
 [Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
 [Exif IFD0 - 0x0100] Unknown tag (0x0100) = 120
 [Exif IFD0 - 0x0101] Unknown tag (0x0101) = 160
@@ -21,7 +23,6 @@ FILE: Nikon D70.nef
 [Exif IFD0 - 0x0132] Date/Time = 2007:01:17 14:15:01
 [Exif IFD0 - 0x014a] Unknown tag (0x014a) = 1072 1190
 [Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [255,255,255]
-[Exif IFD0 - 0x83bb] Unknown tag (0x83bb) = [22 ints]
 [Exif IFD0 - 0x9216] Unknown tag (0x9216) = 1 0 0 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/6400 sec
@@ -98,6 +99,12 @@ FILE: Nikon D70.nef
 [Nikon Makernote - 0x00ab] Digital Vari Program =  
 [Nikon Makernote - 0x0e01] Nikon Capture Data = [2769 bytes]
 [Nikon Makernote - 0x0e10] Nikon Scan = 9793
+
+[IPTC - 0x0250] By-line = Drew Noakes
+[IPTC - 0x0255] By-line Title = Photographer
+[IPTC - 0x026e] Credit = Drew Noakes
+[IPTC - 0x0265] Country/Primary Location Name = Morocco
+[IPTC - 0x0274] Copyright Notice = http://drewnoakes.com
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
