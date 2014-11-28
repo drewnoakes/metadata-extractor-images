@@ -1,0 +1,43 @@
+FILE: Samsung GT-I9505 (Galaxy S4).jpg
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2322 pixels
+[JPEG - 0x0003] Image Width = 4128 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 4128
+[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 2322
+[Exif IFD0 - 0x010f] Make = SAMSUNG
+[Exif IFD0 - 0x0110] Model = GT-I9505
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = I9505XXUGNG8
+[Exif IFD0 - 0x0132] Date/Time = 2014:11:27 17:52:49
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2014:11:27 17:52:49
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2014:11:27 17:52:49
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9207] Metering Mode = Center weighted average
+[Exif SubIFD - 0x927c] Makernote = [98 bytes]
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4128 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2322 pixels
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa406] Scene Capture Type = Night scene
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
