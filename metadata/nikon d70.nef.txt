@@ -1,7 +1,5 @@
 FILE: Nikon D70.nef
 
-[ERROR: IPTC] Invalid start to IPTC tag
-
 [Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
 [Exif IFD0 - 0x0100] Unknown tag (0x0100) = 120
 [Exif IFD0 - 0x0101] Unknown tag (0x0101) = 160
