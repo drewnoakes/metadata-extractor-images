@@ -73,16 +73,16 @@ FILE: Nikon E995 (iptc).jpg
 [Photoshop - 0x0404] IPTC-NAA Record = 850 bytes binary data
 
 [IPTC - 0x0278] Caption/Abstract = Dateiname : DSCN1767.JPG
-Dateigr��e : 668.1 KB (684158 Byte)
+Dateigröße : 668.1 KB (684158 Byte)
 Aufnahmedatum : 2002/08/29 17:31:40
-Bildgr��e : 2048 x 1536 Pixel
-Aufl�sung : 300 x 300 dpi
+Bildgröße : 2048 x 1536 Pixel
+Auflösung : 300 x 300 dpi
 Farbtiefe : 8 Bit/Kanal
-Sch�tzen : Aus
+Schützen : Aus
 Ausblenden : Aus
 Kamera-ID : N/A
 Kamera : E995
-Qualit�tsmodus : NORMAL
+Qualitätsmodus : NORMAL
 Messmethode : Mehrfeld
 Belichtungsbetriebsart : Programmautomatik
 Speedlight : Ja
@@ -90,21 +90,21 @@ Brennweite : 8.2 mm
 Verschlusszeit : 1/41 Sekunde
 Blende : F2.6
 Belichtungskorrektur : 0 EV
-Fester Wei�abgleich : Automatik
+Fester Weißabgleich : Automatik
 Objektiv : Integriert
 Blitz-Synchronisierungsmodus : Erster Verschlussvorhang
 Belichtungsdifferenz : N/A
 Flexibles Programm : N/A
 Empfindlichkeit : Auto
-Sch�rfung : Automatik
+Schärfung : Automatik
 Farbmodus : Farbe
 Farbeinstellungen : N/A
-Farbs�ttigung : N/A
-Farbs�ttigung : 0 Normal
+Farbsättigung : N/A
+Farbsättigung : 0 Normal
 Tonwertkorrektur : Automatik
 Breite (GPS) : N/A
-L�nge (GPS) : N/A
-H�he (GPS) : N/A
+Länge (GPS) : N/A
+Höhe (GPS) : N/A
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

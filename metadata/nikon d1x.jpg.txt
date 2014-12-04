@@ -109,7 +109,7 @@ FILE: Nikon D1X.jpg
 [IPTC - 0x0269] Headline = 
 [IPTC - 0x026e] Credit = 
 [IPTC - 0x0273] Source = 
-[IPTC - 0x0274] Copyright Notice = � 2003 Joseph S. Colson
+[IPTC - 0x0274] Copyright Notice = © 2003 Joseph S. Colson
 [IPTC - 0x0278] Caption/Abstract = Workshop showing workbench and storage
 
 Generated using metadata-extractor

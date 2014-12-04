@@ -111,7 +111,7 @@ FILE: Canon EOS 7D.jpg
 [IPTC - 0x025f] Province/State = Rheinland-Pfalz
 [IPTC - 0x0265] Country/Primary Location Name = Deutschland
 [IPTC - 0x0269] Headline = Titel - Kyra
-[IPTC - 0x0274] Copyright Notice = � Peter Bemmann
+[IPTC - 0x0274] Copyright Notice = © Peter Bemmann
 [IPTC - 0x0278] Caption/Abstract = mit blauem Kleid
 
 [Adobe JPEG - 0x0000] DCT Encode Version = 1
