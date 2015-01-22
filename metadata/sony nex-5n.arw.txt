@@ -1,4 +1,4 @@
-FILE: Sony NEX-5N.ARW
+FILE: Sony NEX-5N.arw
 
 [Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
 [Exif IFD0 - 0x0103] Unknown tag (0x0103) = 6

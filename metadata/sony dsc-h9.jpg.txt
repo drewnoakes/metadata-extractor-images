@@ -1,4 +1,4 @@
-FILE: Sony DSC-H9.JPG
+FILE: Sony DSC-H9.jpg
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
