@@ -1,6 +1,12 @@
 FILE: Olympus Pen E-PL1.orf
 
 [ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Stopping processing as too many errors seen in TIFF IFD
 
 [Exif IFD0 - 0x0100] Unknown tag (0x0100) = 4100
 [Exif IFD0 - 0x0101] Unknown tag (0x0101) = 3084

@@ -1,6 +1,7 @@
 FILE: Sony DSC-HX5V (2).jpg
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code: 0
+[ERROR: Exif Thumbnail] Invalid TIFF tag format code: 0
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
@@ -20,6 +21,117 @@ FILE: Sony DSC-HX5V (2).jpg
 [Exif IFD0 - 0x010f] Make = SONY
 [Exif IFD0 - 0x0110] Model = DSC-HX5V
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2010:05:15 17:12:05
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [28 bytes]
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/250 sec
+[Exif SubIFD - 0x829d] F-Number = F3.5
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 125
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2010:05:15 17:12:05
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2010:05:15 17:12:05
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = F3.5
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 4.25 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 3648 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2736 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+[Sony Makernote - 0x2000] Unknown tag (0x2000) = 0
+[Sony Makernote - 0x200a] HDR = 0
+[Sony Makernote - 0x3000] Shot Info = [328 bytes]
+[Sony Makernote - 0xb020] Color Mode Setting = Standard
+[Sony Makernote - 0x9001] Unknown tag (0x9001) = [600 bytes]
+[Sony Makernote - 0x9002] Unknown tag (0x9002) = [324 bytes]
+[Sony Makernote - 0x9003] Unknown tag (0x9003) = [432 bytes]
+[Sony Makernote - 0x9004] Unknown tag (0x9004) = [540 bytes]
+[Sony Makernote - 0x9005] Unknown tag (0x9005) = [712 bytes]
+[Sony Makernote - 0x9006] Unknown tag (0x9006) = [1092 bytes]
+[Sony Makernote - 0x9007] Unknown tag (0x9007) = [400 bytes]
+[Sony Makernote - 0x9008] Unknown tag (0x9008) = [400 bytes]
+[Sony Makernote - 0x9009] Unknown tag (0x9009) = [256 bytes]
+[Sony Makernote - 0x900a] Unknown tag (0x900a) = [200 bytes]
+[Sony Makernote - 0x900b] Unknown tag (0x900b) = [400 bytes]
+[Sony Makernote - 0x900c] Unknown tag (0x900c) = [500 bytes]
+[Sony Makernote - 0xb040] Macro = Off
+[Sony Makernote - 0xb041] Exposure Mode = Auto
+[Sony Makernote - 0xb042] Focus Mode = 4
+[Sony Makernote - 0xb043] AF Mode = Multi
+[Sony Makernote - 0xb044] AF Illuminator = Auto
+[Sony Makernote - 0xb045] Unknown tag (0xb045) = 0
+[Sony Makernote - 0xb046] Unknown tag (0xb046) = 0
+[Sony Makernote - 0xb047] Quality = Normal
+[Sony Makernote - 0xb048] Flash Level = Normal
+[Sony Makernote - 0xb049] Release Mode = Normal
+[Sony Makernote - 0xb04a] Sequence Number = Single
+[Sony Makernote - 0xb04b] Anti Blur = On (Shooting)
+[Sony Makernote - 0xb04c] Unknown tag (0xb04c) = 1
+[Sony Makernote - 0xb04d] Unknown tag (0xb04d) = 0
+[Sony Makernote - 0xb04e] Long Exposure Noise Reduction = Off
+[Sony Makernote - 0xb04f] Dynamic Range Optimizer = 1
+[Sony Makernote - 0xb050] High ISO Noise Reduction = 0
+[Sony Makernote - 0xb051] Unknown tag (0xb051) = 0
+[Sony Makernote - 0xb052] Intelligent Auto = 1
+[Sony Makernote - 0xb053] Unknown tag (0xb053) = 0
+[Sony Makernote - 0xb054] White Balance 2 = 0
+[Sony Makernote - 0xa000] Unknown tag (0xa000) = 2147483662
+[Sony Makernote - 0xa001] Unknown tag (0xa001) = 0
+[Sony Makernote - 0xa100] Unknown tag (0xa100) = [168 bytes]
+[Sony Makernote - 0xa101] Unknown tag (0xa101) = [404 bytes]
+[Sony Makernote - 0xa200] Unknown tag (0xa200) = [2644 bytes]
+[Sony Makernote - 0xa700] Unknown tag (0xa700) = [44 bytes]
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[GPS - 0x0000] GPS Version ID = 2.200
+[GPS - 0x0001] GPS Latitude Ref = N
+[GPS - 0x0002] GPS Latitude = 51° 46' 43.01"
+[GPS - 0x0003] GPS Longitude Ref = E
+[GPS - 0x0004] GPS Longitude = 8° 21' 56.3"
+[GPS - 0x0005] GPS Altitude Ref = Sea level
+[GPS - 0x0006] GPS Altitude = 93 metres
+[GPS - 0x0007] GPS Time-Stamp = 15:12:7 UTC
+[GPS - 0x0009] GPS Status = Active (Measurement in progress)
+[GPS - 0x000a] GPS Measure Mode = 3-dimensional measurement
+[GPS - 0x000c] GPS Speed Ref = kph
+[GPS - 0x000d] GPS Speed = 1.1
+[GPS - 0x000e] GPS Track Ref = True direction
+[GPS - 0x000f] GPS Track = 89.31 degrees
+[GPS - 0x0010] GPS Img Direction Ref = Magnetic direction
+[GPS - 0x0011] GPS Img Direction = 46.5 degrees
+[GPS - 0x0012] GPS Map Datum = WGS-84
+[GPS - 0x001d] GPS Date Stamp = 2010:05:15
+[GPS - 0x001e] GPS Differential = No Correction
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x010f] Unknown tag (0x010f) = SONY
+[Exif Thumbnail - 0x0110] Unknown tag (0x0110) = DSC-HX5V
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0132] Unknown tag (0x0132) = 2010:05:15 17:12:05
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 11282 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 8672 bytes
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
