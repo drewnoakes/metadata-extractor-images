@@ -1,5 +1,0 @@
-This image (sent in by Alex) is interesting in that its date field is formatted in an uncommon way, using periods as date separators:
-
-    2008.07.10  15:16:55
-
-The library was patched to support this.

@@ -1,3 +1,0 @@
-The Exif data for this photograph contains information about detected faces in the scene.
-
-Thanks to Philipp Sandhaus for providing this sample image.

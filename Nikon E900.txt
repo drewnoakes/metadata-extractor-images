@@ -1,8 +1,0 @@
-Contains early version (TYPE1) Nikon makernote data
-
-NikonMakernote 0x0002 MakernoteUnknown1 09.41
-NikonMakernote 0x0003 Quality 5
-NikonMakernote 0x0004 ColorMode 1
-NikonMakernote 0x0005 ImageAdjustment 0
-NikonMakernote 0x0f00 MakernoteUnknown3 -2147458815 5831168 33488896 0 4994 0 4994 20992 4994 20480 7755008 420151296 99 1862533120 386222085 -737920763 1660956301 1075049571 1610678521 -637508764 4109 -885652736 268487734 4096 0
-
