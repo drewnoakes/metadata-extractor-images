@@ -7,11 +7,11 @@ FILE: Nikon D300.tif
 [Exif IFD0 - 0x0106] Unknown tag (0x0106) = 2
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON D300
-[Exif IFD0 - 0x0111] Unknown tag (0x0111) = [712 ints]
+[Exif IFD0 - 0x0111] Unknown tag (0x0111) = [712 longs]
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif IFD0 - 0x0115] Unknown tag (0x0115) = 3
 [Exif IFD0 - 0x0116] Unknown tag (0x0116) = 4
-[Exif IFD0 - 0x0117] Unknown tag (0x0117) = [712 ints]
+[Exif IFD0 - 0x0117] Unknown tag (0x0117) = [712 longs]
 [Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
 [Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
 [Exif IFD0 - 0x011c] Unknown tag (0x011c) = 1
