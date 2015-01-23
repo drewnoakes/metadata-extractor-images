@@ -1,0 +1,10 @@
+FILE: 8x4x8bit-Grayscale.psd
+
+[PSD Header - 0x0001] Channel Count = 1 channel
+[PSD Header - 0x0002] Image Height = 4 pixels
+[PSD Header - 0x0003] Image Width = 8 pixels
+[PSD Header - 0x0004] Bits Per Channel = 8 bits per channel
+[PSD Header - 0x0005] Color Mode = Grayscale
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

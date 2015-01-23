@@ -1,0 +1,15 @@
+FILE: 24bpp-10x10.bmp
+
+[BMP Header - 0xffffffff] Header Size = 40
+[BMP Header - 0x0002] Image Width = 10
+[BMP Header - 0x0001] Image Height = 10
+[BMP Header - 0x0003] Planes = 1
+[BMP Header - 0x0004] Bits Per Pixel = 24
+[BMP Header - 0x0005] Compression = None
+[BMP Header - 0x0006] X Pixels per Meter = 0
+[BMP Header - 0x0007] Y Pixels per Meter = 0
+[BMP Header - 0x0008] Palette Colour Count = 0
+[BMP Header - 0x0009] Important Colour Count = 0
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
