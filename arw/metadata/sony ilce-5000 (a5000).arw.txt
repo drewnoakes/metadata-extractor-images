@@ -1,0 +1,78 @@
+FILE: Sony ILCE-5000 (A5000).arw
+
+[Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
+[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 6
+[Exif IFD0 - 0x010e] Image Description =                                
+[Exif IFD0 - 0x010f] Make = SONY
+[Exif IFD0 - 0x0110] Model = ILCE-5000
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 350 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 350 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = ILCE-5000 v1.00
+[Exif IFD0 - 0x0132] Date/Time = 2014:03:14 13:32:15
+[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 123824
+[Exif IFD0 - 0x0201] Unknown tag (0x0201) = 124578
+[Exif IFD0 - 0x0202] Unknown tag (0x0202) = 967923
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [106 bytes]
+[Exif IFD0 - 0xc634] Unknown tag (0xc634) = 126 209 0 0
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/400 sec
+[Exif SubIFD - 0x829d] F-Number = F8
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 2
+[Exif SubIFD - 0x8832] Unknown tag (0x8832) = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0x9003] Date/Time Original = 2014:03:14 13:32:15
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2014:03:14 13:32:15
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 8 bits/pixel
+[Exif SubIFD - 0x9203] Brightness Value = 13507/1280
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = F3.5
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 16.0 mm
+[Exif SubIFD - 0x927c] Makernote = [37079 bytes]
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 5456 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3632 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 24mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa432] Lens Specification = 160/10 500/10 35/10 56/10
+[Exif SubIFD - 0xa434] Lens Model = E PZ 16-50mm F3.5-5.6 OSS
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x00fe] Unknown tag (0x00fe) = 1
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x010e] Unknown tag (0x010e) =                                
+[Exif Thumbnail - 0x010f] Unknown tag (0x010f) = SONY
+[Exif Thumbnail - 0x0110] Unknown tag (0x0110) = ILCE-5000
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0131] Unknown tag (0x0131) = ILCE-5000 v1.00
+[Exif Thumbnail - 0x0132] Unknown tag (0x0132) = 2014:03:14 13:32:15
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 38520 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 13534 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
