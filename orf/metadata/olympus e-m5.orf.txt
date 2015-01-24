@@ -1,0 +1,68 @@
+FILE: Olympus E-M5.orf
+
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
+[ERROR: Olympus Makernote] Stopping processing as too many errors seen in TIFF IFD
+
+[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 4640
+[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 3472
+[Exif IFD0 - 0x0102] Unknown tag (0x0102) = 16
+[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 1
+[Exif IFD0 - 0x0106] Unknown tag (0x0106) = 1
+[Exif IFD0 - 0x010e] Image Description = OLYMPUS DIGITAL CAMERA         
+[Exif IFD0 - 0x010f] Make = OLYMPUS IMAGING CORP.  
+[Exif IFD0 - 0x0110] Model = E-M5            
+[Exif IFD0 - 0x0111] Unknown tag (0x0111) = 1451008
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Unknown tag (0x0115) = 1
+[Exif IFD0 - 0x0116] Unknown tag (0x0116) = 3472
+[Exif IFD0 - 0x0117] Unknown tag (0x0117) = 12744648
+[Exif IFD0 - 0x011a] X Resolution = 350 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 350 dots per inch
+[Exif IFD0 - 0x011c] Unknown tag (0x011c) = 1
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Version 1.1                    
+[Exif IFD0 - 0x0132] Date/Time = 2012:05:08 16:14:20
+[Exif IFD0 - 0x013b] Artist = 
+[Exif IFD0 - 0x8298] Copyright = 
+[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [528 bytes]
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/2500 sec
+[Exif SubIFD - 0x829d] F-Number = F6.3
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 1
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0x9003] Date/Time Original = 2012:05:08 16:14:20
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2012:05:08 16:14:20
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = F3.5
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto, red-eye reduction
+[Exif SubIFD - 0x920a] Focal Length = 50.0 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa302] CFA Pattern = 2 0 2 0 0 1 1 2
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = None
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa432] Lens Specification = 12/1 50/1 35/10 63/10
+[Exif SubIFD - 0xa434] Lens Model = OLYMPUS M.12-50mm F3.5-6.3
+
+[Olympus Makernote - 0x0003] Camera Settings = [459008 shorts]
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
