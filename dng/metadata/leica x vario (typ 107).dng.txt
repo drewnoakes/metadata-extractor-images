@@ -1,0 +1,69 @@
+FILE: Leica X VARIO (Typ 107).dng
+
+[Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
+[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 720
+[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 480
+[Exif IFD0 - 0x0102] Unknown tag (0x0102) = 8 8 8
+[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 7
+[Exif IFD0 - 0x0106] Unknown tag (0x0106) = 6
+[Exif IFD0 - 0x010f] Make = LEICA CAMERA AG        
+[Exif IFD0 - 0x0110] Model = LEICA X VARIO (Typ 107)
+[Exif IFD0 - 0x0111] Unknown tag (0x0111) = 11472
+[Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
+[Exif IFD0 - 0x0115] Unknown tag (0x0115) = 3
+[Exif IFD0 - 0x0116] Unknown tag (0x0116) = 480
+[Exif IFD0 - 0x0117] Unknown tag (0x0117) = 73465
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 1.0                            
+[Exif IFD0 - 0x0132] Date/Time = 2014:04:04 11:04:14
+[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 842
+[Exif IFD0 - 0xc612] Unknown tag (0xc612) = 1 3 0 0
+[Exif IFD0 - 0xc613] Unknown tag (0xc613) = 1 3 0 0
+[Exif IFD0 - 0xc614] Unknown tag (0xc614) = LEICA X VARIO (Typ 107)
+[Exif IFD0 - 0xc615] Unknown tag (0xc615) = [24 shorts]
+[Exif IFD0 - 0xc621] Unknown tag (0xc621) = 10702/10000 -3867/10000 -44/10000 -4003/10000 12850/10000 4350/10000 -384/10000 962/10000 8216/10000
+[Exif IFD0 - 0xc622] Unknown tag (0xc622) = 7158/10000 -1911/10000 -606/10000 -3603/10000 10669/10000 2530/10000 -659/10000 1236/10000 5530/10000
+[Exif IFD0 - 0xc628] Unknown tag (0xc628) = 256/510 512/512 256/561
+[Exif IFD0 - 0xc62b] Unknown tag (0xc62b) = 1
+[Exif IFD0 - 0xc62c] Unknown tag (0xc62c) = 1
+[Exif IFD0 - 0xc62e] Unknown tag (0xc62e) = 1
+[Exif IFD0 - 0xc62f] Unknown tag (0xc62f) = 000004706612
+[Exif IFD0 - 0xc630] Unknown tag (0xc630) = 18/1 46/1 35/10 64/10
+[Exif IFD0 - 0xc635] Unknown tag (0xc635) = 1
+[Exif IFD0 - 0xc65a] Unknown tag (0xc65a) = 17
+[Exif IFD0 - 0xc65b] Unknown tag (0xc65b) = 21
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
+[Exif SubIFD - 0x829d] F-Number = F6.4
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 1000
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2014:04:04 11:04:14
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2014:04:04 11:04:14
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = F3.5
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 46.0 mm
+[Exif SubIFD - 0x927c] Makernote = [5818 bytes]
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4928 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3264 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 70mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Landscape
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

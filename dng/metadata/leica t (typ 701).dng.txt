@@ -1,0 +1,82 @@
+FILE: Leica T (Typ 701).dng
+
+[Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
+[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 720
+[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 480
+[Exif IFD0 - 0x0102] Unknown tag (0x0102) = 8 8 8
+[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 7
+[Exif IFD0 - 0x0106] Unknown tag (0x0106) = 6
+[Exif IFD0 - 0x010f] Make = LEICA CAMERA AG
+[Exif IFD0 - 0x0110] Model = LEICA T (Typ 701)
+[Exif IFD0 - 0x0111] Unknown tag (0x0111) = 11472
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Unknown tag (0x0115) = 3
+[Exif IFD0 - 0x0116] Unknown tag (0x0116) = 480
+[Exif IFD0 - 0x0117] Unknown tag (0x0117) = 40785
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = v7H1-74f
+[Exif IFD0 - 0x0132] Date/Time = 2014:05:07 10:41:44
+[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 836
+[Exif IFD0 - 0xc612] Unknown tag (0xc612) = 1 3 0 0
+[Exif IFD0 - 0xc613] Unknown tag (0xc613) = 1 3 0 0
+[Exif IFD0 - 0xc614] Unknown tag (0xc614) = LEICA T (Typ 701)
+[Exif IFD0 - 0xc615] Unknown tag (0xc615) = [18 shorts]
+[Exif IFD0 - 0xc621] Unknown tag (0xc621) = 5671/10000 -1412/10000 -89/10000 -3833/10000 10711/10000 3616/10000 -381/10000 845/10000 6868/10000
+[Exif IFD0 - 0xc622] Unknown tag (0xc622) = 5463/10000 -988/10000 -364/10000 -4634/10000 12036/10000 2946/10000 -766/10000 1389/10000 6522/10000
+[Exif IFD0 - 0xc628] Unknown tag (0xc628) = 256/738 512/512 256/421
+[Exif IFD0 - 0xc62b] Unknown tag (0xc62b) = 1
+[Exif IFD0 - 0xc62c] Unknown tag (0xc62c) = 1
+[Exif IFD0 - 0xc62e] Unknown tag (0xc62e) = 1
+[Exif IFD0 - 0xc62f] Unknown tag (0xc62f) = 000000000000
+[Exif IFD0 - 0xc630] Unknown tag (0xc630) = 18/1 56/1 36/10 56/10
+[Exif IFD0 - 0xc635] Unknown tag (0xc635) = 1
+[Exif IFD0 - 0xc65a] Unknown tag (0xc65a) = 17
+[Exif IFD0 - 0xc65b] Unknown tag (0xc65b) = 21
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/160 sec
+[Exif SubIFD - 0x829d] F-Number = F5.6
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2014:05:07 10:41:44
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2014:05:07 10:41:44
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = F3.5
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 56.0 mm
+[Exif SubIFD - 0x927c] Makernote = [5914 bytes]
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4928 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3264 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 84mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Landscape
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+[GPS - 0x0000] GPS Version ID = 2.300
+[GPS - 0x0001] GPS Latitude Ref = 
+[GPS - 0x0002] GPS Latitude = 0° 0' 0"
+[GPS - 0x0003] GPS Longitude Ref = 
+[GPS - 0x0004] GPS Longitude = 0° 0' 0"
+[GPS - 0x0005] GPS Altitude Ref = Sea level
+[GPS - 0x0006] GPS Altitude = 0 metres
+[GPS - 0x0007] GPS Time-Stamp = 0:0:0 UTC
+[GPS - 0x0009] GPS Status = Void (Measurement Interoperability)
+[GPS - 0x000a] GPS Measure Mode = Unknown ()
+[GPS - 0x0012] GPS Map Datum = 
+[GPS - 0x001d] GPS Date Stamp = 
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

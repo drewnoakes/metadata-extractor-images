@@ -1,0 +1,68 @@
+FILE: Leica V-LUX (Typ 114).rwl
+
+[Exif IFD0 - 0x0001] Unknown tag (0x0001) = 48 51 53 48
+[Exif IFD0 - 0x0002] Unknown tag (0x0002) = 5488
+[Exif IFD0 - 0x0003] Unknown tag (0x0003) = 3664
+[Exif IFD0 - 0x0004] Unknown tag (0x0004) = 8
+[Exif IFD0 - 0x0005] Unknown tag (0x0005) = 8
+[Exif IFD0 - 0x0006] Unknown tag (0x0006) = 3656
+[Exif IFD0 - 0x0007] Unknown tag (0x0007) = 5480
+[Exif IFD0 - 0x0008] Unknown tag (0x0008) = 1
+[Exif IFD0 - 0x0009] Unknown tag (0x0009) = 3
+[Exif IFD0 - 0x000a] Unknown tag (0x000a) = 12
+[Exif IFD0 - 0x000b] Unknown tag (0x000b) = 34316
+[Exif IFD0 - 0x000d] Unknown tag (0x000d) = 1
+[Exif IFD0 - 0x000e] Unknown tag (0x000e) = 4095
+[Exif IFD0 - 0x000f] Unknown tag (0x000f) = 4095
+[Exif IFD0 - 0x0010] Unknown tag (0x0010) = 4095
+[Exif IFD0 - 0x0017] Unknown tag (0x0017) = 800
+[Exif IFD0 - 0x0018] Unknown tag (0x0018) = 256
+[Exif IFD0 - 0x0019] Unknown tag (0x0019) = 256
+[Exif IFD0 - 0x001a] Unknown tag (0x001a) = 256
+[Exif IFD0 - 0x001b] Unknown tag (0x001b) = [42 bytes]
+[Exif IFD0 - 0x001c] Unknown tag (0x001c) = 129
+[Exif IFD0 - 0x001d] Unknown tag (0x001d) = 129
+[Exif IFD0 - 0x001e] Unknown tag (0x001e) = 128
+[Exif IFD0 - 0x0024] Unknown tag (0x0024) = 453
+[Exif IFD0 - 0x0025] Unknown tag (0x0025) = 256
+[Exif IFD0 - 0x0026] Unknown tag (0x0026) = 733
+[Exif IFD0 - 0x0027] Unknown tag (0x0027) = [58 bytes]
+[Exif IFD0 - 0x0029] Unknown tag (0x0029) = [36 bytes]
+[Exif IFD0 - 0x002a] Unknown tag (0x002a) = [32 bytes]
+[Exif IFD0 - 0x002b] Unknown tag (0x002b) = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Exif IFD0 - 0x002c] Unknown tag (0x002c) = [72 bytes]
+[Exif IFD0 - 0x002d] Unknown tag (0x002d) = 4
+[Exif IFD0 - 0x002e] Unknown tag (0x002e) = [676864 bytes]
+[Exif IFD0 - 0x010f] Make = LEICA
+[Exif IFD0 - 0x0110] Model = V-LUX (Typ 114)
+[Exif IFD0 - 0x0111] Unknown tag (0x0111) = 4294967295
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0116] Unknown tag (0x0116) = 3664
+[Exif IFD0 - 0x0117] Unknown tag (0x0117) = 0
+[Exif IFD0 - 0x0118] Unknown tag (0x0118) = 680960
+[Exif IFD0 - 0x0119] Unknown tag (0x0119) = [32 bytes]
+[Exif IFD0 - 0x011a] X Resolution = 2 dots per unit
+[Exif IFD0 - 0x011b] Y Resolution = null
+[Exif IFD0 - 0x011c] Unknown tag (0x011c) = 246
+[Exif IFD0 - 0x011d] Unknown tag (0x011d) = [102 bytes]
+[Exif IFD0 - 0x011e] Unknown tag (0x011e) = [18 bytes]
+[Exif IFD0 - 0x011f] Unknown tag (0x011f) = [258 bytes]
+[Exif IFD0 - 0x0120] Unknown tag (0x0120) = [2048 bytes]
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
+[Exif SubIFD - 0x829d] F-Number = F3.8
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0x9003] Date/Time Original = 2014:12:16 11:40:26
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2014:12:16 11:40:26
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = F3.8
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 32.65 mm
+[Exif SubIFD - 0x9291] Sub-Sec Time Original = 427
+[Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 427
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

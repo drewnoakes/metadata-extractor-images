@@ -1,0 +1,36 @@
+FILE: Samsung EK-GN120 (Galaxy NX).srw
+
+[Exif IFD0 - 0x010f] Make = SAMSUNG
+[Exif IFD0 - 0x0110] Model = EK-GN120
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0132] Date/Time = 2012:01:01 04:22:54
+[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 289772 289878
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/250 sec
+[Exif SubIFD - 0x829d] F-Number = F5
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2012:01:01 04:22:54
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 30.0 mm
+[Exif SubIFD - 0x927c] Makernote = [269872 bytes]
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 5472 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3648 pixels
+[Exif SubIFD - 0xa402] Exposure Mode = Unknown (3)
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 46mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+[Exif Thumbnail - 0x014a] Unknown tag (0x014a) = 270386
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
