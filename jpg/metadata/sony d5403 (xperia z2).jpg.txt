@@ -1,0 +1,70 @@
+FILE: Sony D5403 (Xperia Z2).jpg
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2448 pixels
+[JPEG - 0x0003] Image Width = 3264 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = Sony
+[Exif IFD0 - 0x0110] Model = D6503
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 17.1.A.2.55_9_f300
+[Exif IFD0 - 0x0132] Date/Time = 2014:09:23 16:38:23
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/40 sec
+[Exif SubIFD - 0x829d] F-Number = F2
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 64
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2014:09:23 16:38:23
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2014:09:23 16:38:23
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/39 sec
+[Exif SubIFD - 0x9202] Aperture Value = F2
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Center weighted average
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 4.9 mm
+[Exif SubIFD - 0x927c] Makernote = [16020 bytes]
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 3264 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2448 pixels
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 16770 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 24826 bytes
+
+[Xmp - 0x1001] Rating = 2.0
+
+[Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
+[Photoshop - 0x0425] Caption Digest = -34 -47 101 113 32 -52 0 -68 29 21 54 -81 -69 39 22 101
+
+[IPTC - 0x015a] Coded Character Set = UTF-8
+[IPTC - 0x0200] Application Record Version = 4
+[IPTC - 0x0237] Date Created = Tue Sep 23 00:00:00 BST 2014
+[IPTC - 0x023c] Time Created = 163823
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
