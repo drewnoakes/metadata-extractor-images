@@ -50,7 +50,7 @@ FILE: Apple iPhone 4.jpg
 [GPS - 0x0002] GPS Latitude = 41° 51' 10.8"
 [GPS - 0x0003] GPS Longitude Ref = E
 [GPS - 0x0004] GPS Longitude = 12° 29' 19.8"
-[GPS - 0x0007] GPS Time-Stamp = 14:33:35 UTC
+[GPS - 0x0007] GPS Time-Stamp = 14:33:35.62 UTC
 [GPS - 0x0010] GPS Img Direction Ref = True direction
 [GPS - 0x0011] GPS Img Direction = 177.56 degrees
 
