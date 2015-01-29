@@ -60,7 +60,7 @@ FILE: FujiFilm FinePixS1Pro (3).jpg
 [GPS - 0x0002] GPS Latitude = 55° 6' 17.4"
 [GPS - 0x0003] GPS Longitude Ref = W
 [GPS - 0x0004] GPS Longitude = -1° 53' 4.2"
-[GPS - 0x0007] GPS Time-Stamp = 8:19:39 UTC
+[GPS - 0x0007] GPS Time-Stamp = 08:19:39 UTC
 [GPS - 0x0012] GPS Map Datum = WGS84
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
