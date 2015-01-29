@@ -19,7 +19,7 @@ FILE: FujiFilm FinePix F40fd.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2011:08:14 18:43:01
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8298] Copyright =     
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [28 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [28 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/300 sec
 [Exif SubIFD - 0x829d] F-Number = F2.8

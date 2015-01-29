@@ -19,7 +19,7 @@ FILE: FujiFilm FinePix X100.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2041:09:02 14:14:11
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8298] Copyright =     
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [106 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [106 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/300 sec
 [Exif SubIFD - 0x829d] F-Number = F5

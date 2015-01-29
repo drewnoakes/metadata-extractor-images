@@ -3,9 +3,9 @@ FILE: FujiFilm EX-2.raf
 com.drew.imaging.ImageProcessingException: File format is not supported
 	at com.drew.imaging.ImageMetadataReader.readMetadata(ImageMetadataReader.java:116)
 	at com.drew.imaging.ImageMetadataReader.readMetadata(ImageMetadataReader.java:142)
-	at com.drew.tools.ProcessAllImagesInFolderUtility.processDirectory(ProcessAllImagesInFolderUtility.java:110)
-	at com.drew.tools.ProcessAllImagesInFolderUtility.processDirectory(ProcessAllImagesInFolderUtility.java:102)
-	at com.drew.tools.ProcessAllImagesInFolderUtility.main(ProcessAllImagesInFolderUtility.java:79)
+	at com.drew.tools.ProcessAllImagesInFolderUtility.processDirectory(ProcessAllImagesInFolderUtility.java:113)
+	at com.drew.tools.ProcessAllImagesInFolderUtility.processDirectory(ProcessAllImagesInFolderUtility.java:105)
+	at com.drew.tools.ProcessAllImagesInFolderUtility.main(ProcessAllImagesInFolderUtility.java:82)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

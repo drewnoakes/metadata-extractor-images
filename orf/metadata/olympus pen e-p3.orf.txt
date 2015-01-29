@@ -29,7 +29,7 @@ FILE: Olympus PEN E-P3.orf
 [Exif IFD0 - 0x0132] Date/Time = 2013:08:27 19:45:23
 [Exif IFD0 - 0x013b] Artist = 
 [Exif IFD0 - 0x8298] Copyright = 
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [528 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [528 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
 [Exif SubIFD - 0x829d] F-Number = F1.8

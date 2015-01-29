@@ -15,7 +15,7 @@ FILE: Sony ILCE-5000 (A5000).arw
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 124578
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 967923
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [106 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [106 bytes]
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 126 209 0 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/400 sec

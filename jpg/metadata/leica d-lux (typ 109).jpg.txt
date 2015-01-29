@@ -18,7 +18,7 @@ FILE: Leica D-LUX (Typ 109).jpg
 [Exif IFD0 - 0x0131] Software = Ver.0.1  
 [Exif IFD0 - 0x0132] Date/Time = 2015:01:08 14:27:54
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [208 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [208 bytes]
 [Exif IFD0 - 0xc6d2] Unknown tag (0xc6d2) = [64 bytes]
 [Exif IFD0 - 0xc6d3] Unknown tag (0xc6d3) = [128 bytes]
 

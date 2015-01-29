@@ -15,7 +15,7 @@ FILE: Sony NEX-5N.arw
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 118946
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 866411
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [106 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [106 bytes]
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 10 204 0 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/2000 sec

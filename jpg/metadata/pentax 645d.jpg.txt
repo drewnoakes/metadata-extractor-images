@@ -20,7 +20,7 @@ FILE: Pentax 645D.jpg
 [Exif IFD0 - 0x013b] Artist = 
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8298] Copyright = 
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [350 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [350 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1 sec
 [Exif SubIFD - 0x829d] F-Number = F8

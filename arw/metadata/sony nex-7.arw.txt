@@ -15,7 +15,7 @@ FILE: Sony NEX-7.arw
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 140962
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 336497
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [106 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [106 bytes]
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 74 181 0 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/40 sec

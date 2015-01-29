@@ -21,7 +21,7 @@ FILE: Olympus S760.jpg
 [Exif IFD0 - 0x0131] Software = Version 1.0                    
 [Exif IFD0 - 0x0132] Date/Time = 2007:07:28 20:38:32
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [528 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [528 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
 [Exif SubIFD - 0x829d] F-Number = F3.4

@@ -25,7 +25,7 @@ FILE: Sony DSC-HX5V (2).jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0132] Date/Time = 2010:05:15 17:12:05
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [28 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [28 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/250 sec
 [Exif SubIFD - 0x829d] F-Number = F3.5

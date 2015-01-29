@@ -19,7 +19,7 @@ FILE: Leica C (Typ 112).jpg
 [Exif IFD0 - 0x0132] Date/Time = 2013:08:24 02:44:25
 [Exif IFD0 - 0x013b] Artist = 
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Unknown tag (0xc4a5) = [208 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [208 bytes]
 [Exif IFD0 - 0xc6d2] Unknown tag (0xc6d2) = [64 bytes]
 [Exif IFD0 - 0xc6d3] Unknown tag (0xc6d3) = [128 bytes]
 
