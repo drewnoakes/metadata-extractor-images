@@ -17,7 +17,7 @@ FILE: Kodak Z1012 IS.jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0132] Date/Time = 2008:05:23 08:09:48
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0x4746] Unknown tag (0x4746) = 0
+[Exif IFD0 - 0x4746] Rating = 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/200 sec
 [Exif SubIFD - 0x829d] F-Number = F2.8

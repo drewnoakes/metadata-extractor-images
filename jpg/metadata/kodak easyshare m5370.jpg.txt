@@ -17,7 +17,7 @@ FILE: Kodak Easyshare M5370.jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0132] Date/Time = 2011:12:07 12:07:38
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0x4746] Unknown tag (0x4746) = 0
+[Exif IFD0 - 0x4746] Rating = 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
 [Exif SubIFD - 0x829d] F-Number = F3.9
