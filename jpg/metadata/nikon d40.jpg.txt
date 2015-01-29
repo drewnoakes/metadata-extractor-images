@@ -22,7 +22,7 @@ FILE: Nikon D40.jpg
 [Exif IFD0 - 0x013b] Artist = Phil Askey
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x9c9d] Windows XP Author = Phil Askey
-[Exif IFD0 - 0xea1c] Unknown tag (0xea1c) = [2060 bytes]
+[Exif IFD0 - 0xea1c] Padding = [2060 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/160 sec
 [Exif SubIFD - 0x829d] F-Number = F6.3
@@ -62,7 +62,7 @@ FILE: Nikon D40.jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
-[Exif SubIFD - 0xea1c] Unknown tag (0xea1c) = [2060 bytes]
+[Exif SubIFD - 0xea1c] Padding = [2060 bytes]
 [Exif SubIFD - 0xea1d] Unknown tag (0xea1d) = 4122
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.10

@@ -17,7 +17,7 @@ FILE: Nokia Lumia 1520.jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Windows Phone
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0xea1c] Unknown tag (0xea1c) = [2060 bytes]
+[Exif IFD0 - 0xea1c] Padding = [2060 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 5550/1000000 sec
 [Exif SubIFD - 0x829d] F-Number = F2.4
@@ -41,7 +41,7 @@ FILE: Nokia Lumia 1520.jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-[Exif SubIFD - 0xea1c] Unknown tag (0xea1c) = [2060 bytes]
+[Exif SubIFD - 0xea1c] Padding = [2060 bytes]
 
 [GPS - 0xea1c] Unknown tag (0xea1c) = [2060 bytes]
 
