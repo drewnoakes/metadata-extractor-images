@@ -23,7 +23,7 @@ FILE: Nikon D3300.jpg
 [Exif SubIFD - 0x829d] F-Number = F8
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 2
+[Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2014:02:19 13:47:19
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:02:19 13:47:19

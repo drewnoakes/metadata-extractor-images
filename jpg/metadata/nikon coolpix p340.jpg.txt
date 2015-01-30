@@ -23,7 +23,7 @@ FILE: Nikon Coolpix P340.jpg
 [Exif SubIFD - 0x829d] F-Number = F3.5
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 80
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 1
+[Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2014:04:13 13:42:27
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:04:13 13:42:27

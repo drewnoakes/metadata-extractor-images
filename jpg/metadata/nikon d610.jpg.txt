@@ -23,7 +23,7 @@ FILE: Nikon D610.jpg
 [Exif SubIFD - 0x829d] F-Number = F8
 [Exif SubIFD - 0x8822] Exposure Program = Manual control
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 3200
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 2
+[Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2013:11:23 16:47:09
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2013:11:23 16:47:09

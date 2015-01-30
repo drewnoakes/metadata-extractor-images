@@ -23,7 +23,7 @@ FILE: Kodak Easyshare M5370.jpg
 [Exif SubIFD - 0x829d] F-Number = F3.9
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 320
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 3
+[Exif SubIFD - 0x8830] Sensitivity Type = ISO Speed
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2011:12:07 12:07:38
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2011:12:07 12:07:38

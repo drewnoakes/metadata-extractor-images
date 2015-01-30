@@ -25,7 +25,7 @@ FILE: FujiFilm FinePix X100.jpg
 [Exif SubIFD - 0x829d] F-Number = F5
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 400
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 1
+[Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2041:09:02 14:14:11
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2041:09:02 14:14:11

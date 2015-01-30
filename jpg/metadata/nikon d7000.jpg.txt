@@ -25,7 +25,7 @@ FILE: Nikon D7000.jpg
 [Exif SubIFD - 0x829d] F-Number = F9
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 400
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 2
+[Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2010:11:28 17:32:59
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2010:11:28 17:32:59

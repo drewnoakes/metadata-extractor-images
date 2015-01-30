@@ -43,7 +43,7 @@ FILE: Nokia Lumia 1520.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xea1c] Padding = [2060 bytes]
 
-[GPS - 0xea1c] Unknown tag (0xea1c) = [2060 bytes]
+[GPS - 0xea1c] Padding = [2060 bytes]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

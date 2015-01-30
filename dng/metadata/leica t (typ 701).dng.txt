@@ -4,7 +4,7 @@ FILE: Leica T (Typ 701).dng
 [Exif IFD0 - 0x0100] Image Width = 720 pixels
 [Exif IFD0 - 0x0101] Image Height = 480 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
-[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 7
+[Exif IFD0 - 0x0103] Compression = JPEG
 [Exif IFD0 - 0x0106] Photometric Interpretation = YCbCr
 [Exif IFD0 - 0x010f] Make = LEICA CAMERA AG
 [Exif IFD0 - 0x0110] Model = LEICA T (Typ 701)

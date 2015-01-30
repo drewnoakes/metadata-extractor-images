@@ -11,7 +11,7 @@ FILE: Olympus E-M5.orf
 [Exif IFD0 - 0x0100] Image Width = 4640 pixels
 [Exif IFD0 - 0x0101] Image Height = 3472 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 16 bits/component/pixel
-[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 1
+[Exif IFD0 - 0x0103] Compression = Uncompressed
 [Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
 [Exif IFD0 - 0x010e] Image Description = OLYMPUS DIGITAL CAMERA         
 [Exif IFD0 - 0x010f] Make = OLYMPUS IMAGING CORP.  
@@ -35,7 +35,7 @@ FILE: Olympus E-M5.orf
 [Exif SubIFD - 0x829d] F-Number = F6.3
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 200
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 1
+[Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2012:05:08 16:14:20
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2012:05:08 16:14:20

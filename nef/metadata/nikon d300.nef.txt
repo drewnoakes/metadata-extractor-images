@@ -4,7 +4,7 @@ FILE: Nikon D300.nef
 [Exif IFD0 - 0x0100] Image Width = 160 pixels
 [Exif IFD0 - 0x0101] Image Height = 120 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
-[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 1
+[Exif IFD0 - 0x0103] Compression = Uncompressed
 [Exif IFD0 - 0x0106] Photometric Interpretation = RGB
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON D300

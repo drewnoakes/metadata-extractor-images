@@ -27,8 +27,8 @@ FILE: Sony NEX-5N.jpg
 [Exif SubIFD - 0x829d] F-Number = F4
 [Exif SubIFD - 0x8822] Exposure Program = Shutter priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 160
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 2
-[Exif SubIFD - 0x8832] Unknown tag (0x8832) = 160
+[Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
+[Exif SubIFD - 0x8832] Recommended Exposure Index = 160
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2011:02:26 15:49:58
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2011:02:26 15:49:58

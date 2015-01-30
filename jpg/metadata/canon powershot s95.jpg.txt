@@ -22,7 +22,7 @@ FILE: Canon PowerShot S95.jpg
 [Exif SubIFD - 0x829a] Exposure Time = 0.01 sec
 [Exif SubIFD - 0x829d] F-Number = F4
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 125
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 4
+[Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity and Recommended Exposure Index
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2010:10:29 14:30:31
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2010:10:29 14:30:31

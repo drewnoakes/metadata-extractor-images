@@ -27,8 +27,8 @@ FILE: Sony ILCE-5000 (A5000).jpg
 [Exif SubIFD - 0x829d] F-Number = F11
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 2
-[Exif SubIFD - 0x8832] Unknown tag (0x8832) = 100
+[Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
+[Exif SubIFD - 0x8832] Recommended Exposure Index = 100
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2014:03:14 15:00:43
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:03:14 15:00:43

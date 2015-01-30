@@ -3,7 +3,7 @@ FILE: Canon EOS 7D.cr2
 [Exif IFD0 - 0x0100] Image Width = 5184 pixels
 [Exif IFD0 - 0x0101] Image Height = 3456 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
-[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 6
+[Exif IFD0 - 0x0103] Compression = JPEG (old-style)
 [Exif IFD0 - 0x010f] Make = Canon
 [Exif IFD0 - 0x0110] Model = Canon EOS 7D
 [Exif IFD0 - 0x0111] Strip Offsets = 61088

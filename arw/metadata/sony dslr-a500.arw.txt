@@ -1,7 +1,7 @@
 FILE: Sony DSLR-A500.arw
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
-[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 6
+[Exif IFD0 - 0x0103] Compression = JPEG (old-style)
 [Exif IFD0 - 0x010e] Image Description = SONY DSC                       
 [Exif IFD0 - 0x010f] Make = SONY
 [Exif IFD0 - 0x0110] Model = DSLR-A500

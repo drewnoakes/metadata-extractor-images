@@ -1,7 +1,7 @@
 FILE: Sony NEX-7.arw
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
-[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 6
+[Exif IFD0 - 0x0103] Compression = JPEG (old-style)
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = SONY
 [Exif IFD0 - 0x0110] Model = NEX-7
@@ -22,8 +22,8 @@ FILE: Sony NEX-7.arw
 [Exif SubIFD - 0x829d] F-Number = F4
 [Exif SubIFD - 0x8822] Exposure Program = Shutter priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 800
-[Exif SubIFD - 0x8830] Unknown tag (0x8830) = 2
-[Exif SubIFD - 0x8832] Unknown tag (0x8832) = 800
+[Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
+[Exif SubIFD - 0x8832] Recommended Exposure Index = 800
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2011:01:15 21:43:36
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2011:01:15 21:43:36

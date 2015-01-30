@@ -22,7 +22,7 @@ FILE: Canon PowerShot S330.jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = QuickTime 6.0.2
 [Exif IFD0 - 0x0132] Date/Time = 2002:11:18 22:46:09
-[Exif IFD0 - 0x013c] Unknown tag (0x013c) = Mac OS X 10.2.2
+[Exif IFD0 - 0x013c] Host Computer = Mac OS X 10.2.2
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.1 sec

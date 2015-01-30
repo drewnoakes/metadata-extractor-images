@@ -11,7 +11,7 @@ FILE: Olympus Pen E-PL1.orf
 [Exif IFD0 - 0x0100] Image Width = 4100 pixels
 [Exif IFD0 - 0x0101] Image Height = 3084 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 16 bits/component/pixel
-[Exif IFD0 - 0x0103] Unknown tag (0x0103) = 1
+[Exif IFD0 - 0x0103] Compression = Uncompressed
 [Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
 [Exif IFD0 - 0x010e] Image Description = OLYMPUS DIGITAL CAMERA         
 [Exif IFD0 - 0x010f] Make = OLYMPUS IMAGING CORP.  
