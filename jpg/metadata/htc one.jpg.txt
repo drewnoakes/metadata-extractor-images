@@ -55,8 +55,8 @@ FILE: HTC One.jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
-[Exif Thumbnail - 0x0100] Thumbnail Image Width = 512 pixels
-[Exif Thumbnail - 0x0101] Thumbnail Image Height = 288 pixels
+[Exif Thumbnail - 0x0100] Image Width = 512 pixels
+[Exif Thumbnail - 0x0101] Image Height = 288 pixels
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch

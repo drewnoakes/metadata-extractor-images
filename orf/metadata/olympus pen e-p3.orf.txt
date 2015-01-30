@@ -8,22 +8,22 @@ FILE: Olympus PEN E-P3.orf
 [ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
 [ERROR: Olympus Makernote] Stopping processing as too many errors seen in TIFF IFD
 
-[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 4080
-[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 3040
-[Exif IFD0 - 0x0102] Unknown tag (0x0102) = 16
+[Exif IFD0 - 0x0100] Image Width = 4080 pixels
+[Exif IFD0 - 0x0101] Image Height = 3040 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 16 bits/component/pixel
 [Exif IFD0 - 0x0103] Unknown tag (0x0103) = 1
-[Exif IFD0 - 0x0106] Unknown tag (0x0106) = 1
+[Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
 [Exif IFD0 - 0x010e] Image Description = OLYMPUS DIGITAL CAMERA         
 [Exif IFD0 - 0x010f] Make = OLYMPUS IMAGING CORP.  
 [Exif IFD0 - 0x0110] Model = E-P3            
-[Exif IFD0 - 0x0111] Unknown tag (0x0111) = 1436160
+[Exif IFD0 - 0x0111] Strip Offsets = 1436160
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x0115] Unknown tag (0x0115) = 1
-[Exif IFD0 - 0x0116] Unknown tag (0x0116) = 3040
-[Exif IFD0 - 0x0117] Unknown tag (0x0117) = 11766653
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 3040 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 11766653 bytes
 [Exif IFD0 - 0x011a] X Resolution = 314 dots per inch
 [Exif IFD0 - 0x011b] Y Resolution = 314 dots per inch
-[Exif IFD0 - 0x011c] Unknown tag (0x011c) = 1
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Version 1.3                    
 [Exif IFD0 - 0x0132] Date/Time = 2013:08:27 19:45:23

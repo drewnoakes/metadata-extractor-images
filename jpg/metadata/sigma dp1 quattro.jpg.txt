@@ -207,13 +207,13 @@ FILE: Sigma DP1 Quattro.jpg
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x010f] Unknown tag (0x010f) = SIGMA
-[Exif Thumbnail - 0x0110] Unknown tag (0x0110) = SIGMA dp1 Quattro
+[Exif Thumbnail - 0x010f] Make = SIGMA
+[Exif Thumbnail - 0x0110] Model = SIGMA dp1 Quattro
 [Exif Thumbnail - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0132] Unknown tag (0x0132) = 2014:11:10 15:33:30
+[Exif Thumbnail - 0x0132] Date/Time = 2014:11:10 15:33:30
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 6836 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 8964 bytes
 

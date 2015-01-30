@@ -43,13 +43,13 @@ FILE: Sony DCR-PC120E.jpg
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x010f] Unknown tag (0x010f) = SONY
-[Exif Thumbnail - 0x0110] Unknown tag (0x0110) = DCR-PC120E 
+[Exif Thumbnail - 0x010f] Make = SONY
+[Exif Thumbnail - 0x0110] Model = DCR-PC120E 
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0132] Unknown tag (0x0132) = 2002:12:14 10:31:31
+[Exif Thumbnail - 0x0132] Date/Time = 2002:12:14 10:31:31
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 751 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5827 bytes
 

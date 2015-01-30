@@ -158,15 +158,15 @@ FILE: Sony ILCE-5000 (A5000).jpg
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x010e] Unknown tag (0x010e) =                                
-[Exif Thumbnail - 0x010f] Unknown tag (0x010f) = SONY
-[Exif Thumbnail - 0x0110] Unknown tag (0x0110) = ILCE-5000
+[Exif Thumbnail - 0x010e] Image Description =                                
+[Exif Thumbnail - 0x010f] Make = SONY
+[Exif Thumbnail - 0x0110] Model = ILCE-5000
 [Exif Thumbnail - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0131] Unknown tag (0x0131) = ILCE-5000 v1.00
-[Exif Thumbnail - 0x0132] Unknown tag (0x0132) = 2014:03:14 15:00:43
+[Exif Thumbnail - 0x0131] Software = ILCE-5000 v1.00
+[Exif Thumbnail - 0x0132] Date/Time = 2014:03:14 15:00:43
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 38448 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 7575 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point

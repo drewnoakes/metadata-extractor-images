@@ -31,12 +31,12 @@ FILE: Panasonic Lumix DMC-LX7.rw2
 [Exif IFD0 - 0x002e] Unknown tag (0x002e) = [616448 bytes]
 [Exif IFD0 - 0x010f] Make = Panasonic
 [Exif IFD0 - 0x0110] Model = DMC-LX7
-[Exif IFD0 - 0x0111] Unknown tag (0x0111) = 4294967295
+[Exif IFD0 - 0x0111] Strip Offsets = 4294967295
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x0116] Unknown tag (0x0116) = 2752
-[Exif IFD0 - 0x0117] Unknown tag (0x0117) = 0
-[Exif IFD0 - 0x0118] Unknown tag (0x0118) = 617984
-[Exif IFD0 - 0x0119] Unknown tag (0x0119) = [32 bytes]
+[Exif IFD0 - 0x0116] Rows Per Strip = 2752 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 0 bytes
+[Exif IFD0 - 0x0118] Minimum sample value = 617984
+[Exif IFD0 - 0x0119] Maximum sample value = [32 bytes]
 [Exif IFD0 - 0x011a] X Resolution = 1 dots per unit
 [Exif IFD0 - 0x011b] Y Resolution = null
 

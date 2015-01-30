@@ -24,7 +24,7 @@ FILE: Canon PowerShot S30 (2).jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0132] Date/Time = 2002:10:07 08:03:20
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0xa217] Unknown tag (0xa217) = 2
+[Exif IFD0 - 0xa217] Sensing Method = One-chip color area sensor
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/640 sec
 [Exif SubIFD - 0x829d] F-Number = F2.8

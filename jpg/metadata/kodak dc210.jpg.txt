@@ -39,8 +39,8 @@ FILE: Kodak DC210.jpg
 [Exif SubIFD - 0x920a] Focal Length = 4.4 mm
 [Exif SubIFD - 0x927c] Makernote = [72 bytes]
 
-[Exif Thumbnail - 0x0100] Thumbnail Image Width = 96 pixels
-[Exif Thumbnail - 0x0101] Thumbnail Image Height = 72 pixels
+[Exif Thumbnail - 0x0100] Image Width = 96 pixels
+[Exif Thumbnail - 0x0101] Image Height = 72 pixels
 [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
 [Exif Thumbnail - 0x0103] Thumbnail Compression = Uncompressed
 [Exif Thumbnail - 0x0106] Photometric Interpretation = RGB

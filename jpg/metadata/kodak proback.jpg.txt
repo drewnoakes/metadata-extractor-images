@@ -14,7 +14,7 @@ FILE: Kodak ProBack.jpg
 [JFIF - 0x0008] X Resolution = 1 dot
 [JFIF - 0x000a] Y Resolution = 1 dot
 
-[Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 0
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x010e] Image Description = 
 [Exif IFD0 - 0x010f] Make = Kodak
 [Exif IFD0 - 0x0110] Model = ProBack
@@ -25,8 +25,8 @@ FILE: Kodak ProBack.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2004:03:13 12:33:04
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8290] Unknown tag (0x8290) = 356
-[Exif IFD0 - 0x83bb] Unknown tag (0x83bb) = [1024 longs]
-[Exif IFD0 - 0x9003] Unknown tag (0x9003) = 2004:03:13 12:33:04
+[Exif IFD0 - 0x83bb] IPTC/NAA = [1024 longs]
+[Exif IFD0 - 0x9003] Date/Time Original = 2004:03:13 12:33:04
 
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2004:03:13 12:33:04
@@ -37,9 +37,9 @@ FILE: Kodak ProBack.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 4062 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 2902 pixels
 
-[Exif Thumbnail - 0x00fe] Unknown tag (0x00fe) = 0
-[Exif Thumbnail - 0x0100] Thumbnail Image Width = 156 pixels
-[Exif Thumbnail - 0x0101] Thumbnail Image Height = 111 pixels
+[Exif Thumbnail - 0x00fe] New Subfile Type = Unknown (0)
+[Exif Thumbnail - 0x0100] Image Width = 156 pixels
+[Exif Thumbnail - 0x0101] Image Height = 111 pixels
 [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
 [Exif Thumbnail - 0x0103] Thumbnail Compression = Uncompressed
 [Exif Thumbnail - 0x0106] Photometric Interpretation = RGB

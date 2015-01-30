@@ -15,10 +15,10 @@ FILE: Nikon D5000.jpg
 [JFIF - 0x000a] Y Resolution = 72 dots
 
 [Exif IFD0 - 0x0103] Unknown tag (0x0103) = 1
-[Exif IFD0 - 0x0106] Unknown tag (0x0106) = 2
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON D5000
-[Exif IFD0 - 0x011c] Unknown tag (0x011c) = 1
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0131] Software = Adobe Bridge CS5
 [Exif IFD0 - 0x0132] Date/Time = 2011:03:20 11:23:01
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
@@ -66,7 +66,7 @@ FILE: Nikon D5000.jpg
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0132] Unknown tag (0x0132) = 2011:03:20 11:23:01
+[Exif Thumbnail - 0x0132] Date/Time = 2011:03:20 11:23:01
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 932 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6035 bytes
 

@@ -1,27 +1,27 @@
 FILE: Nikon D70.nef
 
-[Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
-[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 120
-[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 160
-[Exif IFD0 - 0x0102] Unknown tag (0x0102) = 8 8 8
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 120 pixels
+[Exif IFD0 - 0x0101] Image Height = 160 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
 [Exif IFD0 - 0x0103] Unknown tag (0x0103) = 1
-[Exif IFD0 - 0x0106] Unknown tag (0x0106) = 2
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON D70
-[Exif IFD0 - 0x0111] Unknown tag (0x0111) = 11237
+[Exif IFD0 - 0x0111] Strip Offsets = 11237
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x0115] Unknown tag (0x0115) = 3
-[Exif IFD0 - 0x0116] Unknown tag (0x0116) = 160
-[Exif IFD0 - 0x0117] Unknown tag (0x0117) = 57600
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 160 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 57600 bytes
 [Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
 [Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
-[Exif IFD0 - 0x011c] Unknown tag (0x011c) = 1
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Nikon Transfer 6.2.1 W
 [Exif IFD0 - 0x0132] Date/Time = 2007:01:17 14:15:01
 [Exif IFD0 - 0x014a] Unknown tag (0x014a) = 1072 1190
 [Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [255,255,255]
-[Exif IFD0 - 0x9216] Unknown tag (0x9216) = 1 0 0 0
+[Exif IFD0 - 0x9216] TIFF/EP Standard ID = 1 0 0 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/6400 sec
 [Exif SubIFD - 0x829d] F-Number = F3.5

@@ -8,22 +8,22 @@ FILE: Olympus E-M5.orf
 [ERROR: Olympus Makernote] Invalid TIFF tag format code: 0
 [ERROR: Olympus Makernote] Stopping processing as too many errors seen in TIFF IFD
 
-[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 4640
-[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 3472
-[Exif IFD0 - 0x0102] Unknown tag (0x0102) = 16
+[Exif IFD0 - 0x0100] Image Width = 4640 pixels
+[Exif IFD0 - 0x0101] Image Height = 3472 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 16 bits/component/pixel
 [Exif IFD0 - 0x0103] Unknown tag (0x0103) = 1
-[Exif IFD0 - 0x0106] Unknown tag (0x0106) = 1
+[Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
 [Exif IFD0 - 0x010e] Image Description = OLYMPUS DIGITAL CAMERA         
 [Exif IFD0 - 0x010f] Make = OLYMPUS IMAGING CORP.  
 [Exif IFD0 - 0x0110] Model = E-M5            
-[Exif IFD0 - 0x0111] Unknown tag (0x0111) = 1451008
+[Exif IFD0 - 0x0111] Strip Offsets = 1451008
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x0115] Unknown tag (0x0115) = 1
-[Exif IFD0 - 0x0116] Unknown tag (0x0116) = 3472
-[Exif IFD0 - 0x0117] Unknown tag (0x0117) = 12744648
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 3472 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 12744648 bytes
 [Exif IFD0 - 0x011a] X Resolution = 350 dots per inch
 [Exif IFD0 - 0x011b] Y Resolution = 350 dots per inch
-[Exif IFD0 - 0x011c] Unknown tag (0x011c) = 1
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Version 1.1                    
 [Exif IFD0 - 0x0132] Date/Time = 2012:05:08 16:14:20

@@ -54,8 +54,8 @@ FILE: Motorola XT1068 (Moto G).jpg
 [GPS - 0x0000] GPS Version ID = 2.200
 [GPS - 0x0012] GPS Map Datum = WGS-84
 
-[Exif Thumbnail - 0x0100] Thumbnail Image Width = 512 pixels
-[Exif Thumbnail - 0x0101] Thumbnail Image Height = 384 pixels
+[Exif Thumbnail - 0x0100] Image Width = 512 pixels
+[Exif Thumbnail - 0x0101] Image Height = 384 pixels
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch

@@ -9,8 +9,8 @@ FILE: Samsung SM-C115 (Galaxy K Zoom).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 5184
-[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 3888
+[Exif IFD0 - 0x0100] Image Width = 5184 pixels
+[Exif IFD0 - 0x0101] Image Height = 3888 pixels
 [Exif IFD0 - 0x010f] Make = SAMSUNG
 [Exif IFD0 - 0x0110] Model = SM-C115
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -51,8 +51,8 @@ FILE: Samsung SM-C115 (Galaxy K Zoom).jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa420] Unique Image ID = D20FSHE06DA
 
-[Exif Thumbnail - 0x0100] Thumbnail Image Width = 160 pixels
-[Exif Thumbnail - 0x0101] Thumbnail Image Height = 120 pixels
+[Exif Thumbnail - 0x0100] Image Width = 160 pixels
+[Exif Thumbnail - 0x0101] Image Height = 120 pixels
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch

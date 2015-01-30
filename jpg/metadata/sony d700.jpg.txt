@@ -36,8 +36,8 @@ FILE: Sony D700.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 1344 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1024 pixels
 
-[Exif Thumbnail - 0x0100] Thumbnail Image Width = 80 pixels
-[Exif Thumbnail - 0x0101] Thumbnail Image Height = 60 pixels
+[Exif Thumbnail - 0x0100] Image Width = 80 pixels
+[Exif Thumbnail - 0x0101] Image Height = 60 pixels
 [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
 [Exif Thumbnail - 0x0103] Thumbnail Compression = Uncompressed
 [Exif Thumbnail - 0x0106] Photometric Interpretation = RGB

@@ -9,8 +9,8 @@ FILE: Samsung GT-I9505 (Galaxy S4).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 4128
-[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 2322
+[Exif IFD0 - 0x0100] Image Width = 4128 pixels
+[Exif IFD0 - 0x0101] Image Height = 2322 pixels
 [Exif IFD0 - 0x010f] Make = SAMSUNG
 [Exif IFD0 - 0x0110] Model = GT-I9505
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)

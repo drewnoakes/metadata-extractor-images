@@ -9,8 +9,8 @@ FILE: Samsung GT-I9100 (Galaxy SII).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 3264
-[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 2448
+[Exif IFD0 - 0x0100] Image Width = 3264 pixels
+[Exif IFD0 - 0x0101] Image Height = 2448 pixels
 [Exif IFD0 - 0x010f] Make = SAMSUNG
 [Exif IFD0 - 0x0110] Model = GT-I9100
 [Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
@@ -47,8 +47,8 @@ FILE: Samsung GT-I9100 (Galaxy SII).jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa420] Unique Image ID = OCEE09
 
-[Exif Thumbnail - 0x0100] Thumbnail Image Width = 320 pixels
-[Exif Thumbnail - 0x0101] Thumbnail Image Height = 240 pixels
+[Exif Thumbnail - 0x0100] Image Width = 320 pixels
+[Exif Thumbnail - 0x0101] Image Height = 240 pixels
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Right side, top (Rotate 90 CW)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch

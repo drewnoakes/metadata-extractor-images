@@ -18,9 +18,9 @@ FILE: Canon PowerShot S40 (1).jpg
 [Exif IFD0 - 0x0131] Software = OfotoNow v3.03
 [Exif IFD0 - 0x0132] Date/Time = 2001:12:27 11:39:44
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0x9286] Unknown tag (0x9286) = &lt;?xml version="1.0"?&gt;&lt;on:exif_data version="3.0"&gt;    &lt;on:picture_id&gt;96116352105&lt;/on:picture_id&gt;    &lt;on:file_checksum&gt;2002-02-13161537&lt;/on:file_checksum&gt;&lt;/on:exif_data&gt;
-[Exif IFD0 - 0xa002] Unknown tag (0xa002) = 1600
-[Exif IFD0 - 0xa003] Unknown tag (0xa003) = 1200
+[Exif IFD0 - 0x9286] User Comment = &lt;?xml version="1.0"?&gt;&lt;on:exif_data version="3.0"&gt;    &lt;on:picture_id&gt;96116352105&lt;/on:picture_id&gt;    &lt;on:file_checksum&gt;2002-02-13161537&lt;/on:file_checksum&gt;&lt;/on:exif_data&gt;
+[Exif IFD0 - 0xa002] Exif Image Width = 1600 pixels
+[Exif IFD0 - 0xa003] Exif Image Height = 1200 pixels
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.01 sec
 [Exif SubIFD - 0x829d] F-Number = F2.8

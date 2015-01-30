@@ -56,8 +56,8 @@ FILE: HTC One M8.jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
-[Exif Thumbnail - 0x0100] Thumbnail Image Width = 0 pixels
-[Exif Thumbnail - 0x0101] Thumbnail Image Height = 0 pixels
+[Exif Thumbnail - 0x0100] Image Width = 0 pixels
+[Exif Thumbnail - 0x0101] Image Height = 0 pixels
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch

@@ -117,13 +117,13 @@ FILE: Sony DSC-HX5V.jpg
 [GPS - 0x001e] GPS Differential = No Correction
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x010f] Unknown tag (0x010f) = SONY
-[Exif Thumbnail - 0x0110] Unknown tag (0x0110) = DSC-HX5V
+[Exif Thumbnail - 0x010f] Make = SONY
+[Exif Thumbnail - 0x0110] Model = DSC-HX5V
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0132] Unknown tag (0x0132) = 2010:07:14 11:00:23
+[Exif Thumbnail - 0x0132] Date/Time = 2010:07:14 11:00:23
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 11282 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 11490 bytes
 

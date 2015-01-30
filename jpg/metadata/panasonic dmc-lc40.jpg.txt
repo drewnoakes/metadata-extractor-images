@@ -72,7 +72,7 @@ FILE: Panasonic DMC-LC40.jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
-[Exif Thumbnail - 0x9286] Unknown tag (0x9286) = 8722
+[Exif Thumbnail - 0x9286] User Comment = null
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
 Generated using metadata-extractor

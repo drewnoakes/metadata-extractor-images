@@ -17,13 +17,13 @@ FILE: Canon PowerShot A85.jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0132] Date/Time = 2005:01:31 05:51:17
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0x1001] Unknown tag (0x1001) = 2272
-[Exif IFD0 - 0x1002] Unknown tag (0x1002) = 1704
-[Exif IFD0 - 0xa401] Unknown tag (0xa401) = 0
-[Exif IFD0 - 0xa402] Unknown tag (0xa402) = 0
-[Exif IFD0 - 0xa403] Unknown tag (0xa403) = 1
-[Exif IFD0 - 0xa404] Unknown tag (0xa404) = 1
-[Exif IFD0 - 0xa406] Unknown tag (0xa406) = 0
+[Exif IFD0 - 0x1001] Related Image Width = 2272
+[Exif IFD0 - 0x1002] Related Image Length = 1704
+[Exif IFD0 - 0xa401] Custom Rendered = Normal process
+[Exif IFD0 - 0xa402] Exposure Mode = Auto exposure
+[Exif IFD0 - 0xa403] White Balance Mode = Manual white balance
+[Exif IFD0 - 0xa404] Digital Zoom Ratio = 1
+[Exif IFD0 - 0xa406] Scene Capture Type = Standard
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/160 sec
 [Exif SubIFD - 0x829d] F-Number = F6.3

@@ -1,18 +1,18 @@
 FILE: Leica X VARIO (Typ 107).dng
 
-[Exif IFD0 - 0x00fe] Unknown tag (0x00fe) = 1
-[Exif IFD0 - 0x0100] Unknown tag (0x0100) = 720
-[Exif IFD0 - 0x0101] Unknown tag (0x0101) = 480
-[Exif IFD0 - 0x0102] Unknown tag (0x0102) = 8 8 8
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 720 pixels
+[Exif IFD0 - 0x0101] Image Height = 480 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
 [Exif IFD0 - 0x0103] Unknown tag (0x0103) = 7
-[Exif IFD0 - 0x0106] Unknown tag (0x0106) = 6
+[Exif IFD0 - 0x0106] Photometric Interpretation = YCbCr
 [Exif IFD0 - 0x010f] Make = LEICA CAMERA AG        
 [Exif IFD0 - 0x0110] Model = LEICA X VARIO (Typ 107)
-[Exif IFD0 - 0x0111] Unknown tag (0x0111) = 11472
+[Exif IFD0 - 0x0111] Strip Offsets = 11472
 [Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
-[Exif IFD0 - 0x0115] Unknown tag (0x0115) = 3
-[Exif IFD0 - 0x0116] Unknown tag (0x0116) = 480
-[Exif IFD0 - 0x0117] Unknown tag (0x0117) = 73465
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 480 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 73465 bytes
 [Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
 [Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
