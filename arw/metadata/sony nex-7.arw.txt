@@ -11,7 +11,7 @@ FILE: Sony NEX-7.arw
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = NEX-7 v1.00
 [Exif IFD0 - 0x0132] Date/Time = 2011:01:15 21:43:36
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 140352
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 140352
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 140962
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 336497
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point

@@ -7,7 +7,7 @@ FILE: Samsung NX3000.srw
 [Exif IFD0 - 0x0110] Model = NX3000
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif IFD0 - 0x0132] Date/Time = 2014:08:12 09:03:27
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 846008 846114
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 846008 846114
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
 [Exif SubIFD - 0x829d] F-Number = F5.6
@@ -44,7 +44,7 @@ FILE: Samsung NX3000.srw
 [Exif SubIFD - 0xa433] Lens Make = Samsung
 [Exif SubIFD - 0xa434] Lens Model = NX 16-50mm F3.5-5.6 Power Zoom
 
-[Exif Thumbnail - 0x014a] Unknown tag (0x014a) = 837694
+[Exif Thumbnail - 0x014a] Sub IFD Pointer(s) = 837694
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

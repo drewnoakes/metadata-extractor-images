@@ -4,7 +4,7 @@ FILE: Samsung NX1.srw
 [Exif IFD0 - 0x0110] Model = NX1
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif IFD0 - 0x0132] Date/Time = 2014:12:09 11:49:40
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 788870 788976
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 788870 788976
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.01 sec
 [Exif SubIFD - 0x829d] F-Number = F8
@@ -32,7 +32,7 @@ FILE: Samsung NX1.srw
 [Exif SubIFD - 0xa434] Lens Model = NX 16-50mm F2-2.8 S
 [Exif SubIFD - 0xa432] Lens Specification = 16/1 50/1 20/10 28/10
 
-[Exif Thumbnail - 0x014a] Unknown tag (0x014a) = 774743
+[Exif Thumbnail - 0x014a] Sub IFD Pointer(s) = 774743
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

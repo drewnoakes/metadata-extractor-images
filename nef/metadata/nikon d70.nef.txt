@@ -19,7 +19,7 @@ FILE: Nikon D70.nef
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Nikon Transfer 6.2.1 W
 [Exif IFD0 - 0x0132] Date/Time = 2007:01:17 14:15:01
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 1072 1190
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 1072 1190
 [Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [255,255,255]
 [Exif IFD0 - 0x9216] TIFF/EP Standard ID = 1 0 0 0
 

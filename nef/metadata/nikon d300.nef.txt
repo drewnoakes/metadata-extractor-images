@@ -19,7 +19,7 @@ FILE: Nikon D300.nef
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Ver.1.00 
 [Exif IFD0 - 0x0132] Date/Time = 2008:03:06 03:14:23
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 177536 177656
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 177536 177656
 [Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [255,255,255]
 [Exif IFD0 - 0x9003] Date/Time Original = 2008:03:06 03:14:23
 [Exif IFD0 - 0x9216] TIFF/EP Standard ID = 1 0 0 0

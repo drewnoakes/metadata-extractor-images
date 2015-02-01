@@ -18,7 +18,7 @@ FILE: Leica X VARIO (Typ 107).dng
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = 1.0                            
 [Exif IFD0 - 0x0132] Date/Time = 2014:04:04 11:04:14
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 842
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 842
 [Exif IFD0 - 0xc612] Unknown tag (0xc612) = 1 3 0 0
 [Exif IFD0 - 0xc613] Unknown tag (0xc613) = 1 3 0 0
 [Exif IFD0 - 0xc614] Unknown tag (0xc614) = LEICA X VARIO (Typ 107)

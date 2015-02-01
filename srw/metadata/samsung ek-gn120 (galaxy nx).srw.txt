@@ -4,7 +4,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).srw
 [Exif IFD0 - 0x0110] Model = EK-GN120
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif IFD0 - 0x0132] Date/Time = 2012:01:01 04:22:54
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 289772 289878
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 289772 289878
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/250 sec
 [Exif SubIFD - 0x829d] F-Number = F5
@@ -30,7 +30,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).srw
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 
-[Exif Thumbnail - 0x014a] Unknown tag (0x014a) = 270386
+[Exif Thumbnail - 0x014a] Sub IFD Pointer(s) = 270386
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

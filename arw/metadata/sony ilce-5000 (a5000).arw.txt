@@ -11,7 +11,7 @@ FILE: Sony ILCE-5000 (A5000).arw
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = ILCE-5000 v1.00
 [Exif IFD0 - 0x0132] Date/Time = 2014:03:14 13:32:15
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 123824
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 123824
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 124578
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 967923
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point

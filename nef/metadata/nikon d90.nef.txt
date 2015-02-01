@@ -19,7 +19,7 @@ FILE: Nikon D90.nef
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Ver.1.00 
 [Exif IFD0 - 0x0132] Date/Time = 2011:04:25 01:55:46
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 184988 185108
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 184988 185108
 [Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [255,255,255]
 [Exif IFD0 - 0x9003] Date/Time Original = 2011:04:25 01:55:46
 [Exif IFD0 - 0x9216] TIFF/EP Standard ID = 1 0 0 0

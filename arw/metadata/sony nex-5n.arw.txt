@@ -11,7 +11,7 @@ FILE: Sony NEX-5N.arw
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = NEX-5N v1.00
 [Exif IFD0 - 0x0132] Date/Time = 2011:02:26 15:51:13
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 118470
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 118470
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 118946
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 866411
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point

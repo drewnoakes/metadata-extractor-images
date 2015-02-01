@@ -18,7 +18,7 @@ FILE: Leica T (Typ 701).dng
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = v7H1-74f
 [Exif IFD0 - 0x0132] Date/Time = 2014:05:07 10:41:44
-[Exif IFD0 - 0x014a] Unknown tag (0x014a) = 836
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 836
 [Exif IFD0 - 0xc612] Unknown tag (0xc612) = 1 3 0 0
 [Exif IFD0 - 0xc613] Unknown tag (0xc613) = 1 3 0 0
 [Exif IFD0 - 0xc614] Unknown tag (0xc614) = LEICA T (Typ 701)
