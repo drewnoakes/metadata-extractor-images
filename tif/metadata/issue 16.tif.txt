@@ -1,0 +1,56 @@
+FILE: Issue 16.tif
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x0100] Image Width = 728 pixels
+[Exif IFD0 - 0x0101] Image Height = 825 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x010f] Make = Phase One
+[Exif IFD0 - 0x0110] Model = P 45+
+[Exif IFD0 - 0x0111] Strip Offsets = 47096
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 825 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1801800 bytes
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop CS3 Macintosh
+[Exif IFD0 - 0x0132] Date/Time = 2013:05:15 09:42:30
+[Exif IFD0 - 0x013b] Artist = Eric Piasecki Photography LLC
+[Exif IFD0 - 0x02bc] Unknown tag (0x02bc) = [29183 shorts]
+[Exif IFD0 - 0x8298] Copyright = © 2010 Eric Piasecki
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [14098 shorts]
+[Exif IFD0 - 0x8773] Inter Color Profile = [3144 bytes]
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/6 sec
+[Exif SubIFD - 0x8822] Exposure Program = Manual control
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0x9003] Date/Time Original = 2010:09:30 16:06:06
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2010:09:30 16:06:06
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/6 sec
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9208] White Balance = (Other)
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 728 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 825 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+
+[IPTC - 0x015a] Coded Character Set = UTF-8
+[IPTC - 0x0200] Application Record Version = 4
+[IPTC - 0x0250] By-line = Eric Piasecki Photography LLC
+[IPTC - 0x0237] Date Created = Mon Nov 30 00:00:00 GMT 2009
+[IPTC - 0x025a] City = New York
+[IPTC - 0x025f] Province/State = NY
+[IPTC - 0x0265] Country/Primary Location Name = USA
+[IPTC - 0x0219] Keywords = apt;color;kureck jones;moroccan;vivid
+[IPTC - 0x0274] Copyright Notice = © 2010 Eric Piasecki
+[IPTC - 0x023e] Digital Date Created = 20100930
+[IPTC - 0x023f] Digital Time Created = 16:06:06-0400
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
