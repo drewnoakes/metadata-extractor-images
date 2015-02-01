@@ -1,8 +1,8 @@
 FILE: Sigma DP2 Quattro.x3f
 
 com.drew.imaging.ImageProcessingException: File format is not supported
-	at com.drew.imaging.ImageMetadataReader.readMetadata(ImageMetadataReader.java:116)
-	at com.drew.imaging.ImageMetadataReader.readMetadata(ImageMetadataReader.java:142)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(ImageMetadataReader.java:120)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(ImageMetadataReader.java:146)
 	at com.drew.tools.ProcessAllImagesInFolderUtility.processDirectory(ProcessAllImagesInFolderUtility.java:113)
 	at com.drew.tools.ProcessAllImagesInFolderUtility.processDirectory(ProcessAllImagesInFolderUtility.java:105)
 	at com.drew.tools.ProcessAllImagesInFolderUtility.main(ProcessAllImagesInFolderUtility.java:82)
