@@ -1,13 +1,9 @@
 FILE: Samsung EK-GN120 (Galaxy NX).jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 3648 pixels
-[JPEG - 0x0003] Image Width = 5472 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Adobe JPEG - 0x0000] DCT Encode Version = 1
+[Adobe JPEG - 0x0001] Flags 0 = 64
+[Adobe JPEG - 0x0002] Flags 1 = 0
+[Adobe JPEG - 0x0003] Color Transform = YCbCr
 
 [Exif IFD0 - 0x010f] Make = SAMSUNG
 [Exif IFD0 - 0x0110] Model = EK-GN120
@@ -57,12 +53,6 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 842 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5955 bytes
 
-[Xmp - 0x0006] Lens Information = 18/1 55/1 35/10 56/10
-[Xmp - 0x0007] Lens = Samsung 18-55 f/3.5-5.6 OIS
-[Xmp - 0x0008] Serial Number = 0
-[Xmp - 0x0009] Firmware = 0.01
-[Xmp - 0x1001] Rating = 0.0
-
 [ICC Profile - 0x0000] Profile Size = 560
 [ICC Profile - 0x0004] CMM Type = ADBE
 [ICC Profile - 0x0008] Version = 2.1.0
@@ -86,6 +76,20 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [ICC Profile - 0x6758595a] Green Colorant = (0.20527649, 0.6256714, 0.06086731)
 [ICC Profile - 0x6258595a] Blue Colorant = (0.14918518, 0.06321716, 0.7445679)
 
+[IPTC - 0x015a] Coded Character Set = UTF-8
+[IPTC - 0x0200] Application Record Version = 220
+[IPTC - 0x0237] Date Created = Sun Jan 01 00:00:00 GMT 2012
+[IPTC - 0x023c] Time Created = 04:22:54+0000
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3648 pixels
+[JPEG - 0x0003] Image Width = 5472 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Photoshop - 0x0404] IPTC-NAA Record = 44 bytes binary data
 [Photoshop - 0x0425] Caption Digest = -99 -110 13 121 -120 -2 46 -20 -7 76 62 -92 27 60 38 51
 [Photoshop - 0x043a] Unknown tag (0x043a) = [229 bytes]
@@ -107,15 +111,11 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CC) 1
 [Photoshop - 0x0406] JPEG Quality = 12 (Maximum), Standard format, 3 scans
 
-[IPTC - 0x015a] Coded Character Set = UTF-8
-[IPTC - 0x0200] Application Record Version = 220
-[IPTC - 0x0237] Date Created = Sun Jan 01 00:00:00 GMT 2012
-[IPTC - 0x023c] Time Created = 04:22:54+0000
-
-[Adobe JPEG - 0x0000] DCT Encode Version = 1
-[Adobe JPEG - 0x0001] Flags 0 = 64
-[Adobe JPEG - 0x0002] Flags 1 = 0
-[Adobe JPEG - 0x0003] Color Transform = YCbCr
+[Xmp - 0x0006] Lens Information = 18/1 55/1 35/10 56/10
+[Xmp - 0x0007] Lens = Samsung 18-55 f/3.5-5.6 OIS
+[Xmp - 0x0008] Serial Number = 0
+[Xmp - 0x0009] Firmware = 0.01
+[Xmp - 0x1001] Rating = 0.0
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

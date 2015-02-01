@@ -1,14 +1,5 @@
 FILE: Panasonic DMC-LC33 (Lumix).jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 1536 pixels
-[JPEG - 0x0003] Image Width = 2048 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010f] Make = Panasonic
 [Exif IFD0 - 0x0110] Model = DMC-LC33
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -57,6 +48,26 @@ FILE: Panasonic DMC-LC33 (Lumix).jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 1522 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 12192 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1536 pixels
+[JPEG - 0x0003] Image Width = 2048 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Panasonic Makernote - 0x0001] Quality Mode = High
 [Panasonic Makernote - 0x0002] Version = 1.00
 [Panasonic Makernote - 0x0003] White Balance = Auto
@@ -68,17 +79,6 @@ FILE: Panasonic DMC-LC33 (Lumix).jpg
 [Panasonic Makernote - 0x0020] Audio = On
 [Panasonic Makernote - 0x0021] Unknown Data Dump = (240 bytes)
 [Panasonic Makernote - 0x0022] Easy Mode = 0
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 1522 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 12192 bytes
-[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

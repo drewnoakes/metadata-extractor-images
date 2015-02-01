@@ -1,14 +1,5 @@
 FILE: Apple iPhone 6.jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 2448 pixels
-[JPEG - 0x0003] Image Width = 3264 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010f] Make = Apple
 [Exif IFD0 - 0x0110] Model = iPhone 6
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -53,6 +44,13 @@ FILE: Apple iPhone 6.jpg
 [Exif SubIFD - 0xa433] Lens Make = Apple
 [Exif SubIFD - 0xa434] Lens Model = iPhone 6 back camera 4.15mm f/2.2
 
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 1986 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 14671 bytes
+
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 51° 45' 44.67"
 [GPS - 0x0003] GPS Longitude Ref = W
@@ -68,12 +66,14 @@ FILE: Apple iPhone 6.jpg
 [GPS - 0x0018] GPS Dest Bearing = 203.25 degrees
 [GPS - 0x001d] GPS Date Stamp = 2014:09:259
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 1986 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 14671 bytes
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2448 pixels
+[JPEG - 0x0003] Image Width = 3264 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

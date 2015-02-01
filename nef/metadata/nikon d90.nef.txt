@@ -56,6 +56,8 @@ FILE: Nikon D90.nef
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
+[GPS - 0x0000] GPS Version ID = 2.200
+
 [Nikon Makernote - 0x0001] Firmware Version = 2.10
 [Nikon Makernote - 0x0002] ISO = ISO 250
 [Nikon Makernote - 0x0004] Quality & File Format = RAW    
@@ -110,8 +112,6 @@ FILE: Nikon D90.nef
 [Nikon Makernote - 0x00b8] File Info = [172 bytes]
 [Nikon Makernote - 0x00bb] Unknown 49 = 48 49 48 48 -1 0
 [Nikon Makernote - 0x00bc] Unknown tag (0x00bc) = [3500 bytes]
-
-[GPS - 0x0000] GPS Version ID = 2.200
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

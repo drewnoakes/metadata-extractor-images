@@ -1,14 +1,5 @@
 FILE: Nikon 1 V3.jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 3488 pixels
-[JPEG - 0x0003] Image Width = 5232 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON 1 V3
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -58,6 +49,34 @@ FILE: Nikon 1 V3.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 [Exif SubIFD - 0xa434] Lens Model = 1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 23540 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 10682 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
+
+[GPS - 0x0000] GPS Version ID = 2.300
+
+[IPTC - 0x0200] Application Record Version = 3
+[IPTC - 0x0237] Date Created = Fri Jun 06 00:00:00 BST 2014
+[IPTC - 0x023c] Time Created = 17:10:24-0700
+[IPTC - 0x020a] Urgency = 48
+[IPTC - 0x02dd] Unknown tag (0x02dd) = 1:0:0:005073
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3488 pixels
+[JPEG - 0x0003] Image Width = 5232 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.11
 [Nikon Makernote - 0x0002] ISO = ISO 400
@@ -112,30 +131,11 @@ FILE: Nikon 1 V3.jpg
 [Nikon Makernote - 0x00b9] AF Tune = 0 -1 0 0
 [Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 68 1 12 0 -112 1 12 0
 
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[GPS - 0x0000] GPS Version ID = 2.300
-
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 23540 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 10682 bytes
-[Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
-
-[Xmp - 0x1001] Rating = 0.0
-
 [Photoshop - 0x0404] IPTC-NAA Record = 59 bytes binary data
 [Photoshop - 0x03ed] Resolution Info = 200.0x200.0 DPI
 [Photoshop - 0x040a] Copyright Flag = No
 
-[IPTC - 0x0200] Application Record Version = 3
-[IPTC - 0x0237] Date Created = Fri Jun 06 00:00:00 BST 2014
-[IPTC - 0x023c] Time Created = 17:10:24-0700
-[IPTC - 0x020a] Urgency = 48
-[IPTC - 0x02dd] Unknown tag (0x02dd) = 1:0:0:005073
+[Xmp - 0x1001] Rating = 0.0
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

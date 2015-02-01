@@ -1,14 +1,5 @@
 FILE: Sony Ericsson U10i.jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 1836 pixels
-[JPEG - 0x0003] Image Width = 3264 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010f] Make = Sony Ericsson
 [Exif IFD0 - 0x0110] Model = U10i
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -41,14 +32,6 @@ FILE: Sony Ericsson U10i.jpg
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
-[Sony Makernote - 0x2000] Makernote Thumb Version = 2.00
-[Sony Makernote - 0x0201] Unknown tag (0x0201) = 62
-[Sony Makernote - 0x0202] Unknown tag (0x0202) = 51856
-[Sony Makernote - 0x0203] Unknown tag (0x0203) = 56
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
@@ -56,6 +39,23 @@ FILE: Sony Ericsson U10i.jpg
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 52672 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 7053 bytes
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1836 pixels
+[JPEG - 0x0003] Image Width = 3264 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Sony Makernote - 0x2000] Makernote Thumb Version = 2.00
+[Sony Makernote - 0x0201] Unknown tag (0x0201) = 62
+[Sony Makernote - 0x0202] Unknown tag (0x0202) = 51856
+[Sony Makernote - 0x0203] Unknown tag (0x0203) = 56
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

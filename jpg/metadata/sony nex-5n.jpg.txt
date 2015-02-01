@@ -2,15 +2,6 @@ FILE: Sony NEX-5N.jpg
 
 [ERROR: Sony Makernote] Illegal TIFF tag pointer offset
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 3264 pixels
-[JPEG - 0x0003] Image Width = 4912 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = SONY
 [Exif IFD0 - 0x0110] Model = NEX-5N
@@ -58,6 +49,25 @@ FILE: Sony NEX-5N.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa432] Lens Specification = 240/10 240/10 18/10 18/10
 [Exif SubIFD - 0xa434] Lens Model = E 24mm F1.8 ZA
+
+[GPS - 0x0001] GPS Latitude Ref = N
+[GPS - 0x0002] GPS Latitude = 49° 22' 15.46"
+[GPS - 0x0003] GPS Longitude Ref = E
+[GPS - 0x0004] GPS Longitude = 8° 38' 27.06"
+[GPS - 0x0005] GPS Altitude Ref = Sea level
+[GPS - 0x0006] GPS Altitude = 117 metres
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3264 pixels
+[JPEG - 0x0003] Image Width = 4912 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Sony Makernote - 0x1003] Panorama = 3166591869 3696971355 3059175003 805952816 1532748622 1470716894 1535269779 3787405468 1398519933 945512643 944447528 2958768127 1533711707 1952835885 4288682208 394
 [Sony Makernote - 0x2000] Unknown tag (0x2000) = 0
@@ -135,16 +145,6 @@ FILE: Sony NEX-5N.jpg
 [Sony Makernote - 0x2010] Unknown tag (0x2010) = [6691 bytes]
 [Sony Makernote - 0x940f] Unknown tag (0x940f) = [2048 bytes]
 [Sony Makernote - 0x9050] Unknown tag (0x9050) = [3072 bytes]
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[GPS - 0x0001] GPS Latitude Ref = N
-[GPS - 0x0002] GPS Latitude = 49° 22' 15.46"
-[GPS - 0x0003] GPS Longitude Ref = E
-[GPS - 0x0004] GPS Longitude = 8° 38' 27.06"
-[GPS - 0x0005] GPS Altitude Ref = Sea level
-[GPS - 0x0006] GPS Altitude = 117 metres
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -1,14 +1,5 @@
 FILE: Nikon D3300.jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 4000 pixels
-[JPEG - 0x0003] Image Width = 6000 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON D3300
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -59,6 +50,33 @@ FILE: Nikon D3300.jpg
 [Exif SubIFD - 0xa431] Body Serial Number = 3000205
 [Exif SubIFD - 0xa432] Lens Specification = 180/10 550/10 35/10 56/10
 [Exif SubIFD - 0xa434] Lens Model = 18.0-55.0 mm f/3.5-5.6
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 15860 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 8783 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
+
+[GPS - 0x0000] GPS Version ID = 2.300
+
+[IPTC - 0x015a] Coded Character Set = UTF-8
+[IPTC - 0x0200] Application Record Version = 4
+[IPTC - 0x0237] Date Created = Wed Feb 19 00:00:00 GMT 2014
+[IPTC - 0x023c] Time Created = 13:47:19
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 4000 pixels
+[JPEG - 0x0003] Image Width = 6000 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.11
 [Nikon Makernote - 0x0002] ISO = ISO 100
@@ -119,31 +137,13 @@ FILE: Nikon D3300.jpg
 [Nikon Makernote - 0x00bf] Unknown tag (0x00bf) = 0
 [Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 60 1 12 0 -112 1 12 0
 
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[GPS - 0x0000] GPS Version ID = 2.300
-
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 15860 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 8783 bytes
-[Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
+[Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
+[Photoshop - 0x0425] Caption Digest = -87 110 -127 -14 -15 89 -109 111 97 -9 -85 -53 74 -104 102 24
 
 [Xmp - 0x0006] Lens Information = 180/10 550/10 35/10 56/10
 [Xmp - 0x0007] Lens = 18.0-55.0 mm f/3.5-5.6
 [Xmp - 0x0008] Serial Number = 3000205
 [Xmp - 0x1001] Rating = 3.0
-
-[Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
-[Photoshop - 0x0425] Caption Digest = -87 110 -127 -14 -15 89 -109 111 97 -9 -85 -53 74 -104 102 24
-
-[IPTC - 0x015a] Coded Character Set = UTF-8
-[IPTC - 0x0200] Application Record Version = 4
-[IPTC - 0x0237] Date Created = Wed Feb 19 00:00:00 GMT 2014
-[IPTC - 0x023c] Time Created = 13:47:19
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -2,19 +2,10 @@ FILE: FujiFilm DX-5.jpg
 
 [ERROR: Photoshop] Attempt to read from beyond end of underlying data source (requested index: 2668, requested count: 1146739911, max index: 5091)
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 263 pixels
-[JPEG - 0x0003] Image Width = 350 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
-[JFIF - 0x0005] Version = 1.2
-[JFIF - 0x0007] Resolution Units = inch
-[JFIF - 0x0008] X Resolution = 72 dots
-[JFIF - 0x000a] Y Resolution = 72 dots
+[Adobe JPEG - 0x0000] DCT Encode Version = 1
+[Adobe JPEG - 0x0001] Flags 0 = 128
+[Adobe JPEG - 0x0002] Flags 1 = 0
+[Adobe JPEG - 0x0003] Color Transform = YCbCr
 
 [Exif IFD0 - 0x010f] Make = FUJIFILM
 [Exif IFD0 - 0x0110] Model = DX-5
@@ -55,10 +46,19 @@ FILE: FujiFilm DX-5.jpg
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 [Exif Thumbnail - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
 
-[Adobe JPEG - 0x0000] DCT Encode Version = 1
-[Adobe JPEG - 0x0001] Flags 0 = 128
-[Adobe JPEG - 0x0002] Flags 1 = 0
-[Adobe JPEG - 0x0003] Color Transform = YCbCr
+[JFIF - 0x0005] Version = 1.2
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 72 dots
+[JFIF - 0x000a] Y Resolution = 72 dots
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 263 pixels
+[JPEG - 0x0003] Image Width = 350 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

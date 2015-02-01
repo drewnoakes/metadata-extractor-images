@@ -1,14 +1,5 @@
 FILE: Nikon E5700.jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 2560 pixels
-[JPEG - 0x0003] Image Width = 1920 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x010e] Image Description =           
 [Exif IFD0 - 0x010f] Make = NIKON
@@ -42,29 +33,6 @@ FILE: Nikon E5700.jpg
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa302] CFA Pattern = 0 2 0 2 5 3 1 4
 
-[Nikon Makernote - 0x0001] Firmware Version = 2.00
-[Nikon Makernote - 0x0002] ISO = ISO 100
-[Nikon Makernote - 0x0003] Color Mode = COLOR
-[Nikon Makernote - 0x0004] Quality & File Format = RAW    
-[Nikon Makernote - 0x0005] White Balance = AUTO        
-[Nikon Makernote - 0x0006] Sharpening = NORMAL
-[Nikon Makernote - 0x0007] AF Type = AF-S  
-[Nikon Makernote - 0x000a] Unknown tag (0x000a) = 4416/500
-[Nikon Makernote - 0x000c] White Balance RB Coefficients = 11796875/10000000 10859375/10000000 0/1 0/1
-[Nikon Makernote - 0x000f] ISO Mode = MANUAL
-[Nikon Makernote - 0x0010] Data Dump = [254 bytes]
-[Nikon Makernote - 0x0011] Preview IFD = 1972
-[Nikon Makernote - 0x0014] Unknown tag (0x0014) = [1280 bytes]
-[Nikon Makernote - 0x0080] Image Adjustment = AUTO         
-[Nikon Makernote - 0x0082] Adapter = OFF         
-[Nikon Makernote - 0x0085] Manual Focus Distance = 0
-[Nikon Makernote - 0x0086] Digital Zoom = No digital zoom
-[Nikon Makernote - 0x0088] AF Focus Position = Top
-[Nikon Makernote - 0x008f] Scene Mode =                 
-[Nikon Makernote - 0x0094] Saturation = 0
-[Nikon Makernote - 0x0095] Noise Reduction = OFF 
-[Nikon Makernote - 0x0e10] Nikon Scan = 2066
-
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
@@ -94,6 +62,38 @@ FILE: Nikon E5700.jpg
 [ICC Profile - 0x62545243] Blue TRC = 0.0085908
 [ICC Profile - 0x77747074] Media White Point = (0.9505005, 1.0, 1.0890961)
 [ICC Profile - 0x63707274] Copyright = Nikon Inc. & Nikon Corporation 2001
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2560 pixels
+[JPEG - 0x0003] Image Width = 1920 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Nikon Makernote - 0x0001] Firmware Version = 2.00
+[Nikon Makernote - 0x0002] ISO = ISO 100
+[Nikon Makernote - 0x0003] Color Mode = COLOR
+[Nikon Makernote - 0x0004] Quality & File Format = RAW    
+[Nikon Makernote - 0x0005] White Balance = AUTO        
+[Nikon Makernote - 0x0006] Sharpening = NORMAL
+[Nikon Makernote - 0x0007] AF Type = AF-S  
+[Nikon Makernote - 0x000a] Unknown tag (0x000a) = 4416/500
+[Nikon Makernote - 0x000c] White Balance RB Coefficients = 11796875/10000000 10859375/10000000 0/1 0/1
+[Nikon Makernote - 0x000f] ISO Mode = MANUAL
+[Nikon Makernote - 0x0010] Data Dump = [254 bytes]
+[Nikon Makernote - 0x0011] Preview IFD = 1972
+[Nikon Makernote - 0x0014] Unknown tag (0x0014) = [1280 bytes]
+[Nikon Makernote - 0x0080] Image Adjustment = AUTO         
+[Nikon Makernote - 0x0082] Adapter = OFF         
+[Nikon Makernote - 0x0085] Manual Focus Distance = 0
+[Nikon Makernote - 0x0086] Digital Zoom = No digital zoom
+[Nikon Makernote - 0x0088] AF Focus Position = Top
+[Nikon Makernote - 0x008f] Scene Mode =                 
+[Nikon Makernote - 0x0094] Saturation = 0
+[Nikon Makernote - 0x0095] Noise Reduction = OFF 
+[Nikon Makernote - 0x0e10] Nikon Scan = 2066
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

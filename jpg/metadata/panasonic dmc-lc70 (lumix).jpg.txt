@@ -1,19 +1,5 @@
 FILE: Panasonic DMC-LC70 (Lumix).jpg
 
-[JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 960 pixels
-[JPEG - 0x0003] Image Width = 1280 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
-[JFIF - 0x0005] Version = 1.2
-[JFIF - 0x0007] Resolution Units = inch
-[JFIF - 0x0008] X Resolution = 72 dots
-[JFIF - 0x000a] Y Resolution = 72 dots
-
 [Exif IFD0 - 0x010f] Make = Panasonic
 [Exif IFD0 - 0x0110] Model = DMC-LC70
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -61,6 +47,32 @@ FILE: Panasonic DMC-LC70 (Lumix).jpg
 [Exif SubIFD - 0xa40a] Sharpness = Hard
 [Exif SubIFD - 0xa40c] Subject Distance Range = Macro
 
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 2712 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 15005 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[JFIF - 0x0005] Version = 1.2
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 72 dots
+[JFIF - 0x000a] Y Resolution = 72 dots
+
+[JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 960 pixels
+[JPEG - 0x0003] Image Width = 1280 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Panasonic Makernote - 0x0001] Quality Mode = High
 [Panasonic Makernote - 0x0002] Version = 1.02
 [Panasonic Makernote - 0x0003] White Balance = Auto
@@ -83,18 +95,6 @@ FILE: Panasonic DMC-LC70 (Lumix).jpg
 [Panasonic Makernote - 0x002b] Sequence Number = 0
 [Panasonic Makernote - 0x002c] Contrast Mode = Normal
 [Panasonic Makernote - 0x4449] Unknown tag (0x4449) = [512 bytes]
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 2712 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 15005 bytes
-[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
 [Photoshop - 0x03ed] Resolution Info = 72.0x72.0 DPI
 [Photoshop - 0x040d] Global Angle = 30

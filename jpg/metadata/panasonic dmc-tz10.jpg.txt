@@ -1,14 +1,5 @@
 FILE: Panasonic DMC-TZ10.jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 3000 pixels
-[JPEG - 0x0003] Image Width = 4000 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010f] Make = Panasonic
 [Exif IFD0 - 0x0110] Model = DMC-TZ10
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -54,6 +45,41 @@ FILE: Panasonic DMC-TZ10.jpg
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 180 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 11764 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 4660 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[GPS - 0x0000] GPS Version ID = 2.200
+[GPS - 0x0001] GPS Latitude Ref = N
+[GPS - 0x0002] GPS Latitude = 53° 8' 49.65"
+[GPS - 0x0003] GPS Longitude Ref = E
+[GPS - 0x0004] GPS Longitude = 8° 10' 45.1"
+[GPS - 0x0007] GPS Time-Stamp = 10:17:21.00 UTC
+[GPS - 0x0008] GPS Satellites = 5
+[GPS - 0x0009] GPS Status = Active (Measurement in progress)
+[GPS - 0x000a] GPS Measure Mode = 2-dimensional measurement
+[GPS - 0x000b] GPS DOP = 2.4
+[GPS - 0x0012] GPS Map Datum = WGS-84   
+[GPS - 0x001b] GPS Processing Method = 71 80 83
+[GPS - 0x001d] GPS Date Stamp = 2010:06:24
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3000 pixels
+[JPEG - 0x0003] Image Width = 4000 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Panasonic Makernote - 0x0001] Quality Mode = High
 [Panasonic Makernote - 0x0002] Version = 1.00
@@ -134,32 +160,6 @@ FILE: Panasonic DMC-TZ10.jpg
 [Panasonic Makernote - 0x8009] Text Stamp 3 = Off
 [Panasonic Makernote - 0x8010] Baby Age 1 = null
 [Panasonic Makernote - 0x8012] Transform 1 = Off
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[GPS - 0x0000] GPS Version ID = 2.200
-[GPS - 0x0001] GPS Latitude Ref = N
-[GPS - 0x0002] GPS Latitude = 53° 8' 49.65"
-[GPS - 0x0003] GPS Longitude Ref = E
-[GPS - 0x0004] GPS Longitude = 8° 10' 45.1"
-[GPS - 0x0007] GPS Time-Stamp = 10:17:21.00 UTC
-[GPS - 0x0008] GPS Satellites = 5
-[GPS - 0x0009] GPS Status = Active (Measurement in progress)
-[GPS - 0x000a] GPS Measure Mode = 2-dimensional measurement
-[GPS - 0x000b] GPS DOP = 2.4
-[GPS - 0x0012] GPS Map Datum = WGS-84   
-[GPS - 0x001b] GPS Processing Method = 71 80 83
-[GPS - 0x001d] GPS Date Stamp = 2010:06:24
-
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 180 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 11764 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 4660 bytes
-[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

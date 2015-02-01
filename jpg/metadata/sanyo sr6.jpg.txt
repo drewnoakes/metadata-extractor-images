@@ -1,14 +1,5 @@
 FILE: Sanyo SR6.jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 480 pixels
-[JPEG - 0x0003] Image Width = 640 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 2, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010e] Image Description = SANYO DIGITAL CAMERA
 [Exif IFD0 - 0x010f] Make = SANYO Electric Co.,Ltd.
 [Exif IFD0 - 0x0110] Model = SR6 
@@ -40,16 +31,25 @@ FILE: Sanyo SR6.jpg
 [Exif SubIFD - 0xa004] Related Sound File =             
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
-[Sanyo Makernote - 0x0200] Special Mode = 66316 285413634 3959439104
-[Sanyo Makernote - 0x0201] Sanyo Quality = Normal/Medium Low
-[Sanyo Makernote - 0x0f00] Data Dump = [20 longs]
-
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 877 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3602 bytes
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 480 pixels
+[JPEG - 0x0003] Image Width = 640 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 2, Sampling factors 1 horiz/1 vert
+
+[Sanyo Makernote - 0x0200] Special Mode = 66316 285413634 3959439104
+[Sanyo Makernote - 0x0201] Sanyo Quality = Normal/Medium Low
+[Sanyo Makernote - 0x0f00] Data Dump = [20 longs]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -51,9 +51,6 @@ FILE: Sony DSLR-A500.arw
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
 [Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010f] Make = SONY
@@ -66,6 +63,9 @@ FILE: Sony DSLR-A500.arw
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 47796 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3884 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

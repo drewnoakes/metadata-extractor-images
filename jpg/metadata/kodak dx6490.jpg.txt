@@ -1,14 +1,5 @@
 FILE: Kodak DX6490.jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 2304 pixels
-[JPEG - 0x0003] Image Width = 1728 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010f] Make = EASTMAN KODAK COMPANY
 [Exif IFD0 - 0x0110] Model = KODAK DX6490 ZOOM DIGITAL CAMERA
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -52,6 +43,26 @@ FILE: Kodak DX6490.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 2708 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 3607 bytes
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2304 pixels
+[JPEG - 0x0003] Image Width = 1728 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Kodak Makernote - 0x0000] Kodak Model = DX6490  
 [Kodak Makernote - 0x0009] Quality = Fine
 [Kodak Makernote - 0x000a] Burst Mode = Off
@@ -78,17 +89,6 @@ FILE: Kodak DX6490.jpg
 [Kodak Makernote - 0x0066] Color Mode = Saturated Color
 [Kodak Makernote - 0x0068] Digital Zoom = 100
 [Kodak Makernote - 0x006b] Sharpness = Normal
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 2708 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 3607 bytes
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

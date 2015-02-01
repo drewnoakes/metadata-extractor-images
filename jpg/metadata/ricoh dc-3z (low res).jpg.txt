@@ -1,14 +1,5 @@
 FILE: Ricoh DC-3Z (low res).jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 480 pixels
-[JPEG - 0x0003] Image Width = 640 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = null component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Y component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010f] Make = RICOH      
 [Exif IFD0 - 0x0110] Model = DC-3Z          
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -36,6 +27,15 @@ FILE: Ricoh DC-3Z (low res).jpg
 [Exif SubIFD - 0x920a] Focal Length = 5.0 mm
 [Exif SubIFD - 0x927c] Makernote = [64 bytes]
 [Exif SubIFD - 0x9286] User Comment = 
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 480 pixels
+[JPEG - 0x0003] Image Width = 640 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = null component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Y component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

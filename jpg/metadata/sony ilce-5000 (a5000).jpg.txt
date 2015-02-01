@@ -2,15 +2,6 @@ FILE: Sony ILCE-5000 (A5000).jpg
 
 [ERROR: Sony Makernote] Illegal TIFF tag pointer offset
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 3632 pixels
-[JPEG - 0x0003] Image Width = 5456 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = SONY
 [Exif IFD0 - 0x0110] Model = ILCE-5000
@@ -59,6 +50,32 @@ FILE: Sony ILCE-5000 (A5000).jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa432] Lens Specification = 160/10 500/10 35/10 56/10
 [Exif SubIFD - 0xa434] Lens Model = E PZ 16-50mm F3.5-5.6 OSS
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x010e] Image Description =                                
+[Exif Thumbnail - 0x010f] Make = SONY
+[Exif Thumbnail - 0x0110] Model = ILCE-5000
+[Exif Thumbnail - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0131] Software = ILCE-5000 v1.00
+[Exif Thumbnail - 0x0132] Date/Time = 2014:03:14 15:00:43
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 38448 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 7575 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3632 pixels
+[JPEG - 0x0003] Image Width = 5456 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Sony Makernote - 0x1003] Panorama = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 [Sony Makernote - 0x2000] Unknown tag (0x2000) = 0
@@ -153,23 +170,6 @@ FILE: Sony ILCE-5000 (A5000).jpg
 [Sony Makernote - 0x940f] Unknown tag (0x940f) = [2048 bytes]
 [Sony Makernote - 0x9050] Unknown tag (0x9050) = [944 bytes]
 [Sony Makernote - 0x9412] Unknown tag (0x9412) = [160 bytes]
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x010e] Image Description =                                
-[Exif Thumbnail - 0x010f] Make = SONY
-[Exif Thumbnail - 0x0110] Model = ILCE-5000
-[Exif Thumbnail - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
-[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0131] Software = ILCE-5000 v1.00
-[Exif Thumbnail - 0x0132] Date/Time = 2014:03:14 15:00:43
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 38448 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 7575 bytes
-[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

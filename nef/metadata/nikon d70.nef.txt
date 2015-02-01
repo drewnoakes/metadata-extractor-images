@@ -55,6 +55,12 @@ FILE: Nikon D70.nef
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
+[IPTC - 0x0250] By-line = Drew Noakes
+[IPTC - 0x0255] By-line Title = Photographer
+[IPTC - 0x026e] Credit = Drew Noakes
+[IPTC - 0x0265] Country/Primary Location Name = Morocco
+[IPTC - 0x0274] Copyright Notice = http://drewnoakes.com
+
 [Nikon Makernote - 0x0001] Firmware Version = 2.00
 [Nikon Makernote - 0x0002] ISO = ISO 400
 [Nikon Makernote - 0x0004] Quality & File Format = RAW    
@@ -97,12 +103,6 @@ FILE: Nikon D70.nef
 [Nikon Makernote - 0x00ab] Digital Vari Program =  
 [Nikon Makernote - 0x0e01] Nikon Capture Data = [2769 bytes]
 [Nikon Makernote - 0x0e10] Nikon Scan = 9793
-
-[IPTC - 0x0250] By-line = Drew Noakes
-[IPTC - 0x0255] By-line Title = Photographer
-[IPTC - 0x026e] Credit = Drew Noakes
-[IPTC - 0x0265] Country/Primary Location Name = Morocco
-[IPTC - 0x0274] Copyright Notice = http://drewnoakes.com
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -1,18 +1,9 @@
 FILE: Canon EOS 7D.jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 900 pixels
-[JPEG - 0x0003] Image Width = 600 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
-[JFIF - 0x0005] Version = 1.1
-[JFIF - 0x0007] Resolution Units = none
-[JFIF - 0x0008] X Resolution = 1 dot
-[JFIF - 0x000a] Y Resolution = 1 dot
+[Adobe JPEG - 0x0000] DCT Encode Version = 1
+[Adobe JPEG - 0x0001] Flags 0 = 64
+[Adobe JPEG - 0x0002] Flags 1 = 0
+[Adobe JPEG - 0x0003] Color Transform = YCbCr
 
 [Exif IFD0 - 0x010e] Image Description = mit blauem Kleid
 [Exif IFD0 - 0x010f] Make = Canon
@@ -57,22 +48,6 @@ FILE: Canon EOS 7D.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 786 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10286 bytes
 
-[Xmp - 0x0006] Lens Information = 24/1 70/1 0/0 0/0
-[Xmp - 0x0007] Lens = EF24-70mm f/2.8L USM
-[Xmp - 0x0008] Serial Number = 380319450
-[Xmp - 0x0009] Firmware = 1.2.1
-[Xmp - 0x0001] Make = Canon
-[Xmp - 0x0002] Model = Canon EOS 7D
-[Xmp - 0x0003] Exposure Time = 1/125 sec
-[Xmp - 0x000c] Exposure Program = Manual control
-[Xmp - 0x000b] Aperture Value = F11
-[Xmp - 0x0005] F-Number = F11
-[Xmp - 0x000a] Focal Length = 57.0 mm
-[Xmp - 0x0004] Shutter Speed Value = 1/124 sec
-[Xmp - 0x000d] Date/Time Original = Sun Dec 12 11:41:35 GMT 2010
-[Xmp - 0x000e] Date/Time Digitized = Sun Dec 12 11:41:35 GMT 2010
-[Xmp - 0x1001] Rating = 3.0
-
 [ICC Profile - 0x0000] Profile Size = 560
 [ICC Profile - 0x0004] CMM Type = ADBE
 [ICC Profile - 0x0008] Version = 2.1.0
@@ -96,13 +71,6 @@ FILE: Canon EOS 7D.jpg
 [ICC Profile - 0x6758595a] Green Colorant = (0.20527649, 0.6256714, 0.06086731)
 [ICC Profile - 0x6258595a] Blue Colorant = (0.14918518, 0.06321716, 0.7445679)
 
-[Photoshop - 0x03ed] Resolution Info = 72.0x72.0 DPI
-[Photoshop - 0x0404] IPTC-NAA Record = 165 bytes binary data
-[Photoshop - 0x040a] Copyright Flag = Yes
-[Photoshop - 0x040b] URL = http://www.meine-ansichten.de/verschiedenes/copyright.html
-[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 171x256, Decomp 132096 bytes, 1572865 bpp, 10286 bytes
-[Photoshop - 0x0425] Caption Digest = -121 125 71 -116 68 -17 11 -80 119 -24 -119 -57 -21 79 114 122
-
 [IPTC - 0x0200] Application Record Version = 2
 [IPTC - 0x0250] By-line = Peter Bemmann
 [IPTC - 0x0255] By-line Title = Hobbyfotograf
@@ -114,10 +82,42 @@ FILE: Canon EOS 7D.jpg
 [IPTC - 0x0274] Copyright Notice = © Peter Bemmann
 [IPTC - 0x0278] Caption/Abstract = mit blauem Kleid
 
-[Adobe JPEG - 0x0000] DCT Encode Version = 1
-[Adobe JPEG - 0x0001] Flags 0 = 64
-[Adobe JPEG - 0x0002] Flags 1 = 0
-[Adobe JPEG - 0x0003] Color Transform = YCbCr
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = none
+[JFIF - 0x0008] X Resolution = 1 dot
+[JFIF - 0x000a] Y Resolution = 1 dot
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 900 pixels
+[JPEG - 0x0003] Image Width = 600 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Photoshop - 0x03ed] Resolution Info = 72.0x72.0 DPI
+[Photoshop - 0x0404] IPTC-NAA Record = 165 bytes binary data
+[Photoshop - 0x040a] Copyright Flag = Yes
+[Photoshop - 0x040b] URL = http://www.meine-ansichten.de/verschiedenes/copyright.html
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 171x256, Decomp 132096 bytes, 1572865 bpp, 10286 bytes
+[Photoshop - 0x0425] Caption Digest = -121 125 71 -116 68 -17 11 -80 119 -24 -119 -57 -21 79 114 122
+
+[Xmp - 0x0006] Lens Information = 24/1 70/1 0/0 0/0
+[Xmp - 0x0007] Lens = EF24-70mm f/2.8L USM
+[Xmp - 0x0008] Serial Number = 380319450
+[Xmp - 0x0009] Firmware = 1.2.1
+[Xmp - 0x0001] Make = Canon
+[Xmp - 0x0002] Model = Canon EOS 7D
+[Xmp - 0x0003] Exposure Time = 1/125 sec
+[Xmp - 0x000c] Exposure Program = Manual control
+[Xmp - 0x000b] Aperture Value = F11
+[Xmp - 0x0005] F-Number = F11
+[Xmp - 0x000a] Focal Length = 57.0 mm
+[Xmp - 0x0004] Shutter Speed Value = 1/124 sec
+[Xmp - 0x000d] Date/Time Original = Sun Dec 12 11:41:35 GMT 2010
+[Xmp - 0x000e] Date/Time Digitized = Sun Dec 12 11:41:35 GMT 2010
+[Xmp - 0x1001] Rating = 3.0
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

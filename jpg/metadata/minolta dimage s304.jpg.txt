@@ -1,14 +1,5 @@
 FILE: Minolta DiMAGE S304.jpg
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 1536 pixels
-[JPEG - 0x0003] Image Width = 2048 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010e] Image Description = DCF 1.0
 [Exif IFD0 - 0x010f] Make = Minolta Co., Ltd.
 [Exif IFD0 - 0x0110] Model = DiMAGE S304
@@ -39,6 +30,46 @@ FILE: Minolta DiMAGE S304.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 2048 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
 [Exif SubIFD - 0xa004] Related Sound File = PICT0057.WAV
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 14216 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 12591 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
+
+[ICC Profile - 0x0000] Profile Size = 524
+[ICC Profile - 0x0004] CMM Type = Win 
+[ICC Profile - 0x0008] Version = 2.2.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = Tue Oct 02 18:44:22 BST 2001
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
+[ICC Profile - 0x0030] Device manufacturer = MNLT
+[ICC Profile - 0x0044] XYZ values = 0.9641876 1.0 0.8248749
+[ICC Profile - 0x0080] Tag Count = 9
+[ICC Profile - 0x63707274] Copyright = Copyright 2001 Minolta Co.,Ltd.
+[ICC Profile - 0x64657363] Profile Description = sRGB (Minolta Co.,Ltd.)
+[ICC Profile - 0x7258595a] Red Colorant = (0.4360962, 0.2224884, 0.013885498)
+[ICC Profile - 0x6758595a] Green Colorant = (0.38508606, 0.7168884, 0.097091675)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.14309692, 0.06059265, 0.71409607)
+[ICC Profile - 0x72545243] Red TRC = 0.0085908
+[ICC Profile - 0x67545243] Green TRC = 0.0085908
+[ICC Profile - 0x62545243] Blue TRC = 0.0085908
+[ICC Profile - 0x77747074] Media White Point = (0.9504852, 1.0, 1.0890961)
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1536 pixels
+[JPEG - 0x0003] Image Width = 2048 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Olympus Makernote - 0x0000] Makernote Version = ml.t0
 [Olympus Makernote - 0xf000] Unknown tag (0xf000) = 0
@@ -87,37 +118,6 @@ FILE: Minolta DiMAGE S304.jpg
 [Olympus Makernote - 0x0010] Unknown tag (0x0010) = [12968 bytes]
 [Olympus Makernote - 0x0020] Unknown tag (0x0020) = [260 bytes]
 [Olympus Makernote - 0x0040] Compressed Image Size = 1712717
-
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
-[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 14216 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 12591 bytes
-[Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
-
-[ICC Profile - 0x0000] Profile Size = 524
-[ICC Profile - 0x0004] CMM Type = Win 
-[ICC Profile - 0x0008] Version = 2.2.0
-[ICC Profile - 0x000c] Class = Display Device
-[ICC Profile - 0x0010] Color space = RGB 
-[ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Tue Oct 02 18:44:22 BST 2001
-[ICC Profile - 0x0024] Signature = acsp
-[ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
-[ICC Profile - 0x0030] Device manufacturer = MNLT
-[ICC Profile - 0x0044] XYZ values = 0.9641876 1.0 0.8248749
-[ICC Profile - 0x0080] Tag Count = 9
-[ICC Profile - 0x63707274] Copyright = Copyright 2001 Minolta Co.,Ltd.
-[ICC Profile - 0x64657363] Profile Description = sRGB (Minolta Co.,Ltd.)
-[ICC Profile - 0x7258595a] Red Colorant = (0.4360962, 0.2224884, 0.013885498)
-[ICC Profile - 0x6758595a] Green Colorant = (0.38508606, 0.7168884, 0.097091675)
-[ICC Profile - 0x6258595a] Blue Colorant = (0.14309692, 0.06059265, 0.71409607)
-[ICC Profile - 0x72545243] Red TRC = 0.0085908
-[ICC Profile - 0x67545243] Green TRC = 0.0085908
-[ICC Profile - 0x62545243] Blue TRC = 0.0085908
-[ICC Profile - 0x77747074] Media White Point = (0.9504852, 1.0, 1.0890961)
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

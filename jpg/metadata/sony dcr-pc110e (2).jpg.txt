@@ -2,15 +2,6 @@ FILE: Sony DCR-PC110E (2).jpg
 
 [ERROR: Exif Thumbnail] Invalid thumbnail data specification: Attempt to read from beyond end of underlying data source (requested index: 691, requested count: 6031, max index: 6720)
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 864 pixels
-[JPEG - 0x0003] Image Width = 1152 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Exif IFD0 - 0x010f] Make = SONY
 [Exif IFD0 - 0x0110] Model = DCR-PC110E 
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -37,9 +28,6 @@ FILE: Sony DCR-PC110E (2).jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 1152 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 864 pixels
 
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010f] Make = SONY
 [Exif Thumbnail - 0x0110] Model = DCR-PC110E 
@@ -50,6 +38,18 @@ FILE: Sony DCR-PC110E (2).jpg
 [Exif Thumbnail - 0x0132] Date/Time = 2001:05:01 18:22:42
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 685 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6031 bytes
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 864 pixels
+[JPEG - 0x0003] Image Width = 1152 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
