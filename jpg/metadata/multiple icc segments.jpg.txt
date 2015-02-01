@@ -1,0 +1,91 @@
+FILE: Multiple ICC segments.jpg
+
+[Adobe JPEG - 0x0000] DCT Encode Version = 2
+[Adobe JPEG - 0x0001] Flags 0 = 0
+[Adobe JPEG - 0x0002] Flags 1 = 0
+[Adobe JPEG - 0x0003] Color Transform = YCCK
+
+[Exif IFD0 - 0x0100] Image Width = 140 pixels
+[Exif IFD0 - 0x0101] Image Height = 140 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop CC 2014 (Macintosh)
+[Exif IFD0 - 0x0132] Date/Time = 2014:12:18 17:45:02
+
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 140 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 140 pixels
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 386 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 3925 bytes
+
+[ICC Profile - 0x0000] Profile Size = 557168
+[ICC Profile - 0x0004] CMM Type = ADBE
+[ICC Profile - 0x0008] Version = 2.1.0
+[ICC Profile - 0x000c] Class = Output Device
+[ICC Profile - 0x0010] Color space = CMYK
+[ICC Profile - 0x0014] Profile Connection Space = Lab 
+[ICC Profile - 0x0018] Profile Date/Time = Sat Aug 26 06:41:53 BST 2000
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = ADBE
+[ICC Profile - 0x0040] Rendering Intent = Media-Relative Colorimetric
+[ICC Profile - 0x0044] XYZ values = 0.9642029 1.0 0.8249054
+[ICC Profile - 0x0080] Tag Count = 10
+[ICC Profile - 0x64657363] Profile Description = U.S. Web Coated (SWOP) v2
+[ICC Profile - 0x63707274] Copyright = Copyright 2000 Adobe Systems, Inc.
+[ICC Profile - 0x77747074] Media White Point = (0.70840454, 0.73594666, 0.5710449)
+[ICC Profile - 0x41324230] AToB 0 = mft2(0x6D667432): 41478 bytes
+[ICC Profile - 0x41324232] AToB 2 = mft2(0x6D667432): 41478 bytes
+[ICC Profile - 0x41324231] AToB 1 = mft2(0x6D667432): 41478 bytes
+[ICC Profile - 0x42324130] BToA 0 = mft1(0x6D667431): 145588 bytes
+[ICC Profile - 0x42324131] BToA 1 = mft1(0x6D667431): 145588 bytes
+[ICC Profile - 0x42324132] BToA 2 = mft1(0x6D667431): 145588 bytes
+[ICC Profile - 0x67616d74] Gamut = mft1(0x6D667431): 37009 bytes
+
+[IPTC - 0x015a] Coded Character Set = UTF-8
+[IPTC - 0x0200] Application Record Version = 32767
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 140 pixels
+[JPEG - 0x0003] Image Width = 140 pixels
+[JPEG - 0x0005] Number of Components = 4
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0009] Component 4 = I component: Quantization table 0, Sampling factors 1 horiz/1 vert
+
+[Photoshop - 0x0404] IPTC-NAA Record = 15 bytes binary data
+[Photoshop - 0x0425] Caption Digest = 54 -128 15 -13 -113 28 7 -48 102 -41 -59 -35 99 -37 97 -92
+[Photoshop - 0x043a] Unknown tag (0x043a) = [229 bytes]
+[Photoshop - 0x043b] Unknown tag (0x043b) = [557 bytes]
+[Photoshop - 0x03ed] Resolution Info = 72.0x72.0 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 bytes]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 bytes]
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = rgb-profile-example (0,0,140,140) 1 Slices
+[Photoshop - 0x0428] Pixel Aspect Ratio = 1.0
+[Photoshop - 0x0414] Seed Number = 1
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 140x140, Decomp 58800 bytes, 1572865 bpp, 3925 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CC 2014) 1
+[Photoshop - 0x0406] JPEG Quality = 8 (High), Standard format, 3 scans
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
