@@ -30,16 +30,6 @@ FILE: invalid-iCCP-missing-adler32-checksum.png
 [ICC Profile - 0x6d656173] Measurement = 1931 2° Observer, Backing (0.0, 0.0, 0.0), Geometry Unknown, Flare 1%, Illuminant D65
 [ICC Profile - 0x74656368] Technology = CRT 
 
-[PNG - 0x0001] Image Width = 460
-[PNG - 0x0002] Image Height = 60
-[PNG - 0x0003] Bits Per Sample = 8
-[PNG - 0x0004] Color Type = True Color with Alpha
-[PNG - 0x0005] Compression Type = Deflate
-[PNG - 0x0006] Filter Method = Adaptive
-[PNG - 0x0007] Interlace Method = No Interlace
-[PNG - 0x000c] ICC Profile Name = Photoshop ICC profile
-[PNG - 0x000b] Image Gamma = 0.45454
-
 [PNG Chromaticities - 0x0001] White Point X = 31269
 [PNG Chromaticities - 0x0003] Red X = 63999
 [PNG Chromaticities - 0x0004] Red Y = 32998
@@ -47,6 +37,18 @@ FILE: invalid-iCCP-missing-adler32-checksum.png
 [PNG Chromaticities - 0x0006] Green Y = 59999
 [PNG Chromaticities - 0x0007] Blue X = 14999
 [PNG Chromaticities - 0x0008] Blue Y = 5999
+
+[PNG-IHDR - 0x0001] Image Width = 460
+[PNG-IHDR - 0x0002] Image Height = 60
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.45454
+
+[PNG-iCCP - 0x000c] ICC Profile Name = Photoshop ICC profile
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
