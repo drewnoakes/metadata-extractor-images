@@ -138,7 +138,7 @@ FILE: Nikon D610.jpg
 
 [IPTC - 0x0200] Application Record Version = 3
 [IPTC - 0x0237] Date Created = Sat Nov 23 00:00:00 GMT 2013
-[IPTC - 0x023c] Time Created = 164709-0800
+[IPTC - 0x023c] Time Created = 16:47:09-0800
 [IPTC - 0x020a] Urgency = 48
 [IPTC - 0x02dd] Unknown tag (0x02dd) = 1:0:0:004660
 

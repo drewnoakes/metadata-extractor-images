@@ -78,7 +78,7 @@ FILE: Pentax QS1.jpg
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0237] Date Created = Thu Jan 08 00:00:00 GMT 2015
-[IPTC - 0x023c] Time Created = 144115
+[IPTC - 0x023c] Time Created = 14:41:15
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

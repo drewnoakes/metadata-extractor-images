@@ -133,7 +133,7 @@ FILE: Nikon 1 V3.jpg
 
 [IPTC - 0x0200] Application Record Version = 3
 [IPTC - 0x0237] Date Created = Fri Jun 06 00:00:00 BST 2014
-[IPTC - 0x023c] Time Created = 171024-0700
+[IPTC - 0x023c] Time Created = 17:10:24-0700
 [IPTC - 0x020a] Urgency = 48
 [IPTC - 0x02dd] Unknown tag (0x02dd) = 1:0:0:005073
 

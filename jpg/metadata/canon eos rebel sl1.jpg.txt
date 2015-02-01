@@ -202,7 +202,7 @@ FILE: Canon EOS REBEL SL1.jpg
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0237] Date Created = Sun Jun 30 00:00:00 BST 2013
-[IPTC - 0x023c] Time Created = 073642
+[IPTC - 0x023c] Time Created = 07:36:42
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -111,7 +111,7 @@ FILE: Apple iPhone 6 plus.jpg
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0237] Date Created = Fri Oct 31 00:00:00 GMT 2014
-[IPTC - 0x023c] Time Created = 133237
+[IPTC - 0x023c] Time Created = 13:32:37
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

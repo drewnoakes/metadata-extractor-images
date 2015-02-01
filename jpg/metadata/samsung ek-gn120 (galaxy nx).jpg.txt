@@ -110,7 +110,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 220
 [IPTC - 0x0237] Date Created = Sun Jan 01 00:00:00 GMT 2012
-[IPTC - 0x023c] Time Created = 042254+0000
+[IPTC - 0x023c] Time Created = 04:22:54+0000
 
 [Adobe JPEG - 0x0000] DCT Encode Version = 1
 [Adobe JPEG - 0x0001] Flags 0 = 64

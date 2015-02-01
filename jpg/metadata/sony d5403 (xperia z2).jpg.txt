@@ -64,7 +64,7 @@ FILE: Sony D5403 (Xperia Z2).jpg
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0237] Date Created = Tue Sep 23 00:00:00 BST 2014
-[IPTC - 0x023c] Time Created = 163823
+[IPTC - 0x023c] Time Created = 16:38:23
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
