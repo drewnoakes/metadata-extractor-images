@@ -181,7 +181,7 @@ FILE: Canon PowerShot S230.jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 [Interoperability - 0x1001] Related Image Width = 1024
-[Interoperability - 0x1002] Related Image Length = 768
+[Interoperability - 0x1002] Related Image Height = 768
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch

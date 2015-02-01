@@ -131,7 +131,7 @@ FILE: Canon PowerShot S40 (2).jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 [Interoperability - 0x1001] Related Image Width = 2272
-[Interoperability - 0x1002] Related Image Length = 1704
+[Interoperability - 0x1002] Related Image Height = 1704
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch

@@ -159,7 +159,7 @@ FILE: Canon PowerShot SD850 IS.jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 [Interoperability - 0x1001] Related Image Width = 3264
-[Interoperability - 0x1002] Related Image Length = 2448
+[Interoperability - 0x1002] Related Image Height = 2448
 
 [Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch

@@ -136,7 +136,7 @@ FILE: Canon PowerShot G2 (3).jpg
 [Interoperability - 0x0001] Interoperability Index = Unknown (THM)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 [Interoperability - 0x1001] Related Image Width = 2272
-[Interoperability - 0x1002] Related Image Length = 1704
+[Interoperability - 0x1002] Related Image Height = 1704
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

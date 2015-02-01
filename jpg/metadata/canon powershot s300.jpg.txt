@@ -23,7 +23,7 @@ FILE: Canon PowerShot S300.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2003:08:19 15:02:08
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 [Exif IFD0 - 0x1001] Related Image Width = 1600
-[Exif IFD0 - 0x1002] Related Image Length = 1200
+[Exif IFD0 - 0x1002] Related Image Height = 1200
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
 [Exif SubIFD - 0x829d] F-Number = F2.7
