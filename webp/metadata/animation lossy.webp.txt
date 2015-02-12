@@ -1,0 +1,9 @@
+FILE: Animation Lossy.webp
+
+[WebP - 0x0002] Image Width = 320
+[WebP - 0x0001] Image Height = 240
+[WebP - 0x0003] Has Alpha = true
+[WebP - 0x0004] Is Animation = true
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,9 @@
+FILE: Alpha Lossy (2).webp
+
+[WebP - 0x0002] Image Width = 386
+[WebP - 0x0001] Image Height = 395
+[WebP - 0x0003] Has Alpha = true
+[WebP - 0x0004] Is Animation = false
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
