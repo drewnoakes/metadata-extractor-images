@@ -201,6 +201,10 @@ FILE: Canon EOS 70D.cr2
 [Exif Thumbnail - 0xc5e0] Unknown tag (0xc5e0) = 1
 [Exif Thumbnail - 0xc640] Unknown tag (0xc640) = 1 2784 2784
 
+[File - 0x0001] File Name = Canon EOS 70D.cr2
+[File - 0x0002] File Size = 22443014 bytes
+[File - 0x0003] File Modified Date = Wed Jan 28 00:30:07 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.300
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)

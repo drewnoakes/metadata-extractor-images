@@ -55,6 +55,10 @@ FILE: Olympus SH-1.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 16372 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 8781 bytes
 
+[File - 0x0001] File Name = Olympus SH-1.jpg
+[File - 0x0002] File Size = 7203429 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 21:43:55 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.300
 [GPS - 0x0001] GPS Latitude Ref = 
 [GPS - 0x0002] GPS Latitude = 0° 0' 0"

@@ -53,6 +53,10 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 842 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5955 bytes
 
+[File - 0x0001] File Name = Samsung EK-GN120 (Galaxy NX).jpg
+[File - 0x0002] File Size = 13572880 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 21:18:47 GMT 2015
+
 [ICC Profile - 0x0000] Profile Size = 560
 [ICC Profile - 0x0004] CMM Type = ADBE
 [ICC Profile - 0x0008] Version = 2.1.0

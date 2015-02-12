@@ -171,6 +171,10 @@ FILE: Canon IXUS 430.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 2548 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3448 bytes
 
+[File - 0x0001] File Name = Canon IXUS 430.jpg
+[File - 0x0002] File Size = 1617207 bytes
+[File - 0x0003] File Modified Date = Wed Jan 30 12:00:16 GMT 2013
+
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 [Interoperability - 0x1001] Related Image Width = 2272

@@ -34,6 +34,10 @@ FILE: Nokia Lumia 1520.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xea1c] Padding = [2060 bytes]
 
+[File - 0x0001] File Name = Nokia Lumia 1520.jpg
+[File - 0x0002] File Size = 4837421 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 21:01:00 GMT 2015
+
 [GPS - 0xea1c] Padding = [2060 bytes]
 
 [JPEG - 0xfffffffd] Compression Type = Baseline

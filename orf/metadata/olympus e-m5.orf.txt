@@ -62,6 +62,10 @@ FILE: Olympus E-M5.orf
 [Exif SubIFD - 0xa432] Lens Specification = 12/1 50/1 35/10 63/10
 [Exif SubIFD - 0xa434] Lens Model = OLYMPUS M.12-50mm F3.5-6.3
 
+[File - 0x0001] File Name = Olympus E-M5.orf
+[File - 0x0002] File Size = 14195656 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 21:39:54 GMT 2015
+
 [Olympus Makernote - 0x0003] Camera Settings = [459008 shorts]
 
 Generated using metadata-extractor

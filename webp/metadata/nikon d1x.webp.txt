@@ -51,6 +51,10 @@ FILE: Nikon D1X.webp
 [Exif SubIFD - 0xa40a] Sharpness = Low
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
+[File - 0x0001] File Name = Nikon D1X.webp
+[File - 0x0002] File Size = 19944 bytes
+[File - 0x0003] File Modified Date = Mon Feb 09 21:23:15 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.200
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.00

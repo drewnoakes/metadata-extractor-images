@@ -1,5 +1,9 @@
 FILE: Animation Lossless.webp
 
+[File - 0x0001] File Name = Animation Lossless.webp
+[File - 0x0002] File Size = 261372 bytes
+[File - 0x0003] File Modified Date = Thu Feb 12 16:10:52 GMT 2015
+
 [WebP - 0x0002] Image Width = 320
 [WebP - 0x0001] Image Height = 240
 [WebP - 0x0003] Has Alpha = true

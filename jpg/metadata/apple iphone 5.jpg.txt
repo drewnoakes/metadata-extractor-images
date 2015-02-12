@@ -42,6 +42,10 @@ FILE: Apple iPhone 5.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 884 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 13613 bytes
 
+[File - 0x0001] File Name = Apple iPhone 5.jpg
+[File - 0x0002] File Size = 2366947 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 19:47:23 GMT 2015
+
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 47° 37' 37.8"
 [GPS - 0x0003] GPS Longitude Ref = W

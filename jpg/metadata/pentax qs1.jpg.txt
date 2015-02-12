@@ -55,6 +55,10 @@ FILE: Pentax QS1.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 56684 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 2576 bytes
 
+[File - 0x0001] File Name = Pentax QS1.jpg
+[File - 0x0002] File Size = 4448738 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 19:42:33 GMT 2015
+
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0237] Date Created = Thu Jan 08 00:00:00 GMT 2015

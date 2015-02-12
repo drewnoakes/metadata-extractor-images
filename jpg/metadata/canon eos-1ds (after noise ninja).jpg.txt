@@ -33,6 +33,10 @@ FILE: Canon EOS-1DS (after Noise Ninja).jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Manual white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
+[File - 0x0001] File Name = Canon EOS-1DS (after Noise Ninja).jpg
+[File - 0x0002] File Size = 1411301 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:14 GMT 2013
+
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 2704 pixels

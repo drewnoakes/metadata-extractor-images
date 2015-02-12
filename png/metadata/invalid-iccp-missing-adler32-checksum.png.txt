@@ -2,6 +2,10 @@ FILE: invalid-iCCP-missing-adler32-checksum.png
 
 [ERROR: ICC Profile] Exception reading ICC profile: Unexpected end of ZLIB input stream
 
+[File - 0x0001] File Name = invalid-iCCP-missing-adler32-checksum.png
+[File - 0x0002] File Size = 22661 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:12:58 GMT 2015
+
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
 [ICC Profile - 0x0008] Version = 2.1.0

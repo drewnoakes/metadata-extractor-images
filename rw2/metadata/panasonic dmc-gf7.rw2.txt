@@ -64,5 +64,9 @@ FILE: Panasonic DMC-GF7.rw2
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 530
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
+[File - 0x0001] File Name = Panasonic DMC-GF7.rw2
+[File - 0x0002] File Size = 19720192 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 19:46:06 GMT 2015
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

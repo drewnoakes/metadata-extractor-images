@@ -170,6 +170,10 @@ FILE: Canon EOS 5D Mark II.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 10548 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10221 bytes
 
+[File - 0x0001] File Name = Canon EOS 5D Mark II.jpg
+[File - 0x0002] File Size = 6403129 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:28:15 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.200
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)

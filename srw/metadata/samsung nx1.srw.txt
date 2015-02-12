@@ -34,5 +34,9 @@ FILE: Samsung NX1.srw
 
 [Exif Thumbnail - 0x014a] Sub IFD Pointer(s) = 774743
 
+[File - 0x0001] File Name = Samsung NX1.srw
+[File - 0x0002] File Size = 36239930 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 21:37:05 GMT 2015
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

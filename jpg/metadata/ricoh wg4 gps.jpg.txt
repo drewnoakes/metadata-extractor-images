@@ -44,6 +44,10 @@ FILE: Ricoh WG4 GPS.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 53476 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 4498 bytes
 
+[File - 0x0001] File Name = Ricoh WG4 GPS.jpg
+[File - 0x0002] File Size = 4573193 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:51:16 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.300
 [GPS - 0x0009] GPS Status = Void (Measurement Interoperability)
 [GPS - 0x0011] GPS Img Direction = 224.25 degrees

@@ -26,6 +26,10 @@ FILE: Nexus 4.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 682 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 53228 bytes
 
+[File - 0x0001] File Name = Nexus 4.jpg
+[File - 0x0002] File Size = 2822493 bytes
+[File - 0x0003] File Modified Date = Wed Jan 30 22:07:45 GMT 2013
+
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 51° 33' 44.88"
 [GPS - 0x0003] GPS Longitude Ref = W

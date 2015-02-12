@@ -32,6 +32,10 @@ FILE: Apple iPhone 4.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa40a] Sharpness = Hard
 
+[File - 0x0001] File Name = Apple iPhone 4.jpg
+[File - 0x0002] File Size = 338025 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:14 GMT 2013
+
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 41° 51' 10.8"
 [GPS - 0x0003] GPS Longitude Ref = E

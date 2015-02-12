@@ -44,6 +44,10 @@ FILE: Canon Powershot S90.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 676 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 11021 bytes
 
+[File - 0x0001] File Name = Canon Powershot S90.jpg
+[File - 0x0002] File Size = 1770410 bytes
+[File - 0x0003] File Modified Date = Wed Jan 30 11:18:08 GMT 2013
+
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
 [ICC Profile - 0x0008] Version = 2.1.0

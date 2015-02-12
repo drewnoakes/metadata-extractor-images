@@ -58,6 +58,10 @@ FILE: Nikon D610.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 8090 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
+[File - 0x0001] File Name = Nikon D610.jpg
+[File - 0x0002] File Size = 16443799 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:42:43 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.300
 
 [IPTC - 0x0200] Application Record Version = 3

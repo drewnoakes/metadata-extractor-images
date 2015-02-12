@@ -17,6 +17,10 @@ FILE: HTC Desire.webp
 [Exif SubIFD - 0xa002] Exif Image Width = 776 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 909 pixels
 
+[File - 0x0001] File Name = HTC Desire.webp
+[File - 0x0002] File Size = 46362 bytes
+[File - 0x0003] File Modified Date = Mon Feb 09 21:24:16 GMT 2015
+
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 45° 30' 2.4"
 [GPS - 0x0003] GPS Longitude Ref = E

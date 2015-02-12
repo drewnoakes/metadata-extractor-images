@@ -1,5 +1,9 @@
 FILE: mspaint-10x10.gif
 
+[File - 0x0001] File Name = mspaint-10x10.gif
+[File - 0x0002] File Size = 821 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:12:38 GMT 2015
+
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 10
 [GIF Header - 0x0003] Image Height = 10

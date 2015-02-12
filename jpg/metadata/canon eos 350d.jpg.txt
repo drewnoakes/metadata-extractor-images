@@ -165,6 +165,10 @@ FILE: Canon EOS 350D.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 1660 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10350 bytes
 
+[File - 0x0001] File Name = Canon EOS 350D.jpg
+[File - 0x0002] File Size = 3148102 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:14 GMT 2013
+
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 1664 pixels

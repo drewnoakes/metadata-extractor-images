@@ -17,6 +17,10 @@ FILE: Photoshop (1).jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 2061 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 2931 pixels
 
+[File - 0x0001] File Name = Photoshop (1).jpg
+[File - 0x0002] File Size = 567767 bytes
+[File - 0x0003] File Modified Date = Sun Feb 01 14:42:37 GMT 2015
+
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 

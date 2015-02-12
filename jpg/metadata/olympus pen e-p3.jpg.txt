@@ -57,6 +57,10 @@ FILE: Olympus PEN E-P3.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 13588 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6209 bytes
 
+[File - 0x0001] File Name = Olympus PEN E-P3.jpg
+[File - 0x0002] File Size = 234353 bytes
+[File - 0x0003] File Modified Date = Sat Jan 18 20:30:12 GMT 2014
+
 [Interoperability - 0x0001] Interoperability Index = Unknown (R03)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 

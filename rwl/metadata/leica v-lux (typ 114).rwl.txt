@@ -64,5 +64,9 @@ FILE: Leica V-LUX (Typ 114).rwl
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 427
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
+[File - 0x0001] File Name = Leica V-LUX (Typ 114).rwl
+[File - 0x0002] File Size = 23667712 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:27:43 GMT 2015
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

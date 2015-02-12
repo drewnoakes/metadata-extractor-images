@@ -1,5 +1,9 @@
 FILE: Icon (1).ico
 
+[File - 0x0001] File Name = Icon (1).ico
+[File - 0x0002] File Size = 250535 bytes
+[File - 0x0003] File Modified Date = Sun Feb 01 19:56:09 GMT 2015
+
 [ICO - 0x0001] Image Type = Icon
 [ICO - 0x0002] Image Width = 48 pixels
 [ICO - 0x0003] Image Height = 48 pixels

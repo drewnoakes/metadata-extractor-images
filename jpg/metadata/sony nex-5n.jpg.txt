@@ -50,6 +50,10 @@ FILE: Sony NEX-5N.jpg
 [Exif SubIFD - 0xa432] Lens Specification = 240/10 240/10 18/10 18/10
 [Exif SubIFD - 0xa434] Lens Model = E 24mm F1.8 ZA
 
+[File - 0x0001] File Name = Sony NEX-5N.jpg
+[File - 0x0002] File Size = 8224907 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:17 GMT 2013
+
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 49° 22' 15.46"
 [GPS - 0x0003] GPS Longitude Ref = E

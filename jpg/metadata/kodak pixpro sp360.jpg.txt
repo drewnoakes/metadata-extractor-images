@@ -50,6 +50,10 @@ FILE: Kodak PIXPRO SP360.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 1386 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3446 bytes
 
+[File - 0x0001] File Name = Kodak PIXPRO SP360.jpg
+[File - 0x0002] File Size = 2174332 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 21:13:44 GMT 2015
+
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 

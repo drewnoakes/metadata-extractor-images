@@ -176,6 +176,10 @@ FILE: Canon EOS REBEL SL1.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 11188 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10105 bytes
 
+[File - 0x0001] File Name = Canon EOS REBEL SL1.jpg
+[File - 0x0002] File Size = 4665272 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:12:13 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.300
 
 [IPTC - 0x015a] Coded Character Set = UTF-8

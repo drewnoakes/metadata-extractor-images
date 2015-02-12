@@ -1,5 +1,9 @@
 FILE: Casio QV-7000SX.jpg
 
+[File - 0x0001] File Name = Casio QV-7000SX.jpg
+[File - 0x0002] File Size = 14841 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+
 [JFIF - 0x0005] Version = 1.2
 [JFIF - 0x0007] Resolution Units = none
 [JFIF - 0x0008] X Resolution = 1 dot

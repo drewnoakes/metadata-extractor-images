@@ -30,6 +30,10 @@ FILE: Nokia Lumia 800.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 654 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5815 bytes
 
+[File - 0x0001] File Name = Nokia Lumia 800.jpg
+[File - 0x0002] File Size = 1286767 bytes
+[File - 0x0003] File Modified Date = Wed Jan 30 11:09:21 GMT 2013
+
 [GPS - 0x0000] GPS Version ID = 2.200
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 53° 21' 34.07"

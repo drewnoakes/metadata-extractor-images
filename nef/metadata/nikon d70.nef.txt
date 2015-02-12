@@ -55,6 +55,10 @@ FILE: Nikon D70.nef
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
+[File - 0x0001] File Name = Nikon D70.nef
+[File - 0x0002] File Size = 5617872 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+
 [IPTC - 0x0250] By-line = Drew Noakes
 [IPTC - 0x0255] By-line Title = Photographer
 [IPTC - 0x026e] Credit = Drew Noakes

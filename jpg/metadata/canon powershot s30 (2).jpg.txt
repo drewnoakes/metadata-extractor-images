@@ -117,6 +117,10 @@ FILE: Canon PowerShot S30 (2).jpg
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
+[File - 0x0001] File Name = Canon PowerShot S30 (2).jpg
+[File - 0x0002] File Size = 177895 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+
 [JFIF - 0x0005] Version = 1.1
 [JFIF - 0x0007] Resolution Units = inch
 [JFIF - 0x0008] X Resolution = 180 dots

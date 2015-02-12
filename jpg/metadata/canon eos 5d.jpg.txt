@@ -44,6 +44,10 @@ FILE: Canon EOS 5D.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 1008 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 8579 bytes
 
+[File - 0x0001] File Name = Canon EOS 5D.jpg
+[File - 0x0002] File Size = 2009540 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:28:50 GMT 2015
+
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 4368 pixels

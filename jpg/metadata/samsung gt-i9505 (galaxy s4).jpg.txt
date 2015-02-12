@@ -27,6 +27,10 @@ FILE: Samsung GT-I9505 (Galaxy S4).jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Night scene
 
+[File - 0x0001] File Name = Samsung GT-I9505 (Galaxy S4).jpg
+[File - 0x0002] File Size = 1936020 bytes
+[File - 0x0003] File Modified Date = Tue Dec 02 14:28:41 GMT 2014
+
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 

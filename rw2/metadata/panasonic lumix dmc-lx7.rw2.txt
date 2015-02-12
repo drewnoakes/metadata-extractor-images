@@ -53,5 +53,9 @@ FILE: Panasonic Lumix DMC-LX7.rw2
 [Exif SubIFD - 0x920a] Focal Length = 4.7 mm
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
+[File - 0x0001] File Name = Panasonic Lumix DMC-LX7.rw2
+[File - 0x0002] File Size = 12250624 bytes
+[File - 0x0003] File Modified Date = Wed Nov 19 23:07:44 GMT 2014
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -41,6 +41,10 @@ FILE: Olympus FE230-X790.jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 
+[File - 0x0001] File Name = Olympus FE230-X790.jpg
+[File - 0x0002] File Size = 1513004 bytes
+[File - 0x0003] File Modified Date = Wed Jan 30 11:26:26 GMT 2013
+
 [GPS - 0x0000] GPS Version ID = 2.200
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 50° 57' 24.9"

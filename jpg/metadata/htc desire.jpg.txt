@@ -17,6 +17,10 @@ FILE: HTC Desire.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 776 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 909 pixels
 
+[File - 0x0001] File Name = HTC Desire.jpg
+[File - 0x0002] File Size = 166987 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 45° 30' 2.4"
 [GPS - 0x0003] GPS Longitude Ref = E

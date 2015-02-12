@@ -52,6 +52,10 @@ FILE: Nikon D1X.jpg
 [Exif SubIFD - 0xa40a] Sharpness = Low
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
+[File - 0x0001] File Name = Nikon D1X.jpg
+[File - 0x0002] File Size = 101874 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+
 [GPS - 0x0000] GPS Version ID = 2.200
 
 [IPTC - 0x0200] Application Record Version = 2

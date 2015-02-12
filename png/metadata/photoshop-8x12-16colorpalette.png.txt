@@ -1,5 +1,9 @@
 FILE: photoshop-8x12-16colorpalette.png
 
+[File - 0x0001] File Name = photoshop-8x12-16colorpalette.png
+[File - 0x0002] File Size = 1025 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:12:58 GMT 2015
+
 [PNG-IHDR - 0x0001] Image Width = 8
 [PNG-IHDR - 0x0002] Image Height = 12
 [PNG-IHDR - 0x0003] Bits Per Sample = 8

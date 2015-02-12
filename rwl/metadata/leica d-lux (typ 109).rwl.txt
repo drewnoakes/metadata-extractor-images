@@ -64,5 +64,9 @@ FILE: Leica D-LUX (Typ 109).rwl
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 396
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
+[File - 0x0001] File Name = Leica D-LUX (Typ 109).rwl
+[File - 0x0002] File Size = 15056896 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:24:53 GMT 2015
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

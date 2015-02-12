@@ -138,6 +138,10 @@ FILE: Pentax 645D.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 54580 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6375 bytes
 
+[File - 0x0001] File Name = Pentax 645D.jpg
+[File - 0x0002] File Size = 16090679 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:30:42 GMT 2015
+
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 

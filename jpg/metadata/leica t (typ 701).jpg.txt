@@ -48,6 +48,10 @@ FILE: Leica T (Typ 701).jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 2935 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
+[File - 0x0001] File Name = Leica T (Typ 701).jpg
+[File - 0x0002] File Size = 3246541 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:28:51 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.300
 [GPS - 0x0001] GPS Latitude Ref = 
 [GPS - 0x0002] GPS Latitude = 0° 0' 0"

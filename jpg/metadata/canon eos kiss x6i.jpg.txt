@@ -179,6 +179,10 @@ FILE: Canon EOS Kiss X6i.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 10924 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 18917 bytes
 
+[File - 0x0001] File Name = Canon EOS Kiss X6i.jpg
+[File - 0x0002] File Size = 5269435 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:16:01 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.300
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)

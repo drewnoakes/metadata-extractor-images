@@ -64,5 +64,9 @@ FILE: Pentax QS1.dng
 [Exif SubIFD - 0xa433] Lens Make = PENTAX             
 [Exif SubIFD - 0xa434] Lens Model = 02 STANDARD ZOOM
 
+[File - 0x0001] File Name = Pentax QS1.dng
+[File - 0x0002] File Size = 22643744 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 19:43:23 GMT 2015
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

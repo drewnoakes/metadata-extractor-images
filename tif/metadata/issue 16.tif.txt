@@ -40,6 +40,10 @@ FILE: Issue 16.tif
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
 
+[File - 0x0001] File Name = Issue 16.tif
+[File - 0x0002] File Size = 1849136 bytes
+[File - 0x0003] File Modified Date = Sun Feb 01 20:52:20 GMT 2015
+
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0250] By-line = Eric Piasecki Photography LLC

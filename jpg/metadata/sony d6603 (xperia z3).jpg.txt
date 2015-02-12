@@ -44,6 +44,10 @@ FILE: Sony D6603 (Xperia Z3).jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 12068 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10152 bytes
 
+[File - 0x0001] File Name = Sony D6603 (Xperia Z3).jpg
+[File - 0x0002] File Size = 4946346 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:53:53 GMT 2015
+
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0237] Date Created = Fri Nov 14 00:00:00 GMT 2014

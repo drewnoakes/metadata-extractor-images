@@ -38,6 +38,10 @@ FILE: Kodak PIXPRO S-1.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa407] Gain Control = Low gain up
 
+[File - 0x0001] File Name = Kodak PIXPRO S-1.jpg
+[File - 0x0002] File Size = 3863914 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 21:12:28 GMT 2015
+
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
 [ICC Profile - 0x0008] Version = 2.1.0

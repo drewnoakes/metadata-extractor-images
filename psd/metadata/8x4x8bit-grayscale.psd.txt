@@ -1,5 +1,9 @@
 FILE: 8x4x8bit-Grayscale.psd
 
+[File - 0x0001] File Name = 8x4x8bit-Grayscale.psd
+[File - 0x0002] File Size = 18682 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:13:25 GMT 2015
+
 [PSD Header - 0x0001] Channel Count = 1 channel
 [PSD Header - 0x0002] Image Height = 4 pixels
 [PSD Header - 0x0003] Image Width = 8 pixels

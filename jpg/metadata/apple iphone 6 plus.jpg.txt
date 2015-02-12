@@ -41,6 +41,10 @@ FILE: Apple iPhone 6 plus.jpg
 [Exif SubIFD - 0xa433] Lens Make = Apple
 [Exif SubIFD - 0xa434] Lens Model = iPhone 6 Plus back camera 4.15mm f/2.2
 
+[File - 0x0001] File Name = Apple iPhone 6 plus.jpg
+[File - 0x0002] File Size = 3676072 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 21:00:20 GMT 2015
+
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 51° 28' 58.78"
 [GPS - 0x0003] GPS Longitude Ref = W

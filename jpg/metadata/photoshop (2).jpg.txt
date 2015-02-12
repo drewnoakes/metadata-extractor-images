@@ -2,6 +2,10 @@ FILE: Photoshop (2).jpg
 
 [ERROR: Photoshop] Number of requested bytes cannot be negative (-1406308778)
 
+[File - 0x0001] File Name = Photoshop (2).jpg
+[File - 0x0002] File Size = 339023 bytes
+[File - 0x0003] File Modified Date = Sun Feb 01 14:43:06 GMT 2015
+
 [JFIF - 0x0005] Version = 1.2
 [JFIF - 0x0007] Resolution Units = inch
 [JFIF - 0x0008] X Resolution = 200 dots

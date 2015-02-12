@@ -65,6 +65,10 @@ FILE: Leica T (Typ 701).dng
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 
+[File - 0x0001] File Name = Leica T (Typ 701).dng
+[File - 0x0002] File Size = 24494686 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:29:20 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.300
 [GPS - 0x0001] GPS Latitude Ref = 
 [GPS - 0x0002] GPS Latitude = 0° 0' 0"

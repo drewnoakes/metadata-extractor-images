@@ -119,6 +119,10 @@ FILE: Canon PowerShot G2 (1).jpg
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
+[File - 0x0001] File Name = Canon PowerShot G2 (1).jpg
+[File - 0x0002] File Size = 176237 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+
 [Interoperability - 0x0001] Interoperability Index = Unknown (THM)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 [Interoperability - 0x1001] Related Image Width = 2272

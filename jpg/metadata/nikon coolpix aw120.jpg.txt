@@ -53,6 +53,10 @@ FILE: Nikon Coolpix AW120.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 12788 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3091 bytes
 
+[File - 0x0001] File Name = Nikon Coolpix AW120.jpg
+[File - 0x0002] File Size = 6028067 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:45:52 GMT 2015
+
 [GPS - 0x0000] GPS Version ID = 2.300
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 19° 25' 11.12"
