@@ -18,7 +18,6 @@ FILE: gimp-8x12-greyscale-alpha-time-background.png
 
 [PNG-iTXt - 0x000d] Textual Data = Comment: Created with GIMP
 
-
 [PNG-tIME - 0x000e] Last Modification Time = Tue Jan 01 04:08:30 GMT 2013
 
 Generated using metadata-extractor
