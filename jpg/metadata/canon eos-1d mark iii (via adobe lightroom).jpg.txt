@@ -109,6 +109,7 @@ FILE: Canon EOS-1D Mark III (via Adobe Lightroom).jpg
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 256x171, Decomp 131328 bytes, 1572865 bpp, 11901 bytes
 [Photoshop - 0x0425] Caption Digest = 79 50 105 -23 125 -11 1 -127 77 15 106 -34 121 -76 -110 -11
 
+[Xmp - 0xffff] XMP Value Count = 209
 [Xmp - 0x0006] Lens Information = 70/1 200/1 0/0 0/0
 [Xmp - 0x0007] Lens = EF70-200mm f/2.8L IS USM
 [Xmp - 0x0008] Serial Number = 556769

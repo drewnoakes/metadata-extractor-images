@@ -96,6 +96,7 @@ FILE: Canon Powershot S90.jpg
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 256x192, Decomp 147456 bytes, 1572865 bpp, 11021 bytes
 [Photoshop - 0x0425] Caption Digest = -35 -70 52 10 -65 -59 -13 -121 42 38 91 92 34 -71 59 64
 
+[Xmp - 0xffff] XMP Value Count = 131
 [Xmp - 0x0006] Lens Information = 6000/1000 22500/1000 0/0 0/0
 [Xmp - 0x0007] Lens = 6.0-22.5 mm
 [Xmp - 0x0009] Firmware = 1.00

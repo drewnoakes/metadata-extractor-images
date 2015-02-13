@@ -144,6 +144,7 @@ FILE: Nikon D610.jpg
 [Photoshop - 0x03ed] Resolution Info = 200.0x200.0 DPI
 [Photoshop - 0x040a] Copyright Flag = No
 
+[Xmp - 0xffff] XMP Value Count = 7
 [Xmp - 0x1001] Rating = 0.0
 
 Generated using metadata-extractor

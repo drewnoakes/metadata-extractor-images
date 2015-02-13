@@ -68,6 +68,7 @@ FILE: Sony D6603 (Xperia Z3).jpg
 [Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
 [Photoshop - 0x0425] Caption Digest = -48 116 -8 -18 -30 36 50 127 56 94 118 15 70 -92 75 -3
 
+[Xmp - 0xffff] XMP Value Count = 24
 [Xmp - 0x1001] Rating = 1.0
 
 Generated using metadata-extractor

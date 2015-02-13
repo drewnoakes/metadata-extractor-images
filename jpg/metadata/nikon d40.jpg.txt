@@ -132,5 +132,7 @@ FILE: Nikon D40.jpg
 
 [Photoshop - 0x0404] IPTC-NAA Record = 21 bytes binary data
 
+[Xmp - 0xffff] XMP Value Count = 5
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

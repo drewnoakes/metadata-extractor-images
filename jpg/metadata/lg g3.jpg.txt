@@ -56,6 +56,7 @@ FILE: LG G3.jpg
 [Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
 [Photoshop - 0x0425] Caption Digest = -9 106 -125 105 11 43 -9 79 -3 -7 34 -11 6 22 67 -20
 
+[Xmp - 0xffff] XMP Value Count = 23
 [Xmp - 0x1001] Rating = 2.0
 
 Generated using metadata-extractor

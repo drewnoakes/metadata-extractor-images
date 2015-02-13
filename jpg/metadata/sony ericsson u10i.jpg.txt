@@ -61,5 +61,7 @@ FILE: Sony Ericsson U10i.jpg
 [Sony Makernote - 0x0202] Unknown tag (0x0202) = 51856
 [Sony Makernote - 0x0203] Unknown tag (0x0203) = 56
 
+[Xmp - 0xffff] XMP Value Count = 6
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

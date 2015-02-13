@@ -148,5 +148,7 @@ FILE: Panasonic DMC-LX3 (Lumix).jpg
 [Panasonic Makernote - 0x8009] Text Stamp 3 = Off
 [Panasonic Makernote - 0x8010] Baby Age 1 = null
 
+[Xmp - 0xffff] XMP Value Count = 0
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

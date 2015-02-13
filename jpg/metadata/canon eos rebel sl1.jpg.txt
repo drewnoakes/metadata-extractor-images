@@ -202,6 +202,7 @@ FILE: Canon EOS REBEL SL1.jpg
 [Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
 [Photoshop - 0x0425] Caption Digest = 3 -124 -91 -51 -92 33 45 -2 117 0 -32 -32 67 62 -120 27
 
+[Xmp - 0xffff] XMP Value Count = 31
 [Xmp - 0x0006] Lens Information = 18/1 55/1 0/0 0/0
 [Xmp - 0x0007] Lens = EF-S18-55mm f/3.5-5.6 IS STM
 [Xmp - 0x0008] Serial Number = 012070143361

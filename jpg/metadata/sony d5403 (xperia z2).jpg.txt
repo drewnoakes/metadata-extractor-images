@@ -68,6 +68,7 @@ FILE: Sony D5403 (Xperia Z2).jpg
 [Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
 [Photoshop - 0x0425] Caption Digest = -34 -47 101 113 32 -52 0 -68 29 21 54 -81 -69 39 22 101
 
+[Xmp - 0xffff] XMP Value Count = 24
 [Xmp - 0x1001] Rating = 2.0
 
 Generated using metadata-extractor

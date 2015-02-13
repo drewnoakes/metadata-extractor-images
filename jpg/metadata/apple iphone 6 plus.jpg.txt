@@ -113,6 +113,7 @@ FILE: Apple iPhone 6 plus.jpg
 [Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
 [Photoshop - 0x0425] Caption Digest = 1 -23 61 23 -47 7 -124 103 98 101 -88 -58 -73 34 -77 114
 
+[Xmp - 0xffff] XMP Value Count = 32
 [Xmp - 0x0006] Lens Information = 83/20 83/20 11/5 11/5
 [Xmp - 0x0007] Lens = iPhone 6 Plus back camera 4.15mm f/2.2
 [Xmp - 0x1001] Rating = 2.0

@@ -144,6 +144,7 @@ FILE: Nikon D3300.jpg
 [Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
 [Photoshop - 0x0425] Caption Digest = -87 110 -127 -14 -15 89 -109 111 97 -9 -85 -53 74 -104 102 24
 
+[Xmp - 0xffff] XMP Value Count = 29
 [Xmp - 0x0006] Lens Information = 180/10 550/10 35/10 56/10
 [Xmp - 0x0007] Lens = 18.0-55.0 mm f/3.5-5.6
 [Xmp - 0x0008] Serial Number = 3000205

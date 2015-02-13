@@ -91,5 +91,7 @@ FILE: Multiple ICC segments.jpg
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CC 2014) 1
 [Photoshop - 0x0406] JPEG Quality = 8 (High), Standard format, 3 scans
 
+[Xmp - 0xffff] XMP Value Count = 22
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

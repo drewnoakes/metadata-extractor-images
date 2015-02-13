@@ -115,6 +115,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CC) 1
 [Photoshop - 0x0406] JPEG Quality = 12 (Maximum), Standard format, 3 scans
 
+[Xmp - 0xffff] XMP Value Count = 168
 [Xmp - 0x0006] Lens Information = 18/1 55/1 35/10 56/10
 [Xmp - 0x0007] Lens = Samsung 18-55 f/3.5-5.6 OIS
 [Xmp - 0x0008] Serial Number = 0

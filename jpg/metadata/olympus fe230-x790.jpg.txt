@@ -104,6 +104,7 @@ FILE: Olympus FE230-X790.jpg
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 192x256, Decomp 147456 bytes, 1572865 bpp, 9511 bytes
 [Photoshop - 0x0425] Caption Digest = -114 106 120 -2 -64 -44 34 79 16 92 39 -30 73 78 110 92
 
+[Xmp - 0xffff] XMP Value Count = 141
 [Xmp - 0x0008] Serial Number = 000K79K13272
 [Xmp - 0x0001] Make = OLYMPUS IMAGING CORP.
 [Xmp - 0x0002] Model = FE230/X790

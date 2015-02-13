@@ -79,6 +79,7 @@ FILE: Pentax QS1.jpg
 [Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
 [Photoshop - 0x0425] Caption Digest = 110 38 73 -39 -81 -60 10 86 -1 11 -44 14 -79 67 34 -122
 
+[Xmp - 0xffff] XMP Value Count = 27
 [Xmp - 0x0006] Lens Information = 50/10 150/10 28/10 45/10
 [Xmp - 0x0007] Lens = 02 STANDARD ZOOM
 [Xmp - 0x0008] Serial Number = 2587411

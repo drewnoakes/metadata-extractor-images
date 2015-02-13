@@ -108,6 +108,7 @@ FILE: Nikon Coolpix P7000.webp
 [WebP - 0x0003] Has Alpha = false
 [WebP - 0x0004] Is Animation = false
 
+[Xmp - 0xffff] XMP Value Count = 57
 [Xmp - 0x0001] Make = NIKON
 [Xmp - 0x0002] Model = COOLPIX P7000
 [Xmp - 0x0003] Exposure Time = 1/800 sec

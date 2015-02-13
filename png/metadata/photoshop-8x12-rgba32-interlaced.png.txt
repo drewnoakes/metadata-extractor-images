@@ -14,6 +14,7 @@ FILE: photoshop-8x12-rgba32-interlaced.png
 
 [PNG-iTXt - 0x000d] Textual Data = Software: Adobe ImageReady
 
+[Xmp - 0xffff] XMP Value Count = 6
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

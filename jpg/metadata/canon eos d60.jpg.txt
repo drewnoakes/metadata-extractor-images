@@ -118,5 +118,7 @@ FILE: Canon EOS D60.jpg
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 7.0) 1
 [Photoshop - 0x0406] JPEG Quality = 3 (Low), Standard format, 3 scans
 
+[Xmp - 0xffff] XMP Value Count = 2
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
