@@ -1,5 +1,23 @@
 FILE: 10x12x16bit-CMYK.psd
 
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop CS5 Windows
+[Exif IFD0 - 0x0132] Date/Time = 2012:05:22 15:51:47
+
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 10 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 12 pixels
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 302 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 0 bytes
+
 [File - 0x0001] File Name = 10x12x16bit-CMYK.psd
 [File - 0x0002] File Size = 575378 bytes
 [File - 0x0003] File Modified Date = Fri Jan 23 00:13:25 GMT 2015
@@ -57,7 +75,6 @@ FILE: 10x12x16bit-CMYK.psd
 [Photoshop - 0x0414] Seed Number = 2
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 10x12, Decomp 384 bytes, 1572865 bpp, 534 bytes
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CS5) 1
-[Photoshop - 0x0422] EXIF Data 1 = [302 bytes]
 [Photoshop - 0x0fa0] Plug-in 1 Data = [248 bytes]
 [Photoshop - 0x0fa1] Plug-in 2 Data = [28 bytes]
 
