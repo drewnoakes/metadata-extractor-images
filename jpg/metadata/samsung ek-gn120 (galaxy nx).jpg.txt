@@ -96,8 +96,8 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 
 [Photoshop - 0x0404] IPTC-NAA Record = 44 bytes binary data
 [Photoshop - 0x0425] Caption Digest = -99 -110 13 121 -120 -2 46 -20 -7 76 62 -92 27 60 38 51
-[Photoshop - 0x043a] Unknown tag (0x043a) = [229 bytes]
-[Photoshop - 0x043b] Unknown tag (0x043b) = [557 bytes]
+[Photoshop - 0x043a] Print Info 2 = [229 bytes]
+[Photoshop - 0x043b] Print Style = [557 bytes]
 [Photoshop - 0x03ed] Resolution Info = 300.0x300.0 DPI
 [Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
 [Photoshop - 0x040d] Global Angle = 30
