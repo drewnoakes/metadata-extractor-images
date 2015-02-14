@@ -18,6 +18,10 @@ FILE: gimp-8x12-greyscale-alpha-time-background.png
 
 [PNG-iTXt - 0x000d] Textual Data = Comment: Created with GIMP
 
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 2835
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 2835
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
 [PNG-tIME - 0x000e] Last Modification Time = Tue Jan 01 04:08:30 GMT 2013
 
 Generated using metadata-extractor

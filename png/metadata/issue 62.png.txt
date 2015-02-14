@@ -16,6 +16,10 @@ FILE: Issue 62.png
 
 [PNG-iTXt - 0x000d] Textual Data = Software: Adobe Fireworks CS3
 
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 2800
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 2800
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
 [Xmp - 0xffff] XMP Value Count = 4
 
 Generated using metadata-extractor

@@ -16,6 +16,10 @@ FILE: dotnet-256x256-alpha-palette.png
 
 [PNG-gAMA - 0x000b] Image Gamma = 0.45455
 
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 3779
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 3779
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
 [PNG-sRGB - 0x000a] sRGB Rendering Intent = Perceptual
 
 [PNG-tRNS - 0x0009] Palette Has Transparency = Yes
