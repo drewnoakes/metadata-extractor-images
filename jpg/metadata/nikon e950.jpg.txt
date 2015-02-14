@@ -1,7 +1,5 @@
 FILE: Nikon E950.jpg
 
-[ERROR: Photoshop] Attempt to read from beyond end of underlying data source (requested index: 2668, requested count: 1670090635, max index: 5129)
-
 [Adobe JPEG - 0x0000] DCT Encode Version = 1
 [Adobe JPEG - 0x0001] Flags 0 = 0
 [Adobe JPEG - 0x0002] Flags 1 = 0
@@ -80,6 +78,23 @@ FILE: Nikon E950.jpg
 [Nikon Makernote - 0x000a] Digital Zoom = No digital zoom
 [Nikon Makernote - 0x000b] Fisheye Converter = None
 [Nikon Makernote - 0x0f00] Makernote Unknown 3 = [30 longs]
+
+[Photoshop - 0x03ed] Resolution Info = 72.0x72.0 DPI
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 bytes]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 bytes]
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = DSCN5752 (0,0,600,800) 1 Slices
+[Photoshop - 0x0411] ICC Untagged Profile = 1
+[Photoshop - 0x0414] Seed Number = 1
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 112x84, Decomp 28224 bytes, 1572865 bpp, 4172 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 6.0) 1
+[Photoshop - 0x0406] JPEG Quality = 8 (High), Optimised format, 3 scans
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
