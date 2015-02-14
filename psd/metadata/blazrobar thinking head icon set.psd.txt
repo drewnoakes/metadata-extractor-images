@@ -1,0 +1,66 @@
+FILE: BlazRobar Thinking Head Icon Set.psd
+
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop CS4 Macintosh
+[Exif IFD0 - 0x0132] Date/Time = 2014:09:12 13:47:12
+
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 2113 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 4925 pixels
+
+[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 302 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 0 bytes
+
+[File - 0x0001] File Name = BlazRobar Thinking Head Icon Set.psd
+[File - 0x0002] File Size = 4043309 bytes
+[File - 0x0003] File Modified Date = Fri Sep 12 11:30:30 BST 2014
+
+[IPTC - 0x0200] Application Record Version = 0
+[IPTC - 0x0205] Object Name = thinking-head-icon-set
+
+[PSD Header - 0x0001] Channel Count = 4 channels
+[PSD Header - 0x0002] Image Height = 4925 pixels
+[PSD Header - 0x0003] Image Width = 2113 pixels
+[PSD Header - 0x0004] Bits Per Channel = 8 bits per channel
+[PSD Header - 0x0005] Color Mode = RGB
+
+[Photoshop - 0x0425] Caption Digest = 32 -81 -52 7 77 77 99 44 -93 90 -15 52 96 92 -4 -34
+[Photoshop - 0x03ed] Resolution Info = 300.0x300.0 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x03ee] Alpha Channels = 12 84 114 97 110 115 112 97 114 101 110 99 121
+[Photoshop - 0x0415] Unicode Alpha Names = [30 bytes]
+[Photoshop - 0x03ef] Display Info (Obsolete) = 0 0 -1 -1 0 0 0 0 0 0 0 100 1 0
+[Photoshop - 0x0435] Display Info = [17 bytes]
+[Photoshop - 0x041d] Alpha Identifiers = 0 0 0 0
+[Photoshop - 0x040d] Global Angle = 120
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 bytes]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 bytes]
+[Photoshop - 0x0400] Layer State Information = 0 1
+[Photoshop - 0x0402] Layers Group Information = [306 bytes]
+[Photoshop - 0x0430] Layer Groups Enabled ID = [153 bytes]
+[Photoshop - 0x042d] Layer Selection IDs = 0 1 0 0 0 5
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = thinking-head-icon-set (0,0,4925,2113) 1 Slices
+[Photoshop - 0x0428] Pixel Aspect Ratio = 1.0
+[Photoshop - 0x0411] ICC Untagged Profile = 1
+[Photoshop - 0x0414] Seed Number = 185
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 69x160, Decomp 33280 bytes, 1572865 bpp, 4410 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CS4) 1
+[Photoshop - 0x0fa0] Plug-in 1 Data = [248 bytes]
+[Photoshop - 0x0fa1] Plug-in 2 Data = [28 bytes]
+
+[Xmp - 0xffff] XMP Value Count = 240
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
