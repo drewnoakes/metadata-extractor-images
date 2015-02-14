@@ -118,7 +118,5 @@ FILE: Nikon D70.jpg
 [Nikon Makernote - 0x00ab] Digital Vari Program = AUTO
 [Nikon Makernote - 0x0e10] Nikon Scan = 1473
 
-[Photoshop - 0x0404] IPTC-NAA Record = 81 bytes binary data
-
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

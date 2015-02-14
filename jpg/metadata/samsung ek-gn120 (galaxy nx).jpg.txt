@@ -94,7 +94,6 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Photoshop - 0x0404] IPTC-NAA Record = 44 bytes binary data
 [Photoshop - 0x0425] Caption Digest = -99 -110 13 121 -120 -2 46 -20 -7 76 62 -92 27 60 38 51
 [Photoshop - 0x043a] Print Info 2 = [229 bytes]
 [Photoshop - 0x043b] Print Style = [557 bytes]

@@ -108,7 +108,5 @@ Höhe (GPS) : N/A
 [Nikon Makernote - 0x0e00] Print IM = [202 bytes]
 [Nikon Makernote - 0x0e10] Nikon Scan = 1394
 
-[Photoshop - 0x0404] IPTC-NAA Record = 850 bytes binary data
-
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

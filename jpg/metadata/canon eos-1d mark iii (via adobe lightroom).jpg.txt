@@ -105,7 +105,6 @@ FILE: Canon EOS-1D Mark III (via Adobe Lightroom).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Photoshop - 0x0404] IPTC-NAA Record = 663 bytes binary data
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 256x171, Decomp 131328 bytes, 1572865 bpp, 11901 bytes
 [Photoshop - 0x0425] Caption Digest = 79 50 105 -23 125 -11 1 -127 77 15 106 -34 121 -76 -110 -11
 

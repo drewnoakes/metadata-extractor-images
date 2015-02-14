@@ -65,7 +65,6 @@ FILE: Sony D5403 (Xperia Z2).jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
 [Photoshop - 0x0425] Caption Digest = -34 -47 101 113 32 -52 0 -68 29 21 54 -81 -69 39 22 101
 
 [Xmp - 0xffff] XMP Value Count = 24

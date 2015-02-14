@@ -92,7 +92,6 @@ FILE: Canon Powershot S90.jpg
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Photoshop - 0x03ed] Resolution Info = 240.0x240.0 DPI
-[Photoshop - 0x0404] IPTC-NAA Record = 48 bytes binary data
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 256x192, Decomp 147456 bytes, 1572865 bpp, 11021 bytes
 [Photoshop - 0x0425] Caption Digest = -35 -70 52 10 -65 -59 -13 -121 42 38 91 92 34 -71 59 64
 

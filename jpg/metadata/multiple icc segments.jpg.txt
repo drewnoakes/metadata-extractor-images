@@ -70,7 +70,6 @@ FILE: Multiple ICC segments.jpg
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0009] Component 4 = I component: Quantization table 0, Sampling factors 1 horiz/1 vert
 
-[Photoshop - 0x0404] IPTC-NAA Record = 15 bytes binary data
 [Photoshop - 0x0425] Caption Digest = 54 -128 15 -13 -113 28 7 -48 102 -41 -59 -35 99 -37 97 -92
 [Photoshop - 0x043a] Print Info 2 = [229 bytes]
 [Photoshop - 0x043b] Print Style = [557 bytes]

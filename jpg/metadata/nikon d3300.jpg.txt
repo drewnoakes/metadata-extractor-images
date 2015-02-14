@@ -141,7 +141,6 @@ FILE: Nikon D3300.jpg
 [Nikon Makernote - 0x00bf] Unknown tag (0x00bf) = 0
 [Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 60 1 12 0 -112 1 12 0
 
-[Photoshop - 0x0404] IPTC-NAA Record = 39 bytes binary data
 [Photoshop - 0x0425] Caption Digest = -87 110 -127 -14 -15 89 -109 111 97 -9 -85 -53 74 -104 102 24
 
 [Xmp - 0xffff] XMP Value Count = 29

@@ -140,7 +140,6 @@ FILE: Nikon D610.jpg
 [Nikon Makernote - 0x00bf] Unknown tag (0x00bf) = 0
 [Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 60 1 12 0 -124 1 12 0
 
-[Photoshop - 0x0404] IPTC-NAA Record = 59 bytes binary data
 [Photoshop - 0x03ed] Resolution Info = 200.0x200.0 DPI
 [Photoshop - 0x040a] Copyright Flag = No
 

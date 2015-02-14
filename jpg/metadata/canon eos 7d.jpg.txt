@@ -101,7 +101,6 @@ FILE: Canon EOS 7D.jpg
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Photoshop - 0x03ed] Resolution Info = 72.0x72.0 DPI
-[Photoshop - 0x0404] IPTC-NAA Record = 165 bytes binary data
 [Photoshop - 0x040a] Copyright Flag = Yes
 [Photoshop - 0x040b] URL = http://www.meine-ansichten.de/verschiedenes/copyright.html
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 171x256, Decomp 132096 bytes, 1572865 bpp, 10286 bytes

@@ -100,7 +100,6 @@ FILE: Olympus FE230-X790.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Photoshop - 0x0404] IPTC-NAA Record = 142 bytes binary data
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 192x256, Decomp 147456 bytes, 1572865 bpp, 9511 bytes
 [Photoshop - 0x0425] Caption Digest = -114 106 120 -2 -64 -44 34 79 16 92 39 -30 73 78 110 92
 

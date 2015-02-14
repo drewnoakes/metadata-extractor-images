@@ -111,7 +111,6 @@ FILE: FujiFilm FinePixS2Pro.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Photoshop - 0x0404] IPTC-NAA Record = 16 bytes binary data
 [Photoshop - 0x0425] Caption Digest = 82 -76 122 60 81 93 -92 -88 -45 -29 38 82 -31 -58 51 -35
 [Photoshop - 0x03ed] Resolution Info = 300.0x300.0 DPI
 [Photoshop - 0x0426] Print Scale = Centered, Scale 1.0

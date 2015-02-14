@@ -114,7 +114,5 @@ FILE: Nikon D1X.jpg
 [Nikon Makernote - 0x009a] Sensor Pixel Size = 59/10 59/5
 [Nikon Makernote - 0x0e10] Nikon Scan = 2875
 
-[Photoshop - 0x0404] IPTC-NAA Record = 180 bytes binary data
-
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
