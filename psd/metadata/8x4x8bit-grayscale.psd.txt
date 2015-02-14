@@ -10,5 +10,33 @@ FILE: 8x4x8bit-Grayscale.psd
 [PSD Header - 0x0004] Bits Per Channel = 8 bits per channel
 [PSD Header - 0x0005] Color Mode = Grayscale
 
+[Photoshop - 0x0425] Caption Digest = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Photoshop - 0x0424] Unknown tag (0x0424) = [14103 bytes]
+[Photoshop - 0x043a] Unknown tag (0x043a) = [155 bytes]
+[Photoshop - 0x043b] Unknown tag (0x043b) = [434 bytes]
+[Photoshop - 0x03ed] Resolution Info = 300.0x300.0 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x040d] Global Angle = 120
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f4] Grayscale and Multichannel Halftoning Information = [18 bytes]
+[Photoshop - 0x03f7] Grayscale and Multichannel Transfer Function = [28 bytes]
+[Photoshop - 0x0400] Layer State Information = 0 0
+[Photoshop - 0x0402] Layers Group Information = 0 0
+[Photoshop - 0x0430] Unknown tag (0x0430) = 1
+[Photoshop - 0x042d] Unknown tag (0x042d) = 0 1 0 0 0 2
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = 8x4x8bit-Grayscale (0,0,4,8) 1 Slices
+[Photoshop - 0x0428] Pixel Aspect Ratio = 1.0
+[Photoshop - 0x040f] Unknown tag (0x040f) = [912 bytes]
+[Photoshop - 0x0414] Seed Number = 2
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 8x4, Decomp 96 bytes, 1572865 bpp, 566 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CS5) 1
+[Photoshop - 0x0422] Unknown tag (0x0422) = [302 bytes]
+[Photoshop - 0x0fa0] Plug-in 1 Data = [248 bytes]
+[Photoshop - 0x0fa1] Plug-in 2 Data = [28 bytes]
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
