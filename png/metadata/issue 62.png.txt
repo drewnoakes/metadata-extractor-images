@@ -20,6 +20,8 @@ FILE: Issue 62.png
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2800
 [PNG-pHYs - 0x0012] Unit Specifier = Metres
 
+[PNG-sBIT - 0x0013] Significant Bits = 8 8 8 8
+
 [Xmp - 0xffff] XMP Value Count = 4
 
 Generated using metadata-extractor
