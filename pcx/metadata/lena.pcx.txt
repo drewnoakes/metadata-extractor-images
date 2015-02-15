@@ -1,0 +1,21 @@
+FILE: lena.pcx
+
+[File - 0x0001] File Name = lena.pcx
+[File - 0x0002] File Size = 902913 bytes
+[File - 0x0003] File Modified Date = Sat Feb 14 23:46:39 GMT 2015
+
+[PCX - 0x0001] Version = 3.0 or better
+[PCX - 0x0002] Bits Per Pixel = 8
+[PCX - 0x0003] X Min = 0
+[PCX - 0x0004] Y Min = 0
+[PCX - 0x0005] X Max = 511
+[PCX - 0x0006] Y Max = 511
+[PCX - 0x0007] Horitzontal DPI = 512
+[PCX - 0x0008] Vertical DPI = 512
+[PCX - 0x0009] Palette = [48 bytes]
+[PCX - 0x000a] Color Planes = 24-bit color
+[PCX - 0x000b] Bytes Per Line = 512
+[PCX - 0x000c] Palette Type = Color or B&W
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
