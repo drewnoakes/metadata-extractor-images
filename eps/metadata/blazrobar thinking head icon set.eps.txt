@@ -1,8 +1,8 @@
 FILE: BlazRobar Thinking Head Icon Set.eps
 
 com.drew.imaging.ImageProcessingException: File format is not supported
-	at com.drew.imaging.ImageMetadataReader.readMetadata(ImageMetadataReader.java:125)
-	at com.drew.imaging.ImageMetadataReader.readMetadata(ImageMetadataReader.java:152)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(ImageMetadataReader.java:129)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(ImageMetadataReader.java:156)
 	at com.drew.tools.ProcessAllImagesInFolderUtility.processDirectory(ProcessAllImagesInFolderUtility.java:113)
 	at com.drew.tools.ProcessAllImagesInFolderUtility.processDirectory(ProcessAllImagesInFolderUtility.java:105)
 	at com.drew.tools.ProcessAllImagesInFolderUtility.main(ProcessAllImagesInFolderUtility.java:82)
