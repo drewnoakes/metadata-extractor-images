@@ -148,10 +148,10 @@ FILE: Minolta DiMAGE A1.jpg
 [Olympus Makernote - 0x0040] Compressed Image Size = 2210924
 [Olympus Makernote - 0x0088] Thumbnail Offset = 2246055
 [Olympus Makernote - 0x0089] Thumbnail Length = 59817
-[Olympus Makernote - 0x0100] Unknown tag (0x0100) = 0
+[Olympus Makernote - 0x0100] Thumbnail Image = 0
 [Olympus Makernote - 0x0101] Colour Mode = Natural Colour
 [Olympus Makernote - 0x0102] Image Quality = Fine
-[Olympus Makernote - 0x0104] Unknown tag (0x0104) = 0
+[Olympus Makernote - 0x0104] Body Firmware Version = 0
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -132,7 +132,7 @@ FILE: Minolta DiMAGE 7Hi.jpg
 [Olympus Makernote - 0x0040] Compressed Image Size = 2652656
 [Olympus Makernote - 0x0088] Thumbnail Offset = 2672039
 [Olympus Makernote - 0x0089] Thumbnail Length = 79141
-[Olympus Makernote - 0x0100] Unknown tag (0x0100) = 0
+[Olympus Makernote - 0x0100] Thumbnail Image = 0
 [Olympus Makernote - 0x0101] Colour Mode = Natural Colour
 [Olympus Makernote - 0x0102] Image Quality = Fine
 [Olympus Makernote - 0x0103] Image Quality = Fine
