@@ -109,6 +109,7 @@ FILE: Canon Powershot S90.jpg
 [Xmp - 0x000d] Date/Time Original = Sun Jun 10 12:06:14 BST 2012
 [Xmp - 0x000e] Date/Time Digitized = Sun Jun 10 12:06:14 BST 2012
 [Xmp - 0x1001] Rating = 3.0
+[Xmp - 0x2001] Subject = 2012 dublin ireland june
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

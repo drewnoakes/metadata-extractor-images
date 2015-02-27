@@ -122,6 +122,7 @@ FILE: Canon EOS 7D.jpg
 [Xmp - 0x000d] Date/Time Original = Sun Dec 12 11:41:35 GMT 2010
 [Xmp - 0x000e] Date/Time Digitized = Sun Dec 12 11:41:35 GMT 2010
 [Xmp - 0x1001] Rating = 3.0
+[Xmp - 0x2000] Label = blau
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -147,6 +147,7 @@ FILE: FujiFilm FinePixS1Pro (1).jpg
 [Photoshop - 0x0406] JPEG Quality = 9 (High), Standard format, 3 scans
 
 [Xmp - 0xffff] XMP Value Count = 33
+[Xmp - 0x2001] Subject = Communications
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

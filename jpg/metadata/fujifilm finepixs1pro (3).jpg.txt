@@ -148,6 +148,7 @@ FILE: FujiFilm FinePixS1Pro (3).jpg
 [Photoshop - 0x0406] JPEG Quality = 9 (High), Standard format, 3 scans
 
 [Xmp - 0xffff] XMP Value Count = 32
+[Xmp - 0x2001] Subject = Wheat
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

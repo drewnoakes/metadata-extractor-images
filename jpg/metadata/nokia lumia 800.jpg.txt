@@ -101,6 +101,7 @@ FILE: Nokia Lumia 800.jpg
 [Xmp - 0x000d] Date/Time Original = Sat Jun 09 21:23:38 BST 2012
 [Xmp - 0x000e] Date/Time Digitized = Sat Jun 09 21:23:38 BST 2012
 [Xmp - 0x1001] Rating = 3.0
+[Xmp - 0x2001] Subject = 2012 dublin ireland june lumia
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

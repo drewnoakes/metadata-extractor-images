@@ -116,6 +116,7 @@ FILE: Olympus FE230-X790.jpg
 [Xmp - 0x000d] Date/Time Original = Sun Dec 07 18:28:52 GMT 2008
 [Xmp - 0x000e] Date/Time Digitized = Sun Dec 07 18:28:52 GMT 2008
 [Xmp - 0x1001] Rating = 3.0
+[Xmp - 0x2001] Subject = 2008 bc british columbia canada december powder day revelstoke rmr snow
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
