@@ -14,12 +14,12 @@ FILE: Nokia Lumia 800.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2012:06:13 23:17:22
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/1000 sec
-[Exif SubIFD - 0x829d] F-Number = F2.2
+[Exif SubIFD - 0x829d] F-Number = f/2.2
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2012:06:09 21:23:38
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2012:06:09 21:23:38
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/999 sec
-[Exif SubIFD - 0x9202] Aperture Value = F2.2
+[Exif SubIFD - 0x9202] Aperture Value = f/2.2
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 

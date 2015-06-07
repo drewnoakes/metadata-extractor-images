@@ -13,17 +13,17 @@ FILE: Samsung SM-C115 (Galaxy K Zoom).jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/45 sec
-[Exif SubIFD - 0x829d] F-Number = F6.3
+[Exif SubIFD - 0x829d] F-Number = f/6.3
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 250
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2014:09:30 14:21:02
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:09:30 14:21:02
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/39 sec
-[Exif SubIFD - 0x9202] Aperture Value = F6.2
+[Exif SubIFD - 0x9202] Aperture Value = f/6.2
 [Exif SubIFD - 0x9203] Brightness Value = 4.12
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.1
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.1
 [Exif SubIFD - 0x9207] Metering Mode = Average
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire

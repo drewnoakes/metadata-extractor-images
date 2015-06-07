@@ -11,7 +11,7 @@ FILE: FujiFilm DX-10.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8298] Copyright = J P Bowen 
 
-[Exif SubIFD - 0x829d] F-Number = F4.2
+[Exif SubIFD - 0x829d] F-Number = f/4.2
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 150
 [Exif SubIFD - 0x9000] Exif Version = 2.10
@@ -20,10 +20,10 @@ FILE: FujiFilm DX-10.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 1.4 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/97 sec
-[Exif SubIFD - 0x9202] Aperture Value = F4.1
+[Exif SubIFD - 0x9202] Aperture Value = f/4.1
 [Exif SubIFD - 0x9203] Brightness Value = -2.7
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F4.1
+[Exif SubIFD - 0x9205] Max Aperture Value = f/4.1
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash fired
 [Exif SubIFD - 0x920a] Focal Length = 5.8 mm

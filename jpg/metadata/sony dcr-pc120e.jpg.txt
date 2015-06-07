@@ -12,7 +12,7 @@ FILE: Sony DCR-PC120E.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/425 sec
-[Exif SubIFD - 0x829d] F-Number = F4
+[Exif SubIFD - 0x829d] F-Number = f/4.0
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2002:12:14 10:31:31
@@ -20,7 +20,7 @@ FILE: Sony DCR-PC120E.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2 bits/pixel
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F1.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/1.8
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 8.2 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00

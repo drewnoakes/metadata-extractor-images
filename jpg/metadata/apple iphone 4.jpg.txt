@@ -10,14 +10,14 @@ FILE: Apple iPhone 4.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2011:01:13 14:33:39
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/15 sec
-[Exif SubIFD - 0x829d] F-Number = F2.8
+[Exif SubIFD - 0x829d] F-Number = f/2.8
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 500
 [Exif SubIFD - 0x9000] Exif Version = 2.21
 [Exif SubIFD - 0x9003] Date/Time Original = 2011:01:13 14:33:39
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2011:01:13 14:33:39
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/15 sec
-[Exif SubIFD - 0x9202] Aperture Value = F2.8
+[Exif SubIFD - 0x9202] Aperture Value = f/2.8
 [Exif SubIFD - 0x9207] Metering Mode = Average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 3.85 mm

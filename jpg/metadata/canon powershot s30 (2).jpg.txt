@@ -24,7 +24,7 @@ FILE: Canon PowerShot S30 (2).jpg
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (0)
 [Canon Makernote - 0xc114] Exposure Mode = Easy shooting
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 0
-[Canon Makernote - 0xc116] Unknown Camera Setting 8 = 0
+[Canon Makernote - 0xc116] Lens Type = Lens type: 0
 [Canon Makernote - 0xc117] Long Focal Length = 0 
 [Canon Makernote - 0xc118] Short Focal Length = 0 
 [Canon Makernote - 0xc119] Focal Units per mm = 
@@ -93,16 +93,16 @@ FILE: Canon PowerShot S30 (2).jpg
 [Exif IFD0 - 0xa217] Sensing Method = One-chip color area sensor
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/640 sec
-[Exif SubIFD - 0x829d] F-Number = F2.8
+[Exif SubIFD - 0x829d] F-Number = f/2.8
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2002:10:07 08:03:20
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2002:10:07 08:03:20
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 5 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/635 sec
-[Exif SubIFD - 0x9202] Aperture Value = F2.8
+[Exif SubIFD - 0x9202] Aperture Value = f/2.8
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9206] Subject Distance = 3.114 metres
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire

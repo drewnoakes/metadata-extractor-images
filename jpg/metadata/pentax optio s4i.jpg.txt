@@ -10,7 +10,7 @@ FILE: Pentax Optio S4i.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/1000 sec
-[Exif SubIFD - 0x829d] F-Number = F4.3
+[Exif SubIFD - 0x829d] F-Number = f/4.3
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 50
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2004:08:30 17:33:34
@@ -18,7 +18,7 @@ FILE: Pentax Optio S4i.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 23183360/3981312 bits/pixel
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.6
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.6
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 5.8 mm

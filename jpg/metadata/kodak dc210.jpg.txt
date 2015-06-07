@@ -11,16 +11,16 @@ FILE: Kodak DC210.jpg
 [Exif IFD0 - 0x8298] Copyright = 
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
-[Exif SubIFD - 0x829d] F-Number = F4
+[Exif SubIFD - 0x829d] F-Number = f/4.0
 [Exif SubIFD - 0x9000] Exif Version = 1.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2000:10:26 16:46:51
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 0 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/32 sec
-[Exif SubIFD - 0x9202] Aperture Value = F4
+[Exif SubIFD - 0x9202] Aperture Value = f/4.0
 [Exif SubIFD - 0x9203] Brightness Value = 1.5
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F4
+[Exif SubIFD - 0x9205] Max Aperture Value = f/4.0
 [Exif SubIFD - 0x9206] Subject Distance = 0.0 metres
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9208] White Balance = Unknown

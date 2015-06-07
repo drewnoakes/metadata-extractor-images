@@ -16,7 +16,7 @@ FILE: Canon EOS D60.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
-[Exif SubIFD - 0x829d] F-Number = F2.8
+[Exif SubIFD - 0x829d] F-Number = f/2.8
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 400
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2002:10:26 19:26:35
@@ -24,9 +24,9 @@ FILE: Canon EOS D60.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 3 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/30 sec
-[Exif SubIFD - 0x9202] Aperture Value = F2.8
+[Exif SubIFD - 0x9202] Aperture Value = f/2.8
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0.5 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 28.0 mm

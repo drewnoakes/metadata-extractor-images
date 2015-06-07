@@ -15,7 +15,7 @@ FILE: Panasonic Lumix DMC-LX5.jpg
 [Exif IFD0 - 0xc6d3] Panasonic Title (2) = [128 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/400 sec
-[Exif SubIFD - 0x829d] F-Number = F2.8
+[Exif SubIFD - 0x829d] F-Number = f/2.8
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 80
 [Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity
@@ -25,9 +25,9 @@ FILE: Panasonic Lumix DMC-LX5.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2 bits/pixel
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.0
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9208] White Balance = Unknown (9)
+[Exif SubIFD - 0x9208] White Balance = Fine Weather
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 5.1 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00

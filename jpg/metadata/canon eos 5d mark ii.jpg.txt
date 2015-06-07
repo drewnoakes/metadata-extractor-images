@@ -22,7 +22,7 @@ FILE: Canon EOS 5D Mark II.jpg
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (0)
 [Canon Makernote - 0xc114] Exposure Mode = Tv-priority
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 65535
-[Canon Makernote - 0xc116] Unknown Camera Setting 8 = 233
+[Canon Makernote - 0xc116] Lens Type = Lens type: 233
 [Canon Makernote - 0xc117] Long Focal Length = 300 1
 [Canon Makernote - 0xc118] Short Focal Length = 28 1
 [Canon Makernote - 0xc119] Focal Units per mm = 1
@@ -134,7 +134,7 @@ FILE: Canon EOS 5D Mark II.jpg
 [Exif IFD0 - 0x8298] Copyright = 
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.05 sec
-[Exif SubIFD - 0x829d] F-Number = F22
+[Exif SubIFD - 0x829d] F-Number = f/22.0
 [Exif SubIFD - 0x8822] Exposure Program = Shutter priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 800
 [Exif SubIFD - 0x9000] Exif Version = 2.21
@@ -142,7 +142,7 @@ FILE: Canon EOS 5D Mark II.jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2008:12:28 19:39:59
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/22 sec
-[Exif SubIFD - 0x9202] Aperture Value = F22.6
+[Exif SubIFD - 0x9202] Aperture Value = f/22.6
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

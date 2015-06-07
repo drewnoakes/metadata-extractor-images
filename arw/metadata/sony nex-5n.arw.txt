@@ -19,7 +19,7 @@ FILE: Sony NEX-5N.arw
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 10 204 0 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/2000 sec
-[Exif SubIFD - 0x829d] F-Number = F4
+[Exif SubIFD - 0x829d] F-Number = f/4.0
 [Exif SubIFD - 0x8822] Exposure Program = Shutter priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 160
 [Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
@@ -31,7 +31,7 @@ FILE: Sony NEX-5N.arw
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 8 bits/pixel
 [Exif SubIFD - 0x9203] Brightness Value = 12512/1280
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F1.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/1.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

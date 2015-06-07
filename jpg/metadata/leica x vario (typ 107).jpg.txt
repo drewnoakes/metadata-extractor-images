@@ -11,7 +11,7 @@ FILE: Leica X VARIO (Typ 107).jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
-[Exif SubIFD - 0x829d] F-Number = F6.4
+[Exif SubIFD - 0x829d] F-Number = f/6.4
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 1000
 [Exif SubIFD - 0x9000] Exif Version = 2.21
@@ -19,7 +19,7 @@ FILE: Leica X VARIO (Typ 107).jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:04:04 11:04:14
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.5
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

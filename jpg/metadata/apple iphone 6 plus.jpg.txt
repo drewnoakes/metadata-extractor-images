@@ -10,7 +10,7 @@ FILE: Apple iPhone 6 plus.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2014:10:31 13:32:37
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
-[Exif SubIFD - 0x829d] F-Number = F2.2
+[Exif SubIFD - 0x829d] F-Number = f/2.2
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 32
 [Exif SubIFD - 0x9000] Exif Version = 2.21
@@ -18,7 +18,7 @@ FILE: Apple iPhone 6 plus.jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:10:31 13:32:37
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/30 sec
-[Exif SubIFD - 0x9202] Aperture Value = F2.2
+[Exif SubIFD - 0x9202] Aperture Value = f/2.2
 [Exif SubIFD - 0x9203] Brightness Value = 5773/1387
 [Exif SubIFD - 0x9204] Exposure Bias Value = 1/256 EV
 [Exif SubIFD - 0x9207] Metering Mode = Spot

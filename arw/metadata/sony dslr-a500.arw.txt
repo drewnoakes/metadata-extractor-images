@@ -19,7 +19,7 @@ FILE: Sony DSLR-A500.arw
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 0 0 1 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
-[Exif SubIFD - 0x829d] F-Number = F8
+[Exif SubIFD - 0x829d] F-Number = f/8.0
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 200
 [Exif SubIFD - 0x9000] Exif Version = 2.21
@@ -29,7 +29,7 @@ FILE: Sony DSLR-A500.arw
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 8 bits/pixel
 [Exif SubIFD - 0x9203] Brightness Value = 5.87
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.5
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

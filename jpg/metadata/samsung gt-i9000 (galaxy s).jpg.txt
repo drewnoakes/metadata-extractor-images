@@ -12,7 +12,7 @@ FILE: Samsung GT-I9000 (Galaxy S).jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 512/6888 sec
-[Exif SubIFD - 0x829d] F-Number = F2.6
+[Exif SubIFD - 0x829d] F-Number = f/2.6
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
 [Exif SubIFD - 0x9000] Exif Version = 2.20
@@ -20,10 +20,10 @@ FILE: Samsung GT-I9000 (Galaxy S).jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2011:04:02 18:30:10
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/13 sec
-[Exif SubIFD - 0x9202] Aperture Value = F2.6
+[Exif SubIFD - 0x9202] Aperture Value = f/2.6
 [Exif SubIFD - 0x9203] Brightness Value = 1.6
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.6
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.6
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire

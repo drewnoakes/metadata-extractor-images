@@ -11,7 +11,7 @@ FILE: Apple iPhone 5.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/1695 sec
-[Exif SubIFD - 0x829d] F-Number = F2.4
+[Exif SubIFD - 0x829d] F-Number = f/2.4
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 50
 [Exif SubIFD - 0x9000] Exif Version = 2.21
@@ -19,7 +19,7 @@ FILE: Apple iPhone 5.jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2012:09:29 16:11:25
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/1694 sec
-[Exif SubIFD - 0x9202] Aperture Value = F2.4
+[Exif SubIFD - 0x9202] Aperture Value = f/2.4
 [Exif SubIFD - 0x9203] Brightness Value = 9811/1056
 [Exif SubIFD - 0x9207] Metering Mode = Spot
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

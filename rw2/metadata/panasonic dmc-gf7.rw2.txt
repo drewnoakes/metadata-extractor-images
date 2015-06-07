@@ -1,7 +1,7 @@
 FILE: Panasonic DMC-GF7.rw2
 
-[Exif IFD0 - 0x0001] Unknown tag (0x0001) = 48 51 53 48
-[Exif IFD0 - 0x0002] Unknown tag (0x0002) = 4816
+[Exif IFD0 - 0x0001] Interoperability Index = Unknown (48 51 53 48)
+[Exif IFD0 - 0x0002] Interoperability Version = ዐ
 [Exif IFD0 - 0x0003] Unknown tag (0x0003) = 3464
 [Exif IFD0 - 0x0004] Unknown tag (0x0004) = 8
 [Exif IFD0 - 0x0005] Unknown tag (0x0005) = 8
@@ -50,13 +50,13 @@ FILE: Panasonic DMC-GF7.rw2
 [Exif IFD0 - 0x0120] Unknown tag (0x0120) = [2048 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
-[Exif SubIFD - 0x829d] F-Number = F5
+[Exif SubIFD - 0x829d] F-Number = f/5.0
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2015:01:18 15:41:07
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2015:01:18 15:41:07
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.5
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 12.0 mm

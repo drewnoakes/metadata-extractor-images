@@ -10,15 +10,15 @@ FILE: Kodak DC3400.jpg
 [Exif IFD0 - 0x8298] Copyright = KODAK DC3400 ZOOM DIGITAL CAMERA
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/45 sec
-[Exif SubIFD - 0x829d] F-Number = F3
+[Exif SubIFD - 0x829d] F-Number = f/3.0
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2002:01:09 22:07:02
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2002:01:09 22:07:02
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/45 sec
-[Exif SubIFD - 0x9202] Aperture Value = F2.9
+[Exif SubIFD - 0x9202] Aperture Value = f/2.9
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.9
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.9
 [Exif SubIFD - 0x9207] Metering Mode = Average
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired

@@ -1,7 +1,7 @@
 FILE: Panasonic Lumix DMC-LX7.rw2
 
-[Exif IFD0 - 0x0001] Unknown tag (0x0001) = 48 51 49 48
-[Exif IFD0 - 0x0002] Unknown tag (0x0002) = 3696
+[Exif IFD0 - 0x0001] Interoperability Index = Unknown (48 51 49 48)
+[Exif IFD0 - 0x0002] Interoperability Version = ๰
 [Exif IFD0 - 0x0003] Unknown tag (0x0003) = 2752
 [Exif IFD0 - 0x0004] Unknown tag (0x0004) = 8
 [Exif IFD0 - 0x0005] Unknown tag (0x0005) = 8
@@ -41,13 +41,13 @@ FILE: Panasonic Lumix DMC-LX7.rw2
 [Exif IFD0 - 0x011b] Y Resolution = null
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
-[Exif SubIFD - 0x829d] F-Number = F1.4
+[Exif SubIFD - 0x829d] F-Number = f/1.4
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2014:11:19 23:07:44
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:11:19 23:07:44
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F1.4
+[Exif SubIFD - 0x9205] Max Aperture Value = f/1.4
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 4.7 mm

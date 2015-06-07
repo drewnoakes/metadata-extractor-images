@@ -14,7 +14,7 @@ FILE: FujiFilm FinePix XP60.jpg
 [Exif IFD0 - 0xea1c] Padding = [2060 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.25 sec
-[Exif SubIFD - 0x829d] F-Number = F4.3
+[Exif SubIFD - 0x829d] F-Number = f/4.3
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
 [Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity
@@ -24,10 +24,10 @@ FILE: FujiFilm FinePix XP60.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/4 sec
-[Exif SubIFD - 0x9202] Aperture Value = F4.3
+[Exif SubIFD - 0x9202] Aperture Value = f/4.3
 [Exif SubIFD - 0x9203] Brightness Value = 0.62
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.9
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.9
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

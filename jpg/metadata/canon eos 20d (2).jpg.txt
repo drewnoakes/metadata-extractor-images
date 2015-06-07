@@ -22,7 +22,7 @@ FILE: Canon EOS 20D (2).jpg
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (65535)
 [Canon Makernote - 0xc114] Exposure Mode = Easy shooting
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 0
-[Canon Makernote - 0xc116] Unknown Camera Setting 8 = 0
+[Canon Makernote - 0xc116] Lens Type = Lens type: 0
 [Canon Makernote - 0xc117] Long Focal Length = 0 
 [Canon Makernote - 0xc118] Short Focal Length = 65535 
 [Canon Makernote - 0xc119] Focal Units per mm = 
@@ -143,7 +143,7 @@ FILE: Canon EOS 20D (2).jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.05 sec
-[Exif SubIFD - 0x829d] F-Number = F8
+[Exif SubIFD - 0x829d] F-Number = f/8.0
 [Exif SubIFD - 0x8822] Exposure Program = Manual control
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 400
 [Exif SubIFD - 0x9000] Exif Version = 2.21
@@ -151,7 +151,7 @@ FILE: Canon EOS 20D (2).jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2005:04:10 13:04:54
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/20 sec
-[Exif SubIFD - 0x9202] Aperture Value = F8
+[Exif SubIFD - 0x9202] Aperture Value = f/8.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9207] Metering Mode = Partial
 [Exif SubIFD - 0x9209] Flash = Flash fired

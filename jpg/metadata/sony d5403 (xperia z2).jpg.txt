@@ -11,14 +11,14 @@ FILE: Sony D5403 (Xperia Z2).jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/40 sec
-[Exif SubIFD - 0x829d] F-Number = F2
+[Exif SubIFD - 0x829d] F-Number = f/2.0
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 64
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2014:09:23 16:38:23
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:09:23 16:38:23
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/39 sec
-[Exif SubIFD - 0x9202] Aperture Value = F2
+[Exif SubIFD - 0x9202] Aperture Value = f/2.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9208] White Balance = Unknown

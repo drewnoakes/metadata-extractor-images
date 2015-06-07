@@ -11,7 +11,7 @@ FILE: Nikon D100.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/640 sec
-[Exif SubIFD - 0x829d] F-Number = F6.3
+[Exif SubIFD - 0x829d] F-Number = f/6.3
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2004:01:02 14:26:41
@@ -19,9 +19,9 @@ FILE: Nikon D100.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F5.7
+[Exif SubIFD - 0x9205] Max Aperture Value = f/5.7
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9208] White Balance = Flash
+[Exif SubIFD - 0x9208] White Balance = Cloudy
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 130.0 mm
 [Exif SubIFD - 0x9286] User Comment = 

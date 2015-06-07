@@ -12,7 +12,7 @@ FILE: Ricoh WG4 GPS.jpg
 [Exif IFD0 - 0xc4a5] Print IM = [350 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/2000 sec
-[Exif SubIFD - 0x829d] F-Number = F3.1
+[Exif SubIFD - 0x829d] F-Number = f/3.1
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 125
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2014:04:11 08:52:59

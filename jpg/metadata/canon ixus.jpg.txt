@@ -56,16 +56,16 @@ FILE: Canon IXUS.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/350 sec
-[Exif SubIFD - 0x829d] F-Number = F4
+[Exif SubIFD - 0x829d] F-Number = f/4.0
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2001:06:09 15:17:32
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2001:06:09 15:17:32
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 3 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/350 sec
-[Exif SubIFD - 0x9202] Aperture Value = F4
+[Exif SubIFD - 0x9202] Aperture Value = f/4.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9206] Subject Distance = 3.75 metres
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire

@@ -22,7 +22,7 @@ FILE: Canon PowerShot A610.jpg
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (8197)
 [Canon Makernote - 0xc114] Exposure Mode = Program
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 32767
-[Canon Makernote - 0xc116] Unknown Camera Setting 8 = 65535
+[Canon Makernote - 0xc116] Lens Type = Lens type: 65535
 [Canon Makernote - 0xc117] Long Focal Length = 29200 1000
 [Canon Makernote - 0xc118] Short Focal Length = 7300 1000
 [Canon Makernote - 0xc119] Focal Units per mm = 1000
@@ -137,16 +137,16 @@ FILE: Canon PowerShot A610.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
-[Exif SubIFD - 0x829d] F-Number = F4.1
+[Exif SubIFD - 0x829d] F-Number = f/4.1
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2010:05:12 07:06:45
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2010:05:12 07:06:45
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 5 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/59 sec
-[Exif SubIFD - 0x9202] Aperture Value = F4.1
+[Exif SubIFD - 0x9202] Aperture Value = f/4.1
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F4.1
+[Exif SubIFD - 0x9205] Max Aperture Value = f/4.1
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto, red-eye reduction
 [Exif SubIFD - 0x920a] Focal Length = 29.2 mm

@@ -15,14 +15,14 @@ FILE: Nikon E5700.jpg
 [Exif IFD0 - 0x9003] Date/Time Original = 2002:08:22 15:38:49
 
 [Exif SubIFD - 0x829a] Exposure Time = 403225/100000000 sec
-[Exif SubIFD - 0x829d] F-Number = F5.6
+[Exif SubIFD - 0x829d] F-Number = f/5.6
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2002:08:22 15:38:49
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2002:08:22 15:38:49
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.4
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.4
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 8.9 mm

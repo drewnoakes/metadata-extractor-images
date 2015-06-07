@@ -12,7 +12,7 @@ FILE: Sony DCR-PC110E (1).jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.02 sec
-[Exif SubIFD - 0x829d] F-Number = F1.8
+[Exif SubIFD - 0x829d] F-Number = f/1.8
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2002:01:20 05:27:07
@@ -20,7 +20,7 @@ FILE: Sony DCR-PC110E (1).jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2 bits/pixel
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F1.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/1.8
 [Exif SubIFD - 0x9209] Flash = Flash fired
 [Exif SubIFD - 0x920a] Focal Length = 4.2 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00

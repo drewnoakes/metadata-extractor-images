@@ -11,7 +11,7 @@ FILE: Kodak PIXPRO S-1.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2014:09:04 14:04:22
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/63 sec
-[Exif SubIFD - 0x829d] F-Number = F6
+[Exif SubIFD - 0x829d] F-Number = f/6.0
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 212
 [Exif SubIFD - 0x9000] Exif Version = 2.30
@@ -19,9 +19,9 @@ FILE: Kodak PIXPRO S-1.jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:09:04 14:04:22
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/62 sec
-[Exif SubIFD - 0x9202] Aperture Value = F6
+[Exif SubIFD - 0x9202] Aperture Value = f/6.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.5
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Average
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

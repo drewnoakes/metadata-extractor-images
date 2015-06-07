@@ -7,7 +7,7 @@ FILE: Samsung NX1.srw
 [Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 788870 788976
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.01 sec
-[Exif SubIFD - 0x829d] F-Number = F8
+[Exif SubIFD - 0x829d] F-Number = f/8.0
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
 [Exif SubIFD - 0x9000] Exif Version = 2.30

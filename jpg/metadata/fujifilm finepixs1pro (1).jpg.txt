@@ -19,7 +19,7 @@ FILE: FujiFilm FinePixS1Pro (1).jpg
 [Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
 [Exif IFD0 - 0x8298] Copyright = ian Britton - FreeFoto.com
 
-[Exif SubIFD - 0x829d] F-Number = F0.6
+[Exif SubIFD - 0x829d] F-Number = f/0.6
 [Exif SubIFD - 0x8822] Exposure Program = Shutter priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 0
 [Exif SubIFD - 0x9000] Exif Version = 2.00
@@ -27,7 +27,7 @@ FILE: FujiFilm FinePixS1Pro (1).jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2002:07:13 15:58:28
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/724 sec
-[Exif SubIFD - 0x9202] Aperture Value = F16
+[Exif SubIFD - 0x9202] Aperture Value = f/16.0
 [Exif SubIFD - 0x9203] Brightness Value = 436469760/1677721600
 [Exif SubIFD - 0x9204] Exposure Bias Value = -1090519041/1677721600 EV
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment

@@ -22,7 +22,7 @@ FILE: Canon IXUS v2.jpg
 [Canon Makernote - 0xc113] AF Point Selected = Auto selected
 [Canon Makernote - 0xc114] Exposure Mode = Easy shooting
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 65535
-[Canon Makernote - 0xc116] Unknown Camera Setting 8 = 65535
+[Canon Makernote - 0xc116] Lens Type = Lens type: 65535
 [Canon Makernote - 0xc117] Long Focal Length = 346 32
 [Canon Makernote - 0xc118] Short Focal Length = 173 32
 [Canon Makernote - 0xc119] Focal Units per mm = 32
@@ -94,16 +94,16 @@ FILE: Canon IXUS v2.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
-[Exif SubIFD - 0x829d] F-Number = F4
+[Exif SubIFD - 0x829d] F-Number = f/4.0
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2002:11:23 14:38:01
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2002:11:23 14:38:01
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 3 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/59 sec
-[Exif SubIFD - 0x9202] Aperture Value = F4
+[Exif SubIFD - 0x9202] Aperture Value = f/4.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash fired, auto
 [Exif SubIFD - 0x920a] Focal Length = 10.812 mm

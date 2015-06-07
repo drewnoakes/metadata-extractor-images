@@ -45,7 +45,7 @@ FILE: Casio EX-S1.jpg
 [Exif IFD0 - 0xc4a5] Print IM = [40 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
-[Exif SubIFD - 0x829d] F-Number = F2.5
+[Exif SubIFD - 0x829d] F-Number = f/2.5
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2002:07:13 00:07:18
@@ -53,7 +53,7 @@ FILE: Casio EX-S1.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 143360/307200 bits/pixel
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.4
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.4
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired, auto

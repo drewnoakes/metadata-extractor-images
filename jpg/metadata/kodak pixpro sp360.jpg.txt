@@ -12,7 +12,7 @@ FILE: Kodak PIXPRO SP360.jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/1984 sec
-[Exif SubIFD - 0x829d] F-Number = F2.7
+[Exif SubIFD - 0x829d] F-Number = f/2.7
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
 [Exif SubIFD - 0x9000] Exif Version = 2.30
@@ -21,9 +21,9 @@ FILE: Kodak PIXPRO SP360.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9103] Unknown tag (0x9103) = 1
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/2005 sec
-[Exif SubIFD - 0x9202] Aperture Value = F29532.2
+[Exif SubIFD - 0x9202] Aperture Value = f/29532.2
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9207] Metering Mode = Unknown
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire

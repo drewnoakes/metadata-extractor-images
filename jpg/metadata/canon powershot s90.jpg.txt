@@ -13,15 +13,15 @@ FILE: Canon Powershot S90.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2012:06:13 23:17:33
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/200 sec
-[Exif SubIFD - 0x829d] F-Number = F4.9
+[Exif SubIFD - 0x829d] F-Number = f/4.9
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 80
 [Exif SubIFD - 0x9000] Exif Version = 2.21
 [Exif SubIFD - 0x9003] Date/Time Original = 2012:06:10 12:06:14
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2012:06:10 12:06:14
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/199 sec
-[Exif SubIFD - 0x9202] Aperture Value = F4.9
+[Exif SubIFD - 0x9202] Aperture Value = f/4.9
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F4.9
+[Exif SubIFD - 0x9205] Max Aperture Value = f/4.9
 [Exif SubIFD - 0x9206] Subject Distance = 30.4 metres
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

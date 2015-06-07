@@ -13,7 +13,7 @@ FILE: Nikon D7000.jpg
 [Exif IFD0 - 0x8298] Copyright =                                                       
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/1000 sec
-[Exif SubIFD - 0x829d] F-Number = F9
+[Exif SubIFD - 0x829d] F-Number = f/9.0
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 400
 [Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
@@ -23,7 +23,7 @@ FILE: Nikon D7000.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F4.9
+[Exif SubIFD - 0x9205] Max Aperture Value = f/4.9
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

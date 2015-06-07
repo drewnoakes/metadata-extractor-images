@@ -22,7 +22,7 @@ FILE: Canon EOS 600D.jpg
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (0)
 [Canon Makernote - 0xc114] Exposure Mode = Av-priority
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 65535
-[Canon Makernote - 0xc116] Unknown Camera Setting 8 = 51
+[Canon Makernote - 0xc116] Lens Type = Lens type: 51
 [Canon Makernote - 0xc117] Long Focal Length = 135 1
 [Canon Makernote - 0xc118] Short Focal Length = 18 1
 [Canon Makernote - 0xc119] Focal Units per mm = 1
@@ -134,7 +134,7 @@ FILE: Canon EOS 600D.jpg
 [Exif IFD0 - 0x8298] Copyright = 
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/320 sec
-[Exif SubIFD - 0x829d] F-Number = F7.1
+[Exif SubIFD - 0x829d] F-Number = f/7.1
 [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
 [Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
@@ -144,7 +144,7 @@ FILE: Canon EOS 600D.jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2011:01:15 22:47:44
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/331 sec
-[Exif SubIFD - 0x9202] Aperture Value = F7
+[Exif SubIFD - 0x9202] Aperture Value = f/7.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

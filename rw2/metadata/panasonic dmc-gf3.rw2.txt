@@ -1,7 +1,7 @@
 FILE: Panasonic DMC-GF3.rw2
 
-[Exif IFD0 - 0x0001] Unknown tag (0x0001) = 48 51 49 48
-[Exif IFD0 - 0x0002] Unknown tag (0x0002) = 4088
+[Exif IFD0 - 0x0001] Interoperability Index = Unknown (48 51 49 48)
+[Exif IFD0 - 0x0002] Interoperability Version = ࿸
 [Exif IFD0 - 0x0003] Unknown tag (0x0003) = 2688
 [Exif IFD0 - 0x0004] Unknown tag (0x0004) = 4
 [Exif IFD0 - 0x0005] Unknown tag (0x0005) = 8
@@ -45,13 +45,13 @@ FILE: Panasonic DMC-GF3.rw2
 [Exif IFD0 - 0x011b] Y Resolution = null
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/800 sec
-[Exif SubIFD - 0x829d] F-Number = F7.1
+[Exif SubIFD - 0x829d] F-Number = f/7.1
 [Exif SubIFD - 0x8822] Exposure Program = Landscape mode
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2011:12:18 01:08:12
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2011:12:18 01:08:12
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.5
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 14.0 mm

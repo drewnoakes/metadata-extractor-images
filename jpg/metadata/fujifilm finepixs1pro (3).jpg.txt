@@ -20,7 +20,7 @@ FILE: FujiFilm FinePixS1Pro (3).jpg
 [Exif IFD0 - 0x8298] Copyright = ian Britton - FreeFoto.com
 
 [Exif SubIFD - 0x829a] Exposure Time = 167772160/2886533120 sec
-[Exif SubIFD - 0x829d] F-Number = F0.2
+[Exif SubIFD - 0x829d] F-Number = f/0.2
 [Exif SubIFD - 0x8822] Exposure Program = Shutter priority
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 0
 [Exif SubIFD - 0x9000] Exif Version = 2.00
@@ -28,7 +28,7 @@ FILE: FujiFilm FinePixS1Pro (3).jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2002:09:01 09:19:43
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 0.6 sec
-[Exif SubIFD - 0x9202] Aperture Value = F2.3
+[Exif SubIFD - 0x9202] Aperture Value = f/2.3
 [Exif SubIFD - 0x9203] Brightness Value = 1644363776/1677721600
 [Exif SubIFD - 0x9204] Exposure Bias Value = -1660944385/1677721600 EV
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment

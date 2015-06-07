@@ -14,7 +14,7 @@ FILE: Panasonic DMC-TZ10.jpg
 [Exif IFD0 - 0xc6d3] Panasonic Title (2) = [128 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
-[Exif SubIFD - 0x829d] F-Number = F4.1
+[Exif SubIFD - 0x829d] F-Number = f/4.1
 [Exif SubIFD - 0x8822] Exposure Program = Portrait mode
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 250
 [Exif SubIFD - 0x9000] Exif Version = 2.21
@@ -23,9 +23,9 @@ FILE: Panasonic DMC-TZ10.jpg
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.3
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.3
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9208] White Balance = Unknown (4)
+[Exif SubIFD - 0x9208] White Balance = Flash
 [Exif SubIFD - 0x9209] Flash = Flash fired, auto, red-eye reduction
 [Exif SubIFD - 0x920a] Focal Length = 11.9 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00

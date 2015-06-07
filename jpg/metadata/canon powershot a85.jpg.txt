@@ -22,7 +22,7 @@ FILE: Canon PowerShot A85.jpg
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (28018)
 [Canon Makernote - 0xc114] Exposure Mode = Unknown (24951)
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 25970
-[Canon Makernote - 0xc116] Unknown Camera Setting 8 = 22048
+[Canon Makernote - 0xc116] Lens Type = Lens type: 22048
 [Canon Makernote - 0xc117] Long Focal Length = 29285 28271
 [Canon Makernote - 0xc118] Short Focal Length = 26995 28271
 [Canon Makernote - 0xc119] Focal Units per mm = 28271
@@ -143,16 +143,16 @@ FILE: Canon PowerShot A85.jpg
 [Exif IFD0 - 0xa406] Scene Capture Type = Standard
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/160 sec
-[Exif SubIFD - 0x829d] F-Number = F6.3
+[Exif SubIFD - 0x829d] F-Number = f/6.3
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2005:01:31 05:51:17
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2005:01:31 05:51:17
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 3 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/158 sec
-[Exif SubIFD - 0x9202] Aperture Value = F6.3
+[Exif SubIFD - 0x9202] Aperture Value = f/6.3
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 5.406 mm

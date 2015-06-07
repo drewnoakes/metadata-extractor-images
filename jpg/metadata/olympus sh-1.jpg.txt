@@ -17,7 +17,7 @@ FILE: Olympus SH-1.jpg
 [Exif IFD0 - 0xc4a5] Print IM = [690 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.01 sec
-[Exif SubIFD - 0x829d] F-Number = F4.4
+[Exif SubIFD - 0x829d] F-Number = f/4.4
 [Exif SubIFD - 0x8822] Exposure Program = Program creative (slow program)
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 400
 [Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity
@@ -26,7 +26,7 @@ FILE: Olympus SH-1.jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:05:15 12:31:32
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0.7 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.0
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

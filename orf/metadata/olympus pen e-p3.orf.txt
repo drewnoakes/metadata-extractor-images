@@ -32,16 +32,16 @@ FILE: Olympus PEN E-P3.orf
 [Exif IFD0 - 0xc4a5] Print IM = [528 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
-[Exif SubIFD - 0x829d] F-Number = F1.8
+[Exif SubIFD - 0x829d] F-Number = f/1.8
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 1600
 [Exif SubIFD - 0x9000] Exif Version = 2.21
 [Exif SubIFD - 0x9003] Date/Time Original = 2013:08:27 19:45:23
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2013:08:27 19:45:23
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F1.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/1.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9208] White Balance = Unknown (9)
+[Exif SubIFD - 0x9208] White Balance = Fine Weather
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 17.0 mm
 [Exif SubIFD - 0x9286] User Comment = 

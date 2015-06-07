@@ -16,16 +16,16 @@ FILE: Canon EOS-1D Mark III (via Adobe Lightroom).jpg
 [Exif IFD0 - 0x8298] Copyright = iptc copyright-copyright
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/640 sec
-[Exif SubIFD - 0x829d] F-Number = F5.6
+[Exif SubIFD - 0x829d] F-Number = f/5.6
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
 [Exif SubIFD - 0x9000] Exif Version = 2.21
 [Exif SubIFD - 0x9003] Date/Time Original = 2008:09:20 09:01:07
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2008:09:20 09:01:07
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/639 sec
-[Exif SubIFD - 0x9202] Aperture Value = F5.6
+[Exif SubIFD - 0x9202] Aperture Value = f/5.6
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2.8
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 200.0 mm

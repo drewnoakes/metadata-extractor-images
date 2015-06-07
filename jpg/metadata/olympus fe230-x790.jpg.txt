@@ -15,16 +15,16 @@ FILE: Olympus FE230-X790.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2008:12:09 21:03:56
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/160 sec
-[Exif SubIFD - 0x829d] F-Number = F4.6
+[Exif SubIFD - 0x829d] F-Number = f/4.6
 [Exif SubIFD - 0x8822] Exposure Program = Program creative (slow program)
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 50
 [Exif SubIFD - 0x9000] Exif Version = 2.21
 [Exif SubIFD - 0x9003] Date/Time Original = 2008:12:07 10:28:52
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2008:12:07 10:28:52
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/159 sec
-[Exif SubIFD - 0x9202] Aperture Value = F4.6
+[Exif SubIFD - 0x9202] Aperture Value = f/4.6
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.1
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.1
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto

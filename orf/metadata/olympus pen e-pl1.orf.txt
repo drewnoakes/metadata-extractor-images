@@ -30,14 +30,14 @@ FILE: Olympus Pen E-PL1.orf
 [Exif IFD0 - 0xc4a5] Print IM = [528 bytes]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
-[Exif SubIFD - 0x829d] F-Number = F3.9
+[Exif SubIFD - 0x829d] F-Number = f/3.9
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 200
 [Exif SubIFD - 0x9000] Exif Version = 2.21
 [Exif SubIFD - 0x9003] Date/Time Original = 2011:10:18 15:36:36
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2011:10:18 15:36:36
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.5
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired, auto

@@ -10,7 +10,7 @@ FILE: Canon EOS-1DS (after Noise Ninja).jpg
 [Exif IFD0 - 0x0132] Date/Time = 2004:08:02 11:11:51
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/125 sec
-[Exif SubIFD - 0x829d] F-Number = F8
+[Exif SubIFD - 0x829d] F-Number = f/8.0
 [Exif SubIFD - 0x8822] Exposure Program = Manual control
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 125
 [Exif SubIFD - 0x9000] Exif Version = 2.20
@@ -18,7 +18,7 @@ FILE: Canon EOS-1DS (after Noise Ninja).jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2004:07:24 13:06:01
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/127 sec
-[Exif SubIFD - 0x9202] Aperture Value = F8
+[Exif SubIFD - 0x9202] Aperture Value = f/8.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire

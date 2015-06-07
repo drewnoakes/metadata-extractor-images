@@ -22,7 +22,7 @@ FILE: Canon PowerShot G2 (1).jpg
 [Canon Makernote - 0xc113] AF Point Selected = Centre
 [Canon Makernote - 0xc114] Exposure Mode = Program
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 65535
-[Canon Makernote - 0xc116] Unknown Camera Setting 8 = 65535
+[Canon Makernote - 0xc116] Lens Type = Lens type: 65535
 [Canon Makernote - 0xc117] Long Focal Length = 672 32
 [Canon Makernote - 0xc118] Short Focal Length = 224 32
 [Canon Makernote - 0xc119] Focal Units per mm = 32
@@ -90,16 +90,16 @@ FILE: Canon PowerShot G2 (1).jpg
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/640 sec
-[Exif SubIFD - 0x829d] F-Number = F4
+[Exif SubIFD - 0x829d] F-Number = f/4.0
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0x9003] Date/Time Original = 2003:01:09 19:07:57
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2003:01:09 19:07:57
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 5 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/635 sec
-[Exif SubIFD - 0x9202] Aperture Value = F4
+[Exif SubIFD - 0x9202] Aperture Value = f/4.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F2
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.0
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 21.0 mm

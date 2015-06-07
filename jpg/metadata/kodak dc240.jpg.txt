@@ -10,15 +10,15 @@ FILE: Kodak DC240.jpg
 [Exif IFD0 - 0x8298] Copyright = KODAK DC240 ZOOM DIGITAL CAMERA 
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
-[Exif SubIFD - 0x829d] F-Number = F4
+[Exif SubIFD - 0x829d] F-Number = f/4.0
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 1999:05:25 21:00:09
 [Exif SubIFD - 0x9004] Date/Time Digitized = 1999:05:25 21:00:09
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/32 sec
-[Exif SubIFD - 0x9202] Aperture Value = F4
+[Exif SubIFD - 0x9202] Aperture Value = f/4.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9205] Max Aperture Value = F3.7
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.7
 [Exif SubIFD - 0x9207] Metering Mode = Average
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired
