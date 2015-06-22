@@ -1,6 +1,6 @@
 FILE: FujiFilm FinePixS1Pro (5).jpg
 
-[Adobe JPEG - 0x0000] DCT Encode Version = 1
+[Adobe JPEG - 0x0000] DCT Encode Version = 25600
 [Adobe JPEG - 0x0001] Flags 0 = 64
 [Adobe JPEG - 0x0002] Flags 1 = 0
 [Adobe JPEG - 0x0003] Color Transform = YCbCr
