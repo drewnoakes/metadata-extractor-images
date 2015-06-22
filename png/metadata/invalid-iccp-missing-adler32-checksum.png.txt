@@ -35,6 +35,7 @@ FILE: invalid-iCCP-missing-adler32-checksum.png
 [ICC Profile - 0x74656368] Technology = CRT 
 
 [PNG Chromaticities - 0x0001] White Point X = 31269
+[PNG Chromaticities - 0x0002] White Point Y = 32899
 [PNG Chromaticities - 0x0003] Red X = 63999
 [PNG Chromaticities - 0x0004] Red Y = 32998
 [PNG Chromaticities - 0x0005] Green X = 29998
