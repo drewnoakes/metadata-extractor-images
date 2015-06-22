@@ -49,7 +49,7 @@ FILE: Olympus E-M5.jpg
 [Exif SubIFD - 0xa432] Lens Specification = 12/1 50/1 35/10 63/10
 [Exif SubIFD - 0xa434] Lens Model = OLYMPUS M.12-50mm F3.5-6.3
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

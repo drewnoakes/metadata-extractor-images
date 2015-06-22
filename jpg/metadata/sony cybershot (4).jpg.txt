@@ -37,7 +37,7 @@ FILE: Sony Cybershot (4).jpg
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010f] Make = SONY
 [Exif Thumbnail - 0x0110] Model = CYBERSHOT
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)

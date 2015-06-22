@@ -16,7 +16,7 @@ FILE: Nokia 3110c (Mobile Phone).jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 1024 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1280 pixels
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

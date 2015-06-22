@@ -169,7 +169,7 @@ FILE: Canon EOS 20D (2).jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 9286 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3273 bytes
 

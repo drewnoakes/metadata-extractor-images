@@ -51,7 +51,7 @@ FILE: Nikon D3300.jpg
 [Exif SubIFD - 0xa432] Lens Specification = 180/10 550/10 35/10 56/10
 [Exif SubIFD - 0xa434] Lens Model = 18.0-55.0 mm f/3.5-5.6
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

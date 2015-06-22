@@ -56,7 +56,7 @@ FILE: Nikon D40.jpg
 [Exif SubIFD - 0xea1c] Padding = [2060 bytes]
 [Exif SubIFD - 0xea1d] Unknown tag (0xea1d) = 4122
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 1/96 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 1/96 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

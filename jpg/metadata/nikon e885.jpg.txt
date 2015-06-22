@@ -39,7 +39,7 @@ FILE: Nikon E885.jpg
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

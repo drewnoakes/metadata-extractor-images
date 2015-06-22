@@ -187,7 +187,7 @@ FILE: Canon EOS 70D.cr2
 [Exif Thumbnail - 0x0100] Image Width = 5568 pixels
 [Exif Thumbnail - 0x0101] Image Height = 3708 pixels
 [Exif Thumbnail - 0x0102] Bits Per Sample = 16 16 16 bits/component/pixel
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0106] Photometric Interpretation = RGB
 [Exif Thumbnail - 0x0111] Strip Offsets = 2249532
 [Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel

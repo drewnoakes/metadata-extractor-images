@@ -40,7 +40,7 @@ FILE: Sony DSC-HX5V.jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010f] Make = SONY
 [Exif Thumbnail - 0x0110] Model = DSC-HX5V
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)

@@ -31,7 +31,7 @@ FILE: Minolta DiMAGE S304.jpg
 [Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
 [Exif SubIFD - 0xa004] Related Sound File = PICT0057.WAV
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch

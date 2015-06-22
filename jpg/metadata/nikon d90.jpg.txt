@@ -49,7 +49,7 @@ FILE: Nikon D90.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

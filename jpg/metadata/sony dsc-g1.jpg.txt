@@ -41,7 +41,7 @@ FILE: Sony DSC-G1.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa420] Unique Image ID = 00000000000000000000000000000009
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010e] Image Description =                                
 [Exif Thumbnail - 0x010f] Make = SONY
 [Exif Thumbnail - 0x0110] Model = DSC-G1

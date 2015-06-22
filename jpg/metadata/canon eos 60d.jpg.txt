@@ -172,7 +172,7 @@ FILE: Canon EOS 60D.jpg
 [Exif SubIFD - 0xa434] Lens Model = EF-S15-85mm f/3.5-5.6 IS USM
 [Exif SubIFD - 0xa435] Lens Serial Number = 00002000f3
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

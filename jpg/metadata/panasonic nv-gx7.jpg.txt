@@ -19,7 +19,7 @@ FILE: Panasonic NV-GX7.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 1280 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 960 pixels
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010f] Make = Panasonic
 [Exif Thumbnail - 0x0110] Model = NV-GX7       
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)

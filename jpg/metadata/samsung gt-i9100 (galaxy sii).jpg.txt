@@ -40,7 +40,7 @@ FILE: Samsung GT-I9100 (Galaxy SII).jpg
 
 [Exif Thumbnail - 0x0100] Image Width = 320 pixels
 [Exif Thumbnail - 0x0101] Image Height = 240 pixels
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Right side, top (Rotate 90 CW)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch

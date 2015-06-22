@@ -46,7 +46,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [Exif SubIFD - 0xa434] Lens Model = Samsung 18-55 f/3.5-5.6 OIS
 [Exif SubIFD - 0xa435] Lens Serial Number = 174900526210
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

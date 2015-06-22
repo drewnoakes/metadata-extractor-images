@@ -43,7 +43,7 @@ FILE: Samsung NX1.jpg
 [Exif SubIFD - 0xa434] Lens Model = NX 50-150mm F2.8 S
 [Exif SubIFD - 0xa432] Lens Specification = 50/1 150/1 28/10 28/10
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 350 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 350 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

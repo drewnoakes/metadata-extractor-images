@@ -116,7 +116,7 @@ FILE: Canon IXUS v3.jpg
 [Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 78/768000 inches
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 180 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

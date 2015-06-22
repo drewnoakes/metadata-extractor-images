@@ -29,7 +29,7 @@ FILE: FujiFilm DX-5.jpg
 [Exif Thumbnail - 0x0100] Image Width = 80 pixels
 [Exif Thumbnail - 0x0101] Image Height = 60 pixels
 [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
-[Exif Thumbnail - 0x0103] Thumbnail Compression = Uncompressed
+[Exif Thumbnail - 0x0103] Compression = Uncompressed
 [Exif Thumbnail - 0x0106] Photometric Interpretation = YCbCr
 [Exif Thumbnail - 0x0111] Strip Offsets = 812
 [Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel

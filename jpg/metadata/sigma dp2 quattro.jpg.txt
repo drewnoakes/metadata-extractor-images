@@ -38,7 +38,7 @@ FILE: Sigma DP2 Quattro.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa420] Unique Image ID = 30303030303030300000000037384141
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 180 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

@@ -39,7 +39,7 @@ FILE: Sigma DP1.jpg
 [Exif SubIFD - 0xa420] Unique Image ID = 303130303134303374a68b8031376134
 [Exif SubIFD - 0xa500] Gamma = 0
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 180 dots per inch

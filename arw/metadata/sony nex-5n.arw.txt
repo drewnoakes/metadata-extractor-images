@@ -56,7 +56,7 @@ FILE: Sony NEX-5N.arw
 [Exif SubIFD - 0xa434] Lens Model = E 24mm F1.8 ZA
 
 [Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010e] Image Description =                                
 [Exif Thumbnail - 0x010f] Make = SONY
 [Exif Thumbnail - 0x0110] Model = NEX-5N

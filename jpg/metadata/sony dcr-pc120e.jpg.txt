@@ -28,7 +28,7 @@ FILE: Sony DCR-PC120E.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 1360 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1020 pixels
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010f] Make = SONY
 [Exif Thumbnail - 0x0110] Model = DCR-PC120E 
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)

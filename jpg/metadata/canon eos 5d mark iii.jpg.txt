@@ -173,7 +173,7 @@ FILE: Canon EOS 5D Mark III.jpg
 [Exif SubIFD - 0xa434] Lens Model = EF24-105mm f/4L IS USM
 [Exif SubIFD - 0xa435] Lens Serial Number = 000016682c
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

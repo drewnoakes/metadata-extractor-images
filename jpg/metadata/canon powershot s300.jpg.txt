@@ -114,7 +114,7 @@ FILE: Canon PowerShot S300.jpg
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 180 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch

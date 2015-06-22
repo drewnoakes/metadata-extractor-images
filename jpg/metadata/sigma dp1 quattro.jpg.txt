@@ -55,7 +55,7 @@ FILE: Sigma DP1 Quattro.jpg
 [Exif SubIFD - 0xa434] Lens Model = 1006
 [Exif SubIFD - 0xa500] Gamma = 2.2
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010f] Make = SIGMA
 [Exif Thumbnail - 0x0110] Model = SIGMA dp1 Quattro
 [Exif Thumbnail - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)

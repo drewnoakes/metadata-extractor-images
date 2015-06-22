@@ -43,7 +43,7 @@ FILE: Samsung NX3000.jpg
 [Exif SubIFD - 0xa432] Lens Specification = 16/1 50/1 35/10 220/10
 [Exif SubIFD - 0xa434] Lens Model = NX 16-50mm F3.5-5.6 Power Zoom
 
-[Exif Thumbnail - 0x0103] Thumbnail Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
