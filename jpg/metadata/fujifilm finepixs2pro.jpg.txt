@@ -86,7 +86,7 @@ FILE: FujiFilm FinePixS2Pro.jpg
 [ICC Profile - 0x646d6e64] Device Mfg Description = IEC http://www.iec.ch
 [ICC Profile - 0x646d6464] Device Model Description = IEC 61966-2.1 Default RGB colour space - sRGB
 [ICC Profile - 0x76756564] Viewing Conditions Description = Reference Viewing Condition in IEC61966-2.1
-[ICC Profile - 0x76696577] Viewing Conditions = view(0x76696577): 36 bytes
+[ICC Profile - 0x76696577] Viewing Conditions = view (0x76696577): 36 bytes
 [ICC Profile - 0x6c756d69] Luminance = (76.03647, 80.0, 87.12462)
 [ICC Profile - 0x6d656173] Measurement = 1931 2° Observer, Backing (0.0, 0.0, 0.0), Geometry Unknown, Flare 1%, Illuminant D65
 [ICC Profile - 0x74656368] Technology = CRT 

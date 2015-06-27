@@ -49,13 +49,13 @@ FILE: Multiple ICC segments.jpg
 [ICC Profile - 0x64657363] Profile Description = U.S. Web Coated (SWOP) v2
 [ICC Profile - 0x63707274] Copyright = Copyright 2000 Adobe Systems, Inc.
 [ICC Profile - 0x77747074] Media White Point = (0.7084, 0.73595, 0.57104)
-[ICC Profile - 0x41324230] AToB 0 = mft2(0x6D667432): 41478 bytes
-[ICC Profile - 0x41324232] AToB 2 = mft2(0x6D667432): 41478 bytes
-[ICC Profile - 0x41324231] AToB 1 = mft2(0x6D667432): 41478 bytes
-[ICC Profile - 0x42324130] BToA 0 = mft1(0x6D667431): 145588 bytes
-[ICC Profile - 0x42324131] BToA 1 = mft1(0x6D667431): 145588 bytes
-[ICC Profile - 0x42324132] BToA 2 = mft1(0x6D667431): 145588 bytes
-[ICC Profile - 0x67616d74] Gamut = mft1(0x6D667431): 37009 bytes
+[ICC Profile - 0x41324230] AToB 0 = mft2 (0x6D667432): 41478 bytes
+[ICC Profile - 0x41324232] AToB 2 = mft2 (0x6D667432): 41478 bytes
+[ICC Profile - 0x41324231] AToB 1 = mft2 (0x6D667432): 41478 bytes
+[ICC Profile - 0x42324130] BToA 0 = mft1 (0x6D667431): 145588 bytes
+[ICC Profile - 0x42324131] BToA 1 = mft1 (0x6D667431): 145588 bytes
+[ICC Profile - 0x42324132] BToA 2 = mft1 (0x6D667431): 145588 bytes
+[ICC Profile - 0x67616d74] Gamut = mft1 (0x6D667431): 37009 bytes
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 32767
