@@ -2,7 +2,7 @@ FILE: Canon EOS 5D Mark II.jpg
 
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 98
 [Canon Makernote - 0xc101] Macro Mode = Normal
-[Canon Makernote - 0xc102] Self Timer Delay = 2.0 sec
+[Canon Makernote - 0xc102] Self Timer Delay = 2 sec
 [Canon Makernote - 0xc103] Quality = Fine
 [Canon Makernote - 0xc104] Flash Mode = No flash fired
 [Canon Makernote - 0xc105] Continuous Drive Mode = Single shot with self-timer

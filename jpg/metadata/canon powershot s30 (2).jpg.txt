@@ -4,7 +4,7 @@ FILE: Canon PowerShot S30 (2).jpg
 
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 10
 [Canon Makernote - 0xc101] Macro Mode = Unknown (0)
-[Canon Makernote - 0xc102] Self Timer Delay = 1.7000000000000002 sec
+[Canon Makernote - 0xc102] Self Timer Delay = 1.7 sec
 [Canon Makernote - 0xc103] Quality = Normal
 [Canon Makernote - 0xc104] Flash Mode = Unknown (71)
 [Canon Makernote - 0xc105] Continuous Drive Mode = Unknown (364)
