@@ -80,7 +80,7 @@ FILE: Pentax 645D.jpg
 [Casio Makernote - 0x0221] Unknown tag (0x0221) = [138 bytes]
 [Casio Makernote - 0x0222] Unknown tag (0x0222) = [18 bytes]
 [Casio Makernote - 0x0226] Unknown tag (0x0226) = 28 -21 -25 7 54 49 -25 30 47 121 -25
-[Casio Makernote - 0x0229] Unknown tag (0x0229) = H��@a��[�犴\�q���
+[Casio Makernote - 0x0229] Unknown tag (0x0229) = H‡ç@aÎç[›çŠ´\æq­ëæd
 [Casio Makernote - 0x022a] Unknown tag (0x022a) = [175 bytes]
 [Casio Makernote - 0x022b] Unknown tag (0x022b) = 63 -90 -29 -82 88 -34 -30 71
 [Casio Makernote - 0x022c] Unknown tag (0x022c) = [46 bytes]

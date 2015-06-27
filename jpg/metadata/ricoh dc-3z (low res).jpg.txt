@@ -11,7 +11,7 @@ FILE: Ricoh DC-3Z (low res).jpg
 [Exif IFD0 - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
-[Exif IFD0 - 0x8298] Copyright = (C)Hendrik W�rdehoff     
+[Exif IFD0 - 0x8298] Copyright = (C)Hendrik Wördehoff     
 
 [Exif SubIFD - 0x9000] Exif Version = 1.10
 [Exif SubIFD - 0x9003] Date/Time Original = 1997:02:02 00:50:30
