@@ -170,10 +170,10 @@ FILE: Canon PowerShot SD850 IS.jpg
 [ICC Profile - 0x0030] Device manufacturer = appl
 [ICC Profile - 0x0044] XYZ values = 0.9642029 1.0 0.8249054
 [ICC Profile - 0x0080] Tag Count = 11
-[ICC Profile - 0x7258595a] Red Colorant = (0.4542694, 0.24263, 0.014816284)
-[ICC Profile - 0x6758595a] Green Colorant = (0.35331726, 0.67440796, 0.090423584)
-[ICC Profile - 0x6258595a] Blue Colorant = (0.15661621, 0.083358765, 0.7195282)
-[ICC Profile - 0x77747074] Media White Point = (0.95047, 1.0, 1.0890961)
+[ICC Profile - 0x7258595a] Red Colorant = (0.45427, 0.24263, 0.01482)
+[ICC Profile - 0x6758595a] Green Colorant = (0.35332, 0.67441, 0.09042)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.15662, 0.08336, 0.71953)
+[ICC Profile - 0x77747074] Media White Point = (0.95047, 1.0, 1.0891)
 [ICC Profile - 0x63686164] Chromatic Adaptation = sf32(0x73663332): 44 bytes
 [ICC Profile - 0x72545243] Red TRC = 0.0085908
 [ICC Profile - 0x67545243] Green TRC = 0.0085908

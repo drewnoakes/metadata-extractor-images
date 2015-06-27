@@ -80,11 +80,11 @@ FILE: FujiFilm FinePixS1Pro (5).jpg
 [ICC Profile - 0x0080] Tag Count = 17
 [ICC Profile - 0x63707274] Copyright = Copyright (c) 1998 Hewlett-Packard Company
 [ICC Profile - 0x64657363] Profile Description = sRGB IEC61966-2.1
-[ICC Profile - 0x77747074] Media White Point = (0.9504547, 1.0, 1.0890503)
+[ICC Profile - 0x77747074] Media White Point = (0.95045, 1.0, 1.08905)
 [ICC Profile - 0x626b7074] Media Black Point = (0.0, 0.0, 0.0)
-[ICC Profile - 0x7258595a] Red Colorant = (0.43606567, 0.2224884, 0.013916016)
-[ICC Profile - 0x6758595a] Green Colorant = (0.3851471, 0.71687317, 0.097076416)
-[ICC Profile - 0x6258595a] Blue Colorant = (0.1430664, 0.06060791, 0.71409607)
+[ICC Profile - 0x7258595a] Red Colorant = (0.43607, 0.22249, 0.01392)
+[ICC Profile - 0x6758595a] Green Colorant = (0.38515, 0.71687, 0.09708)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.14307, 0.06061, 0.7141)
 [ICC Profile - 0x646d6e64] Device Mfg Description = IEC http://www.iec.ch
 [ICC Profile - 0x646d6464] Device Model Description = IEC 61966-2.1 Default RGB colour space - sRGB
 [ICC Profile - 0x76756564] Viewing Conditions Description = Reference Viewing Condition in IEC61966-2.1

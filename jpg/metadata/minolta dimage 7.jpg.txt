@@ -57,13 +57,13 @@ FILE: Minolta DiMAGE 7.jpg
 [ICC Profile - 0x0080] Tag Count = 9
 [ICC Profile - 0x63707274] Copyright = Copyright 2001 Minolta Co.,Ltd.
 [ICC Profile - 0x64657363] Profile Description = sRGB (Minolta Co.,Ltd.)
-[ICC Profile - 0x7258595a] Red Colorant = (0.4360962, 0.2224884, 0.013885498)
-[ICC Profile - 0x6758595a] Green Colorant = (0.38508606, 0.7168884, 0.097091675)
-[ICC Profile - 0x6258595a] Blue Colorant = (0.14309692, 0.06059265, 0.71409607)
+[ICC Profile - 0x7258595a] Red Colorant = (0.4361, 0.22249, 0.01389)
+[ICC Profile - 0x6758595a] Green Colorant = (0.38509, 0.71689, 0.09709)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1431, 0.06059, 0.7141)
 [ICC Profile - 0x72545243] Red TRC = 0.0085908
 [ICC Profile - 0x67545243] Green TRC = 0.0085908
 [ICC Profile - 0x62545243] Blue TRC = 0.0085908
-[ICC Profile - 0x77747074] Media White Point = (0.9504852, 1.0, 1.0890961)
+[ICC Profile - 0x77747074] Media White Point = (0.95049, 1.0, 1.0891)
 
 [JFIF - 0x0005] Version = 1.1
 [JFIF - 0x0007] Resolution Units = none

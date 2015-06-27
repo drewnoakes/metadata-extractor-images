@@ -48,7 +48,7 @@ FILE: Multiple ICC segments.jpg
 [ICC Profile - 0x0080] Tag Count = 10
 [ICC Profile - 0x64657363] Profile Description = U.S. Web Coated (SWOP) v2
 [ICC Profile - 0x63707274] Copyright = Copyright 2000 Adobe Systems, Inc.
-[ICC Profile - 0x77747074] Media White Point = (0.70840454, 0.73594666, 0.5710449)
+[ICC Profile - 0x77747074] Media White Point = (0.7084, 0.73595, 0.57104)
 [ICC Profile - 0x41324230] AToB 0 = mft2(0x6D667432): 41478 bytes
 [ICC Profile - 0x41324232] AToB 2 = mft2(0x6D667432): 41478 bytes
 [ICC Profile - 0x41324231] AToB 1 = mft2(0x6D667432): 41478 bytes

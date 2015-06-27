@@ -58,13 +58,13 @@ FILE: Nikon E5700.jpg
 [ICC Profile - 0x0044] XYZ values = 0.9642029 1.0 0.8249054
 [ICC Profile - 0x0080] Tag Count = 9
 [ICC Profile - 0x64657363] Profile Description = Nikon sRGB 4.0.0.3000
-[ICC Profile - 0x7258595a] Red Colorant = (0.43606567, 0.22250366, 0.013916016)
-[ICC Profile - 0x6758595a] Green Colorant = (0.3850708, 0.71687317, 0.09706116)
-[ICC Profile - 0x6258595a] Blue Colorant = (0.14305115, 0.06060791, 0.71398926)
+[ICC Profile - 0x7258595a] Red Colorant = (0.43607, 0.2225, 0.01392)
+[ICC Profile - 0x6758595a] Green Colorant = (0.38507, 0.71687, 0.09706)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.14305, 0.06061, 0.71399)
 [ICC Profile - 0x72545243] Red TRC = 0.0085908
 [ICC Profile - 0x67545243] Green TRC = 0.0085908
 [ICC Profile - 0x62545243] Blue TRC = 0.0085908
-[ICC Profile - 0x77747074] Media White Point = (0.9505005, 1.0, 1.0890961)
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1.0, 1.0891)
 [ICC Profile - 0x63707274] Copyright = Nikon Inc. & Nikon Corporation 2001
 
 [JPEG - 0xfffffffd] Compression Type = Baseline

@@ -66,14 +66,14 @@ FILE: Canon EOS 7D.jpg
 [ICC Profile - 0x0080] Tag Count = 10
 [ICC Profile - 0x63707274] Copyright = Copyright 1999 Adobe Systems Incorporated
 [ICC Profile - 0x64657363] Profile Description = Adobe RGB (1998)
-[ICC Profile - 0x77747074] Media White Point = (0.9504547, 1.0, 1.0890503)
+[ICC Profile - 0x77747074] Media White Point = (0.95045, 1.0, 1.08905)
 [ICC Profile - 0x626b7074] Media Black Point = (0.0, 0.0, 0.0)
 [ICC Profile - 0x72545243] Red TRC = 0.0085908
 [ICC Profile - 0x67545243] Green TRC = 0.0085908
 [ICC Profile - 0x62545243] Blue TRC = 0.0085908
-[ICC Profile - 0x7258595a] Red Colorant = (0.6097412, 0.31111145, 0.019470215)
-[ICC Profile - 0x6758595a] Green Colorant = (0.20527649, 0.6256714, 0.06086731)
-[ICC Profile - 0x6258595a] Blue Colorant = (0.14918518, 0.06321716, 0.7445679)
+[ICC Profile - 0x7258595a] Red Colorant = (0.60974, 0.31111, 0.01947)
+[ICC Profile - 0x6758595a] Green Colorant = (0.20528, 0.62567, 0.06087)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.14919, 0.06322, 0.74457)
 
 [IPTC - 0x0200] Application Record Version = 2
 [IPTC - 0x0250] By-line = Peter Bemmann
