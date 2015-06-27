@@ -48,7 +48,7 @@ FILE: Canon PowerShot S330.jpg
 
 [File - 0x0001] File Name = Canon PowerShot S330.jpg
 [File - 0x0002] File Size = 25248 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

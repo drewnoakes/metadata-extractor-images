@@ -13,7 +13,7 @@ FILE: 256color-10x10.bmp
 
 [File - 0x0001] File Name = 256color-10x10.bmp
 [File - 0x0002] File Size = 1198 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:13:08 GMT 2015
+[File - 0x0003] File Modified Date = Fri Jan 23 00:13:08 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

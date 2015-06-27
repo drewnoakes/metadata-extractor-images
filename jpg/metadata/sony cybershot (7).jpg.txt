@@ -7,7 +7,7 @@ FILE: Sony Cybershot (7).jpg
 
 [File - 0x0001] File Name = Sony Cybershot (7).jpg
 [File - 0x0002] File Size = 42842 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 +00:00 2013
 
 [JFIF - 0x0005] Version = 1.2
 [JFIF - 0x0007] Resolution Units = inch

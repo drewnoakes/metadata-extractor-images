@@ -59,7 +59,7 @@ FILE: Nikon D3100.jpg
 
 [File - 0x0001] File Name = Nikon D3100.jpg
 [File - 0x0002] File Size = 3500401 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:50:05 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 20:50:05 +00:00 2015
 
 [GPS - 0x0000] GPS Version ID = 2.200
 

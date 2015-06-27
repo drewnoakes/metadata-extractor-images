@@ -64,7 +64,7 @@ FILE: Olympus E-M5.orf
 
 [File - 0x0001] File Name = Olympus E-M5.orf
 [File - 0x0002] File Size = 14195656 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 21:39:54 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 21:39:54 +00:00 2015
 
 [Olympus Makernote - 0x0003] Camera Settings = [459008 values]
 

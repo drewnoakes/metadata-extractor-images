@@ -67,7 +67,7 @@ FILE: Leica X VARIO (Typ 107).dng
 
 [File - 0x0001] File Name = Leica X VARIO (Typ 107).dng
 [File - 0x0002] File Size = 24466014 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:33:51 GMT 2015
+[File - 0x0003] File Modified Date = Fri Jan 23 00:33:51 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

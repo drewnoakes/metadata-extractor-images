@@ -2,7 +2,7 @@ FILE: Issue 62.png
 
 [File - 0x0001] File Name = Issue 62.png
 [File - 0x0002] File Size = 47975 bytes
-[File - 0x0003] File Modified Date = Fri Feb 13 22:14:59 GMT 2015
+[File - 0x0003] File Modified Date = Fri Feb 13 22:14:59 +00:00 2015
 
 [PNG-IHDR - 0x0001] Image Width = 23
 [PNG-IHDR - 0x0002] Image Height = 25

@@ -33,7 +33,7 @@ FILE: Kodak CLAS Digital Film Scanner HR200 (1).jpg
 
 [File - 0x0001] File Name = Kodak CLAS Digital Film Scanner HR200 (1).jpg
 [File - 0x0002] File Size = 204388 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 [JFIF - 0x0005] Version = 1.2
 [JFIF - 0x0007] Resolution Units = none

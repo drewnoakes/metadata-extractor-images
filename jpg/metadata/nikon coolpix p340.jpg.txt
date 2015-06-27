@@ -55,11 +55,11 @@ FILE: Nikon Coolpix P340.jpg
 
 [File - 0x0001] File Name = Nikon Coolpix P340.jpg
 [File - 0x0002] File Size = 4859738 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:43:53 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 20:43:53 +00:00 2015
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
-[IPTC - 0x0237] Date Created = Sun Apr 13 00:00:00 BST 2014
+[IPTC - 0x0237] Date Created = Sun Apr 13 00:00:00 +01:00 2014
 [IPTC - 0x023c] Time Created = 13:42:27
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)

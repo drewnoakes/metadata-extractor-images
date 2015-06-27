@@ -2,7 +2,7 @@ FILE: photoshop-8x12-32colors-alpha.gif
 
 [File - 0x0001] File Name = photoshop-8x12-32colors-alpha.gif
 [File - 0x0002] File Size = 1243 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:12:38 GMT 2015
+[File - 0x0003] File Modified Date = Fri Jan 23 00:12:38 +00:00 2015
 
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 8

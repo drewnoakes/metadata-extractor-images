@@ -67,7 +67,7 @@ FILE: Sony ILCE-5000 (A5000).jpg
 
 [File - 0x0001] File Name = Sony ILCE-5000 (A5000).jpg
 [File - 0x0002] File Size = 5570560 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:37:57 GMT 2015
+[File - 0x0003] File Modified Date = Fri Jan 23 00:37:57 +00:00 2015
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

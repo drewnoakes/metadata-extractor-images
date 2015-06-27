@@ -57,7 +57,7 @@ FILE: Olympus SP-100EE.jpg
 
 [File - 0x0001] File Name = Olympus SP-100EE.jpg
 [File - 0x0002] File Size = 7287126 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:36:54 GMT 2015
+[File - 0x0003] File Modified Date = Fri Jan 23 00:36:54 +00:00 2015
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

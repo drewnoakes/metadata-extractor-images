@@ -59,7 +59,7 @@ FILE: FujiFilm X10.jpg
 
 [File - 0x0001] File Name = FujiFilm X10.jpg
 [File - 0x0002] File Size = 4886399 bytes
-[File - 0x0003] File Modified Date = Fri Feb 01 20:21:31 GMT 2013
+[File - 0x0003] File Modified Date = Fri Feb 01 20:21:31 +00:00 2013
 
 [Fujifilm Makernote - 0x0000] Makernote Version = 1.30
 [Fujifilm Makernote - 0x0010] Serial Number = FPX 21380391     5931303232331210160D2030210470

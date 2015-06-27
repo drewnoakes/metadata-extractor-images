@@ -181,7 +181,7 @@ FILE: Canon EOS Kiss X6i.jpg
 
 [File - 0x0001] File Name = Canon EOS Kiss X6i.jpg
 [File - 0x0002] File Size = 5269435 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:16:01 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 20:16:01 +00:00 2015
 
 [GPS - 0x0000] GPS Version ID = 2.300
 

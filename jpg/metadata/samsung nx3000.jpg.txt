@@ -53,7 +53,7 @@ FILE: Samsung NX3000.jpg
 
 [File - 0x0001] File Name = Samsung NX3000.jpg
 [File - 0x0002] File Size = 8456655 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 21:34:00 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 21:34:00 +00:00 2015
 
 [Interoperability - 0x0001] Interoperability Index = Unknown ()
 [Interoperability - 0x0002] Interoperability Version = 1.00

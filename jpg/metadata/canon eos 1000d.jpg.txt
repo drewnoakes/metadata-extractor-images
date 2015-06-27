@@ -163,7 +163,7 @@ FILE: Canon EOS 1000D.jpg
 
 [File - 0x0001] File Name = Canon EOS 1000D.jpg
 [File - 0x0002] File Size = 2534495 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:18:05 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 20:18:05 +00:00 2015
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

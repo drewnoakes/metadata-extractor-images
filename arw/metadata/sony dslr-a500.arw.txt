@@ -66,7 +66,7 @@ FILE: Sony DSLR-A500.arw
 
 [File - 0x0001] File Name = Sony DSLR-A500.arw
 [File - 0x0002] File Size = 13172736 bytes
-[File - 0x0003] File Modified Date = Thu Jan 22 19:22:47 GMT 2015
+[File - 0x0003] File Modified Date = Thu Jan 22 19:22:47 +00:00 2015
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

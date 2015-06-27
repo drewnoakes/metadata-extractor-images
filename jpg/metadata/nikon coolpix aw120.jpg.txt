@@ -55,7 +55,7 @@ FILE: Nikon Coolpix AW120.jpg
 
 [File - 0x0001] File Name = Nikon Coolpix AW120.jpg
 [File - 0x0002] File Size = 6028067 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:45:52 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 20:45:52 +00:00 2015
 
 [GPS - 0x0000] GPS Version ID = 2.300
 [GPS - 0x0001] GPS Latitude Ref = N

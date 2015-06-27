@@ -54,7 +54,7 @@ FILE: Sony DSC-HX5V (2).jpg
 
 [File - 0x0001] File Name = Sony DSC-HX5V (2).jpg
 [File - 0x0002] File Size = 232540 bytes
-[File - 0x0003] File Modified Date = Thu Nov 20 22:52:43 GMT 2014
+[File - 0x0003] File Modified Date = Thu Nov 20 22:52:43 +00:00 2014
 
 [GPS - 0x0000] GPS Version ID = 2.200
 [GPS - 0x0001] GPS Latitude Ref = N

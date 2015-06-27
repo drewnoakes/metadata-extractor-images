@@ -53,7 +53,7 @@ FILE: Nikon D1X.webp
 
 [File - 0x0001] File Name = Nikon D1X.webp
 [File - 0x0002] File Size = 19944 bytes
-[File - 0x0003] File Modified Date = Mon Feb 09 21:23:15 GMT 2015
+[File - 0x0003] File Modified Date = Mon Feb 09 21:23:15 +00:00 2015
 
 [GPS - 0x0000] GPS Version ID = 2.200
 

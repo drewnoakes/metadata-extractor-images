@@ -59,7 +59,7 @@ FILE: Olympus PEN E-P3.jpg
 
 [File - 0x0001] File Name = Olympus PEN E-P3.jpg
 [File - 0x0002] File Size = 234353 bytes
-[File - 0x0003] File Modified Date = Sat Jan 18 20:30:12 GMT 2014
+[File - 0x0003] File Modified Date = Sat Jan 18 20:30:12 +00:00 2014
 
 [Interoperability - 0x0001] Interoperability Index = Unknown (R03)
 [Interoperability - 0x0002] Interoperability Version = 1.00

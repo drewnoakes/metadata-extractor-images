@@ -56,7 +56,7 @@ FILE: Nikon D70.jpg
 
 [File - 0x0001] File Name = Nikon D70.jpg
 [File - 0x0002] File Size = 1602061 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 [IPTC - 0x0250] By-line = Drew Noakes
 [IPTC - 0x026e] Credit = Drew Noakes

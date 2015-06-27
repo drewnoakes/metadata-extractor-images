@@ -36,7 +36,7 @@ FILE: Nokia Lumia 1520.jpg
 
 [File - 0x0001] File Name = Nokia Lumia 1520.jpg
 [File - 0x0002] File Size = 4837421 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 21:01:00 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 21:01:00 +00:00 2015
 
 [GPS - 0xea1c] Padding = [2060 values]
 

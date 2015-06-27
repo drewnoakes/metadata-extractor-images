@@ -2,7 +2,7 @@ FILE: SWPIC7.PCX
 
 [File - 0x0001] File Name = SWPIC7.PCX
 [File - 0x0002] File Size = 171504 bytes
-[File - 0x0003] File Modified Date = Sat Feb 14 23:46:34 GMT 2015
+[File - 0x0003] File Modified Date = Sat Feb 14 23:46:34 +00:00 2015
 
 [PCX - 0x0001] Version = 3.0 or better
 [PCX - 0x0002] Bits Per Pixel = 8

@@ -55,7 +55,7 @@ FILE: FujiFilm FinePixS1Pro (5).jpg
 
 [File - 0x0001] File Name = FujiFilm FinePixS1Pro (5).jpg
 [File - 0x0002] File Size = 51010 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 [GPS - 0x0000] GPS Version ID = 2.000
 [GPS - 0x0001] GPS Latitude Ref = N
@@ -71,7 +71,7 @@ FILE: FujiFilm FinePixS1Pro (5).jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Mon Mar 09 06:49:00 GMT 1998
+[ICC Profile - 0x0018] Profile Date/Time = Mon Mar 09 06:49:00 +00:00 1998
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
 [ICC Profile - 0x0030] Device manufacturer = IEC 
@@ -105,7 +105,7 @@ FILE: FujiFilm FinePixS1Pro (5).jpg
 [IPTC - 0x026e] Credit = Ian Britton
 [IPTC - 0x0273] Source = FreeFoto.com
 [IPTC - 0x0205] Object Name = Wilts & Dorset Bus
-[IPTC - 0x0237] Date Created = Thu Sep 19 00:00:00 BST 2002
+[IPTC - 0x0237] Date Created = Thu Sep 19 00:00:00 +01:00 2002
 [IPTC - 0x025f] Province/State = Dorset
 [IPTC - 0x0265] Country/Primary Location Name = United Kingdom
 [IPTC - 0x020f] Category = BUS

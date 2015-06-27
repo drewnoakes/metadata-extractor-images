@@ -2,7 +2,7 @@ FILE: BlazRobar Thinking Head Icon Set.png
 
 [File - 0x0001] File Name = BlazRobar Thinking Head Icon Set.png
 [File - 0x0002] File Size = 89983 bytes
-[File - 0x0003] File Modified Date = Fri Sep 12 11:30:16 BST 2014
+[File - 0x0003] File Modified Date = Fri Sep 12 11:30:16 +01:00 2014
 
 [PNG-IHDR - 0x0001] Image Width = 600
 [PNG-IHDR - 0x0002] Image Height = 1399

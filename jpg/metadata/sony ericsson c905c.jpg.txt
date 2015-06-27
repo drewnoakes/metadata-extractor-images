@@ -42,7 +42,7 @@ FILE: Sony Ericsson C905c.jpg
 
 [File - 0x0001] File Name = Sony Ericsson C905c.jpg
 [File - 0x0002] File Size = 1625144 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 +00:00 2013
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

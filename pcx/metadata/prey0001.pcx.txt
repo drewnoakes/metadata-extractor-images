@@ -2,7 +2,7 @@ FILE: PREY0001.PCX
 
 [File - 0x0001] File Name = PREY0001.PCX
 [File - 0x0002] File Size = 48929 bytes
-[File - 0x0003] File Modified Date = Sat Feb 14 23:45:54 GMT 2015
+[File - 0x0003] File Modified Date = Sat Feb 14 23:45:54 +00:00 2015
 
 [PCX - 0x0001] Version = 3.0 or better
 [PCX - 0x0002] Bits Per Pixel = 8

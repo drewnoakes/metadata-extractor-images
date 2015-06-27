@@ -156,7 +156,7 @@ FILE: Canon PowerShot SD850 IS.jpg
 
 [File - 0x0001] File Name = Canon PowerShot SD850 IS.jpg
 [File - 0x0002] File Size = 3539861 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 [ICC Profile - 0x0000] Profile Size = 1352
 [ICC Profile - 0x0004] CMM Type = appl
@@ -164,7 +164,7 @@ FILE: Canon PowerShot SD850 IS.jpg
 [ICC Profile - 0x000c] Class = Input Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Fri Aug 01 01:00:00 BST 2003
+[ICC Profile - 0x0018] Profile Date/Time = Fri Aug 01 01:00:00 +01:00 2003
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
 [ICC Profile - 0x0030] Device manufacturer = appl

@@ -31,7 +31,7 @@ FILE: Multiple ICC segments.jpg
 
 [File - 0x0001] File Name = Multiple ICC segments.jpg
 [File - 0x0002] File Size = 580171 bytes
-[File - 0x0003] File Modified Date = Sun Feb 01 18:18:35 GMT 2015
+[File - 0x0003] File Modified Date = Sun Feb 01 18:18:35 +00:00 2015
 
 [ICC Profile - 0x0000] Profile Size = 557168
 [ICC Profile - 0x0004] CMM Type = ADBE
@@ -39,7 +39,7 @@ FILE: Multiple ICC segments.jpg
 [ICC Profile - 0x000c] Class = Output Device
 [ICC Profile - 0x0010] Color space = CMYK
 [ICC Profile - 0x0014] Profile Connection Space = Lab 
-[ICC Profile - 0x0018] Profile Date/Time = Sat Aug 26 06:41:53 BST 2000
+[ICC Profile - 0x0018] Profile Date/Time = Sat Aug 26 06:41:53 +01:00 2000
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
 [ICC Profile - 0x0030] Device manufacturer = ADBE

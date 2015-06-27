@@ -58,7 +58,7 @@ FILE: FujiFilm FinePixS5500.jpg
 
 [File - 0x0001] File Name = FujiFilm FinePixS5500.jpg
 [File - 0x0002] File Size = 970820 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 [Fujifilm Makernote - 0x0000] Makernote Version = 1.30
 [Fujifilm Makernote - 0x1000] Quality = NORMAL 

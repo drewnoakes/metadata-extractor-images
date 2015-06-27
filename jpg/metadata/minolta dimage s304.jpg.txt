@@ -42,7 +42,7 @@ FILE: Minolta DiMAGE S304.jpg
 
 [File - 0x0001] File Name = Minolta DiMAGE S304.jpg
 [File - 0x0002] File Size = 1783545 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 [ICC Profile - 0x0000] Profile Size = 524
 [ICC Profile - 0x0004] CMM Type = Win 
@@ -50,7 +50,7 @@ FILE: Minolta DiMAGE S304.jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Tue Oct 02 18:44:22 BST 2001
+[ICC Profile - 0x0018] Profile Date/Time = Tue Oct 02 18:44:22 +01:00 2001
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
 [ICC Profile - 0x0030] Device manufacturer = MNLT

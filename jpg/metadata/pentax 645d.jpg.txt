@@ -140,7 +140,7 @@ FILE: Pentax 645D.jpg
 
 [File - 0x0001] File Name = Pentax 645D.jpg
 [File - 0x0002] File Size = 16090679 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:30:42 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 20:30:42 +00:00 2015
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

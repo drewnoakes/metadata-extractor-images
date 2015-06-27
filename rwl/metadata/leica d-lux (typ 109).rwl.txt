@@ -66,7 +66,7 @@ FILE: Leica D-LUX (Typ 109).rwl
 
 [File - 0x0001] File Name = Leica D-LUX (Typ 109).rwl
 [File - 0x0002] File Size = 15056896 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:24:53 GMT 2015
+[File - 0x0003] File Modified Date = Fri Jan 23 00:24:53 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

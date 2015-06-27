@@ -46,7 +46,7 @@ FILE: Canon Powershot S90.jpg
 
 [File - 0x0001] File Name = Canon Powershot S90.jpg
 [File - 0x0002] File Size = 1770410 bytes
-[File - 0x0003] File Modified Date = Wed Jan 30 11:18:08 GMT 2013
+[File - 0x0003] File Modified Date = Wed Jan 30 11:18:08 +00:00 2013
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
@@ -54,7 +54,7 @@ FILE: Canon Powershot S90.jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Mon Mar 09 06:49:00 GMT 1998
+[ICC Profile - 0x0018] Profile Date/Time = Mon Mar 09 06:49:00 +00:00 1998
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
 [ICC Profile - 0x0030] Device manufacturer = IEC 
@@ -106,8 +106,8 @@ FILE: Canon Powershot S90.jpg
 [Xmp - 0x0005] F-Number = F4.9
 [Xmp - 0x000a] Focal Length = 22.5 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/199 sec
-[Xmp - 0x000d] Date/Time Original = Sun Jun 10 12:06:14 BST 2012
-[Xmp - 0x000e] Date/Time Digitized = Sun Jun 10 12:06:14 BST 2012
+[Xmp - 0x000d] Date/Time Original = Sun Jun 10 12:06:14 +01:00 2012
+[Xmp - 0x000e] Date/Time Digitized = Sun Jun 10 12:06:14 +01:00 2012
 [Xmp - 0x1001] Rating = 3.0
 [Xmp - 0x2001] Subject = 2012 dublin ireland june
 

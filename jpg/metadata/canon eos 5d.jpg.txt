@@ -46,7 +46,7 @@ FILE: Canon EOS 5D.jpg
 
 [File - 0x0001] File Name = Canon EOS 5D.jpg
 [File - 0x0002] File Size = 2009540 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:28:50 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 20:28:50 +00:00 2015
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

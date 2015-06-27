@@ -59,7 +59,7 @@ FILE: FujiFilm FinePix X100.jpg
 
 [File - 0x0001] File Name = FujiFilm FinePix X100.jpg
 [File - 0x0002] File Size = 4253345 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 [Fujifilm Makernote - 0x0000] Makernote Version = 1.30
 [Fujifilm Makernote - 0x0010] Serial Number = FPX 20892021     592D36323234110817F28030116F5A

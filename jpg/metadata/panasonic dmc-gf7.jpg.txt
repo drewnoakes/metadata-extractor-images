@@ -61,7 +61,7 @@ FILE: Panasonic DMC-GF7.jpg
 
 [File - 0x0001] File Name = Panasonic DMC-GF7.jpg
 [File - 0x0002] File Size = 9348608 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 19:45:20 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 19:45:20 +00:00 2015
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

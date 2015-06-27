@@ -57,7 +57,7 @@ FILE: Olympus TG-850.jpg
 
 [File - 0x0001] File Name = Olympus TG-850.jpg
 [File - 0x0002] File Size = 7353239 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 21:48:01 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 21:48:01 +00:00 2015
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

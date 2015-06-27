@@ -54,7 +54,7 @@ FILE: Nikon D1X.jpg
 
 [File - 0x0001] File Name = Nikon D1X.jpg
 [File - 0x0002] File Size = 101874 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 [GPS - 0x0000] GPS Version ID = 2.200
 
@@ -63,7 +63,7 @@ FILE: Nikon D1X.jpg
 [IPTC - 0x0214] Supplemental Category(s) = Woodworking
 [IPTC - 0x0219] Keywords = Woodworking
 [IPTC - 0x0228] Special Instructions = 
-[IPTC - 0x0237] Date Created = Wed Aug 06 00:00:00 BST 2003
+[IPTC - 0x0237] Date Created = Wed Aug 06 00:00:00 +01:00 2003
 [IPTC - 0x023c] Time Created = 18:04:34-0500
 [IPTC - 0x0250] By-line = 
 [IPTC - 0x0255] By-line Title = 

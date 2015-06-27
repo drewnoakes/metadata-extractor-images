@@ -55,7 +55,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 
 [File - 0x0001] File Name = Samsung EK-GN120 (Galaxy NX).jpg
 [File - 0x0002] File Size = 13572880 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 21:18:47 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 21:18:47 +00:00 2015
 
 [ICC Profile - 0x0000] Profile Size = 560
 [ICC Profile - 0x0004] CMM Type = ADBE
@@ -63,7 +63,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Sat Jul 03 01:00:00 BST 1999
+[ICC Profile - 0x0018] Profile Date/Time = Sat Jul 03 01:00:00 +01:00 1999
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
 [ICC Profile - 0x0030] Device manufacturer = none
@@ -82,7 +82,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 220
-[IPTC - 0x0237] Date Created = Sun Jan 01 00:00:00 GMT 2012
+[IPTC - 0x0237] Date Created = Sun Jan 01 00:00:00 +00:00 2012
 [IPTC - 0x023c] Time Created = 04:22:54+0000
 
 [JPEG - 0xfffffffd] Compression Type = Baseline

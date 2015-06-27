@@ -59,7 +59,7 @@ FILE: Casio QV-3000EX.jpg
 
 [File - 0x0001] File Name = Casio QV-3000EX.jpg
 [File - 0x0002] File Size = 1256919 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

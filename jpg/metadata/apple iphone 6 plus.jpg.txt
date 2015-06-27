@@ -43,7 +43,7 @@ FILE: Apple iPhone 6 plus.jpg
 
 [File - 0x0001] File Name = Apple iPhone 6 plus.jpg
 [File - 0x0002] File Size = 3676072 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 21:00:20 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 21:00:20 +00:00 2015
 
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 51° 28' 58.78"
@@ -66,7 +66,7 @@ FILE: Apple iPhone 6 plus.jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Mon Mar 09 06:49:00 GMT 1998
+[ICC Profile - 0x0018] Profile Date/Time = Mon Mar 09 06:49:00 +00:00 1998
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
 [ICC Profile - 0x0030] Device manufacturer = IEC 
@@ -93,7 +93,7 @@ FILE: Apple iPhone 6 plus.jpg
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
-[IPTC - 0x0237] Date Created = Fri Oct 31 00:00:00 GMT 2014
+[IPTC - 0x0237] Date Created = Fri Oct 31 00:00:00 +00:00 2014
 [IPTC - 0x023c] Time Created = 13:32:37
 
 [JFIF - 0x0005] Version = 1.1

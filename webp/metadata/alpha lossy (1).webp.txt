@@ -2,7 +2,7 @@ FILE: Alpha Lossy (1).webp
 
 [File - 0x0001] File Name = Alpha Lossy (1).webp
 [File - 0x0002] File Size = 23404 bytes
-[File - 0x0003] File Modified Date = Fri Feb 06 23:53:23 GMT 2015
+[File - 0x0003] File Modified Date = Fri Feb 06 23:53:23 +00:00 2015
 
 [WebP - 0x0002] Image Width = 400
 [WebP - 0x0001] Image Height = 301

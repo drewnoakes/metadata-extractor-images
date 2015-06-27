@@ -50,7 +50,7 @@ FILE: Canon EOS 7D.jpg
 
 [File - 0x0001] File Name = Canon EOS 7D.jpg
 [File - 0x0002] File Size = 347687 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:14 GMT 2013
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:14 +00:00 2013
 
 [ICC Profile - 0x0000] Profile Size = 560
 [ICC Profile - 0x0004] CMM Type = ADBE
@@ -58,7 +58,7 @@ FILE: Canon EOS 7D.jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Sat Jul 03 01:00:00 BST 1999
+[ICC Profile - 0x0018] Profile Date/Time = Sat Jul 03 01:00:00 +01:00 1999
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
 [ICC Profile - 0x0030] Device manufacturer = none
@@ -119,8 +119,8 @@ FILE: Canon EOS 7D.jpg
 [Xmp - 0x0005] F-Number = F11
 [Xmp - 0x000a] Focal Length = 57.0 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/124 sec
-[Xmp - 0x000d] Date/Time Original = Sun Dec 12 11:41:35 GMT 2010
-[Xmp - 0x000e] Date/Time Digitized = Sun Dec 12 11:41:35 GMT 2010
+[Xmp - 0x000d] Date/Time Original = Sun Dec 12 11:41:35 +00:00 2010
+[Xmp - 0x000e] Date/Time Digitized = Sun Dec 12 11:41:35 +00:00 2010
 [Xmp - 0x1001] Rating = 3.0
 [Xmp - 0x2000] Label = blau
 

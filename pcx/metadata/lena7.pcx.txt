@@ -2,7 +2,7 @@ FILE: lena7.pcx
 
 [File - 0x0001] File Name = lena7.pcx
 [File - 0x0002] File Size = 47389 bytes
-[File - 0x0003] File Modified Date = Sat Feb 14 23:46:50 GMT 2015
+[File - 0x0003] File Modified Date = Sat Feb 14 23:46:50 +00:00 2015
 
 [PCX - 0x0001] Version = 3.0 or better
 [PCX - 0x0002] Bits Per Pixel = 1

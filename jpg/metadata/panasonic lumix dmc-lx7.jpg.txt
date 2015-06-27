@@ -59,7 +59,7 @@ FILE: Panasonic Lumix DMC-LX7.jpg
 
 [File - 0x0001] File Name = Panasonic Lumix DMC-LX7.jpg
 [File - 0x0002] File Size = 4148224 bytes
-[File - 0x0003] File Modified Date = Wed Nov 19 23:06:56 GMT 2014
+[File - 0x0003] File Modified Date = Wed Nov 19 23:06:56 +00:00 2014
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

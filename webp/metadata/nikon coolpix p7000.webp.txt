@@ -54,7 +54,7 @@ FILE: Nikon Coolpix P7000.webp
 
 [File - 0x0001] File Name = Nikon Coolpix P7000.webp
 [File - 0x0002] File Size = 474772 bytes
-[File - 0x0003] File Modified Date = Tue Feb 10 23:16:11 GMT 2015
+[File - 0x0003] File Modified Date = Tue Feb 10 23:16:11 +00:00 2015
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -117,7 +117,7 @@ FILE: Nikon Coolpix P7000.webp
 [Xmp - 0x0005] F-Number = F4.5
 [Xmp - 0x000a] Focal Length = 6.0 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/799 sec
-[Xmp - 0x000d] Date/Time Original = Thu Oct 21 11:22:48 BST 2010
+[Xmp - 0x000d] Date/Time Original = Thu Oct 21 11:22:48 +01:00 2010
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

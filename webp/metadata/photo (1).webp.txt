@@ -2,7 +2,7 @@ FILE: Photo (1).webp
 
 [File - 0x0001] File Name = Photo (1).webp
 [File - 0x0002] File Size = 176972 bytes
-[File - 0x0003] File Modified Date = Fri Feb 06 23:58:51 GMT 2015
+[File - 0x0003] File Modified Date = Fri Feb 06 23:58:51 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

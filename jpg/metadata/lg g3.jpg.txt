@@ -31,14 +31,14 @@ FILE: LG G3.jpg
 
 [File - 0x0001] File Name = LG G3.jpg
 [File - 0x0002] File Size = 5618721 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:55:16 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 20:55:16 +00:00 2015
 
 [GPS - 0x0005] GPS Altitude Ref = Sea level
 [GPS - 0x0006] GPS Altitude = 0 metres
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
-[IPTC - 0x0237] Date Created = Fri Nov 14 00:00:00 GMT 2014
+[IPTC - 0x0237] Date Created = Fri Nov 14 00:00:00 +00:00 2014
 [IPTC - 0x023c] Time Created = 14:10:41
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)

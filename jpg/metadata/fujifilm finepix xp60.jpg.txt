@@ -62,7 +62,7 @@ FILE: FujiFilm FinePix XP60.jpg
 
 [File - 0x0001] File Name = FujiFilm FinePix XP60.jpg
 [File - 0x0002] File Size = 8027368 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:52:26 GMT 2015
+[File - 0x0003] File Modified Date = Fri Jan 23 00:52:26 +00:00 2015
 
 [Fujifilm Makernote - 0x0000] Makernote Version = 1.30
 [Fujifilm Makernote - 0x0010] Serial Number = 592D323636303113010412253NN00490

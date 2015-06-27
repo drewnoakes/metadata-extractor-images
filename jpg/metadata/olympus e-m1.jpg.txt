@@ -58,7 +58,7 @@ FILE: Olympus E-M1.jpg
 
 [File - 0x0001] File Name = Olympus E-M1.jpg
 [File - 0x0002] File Size = 11543047 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 21:40:49 GMT 2015
+[File - 0x0003] File Modified Date = Sat Jan 24 21:40:49 +00:00 2015
 
 [GPS - 0x0000] GPS Version ID = 2.300
 
