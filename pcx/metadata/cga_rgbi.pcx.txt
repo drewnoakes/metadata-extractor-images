@@ -10,13 +10,13 @@ FILE: CGA_RGBI.PCX
 [PCX - 0x0004] Y Min = 0
 [PCX - 0x0005] X Max = 319
 [PCX - 0x0006] Y Max = 199
-[PCX - 0x0007] Horitzontal DPI = 320
+[PCX - 0x0007] Horizontal DPI = 320
 [PCX - 0x0008] Vertical DPI = 200
 [PCX - 0x0009] Palette = [48 bytes]
 [PCX - 0x000a] Color Planes = Unknown (1)
 [PCX - 0x000b] Bytes Per Line = 80
 [PCX - 0x000c] Palette Type = Color or B&W
-[PCX - 0x000d] H Hcr Size = 200
+[PCX - 0x000d] H Scr Size = 200
 [PCX - 0x000e] V Scr Size = 201
 
 Generated using metadata-extractor

@@ -10,7 +10,7 @@ FILE: SWCP0002.PCX
 [PCX - 0x0004] Y Min = 0
 [PCX - 0x0005] X Max = 639
 [PCX - 0x0006] Y Max = 479
-[PCX - 0x0007] Horitzontal DPI = 640
+[PCX - 0x0007] Horizontal DPI = 640
 [PCX - 0x0008] Vertical DPI = 480
 [PCX - 0x0009] Palette = [48 bytes]
 [PCX - 0x000a] Color Planes = Unknown (1)
