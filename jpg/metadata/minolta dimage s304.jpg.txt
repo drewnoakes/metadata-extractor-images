@@ -87,7 +87,7 @@ FILE: Minolta DiMAGE S304.jpg
 [Olympus Makernote - 0xf008] Metering Mode = Unknown (52)
 [Olympus Makernote - 0xf009] Apex Film Speed Value = 378.125
 [Olympus Makernote - 0xf00a] Apex Shutter Speed Time Value = 1.890625 sec
-[Olympus Makernote - 0xf00b] Apex Aperture Value = f/0.25
+[Olympus Makernote - 0xf00b] Apex Aperture Value = f/0.2
 [Olympus Makernote - 0xf00c] Macro Mode = Off
 [Olympus Makernote - 0xf00d] Digital Zoom = Unknown (6)
 [Olympus Makernote - 0xf00e] Exposure Compensation = -2.0 EV
@@ -100,7 +100,7 @@ FILE: Minolta DiMAGE S304.jpg
 [Olympus Makernote - 0xf015] Flash Fired = Unknown (131139841)
 [Olympus Makernote - 0xf016] Date = Sun Dec 11 00:00:00 GMT 1988
 [Olympus Makernote - 0xf017] Time = 00:00:36
-[Olympus Makernote - 0xf018] Max Aperture at Focal Length = f/3.06
+[Olympus Makernote - 0xf018] Max Aperture at Focal Length = f/3.1
 [Olympus Makernote - 0xf019] Unknown tag (0xf019) = 0
 [Olympus Makernote - 0xf01a] Unknown tag (0xf01a) = 1
 [Olympus Makernote - 0xf01b] File Number Memory = Unknown (56)
