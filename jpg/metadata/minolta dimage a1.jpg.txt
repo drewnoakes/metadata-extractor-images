@@ -82,7 +82,7 @@ FILE: Minolta DiMAGE A1.jpg
 [Olympus Makernote - 0xf008] Metering Mode = Unknown (48)
 [Olympus Makernote - 0xf009] Apex Film Speed Value = 395.5078125
 [Olympus Makernote - 0xf00a] Apex Shutter Speed Time Value = 1.890625 sec
-[Olympus Makernote - 0xf00b] Apex Aperture Value = F0.25
+[Olympus Makernote - 0xf00b] Apex Aperture Value = f/0.25
 [Olympus Makernote - 0xf00c] Macro Mode = Off
 [Olympus Makernote - 0xf00d] Digital Zoom = Unknown (7)
 [Olympus Makernote - 0xf00e] Exposure Compensation = -2.0 EV
@@ -95,7 +95,7 @@ FILE: Minolta DiMAGE A1.jpg
 [Olympus Makernote - 0xf015] Flash Fired = Unknown (131270925)
 [Olympus Makernote - 0xf016] Date = Thu Jun 11 00:00:00 BST 1981
 [Olympus Makernote - 0xf017] Time = 00:00:33
-[Olympus Makernote - 0xf018] Max Aperture at Focal Length = F2.44140625
+[Olympus Makernote - 0xf018] Max Aperture at Focal Length = f/2.44
 [Olympus Makernote - 0xf019] Unknown tag (0xf019) = 0
 [Olympus Makernote - 0xf01a] Unknown tag (0xf01a) = 0
 [Olympus Makernote - 0xf01b] File Number Memory = Off
