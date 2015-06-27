@@ -95,8 +95,8 @@ FILE: Nokia Lumia 800.jpg
 [Xmp - 0x0001] Make = Nokia
 [Xmp - 0x0002] Model = Nokia Lumia 800
 [Xmp - 0x0003] Exposure Time = 1/1000 sec
-[Xmp - 0x000b] Aperture Value = F2.2
-[Xmp - 0x0005] F-Number = F2.2
+[Xmp - 0x000b] Aperture Value = f/2.2
+[Xmp - 0x0005] F-Number = f/2.2
 [Xmp - 0x0004] Shutter Speed Value = 1/999 sec
 [Xmp - 0x000d] Date/Time Original = Sat Jun 09 21:23:38 +01:00 2012
 [Xmp - 0x000e] Date/Time Digitized = Sat Jun 09 21:23:38 +01:00 2012

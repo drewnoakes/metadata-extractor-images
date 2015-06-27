@@ -113,8 +113,8 @@ FILE: Nikon Coolpix P7000.webp
 [Xmp - 0x0002] Model = COOLPIX P7000
 [Xmp - 0x0003] Exposure Time = 1/800 sec
 [Xmp - 0x000c] Exposure Program = Program normal
-[Xmp - 0x000b] Aperture Value = F4.5
-[Xmp - 0x0005] F-Number = F4.5
+[Xmp - 0x000b] Aperture Value = f/4.5
+[Xmp - 0x0005] F-Number = f/4.5
 [Xmp - 0x000a] Focal Length = 6.0 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/799 sec
 [Xmp - 0x000d] Date/Time Original = Thu Oct 21 11:22:48 +01:00 2010

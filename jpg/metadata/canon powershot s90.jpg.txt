@@ -102,8 +102,8 @@ FILE: Canon Powershot S90.jpg
 [Xmp - 0x0001] Make = Canon
 [Xmp - 0x0002] Model = Canon PowerShot S90
 [Xmp - 0x0003] Exposure Time = 1/200 sec
-[Xmp - 0x000b] Aperture Value = F4.9
-[Xmp - 0x0005] F-Number = F4.9
+[Xmp - 0x000b] Aperture Value = f/4.9
+[Xmp - 0x0005] F-Number = f/4.9
 [Xmp - 0x000a] Focal Length = 22.5 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/199 sec
 [Xmp - 0x000d] Date/Time Original = Sun Jun 10 12:06:14 +01:00 2012
