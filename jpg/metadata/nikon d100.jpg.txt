@@ -97,11 +97,11 @@ FILE: Nikon D100.jpg
 [Nikon Makernote - 0x008b] Lens Stops = 5.42 EV
 [Nikon Makernote - 0x008d] Colour Mode = Mode I (sRGB)
 [Nikon Makernote - 0x0090] Light source = NATURAL    
-[Nikon Makernote - 0x0091] Shot Info = [202 bytes]
+[Nikon Makernote - 0x0091] Shot Info = [202 values]
 [Nikon Makernote - 0x0092] Camera Hue Adjustment = 0 degrees
 [Nikon Makernote - 0x0095] Noise Reduction = OFF 
-[Nikon Makernote - 0x0097] Color Balance = [156 bytes]
-[Nikon Makernote - 0x0098] Lens Data = [20 bytes]
+[Nikon Makernote - 0x0097] Color Balance = [156 values]
+[Nikon Makernote - 0x0098] Lens Data = [20 values]
 [Nikon Makernote - 0x009a] Sensor Pixel Size = 78/10 78/10
 
 Generated using metadata-extractor

@@ -103,13 +103,13 @@ FILE: Nikon D1X.jpg
 [Nikon Makernote - 0x0088] AF Focus Position = Unknown (1 0 1 0)
 [Nikon Makernote - 0x0089] Shooting Mode = Continuous
 [Nikon Makernote - 0x008b] Lens Stops = 6 EV
-[Nikon Makernote - 0x008c] Contrast Curve = [2112 bytes]
+[Nikon Makernote - 0x008c] Contrast Curve = [2112 values]
 [Nikon Makernote - 0x008d] Colour Mode = MODE2   
 [Nikon Makernote - 0x008e] Unknown 47 = 55078125/100000000 -5273437/100000000 -15429687/100000000 79101562/100000000
 [Nikon Makernote - 0x0090] Light source = SPEEDLIGHT 
-[Nikon Makernote - 0x0091] Shot Info = [53 bytes]
+[Nikon Makernote - 0x0091] Shot Info = [53 values]
 [Nikon Makernote - 0x0092] Camera Hue Adjustment = 3 degrees
-[Nikon Makernote - 0x0098] Lens Data = [20 bytes]
+[Nikon Makernote - 0x0098] Lens Data = [20 values]
 [Nikon Makernote - 0x0099] NEF Thumbnail Size = 2014 662
 [Nikon Makernote - 0x009a] Sensor Pixel Size = 59/10 59/5
 [Nikon Makernote - 0x0e10] Nikon Scan = 2875

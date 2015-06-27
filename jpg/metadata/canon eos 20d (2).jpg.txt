@@ -89,8 +89,8 @@ FILE: Canon EOS 20D (2).jpg
 [Canon Makernote - 0x0007] Firmware Version = 
 [Canon Makernote - 0x0009] Owner Name = 
 [Canon Makernote - 0x000c] Camera Serial Number = 002000104
-[Canon Makernote - 0x000d] Camera Info Array = [1024 bytes]
-[Canon Makernote - 0x000f] Custom Functions = [19 ints]
+[Canon Makernote - 0x000d] Camera Info Array = [1024 values]
+[Canon Makernote - 0x000f] Custom Functions = [19 values]
 [Canon Makernote - 0x0010] Canon Model ID = 2147484021
 [Canon Makernote - 0xd200] AF Point Count = 571
 [Canon Makernote - 0xd201] Valid AF Point Count = 8
@@ -128,10 +128,10 @@ FILE: Canon EOS 20D (2).jpg
 [Canon Makernote - 0x00a0] Processing Information Array = 523 1024 1024 736 34 3596 2360 1 1 84 19 3587 2354 0
 [Canon Makernote - 0x00aa] Measured Color Array = 0 0 0 0 0
 [Canon Makernote - 0x00d0] VRD Offset = 0
-[Canon Makernote - 0x00e0] Sensor Information Array = [17 ints]
-[Canon Makernote - 0x4001] Color Data Array 1 = [582 ints]
-[Canon Makernote - 0x4002] CRW Parameters = [2676 ints]
-[Canon Makernote - 0x4003] Color Data Array 2 = [22 ints]
+[Canon Makernote - 0x00e0] Sensor Information Array = [17 values]
+[Canon Makernote - 0x4001] Color Data Array 1 = [582 values]
+[Canon Makernote - 0x4002] CRW Parameters = [2676 values]
+[Canon Makernote - 0x4003] Color Data Array 2 = [22 values]
 
 [Exif IFD0 - 0x010f] Make = Canon
 [Exif IFD0 - 0x0110] Model = Canon EOS 20D

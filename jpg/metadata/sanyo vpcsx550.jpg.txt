@@ -62,7 +62,7 @@ FILE: Sanyo VPCSX550.jpg
 [Sanyo Makernote - 0x0202] Macro = Normal
 [Sanyo Makernote - 0x0203] Unknown tag (0x0203) = 0
 [Sanyo Makernote - 0x0204] Digital Zoom = 0.628
-[Sanyo Makernote - 0x0f00] Data Dump = [18 longs]
+[Sanyo Makernote - 0x0f00] Data Dump = [18 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

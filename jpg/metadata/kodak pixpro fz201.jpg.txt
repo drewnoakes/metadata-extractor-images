@@ -29,7 +29,7 @@ FILE: Kodak PIXPRO FZ201.jpg
 [Exif SubIFD - 0x9208] White Balance = Daylight
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 90.0 mm
-[Exif SubIFD - 0x927c] Makernote = [232 bytes]
+[Exif SubIFD - 0x927c] Makernote = [232 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 4608 pixels

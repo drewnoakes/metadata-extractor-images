@@ -86,9 +86,9 @@ FILE: Nikon E5700.jpg
 [Nikon Makernote - 0x000a] Unknown tag (0x000a) = 4416/500
 [Nikon Makernote - 0x000c] White Balance RB Coefficients = 11796875/10000000 10859375/10000000 0/1 0/1
 [Nikon Makernote - 0x000f] ISO Mode = MANUAL
-[Nikon Makernote - 0x0010] Data Dump = [254 bytes]
+[Nikon Makernote - 0x0010] Data Dump = [254 values]
 [Nikon Makernote - 0x0011] Preview IFD = 1972
-[Nikon Makernote - 0x0014] Unknown tag (0x0014) = [1280 bytes]
+[Nikon Makernote - 0x0014] Unknown tag (0x0014) = [1280 values]
 [Nikon Makernote - 0x0080] Image Adjustment = AUTO         
 [Nikon Makernote - 0x0082] Adapter = OFF         
 [Nikon Makernote - 0x0085] Manual Focus Distance = 0

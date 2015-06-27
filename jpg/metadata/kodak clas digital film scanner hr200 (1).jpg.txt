@@ -17,7 +17,7 @@ FILE: Kodak CLAS Digital Film Scanner HR200 (1).jpg
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 1536 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1024 pixels
-[Exif SubIFD - 0xa20c] Spatial Frequency Response = [379 bytes]
+[Exif SubIFD - 0xa20c] Spatial Frequency Response = [379 values]
 [Exif SubIFD - 0xa20e] Focal Plane X Resolution = 1/1131 inches
 [Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 1/1131 inches
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches

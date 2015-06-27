@@ -86,7 +86,7 @@ FILE: Nikon D300.nef
 [Nikon Makernote - 0x001f] VR Info = 48 49 48 48 2 2 0 0
 [Nikon Makernote - 0x0020] Image Authentication = 0
 [Nikon Makernote - 0x0022] Active D-Lighting = Off
-[Nikon Makernote - 0x0023] Picture Control = [58 bytes]
+[Nikon Makernote - 0x0023] Picture Control = [58 values]
 [Nikon Makernote - 0x0024] World Time = 0 0 0 0
 [Nikon Makernote - 0x0025] ISO Info = 72 1 12 0 0 0 72 1 12 0 0 0 0 0
 [Nikon Makernote - 0x0083] Lens Type = AF, D, G
@@ -95,25 +95,25 @@ FILE: Nikon D300.nef
 [Nikon Makernote - 0x0089] Shooting Mode = Single Frame
 [Nikon Makernote - 0x008a] Unknown 20 = 0
 [Nikon Makernote - 0x008b] Lens Stops = 5.33 EV
-[Nikon Makernote - 0x008c] Contrast Curve = [578 bytes]
+[Nikon Makernote - 0x008c] Contrast Curve = [578 values]
 [Nikon Makernote - 0x0090] Light source = NATURAL    
-[Nikon Makernote - 0x0091] Shot Info = [5291 bytes]
+[Nikon Makernote - 0x0091] Shot Info = [5291 values]
 [Nikon Makernote - 0x0093] NEF Compression = Uncompressed
 [Nikon Makernote - 0x0095] Noise Reduction = OFF 
-[Nikon Makernote - 0x0096] Linearization Table = [46 bytes]
-[Nikon Makernote - 0x0097] Color Balance = [1540 bytes]
-[Nikon Makernote - 0x0098] Lens Data = [32 bytes]
+[Nikon Makernote - 0x0096] Linearization Table = [46 values]
+[Nikon Makernote - 0x0097] Color Balance = [1540 values]
+[Nikon Makernote - 0x0098] Lens Data = [32 values]
 [Nikon Makernote - 0x0099] NEF Thumbnail Size = 2176 1434
 [Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00a3] Unknown 27 = 0
 [Nikon Makernote - 0x00a4] Unknown 28 = 48 50 48 48
 [Nikon Makernote - 0x00a7] Exposure Sequence Number = 638
-[Nikon Makernote - 0x00a8] Flash Info = [21 bytes]
+[Nikon Makernote - 0x00a8] Flash Info = [21 values]
 [Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Off
 [Nikon Makernote - 0x00b6] Power Up Time = null
-[Nikon Makernote - 0x00b7] AF Info 2 = [30 bytes]
-[Nikon Makernote - 0x00b8] File Info = [172 bytes]
+[Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
+[Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00b9] AF Tune = 0 -1 0 0
 
 Generated using metadata-extractor

@@ -105,7 +105,7 @@ Höhe (GPS) : N/A
 [Nikon Makernote - 0x008f] Scene Mode =                 
 [Nikon Makernote - 0x0094] Saturation = 0
 [Nikon Makernote - 0x0095] Noise Reduction = FPNR
-[Nikon Makernote - 0x0e00] Print IM = [202 bytes]
+[Nikon Makernote - 0x0e00] Print IM = [202 values]
 [Nikon Makernote - 0x0e10] Nikon Scan = 1394
 
 Generated using metadata-extractor

@@ -29,7 +29,7 @@ FILE: Olympus PEN E-P3.orf
 [Exif IFD0 - 0x0132] Date/Time = 2013:08:27 19:45:23
 [Exif IFD0 - 0x013b] Artist = 
 [Exif IFD0 - 0x8298] Copyright = 
-[Exif IFD0 - 0xc4a5] Print IM = [528 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [528 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
 [Exif SubIFD - 0x829d] F-Number = f/1.8
@@ -63,7 +63,7 @@ FILE: Olympus PEN E-P3.orf
 [File - 0x0002] File Size = 13202813 bytes
 [File - 0x0003] File Modified Date = Sat Jan 18 20:30:12 GMT 2014
 
-[Olympus Makernote - 0x0003] Camera Settings = [459008 shorts]
+[Olympus Makernote - 0x0003] Camera Settings = [459008 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -17,7 +17,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).srw
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 30.0 mm
-[Exif SubIFD - 0x927c] Makernote = [269872 bytes]
+[Exif SubIFD - 0x927c] Makernote = [269872 values]
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 5472 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 3648 pixels

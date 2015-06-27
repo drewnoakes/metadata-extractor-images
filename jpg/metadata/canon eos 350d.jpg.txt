@@ -122,7 +122,7 @@ FILE: Canon EOS 350D.jpg
 [Canon Makernote - 0x00a0] Processing Information Array = 28 0 0 0 0 0 0 0 32769 5200 0 0 0 0
 [Canon Makernote - 0x00aa] Measured Color Array = 10 466 1024 1024 637
 [Canon Makernote - 0x00b4] Color Space = 1
-[Canon Makernote - 0x00e0] Sensor Information Array = [17 ints]
+[Canon Makernote - 0x00e0] Sensor Information Array = [17 values]
 
 [Exif IFD0 - 0x010f] Make = Canon
 [Exif IFD0 - 0x0110] Model = Canon EOS 350D DIGITAL

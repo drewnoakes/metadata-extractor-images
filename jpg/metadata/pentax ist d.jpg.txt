@@ -56,8 +56,8 @@ FILE: Pentax ist D.jpg
 [Casio Makernote - 0x0204] Unknown tag (0x0204) = -31869 -31869 -31869 -31869 -31612 -31612 -31612 -31612 -31612
 [Casio Makernote - 0x0205] Unknown tag (0x0205) = -123 -123 -123 -123 -123 -123 -123 -123 -123 -122 -122 -122 -122 -122 -122 -122
 [Casio Makernote - 0x0206] Unknown tag (0x0206) = -122 -122 -122 -121 -121 -121 -121 -121 -121 -121 -121 -121 -121 -120
-[Casio Makernote - 0x0207] Unknown tag (0x0207) = [36 bytes]
-[Casio Makernote - 0x0208] Unknown tag (0x0208) = [28 bytes]
+[Casio Makernote - 0x0207] Unknown tag (0x0207) = [36 values]
+[Casio Makernote - 0x0208] Unknown tag (0x0208) = [28 values]
 [Casio Makernote - 0x0209] Unknown tag (0x0209) = -114 -114 -114 -114 -114 -114 -114 -114 -114 -113 -113 -113 -113 -113 -113 -113
 [Casio Makernote - 0x020a] Unknown tag (0x020a) = -113 -113 -113 -113 -112 -112 -112 -112 -112 -112 -112 -112 -112 -112 -112 -112
 [Casio Makernote - 0x020b] Unknown tag (0x020b) = -111 -111 -111 -111 -111 -111 -111 -111 -111 -111 -111 -111 -110 -110 -110 -110
@@ -72,7 +72,7 @@ FILE: Pentax ist D.jpg
 [Casio Makernote - 0x0215] Unknown tag (0x0215) = 2543294359 2543294359 2543360152 2560137368 2560137368
 [Casio Makernote - 0x0216] Unknown tag (0x0216) = -104 -104 -104 -103 -103 -103
 [Casio Makernote - 0x03ff] Unknown tag (0x03ff) = 39321 39321 39321 39321 39578 39578 39578 39578 39578 39578 39578 39835 39835 39835 39835 39835
-[Casio Makernote - 0x0402] Unknown tag (0x0402) = [4096 shorts]
+[Casio Makernote - 0x0402] Unknown tag (0x0402) = [4096 values]
 
 [Exif IFD0 - 0x010f] Make = PENTAX Corporation 
 [Exif IFD0 - 0x0110] Model = PENTAX *ist D      
@@ -82,7 +82,7 @@ FILE: Pentax ist D.jpg
 [Exif IFD0 - 0x0131] Software = *ist D      Ver 1.10   
 [Exif IFD0 - 0x0132] Date/Time = 2004:10:02 23:29:52
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [244 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [244 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/90 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.4

@@ -9,9 +9,9 @@ FILE: Panasonic DMC-TZ10.jpg
 [Exif IFD0 - 0x0131] Software = Ver.1.0  
 [Exif IFD0 - 0x0132] Date/Time = 2010:06:24 14:17:04
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [208 bytes]
-[Exif IFD0 - 0xc6d2] Panasonic Title = [64 bytes]
-[Exif IFD0 - 0xc6d3] Panasonic Title (2) = [128 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [208 values]
+[Exif IFD0 - 0xc6d2] Panasonic Title = [64 values]
+[Exif IFD0 - 0xc6d3] Panasonic Title (2) = [128 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
 [Exif SubIFD - 0x829d] F-Number = f/4.1
@@ -151,7 +151,7 @@ FILE: Panasonic DMC-TZ10.jpg
 [Panasonic Makernote - 0x006e] Unknown tag (0x006e) = 1
 [Panasonic Makernote - 0x006f] Landmark = ---
 [Panasonic Makernote - 0x0070] Intelligent Resolution = Off
-[Panasonic Makernote - 0x0071] Unknown tag (0x0071) = [128 bytes]
+[Panasonic Makernote - 0x0071] Unknown tag (0x0071) = [128 values]
 [Panasonic Makernote - 0x8000] Makernote Version = 1.33
 [Panasonic Makernote - 0x8001] Scene Mode = Portrait
 [Panasonic Makernote - 0x8002] Unknown tag (0x8002) = 2

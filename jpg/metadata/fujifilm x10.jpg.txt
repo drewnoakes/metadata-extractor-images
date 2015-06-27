@@ -10,7 +10,7 @@ FILE: FujiFilm X10.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2013:01:20 18:51:52
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8298] Copyright =     
-[Exif IFD0 - 0xc4a5] Print IM = [106 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [106 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/15 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.8
@@ -103,7 +103,7 @@ FILE: FujiFilm X10.jpg
 [Fujifilm Makernote - 0x140b] Auto Dynamic Range = 100
 [Fujifilm Makernote - 0x140c] Unknown tag (0x140c) = 48 49 48 48
 [Fujifilm Makernote - 0x1422] Unknown tag (0x1422) = 1 1 0
-[Fujifilm Makernote - 0x1430] Unknown tag (0x1430) = [129 bytes]
+[Fujifilm Makernote - 0x1430] Unknown tag (0x1430) = [129 values]
 [Fujifilm Makernote - 0x1431] Unknown tag (0x1431) = 0
 [Fujifilm Makernote - 0x1432] Unknown tag (0x1432) = 1
 [Fujifilm Makernote - 0x1433] Unknown tag (0x1433) = 0

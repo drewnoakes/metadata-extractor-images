@@ -10,7 +10,7 @@ FILE: Minolta DiMAGE 7Hi.jpg
 [Exif IFD0 - 0x0131] Software = Ver.1.00u
 [Exif IFD0 - 0x0132] Date/Time = 2002:11:11 11:01:09
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0xc4a5] Print IM = [118 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [118 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/500 sec
 [Exif SubIFD - 0x829d] F-Number = f/6.7
@@ -127,8 +127,8 @@ FILE: Minolta DiMAGE 7Hi.jpg
 [Olympus Makernote - 0xf036] Unknown tag (0xf036) = 1
 [Olympus Makernote - 0xf037] Unknown tag (0xf037) = 8000
 [Olympus Makernote - 0xf038] Unknown tag (0xf038) = 16
-[Olympus Makernote - 0x0010] Unknown tag (0x0010) = [11492 bytes]
-[Olympus Makernote - 0x0020] Unknown tag (0x0020) = [716 bytes]
+[Olympus Makernote - 0x0010] Unknown tag (0x0010) = [11492 values]
+[Olympus Makernote - 0x0020] Unknown tag (0x0020) = [716 values]
 [Olympus Makernote - 0x0040] Compressed Image Size = 2652656
 [Olympus Makernote - 0x0088] Thumbnail Offset = 2672039
 [Olympus Makernote - 0x0089] Thumbnail Length = 79141

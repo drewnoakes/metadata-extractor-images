@@ -12,7 +12,7 @@ FILE: Sony ILCE-5000 (A5000).jpg
 [Exif IFD0 - 0x0131] Software = ILCE-5000 v1.00
 [Exif IFD0 - 0x0132] Date/Time = 2014:03:14 15:00:43
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [106 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [106 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
 [Exif SubIFD - 0x829d] F-Number = f/11.0
@@ -95,7 +95,7 @@ FILE: Sony ILCE-5000 (A5000).jpg
 [Sony Makernote - 0x200c] Unknown tag (0x200c) = 0 0 0
 [Sony Makernote - 0x200d] Unknown tag (0x200d) = 1
 [Sony Makernote - 0x2014] WB Shift Amber/Magenta = 0 0
-[Sony Makernote - 0x3000] Shot Info = [390 bytes]
+[Sony Makernote - 0x3000] Shot Info = [390 values]
 [Sony Makernote - 0xb020] Color Mode Setting = Standard
 [Sony Makernote - 0xb021] Color Temperature = Auto
 [Sony Makernote - 0xb022] Color Compensation Filter = 0
@@ -154,26 +154,26 @@ FILE: Sony ILCE-5000 (A5000).jpg
 [Sony Makernote - 0xb052] Intelligent Auto = 0
 [Sony Makernote - 0xb053] Unknown tag (0xb053) = 0
 [Sony Makernote - 0xb054] White Balance 2 = 0
-[Sony Makernote - 0x9400] Unknown tag (0x9400) = [556 bytes]
-[Sony Makernote - 0x9401] Unknown tag (0x9401) = [4096 bytes]
-[Sony Makernote - 0x9402] Unknown tag (0x9402) = [400 bytes]
-[Sony Makernote - 0x9403] Unknown tag (0x9403) = [1000 bytes]
-[Sony Makernote - 0x9404] Unknown tag (0x9404) = [556 bytes]
-[Sony Makernote - 0x9405] Unknown tag (0x9405) = [1992 bytes]
-[Sony Makernote - 0x9406] Unknown tag (0x9406) = [64 bytes]
-[Sony Makernote - 0x9407] Unknown tag (0x9407) = [64 bytes]
-[Sony Makernote - 0x9408] Unknown tag (0x9408) = [1000 bytes]
-[Sony Makernote - 0x9409] Unknown tag (0x9409) = [1344 bytes]
-[Sony Makernote - 0x940a] Unknown tag (0x940a) = [272 bytes]
-[Sony Makernote - 0x940b] Unknown tag (0x940b) = [400 bytes]
-[Sony Makernote - 0x940c] Unknown tag (0x940c) = [64 bytes]
-[Sony Makernote - 0x940d] Unknown tag (0x940d) = [1260 bytes]
-[Sony Makernote - 0x940e] Unknown tag (0x940e) = [12288 bytes]
-[Sony Makernote - 0xa100] Unknown tag (0xa100) = [64 bytes]
-[Sony Makernote - 0x2010] Unknown tag (0x2010) = [6556 bytes]
-[Sony Makernote - 0x940f] Unknown tag (0x940f) = [2048 bytes]
-[Sony Makernote - 0x9050] Unknown tag (0x9050) = [944 bytes]
-[Sony Makernote - 0x9412] Unknown tag (0x9412) = [160 bytes]
+[Sony Makernote - 0x9400] Unknown tag (0x9400) = [556 values]
+[Sony Makernote - 0x9401] Unknown tag (0x9401) = [4096 values]
+[Sony Makernote - 0x9402] Unknown tag (0x9402) = [400 values]
+[Sony Makernote - 0x9403] Unknown tag (0x9403) = [1000 values]
+[Sony Makernote - 0x9404] Unknown tag (0x9404) = [556 values]
+[Sony Makernote - 0x9405] Unknown tag (0x9405) = [1992 values]
+[Sony Makernote - 0x9406] Unknown tag (0x9406) = [64 values]
+[Sony Makernote - 0x9407] Unknown tag (0x9407) = [64 values]
+[Sony Makernote - 0x9408] Unknown tag (0x9408) = [1000 values]
+[Sony Makernote - 0x9409] Unknown tag (0x9409) = [1344 values]
+[Sony Makernote - 0x940a] Unknown tag (0x940a) = [272 values]
+[Sony Makernote - 0x940b] Unknown tag (0x940b) = [400 values]
+[Sony Makernote - 0x940c] Unknown tag (0x940c) = [64 values]
+[Sony Makernote - 0x940d] Unknown tag (0x940d) = [1260 values]
+[Sony Makernote - 0x940e] Unknown tag (0x940e) = [12288 values]
+[Sony Makernote - 0xa100] Unknown tag (0xa100) = [64 values]
+[Sony Makernote - 0x2010] Unknown tag (0x2010) = [6556 values]
+[Sony Makernote - 0x940f] Unknown tag (0x940f) = [2048 values]
+[Sony Makernote - 0x9050] Unknown tag (0x9050) = [944 values]
+[Sony Makernote - 0x9412] Unknown tag (0x9412) = [160 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

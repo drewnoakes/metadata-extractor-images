@@ -12,7 +12,7 @@ FILE: BLOOD91.PCX
 [PCX - 0x0006] Y Max = 199
 [PCX - 0x0007] Horizontal DPI = 320
 [PCX - 0x0008] Vertical DPI = 200
-[PCX - 0x0009] Palette = [48 bytes]
+[PCX - 0x0009] Palette = [48 values]
 [PCX - 0x000a] Color Planes = Unknown (1)
 [PCX - 0x000b] Bytes Per Line = 320
 

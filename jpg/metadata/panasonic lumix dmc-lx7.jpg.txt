@@ -10,9 +10,9 @@ FILE: Panasonic Lumix DMC-LX7.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2014:11:19 23:06:56
 [Exif IFD0 - 0x013b] Artist = Drew Noakes
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [208 bytes]
-[Exif IFD0 - 0xc6d2] Panasonic Title = [64 bytes]
-[Exif IFD0 - 0xc6d3] Panasonic Title (2) = [128 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [208 values]
+[Exif IFD0 - 0xc6d2] Panasonic Title = [64 values]
+[Exif IFD0 - 0xc6d3] Panasonic Title (2) = [128 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
 [Exif SubIFD - 0x829d] F-Number = f/1.4
@@ -167,7 +167,7 @@ FILE: Panasonic Lumix DMC-LX7.jpg
 [Panasonic Makernote - 0x0097] Unknown tag (0x0097) = 0
 [Panasonic Makernote - 0x0098] Unknown tag (0x0098) = 0
 [Panasonic Makernote - 0x009d] Unknown tag (0x009d) = 0
-[Panasonic Makernote - 0x2003] Unknown tag (0x2003) = [20 bytes]
+[Panasonic Makernote - 0x2003] Unknown tag (0x2003) = [20 values]
 [Panasonic Makernote - 0x8000] Makernote Version = 1.41
 [Panasonic Makernote - 0x8001] Scene Mode = Unknown (0)
 [Panasonic Makernote - 0x8002] Unknown tag (0x8002) = 1

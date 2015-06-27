@@ -20,7 +20,7 @@ FILE: Pentax QS1.dng
 [Exif IFD0 - 0x0131] Software = PENTAX Q-S1   Ver 1.00
 [Exif IFD0 - 0x0132] Date/Time = 2015:01:10 13:28:54
 [Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 123832 124238
-[Exif IFD0 - 0x02bc] Unknown tag (0x02bc) = [4390 bytes]
+[Exif IFD0 - 0x02bc] Unknown tag (0x02bc) = [4390 values]
 [Exif IFD0 - 0xc612] Unknown tag (0xc612) = 1 1 0 0
 [Exif IFD0 - 0xc613] Unknown tag (0xc613) = 1 1 0 0
 [Exif IFD0 - 0xc614] Unknown tag (0xc614) = PENTAX Q-S1
@@ -32,7 +32,7 @@ FILE: Pentax QS1.dng
 [Exif IFD0 - 0xc62b] Unknown tag (0xc62b) = 1
 [Exif IFD0 - 0xc62c] Unknown tag (0xc62c) = 1
 [Exif IFD0 - 0xc62e] Unknown tag (0xc62e) = 1
-[Exif IFD0 - 0xc634] Unknown tag (0xc634) = [122880 shorts]
+[Exif IFD0 - 0xc634] Unknown tag (0xc634) = [122880 values]
 [Exif IFD0 - 0xc65a] Unknown tag (0xc65a) = 17
 [Exif IFD0 - 0xc65b] Unknown tag (0xc65b) = 21
 

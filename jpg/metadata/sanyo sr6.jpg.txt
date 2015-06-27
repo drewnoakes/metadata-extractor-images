@@ -53,7 +53,7 @@ FILE: Sanyo SR6.jpg
 
 [Sanyo Makernote - 0x0200] Special Mode = 66316 285413634 3959439104
 [Sanyo Makernote - 0x0201] Sanyo Quality = Normal/Medium Low
-[Sanyo Makernote - 0x0f00] Data Dump = [20 longs]
+[Sanyo Makernote - 0x0f00] Data Dump = [20 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

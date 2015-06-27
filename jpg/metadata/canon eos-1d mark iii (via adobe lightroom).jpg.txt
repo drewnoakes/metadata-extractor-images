@@ -124,7 +124,7 @@ FILE: Canon EOS-1D Mark III (via Adobe Lightroom).jpg
 [Xmp - 0x000d] Date/Time Original = Sat Sep 20 09:01:07 BST 2008
 [Xmp - 0x000e] Date/Time Digitized = Sat Sep 20 09:01:07 BST 2008
 [Xmp - 0x2000] Label = label
-[Xmp - 0x2001] Subject = [17 java.lang.Strings]
+[Xmp - 0x2001] Subject = [17 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

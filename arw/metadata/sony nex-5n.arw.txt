@@ -15,7 +15,7 @@ FILE: Sony NEX-5N.arw
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 118946
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 866411
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [106 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [106 values]
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 10 204 0 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/2000 sec
@@ -36,7 +36,7 @@ FILE: Sony NEX-5N.arw
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 24.0 mm
-[Exif SubIFD - 0x927c] Makernote = [38948 bytes]
+[Exif SubIFD - 0x927c] Makernote = [38948 values]
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB

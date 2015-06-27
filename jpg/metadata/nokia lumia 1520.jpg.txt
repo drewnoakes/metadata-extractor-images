@@ -8,7 +8,7 @@ FILE: Nokia Lumia 1520.jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Windows Phone
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0xea1c] Padding = [2060 bytes]
+[Exif IFD0 - 0xea1c] Padding = [2060 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 5550/1000000 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.4
@@ -23,7 +23,7 @@ FILE: Nokia Lumia 1520.jpg
 [Exif SubIFD - 0x9207] Metering Mode = Average
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired, auto
-[Exif SubIFD - 0x927c] Makernote = [19401 bytes]
+[Exif SubIFD - 0x927c] Makernote = [19401 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 3744 pixels
@@ -32,13 +32,13 @@ FILE: Nokia Lumia 1520.jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-[Exif SubIFD - 0xea1c] Padding = [2060 bytes]
+[Exif SubIFD - 0xea1c] Padding = [2060 values]
 
 [File - 0x0001] File Name = Nokia Lumia 1520.jpg
 [File - 0x0002] File Size = 4837421 bytes
 [File - 0x0003] File Modified Date = Sat Jan 24 21:01:00 GMT 2015
 
-[GPS - 0xea1c] Padding = [2060 bytes]
+[GPS - 0xea1c] Padding = [2060 values]
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

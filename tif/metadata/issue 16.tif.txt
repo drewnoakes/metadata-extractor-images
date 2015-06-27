@@ -20,10 +20,10 @@ FILE: Issue 16.tif
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop CS3 Macintosh
 [Exif IFD0 - 0x0132] Date/Time = 2013:05:15 09:42:30
 [Exif IFD0 - 0x013b] Artist = Eric Piasecki Photography LLC
-[Exif IFD0 - 0x02bc] Unknown tag (0x02bc) = [29183 shorts]
+[Exif IFD0 - 0x02bc] Unknown tag (0x02bc) = [29183 values]
 [Exif IFD0 - 0x8298] Copyright = Â© 2010 Eric Piasecki
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [14098 shorts]
-[Exif IFD0 - 0x8773] Inter Color Profile = [3144 bytes]
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [14098 values]
+[Exif IFD0 - 0x8773] Inter Color Profile = [3144 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/6 sec
 [Exif SubIFD - 0x8822] Exposure Program = Manual control

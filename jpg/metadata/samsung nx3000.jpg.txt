@@ -26,7 +26,7 @@ FILE: Samsung NX3000.jpg
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 43.0 mm
-[Exif SubIFD - 0x927c] Makernote = [39322 bytes]
+[Exif SubIFD - 0x927c] Makernote = [39322 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 5472 pixels

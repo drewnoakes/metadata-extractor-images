@@ -73,8 +73,8 @@ FILE: Nikon Coolpix 775.jpg
 [Nikon Makernote - 0x0086] Digital Zoom = No digital zoom
 [Nikon Makernote - 0x0088] AF Focus Position = Centre
 [Nikon Makernote - 0x008f] Scene Mode =                
-[Nikon Makernote - 0x0010] Data Dump = [122 bytes]
-[Nikon Makernote - 0x0e00] Print IM = [94 bytes]
+[Nikon Makernote - 0x0010] Data Dump = [122 values]
+[Nikon Makernote - 0x0e00] Print IM = [94 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

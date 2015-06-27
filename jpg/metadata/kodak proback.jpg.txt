@@ -11,7 +11,7 @@ FILE: Kodak ProBack.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2004:03:13 12:33:04
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8290] Unknown tag (0x8290) = 356
-[Exif IFD0 - 0x83bb] IPTC/NAA = [1024 longs]
+[Exif IFD0 - 0x83bb] IPTC/NAA = [1024 values]
 [Exif IFD0 - 0x9003] Date/Time Original = 2004:03:13 12:33:04
 
 [Exif SubIFD - 0x9000] Exif Version = 2.10

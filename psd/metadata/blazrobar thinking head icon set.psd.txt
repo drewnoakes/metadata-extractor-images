@@ -35,19 +35,19 @@ FILE: BlazRobar Thinking Head Icon Set.psd
 [Photoshop - 0x03ed] Resolution Info = 300.0x300.0 DPI
 [Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
 [Photoshop - 0x03ee] Alpha Channels = 12 84 114 97 110 115 112 97 114 101 110 99 121
-[Photoshop - 0x0415] Unicode Alpha Names = [30 bytes]
+[Photoshop - 0x0415] Unicode Alpha Names = [30 values]
 [Photoshop - 0x03ef] Display Info (Obsolete) = 0 0 -1 -1 0 0 0 0 0 0 0 100 1 0
-[Photoshop - 0x0435] Display Info = [17 bytes]
+[Photoshop - 0x0435] Display Info = [17 values]
 [Photoshop - 0x041d] Alpha Identifiers = 0 0 0 0
 [Photoshop - 0x040d] Global Angle = 120
 [Photoshop - 0x0419] Global Altitude = 30
 [Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
 [Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
-[Photoshop - 0x03f5] Color Halftoning Information = [72 bytes]
-[Photoshop - 0x03f8] Color Transfer Functions = [112 bytes]
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
 [Photoshop - 0x0400] Layer State Information = 0 1
-[Photoshop - 0x0402] Layers Group Information = [306 bytes]
-[Photoshop - 0x0430] Layer Groups Enabled ID = [153 bytes]
+[Photoshop - 0x0402] Layers Group Information = [306 values]
+[Photoshop - 0x0430] Layer Groups Enabled ID = [153 values]
 [Photoshop - 0x042d] Layer Selection IDs = 0 1 0 0 0 5
 [Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
 [Photoshop - 0x041e] URL List = 0
@@ -57,8 +57,8 @@ FILE: BlazRobar Thinking Head Icon Set.psd
 [Photoshop - 0x0414] Seed Number = 185
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 69x160, Decomp 33280 bytes, 1572865 bpp, 4410 bytes
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CS4) 1
-[Photoshop - 0x0fa0] Plug-in 1 Data = [248 bytes]
-[Photoshop - 0x0fa1] Plug-in 2 Data = [28 bytes]
+[Photoshop - 0x0fa0] Plug-in 1 Data = [248 values]
+[Photoshop - 0x0fa1] Plug-in 2 Data = [28 values]
 
 [Xmp - 0xffff] XMP Value Count = 240
 

@@ -128,7 +128,7 @@ FILE: Canon PowerShot S230.jpg
 [Canon Makernote - 0x0008] Image Number = 1292985
 [Canon Makernote - 0x0009] Owner Name = 
 [Canon Makernote - 0x0010] Canon Model ID = 19136512
-[Canon Makernote - 0x000d] Camera Info Array = [34 ints]
+[Canon Makernote - 0x000d] Camera Info Array = [34 values]
 
 [Exif IFD0 - 0x010f] Make = Canon
 [Exif IFD0 - 0x0110] Model = Canon PowerShot S230

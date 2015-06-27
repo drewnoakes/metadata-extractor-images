@@ -72,7 +72,7 @@ FILE: Nikon E990.jpg
 [Nikon Makernote - 0x0085] Manual Focus Distance = 0
 [Nikon Makernote - 0x0086] Digital Zoom = No digital zoom
 [Nikon Makernote - 0x0088] AF Focus Position = Centre
-[Nikon Makernote - 0x0010] Data Dump = [174 bytes]
+[Nikon Makernote - 0x0010] Data Dump = [174 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -14,7 +14,7 @@ FILE: JVC GR-DC2000.jpg
 [Exif SubIFD - 0x9003] Date/Time Original = 2001:07:03 18:58:42
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2001:07:03 18:58:42
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x927c] Makernote = [64 bytes]
+[Exif SubIFD - 0x927c] Makernote = [64 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 1024 pixels

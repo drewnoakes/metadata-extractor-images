@@ -11,7 +11,7 @@ FILE: Sony DSC-HX5V (2).jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0132] Date/Time = 2010:05:15 17:12:05
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [28 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [28 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/250 sec
 [Exif SubIFD - 0x829d] F-Number = f/3.5
@@ -95,20 +95,20 @@ FILE: Sony DSC-HX5V (2).jpg
 
 [Sony Makernote - 0x2000] Unknown tag (0x2000) = 0
 [Sony Makernote - 0x200a] HDR = 0
-[Sony Makernote - 0x3000] Shot Info = [328 bytes]
+[Sony Makernote - 0x3000] Shot Info = [328 values]
 [Sony Makernote - 0xb020] Color Mode Setting = Standard
-[Sony Makernote - 0x9001] Unknown tag (0x9001) = [600 bytes]
-[Sony Makernote - 0x9002] Unknown tag (0x9002) = [324 bytes]
-[Sony Makernote - 0x9003] Unknown tag (0x9003) = [432 bytes]
-[Sony Makernote - 0x9004] Unknown tag (0x9004) = [540 bytes]
-[Sony Makernote - 0x9005] Unknown tag (0x9005) = [712 bytes]
-[Sony Makernote - 0x9006] Unknown tag (0x9006) = [1092 bytes]
-[Sony Makernote - 0x9007] Unknown tag (0x9007) = [400 bytes]
-[Sony Makernote - 0x9008] Unknown tag (0x9008) = [400 bytes]
-[Sony Makernote - 0x9009] Unknown tag (0x9009) = [256 bytes]
-[Sony Makernote - 0x900a] Unknown tag (0x900a) = [200 bytes]
-[Sony Makernote - 0x900b] Unknown tag (0x900b) = [400 bytes]
-[Sony Makernote - 0x900c] Unknown tag (0x900c) = [500 bytes]
+[Sony Makernote - 0x9001] Unknown tag (0x9001) = [600 values]
+[Sony Makernote - 0x9002] Unknown tag (0x9002) = [324 values]
+[Sony Makernote - 0x9003] Unknown tag (0x9003) = [432 values]
+[Sony Makernote - 0x9004] Unknown tag (0x9004) = [540 values]
+[Sony Makernote - 0x9005] Unknown tag (0x9005) = [712 values]
+[Sony Makernote - 0x9006] Unknown tag (0x9006) = [1092 values]
+[Sony Makernote - 0x9007] Unknown tag (0x9007) = [400 values]
+[Sony Makernote - 0x9008] Unknown tag (0x9008) = [400 values]
+[Sony Makernote - 0x9009] Unknown tag (0x9009) = [256 values]
+[Sony Makernote - 0x900a] Unknown tag (0x900a) = [200 values]
+[Sony Makernote - 0x900b] Unknown tag (0x900b) = [400 values]
+[Sony Makernote - 0x900c] Unknown tag (0x900c) = [500 values]
 [Sony Makernote - 0xb040] Macro = Off
 [Sony Makernote - 0xb041] Exposure Mode = Auto
 [Sony Makernote - 0xb042] Focus Mode = 4
@@ -132,10 +132,10 @@ FILE: Sony DSC-HX5V (2).jpg
 [Sony Makernote - 0xb054] White Balance 2 = 0
 [Sony Makernote - 0xa000] Unknown tag (0xa000) = 2147483662
 [Sony Makernote - 0xa001] Unknown tag (0xa001) = 0
-[Sony Makernote - 0xa100] Unknown tag (0xa100) = [168 bytes]
-[Sony Makernote - 0xa101] Unknown tag (0xa101) = [404 bytes]
-[Sony Makernote - 0xa200] Unknown tag (0xa200) = [2644 bytes]
-[Sony Makernote - 0xa700] Unknown tag (0xa700) = [44 bytes]
+[Sony Makernote - 0xa100] Unknown tag (0xa100) = [168 values]
+[Sony Makernote - 0xa101] Unknown tag (0xa101) = [404 values]
+[Sony Makernote - 0xa200] Unknown tag (0xa200) = [2644 values]
+[Sony Makernote - 0xa700] Unknown tag (0xa700) = [44 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

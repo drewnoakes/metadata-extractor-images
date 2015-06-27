@@ -29,7 +29,7 @@ FILE: Olympus E-M5.orf
 [Exif IFD0 - 0x0132] Date/Time = 2012:05:08 16:14:20
 [Exif IFD0 - 0x013b] Artist = 
 [Exif IFD0 - 0x8298] Copyright = 
-[Exif IFD0 - 0xc4a5] Print IM = [528 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [528 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/2500 sec
 [Exif SubIFD - 0x829d] F-Number = f/6.3
@@ -66,7 +66,7 @@ FILE: Olympus E-M5.orf
 [File - 0x0002] File Size = 14195656 bytes
 [File - 0x0003] File Modified Date = Sat Jan 24 21:39:54 GMT 2015
 
-[Olympus Makernote - 0x0003] Camera Settings = [459008 shorts]
+[Olympus Makernote - 0x0003] Camera Settings = [459008 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

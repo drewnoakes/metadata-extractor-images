@@ -9,9 +9,9 @@ FILE: Leica V-LUX (Typ 114).jpg
 [Exif IFD0 - 0x0131] Software = Ver.0.0  
 [Exif IFD0 - 0x0132] Date/Time = 2014:12:16 10:58:47
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [208 bytes]
-[Exif IFD0 - 0xc6d2] Panasonic Title = [64 bytes]
-[Exif IFD0 - 0xc6d3] Panasonic Title (2) = [128 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [208 values]
+[Exif IFD0 - 0xc6d2] Panasonic Title = [64 values]
+[Exif IFD0 - 0xc6d3] Panasonic Title (2) = [128 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/640 sec
 [Exif SubIFD - 0x829d] F-Number = f/3.8
@@ -145,7 +145,7 @@ FILE: Leica V-LUX (Typ 114).jpg
 [Panasonic Makernote - 0x006e] Unknown tag (0x006e) = 0
 [Panasonic Makernote - 0x006f] Landmark = 
 [Panasonic Makernote - 0x0070] Intelligent Resolution = Auto
-[Panasonic Makernote - 0x0071] Unknown tag (0x0071) = [128 bytes]
+[Panasonic Makernote - 0x0071] Unknown tag (0x0071) = [128 values]
 [Panasonic Makernote - 0x0072] Unknown tag (0x0072) = 0
 [Panasonic Makernote - 0x0074] Unknown tag (0x0074) = 0
 [Panasonic Makernote - 0x0075] Unknown tag (0x0075) = 0
@@ -156,12 +156,12 @@ FILE: Leica V-LUX (Typ 114).jpg
 [Panasonic Makernote - 0x007a] Unknown tag (0x007a) = 0
 [Panasonic Makernote - 0x007c] Unknown tag (0x007c) = 0
 [Panasonic Makernote - 0x007f] Unknown tag (0x007f) = 0
-[Panasonic Makernote - 0x0080] Unknown tag (0x0080) = [72 bytes]
-[Panasonic Makernote - 0x0081] Unknown tag (0x0081) = [72 bytes]
-[Panasonic Makernote - 0x0082] Unknown tag (0x0082) = [72 bytes]
-[Panasonic Makernote - 0x0083] Unknown tag (0x0083) = [72 bytes]
-[Panasonic Makernote - 0x0084] Unknown tag (0x0084) = [72 bytes]
-[Panasonic Makernote - 0x0085] Unknown tag (0x0085) = [128 bytes]
+[Panasonic Makernote - 0x0080] Unknown tag (0x0080) = [72 values]
+[Panasonic Makernote - 0x0081] Unknown tag (0x0081) = [72 values]
+[Panasonic Makernote - 0x0082] Unknown tag (0x0082) = [72 values]
+[Panasonic Makernote - 0x0083] Unknown tag (0x0083) = [72 values]
+[Panasonic Makernote - 0x0084] Unknown tag (0x0084) = [72 values]
+[Panasonic Makernote - 0x0085] Unknown tag (0x0085) = [128 values]
 [Panasonic Makernote - 0x0087] Unknown tag (0x0087) = 65535
 [Panasonic Makernote - 0x0089] Unknown tag (0x0089) = 1
 [Panasonic Makernote - 0x008b] Unknown tag (0x008b) = 0
@@ -182,12 +182,12 @@ FILE: Leica V-LUX (Typ 114).jpg
 [Panasonic Makernote - 0x009d] Unknown tag (0x009d) = 0
 [Panasonic Makernote - 0x009e] Unknown tag (0x009e) = 0
 [Panasonic Makernote - 0x009f] Unknown tag (0x009f) = 2
-[Panasonic Makernote - 0x00a0] Unknown tag (0x00a0) = [32 bytes]
+[Panasonic Makernote - 0x00a0] Unknown tag (0x00a0) = [32 values]
 [Panasonic Makernote - 0x00a1] Unknown tag (0x00a1) = 0
 [Panasonic Makernote - 0x00a6] Unknown tag (0x00a6) = 0
 [Panasonic Makernote - 0x00a2] Unknown tag (0x00a2) = 0 0
 [Panasonic Makernote - 0x00a3] Unknown tag (0x00a3) = 0
-[Panasonic Makernote - 0x00a7] Unknown tag (0x00a7) = [864 bytes]
+[Panasonic Makernote - 0x00a7] Unknown tag (0x00a7) = [864 values]
 [Panasonic Makernote - 0x00a8] Unknown tag (0x00a8) = 0
 [Panasonic Makernote - 0x00a9] Unknown tag (0x00a9) = 0
 [Panasonic Makernote - 0x00ab] Unknown tag (0x00ab) = 0
@@ -200,7 +200,7 @@ FILE: Leica V-LUX (Typ 114).jpg
 [Panasonic Makernote - 0x00b4] Unknown tag (0x00b4) = 1
 [Panasonic Makernote - 0x00b5] Unknown tag (0x00b5) = 0
 [Panasonic Makernote - 0x00b6] Unknown tag (0x00b6) = 0 0 0 16
-[Panasonic Makernote - 0x2003] Unknown tag (0x2003) = [20 bytes]
+[Panasonic Makernote - 0x2003] Unknown tag (0x2003) = [20 values]
 [Panasonic Makernote - 0x8000] Makernote Version = 1.47
 [Panasonic Makernote - 0x8001] Scene Mode = Unknown (0)
 [Panasonic Makernote - 0x8002] Unknown tag (0x8002) = 2

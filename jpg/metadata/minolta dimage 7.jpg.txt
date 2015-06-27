@@ -119,10 +119,10 @@ FILE: Minolta DiMAGE 7.jpg
 [Olympus Makernote - 0xf024] Flash Compensation = -0.6666666666666666 EV
 [Olympus Makernote - 0xf025] ISO Setting = 100
 [Olympus Makernote - 0xf026] Camera Model = DiMAGE 7
-[Olympus Makernote - 0x0010] Unknown tag (0x0010) = [12968 bytes]
-[Olympus Makernote - 0x0020] Unknown tag (0x0020) = [260 bytes]
+[Olympus Makernote - 0x0010] Unknown tag (0x0010) = [12968 values]
+[Olympus Makernote - 0x0020] Unknown tag (0x0020) = [260 values]
 [Olympus Makernote - 0x0040] Compressed Image Size = 2189626089 564877062 698697708 4115677177
-[Olympus Makernote - 0x0e00] Print Image Matching (PIM) Info = [40 bytes]
+[Olympus Makernote - 0x0e00] Print Image Matching (PIM) Info = [40 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

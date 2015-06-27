@@ -7,7 +7,7 @@ FILE: Nikon D300.tif
 [Exif IFD0 - 0x0106] Photometric Interpretation = RGB
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON D300
-[Exif IFD0 - 0x0111] Strip Offsets = [712 longs]
+[Exif IFD0 - 0x0111] Strip Offsets = [712 values]
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
 [Exif IFD0 - 0x0116] Rows Per Strip = 4 rows/strip
@@ -22,7 +22,7 @@ FILE: Nikon D300.tif
 [Exif IFD0 - 0x013e] White Point = 313/1000 329/1000
 [Exif IFD0 - 0x013f] Primary Chromaticities = 64/100 33/100 21/100 71/100 15/100 6/100
 [Exif IFD0 - 0x8298] Copyright =                                                       
-[Exif IFD0 - 0x8773] Inter Color Profile = [492 bytes]
+[Exif IFD0 - 0x8773] Inter Color Profile = [492 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/320 sec
 [Exif SubIFD - 0x829d] F-Number = f/11.0
@@ -105,7 +105,7 @@ FILE: Nikon D300.tif
 [Nikon Makernote - 0x001f] VR Info = 48 49 48 48 1 1 0 0
 [Nikon Makernote - 0x0020] Image Authentication = 0
 [Nikon Makernote - 0x0022] Active D-Lighting = Normal
-[Nikon Makernote - 0x0023] Picture Control = [58 bytes]
+[Nikon Makernote - 0x0023] Picture Control = [58 values]
 [Nikon Makernote - 0x0024] World Time = 2 88 0 0
 [Nikon Makernote - 0x0025] ISO Info = 104 1 12 0 0 0 104 1 12 0 0 0 0 0
 [Nikon Makernote - 0x0083] Lens Type = AF, D, G, VR
@@ -114,20 +114,20 @@ FILE: Nikon D300.tif
 [Nikon Makernote - 0x0089] Shooting Mode = Single Frame
 [Nikon Makernote - 0x008a] Unknown 20 = 0
 [Nikon Makernote - 0x008b] Lens Stops = 5.33 EV
-[Nikon Makernote - 0x0091] Shot Info = [5303 bytes]
+[Nikon Makernote - 0x0091] Shot Info = [5303 values]
 [Nikon Makernote - 0x0095] Noise Reduction = OFF 
-[Nikon Makernote - 0x0097] Color Balance = [1540 bytes]
-[Nikon Makernote - 0x0098] Lens Data = [32 bytes]
+[Nikon Makernote - 0x0097] Color Balance = [1540 values]
+[Nikon Makernote - 0x0098] Lens Data = [32 values]
 [Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
-[Nikon Makernote - 0x00a1] Unknown tag (0x00a1) = [56 bytes]
+[Nikon Makernote - 0x00a1] Unknown tag (0x00a1) = [56 values]
 [Nikon Makernote - 0x00a3] Unknown 27 = 0
 [Nikon Makernote - 0x00a7] Exposure Sequence Number = 7205
-[Nikon Makernote - 0x00a8] Flash Info = [22 bytes]
+[Nikon Makernote - 0x00a8] Flash Info = [22 values]
 [Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Normal
 [Nikon Makernote - 0x00b6] Power Up Time = null
-[Nikon Makernote - 0x00b7] AF Info 2 = [30 bytes]
-[Nikon Makernote - 0x00b8] File Info = [172 bytes]
+[Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
+[Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00b9] AF Tune = 0 -1 0 0
 
 Generated using metadata-extractor

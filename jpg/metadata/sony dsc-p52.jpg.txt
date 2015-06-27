@@ -14,7 +14,7 @@ FILE: Sony DSC-P52.jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0132] Date/Time = 2003:07:07 15:44:28
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [28 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [28 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/40 sec
 [Exif SubIFD - 0x829d] F-Number = f/4.0
@@ -69,14 +69,14 @@ FILE: Sony DSC-P52.jpg
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
-[Sony Makernote - 0x9001] Unknown tag (0x9001) = [148 bytes]
-[Sony Makernote - 0x9002] Unknown tag (0x9002) = [200 bytes]
-[Sony Makernote - 0x9003] Unknown tag (0x9003) = [200 bytes]
-[Sony Makernote - 0x9004] Unknown tag (0x9004) = [26 bytes]
-[Sony Makernote - 0x9005] Unknown tag (0x9005) = [120 bytes]
-[Sony Makernote - 0x9006] Unknown tag (0x9006) = [252 bytes]
-[Sony Makernote - 0x9007] Unknown tag (0x9007) = [200 bytes]
-[Sony Makernote - 0x9008] Unknown tag (0x9008) = [200 bytes]
+[Sony Makernote - 0x9001] Unknown tag (0x9001) = [148 values]
+[Sony Makernote - 0x9002] Unknown tag (0x9002) = [200 values]
+[Sony Makernote - 0x9003] Unknown tag (0x9003) = [200 values]
+[Sony Makernote - 0x9004] Unknown tag (0x9004) = [26 values]
+[Sony Makernote - 0x9005] Unknown tag (0x9005) = [120 values]
+[Sony Makernote - 0x9006] Unknown tag (0x9006) = [252 values]
+[Sony Makernote - 0x9007] Unknown tag (0x9007) = [200 values]
+[Sony Makernote - 0x9008] Unknown tag (0x9008) = [200 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -25,7 +25,7 @@ FILE: Ricoh DC-3Z (low res).jpg
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 5.0 mm
-[Exif SubIFD - 0x927c] Makernote = [64 bytes]
+[Exif SubIFD - 0x927c] Makernote = [64 values]
 [Exif SubIFD - 0x9286] User Comment = 
 
 [File - 0x0001] File Name = Ricoh DC-3Z (low res).jpg

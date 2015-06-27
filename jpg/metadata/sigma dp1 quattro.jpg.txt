@@ -133,7 +133,7 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x0033] Unknown tag (0x0033) = 56 13 0
 [Sigma Makernote - 0x0034] Unknown tag (0x0034) = 64 -96 95 64 64 46 -119 -64 -128
 [Sigma Makernote - 0x0035] Unknown tag (0x0035) = 79
-[Sigma Makernote - 0x0036] Unknown tag (0x0036) = [21 bytes]
+[Sigma Makernote - 0x0036] Unknown tag (0x0036) = [21 values]
 [Sigma Makernote - 0x0037] Unknown tag (0x0037) = 0
 [Sigma Makernote - 0x0038] Unknown tag (0x0038) = 34 34
 [Sigma Makernote - 0x0039] Unknown tag (0x0039) = 16 4 88 2
@@ -146,9 +146,9 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x0040] Unknown tag (0x0040) = 0
 [Sigma Makernote - 0x0041] Unknown tag (0x0041) = 0
 [Sigma Makernote - 0x0042] Unknown tag (0x0042) = 57179 47377 22477 6874 50172 64495 24056 63926 51922 32761 15550 65215 34043 24509 65183
-[Sigma Makernote - 0x0043] Unknown tag (0x0043) = [256 ints]
+[Sigma Makernote - 0x0043] Unknown tag (0x0043) = [256 values]
 [Sigma Makernote - 0x0044] Unknown tag (0x0044) = 104
-[Sigma Makernote - 0x0045] Unknown tag (0x0045) = [512 ints]
+[Sigma Makernote - 0x0045] Unknown tag (0x0045) = [512 values]
 [Sigma Makernote - 0x0046] Unknown tag (0x0046) = 254
 [Sigma Makernote - 0x0047] Unknown tag (0x0047) = 0
 [Sigma Makernote - 0x0048] Unknown tag (0x0048) = 2.8 to 16
@@ -188,7 +188,7 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x006a] Unknown tag (0x006a) = 0 800 100
 [Sigma Makernote - 0x006b] Unknown tag (0x006b) = -52 21
 [Sigma Makernote - 0x006c] Unknown tag (0x006c) = 0
-[Sigma Makernote - 0x006d] Unknown tag (0x006d) = [77 ints]
+[Sigma Makernote - 0x006d] Unknown tag (0x006d) = [77 values]
 [Sigma Makernote - 0x006e] Unknown tag (0x006e) = 0 0
 [Sigma Makernote - 0x006f] Unknown tag (0x006f) = 0
 [Sigma Makernote - 0x0070] Unknown tag (0x0070) = 0
@@ -206,7 +206,7 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x007c] Unknown tag (0x007c) = 32768 32768 32768
 [Sigma Makernote - 0x007d] Unknown tag (0x007d) = 0
 [Sigma Makernote - 0x007e] Unknown tag (0x007e) = 1
-[Sigma Makernote - 0x007f] Unknown tag (0x007f) = [480 bytes]
+[Sigma Makernote - 0x007f] Unknown tag (0x007f) = [480 values]
 [Sigma Makernote - 0x0080] Unknown tag (0x0080) = 0
 [Sigma Makernote - 0x0081] Unknown tag (0x0081) = -116 24 0
 [Sigma Makernote - 0x0082] Unknown tag (0x0082) = 0 2

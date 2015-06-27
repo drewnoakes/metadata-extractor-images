@@ -99,11 +99,11 @@ FILE: Nikon D3100.jpg
 [Nikon Makernote - 0x001e] Color Space = sRGB
 [Nikon Makernote - 0x001f] VR Info = 48 49 48 48 1 1 0 0
 [Nikon Makernote - 0x0022] Active D-Lighting = Auto
-[Nikon Makernote - 0x0023] Picture Control = [58 bytes]
+[Nikon Makernote - 0x0023] Picture Control = [58 values]
 [Nikon Makernote - 0x0024] World Time = 0 0 0 2
 [Nikon Makernote - 0x0025] ISO Info = 84 1 12 0 0 0 84 1 12 0 0 0 0 0
 [Nikon Makernote - 0x002b] Unknown 40 = 48 49 48 48 0 4 1 2 0 0 0 0 0 0 0 0
-[Nikon Makernote - 0x002c] Unknown 41 = [574 bytes]
+[Nikon Makernote - 0x002c] Unknown 41 = [574 values]
 [Nikon Makernote - 0x002d] Unknown 42 = 512 0 0
 [Nikon Makernote - 0x0083] Lens Type = AF, D, G, VR
 [Nikon Makernote - 0x0084] Lens = 18-55mm f/3.5-5.6
@@ -111,22 +111,22 @@ FILE: Nikon D3100.jpg
 [Nikon Makernote - 0x0089] Shooting Mode = Single Frame
 [Nikon Makernote - 0x008a] Unknown 20 = 1
 [Nikon Makernote - 0x008b] Lens Stops = 5.33 EV
-[Nikon Makernote - 0x0091] Shot Info = [8817 bytes]
+[Nikon Makernote - 0x0091] Shot Info = [8817 values]
 [Nikon Makernote - 0x0095] Noise Reduction = OFF 
-[Nikon Makernote - 0x0097] Color Balance = [608 bytes]
-[Nikon Makernote - 0x0098] Lens Data = [33 bytes]
+[Nikon Makernote - 0x0097] Color Balance = [608 values]
+[Nikon Makernote - 0x0098] Lens Data = [33 values]
 [Nikon Makernote - 0x009d] Unknown 11 = 0
 [Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00a2] Image Data Size = 3434276
 [Nikon Makernote - 0x00a3] Unknown 27 = 0
 [Nikon Makernote - 0x00a7] Exposure Sequence Number = 395
-[Nikon Makernote - 0x00a8] Flash Info = [46 bytes]
+[Nikon Makernote - 0x00a8] Flash Info = [46 values]
 [Nikon Makernote - 0x00ab] Digital Vari Program =                
 [Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Off
 [Nikon Makernote - 0x00b6] Power Up Time = null
-[Nikon Makernote - 0x00b7] AF Info 2 = [30 bytes]
-[Nikon Makernote - 0x00b8] File Info = [172 bytes]
+[Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
+[Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 -1 -1 -1 0
 
 Generated using metadata-extractor

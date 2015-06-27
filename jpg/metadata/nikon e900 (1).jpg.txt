@@ -53,7 +53,7 @@ FILE: Nikon E900 (1).jpg
 [Nikon Makernote - 0x0003] Quality = SXGA Normal
 [Nikon Makernote - 0x0004] Color Mode = Color
 [Nikon Makernote - 0x0005] Image Adjustment = Normal
-[Nikon Makernote - 0x0f00] Makernote Unknown 3 = [25 longs]
+[Nikon Makernote - 0x0f00] Makernote Unknown 3 = [25 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

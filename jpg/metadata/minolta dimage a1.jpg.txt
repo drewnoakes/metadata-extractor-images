@@ -10,7 +10,7 @@ FILE: Minolta DiMAGE A1.jpg
 [Exif IFD0 - 0x0131] Software = Ver.1.00u
 [Exif IFD0 - 0x0132] Date/Time = 2003:09:13 16:10:42
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
-[Exif IFD0 - 0xc4a5] Print IM = [118 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [118 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
 [Exif SubIFD - 0x829d] F-Number = f/3.5
@@ -142,9 +142,9 @@ FILE: Minolta DiMAGE A1.jpg
 [Olympus Makernote - 0xf044] Unknown tag (0xf044) = 8000
 [Olympus Makernote - 0xf045] Unknown tag (0xf045) = 16
 [Olympus Makernote - 0xf046] Unknown tag (0xf046) = 0
-[Olympus Makernote - 0x0010] Unknown tag (0x0010) = [24576 bytes]
+[Olympus Makernote - 0x0010] Unknown tag (0x0010) = [24576 values]
 [Olympus Makernote - 0x0018] Unknown tag (0x0018) = 0 0 0 0
-[Olympus Makernote - 0x0020] Unknown tag (0x0020) = [4088 bytes]
+[Olympus Makernote - 0x0020] Unknown tag (0x0020) = [4088 values]
 [Olympus Makernote - 0x0040] Compressed Image Size = 2210924
 [Olympus Makernote - 0x0088] Thumbnail Offset = 2246055
 [Olympus Makernote - 0x0089] Thumbnail Length = 59817

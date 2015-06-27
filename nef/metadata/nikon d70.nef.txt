@@ -87,16 +87,16 @@ FILE: Nikon D70.nef
 [Nikon Makernote - 0x0088] AF Focus Position = Unknown (1 0 0 1)
 [Nikon Makernote - 0x0089] Shooting Mode = Single Frame
 [Nikon Makernote - 0x008b] Lens Stops = 5.33 EV
-[Nikon Makernote - 0x008c] Contrast Curve = [4160 bytes]
+[Nikon Makernote - 0x008c] Contrast Curve = [4160 values]
 [Nikon Makernote - 0x008d] Colour Mode = Mode I (sRGB)
 [Nikon Makernote - 0x0090] Light source = NATURAL    
-[Nikon Makernote - 0x0091] Shot Info = [465 bytes]
+[Nikon Makernote - 0x0091] Shot Info = [465 values]
 [Nikon Makernote - 0x0092] Camera Hue Adjustment = 0 degrees
 [Nikon Makernote - 0x0093] NEF Compression = Lossy (Type 1)
 [Nikon Makernote - 0x0095] Noise Reduction = OFF 
-[Nikon Makernote - 0x0096] Linearization Table = [1412 bytes]
-[Nikon Makernote - 0x0097] Color Balance = [140 bytes]
-[Nikon Makernote - 0x0098] Lens Data = [31 bytes]
+[Nikon Makernote - 0x0096] Linearization Table = [1412 values]
+[Nikon Makernote - 0x0097] Color Balance = [140 values]
+[Nikon Makernote - 0x0098] Lens Data = [31 values]
 [Nikon Makernote - 0x0099] NEF Thumbnail Size = 1520 1008
 [Nikon Makernote - 0x009a] Sensor Pixel Size = 78/10 78/10
 [Nikon Makernote - 0x00a0] Camera Serial Number = NO= 00002539        
@@ -105,7 +105,7 @@ FILE: Nikon D70.nef
 [Nikon Makernote - 0x00a9] Image Optimisation = NORMAL
 [Nikon Makernote - 0x00aa] Saturation = NORMAL
 [Nikon Makernote - 0x00ab] Digital Vari Program =  
-[Nikon Makernote - 0x0e01] Nikon Capture Data = [2769 bytes]
+[Nikon Makernote - 0x0e01] Nikon Capture Data = [2769 values]
 [Nikon Makernote - 0x0e10] Nikon Scan = 9793
 
 Generated using metadata-extractor

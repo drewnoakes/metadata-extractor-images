@@ -78,7 +78,7 @@ FILE: Canon PowerShot G2 (3).jpg
 [Canon Makernote - 0x0008] Image Number = 1010135
 [Canon Makernote - 0x0009] Owner Name = Alistair Dickie
 [Canon Makernote - 0x0010] Canon Model ID = 17825792
-[Canon Makernote - 0x000d] Camera Info Array = [21 ints]
+[Canon Makernote - 0x000d] Camera Info Array = [21 values]
 
 [Exif IFD0 - 0x010f] Make = Canon
 [Exif IFD0 - 0x0110] Model = Canon PowerShot G2

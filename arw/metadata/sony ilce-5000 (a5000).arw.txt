@@ -15,7 +15,7 @@ FILE: Sony ILCE-5000 (A5000).arw
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 124578
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 967923
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [106 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [106 values]
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 126 209 0 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/400 sec
@@ -36,7 +36,7 @@ FILE: Sony ILCE-5000 (A5000).arw
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 16.0 mm
-[Exif SubIFD - 0x927c] Makernote = [37079 bytes]
+[Exif SubIFD - 0x927c] Makernote = [37079 values]
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB

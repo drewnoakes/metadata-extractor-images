@@ -9,7 +9,7 @@ FILE: Ricoh WG4 GPS.jpg
 [Exif IFD0 - 0x0131] Software = RICOH WG-4 GPS Ver. 1.00
 [Exif IFD0 - 0x0132] Date/Time = 2014:04:11 08:52:59
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [350 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [350 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/2000 sec
 [Exif SubIFD - 0x829d] F-Number = f/3.1

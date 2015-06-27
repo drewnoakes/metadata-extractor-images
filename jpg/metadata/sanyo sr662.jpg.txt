@@ -58,7 +58,7 @@ FILE: Sanyo SR662.jpg
 
 [Sanyo Makernote - 0x0200] Special Mode = 33554691 1114897 3502768191
 [Sanyo Makernote - 0x0201] Sanyo Quality = Normal/Medium High
-[Sanyo Makernote - 0x0f00] Data Dump = [20 longs]
+[Sanyo Makernote - 0x0f00] Data Dump = [20 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

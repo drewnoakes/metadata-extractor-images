@@ -90,7 +90,7 @@ FILE: Canon PowerShot SD600.jpg
 [Canon Makernote - 0x0007] Firmware Version = Firmware Version 1.00
 [Canon Makernote - 0x0008] Image Number = 1001335
 [Canon Makernote - 0x0009] Owner Name = drew@drewnoakes.com
-[Canon Makernote - 0x000d] Camera Info Array = [104 longs]
+[Canon Makernote - 0x000d] Camera Info Array = [104 values]
 [Canon Makernote - 0x0010] Canon Model ID = 26673152
 [Canon Makernote - 0xd200] AF Point Count = 9
 [Canon Makernote - 0xd201] Valid AF Point Count = 9
@@ -121,13 +121,13 @@ FILE: Canon PowerShot SD600.jpg
 [Canon Makernote - 0xd21a] Unknown tag (0xd21a) = 96
 [Canon Makernote - 0xd21b] Unknown tag (0xd21b) = 5
 [Canon Makernote - 0x0013] Thumbnail Image Valid Area = 0 0 0 0
-[Canon Makernote - 0x0018] Unknown tag (0x0018) = [256 shorts]
+[Canon Makernote - 0x0018] Unknown tag (0x0018) = [256 values]
 [Canon Makernote - 0x0019] Unknown tag (0x0019) = 1
 [Canon Makernote - 0x001c] Date Stamp Mode = 0
 [Canon Makernote - 0x001d] My Colors = 32 1 0 2 2 2 2 0 0 0 0 39 0 0 0 0
 [Canon Makernote - 0x001e] Firmware Revision = 16777472
-[Canon Makernote - 0x001f] Unknown tag (0x001f) = [69 ints]
-[Canon Makernote - 0x0022] Unknown tag (0x0022) = [208 ints]
+[Canon Makernote - 0x001f] Unknown tag (0x001f) = [69 values]
+[Canon Makernote - 0x0022] Unknown tag (0x0022) = [208 values]
 
 [Exif IFD0 - 0x010f] Make = Canon
 [Exif IFD0 - 0x0110] Model = Canon PowerShot SD600

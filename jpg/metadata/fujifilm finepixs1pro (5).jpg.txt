@@ -137,8 +137,8 @@ FILE: FujiFilm FinePixS1Pro (5).jpg
 [Photoshop - 0x040a] Copyright Flag = Yes
 [Photoshop - 0x040b] URL = www.freefoto.com
 [Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
-[Photoshop - 0x03f5] Color Halftoning Information = [72 bytes]
-[Photoshop - 0x03f8] Color Transfer Functions = [112 bytes]
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
 [Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
 [Photoshop - 0x041e] URL List = 0
 [Photoshop - 0x041a] Slices = 2030_16_54_a4 (0,0,1200,800) 1 Slices

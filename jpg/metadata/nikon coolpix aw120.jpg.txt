@@ -94,26 +94,26 @@ FILE: Nikon Coolpix AW120.jpg
 [Nikon Makernote - 0x000a] Unknown tag (0x000a) = 7.77
 [Nikon Makernote - 0x000b] White Balance Fine = 0
 [Nikon Makernote - 0x000f] ISO Mode = MANUAL
-[Nikon Makernote - 0x0010] Data Dump = [8918 bytes]
+[Nikon Makernote - 0x0010] Data Dump = [8918 values]
 [Nikon Makernote - 0x0011] Preview IFD = 10332
-[Nikon Makernote - 0x001a] Flash Mode = [40 bytes]
-[Nikon Makernote - 0x0026] Unknown 36 = [18 ints]
+[Nikon Makernote - 0x001a] Flash Mode = [40 values]
+[Nikon Makernote - 0x0026] Unknown 36 = [18 values]
 [Nikon Makernote - 0x0027] Unknown 37 = 0 1 0 0 0 0 0 0 0 0 0 0 0 0
-[Nikon Makernote - 0x002c] Unknown 41 = [206 bytes]
+[Nikon Makernote - 0x002c] Unknown 41 = [206 values]
 [Nikon Makernote - 0x002d] Unknown 42 = 256 0
 [Nikon Makernote - 0x002e] Unknown 43 = 1
 [Nikon Makernote - 0x002f] Unknown 44 = 0
 [Nikon Makernote - 0x0030] Unknown 45 = 0
 [Nikon Makernote - 0x0035] Unknown tag (0x0035) = 48 49 48 49 0 0 0 0
 [Nikon Makernote - 0x0036] Unknown tag (0x0036) = 0 0 0 0 0 0
-[Nikon Makernote - 0x0039] Unknown tag (0x0039) = [79 bytes]
+[Nikon Makernote - 0x0039] Unknown tag (0x0039) = [79 values]
 [Nikon Makernote - 0x003a] Unknown tag (0x003a) = 48 49 48 48 0 0 0
 [Nikon Makernote - 0x0080] Image Adjustment = NORMAL       
 [Nikon Makernote - 0x0085] Manual Focus Distance = 0
 [Nikon Makernote - 0x0086] Digital Zoom = No digital zoom
 [Nikon Makernote - 0x0088] AF Focus Position = Unknown (1 0 0 0)
 [Nikon Makernote - 0x008f] Scene Mode = AUTO           
-[Nikon Makernote - 0x0091] Shot Info = [272 bytes]
+[Nikon Makernote - 0x0091] Shot Info = [272 values]
 [Nikon Makernote - 0x0094] Saturation = 0
 [Nikon Makernote - 0x0095] Noise Reduction = OFF 
 [Nikon Makernote - 0x009b] Unknown 10 = 0 0
@@ -123,7 +123,7 @@ FILE: Nikon Coolpix AW120.jpg
 [Nikon Makernote - 0x00ac] Image Stabilisation = VR-ON     
 [Nikon Makernote - 0x00b2] Unknown 31 = NORMAL  
 [Nikon Makernote - 0x00b5] Unknown 48 = 4097
-[Nikon Makernote - 0x00c2] Unknown tag (0x00c2) = [24 bytes]
+[Nikon Makernote - 0x00c2] Unknown tag (0x00c2) = [24 values]
 [Nikon Makernote - 0x00c3] Unknown tag (0x00c3) = 48 49 48 48 109 3 -92 4 0 0 10 0
 
 Generated using metadata-extractor

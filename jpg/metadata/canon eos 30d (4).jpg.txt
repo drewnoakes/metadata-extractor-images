@@ -89,8 +89,8 @@ FILE: Canon EOS 30D (4).jpg
 [Canon Makernote - 0x0007] Firmware Version = Firmware 1.0.4
 [Canon Makernote - 0x0009] Owner Name = unknown
 [Canon Makernote - 0x000c] Camera Serial Number = 00E800157
-[Canon Makernote - 0x000d] Camera Info Array = [1024 bytes]
-[Canon Makernote - 0x000f] Custom Functions = [20 ints]
+[Canon Makernote - 0x000d] Camera Info Array = [1024 values]
+[Canon Makernote - 0x000f] Custom Functions = [20 values]
 [Canon Makernote - 0x0010] Canon Model ID = 2147484212
 [Canon Makernote - 0xd200] AF Point Count = 9
 [Canon Makernote - 0xd201] Valid AF Point Count = 9
@@ -131,12 +131,12 @@ FILE: Canon EOS 30D (4).jpg
 [Canon Makernote - 0x00aa] Measured Color Array = 10 438 1024 1024 817
 [Canon Makernote - 0x00b4] Color Space = 1
 [Canon Makernote - 0x00d0] VRD Offset = 0
-[Canon Makernote - 0x00e0] Sensor Information Array = [17 ints]
-[Canon Makernote - 0x4001] Color Data Array 1 = [796 ints]
+[Canon Makernote - 0x00e0] Sensor Information Array = [17 values]
+[Canon Makernote - 0x4001] Color Data Array 1 = [796 values]
 [Canon Makernote - 0x4008] Black Level = 129 129 129
 [Canon Makernote - 0x4009] Unknown tag (0x4009) = 0 0 0
 [Canon Makernote - 0x4010] Custom Picture Style File Name = 
-[Canon Makernote - 0x4011] Unknown tag (0x4011) = [252 bytes]
+[Canon Makernote - 0x4011] Unknown tag (0x4011) = [252 values]
 
 [Exif IFD0 - 0x010f] Make = Canon
 [Exif IFD0 - 0x0110] Model = Canon EOS 30D

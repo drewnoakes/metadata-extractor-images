@@ -9,7 +9,7 @@ FILE: Sony DSC-T5.jpg
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0132] Date/Time = 2007:07:13 14:24:53
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [28 bytes]
+[Exif IFD0 - 0xc4a5] Print IM = [28 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/125 sec
 [Exif SubIFD - 0x829d] F-Number = f/6.3
@@ -68,14 +68,14 @@ FILE: Sony DSC-T5.jpg
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Sony Makernote - 0x2000] Unknown tag (0x2000) = 0
-[Sony Makernote - 0x9001] Unknown tag (0x9001) = [148 bytes]
-[Sony Makernote - 0x9002] Unknown tag (0x9002) = [200 bytes]
-[Sony Makernote - 0x9003] Unknown tag (0x9003) = [200 bytes]
-[Sony Makernote - 0x9004] Unknown tag (0x9004) = [124 bytes]
-[Sony Makernote - 0x9005] Unknown tag (0x9005) = [122 bytes]
-[Sony Makernote - 0x9006] Unknown tag (0x9006) = [252 bytes]
-[Sony Makernote - 0x9007] Unknown tag (0x9007) = [200 bytes]
-[Sony Makernote - 0x9008] Unknown tag (0x9008) = [200 bytes]
+[Sony Makernote - 0x9001] Unknown tag (0x9001) = [148 values]
+[Sony Makernote - 0x9002] Unknown tag (0x9002) = [200 values]
+[Sony Makernote - 0x9003] Unknown tag (0x9003) = [200 values]
+[Sony Makernote - 0x9004] Unknown tag (0x9004) = [124 values]
+[Sony Makernote - 0x9005] Unknown tag (0x9005) = [122 values]
+[Sony Makernote - 0x9006] Unknown tag (0x9006) = [252 values]
+[Sony Makernote - 0x9007] Unknown tag (0x9007) = [200 values]
+[Sony Makernote - 0x9008] Unknown tag (0x9008) = [200 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
