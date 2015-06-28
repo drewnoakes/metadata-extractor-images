@@ -13,6 +13,8 @@ FILE: Canon PowerShot G2.jpg
 [JFIF - 0x0007] Resolution Units = none
 [JFIF - 0x0008] X Resolution = 1 dot
 [JFIF - 0x000a] Y Resolution = 1 dot
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
 
 [Exif IFD0 - 0x010f] Make = Canon
 [Exif IFD0 - 0x0110] Model = Canon PowerShot G2

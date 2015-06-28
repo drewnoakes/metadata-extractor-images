@@ -13,6 +13,8 @@ FILE: Photoshop (1).jpg
 [JFIF - 0x0007] Resolution Units = inch
 [JFIF - 0x0008] X Resolution = 72 dots
 [JFIF - 0x000a] Y Resolution = 72 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
 
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif IFD0 - 0x0131] Software = ACD Systems Digital Imaging

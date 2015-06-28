@@ -13,6 +13,8 @@ FILE: Sony Cybershot (7).jpg
 [JFIF - 0x0007] Resolution Units = inch
 [JFIF - 0x0008] X Resolution = 300 dots
 [JFIF - 0x000a] Y Resolution = 300 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
 
 [Photoshop - 0x03ed] Resolution Info = 300x300 DPI
 [Photoshop - 0x040d] Global Angle = 30

@@ -13,6 +13,8 @@ FILE: Nikon D5000.jpg
 [JFIF - 0x0007] Resolution Units = inch
 [JFIF - 0x0008] X Resolution = 72 dots
 [JFIF - 0x000a] Y Resolution = 72 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
 
 [Exif IFD0 - 0x0103] Compression = Uncompressed
 [Exif IFD0 - 0x0106] Photometric Interpretation = RGB

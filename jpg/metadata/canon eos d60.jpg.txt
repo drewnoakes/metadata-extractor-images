@@ -13,6 +13,8 @@ FILE: Canon EOS D60.jpg
 [JFIF - 0x0007] Resolution Units = inch
 [JFIF - 0x0008] X Resolution = 300 dots
 [JFIF - 0x000a] Y Resolution = 300 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
 
 [Exif IFD0 - 0x010f] Make = Canon
 [Exif IFD0 - 0x0110] Model = Canon EOS D60
