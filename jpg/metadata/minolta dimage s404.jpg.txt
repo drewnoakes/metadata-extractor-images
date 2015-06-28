@@ -53,7 +53,7 @@ FILE: Minolta DiMAGE S404.jpg
 [Olympus Makernote - 0xf008] Metering Mode = Unknown (43)
 [Olympus Makernote - 0xf009] Apex Film Speed Value = 450.0
 [Olympus Makernote - 0xf00a] Apex Shutter Speed Time Value = 1.890625 sec
-[Olympus Makernote - 0xf00b] Apex Aperture Value = f/0.2
+[Olympus Makernote - 0xf00b] Apex Aperture Value = f/0.3
 [Olympus Makernote - 0xf00c] Macro Mode = Off
 [Olympus Makernote - 0xf00d] Digital Zoom = Unknown (6)
 [Olympus Makernote - 0xf00e] Exposure Compensation = -1.6666666666666667 EV
