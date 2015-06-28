@@ -1,5 +1,14 @@
 FILE: LG G3.jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2340 pixels
+[JPEG - 0x0003] Image Width = 4160 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010f] Make = LG Electronics
 [Exif IFD0 - 0x0110] Model = LG-D855
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -29,34 +38,25 @@ FILE: LG G3.jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
 
-[File - 0x0001] File Name = LG G3.jpg
-[File - 0x0002] File Size = 5618721 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:55:16 +00:00 2015
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
 
 [GPS - 0x0005] GPS Altitude Ref = Sea level
 [GPS - 0x0006] GPS Altitude = 0 metres
+
+[Xmp - 0xffff] XMP Value Count = 23
+[Xmp - 0x1001] Rating = 2.0
+
+[Photoshop - 0x0425] Caption Digest = -9 106 -125 105 11 43 -9 79 -3 -7 34 -11 6 22 67 -20
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0237] Date Created = Fri Nov 14 00:00:00 +00:00 2014
 [IPTC - 0x023c] Time Created = 14:10:41
 
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 2340 pixels
-[JPEG - 0x0003] Image Width = 4160 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
-[Photoshop - 0x0425] Caption Digest = -9 106 -125 105 11 43 -9 79 -3 -7 34 -11 6 22 67 -20
-
-[Xmp - 0xffff] XMP Value Count = 23
-[Xmp - 0x1001] Rating = 2.0
+[File - 0x0001] File Name = LG G3.jpg
+[File - 0x0002] File Size = 5618721 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:55:16 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

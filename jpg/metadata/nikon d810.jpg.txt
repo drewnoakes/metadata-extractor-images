@@ -1,5 +1,14 @@
 FILE: Nikon D810.jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 4912 pixels
+[JPEG - 0x0003] Image Width = 7360 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON D810
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -51,32 +60,6 @@ FILE: Nikon D810.jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
-
-[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
-[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 19828 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 9709 bytes
-[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
-
-[File - 0x0001] File Name = Nikon D810.jpg
-[File - 0x0002] File Size = 18575098 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:46:41 +00:00 2015
-
-[GPS - 0x0000] GPS Version ID = 2.300
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 4912 pixels
-[JPEG - 0x0003] Image Width = 7360 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.11
 [Nikon Makernote - 0x0004] Quality & File Format = FINE   
@@ -138,7 +121,24 @@ FILE: Nikon D810.jpg
 [Nikon Makernote - 0x00bf] Unknown tag (0x00bf) = 0
 [Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 52 1 12 0 -112 1 12 0
 
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[GPS - 0x0000] GPS Version ID = 2.300
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 19828 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 9709 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
 [Xmp - 0xffff] XMP Value Count = 2
+
+[File - 0x0001] File Name = Nikon D810.jpg
+[File - 0x0002] File Size = 18575098 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:46:41 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

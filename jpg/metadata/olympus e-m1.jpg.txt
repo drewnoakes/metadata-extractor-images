@@ -2,6 +2,15 @@ FILE: Olympus E-M1.jpg
 
 [ERROR: Olympus Makernote] Illegally sized IFD
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3456 pixels
+[JPEG - 0x0003] Image Width = 4608 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010e] Image Description = OLYMPUS DIGITAL CAMERA         
 [Exif IFD0 - 0x010f] Make = OLYMPUS IMAGING CORP.  
 [Exif IFD0 - 0x0110] Model = E-M1            
@@ -49,6 +58,11 @@ FILE: Olympus E-M1.jpg
 [Exif SubIFD - 0xa432] Lens Specification = 75/1 75/1 18/10 18/10
 [Exif SubIFD - 0xa434] Lens Model = OLYMPUS M.75mm F1.8
 
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[GPS - 0x0000] GPS Version ID = 2.300
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
@@ -59,20 +73,6 @@ FILE: Olympus E-M1.jpg
 [File - 0x0001] File Name = Olympus E-M1.jpg
 [File - 0x0002] File Size = 11543047 bytes
 [File - 0x0003] File Modified Date = Sat Jan 24 21:40:49 +00:00 2015
-
-[GPS - 0x0000] GPS Version ID = 2.300
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 3456 pixels
-[JPEG - 0x0003] Image Width = 4608 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

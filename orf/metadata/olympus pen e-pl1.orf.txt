@@ -57,11 +57,11 @@ FILE: Olympus Pen E-PL1.orf
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 
+[Olympus Makernote - 0x0003] Camera Settings = [459008 values]
+
 [File - 0x0001] File Name = Olympus Pen E-PL1.orf
 [File - 0x0002] File Size = 12225493 bytes
 [File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 +00:00 2013
-
-[Olympus Makernote - 0x0003] Camera Settings = [459008 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

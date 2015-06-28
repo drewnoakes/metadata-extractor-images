@@ -1,9 +1,5 @@
 FILE: photoshop-8x12-rgb24-all-metadata.png
 
-[File - 0x0001] File Name = photoshop-8x12-rgb24-all-metadata.png
-[File - 0x0002] File Size = 1262 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:12:58 +00:00 2015
-
 [PNG-IHDR - 0x0001] Image Width = 8
 [PNG-IHDR - 0x0002] Image Height = 12
 [PNG-IHDR - 0x0003] Bits Per Sample = 8
@@ -15,6 +11,10 @@ FILE: photoshop-8x12-rgb24-all-metadata.png
 [PNG-iTXt - 0x000d] Textual Data = Software: Adobe ImageReady
 
 [Xmp - 0xffff] XMP Value Count = 10
+
+[File - 0x0001] File Name = photoshop-8x12-rgb24-all-metadata.png
+[File - 0x0002] File Size = 1262 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:12:58 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

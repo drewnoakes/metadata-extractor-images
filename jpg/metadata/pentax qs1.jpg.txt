@@ -2,6 +2,15 @@ FILE: Pentax QS1.jpg
 
 [ERROR: Pentax Makernote] Illegally sized IFD
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3000 pixels
+[JPEG - 0x0003] Image Width = 4000 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010f] Make = PENTAX
 [Exif IFD0 - 0x0110] Model = PENTAX Q-S1
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -48,6 +57,9 @@ FILE: Pentax QS1.jpg
 [Exif SubIFD - 0xa433] Lens Make = PENTAX
 [Exif SubIFD - 0xa434] Lens Model = 02 STANDARD ZOOM
 
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
@@ -55,34 +67,22 @@ FILE: Pentax QS1.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 56684 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 2576 bytes
 
-[File - 0x0001] File Name = Pentax QS1.jpg
-[File - 0x0002] File Size = 4448738 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 19:42:33 +00:00 2015
+[Xmp - 0xffff] XMP Value Count = 27
+[Xmp - 0x0006] Lens Information = 50/10 150/10 28/10 45/10
+[Xmp - 0x0007] Lens = 02 STANDARD ZOOM
+[Xmp - 0x0008] Serial Number = 2587411
+[Xmp - 0x1001] Rating = 4.0
+
+[Photoshop - 0x0425] Caption Digest = 110 38 73 -39 -81 -60 10 86 -1 11 -44 14 -79 67 34 -122
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0237] Date Created = Thu Jan 08 00:00:00 +00:00 2015
 [IPTC - 0x023c] Time Created = 14:41:15
 
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 3000 pixels
-[JPEG - 0x0003] Image Width = 4000 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
-[Photoshop - 0x0425] Caption Digest = 110 38 73 -39 -81 -60 10 86 -1 11 -44 14 -79 67 34 -122
-
-[Xmp - 0xffff] XMP Value Count = 27
-[Xmp - 0x0006] Lens Information = 50/10 150/10 28/10 45/10
-[Xmp - 0x0007] Lens = 02 STANDARD ZOOM
-[Xmp - 0x0008] Serial Number = 2587411
-[Xmp - 0x1001] Rating = 4.0
+[File - 0x0001] File Name = Pentax QS1.jpg
+[File - 0x0002] File Size = 4448738 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 19:42:33 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

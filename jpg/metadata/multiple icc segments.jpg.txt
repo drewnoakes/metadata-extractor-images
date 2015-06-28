@@ -1,9 +1,14 @@
 FILE: Multiple ICC segments.jpg
 
-[Adobe JPEG - 0x0000] DCT Encode Version = 25600
-[Adobe JPEG - 0x0001] Flags 0 = 0
-[Adobe JPEG - 0x0002] Flags 1 = 0
-[Adobe JPEG - 0x0003] Color Transform = YCCK
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 140 pixels
+[JPEG - 0x0003] Image Width = 140 pixels
+[JPEG - 0x0005] Number of Components = 4
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0009] Component 4 = I component: Quantization table 0, Sampling factors 1 horiz/1 vert
 
 [Exif IFD0 - 0x0100] Image Width = 140 pixels
 [Exif IFD0 - 0x0101] Image Height = 140 pixels
@@ -29,9 +34,7 @@ FILE: Multiple ICC segments.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 386 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3925 bytes
 
-[File - 0x0001] File Name = Multiple ICC segments.jpg
-[File - 0x0002] File Size = 580171 bytes
-[File - 0x0003] File Modified Date = Sun Feb 01 18:18:35 +00:00 2015
+[Xmp - 0xffff] XMP Value Count = 22
 
 [ICC Profile - 0x0000] Profile Size = 557168
 [ICC Profile - 0x0004] CMM Type = ADBE
@@ -57,19 +60,6 @@ FILE: Multiple ICC segments.jpg
 [ICC Profile - 0x42324132] BToA 2 = mft1 (0x6D667431): 145588 bytes
 [ICC Profile - 0x67616d74] Gamut = mft1 (0x6D667431): 37009 bytes
 
-[IPTC - 0x015a] Coded Character Set = UTF-8
-[IPTC - 0x0200] Application Record Version = 32767
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 140 pixels
-[JPEG - 0x0003] Image Width = 140 pixels
-[JPEG - 0x0005] Number of Components = 4
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0009] Component 4 = I component: Quantization table 0, Sampling factors 1 horiz/1 vert
-
 [Photoshop - 0x0425] Caption Digest = 54 -128 15 -13 -113 28 7 -48 102 -41 -59 -35 99 -37 97 -92
 [Photoshop - 0x043a] Print Info 2 = [229 values]
 [Photoshop - 0x043b] Print Style = [557 values]
@@ -90,7 +80,17 @@ FILE: Multiple ICC segments.jpg
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CC 2014) 1
 [Photoshop - 0x0406] JPEG Quality = 8 (High), Standard format, 3 scans
 
-[Xmp - 0xffff] XMP Value Count = 22
+[IPTC - 0x015a] Coded Character Set = UTF-8
+[IPTC - 0x0200] Application Record Version = 32767
+
+[Adobe JPEG - 0x0000] DCT Encode Version = 25600
+[Adobe JPEG - 0x0001] Flags 0 = 0
+[Adobe JPEG - 0x0002] Flags 1 = 0
+[Adobe JPEG - 0x0003] Color Transform = YCCK
+
+[File - 0x0001] File Name = Multiple ICC segments.jpg
+[File - 0x0002] File Size = 580171 bytes
+[File - 0x0003] File Modified Date = Sun Feb 01 18:18:35 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

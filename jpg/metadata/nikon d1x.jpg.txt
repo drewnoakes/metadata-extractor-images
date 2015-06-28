@@ -3,6 +3,15 @@ FILE: Nikon D1X.jpg
 [ERROR: GPS] Invalid TIFF tag format code: 0
 [ERROR: IPTC] Too few bytes remain for a valid IPTC tag
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 391 pixels
+[JPEG - 0x0003] Image Width = 600 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON D1X
@@ -52,36 +61,6 @@ FILE: Nikon D1X.jpg
 [Exif SubIFD - 0xa40a] Sharpness = Low
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
-[File - 0x0001] File Name = Nikon D1X.jpg
-[File - 0x0002] File Size = 101874 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
-
-[GPS - 0x0000] GPS Version ID = 2.200
-
-[IPTC - 0x0200] Application Record Version = 2
-[IPTC - 0x0205] Object Name = 
-[IPTC - 0x0214] Supplemental Category(s) = Woodworking
-[IPTC - 0x0219] Keywords = Woodworking
-[IPTC - 0x0228] Special Instructions = 
-[IPTC - 0x0237] Date Created = Wed Aug 06 00:00:00 +01:00 2003
-[IPTC - 0x023c] Time Created = 18:04:34-0500
-[IPTC - 0x0250] By-line = 
-[IPTC - 0x0255] By-line Title = 
-[IPTC - 0x0269] Headline = 
-[IPTC - 0x026e] Credit = 
-[IPTC - 0x0273] Source = 
-[IPTC - 0x0274] Copyright Notice = © 2003 Joseph S. Colson
-[IPTC - 0x0278] Caption/Abstract = Workshop showing workbench and storage
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 391 pixels
-[JPEG - 0x0003] Image Width = 600 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Nikon Makernote - 0x0001] Firmware Version = 2.00
 [Nikon Makernote - 0x0002] ISO = ISO 200
 [Nikon Makernote - 0x0003] Color Mode = COLOR
@@ -113,6 +92,27 @@ FILE: Nikon D1X.jpg
 [Nikon Makernote - 0x0099] NEF Thumbnail Size = 2014 662
 [Nikon Makernote - 0x009a] Sensor Pixel Size = 59/10 59/5
 [Nikon Makernote - 0x0e10] Nikon Scan = 2875
+
+[GPS - 0x0000] GPS Version ID = 2.200
+
+[IPTC - 0x0200] Application Record Version = 2
+[IPTC - 0x0205] Object Name = 
+[IPTC - 0x0214] Supplemental Category(s) = Woodworking
+[IPTC - 0x0219] Keywords = Woodworking
+[IPTC - 0x0228] Special Instructions = 
+[IPTC - 0x0237] Date Created = Wed Aug 06 00:00:00 +01:00 2003
+[IPTC - 0x023c] Time Created = 18:04:34-0500
+[IPTC - 0x0250] By-line = 
+[IPTC - 0x0255] By-line Title = 
+[IPTC - 0x0269] Headline = 
+[IPTC - 0x026e] Credit = 
+[IPTC - 0x0273] Source = 
+[IPTC - 0x0274] Copyright Notice = © 2003 Joseph S. Colson
+[IPTC - 0x0278] Caption/Abstract = Workshop showing workbench and storage
+
+[File - 0x0001] File Name = Nikon D1X.jpg
+[File - 0x0002] File Size = 101874 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

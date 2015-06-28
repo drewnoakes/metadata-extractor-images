@@ -1,9 +1,5 @@
 FILE: MARBLES.PCX
 
-[File - 0x0001] File Name = MARBLES.PCX
-[File - 0x0002] File Size = 3820328 bytes
-[File - 0x0003] File Modified Date = Sat Feb 14 23:41:46 +00:00 2015
-
 [PCX - 0x0001] Version = 3.0 or better
 [PCX - 0x0002] Bits Per Pixel = 8
 [PCX - 0x0003] X Min = 0
@@ -16,6 +12,10 @@ FILE: MARBLES.PCX
 [PCX - 0x000a] Color Planes = 24-bit color
 [PCX - 0x000b] Bytes Per Line = 1420
 [PCX - 0x000c] Palette Type = Color or B&W
+
+[File - 0x0001] File Name = MARBLES.PCX
+[File - 0x0002] File Size = 3820328 bytes
+[File - 0x0003] File Modified Date = Sat Feb 14 23:41:46 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

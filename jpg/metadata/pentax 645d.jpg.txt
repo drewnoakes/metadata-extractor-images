@@ -1,5 +1,56 @@
 FILE: Pentax 645D.jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 5440 pixels
+[JPEG - 0x0003] Image Width = 7264 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = PENTAX             
+[Exif IFD0 - 0x0110] Model = PENTAX 645D        
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 645D Ver 1.00          
+[Exif IFD0 - 0x0132] Date/Time = 2011:02:18 06:16:42
+[Exif IFD0 - 0x013b] Artist = 
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x8298] Copyright = 
+[Exif IFD0 - 0xc4a5] Print IM = [350 values]
+
+[Exif SubIFD - 0x829a] Exposure Time = 1 sec
+[Exif SubIFD - 0x829d] F-Number = f/8.0
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2011:02:18 06:16:42
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2011:02:18 06:16:42
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0.7 EV
+[Exif SubIFD - 0x9207] Metering Mode = Center weighted average
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 55.0 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 7264 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 5440 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa405] Focal Length 35 = 43mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Distant view
+
 [Casio Makernote - 0x0000] Unknown tag (0x0000) = 6 0 0 0
 [Casio Makernote - 0x0001] Unknown tag (0x0001) = 0
 [Casio Makernote - 0x0002] Thumbnail Dimensions = 640 x 480 pixels
@@ -89,47 +140,8 @@ FILE: Pentax 645D.jpg
 [Casio Makernote - 0x0404] Unknown tag (0x0404) = [2086 values]
 [Casio Makernote - 0x0406] Unknown tag (0x0406) = [4116 values]
 
-[Exif IFD0 - 0x010f] Make = PENTAX             
-[Exif IFD0 - 0x0110] Model = PENTAX 645D        
-[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = 645D Ver 1.00          
-[Exif IFD0 - 0x0132] Date/Time = 2011:02:18 06:16:42
-[Exif IFD0 - 0x013b] Artist = 
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x8298] Copyright = 
-[Exif IFD0 - 0xc4a5] Print IM = [350 values]
-
-[Exif SubIFD - 0x829a] Exposure Time = 1 sec
-[Exif SubIFD - 0x829d] F-Number = f/8.0
-[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
-[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
-[Exif SubIFD - 0x9000] Exif Version = 2.21
-[Exif SubIFD - 0x9003] Date/Time Original = 2011:02:18 06:16:42
-[Exif SubIFD - 0x9004] Date/Time Digitized = 2011:02:18 06:16:42
-[Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9204] Exposure Bias Value = 0.7 EV
-[Exif SubIFD - 0x9207] Metering Mode = Center weighted average
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 55.0 mm
-[Exif SubIFD - 0xa000] FlashPix Version = 1.00
-[Exif SubIFD - 0xa001] Color Space = sRGB
-[Exif SubIFD - 0xa002] Exif Image Width = 7264 pixels
-[Exif SubIFD - 0xa003] Exif Image Height = 5440 pixels
-[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
-[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
-[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-[Exif SubIFD - 0xa401] Custom Rendered = Normal process
-[Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
-[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
-[Exif SubIFD - 0xa405] Focal Length 35 = 43mm
-[Exif SubIFD - 0xa406] Scene Capture Type = Standard
-[Exif SubIFD - 0xa408] Contrast = None
-[Exif SubIFD - 0xa409] Saturation = None
-[Exif SubIFD - 0xa40a] Sharpness = None
-[Exif SubIFD - 0xa40c] Subject Distance Range = Distant view
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
 
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
@@ -141,18 +153,6 @@ FILE: Pentax 645D.jpg
 [File - 0x0001] File Name = Pentax 645D.jpg
 [File - 0x0002] File Size = 16090679 bytes
 [File - 0x0003] File Modified Date = Sat Jan 24 20:30:42 +00:00 2015
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 5440 pixels
-[JPEG - 0x0003] Image Width = 7264 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

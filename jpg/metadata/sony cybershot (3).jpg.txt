@@ -1,9 +1,18 @@
 FILE: Sony Cybershot (3).jpg
 
-[Adobe JPEG - 0x0000] DCT Encode Version = 25600
-[Adobe JPEG - 0x0001] Flags 0 = 128
-[Adobe JPEG - 0x0002] Flags 1 = 0
-[Adobe JPEG - 0x0003] Color Transform = YCbCr
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 450 pixels
+[JPEG - 0x0003] Image Width = 311 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.2
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 72 dots
+[JFIF - 0x000a] Y Resolution = 72 dots
 
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = SONY
@@ -37,6 +46,9 @@ FILE: Sony Cybershot (3).jpg
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
 
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010f] Make = SONY
 [Exif Thumbnail - 0x0110] Model = CYBERSHOT
@@ -47,27 +59,6 @@ FILE: Sony Cybershot (3).jpg
 [Exif Thumbnail - 0x0132] Date/Time = 2001:11:27 18:33:44
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 797 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3448 bytes
-
-[File - 0x0001] File Name = Sony Cybershot (3).jpg
-[File - 0x0002] File Size = 34646 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 +00:00 2013
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JFIF - 0x0005] Version = 1.2
-[JFIF - 0x0007] Resolution Units = inch
-[JFIF - 0x0008] X Resolution = 72 dots
-[JFIF - 0x000a] Y Resolution = 72 dots
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 450 pixels
-[JPEG - 0x0003] Image Width = 311 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Photoshop - 0x03ed] Resolution Info = 72.0x72.0 DPI
 [Photoshop - 0x040d] Global Angle = 30
@@ -85,6 +76,15 @@ FILE: Sony Cybershot (3).jpg
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 77x112, Decomp 25984 bytes, 1572865 bpp, 3628 bytes
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 6.0) 1
 [Photoshop - 0x0406] JPEG Quality = 5 (Medium), Standard format, 3 scans
+
+[Adobe JPEG - 0x0000] DCT Encode Version = 25600
+[Adobe JPEG - 0x0001] Flags 0 = 128
+[Adobe JPEG - 0x0002] Flags 1 = 0
+[Adobe JPEG - 0x0003] Color Transform = YCbCr
+
+[File - 0x0001] File Name = Sony Cybershot (3).jpg
+[File - 0x0002] File Size = 34646 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 +00:00 2013
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

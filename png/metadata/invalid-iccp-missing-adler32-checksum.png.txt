@@ -2,9 +2,13 @@ FILE: invalid-iCCP-missing-adler32-checksum.png
 
 [ERROR: ICC Profile] Exception reading ICC profile: Unexpected end of ZLIB input stream
 
-[File - 0x0001] File Name = invalid-iCCP-missing-adler32-checksum.png
-[File - 0x0002] File Size = 22661 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:12:58 +00:00 2015
+[PNG-IHDR - 0x0001] Image Width = 460
+[PNG-IHDR - 0x0002] Image Height = 60
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
@@ -34,6 +38,10 @@ FILE: invalid-iCCP-missing-adler32-checksum.png
 [ICC Profile - 0x6d656173] Measurement = 1931 2° Observer, Backing (0.0, 0.0, 0.0), Geometry Unknown, Flare 1%, Illuminant D65
 [ICC Profile - 0x74656368] Technology = CRT 
 
+[PNG-iCCP - 0x000c] ICC Profile Name = Photoshop ICC profile
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.45454
+
 [PNG Chromaticities - 0x0001] White Point X = 31269
 [PNG Chromaticities - 0x0002] White Point Y = 32899
 [PNG Chromaticities - 0x0003] Red X = 63999
@@ -43,17 +51,9 @@ FILE: invalid-iCCP-missing-adler32-checksum.png
 [PNG Chromaticities - 0x0007] Blue X = 14999
 [PNG Chromaticities - 0x0008] Blue Y = 5999
 
-[PNG-IHDR - 0x0001] Image Width = 460
-[PNG-IHDR - 0x0002] Image Height = 60
-[PNG-IHDR - 0x0003] Bits Per Sample = 8
-[PNG-IHDR - 0x0004] Color Type = True Color with Alpha
-[PNG-IHDR - 0x0005] Compression Type = Deflate
-[PNG-IHDR - 0x0006] Filter Method = Adaptive
-[PNG-IHDR - 0x0007] Interlace Method = No Interlace
-
-[PNG-gAMA - 0x000b] Image Gamma = 0.45454
-
-[PNG-iCCP - 0x000c] ICC Profile Name = Photoshop ICC profile
+[File - 0x0001] File Name = invalid-iCCP-missing-adler32-checksum.png
+[File - 0x0002] File Size = 22661 bytes
+[File - 0x0003] File Modified Date = Fri Jan 23 00:12:58 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

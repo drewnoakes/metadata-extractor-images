@@ -2,6 +2,11 @@ FILE: Nikon D1X.webp
 
 [ERROR: GPS] Invalid TIFF tag format code: 0
 
+[WebP - 0x0002] Image Width = 600
+[WebP - 0x0001] Image Height = 391
+[WebP - 0x0003] Has Alpha = false
+[WebP - 0x0004] Is Animation = false
+
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON D1X
@@ -51,12 +56,6 @@ FILE: Nikon D1X.webp
 [Exif SubIFD - 0xa40a] Sharpness = Low
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
-[File - 0x0001] File Name = Nikon D1X.webp
-[File - 0x0002] File Size = 19944 bytes
-[File - 0x0003] File Modified Date = Mon Feb 09 21:23:15 +00:00 2015
-
-[GPS - 0x0000] GPS Version ID = 2.200
-
 [Nikon Makernote - 0x0001] Firmware Version = 2.00
 [Nikon Makernote - 0x0002] ISO = ISO 200
 [Nikon Makernote - 0x0003] Color Mode = COLOR
@@ -89,10 +88,11 @@ FILE: Nikon D1X.webp
 [Nikon Makernote - 0x009a] Sensor Pixel Size = 59/10 59/5
 [Nikon Makernote - 0x0e10] Nikon Scan = 2875
 
-[WebP - 0x0002] Image Width = 600
-[WebP - 0x0001] Image Height = 391
-[WebP - 0x0003] Has Alpha = false
-[WebP - 0x0004] Is Animation = false
+[GPS - 0x0000] GPS Version ID = 2.200
+
+[File - 0x0001] File Name = Nikon D1X.webp
+[File - 0x0002] File Size = 19944 bytes
+[File - 0x0003] File Modified Date = Mon Feb 09 21:23:15 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

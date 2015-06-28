@@ -1,5 +1,51 @@
 FILE: Canon EOS 7D.cr2
 
+[Exif IFD0 - 0x0100] Image Width = 5184 pixels
+[Exif IFD0 - 0x0101] Image Height = 3456 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = JPEG (old-style)
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon EOS 7D
+[Exif IFD0 - 0x0111] Strip Offsets = 61088
+[Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1332794 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2011:05:20 20:33:14
+[Exif IFD0 - 0x013b] Artist = Aaron Estrada
+[Exif IFD0 - 0x8298] Copyright = Copyright 2009 Aaron Estrada
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/320 sec
+[Exif SubIFD - 0x829d] F-Number = f/11.0
+[Exif SubIFD - 0x8822] Exposure Program = Manual control
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 160
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2011:05:20 20:33:14
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2011:05:20 20:33:14
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/331 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/11.3
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 13.0 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0x9290] Sub-Sec Time = 18
+[Exif SubIFD - 0x9291] Sub-Sec Time Original = 18
+[Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 18
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 5184 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3456 pixels
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 907/5184000 inches
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 119/691200 inches
+[Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Manual white balance
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+
 [Canon Makernote - 0xc100] Unknown tag (0xc100) = 98
 [Canon Makernote - 0xc101] Macro Mode = Normal
 [Canon Makernote - 0xc102] Self Timer Delay = Self timer not used
@@ -126,51 +172,10 @@ FILE: Canon EOS 7D.cr2
 [Canon Makernote - 0x4018] Lighting Optimizer Array = 12 0 3
 [Canon Makernote - 0x4019] Lens Info Array = [30 values]
 
-[Exif IFD0 - 0x0100] Image Width = 5184 pixels
-[Exif IFD0 - 0x0101] Image Height = 3456 pixels
-[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
-[Exif IFD0 - 0x0103] Compression = JPEG (old-style)
-[Exif IFD0 - 0x010f] Make = Canon
-[Exif IFD0 - 0x0110] Model = Canon EOS 7D
-[Exif IFD0 - 0x0111] Strip Offsets = 61088
-[Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
-[Exif IFD0 - 0x0117] Strip Byte Counts = 1332794 bytes
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0132] Date/Time = 2011:05:20 20:33:14
-[Exif IFD0 - 0x013b] Artist = Aaron Estrada
-[Exif IFD0 - 0x8298] Copyright = Copyright 2009 Aaron Estrada
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
 
-[Exif SubIFD - 0x829a] Exposure Time = 1/320 sec
-[Exif SubIFD - 0x829d] F-Number = f/11.0
-[Exif SubIFD - 0x8822] Exposure Program = Manual control
-[Exif SubIFD - 0x8827] ISO Speed Ratings = 160
-[Exif SubIFD - 0x9000] Exif Version = 2.21
-[Exif SubIFD - 0x9003] Date/Time Original = 2011:05:20 20:33:14
-[Exif SubIFD - 0x9004] Date/Time Digitized = 2011:05:20 20:33:14
-[Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/331 sec
-[Exif SubIFD - 0x9202] Aperture Value = f/11.3
-[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 13.0 mm
-[Exif SubIFD - 0x9286] User Comment = 
-[Exif SubIFD - 0x9290] Sub-Sec Time = 18
-[Exif SubIFD - 0x9291] Sub-Sec Time Original = 18
-[Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 18
-[Exif SubIFD - 0xa000] FlashPix Version = 1.00
-[Exif SubIFD - 0xa001] Color Space = sRGB
-[Exif SubIFD - 0xa002] Exif Image Width = 5184 pixels
-[Exif SubIFD - 0xa003] Exif Image Height = 3456 pixels
-[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 907/5184000 inches
-[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 119/691200 inches
-[Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
-[Exif SubIFD - 0xa401] Custom Rendered = Normal process
-[Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
-[Exif SubIFD - 0xa403] White Balance Mode = Manual white balance
-[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[GPS - 0x0000] GPS Version ID = 2.200
 
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 48684 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 12401 bytes
@@ -194,11 +199,6 @@ FILE: Canon EOS 7D.cr2
 [File - 0x0001] File Name = Canon EOS 7D.cr2
 [File - 0x0002] File Size = 23107855 bytes
 [File - 0x0003] File Modified Date = Thu Jan 22 18:57:23 +00:00 2015
-
-[GPS - 0x0000] GPS Version ID = 2.200
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

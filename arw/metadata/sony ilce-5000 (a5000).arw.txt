@@ -56,6 +56,9 @@ FILE: Sony ILCE-5000 (A5000).arw
 [Exif SubIFD - 0xa432] Lens Specification = 160/10 500/10 35/10 56/10
 [Exif SubIFD - 0xa434] Lens Model = E PZ 16-50mm F3.5-5.6 OSS
 
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
 [Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010e] Image Description =                                
@@ -74,9 +77,6 @@ FILE: Sony ILCE-5000 (A5000).arw
 [File - 0x0001] File Name = Sony ILCE-5000 (A5000).arw
 [File - 0x0002] File Size = 21233664 bytes
 [File - 0x0003] File Modified Date = Fri Jan 23 00:42:21 +00:00 2015
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

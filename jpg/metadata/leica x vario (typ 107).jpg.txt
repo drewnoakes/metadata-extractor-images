@@ -1,5 +1,14 @@
 FILE: Leica X VARIO (Typ 107).jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2856 pixels
+[JPEG - 0x0003] Image Width = 4272 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010f] Make = LEICA CAMERA AG        
 [Exif IFD0 - 0x0110] Model = LEICA X VARIO (Typ 107)
 [Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
@@ -40,6 +49,9 @@ FILE: Leica X VARIO (Typ 107).jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
@@ -51,18 +63,6 @@ FILE: Leica X VARIO (Typ 107).jpg
 [File - 0x0001] File Name = Leica X VARIO (Typ 107).jpg
 [File - 0x0002] File Size = 5216861 bytes
 [File - 0x0003] File Modified Date = Fri Jan 23 00:33:24 +00:00 2015
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 2856 pixels
-[JPEG - 0x0003] Image Width = 4272 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

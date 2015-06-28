@@ -1,9 +1,5 @@
 FILE: SWPIC8.PCX
 
-[File - 0x0001] File Name = SWPIC8.PCX
-[File - 0x0002] File Size = 217745 bytes
-[File - 0x0003] File Modified Date = Sat Feb 14 23:46:35 +00:00 2015
-
 [PCX - 0x0001] Version = 3.0 or better
 [PCX - 0x0002] Bits Per Pixel = 8
 [PCX - 0x0003] X Min = 0
@@ -15,6 +11,10 @@ FILE: SWPIC8.PCX
 [PCX - 0x0009] Palette = [48 values]
 [PCX - 0x000a] Color Planes = Unknown (1)
 [PCX - 0x000b] Bytes Per Line = 640
+
+[File - 0x0001] File Name = SWPIC8.PCX
+[File - 0x0002] File Size = 217745 bytes
+[File - 0x0003] File Modified Date = Sat Feb 14 23:46:35 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

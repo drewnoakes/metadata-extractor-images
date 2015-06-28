@@ -2,6 +2,15 @@ FILE: Olympus PEN E-P3.jpg
 
 [ERROR: Olympus Makernote] Illegally sized IFD
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 960 pixels
+[JPEG - 0x0003] Image Width = 1280 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010e] Image Description = OLYMPUS DIGITAL CAMERA         
 [Exif IFD0 - 0x010f] Make = OLYMPUS IMAGING CORP.  
 [Exif IFD0 - 0x0110] Model = E-P3            
@@ -50,6 +59,9 @@ FILE: Olympus PEN E-P3.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa500] Gamma = 2.2
 
+[Interoperability - 0x0001] Interoperability Index = Unknown (R03)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
@@ -60,18 +72,6 @@ FILE: Olympus PEN E-P3.jpg
 [File - 0x0001] File Name = Olympus PEN E-P3.jpg
 [File - 0x0002] File Size = 234353 bytes
 [File - 0x0003] File Modified Date = Sat Jan 18 20:30:12 +00:00 2014
-
-[Interoperability - 0x0001] Interoperability Index = Unknown (R03)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 960 pixels
-[JPEG - 0x0003] Image Width = 1280 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

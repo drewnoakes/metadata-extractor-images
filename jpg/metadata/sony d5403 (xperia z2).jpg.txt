@@ -1,5 +1,14 @@
 FILE: Sony D5403 (Xperia Z2).jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2448 pixels
+[JPEG - 0x0003] Image Width = 3264 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010f] Make = Sony
 [Exif IFD0 - 0x0110] Model = D6503
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -36,6 +45,9 @@ FILE: Sony D5403 (Xperia Z2).jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
@@ -44,31 +56,19 @@ FILE: Sony D5403 (Xperia Z2).jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 16770 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 24826 bytes
 
-[File - 0x0001] File Name = Sony D5403 (Xperia Z2).jpg
-[File - 0x0002] File Size = 3723140 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:52:18 +00:00 2015
+[Xmp - 0xffff] XMP Value Count = 24
+[Xmp - 0x1001] Rating = 2.0
+
+[Photoshop - 0x0425] Caption Digest = -34 -47 101 113 32 -52 0 -68 29 21 54 -81 -69 39 22 101
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0237] Date Created = Tue Sep 23 00:00:00 +01:00 2014
 [IPTC - 0x023c] Time Created = 16:38:23
 
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 2448 pixels
-[JPEG - 0x0003] Image Width = 3264 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
-[Photoshop - 0x0425] Caption Digest = -34 -47 101 113 32 -52 0 -68 29 21 54 -81 -69 39 22 101
-
-[Xmp - 0xffff] XMP Value Count = 24
-[Xmp - 0x1001] Rating = 2.0
+[File - 0x0001] File Name = Sony D5403 (Xperia Z2).jpg
+[File - 0x0002] File Size = 3723140 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:52:18 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

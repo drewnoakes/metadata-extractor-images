@@ -1,14 +1,5 @@
 FILE: Photoshop (2).jpg
 
-[File - 0x0001] File Name = Photoshop (2).jpg
-[File - 0x0002] File Size = 339023 bytes
-[File - 0x0003] File Modified Date = Sun Feb 01 14:43:06 +00:00 2015
-
-[JFIF - 0x0005] Version = 1.2
-[JFIF - 0x0007] Resolution Units = inch
-[JFIF - 0x0008] X Resolution = 200 dots
-[JFIF - 0x000a] Y Resolution = 200 dots
-
 [JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 659 pixels
@@ -17,6 +8,11 @@ FILE: Photoshop (2).jpg
 [JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.2
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 200 dots
+[JFIF - 0x000a] Y Resolution = 200 dots
 
 [Photoshop - 0x03ed] Resolution Info = 200.0x200.0 DPI
 [Photoshop - 0x040d] Global Angle = 120
@@ -34,6 +30,10 @@ FILE: Photoshop (2).jpg
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 74x112, Decomp 25088 bytes, 1572865 bpp, 4862 bytes
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 6.0) 1
 [Photoshop - 0x0406] JPEG Quality = 12 (Maximum), Progressive  format, 5 scans
+
+[File - 0x0001] File Name = Photoshop (2).jpg
+[File - 0x0002] File Size = 339023 bytes
+[File - 0x0003] File Modified Date = Sun Feb 01 14:43:06 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

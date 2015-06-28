@@ -1,5 +1,14 @@
 FILE: Kodak Easyshare M5370.jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3456 pixels
+[JPEG - 0x0003] Image Width = 4608 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010f] Make = EASTMAN KODAK COMPANY
 [Exif IFD0 - 0x0110] Model = KODAK EASYSHARE Touch Camera, M5370
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -52,6 +61,9 @@ FILE: Kodak Easyshare M5370.jpg
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 [Exif SubIFD - 0xa431] Body Serial Number = KCTPS13111021
 
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
@@ -60,24 +72,12 @@ FILE: Kodak Easyshare M5370.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 37946 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 4746 bytes
 
+[Xmp - 0xffff] XMP Value Count = 1
+[Xmp - 0x1001] Rating = 0.0
+
 [File - 0x0001] File Name = Kodak Easyshare M5370.jpg
 [File - 0x0002] File Size = 2837814 bytes
 [File - 0x0003] File Modified Date = Sat Jan 24 21:14:58 +00:00 2015
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 3456 pixels
-[JPEG - 0x0003] Image Width = 4608 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
-[Xmp - 0xffff] XMP Value Count = 1
-[Xmp - 0x1001] Rating = 0.0
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

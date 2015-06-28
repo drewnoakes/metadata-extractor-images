@@ -1,5 +1,14 @@
 FILE: Pentax Optio S4.jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 60 pixels
+[JPEG - 0x0003] Image Width = 60 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010f] Make = PENTAX Corporation 
 [Exif IFD0 - 0x0110] Model = PENTAX Optio S4
 [Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
@@ -37,21 +46,12 @@ FILE: Pentax Optio S4.jpg
 [Exif SubIFD - 0xa40a] Sharpness = Low
 [Exif SubIFD - 0xa40c] Subject Distance Range = Close view
 
-[File - 0x0001] File Name = Pentax Optio S4.jpg
-[File - 0x0002] File Size = 24576 bytes
-[File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 +00:00 2013
-
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 60 pixels
-[JPEG - 0x0003] Image Width = 60 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[File - 0x0001] File Name = Pentax Optio S4.jpg
+[File - 0x0002] File Size = 24576 bytes
+[File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 +00:00 2013
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -1,5 +1,14 @@
 FILE: Canon EOS 5D.jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 4368 pixels
+[JPEG - 0x0003] Image Width = 2912 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x0106] Photometric Interpretation = RGB
 [Exif IFD0 - 0x010f] Make = Canon
 [Exif IFD0 - 0x0110] Model = Canon EOS 5D
@@ -47,15 +56,6 @@ FILE: Canon EOS 5D.jpg
 [File - 0x0001] File Name = Canon EOS 5D.jpg
 [File - 0x0002] File Size = 2009540 bytes
 [File - 0x0003] File Modified Date = Sat Jan 24 20:28:50 +00:00 2015
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 4368 pixels
-[JPEG - 0x0003] Image Width = 2912 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

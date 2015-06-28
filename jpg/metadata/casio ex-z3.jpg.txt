@@ -1,40 +1,13 @@
 FILE: Casio EX-Z3.jpg
 
-[Casio Makernote - 0x0002] Thumbnail Dimensions = 320 x 240 pixels
-[Casio Makernote - 0x0003] Thumbnail Size = 28348 bytes
-[Casio Makernote - 0x0004] Thumbnail Offset = 1260
-[Casio Makernote - 0x2000] Casio Preview Thumbnail = <28348 bytes of image data>
-[Casio Makernote - 0x2001] Unknown tag (0x2001) = 0303
-[Casio Makernote - 0x2002] Unknown tag (0x2002) = 
-[Casio Makernote - 0x2003] Unknown tag (0x2003) = 0 0 0 0 0 0 0 0
-[Casio Makernote - 0x2011] White Balance Bias = 93 79
-[Casio Makernote - 0x2012] White Balance = Manual
-[Casio Makernote - 0x2013] Unknown tag (0x2013) = 2
-[Casio Makernote - 0x2021] Unknown tag (0x2021) = 65535 65535 65535 65535
-[Casio Makernote - 0x2022] Object Distance = 536870912 mm
-[Casio Makernote - 0x2023] Unknown tag (0x2023) = 0
-[Casio Makernote - 0x2031] Unknown tag (0x2031) = 0 0
-[Casio Makernote - 0x2032] Unknown tag (0x2032) = 0 100
-[Casio Makernote - 0x2033] Unknown tag (0x2033) = 1
-[Casio Makernote - 0x2034] Flash Distance = Off
-[Casio Makernote - 0x3000] Record Mode = Unknown (6)
-[Casio Makernote - 0x3001] Self Timer = Unknown (7)
-[Casio Makernote - 0x3002] Quality = Unknown (1)
-[Casio Makernote - 0x3003] Focus Mode = Unknown (5)
-[Casio Makernote - 0x3005] Unknown tag (0x3005) = 1 1
-[Casio Makernote - 0x3006] Time Zone = New York
-[Casio Makernote - 0x3007] BestShot Mode = 15
-[Casio Makernote - 0x3011] Unknown tag (0x3011) = 0 0
-[Casio Makernote - 0x3012] Unknown tag (0x3012) = 0 0
-[Casio Makernote - 0x3013] Unknown tag (0x3013) = 0 0
-[Casio Makernote - 0x3014] CCD ISO Sensitivity = Unknown (50)
-[Casio Makernote - 0x3015] Colour Mode = Off
-[Casio Makernote - 0x3016] Enhancement = Off
-[Casio Makernote - 0x3017] Filter = Off
-[Casio Makernote - 0x3018] Unknown tag (0x3018) = 0
-[Casio Makernote - 0x3019] Unknown tag (0x3019) = 1
-[Casio Makernote - 0x301a] Unknown tag (0x301a) = 0
-[Casio Makernote - 0x301b] Unknown tag (0x301b) = 0
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1536 pixels
+[JPEG - 0x0003] Image Width = 2048 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 [Exif IFD0 - 0x010f] Make = CASIO COMPUTER CO.,LTD 
 [Exif IFD0 - 0x0110] Model = EX-Z3  
@@ -77,6 +50,45 @@ FILE: Casio EX-Z3.jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 
+[Casio Makernote - 0x0002] Thumbnail Dimensions = 320 x 240 pixels
+[Casio Makernote - 0x0003] Thumbnail Size = 28348 bytes
+[Casio Makernote - 0x0004] Thumbnail Offset = 1260
+[Casio Makernote - 0x2000] Casio Preview Thumbnail = <28348 bytes of image data>
+[Casio Makernote - 0x2001] Unknown tag (0x2001) = 0303
+[Casio Makernote - 0x2002] Unknown tag (0x2002) = 
+[Casio Makernote - 0x2003] Unknown tag (0x2003) = 0 0 0 0 0 0 0 0
+[Casio Makernote - 0x2011] White Balance Bias = 93 79
+[Casio Makernote - 0x2012] White Balance = Manual
+[Casio Makernote - 0x2013] Unknown tag (0x2013) = 2
+[Casio Makernote - 0x2021] Unknown tag (0x2021) = 65535 65535 65535 65535
+[Casio Makernote - 0x2022] Object Distance = 536870912 mm
+[Casio Makernote - 0x2023] Unknown tag (0x2023) = 0
+[Casio Makernote - 0x2031] Unknown tag (0x2031) = 0 0
+[Casio Makernote - 0x2032] Unknown tag (0x2032) = 0 100
+[Casio Makernote - 0x2033] Unknown tag (0x2033) = 1
+[Casio Makernote - 0x2034] Flash Distance = Off
+[Casio Makernote - 0x3000] Record Mode = Unknown (6)
+[Casio Makernote - 0x3001] Self Timer = Unknown (7)
+[Casio Makernote - 0x3002] Quality = Unknown (1)
+[Casio Makernote - 0x3003] Focus Mode = Unknown (5)
+[Casio Makernote - 0x3005] Unknown tag (0x3005) = 1 1
+[Casio Makernote - 0x3006] Time Zone = New York
+[Casio Makernote - 0x3007] BestShot Mode = 15
+[Casio Makernote - 0x3011] Unknown tag (0x3011) = 0 0
+[Casio Makernote - 0x3012] Unknown tag (0x3012) = 0 0
+[Casio Makernote - 0x3013] Unknown tag (0x3013) = 0 0
+[Casio Makernote - 0x3014] CCD ISO Sensitivity = Unknown (50)
+[Casio Makernote - 0x3015] Colour Mode = Off
+[Casio Makernote - 0x3016] Enhancement = Off
+[Casio Makernote - 0x3017] Filter = Off
+[Casio Makernote - 0x3018] Unknown tag (0x3018) = 0
+[Casio Makernote - 0x3019] Unknown tag (0x3019) = 1
+[Casio Makernote - 0x301a] Unknown tag (0x301a) = 0
+[Casio Makernote - 0x301b] Unknown tag (0x301b) = 0
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
@@ -87,18 +99,6 @@ FILE: Casio EX-Z3.jpg
 [File - 0x0001] File Name = Casio EX-Z3.jpg
 [File - 0x0002] File Size = 571363 bytes
 [File - 0x0003] File Modified Date = Sun Jan 27 02:31:15 +00:00 2013
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 1536 pixels
-[JPEG - 0x0003] Image Width = 2048 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

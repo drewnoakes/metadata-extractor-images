@@ -1,13 +1,13 @@
 FILE: Alpha Lossy (1).webp
 
-[File - 0x0001] File Name = Alpha Lossy (1).webp
-[File - 0x0002] File Size = 23404 bytes
-[File - 0x0003] File Modified Date = Fri Feb 06 23:53:23 +00:00 2015
-
 [WebP - 0x0002] Image Width = 400
 [WebP - 0x0001] Image Height = 301
 [WebP - 0x0003] Has Alpha = true
 [WebP - 0x0004] Is Animation = false
+
+[File - 0x0001] File Name = Alpha Lossy (1).webp
+[File - 0x0002] File Size = 23404 bytes
+[File - 0x0003] File Modified Date = Fri Feb 06 23:53:23 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

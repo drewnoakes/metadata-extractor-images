@@ -1,5 +1,10 @@
 FILE: Nikon Coolpix P7000.webp
 
+[WebP - 0x0002] Image Width = 3648
+[WebP - 0x0001] Image Height = 2736
+[WebP - 0x0003] Has Alpha = false
+[WebP - 0x0004] Is Animation = false
+
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = NIKON
 [Exif IFD0 - 0x0110] Model = COOLPIX P7000
@@ -45,20 +50,6 @@ FILE: Nikon Coolpix P7000.webp
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
-[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
-[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 8692 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 6044 bytes
-
-[File - 0x0001] File Name = Nikon Coolpix P7000.webp
-[File - 0x0002] File Size = 474772 bytes
-[File - 0x0003] File Modified Date = Tue Feb 10 23:16:11 +00:00 2015
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
 [Nikon Makernote - 0x0001] Firmware Version = 2.00
 [Nikon Makernote - 0x0002] ISO = Unknown (0 0)
 [Nikon Makernote - 0x0003] Color Mode = COLOR 
@@ -103,10 +94,15 @@ FILE: Nikon Coolpix P7000.webp
 [Nikon Makernote - 0x00b3] Unknown 32 =        
 [Nikon Makernote - 0x00bd] Unknown 50 = [58 values]
 
-[WebP - 0x0002] Image Width = 3648
-[WebP - 0x0001] Image Height = 2736
-[WebP - 0x0003] Has Alpha = false
-[WebP - 0x0004] Is Animation = false
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 8692 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 6044 bytes
 
 [Xmp - 0xffff] XMP Value Count = 57
 [Xmp - 0x0001] Make = NIKON
@@ -118,6 +114,10 @@ FILE: Nikon Coolpix P7000.webp
 [Xmp - 0x000a] Focal Length = 6.0 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/799 sec
 [Xmp - 0x000d] Date/Time Original = Thu Oct 21 11:22:48 +01:00 2010
+
+[File - 0x0001] File Name = Nikon Coolpix P7000.webp
+[File - 0x0002] File Size = 474772 bytes
+[File - 0x0003] File Modified Date = Tue Feb 10 23:16:11 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

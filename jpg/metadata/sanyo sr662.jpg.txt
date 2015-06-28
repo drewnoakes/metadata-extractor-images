@@ -1,5 +1,19 @@
 FILE: Sanyo SR662.jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 225 pixels
+[JPEG - 0x0003] Image Width = 300 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 72 dots
+[JFIF - 0x000a] Y Resolution = 72 dots
+
 [Exif IFD0 - 0x010e] Image Description = SANYO DIGITAL CAMERA
 [Exif IFD0 - 0x010f] Make = SANYO Electric Co.,Ltd.
 [Exif IFD0 - 0x0110] Model = SR662
@@ -31,6 +45,10 @@ FILE: Sanyo SR662.jpg
 [Exif SubIFD - 0xa004] Related Sound File =             
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
+[Sanyo Makernote - 0x0200] Special Mode = 33554691 1114897 3502768191
+[Sanyo Makernote - 0x0201] Sanyo Quality = Normal/Medium High
+[Sanyo Makernote - 0x0f00] Data Dump = [20 values]
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
@@ -41,24 +59,6 @@ FILE: Sanyo SR662.jpg
 [File - 0x0001] File Name = Sanyo SR662.jpg
 [File - 0x0002] File Size = 18526 bytes
 [File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 +00:00 2013
-
-[JFIF - 0x0005] Version = 1.1
-[JFIF - 0x0007] Resolution Units = inch
-[JFIF - 0x0008] X Resolution = 72 dots
-[JFIF - 0x000a] Y Resolution = 72 dots
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 225 pixels
-[JPEG - 0x0003] Image Width = 300 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
-[Sanyo Makernote - 0x0200] Special Mode = 33554691 1114897 3502768191
-[Sanyo Makernote - 0x0201] Sanyo Quality = Normal/Medium High
-[Sanyo Makernote - 0x0f00] Data Dump = [20 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -5,6 +5,15 @@ FILE: Sony DSC-P52.jpg
 [ERROR: Sony Makernote] Invalid TIFF tag format code: 0
 [ERROR: Sony Makernote] Invalid TIFF tag format code: 0
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1224 pixels
+[JPEG - 0x0003] Image Width = 1632 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = SONY
 [Exif IFD0 - 0x0110] Model = DSC-P52
@@ -42,6 +51,18 @@ FILE: Sony DSC-P52.jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
+[Sony Makernote - 0x9001] Unknown tag (0x9001) = [148 values]
+[Sony Makernote - 0x9002] Unknown tag (0x9002) = [200 values]
+[Sony Makernote - 0x9003] Unknown tag (0x9003) = [200 values]
+[Sony Makernote - 0x9004] Unknown tag (0x9004) = [26 values]
+[Sony Makernote - 0x9005] Unknown tag (0x9005) = [120 values]
+[Sony Makernote - 0x9006] Unknown tag (0x9006) = [252 values]
+[Sony Makernote - 0x9007] Unknown tag (0x9007) = [200 values]
+[Sony Makernote - 0x9008] Unknown tag (0x9008) = [200 values]
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010f] Make = SONY
 [Exif Thumbnail - 0x0110] Model = DSC-P52
@@ -56,27 +77,6 @@ FILE: Sony DSC-P52.jpg
 [File - 0x0001] File Name = Sony DSC-P52.jpg
 [File - 0x0002] File Size = 851968 bytes
 [File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 +00:00 2013
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 1224 pixels
-[JPEG - 0x0003] Image Width = 1632 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
-[Sony Makernote - 0x9001] Unknown tag (0x9001) = [148 values]
-[Sony Makernote - 0x9002] Unknown tag (0x9002) = [200 values]
-[Sony Makernote - 0x9003] Unknown tag (0x9003) = [200 values]
-[Sony Makernote - 0x9004] Unknown tag (0x9004) = [26 values]
-[Sony Makernote - 0x9005] Unknown tag (0x9005) = [120 values]
-[Sony Makernote - 0x9006] Unknown tag (0x9006) = [252 values]
-[Sony Makernote - 0x9007] Unknown tag (0x9007) = [200 values]
-[Sony Makernote - 0x9008] Unknown tag (0x9008) = [200 values]
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

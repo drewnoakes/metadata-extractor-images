@@ -1,5 +1,53 @@
 FILE: Pentax ist D.jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1024 pixels
+[JPEG - 0x0003] Image Width = 1536 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = PENTAX Corporation 
+[Exif IFD0 - 0x0110] Model = PENTAX *ist D      
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = *ist D      Ver 1.10   
+[Exif IFD0 - 0x0132] Date/Time = 2004:10:02 23:29:52
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0xc4a5] Print IM = [244 values]
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/90 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.4
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2004:10:02 23:29:52
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2004:10:02 23:29:52
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Spot
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 77.0 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 1536 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1024 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa405] Focal Length 35 = 115mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Macro
+
 [Casio Makernote - 0x0001] Unknown tag (0x0001) = 0
 [Casio Makernote - 0x0002] Thumbnail Dimensions = 640 x 480 pixels
 [Casio Makernote - 0x0003] Thumbnail Size = 40264 bytes
@@ -74,44 +122,8 @@ FILE: Pentax ist D.jpg
 [Casio Makernote - 0x03ff] Unknown tag (0x03ff) = 39321 39321 39321 39321 39578 39578 39578 39578 39578 39578 39578 39835 39835 39835 39835 39835
 [Casio Makernote - 0x0402] Unknown tag (0x0402) = [4096 values]
 
-[Exif IFD0 - 0x010f] Make = PENTAX Corporation 
-[Exif IFD0 - 0x0110] Model = PENTAX *ist D      
-[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-[Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0131] Software = *ist D      Ver 1.10   
-[Exif IFD0 - 0x0132] Date/Time = 2004:10:02 23:29:52
-[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [244 values]
-
-[Exif SubIFD - 0x829a] Exposure Time = 1/90 sec
-[Exif SubIFD - 0x829d] F-Number = f/2.4
-[Exif SubIFD - 0x8822] Exposure Program = Program normal
-[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
-[Exif SubIFD - 0x9000] Exif Version = 2.21
-[Exif SubIFD - 0x9003] Date/Time Original = 2004:10:02 23:29:52
-[Exif SubIFD - 0x9004] Date/Time Digitized = 2004:10:02 23:29:52
-[Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9207] Metering Mode = Spot
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 77.0 mm
-[Exif SubIFD - 0xa000] FlashPix Version = 1.00
-[Exif SubIFD - 0xa001] Color Space = sRGB
-[Exif SubIFD - 0xa002] Exif Image Width = 1536 pixels
-[Exif SubIFD - 0xa003] Exif Image Height = 1024 pixels
-[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
-[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
-[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-[Exif SubIFD - 0xa401] Custom Rendered = Normal process
-[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
-[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
-[Exif SubIFD - 0xa405] Focal Length 35 = 115mm
-[Exif SubIFD - 0xa406] Scene Capture Type = Standard
-[Exif SubIFD - 0xa408] Contrast = None
-[Exif SubIFD - 0xa409] Saturation = None
-[Exif SubIFD - 0xa40a] Sharpness = None
-[Exif SubIFD - 0xa40c] Subject Distance Range = Macro
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
 
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
@@ -123,18 +135,6 @@ FILE: Pentax ist D.jpg
 [File - 0x0001] File Name = Pentax ist D.jpg
 [File - 0x0002] File Size = 1001241 bytes
 [File - 0x0003] File Modified Date = Sun Jan 27 02:31:16 +00:00 2013
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 1024 pixels
-[JPEG - 0x0003] Image Width = 1536 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

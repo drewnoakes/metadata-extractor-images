@@ -1,5 +1,14 @@
 FILE: Samsung SM-C101 (Galaxy S4 Zoom).jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3456 pixels
+[JPEG - 0x0003] Image Width = 4608 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x0100] Image Width = 4608 pixels
 [Exif IFD0 - 0x0101] Image Height = 3456 pixels
 [Exif IFD0 - 0x010f] Make = SAMSUNG
@@ -42,6 +51,17 @@ FILE: Samsung SM-C101 (Galaxy S4 Zoom).jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa420] Unique Image ID = FCGF0A
 
+[GPS - 0x0000] GPS Version ID = 2.200
+[GPS - 0x0001] GPS Latitude Ref = N
+[GPS - 0x0002] GPS Latitude = 51° 27' 44"
+[GPS - 0x0003] GPS Longitude Ref = W
+[GPS - 0x0004] GPS Longitude = 0° 7' 3"
+[GPS - 0x0005] GPS Altitude Ref = Sea level
+[GPS - 0x0006] GPS Altitude = 83 metres
+[GPS - 0x0007] GPS Time-Stamp = 14:23:02.00 UTC
+[GPS - 0x001b] GPS Processing Method = 65 83 67 73 73 0 0 0
+[GPS - 0x001d] GPS Date Stamp = 2013:09:26
+
 [Exif Thumbnail - 0x0100] Image Width = 160 pixels
 [Exif Thumbnail - 0x0101] Image Height = 120 pixels
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
@@ -55,26 +75,6 @@ FILE: Samsung SM-C101 (Galaxy S4 Zoom).jpg
 [File - 0x0001] File Name = Samsung SM-C101 (Galaxy S4 Zoom).jpg
 [File - 0x0002] File Size = 5307261 bytes
 [File - 0x0003] File Modified Date = Sat Jan 24 21:23:39 +00:00 2015
-
-[GPS - 0x0000] GPS Version ID = 2.200
-[GPS - 0x0001] GPS Latitude Ref = N
-[GPS - 0x0002] GPS Latitude = 51° 27' 44"
-[GPS - 0x0003] GPS Longitude Ref = W
-[GPS - 0x0004] GPS Longitude = 0° 7' 3"
-[GPS - 0x0005] GPS Altitude Ref = Sea level
-[GPS - 0x0006] GPS Altitude = 83 metres
-[GPS - 0x0007] GPS Time-Stamp = 14:23:02.00 UTC
-[GPS - 0x001b] GPS Processing Method = 65 83 67 73 73 0 0 0
-[GPS - 0x001d] GPS Date Stamp = 2013:09:26
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 3456 pixels
-[JPEG - 0x0003] Image Width = 4608 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

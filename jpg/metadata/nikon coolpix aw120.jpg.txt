@@ -1,5 +1,14 @@
 FILE: Nikon Coolpix AW120.jpg
 
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3456 pixels
+[JPEG - 0x0003] Image Width = 4608 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = NIKON
 [Exif IFD0 - 0x0110] Model = COOLPIX AW120  
@@ -46,43 +55,6 @@ FILE: Nikon Coolpix AW120.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Distant view
 
-[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
-[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
-[Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 12788 bytes
-[Exif Thumbnail - 0x0202] Thumbnail Length = 3091 bytes
-
-[File - 0x0001] File Name = Nikon Coolpix AW120.jpg
-[File - 0x0002] File Size = 6028067 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:45:52 +00:00 2015
-
-[GPS - 0x0000] GPS Version ID = 2.300
-[GPS - 0x0001] GPS Latitude Ref = N
-[GPS - 0x0002] GPS Latitude = 19° 25' 11.12"
-[GPS - 0x0003] GPS Longitude Ref = W
-[GPS - 0x0004] GPS Longitude = -155° 17' 16.18"
-[GPS - 0x0005] GPS Altitude Ref = Sea level
-[GPS - 0x0006] GPS Altitude = 0 metres
-[GPS - 0x0007] GPS Time-Stamp = 02:29:24.00 UTC
-[GPS - 0x0008] GPS Satellites = 11
-[GPS - 0x0010] GPS Img Direction Ref = Unknown ()
-[GPS - 0x0011] GPS Img Direction = 0 degrees
-[GPS - 0x0012] GPS Map Datum = WGS-84   
-[GPS - 0x001d] GPS Date Stamp = 2014:06:04
-
-[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-[Interoperability - 0x0002] Interoperability Version = 1.00
-
-[JPEG - 0xfffffffd] Compression Type = Baseline
-[JPEG - 0x0000] Data Precision = 8 bits
-[JPEG - 0x0001] Image Height = 3456 pixels
-[JPEG - 0x0003] Image Width = 4608 pixels
-[JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
-[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
-[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
-
 [Nikon Makernote - 0x0001] Firmware Version = 2.00
 [Nikon Makernote - 0x0002] ISO = ISO 125
 [Nikon Makernote - 0x0003] Color Mode = COLOR 
@@ -125,6 +97,34 @@ FILE: Nikon Coolpix AW120.jpg
 [Nikon Makernote - 0x00b5] Unknown 48 = 4097
 [Nikon Makernote - 0x00c2] Unknown tag (0x00c2) = [24 values]
 [Nikon Makernote - 0x00c3] Unknown tag (0x00c3) = 48 49 48 48 109 3 -92 4 0 0 10 0
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[GPS - 0x0000] GPS Version ID = 2.300
+[GPS - 0x0001] GPS Latitude Ref = N
+[GPS - 0x0002] GPS Latitude = 19° 25' 11.12"
+[GPS - 0x0003] GPS Longitude Ref = W
+[GPS - 0x0004] GPS Longitude = -155° 17' 16.18"
+[GPS - 0x0005] GPS Altitude Ref = Sea level
+[GPS - 0x0006] GPS Altitude = 0 metres
+[GPS - 0x0007] GPS Time-Stamp = 02:29:24.00 UTC
+[GPS - 0x0008] GPS Satellites = 11
+[GPS - 0x0010] GPS Img Direction Ref = Unknown ()
+[GPS - 0x0011] GPS Img Direction = 0 degrees
+[GPS - 0x0012] GPS Map Datum = WGS-84   
+[GPS - 0x001d] GPS Date Stamp = 2014:06:04
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 12788 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 3091 bytes
+
+[File - 0x0001] File Name = Nikon Coolpix AW120.jpg
+[File - 0x0002] File Size = 6028067 bytes
+[File - 0x0003] File Modified Date = Sat Jan 24 20:45:52 +00:00 2015
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
