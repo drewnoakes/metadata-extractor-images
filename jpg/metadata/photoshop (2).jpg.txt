@@ -29,7 +29,7 @@ FILE: Photoshop (2).jpg
 [Photoshop - 0x0414] Seed Number = 1
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 74x112, Decomp 25088 bytes, 1572865 bpp, 4862 bytes
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 6.0) 1
-[Photoshop - 0x0406] JPEG Quality = 12 (Maximum), Progressive  format, 5 scans
+[Photoshop - 0x0406] JPEG Quality = 12 (Maximum), Progressive format, 5 scans
 
 [File - 0x0001] File Name = Photoshop (2).jpg
 [File - 0x0002] File Size = 339023 bytes

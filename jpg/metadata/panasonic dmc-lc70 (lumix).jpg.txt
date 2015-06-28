@@ -111,7 +111,7 @@ FILE: Panasonic DMC-LC70 (Lumix).jpg
 [Photoshop - 0x0414] Seed Number = 1
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 112x84, Decomp 28224 bytes, 1572865 bpp, 4844 bytes
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 6.0) 1
-[Photoshop - 0x0406] JPEG Quality = 12 (Maximum), Progressive  format, 3 scans
+[Photoshop - 0x0406] JPEG Quality = 12 (Maximum), Progressive format, 3 scans
 
 [File - 0x0001] File Name = Panasonic DMC-LC70 (Lumix).jpg
 [File - 0x0002] File Size = 856658 bytes
