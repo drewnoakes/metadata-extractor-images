@@ -64,7 +64,7 @@ FILE: Minolta DiMAGE S404.jpg
 [Olympus Makernote - 0xf013] Focal Length = 0 mm
 [Olympus Makernote - 0xf014] Focus Distance = Infinity
 [Olympus Makernote - 0xf015] Flash Fired = Unknown (131204368)
-[Olympus Makernote - 0xf016] Date = Sat Apr 26 00:00:00 BST 2014
+[Olympus Makernote - 0xf016] Date = Invalid date
 [Olympus Makernote - 0xf017] Time = 00:00:38
 [Olympus Makernote - 0xf018] Max Aperture at Focal Length = f/3.5
 [Olympus Makernote - 0xf019] Unknown tag (0xf019) = 0

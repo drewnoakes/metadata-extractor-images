@@ -77,7 +77,7 @@ FILE: Minolta DiMAGE A1.jpg
 [Olympus Makernote - 0xf013] Focal Length = 0 mm
 [Olympus Makernote - 0xf014] Focus Distance = Infinity
 [Olympus Makernote - 0xf015] Flash Fired = Unknown (131270925)
-[Olympus Makernote - 0xf016] Date = Thu Jun 11 00:00:00 BST 1981
+[Olympus Makernote - 0xf016] Date = Invalid date
 [Olympus Makernote - 0xf017] Time = 00:00:33
 [Olympus Makernote - 0xf018] Max Aperture at Focal Length = f/2.4
 [Olympus Makernote - 0xf019] Unknown tag (0xf019) = 0
