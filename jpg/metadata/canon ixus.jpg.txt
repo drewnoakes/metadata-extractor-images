@@ -32,7 +32,7 @@ FILE: Canon IXUS.jpg
 [Exif SubIFD - 0x9206] Subject Distance = 3.75 metres
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
-[Exif SubIFD - 0x920a] Focal Length = 10.812 mm
+[Exif SubIFD - 0x920a] Focal Length = 10.813 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB

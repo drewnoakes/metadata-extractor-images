@@ -32,7 +32,7 @@ FILE: Canon PowerShot S30.jpg
 [Exif SubIFD - 0x9206] Subject Distance = 5.524 metres
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
-[Exif SubIFD - 0x920a] Focal Length = 10.312 mm
+[Exif SubIFD - 0x920a] Focal Length = 10.313 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
