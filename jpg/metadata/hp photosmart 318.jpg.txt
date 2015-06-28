@@ -5,7 +5,7 @@ FILE: HP PhotoSmart 318.jpg
 [JPEG - 0x0001] Image Height = 1200 pixels
 [JPEG - 0x0003] Image Width = 1792 pixels
 [JPEG - 0x0005] Number of Components = 3
-[JPEG - 0x0006] Component 1 = null component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0006] Component 1 = Unknown (0) component: Quantization table 0, Sampling factors 1 horiz/2 vert
 [JPEG - 0x0007] Component 2 = Y component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
