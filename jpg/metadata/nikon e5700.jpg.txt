@@ -83,16 +83,16 @@ FILE: Nikon E5700.jpg
 [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
 [ICC Profile - 0x0030] Device manufacturer = none
 [ICC Profile - 0x0034] Device model = 1
-[ICC Profile - 0x0044] XYZ values = 0.9642029 1.0 0.8249054
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
 [ICC Profile - 0x0080] Tag Count = 9
 [ICC Profile - 0x64657363] Profile Description = Nikon sRGB 4.0.0.3000
-[ICC Profile - 0x7258595a] Red Colorant = (0.43607, 0.2225, 0.01392)
-[ICC Profile - 0x6758595a] Green Colorant = (0.38507, 0.71687, 0.09706)
-[ICC Profile - 0x6258595a] Blue Colorant = (0.14305, 0.06061, 0.71399)
+[ICC Profile - 0x7258595a] Red Colorant = (0.4361, 0.2225, 0.0139)
+[ICC Profile - 0x6758595a] Green Colorant = (0.3851, 0.7169, 0.0971)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1431, 0.0606, 0.714)
 [ICC Profile - 0x72545243] Red TRC = 0.0085908
 [ICC Profile - 0x67545243] Green TRC = 0.0085908
 [ICC Profile - 0x62545243] Blue TRC = 0.0085908
-[ICC Profile - 0x77747074] Media White Point = (0.9505, 1.0, 1.0891)
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
 [ICC Profile - 0x63707274] Copyright = Nikon Inc. & Nikon Corporation 2001
 
 [File - 0x0001] File Name = Nikon E5700.jpg

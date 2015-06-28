@@ -10,7 +10,7 @@ FILE: dotnet-256x256-alpha-palette.png
 
 [PNG-sRGB - 0x000a] sRGB Rendering Intent = Perceptual
 
-[PNG-gAMA - 0x000b] Image Gamma = 0.45455
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
 
 [PNG-PLTE - 0x0008] Palette Size = 256
 

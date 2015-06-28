@@ -10,7 +10,7 @@ FILE: mspaint-8x10.png
 
 [PNG-sRGB - 0x000a] sRGB Rendering Intent = Perceptual
 
-[PNG-gAMA - 0x000b] Image Gamma = 0.45455
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
 
 [PNG-pHYs - 0x0010] Pixels Per Unit X = 3779
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 3779

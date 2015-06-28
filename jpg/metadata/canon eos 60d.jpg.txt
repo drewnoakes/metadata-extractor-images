@@ -192,7 +192,7 @@ FILE: Canon EOS 60D.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 23472 bytes
 
 [Xmp - 0xffff] XMP Value Count = 1
-[Xmp - 0x1001] Rating = 0.0
+[Xmp - 0x1001] Rating = 0
 
 [File - 0x0001] File Name = Canon EOS 60D.jpg
 [File - 0x0002] File Size = 9177717 bytes

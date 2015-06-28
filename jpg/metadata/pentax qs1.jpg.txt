@@ -71,7 +71,7 @@ FILE: Pentax QS1.jpg
 [Xmp - 0x0006] Lens Information = 50/10 150/10 28/10 45/10
 [Xmp - 0x0007] Lens = 02 STANDARD ZOOM
 [Xmp - 0x0008] Serial Number = 2587411
-[Xmp - 0x1001] Rating = 4.0
+[Xmp - 0x1001] Rating = 4
 
 [Photoshop - 0x0425] Caption Digest = 110 38 73 -39 -81 -60 10 86 -1 11 -44 14 -79 67 34 -122
 

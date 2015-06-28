@@ -8,7 +8,7 @@ FILE: gimp-8x12-greyscale-alpha-time-background.png
 [PNG-IHDR - 0x0006] Filter Method = Adaptive
 [PNG-IHDR - 0x0007] Interlace Method = No Interlace
 
-[PNG-gAMA - 0x000b] Image Gamma = 0.45455
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
 
 [PNG-bKGD - 0x000f] Background Color = null
 
