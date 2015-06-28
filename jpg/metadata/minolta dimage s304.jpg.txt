@@ -55,7 +55,7 @@ FILE: Minolta DiMAGE S304.jpg
 [Olympus Makernote - 0xf00b] Apex Aperture Value = f/0.3
 [Olympus Makernote - 0xf00c] Macro Mode = Off
 [Olympus Makernote - 0xf00d] Digital Zoom = Unknown (6)
-[Olympus Makernote - 0xf00e] Exposure Compensation = -2.0 EV
+[Olympus Makernote - 0xf00e] Exposure Compensation = -2 EV
 [Olympus Makernote - 0xf00f] Bracket Step = 1/3 EV
 [Olympus Makernote - 0xf010] Unknown tag (0xf010) = 0
 [Olympus Makernote - 0xf011] Interval Length = N/A
@@ -70,14 +70,14 @@ FILE: Minolta DiMAGE S304.jpg
 [Olympus Makernote - 0xf01a] Unknown tag (0xf01a) = 1
 [Olympus Makernote - 0xf01b] File Number Memory = Unknown (56)
 [Olympus Makernote - 0xf01c] Last File Number = 481
-[Olympus Makernote - 0xf01d] White Balance Red = 1.0
-[Olympus Makernote - 0xf01e] White Balance Green = 1.3203125
-[Olympus Makernote - 0xf01f] White Balance Blue = 0.01171875
+[Olympus Makernote - 0xf01d] White Balance Red = 1
+[Olympus Makernote - 0xf01e] White Balance Green = 1.32
+[Olympus Makernote - 0xf01f] White Balance Blue = 0.01
 [Olympus Makernote - 0xf020] Saturation = 0
 [Olympus Makernote - 0xf021] Contrast = -2
 [Olympus Makernote - 0xf022] Sharpness = Hard
 [Olympus Makernote - 0xf023] Subject Program = Unknown (6)
-[Olympus Makernote - 0xf024] Flash Compensation = -0.6666666666666666 EV
+[Olympus Makernote - 0xf024] Flash Compensation = -0.67 EV
 [Olympus Makernote - 0xf025] ISO Setting = 400
 [Olympus Makernote - 0xf026] Camera Model = DiMAGE 7
 [Olympus Makernote - 0xf027] Interval Mode = Time Lapse Movie

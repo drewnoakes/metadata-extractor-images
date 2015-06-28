@@ -69,7 +69,7 @@ FILE: Minolta DiMAGE A1.jpg
 [Olympus Makernote - 0xf00b] Apex Aperture Value = f/0.3
 [Olympus Makernote - 0xf00c] Macro Mode = Off
 [Olympus Makernote - 0xf00d] Digital Zoom = Unknown (7)
-[Olympus Makernote - 0xf00e] Exposure Compensation = -2.0 EV
+[Olympus Makernote - 0xf00e] Exposure Compensation = -2 EV
 [Olympus Makernote - 0xf00f] Bracket Step = 1/3 EV
 [Olympus Makernote - 0xf010] Unknown tag (0xf010) = 60
 [Olympus Makernote - 0xf011] Interval Length = N/A
@@ -84,14 +84,14 @@ FILE: Minolta DiMAGE A1.jpg
 [Olympus Makernote - 0xf01a] Unknown tag (0xf01a) = 0
 [Olympus Makernote - 0xf01b] File Number Memory = Off
 [Olympus Makernote - 0xf01c] Last File Number = 401
-[Olympus Makernote - 0xf01d] White Balance Red = 1.0
-[Olympus Makernote - 0xf01e] White Balance Green = 1.375
-[Olympus Makernote - 0xf01f] White Balance Blue = 0.01953125
+[Olympus Makernote - 0xf01d] White Balance Red = 1
+[Olympus Makernote - 0xf01e] White Balance Green = 1.38
+[Olympus Makernote - 0xf01f] White Balance Blue = 0.02
 [Olympus Makernote - 0xf020] Saturation = 2
 [Olympus Makernote - 0xf021] Contrast = -2
 [Olympus Makernote - 0xf022] Sharpness = Hard
 [Olympus Makernote - 0xf023] Subject Program = Unknown (6)
-[Olympus Makernote - 0xf024] Flash Compensation = -2.0 EV
+[Olympus Makernote - 0xf024] Flash Compensation = -2 EV
 [Olympus Makernote - 0xf025] ISO Setting = Unknown (6)
 [Olympus Makernote - 0xf026] Camera Model = DiMAGE 7
 [Olympus Makernote - 0xf027] Interval Mode = Still Image
@@ -100,7 +100,7 @@ FILE: Minolta DiMAGE A1.jpg
 [Olympus Makernote - 0xf02a] Color Filter = -3
 [Olympus Makernote - 0xf02b] Black and White Filter = 0
 [Olympus Makernote - 0xf02c] Internal Flash = Unknown (88)
-[Olympus Makernote - 0xf02d] Apex Brightness Value = 154.0
+[Olympus Makernote - 0xf02d] Apex Brightness Value = 154
 [Olympus Makernote - 0xf02e] Spot Focus Point X Coordinate = 960
 [Olympus Makernote - 0xf02f] Spot Focus Point Y Coordinate = 7
 [Olympus Makernote - 0xf030] Wide Focus Zone = No Zone or AF Failed
