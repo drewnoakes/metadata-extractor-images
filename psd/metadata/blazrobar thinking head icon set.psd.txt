@@ -7,7 +7,7 @@ FILE: BlazRobar Thinking Head Icon Set.psd
 [PSD Header - 0x0005] Color Mode = RGB
 
 [Photoshop - 0x0425] Caption Digest = 32 -81 -52 7 77 77 99 44 -93 90 -15 52 96 92 -4 -34
-[Photoshop - 0x03ed] Resolution Info = 300.0x300.0 DPI
+[Photoshop - 0x03ed] Resolution Info = 300x300 DPI
 [Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
 [Photoshop - 0x03ee] Alpha Channels = 12 84 114 97 110 115 112 97 114 101 110 99 121
 [Photoshop - 0x0415] Unicode Alpha Names = [30 values]

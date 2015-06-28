@@ -14,7 +14,7 @@ FILE: Sony Cybershot (7).jpg
 [JFIF - 0x0008] X Resolution = 300 dots
 [JFIF - 0x000a] Y Resolution = 300 dots
 
-[Photoshop - 0x03ed] Resolution Info = 300.0x300.0 DPI
+[Photoshop - 0x03ed] Resolution Info = 300x300 DPI
 [Photoshop - 0x040d] Global Angle = 30
 [Photoshop - 0x0419] Global Altitude = 30
 [Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1

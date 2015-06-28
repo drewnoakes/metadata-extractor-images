@@ -133,7 +133,7 @@ FILE: Nikon D610.jpg
 [Xmp - 0xffff] XMP Value Count = 7
 [Xmp - 0x1001] Rating = 0.0
 
-[Photoshop - 0x03ed] Resolution Info = 200.0x200.0 DPI
+[Photoshop - 0x03ed] Resolution Info = 200x200 DPI
 [Photoshop - 0x040a] Copyright Flag = No
 
 [IPTC - 0x0200] Application Record Version = 3

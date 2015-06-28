@@ -60,7 +60,7 @@ FILE: Sony Cybershot (3).jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 797 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3448 bytes
 
-[Photoshop - 0x03ed] Resolution Info = 72.0x72.0 DPI
+[Photoshop - 0x03ed] Resolution Info = 72x72 DPI
 [Photoshop - 0x040d] Global Angle = 30
 [Photoshop - 0x0419] Global Altitude = 30
 [Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1

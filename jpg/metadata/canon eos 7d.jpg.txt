@@ -98,7 +98,7 @@ FILE: Canon EOS 7D.jpg
 [ICC Profile - 0x6758595a] Green Colorant = (0.20528, 0.62567, 0.06087)
 [ICC Profile - 0x6258595a] Blue Colorant = (0.14919, 0.06322, 0.74457)
 
-[Photoshop - 0x03ed] Resolution Info = 72.0x72.0 DPI
+[Photoshop - 0x03ed] Resolution Info = 72x72 DPI
 [Photoshop - 0x040a] Copyright Flag = Yes
 [Photoshop - 0x040b] URL = http://www.meine-ansichten.de/verschiedenes/copyright.html
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 171x256, Decomp 132096 bytes, 1572865 bpp, 10286 bytes

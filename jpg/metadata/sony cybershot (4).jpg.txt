@@ -61,7 +61,7 @@ FILE: Sony Cybershot (4).jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 7736 bytes
 
 [Photoshop - 0x03e9] Mac Print Info = [120 values]
-[Photoshop - 0x03ed] Resolution Info = 72.0x72.0 DPI
+[Photoshop - 0x03ed] Resolution Info = 72x72 DPI
 [Photoshop - 0x040d] Global Angle = 30
 [Photoshop - 0x0419] Global Altitude = 30
 [Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1

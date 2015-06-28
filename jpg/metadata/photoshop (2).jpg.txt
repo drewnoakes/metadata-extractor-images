@@ -14,7 +14,7 @@ FILE: Photoshop (2).jpg
 [JFIF - 0x0008] X Resolution = 200 dots
 [JFIF - 0x000a] Y Resolution = 200 dots
 
-[Photoshop - 0x03ed] Resolution Info = 200.0x200.0 DPI
+[Photoshop - 0x03ed] Resolution Info = 200x200 DPI
 [Photoshop - 0x040d] Global Angle = 120
 [Photoshop - 0x0419] Global Altitude = 30
 [Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
