@@ -16,6 +16,8 @@ FILE: Sony Cybershot (5).jpg
 [JFIF - 0x000c] Thumbnail Width Pixels = 0
 [JFIF - 0x000d] Thumbnail Height Pixels = 0
 
+[JFXX - 0x0005] Extension Code = Thumbnail stored using 3 bytes/pixel
+
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = SONY
 [Exif IFD0 - 0x0110] Model = CYBERSHOT
