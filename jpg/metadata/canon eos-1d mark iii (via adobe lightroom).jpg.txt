@@ -54,7 +54,7 @@ FILE: Canon EOS-1D Mark III (via Adobe Lightroom).jpg
 [Xmp - 0x000c] Exposure Program = Program normal
 [Xmp - 0x000b] Aperture Value = f/5.6
 [Xmp - 0x0005] F-Number = f/5.6
-[Xmp - 0x000a] Focal Length = 200.0 mm
+[Xmp - 0x000a] Focal Length = 200 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/639 sec
 [Xmp - 0x000d] Date/Time Original = Sat Sep 20 09:01:07 +01:00 2008
 [Xmp - 0x000e] Date/Time Digitized = Sat Sep 20 09:01:07 +01:00 2008

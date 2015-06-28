@@ -68,7 +68,7 @@ FILE: Canon EOS 7D.jpg
 [Xmp - 0x000c] Exposure Program = Manual control
 [Xmp - 0x000b] Aperture Value = f/11.0
 [Xmp - 0x0005] F-Number = f/11.0
-[Xmp - 0x000a] Focal Length = 57.0 mm
+[Xmp - 0x000a] Focal Length = 57 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/124 sec
 [Xmp - 0x000d] Date/Time Original = Sun Dec 12 11:41:35 +00:00 2010
 [Xmp - 0x000e] Date/Time Digitized = Sun Dec 12 11:41:35 +00:00 2010
