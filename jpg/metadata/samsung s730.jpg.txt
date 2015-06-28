@@ -50,7 +50,7 @@ FILE: Samsung S730.jpg
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
-[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used.
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
 [Exif SubIFD - 0xa405] Focal Length 35 = 35 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa408] Contrast = None
