@@ -27,7 +27,7 @@ FILE: Canon IXUS v3.jpg
 [Exif SubIFD - 0x9201] Shutter Speed Value = 0.6 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/2.8
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x920a] Focal Length = 5.406 mm
+[Exif SubIFD - 0x920a] Focal Length = 5.4 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB

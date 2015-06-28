@@ -37,7 +37,7 @@ FILE: Panasonic Lumix DMC-GF2.jpg
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 14.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 14 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 4000 pixels
@@ -49,7 +49,7 @@ FILE: Panasonic Lumix DMC-GF2.jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used.
-[Exif SubIFD - 0xa405] Focal Length 35 = 28mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 28 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa407] Gain Control = Low gain down
 [Exif SubIFD - 0xa408] Contrast = None

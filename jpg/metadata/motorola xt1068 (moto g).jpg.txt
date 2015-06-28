@@ -32,7 +32,7 @@ FILE: Motorola XT1068 (Moto G).jpg
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.0
 [Exif SubIFD - 0x9207] Metering Mode = Average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 3.54 mm
+[Exif SubIFD - 0x920a] Focal Length = 3.5 mm
 [Exif SubIFD - 0x927c] Makernote = [2443 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB

@@ -31,7 +31,7 @@ FILE: Canon EOS 1000D.jpg
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 34.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 34 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0x9290] Sub-Sec Time = 02
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 02

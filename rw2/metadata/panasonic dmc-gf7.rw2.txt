@@ -59,7 +59,7 @@ FILE: Panasonic DMC-GF7.rw2
 [Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 12.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 12 mm
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 530
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 530
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)

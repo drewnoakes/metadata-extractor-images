@@ -59,7 +59,7 @@ FILE: Leica V-LUX (Typ 114).rwl
 [Exif SubIFD - 0x9205] Max Aperture Value = f/3.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 32.65 mm
+[Exif SubIFD - 0x920a] Focal Length = 32.7 mm
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 427
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 427
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)

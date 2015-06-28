@@ -36,7 +36,7 @@ FILE: Samsung SM-C115 (Galaxy K Zoom).jpg
 [Exif SubIFD - 0x9207] Metering Mode = Average
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
-[Exif SubIFD - 0x920a] Focal Length = 44.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 44 mm
 [Exif SubIFD - 0x927c] Makernote = [22122 values]
 [Exif SubIFD - 0x9286] User Comment = User comments
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
@@ -47,7 +47,7 @@ FILE: Samsung SM-C115 (Galaxy K Zoom).jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
-[Exif SubIFD - 0xa405] Focal Length 35 = 245mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 245 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa420] Unique Image ID = D20FSHE06DA
 

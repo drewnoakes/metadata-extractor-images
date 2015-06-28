@@ -32,7 +32,7 @@ FILE: HP PhotoSmart 318.jpg
 [Exif SubIFD - 0x9206] Subject Distance = 0.3 metres
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash fired
-[Exif SubIFD - 0x920a] Focal Length = 6.79 mm
+[Exif SubIFD - 0x920a] Focal Length = 6.8 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 1792 pixels

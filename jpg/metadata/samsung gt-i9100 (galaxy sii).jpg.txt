@@ -35,7 +35,7 @@ FILE: Samsung GT-I9100 (Galaxy SII).jpg
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.6
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash fired
-[Exif SubIFD - 0x920a] Focal Length = 3.97 mm
+[Exif SubIFD - 0x920a] Focal Length = 4 mm
 [Exif SubIFD - 0x927c] Makernote = [66 values]
 [Exif SubIFD - 0x9286] User Comment = User comments
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00

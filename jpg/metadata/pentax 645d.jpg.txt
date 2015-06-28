@@ -33,7 +33,7 @@ FILE: Pentax 645D.jpg
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0.7 EV
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 55.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 55 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 7264 pixels
@@ -44,7 +44,7 @@ FILE: Pentax 645D.jpg
 [Exif SubIFD - 0xa401] Custom Rendered = Normal process
 [Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
-[Exif SubIFD - 0xa405] Focal Length 35 = 43mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 43 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
@@ -70,7 +70,7 @@ FILE: Pentax 645D.jpg
 [Casio Makernote - 0x0017] Unknown tag (0x0017) = 1
 [Casio Makernote - 0x0018] Unknown tag (0x0018) = 0 0
 [Casio Makernote - 0x0019] White Balance = Auto
-[Casio Makernote - 0x001d] Focal Length = 550.0 mm
+[Casio Makernote - 0x001d] Focal Length = 550 mm
 [Casio Makernote - 0x001f] Saturation = Normal
 [Casio Makernote - 0x0020] Contrast = Normal
 [Casio Makernote - 0x0021] Sharpness = Normal

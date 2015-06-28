@@ -30,7 +30,7 @@ FILE: Pentax ist D.jpg
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9207] Metering Mode = Spot
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 77.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 77 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 1536 pixels
@@ -41,7 +41,7 @@ FILE: Pentax ist D.jpg
 [Exif SubIFD - 0xa401] Custom Rendered = Normal process
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
-[Exif SubIFD - 0xa405] Focal Length 35 = 115mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 115 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
@@ -69,7 +69,7 @@ FILE: Pentax ist D.jpg
 [Casio Makernote - 0x0018] Unknown tag (0x0018) = 0
 [Casio Makernote - 0x0019] White Balance = Auto
 [Casio Makernote - 0x001a] Unknown tag (0x001a) = 6
-[Casio Makernote - 0x001d] Focal Length = 770.0 mm
+[Casio Makernote - 0x001d] Focal Length = 770 mm
 [Casio Makernote - 0x001f] Saturation = 
 [Casio Makernote - 0x0020] Contrast = 
 [Casio Makernote - 0x0021] Sharpness = 

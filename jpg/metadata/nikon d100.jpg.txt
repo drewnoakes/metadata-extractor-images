@@ -32,7 +32,7 @@ FILE: Nikon D100.jpg
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Cloudy
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
-[Exif SubIFD - 0x920a] Focal Length = 130.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 130 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0x9290] Sub-Sec Time = 10
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 10
@@ -50,7 +50,7 @@ FILE: Nikon D100.jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Manual white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
-[Exif SubIFD - 0xa405] Focal Length 35 = 195mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 195 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa407] Gain Control = None
 [Exif SubIFD - 0xa408] Contrast = None

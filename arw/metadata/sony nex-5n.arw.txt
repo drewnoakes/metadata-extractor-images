@@ -35,7 +35,7 @@ FILE: Sony NEX-5N.arw
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 24.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 24 mm
 [Exif SubIFD - 0x927c] Makernote = [38948 values]
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
@@ -47,7 +47,7 @@ FILE: Sony NEX-5N.arw
 [Exif SubIFD - 0xa401] Custom Rendered = Normal process
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
-[Exif SubIFD - 0xa405] Focal Length 35 = 36mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 36 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None

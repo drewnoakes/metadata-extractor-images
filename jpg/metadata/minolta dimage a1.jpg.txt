@@ -35,7 +35,7 @@ FILE: Minolta DiMAGE A1.jpg
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 12.48 mm
+[Exif SubIFD - 0x920a] Focal Length = 12.5 mm
 [Exif SubIFD - 0x9214] Subject Location = 1280 960 2560 1920
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
@@ -46,7 +46,7 @@ FILE: Minolta DiMAGE A1.jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used.
-[Exif SubIFD - 0xa405] Focal Length 35 = 48mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 48 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa407] Gain Control = None
 [Exif SubIFD - 0xa408] Contrast = None
@@ -74,7 +74,7 @@ FILE: Minolta DiMAGE A1.jpg
 [Olympus Makernote - 0xf010] Unknown tag (0xf010) = 60
 [Olympus Makernote - 0xf011] Interval Length = N/A
 [Olympus Makernote - 0xf012] Interval Number = N/A
-[Olympus Makernote - 0xf013] Focal Length = 0.0 mm
+[Olympus Makernote - 0xf013] Focal Length = 0 mm
 [Olympus Makernote - 0xf014] Focus Distance = Infinity
 [Olympus Makernote - 0xf015] Flash Fired = Unknown (131270925)
 [Olympus Makernote - 0xf016] Date = Thu Jun 11 00:00:00 BST 1981

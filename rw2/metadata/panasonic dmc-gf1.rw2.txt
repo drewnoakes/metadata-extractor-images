@@ -54,7 +54,7 @@ FILE: Panasonic DMC-GF1.rw2
 [Exif SubIFD - 0x9205] Max Aperture Value = f/1.7
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 20.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 20 mm
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
 [File - 0x0001] File Name = Panasonic DMC-GF1.rw2

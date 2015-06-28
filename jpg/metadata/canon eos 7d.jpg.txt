@@ -39,7 +39,7 @@ FILE: Canon EOS 7D.jpg
 [Exif SubIFD - 0x9206] Subject Distance = 2.25 metres
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 57.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 57 mm
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 00
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 00
 [Exif SubIFD - 0xa20e] Focal Plane X Resolution = 907/5184000 inches

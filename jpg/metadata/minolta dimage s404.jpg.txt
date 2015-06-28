@@ -35,7 +35,7 @@ FILE: Minolta DiMAGE S404.jpg
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
-[Exif SubIFD - 0x920a] Focal Length = 19.938 mm
+[Exif SubIFD - 0x920a] Focal Length = 19.9 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 2272 pixels
@@ -61,7 +61,7 @@ FILE: Minolta DiMAGE S404.jpg
 [Olympus Makernote - 0xf010] Unknown tag (0xf010) = 0
 [Olympus Makernote - 0xf011] Interval Length = N/A
 [Olympus Makernote - 0xf012] Interval Number = N/A
-[Olympus Makernote - 0xf013] Focal Length = 0.0 mm
+[Olympus Makernote - 0xf013] Focal Length = 0 mm
 [Olympus Makernote - 0xf014] Focus Distance = Infinity
 [Olympus Makernote - 0xf015] Flash Fired = Unknown (131204368)
 [Olympus Makernote - 0xf016] Date = Sat Apr 26 00:00:00 BST 2014

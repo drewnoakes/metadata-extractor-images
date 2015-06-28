@@ -36,7 +36,7 @@ FILE: Nikon D300.tif
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
-[Exif SubIFD - 0x920a] Focal Length = 18.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 18 mm
 [Exif SubIFD - 0x9286] User Comment = Copyright Drew Noakes
 [Exif SubIFD - 0x9290] Sub-Sec Time = 74
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 74
@@ -51,7 +51,7 @@ FILE: Nikon D300.tif
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
-[Exif SubIFD - 0xa405] Focal Length 35 = 27mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 27 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa407] Gain Control = Low gain down
 [Exif SubIFD - 0xa408] Contrast = None

@@ -35,7 +35,7 @@ FILE: HTC One M8.jpg
 [Exif SubIFD - 0x9207] Metering Mode = (Other)
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 3.82 mm
+[Exif SubIFD - 0x920a] Focal Length = 3.8 mm
 [Exif SubIFD - 0x927c] Makernote = [3909 values]
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 930
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00

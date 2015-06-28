@@ -48,7 +48,7 @@ FILE: Samsung WB1100F.jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
-[Exif SubIFD - 0xa405] Focal Length 35 = 87mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 87 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = High saturation

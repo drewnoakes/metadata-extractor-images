@@ -32,7 +32,7 @@ FILE: Traveler SX330Z.jpg
 [Exif SubIFD - 0x9206] Subject Distance = 0.0 metres
 [Exif SubIFD - 0x9207] Metering Mode = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired
-[Exif SubIFD - 0x920a] Focal Length = 23.28 mm
+[Exif SubIFD - 0x920a] Focal Length = 23.3 mm
 [Exif SubIFD - 0x927c] Makernote = [264 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB

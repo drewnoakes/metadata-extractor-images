@@ -36,7 +36,7 @@ FILE: Panasonic DMC-LC40.jpg
 [Exif SubIFD - 0x9207] Metering Mode = Multi-spot
 [Exif SubIFD - 0x9208] White Balance = Daylight
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 20.74 mm
+[Exif SubIFD - 0x920a] Focal Length = 20.7 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa003] Exif Image Height = 1600 pixels
@@ -49,7 +49,7 @@ FILE: Panasonic DMC-LC40.jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used.
-[Exif SubIFD - 0xa405] Focal Length 35 = 100mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 100 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa407] Gain Control = None
 [Exif SubIFD - 0xa408] Contrast = None

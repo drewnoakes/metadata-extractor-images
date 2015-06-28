@@ -37,7 +37,7 @@ FILE: Kodak PIXPRO FZ201.jpg
 [Exif SubIFD - 0x9207] Metering Mode = Spot
 [Exif SubIFD - 0x9208] White Balance = Daylight
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 90.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 90 mm
 [Exif SubIFD - 0x927c] Makernote = [232 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
@@ -48,7 +48,7 @@ FILE: Kodak PIXPRO FZ201.jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Unknown (2)
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used.
-[Exif SubIFD - 0xa405] Focal Length 35 = 500mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 500 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa407] Gain Control = None
 

@@ -32,7 +32,7 @@ FILE: Leica X VARIO (Typ 107).jpg
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 46.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 46 mm
 [Exif SubIFD - 0x927c] Makernote = [5818 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
@@ -43,7 +43,7 @@ FILE: Leica X VARIO (Typ 107).jpg
 [Exif SubIFD - 0xa401] Custom Rendered = Normal process
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
-[Exif SubIFD - 0xa405] Focal Length 35 = 70mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 70 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Landscape
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None

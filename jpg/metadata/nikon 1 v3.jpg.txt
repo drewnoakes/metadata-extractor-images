@@ -34,7 +34,7 @@ FILE: Nikon 1 V3.jpg
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
-[Exif SubIFD - 0x920a] Focal Length = 30.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 30 mm
 [Exif SubIFD - 0x9290] Sub-Sec Time = 04
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 04
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 04
@@ -50,7 +50,7 @@ FILE: Nikon 1 V3.jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
-[Exif SubIFD - 0xa405] Focal Length 35 = 81mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 81 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa407] Gain Control = Low gain up
 [Exif SubIFD - 0xa408] Contrast = None

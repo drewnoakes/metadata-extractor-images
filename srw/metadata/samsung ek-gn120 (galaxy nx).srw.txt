@@ -16,7 +16,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).srw
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
-[Exif SubIFD - 0x920a] Focal Length = 30.0 mm
+[Exif SubIFD - 0x920a] Focal Length = 30 mm
 [Exif SubIFD - 0x927c] Makernote = [269872 values]
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 5472 pixels
@@ -24,7 +24,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).srw
 [Exif SubIFD - 0xa402] Exposure Mode = Unknown (3)
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
-[Exif SubIFD - 0xa405] Focal Length 35 = 46mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 46 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None

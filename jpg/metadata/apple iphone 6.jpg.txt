@@ -33,7 +33,7 @@ FILE: Apple iPhone 6.jpg
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 4.15 mm
+[Exif SubIFD - 0x920a] Focal Length = 4.2 mm
 [Exif SubIFD - 0x9214] Subject Location = 1631 1223 1795 1077
 [Exif SubIFD - 0x927c] Makernote = [826 values]
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 133
@@ -47,7 +47,7 @@ FILE: Apple iPhone 6.jpg
 [Exif SubIFD - 0xa401] Custom Rendered = Unknown (3)
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
-[Exif SubIFD - 0xa405] Focal Length 35 = 29mm
+[Exif SubIFD - 0xa405] Focal Length 35 = 29 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa432] Lens Specification = 83/20 83/20 11/5 11/5
 [Exif SubIFD - 0xa433] Lens Make = Apple
