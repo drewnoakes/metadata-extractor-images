@@ -42,7 +42,7 @@ FILE: Leica D-LUX (Typ 109).rwl
 [Exif IFD0 - 0x0118] Minimum sample value = 704512
 [Exif IFD0 - 0x0119] Maximum sample value = [32 values]
 [Exif IFD0 - 0x011a] X Resolution = 2 dots per unit
-[Exif IFD0 - 0x011b] Y Resolution = null
+[Exif IFD0 - 0x011b] Y Resolution = 
 [Exif IFD0 - 0x011c] Planar Configuration = Unknown (763)
 [Exif IFD0 - 0x011d] Page Name = [102 values]
 [Exif IFD0 - 0x011e] Unknown tag (0x011e) = [18 values]

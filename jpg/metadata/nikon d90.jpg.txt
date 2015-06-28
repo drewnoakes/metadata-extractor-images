@@ -104,7 +104,7 @@ FILE: Nikon D90.jpg
 [Nikon Makernote - 0x00ab] Digital Vari Program =                
 [Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Off
-[Nikon Makernote - 0x00b6] Power Up Time = null
+[Nikon Makernote - 0x00b6] Power Up Time = 
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00bb] Unknown 49 = 48 49 48 48 -1 0
