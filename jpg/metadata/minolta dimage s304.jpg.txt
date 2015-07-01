@@ -103,7 +103,7 @@ FILE: Minolta DiMAGE S304.jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Tue Oct 02 18:44:22 +01:00 2001
+[ICC Profile - 0x0018] Profile Date/Time = Sun Sep 02 18:44:22 +01:00 2001
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
 [ICC Profile - 0x0030] Device manufacturer = MNLT

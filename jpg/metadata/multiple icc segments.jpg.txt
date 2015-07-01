@@ -42,7 +42,7 @@ FILE: Multiple ICC segments.jpg
 [ICC Profile - 0x000c] Class = Output Device
 [ICC Profile - 0x0010] Color space = CMYK
 [ICC Profile - 0x0014] Profile Connection Space = Lab 
-[ICC Profile - 0x0018] Profile Date/Time = Sat Aug 26 06:41:53 +01:00 2000
+[ICC Profile - 0x0018] Profile Date/Time = Wed Jul 26 06:41:53 +01:00 2000
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
 [ICC Profile - 0x0030] Device manufacturer = ADBE
