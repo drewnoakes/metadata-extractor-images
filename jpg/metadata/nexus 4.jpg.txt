@@ -50,7 +50,7 @@ FILE: Nexus 4.jpg
 
 [File - 0x0001] File Name = Nexus 4.jpg
 [File - 0x0002] File Size = 2822493 bytes
-[File - 0x0003] File Modified Date = Wed Jan 30 22:07:45 +00:00 2013
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

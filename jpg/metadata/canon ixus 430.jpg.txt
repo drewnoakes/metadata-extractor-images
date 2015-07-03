@@ -187,7 +187,7 @@ FILE: Canon IXUS 430.jpg
 
 [File - 0x0001] File Name = Canon IXUS 430.jpg
 [File - 0x0002] File Size = 1617207 bytes
-[File - 0x0003] File Modified Date = Wed Jan 30 12:00:16 +00:00 2013
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

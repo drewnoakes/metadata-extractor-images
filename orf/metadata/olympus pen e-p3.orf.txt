@@ -63,7 +63,7 @@ FILE: Olympus PEN E-P3.orf
 
 [File - 0x0001] File Name = Olympus PEN E-P3.orf
 [File - 0x0002] File Size = 13202813 bytes
-[File - 0x0003] File Modified Date = Sat Jan 18 20:30:12 +00:00 2014
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

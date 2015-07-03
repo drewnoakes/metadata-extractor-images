@@ -77,7 +77,7 @@ FILE: Apple iPhone 6.jpg
 
 [File - 0x0001] File Name = Apple iPhone 6.jpg
 [File - 0x0002] File Size = 2590700 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:14:19 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

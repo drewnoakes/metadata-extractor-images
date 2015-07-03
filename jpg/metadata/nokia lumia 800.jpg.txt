@@ -101,7 +101,7 @@ FILE: Nokia Lumia 800.jpg
 
 [File - 0x0001] File Name = Nokia Lumia 800.jpg
 [File - 0x0002] File Size = 1286767 bytes
-[File - 0x0003] File Modified Date = Wed Jan 30 11:09:21 +00:00 2013
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

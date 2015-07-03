@@ -90,7 +90,7 @@ FILE: Multiple ICC segments.jpg
 
 [File - 0x0001] File Name = Multiple ICC segments.jpg
 [File - 0x0002] File Size = 580171 bytes
-[File - 0x0003] File Modified Date = Sun Feb 01 18:18:35 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

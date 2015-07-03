@@ -7,7 +7,7 @@ FILE: Animation Lossless.webp
 
 [File - 0x0001] File Name = Animation Lossless.webp
 [File - 0x0002] File Size = 261372 bytes
-[File - 0x0003] File Modified Date = Thu Feb 12 16:10:52 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -18,7 +18,7 @@ FILE: mspaint-8x10.png
 
 [File - 0x0001] File Name = mspaint-8x10.png
 [File - 0x0002] File Size = 124 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:12:58 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -54,7 +54,7 @@ FILE: Issue 16.tif
 
 [File - 0x0001] File Name = Issue 16.tif
 [File - 0x0002] File Size = 1849136 bytes
-[File - 0x0003] File Modified Date = Sun Feb 01 20:52:20 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

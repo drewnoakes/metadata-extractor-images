@@ -111,7 +111,7 @@ FILE: Nikon D5000.jpg
 
 [File - 0x0001] File Name = Nikon D5000.jpg
 [File - 0x0002] File Size = 262305 bytes
-[File - 0x0003] File Modified Date = Wed Nov 19 22:24:00 +00:00 2014
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

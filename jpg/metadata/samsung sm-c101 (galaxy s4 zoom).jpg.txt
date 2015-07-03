@@ -74,7 +74,7 @@ FILE: Samsung SM-C101 (Galaxy S4 Zoom).jpg
 
 [File - 0x0001] File Name = Samsung SM-C101 (Galaxy S4 Zoom).jpg
 [File - 0x0002] File Size = 5307261 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 21:23:39 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

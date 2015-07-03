@@ -209,7 +209,7 @@ FILE: Icon (1).ico
 
 [File - 0x0001] File Name = Icon (1).ico
 [File - 0x0002] File Size = 250535 bytes
-[File - 0x0003] File Modified Date = Sun Feb 01 19:56:09 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -63,7 +63,7 @@ FILE: Samsung SM-C115 (Galaxy K Zoom).jpg
 
 [File - 0x0001] File Name = Samsung SM-C115 (Galaxy K Zoom).jpg
 [File - 0x0002] File Size = 7917008 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 21:35:46 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

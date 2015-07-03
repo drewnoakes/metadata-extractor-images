@@ -93,7 +93,7 @@ FILE: FujiFilm FinePix S5500.raf
 
 [File - 0x0001] File Name = FujiFilm FinePix S5500.raf
 [File - 0x0002] File Size = 8500960 bytes
-[File - 0x0003] File Modified Date = Wed Apr 24 14:59:40 +01:00 2013
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

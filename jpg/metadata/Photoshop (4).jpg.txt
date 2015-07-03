@@ -27,7 +27,7 @@ FILE: Photoshop (4).jpg
 
 [File - 0x0001] File Name = Photoshop (4).jpg
 [File - 0x0002] File Size = 36467 bytes
-[File - 0x0003] File Modified Date = Sun Jun 28 23:30:02 +01:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

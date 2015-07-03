@@ -53,7 +53,7 @@ FILE: Photoshop (1).jpg
 
 [File - 0x0001] File Name = Photoshop (1).jpg
 [File - 0x0002] File Size = 567767 bytes
-[File - 0x0003] File Modified Date = Sun Feb 01 14:42:37 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -211,7 +211,7 @@ FILE: Leica V-LUX (Typ 114).jpg
 
 [File - 0x0001] File Name = Leica V-LUX (Typ 114).jpg
 [File - 0x0002] File Size = 9831424 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:26:15 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

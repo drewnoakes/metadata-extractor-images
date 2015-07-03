@@ -68,7 +68,7 @@ FILE: Sony D5403 (Xperia Z2).jpg
 
 [File - 0x0001] File Name = Sony D5403 (Xperia Z2).jpg
 [File - 0x0002] File Size = 3723140 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 20:52:18 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

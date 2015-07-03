@@ -60,7 +60,7 @@ FILE: BlazRobar Thinking Head Icon Set.psd
 
 [File - 0x0001] File Name = BlazRobar Thinking Head Icon Set.psd
 [File - 0x0002] File Size = 4043309 bytes
-[File - 0x0003] File Modified Date = Fri Sep 12 11:30:30 +01:00 2014
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

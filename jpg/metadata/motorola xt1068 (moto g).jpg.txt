@@ -65,7 +65,7 @@ FILE: Motorola XT1068 (Moto G).jpg
 
 [File - 0x0001] File Name = Motorola XT1068 (Moto G).jpg
 [File - 0x0002] File Size = 1914675 bytes
-[File - 0x0003] File Modified Date = Sat Jan 24 21:03:13 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -77,7 +77,7 @@ FILE: 10x12x16bit-CMYK.psd
 
 [File - 0x0001] File Name = 10x12x16bit-CMYK.psd
 [File - 0x0002] File Size = 575378 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:13:25 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

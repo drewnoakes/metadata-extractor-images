@@ -7,7 +7,7 @@ FILE: Alpha Lossy (1).webp
 
 [File - 0x0001] File Name = Alpha Lossy (1).webp
 [File - 0x0002] File Size = 23404 bytes
-[File - 0x0003] File Modified Date = Fri Feb 06 23:53:23 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

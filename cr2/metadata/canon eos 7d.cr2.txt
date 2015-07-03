@@ -198,7 +198,7 @@ FILE: Canon EOS 7D.cr2
 
 [File - 0x0001] File Name = Canon EOS 7D.cr2
 [File - 0x0002] File Size = 23107855 bytes
-[File - 0x0003] File Modified Date = Thu Jan 22 18:57:23 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

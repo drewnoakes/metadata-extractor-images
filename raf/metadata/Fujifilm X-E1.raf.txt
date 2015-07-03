@@ -125,7 +125,7 @@ FILE: Fujifilm X-E1.raf
 
 [File - 0x0001] File Name = Fujifilm X-E1.raf
 [File - 0x0002] File Size = 26146816 bytes
-[File - 0x0003] File Modified Date = Mon Jun 29 20:22:23 +01:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

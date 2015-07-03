@@ -62,7 +62,7 @@ FILE: Leica X VARIO (Typ 107).jpg
 
 [File - 0x0001] File Name = Leica X VARIO (Typ 107).jpg
 [File - 0x0002] File Size = 5216861 bytes
-[File - 0x0003] File Modified Date = Fri Jan 23 00:33:24 +00:00 2015
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
