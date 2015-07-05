@@ -77,7 +77,7 @@ FILE: Nikon D1X.jpg
 [Nikon Makernote - 0x0011] Preview IFD = 2781
 [Nikon Makernote - 0x0081] Tone Compensation = NORMAL
 [Nikon Makernote - 0x0083] Lens Type = AF, D
-[Nikon Makernote - 0x0084] Lens = 17-35mm f/2.8-2.8
+[Nikon Makernote - 0x0084] Lens = 17-35mm f/2.8
 [Nikon Makernote - 0x0087] Flash Used = Flash Not Ready
 [Nikon Makernote - 0x0088] AF Focus Position = Unknown (1 0 1 0)
 [Nikon Makernote - 0x0089] Shooting Mode = Continuous

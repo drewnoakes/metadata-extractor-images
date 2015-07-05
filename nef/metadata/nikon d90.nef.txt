@@ -84,7 +84,7 @@ FILE: Nikon D90.nef
 [Nikon Makernote - 0x0025] ISO Info = 76 1 12 0 0 0 76 1 12 0 0 0 0 0
 [Nikon Makernote - 0x002c] Unknown 41 = [94 values]
 [Nikon Makernote - 0x0083] Lens Type = AF, D
-[Nikon Makernote - 0x0084] Lens = 24-24mm f/2.8-2.8
+[Nikon Makernote - 0x0084] Lens = 24-24mm f/2.8
 [Nikon Makernote - 0x0087] Flash Used = Flash Not Used
 [Nikon Makernote - 0x0089] Shooting Mode = Single Frame
 [Nikon Makernote - 0x008a] Unknown 20 = 255

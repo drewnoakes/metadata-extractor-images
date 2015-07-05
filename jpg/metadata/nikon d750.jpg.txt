@@ -96,7 +96,7 @@ FILE: Nikon D750.jpg
 [Nikon Makernote - 0x0040] Unknown tag (0x0040) = 48 49 48 48 1 0 67 0 48 49 48 48
 [Nikon Makernote - 0x0042] Unknown tag (0x0042) = 48 49 48 48 2 0
 [Nikon Makernote - 0x0083] Lens Type = AF, D, G, VR
-[Nikon Makernote - 0x0084] Lens = 70-200mm f/2.8-2.8
+[Nikon Makernote - 0x0084] Lens = 70-200mm f/2.8
 [Nikon Makernote - 0x0087] Flash Used = Flash Not Used
 [Nikon Makernote - 0x0089] Shooting Mode = Single Frame
 [Nikon Makernote - 0x008a] Unknown 20 = 1
