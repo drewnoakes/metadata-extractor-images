@@ -56,8 +56,8 @@ FILE: Minolta DiMAGE 7.jpg
 [Olympus Makernote - 0xf006] Image Quality = Raw
 [Olympus Makernote - 0xf007] Shooting Mode = Single
 [Olympus Makernote - 0xf008] Metering Mode = Unknown (48)
-[Olympus Makernote - 0xf009] Apex Film Speed Value = 450.0
-[Olympus Makernote - 0xf00a] Apex Shutter Speed Time Value = 0.390625 sec
+[Olympus Makernote - 0xf009] Apex Film Speed Value = 450
+[Olympus Makernote - 0xf00a] Apex Shutter Speed Time Value = 0.391 sec
 [Olympus Makernote - 0xf00b] Apex Aperture Value = f/0.3
 [Olympus Makernote - 0xf00c] Macro Mode = Off
 [Olympus Makernote - 0xf00d] Digital Zoom = Unknown (6)
