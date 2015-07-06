@@ -79,7 +79,7 @@ FILE: Nikon 1 V3.jpg
 [Nikon Makernote - 0x001f] VR Info = 48 49 48 49 1 1 2 1
 [Nikon Makernote - 0x0022] Active D-Lighting = Auto
 [Nikon Makernote - 0x0023] Picture Control = [58 values]
-[Nikon Makernote - 0x0024] World Time = 32 -2 1 2
+[Nikon Makernote - 0x0024] World Time = 32 254 1 2
 [Nikon Makernote - 0x0025] ISO Info = 84 1 12 0 0 0 84 1 12 0 0 0 2 0
 [Nikon Makernote - 0x002b] Unknown 40 = 48 49 48 48 1 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x002c] Unknown 41 = [94 values]
@@ -109,8 +109,8 @@ FILE: Nikon 1 V3.jpg
 [Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Normal
 [Nikon Makernote - 0x00b7] AF Info 2 = [52 values]
-[Nikon Makernote - 0x00b9] AF Tune = 0 -1 0 0
-[Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 68 1 12 0 -112 1 12 0
+[Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
+[Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 68 1 12 0 144 1 12 0
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

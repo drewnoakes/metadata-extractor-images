@@ -112,7 +112,7 @@ FILE: Nikon D300.jpg
 [Nikon Makernote - 0x00b6] Power Up Time = 
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
-[Nikon Makernote - 0x00b9] AF Tune = 0 -1 0 0
+[Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
 
 [Interoperability - 0x0001] Interoperability Index = Unknown (R03)
 [Interoperability - 0x0002] Interoperability Version = 1.00

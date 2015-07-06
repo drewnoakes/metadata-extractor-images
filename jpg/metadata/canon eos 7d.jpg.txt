@@ -104,7 +104,7 @@ FILE: Canon EOS 7D.jpg
 [Photoshop - 0x040a] Copyright Flag = Yes
 [Photoshop - 0x040b] URL = http://www.meine-ansichten.de/verschiedenes/copyright.html
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 171x256, Decomp 132096 bytes, 1572865 bpp, 10286 bytes
-[Photoshop - 0x0425] Caption Digest = -121 125 71 -116 68 -17 11 -80 119 -24 -119 -57 -21 79 114 122
+[Photoshop - 0x0425] Caption Digest = 135 125 71 140 68 239 11 176 119 232 137 199 235 79 114 122
 
 [IPTC - 0x0200] Application Record Version = 2
 [IPTC - 0x0250] By-line = Peter Bemmann

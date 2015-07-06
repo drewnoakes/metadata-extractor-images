@@ -110,7 +110,7 @@ FILE: Nikon D3100.jpg
 [Nikon Makernote - 0x00b6] Power Up Time = 
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
-[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 -1 -1 -1 0
+[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 255 255 255 0
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

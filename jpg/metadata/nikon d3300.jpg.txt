@@ -84,7 +84,7 @@ FILE: Nikon D3300.jpg
 [Nikon Makernote - 0x001f] VR Info = 48 49 48 48 1 1 0 0
 [Nikon Makernote - 0x0022] Active D-Lighting = Auto
 [Nikon Makernote - 0x0023] Picture Control = [58 values]
-[Nikon Makernote - 0x0024] World Time = -44 -2 1 1
+[Nikon Makernote - 0x0024] World Time = 212 254 1 1
 [Nikon Makernote - 0x0025] ISO Info = 60 1 12 0 0 0 60 1 12 0 0 0 1 0
 [Nikon Makernote - 0x002b] Unknown 40 = 48 49 48 48 0 4 2 2 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x002c] Unknown 41 = [574 values]
@@ -115,9 +115,9 @@ FILE: Nikon D3300.jpg
 [Nikon Makernote - 0x00b6] Power Up Time = 
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
-[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 -1 -1 -1 0
+[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 255 255 255 0
 [Nikon Makernote - 0x00bf] Unknown tag (0x00bf) = 0
-[Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 60 1 12 0 -112 1 12 0
+[Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 60 1 12 0 144 1 12 0
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -138,7 +138,7 @@ FILE: Nikon D3300.jpg
 [Xmp - 0x0008] Serial Number = 3000205
 [Xmp - 0x1001] Rating = 3
 
-[Photoshop - 0x0425] Caption Digest = -87 110 -127 -14 -15 89 -109 111 97 -9 -85 -53 74 -104 102 24
+[Photoshop - 0x0425] Caption Digest = 169 110 129 242 241 89 147 111 97 247 171 203 74 152 102 24
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4

@@ -73,7 +73,7 @@ FILE: Pentax QS1.jpg
 [Xmp - 0x0008] Serial Number = 2587411
 [Xmp - 0x1001] Rating = 4
 
-[Photoshop - 0x0425] Caption Digest = 110 38 73 -39 -81 -60 10 86 -1 11 -44 14 -79 67 34 -122
+[Photoshop - 0x0425] Caption Digest = 110 38 73 217 175 196 10 86 255 11 212 14 177 67 34 134
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4

@@ -83,7 +83,7 @@ FILE: Nikon D750.jpg
 [Nikon Makernote - 0x001f] VR Info = 48 49 48 48 1 1 0 0
 [Nikon Makernote - 0x0022] Active D-Lighting = Off
 [Nikon Makernote - 0x0023] Picture Control = [68 values]
-[Nikon Makernote - 0x0024] World Time = 32 -2 1 1
+[Nikon Makernote - 0x0024] World Time = 32 254 1 1
 [Nikon Makernote - 0x0025] ISO Info = 60 1 12 0 0 0 60 1 12 0 0 0 0 0
 [Nikon Makernote - 0x002a] Vignette Control = Normal
 [Nikon Makernote - 0x002b] Unknown 40 = 48 49 48 48 0 4 2 5 0 0 0 0 0 0 0 0
@@ -116,10 +116,10 @@ FILE: Nikon D750.jpg
 [Nikon Makernote - 0x00b6] Power Up Time = 
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
-[Nikon Makernote - 0x00b9] AF Tune = 0 -1 0 0
-[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 -1 -1 -1 0
+[Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
+[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 255 255 255 0
 [Nikon Makernote - 0x00bf] Unknown tag (0x00bf) = 0
-[Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 60 1 12 0 -112 1 12 0
+[Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 60 1 12 0 144 1 12 0
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

@@ -113,7 +113,7 @@ FILE: Nikon D5100.nef
 [Nikon Makernote - 0x00b6] Power Up Time = 
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
-[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 -1 -1 -1 0
+[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 255 255 255 0
 [Nikon Makernote - 0x00bc] Unknown tag (0x00bc) = [3480 values]
 
 [GPS - 0x0000] GPS Version ID = 2.300

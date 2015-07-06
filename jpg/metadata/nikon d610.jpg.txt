@@ -84,13 +84,13 @@ FILE: Nikon D610.jpg
 [Nikon Makernote - 0x001f] VR Info = 48 49 48 48 1 1 0 0
 [Nikon Makernote - 0x0022] Active D-Lighting = Off
 [Nikon Makernote - 0x0023] Picture Control = [58 values]
-[Nikon Makernote - 0x0024] World Time = -2 32 0 2
+[Nikon Makernote - 0x0024] World Time = 254 32 0 2
 [Nikon Makernote - 0x0025] ISO Info = 120 1 12 0 0 0 120 1 12 0 0 0 0 0
 [Nikon Makernote - 0x002a] Vignette Control = Normal
 [Nikon Makernote - 0x002b] Unknown 40 = 48 49 48 48 0 4 1 9 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x002c] Unknown 41 = [574 values]
 [Nikon Makernote - 0x0032] Unknown tag (0x0032) = 48 49 48 48 0 0 0 1
-[Nikon Makernote - 0x0035] Unknown tag (0x0035) = 48 49 48 48 0 0 0 -1
+[Nikon Makernote - 0x0035] Unknown tag (0x0035) = 48 49 48 48 0 0 0 255
 [Nikon Makernote - 0x0083] Lens Type = AF, D, G, VR
 [Nikon Makernote - 0x0084] Lens = 24-85mm f/3.5-4.5
 [Nikon Makernote - 0x0087] Flash Used = Flash Not Used
@@ -112,10 +112,10 @@ FILE: Nikon D610.jpg
 [Nikon Makernote - 0x00b6] Power Up Time = 
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
-[Nikon Makernote - 0x00b9] AF Tune = 0 -1 0 0
-[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 -1 -1 -1 0
+[Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
+[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 255 255 255 0
 [Nikon Makernote - 0x00bf] Unknown tag (0x00bf) = 0
-[Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 60 1 12 0 -124 1 12 0
+[Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 60 1 12 0 132 1 12 0
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

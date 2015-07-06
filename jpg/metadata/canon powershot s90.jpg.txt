@@ -97,7 +97,7 @@ FILE: Canon Powershot S90.jpg
 
 [Photoshop - 0x03ed] Resolution Info = 240x240 DPI
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 256x192, Decomp 147456 bytes, 1572865 bpp, 11021 bytes
-[Photoshop - 0x0425] Caption Digest = -35 -70 52 10 -65 -59 -13 -121 42 38 91 92 34 -71 59 64
+[Photoshop - 0x0425] Caption Digest = 221 186 52 10 191 197 243 135 42 38 91 92 34 185 59 64
 
 [IPTC - 0x0200] Application Record Version = 2
 [IPTC - 0x0219] Keywords = 2012;dublin;ireland;june

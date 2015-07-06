@@ -96,7 +96,7 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x0020] Unknown tag (0x0020) = 4
 [Sigma Makernote - 0x0021] Unknown tag (0x0021) = 5 3
 [Sigma Makernote - 0x0022] Unknown tag (0x0022) = 0
-[Sigma Makernote - 0x0023] Unknown tag (0x0023) = -120 -120 -120 -120 -120 -120 -120 -103 -120 -120 -120 -120 -120 -120 -120
+[Sigma Makernote - 0x0023] Unknown tag (0x0023) = 136 136 136 136 136 136 136 153 136 136 136 136 136 136 136
 [Sigma Makernote - 0x0024] Unknown tag (0x0024) = 
 [Sigma Makernote - 0x0025] Unknown tag (0x0025) = 
 [Sigma Makernote - 0x0026] Unknown tag (0x0026) = JPG-P
@@ -113,7 +113,7 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x0031] Unknown tag (0x0031) =  
 [Sigma Makernote - 0x0032] Unknown tag (0x0032) = 48 13
 [Sigma Makernote - 0x0033] Unknown tag (0x0033) = 56 13 0
-[Sigma Makernote - 0x0034] Unknown tag (0x0034) = 64 -96 95 64 64 46 -119 -64 -128
+[Sigma Makernote - 0x0034] Unknown tag (0x0034) = 64 160 95 64 64 46 137 192 128
 [Sigma Makernote - 0x0035] Unknown tag (0x0035) = 79
 [Sigma Makernote - 0x0036] Unknown tag (0x0036) = [21 values]
 [Sigma Makernote - 0x0037] Unknown tag (0x0037) = 0
@@ -154,12 +154,12 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x005a] Unknown tag (0x005a) = 0
 [Sigma Makernote - 0x005b] Unknown tag (0x005b) = 0
 [Sigma Makernote - 0x005c] Unknown tag (0x005c) = 0
-[Sigma Makernote - 0x005d] Unknown tag (0x005d) = 0 0 -25 119
+[Sigma Makernote - 0x005d] Unknown tag (0x005d) = 0 0 231 119
 [Sigma Makernote - 0x005e] Unknown tag (0x005e) = 1 0 0 0
 [Sigma Makernote - 0x005f] Unknown tag (0x005f) = 2 0 0 0
-[Sigma Makernote - 0x0060] Unknown tag (0x0060) = -12 20
-[Sigma Makernote - 0x0061] Unknown tag (0x0061) = -4 20 0
-[Sigma Makernote - 0x0062] Unknown tag (0x0062) = -9 107 -65 -77 95 -6 21 -79 -77
+[Sigma Makernote - 0x0060] Unknown tag (0x0060) = 244 20
+[Sigma Makernote - 0x0061] Unknown tag (0x0061) = 252 20 0
+[Sigma Makernote - 0x0062] Unknown tag (0x0062) = 247 107 191 179 95 250 21 177 179
 [Sigma Makernote - 0x0063] Unknown tag (0x0063) = 0
 [Sigma Makernote - 0x0064] Unknown tag (0x0064) = 1 32 24
 [Sigma Makernote - 0x0065] Unknown tag (0x0065) = -81008845 -1210790661 -147760657 -429105 -296470 1060011860 -859777155 1182716189 -310640966 691466737
@@ -168,7 +168,7 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x0068] Unknown tag (0x0068) = 446399/65536 196608/65536 350440/65536 428329/65536 118719/65536 0/65536
 [Sigma Makernote - 0x0069] Unknown tag (0x0069) = 462307/65536 196608/65536 331235/65536 393216/65536 134627/65536 0/65536
 [Sigma Makernote - 0x006a] Unknown tag (0x006a) = 0 800 100
-[Sigma Makernote - 0x006b] Unknown tag (0x006b) = -52 21
+[Sigma Makernote - 0x006b] Unknown tag (0x006b) = 204 21
 [Sigma Makernote - 0x006c] Unknown tag (0x006c) = 0
 [Sigma Makernote - 0x006d] Unknown tag (0x006d) = [77 values]
 [Sigma Makernote - 0x006e] Unknown tag (0x006e) = 0 0
@@ -179,7 +179,7 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x0073] Unknown tag (0x0073) = 327680
 [Sigma Makernote - 0x0074] Unknown tag (0x0074) = 0
 [Sigma Makernote - 0x0075] Unknown tag (0x0075) = 0
-[Sigma Makernote - 0x0076] Unknown tag (0x0076) = 0 0 3 -17
+[Sigma Makernote - 0x0076] Unknown tag (0x0076) = 0 0 3 239
 [Sigma Makernote - 0x0077] Unknown tag (0x0077) = 32 65034
 [Sigma Makernote - 0x0078] Unknown tag (0x0078) = 0 0 0 0 0 0 0 0 0 0 0 0
 [Sigma Makernote - 0x0079] Unknown tag (0x0079) = 19931 26997 10225 6167 48869 11068 52463 52089 28071 31989 62966 42472
@@ -190,9 +190,9 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x007e] Unknown tag (0x007e) = 1
 [Sigma Makernote - 0x007f] Unknown tag (0x007f) = [480 values]
 [Sigma Makernote - 0x0080] Unknown tag (0x0080) = 0
-[Sigma Makernote - 0x0081] Unknown tag (0x0081) = -116 24 0
+[Sigma Makernote - 0x0081] Unknown tag (0x0081) = 140 24 0
 [Sigma Makernote - 0x0082] Unknown tag (0x0082) = 0 2
-[Sigma Makernote - 0x0083] Unknown tag (0x0083) = 0 -115 115 63 0 96 -88 61 0
+[Sigma Makernote - 0x0083] Unknown tag (0x0083) = 0 141 115 63 0 96 168 61 0
 [Sigma Makernote - 0x0084] Unknown tag (0x0084) = SIGMA dp1 Quattro
 [Sigma Makernote - 0x0085] Unknown tag (0x0085) = 0
 [Sigma Makernote - 0x0086] Unknown tag (0x0086) = 200
@@ -200,7 +200,7 @@ FILE: Sigma DP1 Quattro.jpg
 [Sigma Makernote - 0x0088] Unknown tag (0x0088) = Auto
 [Sigma Makernote - 0x0089] Unknown tag (0x0089) = 0
 [Sigma Makernote - 0x008a] Unknown tag (0x008a) = 0 0
-[Sigma Makernote - 0x008b] Unknown tag (0x008b) = -20 24 0
+[Sigma Makernote - 0x008b] Unknown tag (0x008b) = 236 24 0
 [Sigma Makernote - 0x008c] Unknown tag (0x008c) = 1.00.0.8822
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)

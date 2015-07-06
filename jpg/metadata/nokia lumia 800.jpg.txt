@@ -89,7 +89,7 @@ FILE: Nokia Lumia 800.jpg
 
 [Photoshop - 0x03ed] Resolution Info = 240x240 DPI
 [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 192x256, Decomp 147456 bytes, 1572865 bpp, 5815 bytes
-[Photoshop - 0x0425] Caption Digest = -107 42 7 -45 -34 -100 75 -1 -126 22 10 -114 90 -40 -74 -126
+[Photoshop - 0x0425] Caption Digest = 149 42 7 211 222 156 75 255 130 22 10 142 90 216 182 130
 
 [IPTC - 0x0200] Application Record Version = 2
 [IPTC - 0x0219] Keywords = 2012;dublin;ireland;june;lumia

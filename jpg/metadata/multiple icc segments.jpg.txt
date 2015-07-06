@@ -60,7 +60,7 @@ FILE: Multiple ICC segments.jpg
 [ICC Profile - 0x42324132] BToA 2 = mft1 (0x6D667431): 145588 bytes
 [ICC Profile - 0x67616d74] Gamut = mft1 (0x6D667431): 37009 bytes
 
-[Photoshop - 0x0425] Caption Digest = 54 -128 15 -13 -113 28 7 -48 102 -41 -59 -35 99 -37 97 -92
+[Photoshop - 0x0425] Caption Digest = 54 128 15 243 143 28 7 208 102 215 197 221 99 219 97 164
 [Photoshop - 0x043a] Print Info 2 = [229 values]
 [Photoshop - 0x043b] Print Style = [557 values]
 [Photoshop - 0x03ed] Resolution Info = 72x72 DPI

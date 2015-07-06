@@ -197,7 +197,7 @@ FILE: Canon EOS REBEL SL1.jpg
 [Xmp - 0x0009] Firmware = 1.0.0
 [Xmp - 0x1001] Rating = 5
 
-[Photoshop - 0x0425] Caption Digest = 3 -124 -91 -51 -92 33 45 -2 117 0 -32 -32 67 62 -120 27
+[Photoshop - 0x0425] Caption Digest = 3 132 165 205 164 33 45 254 117 0 224 224 67 62 136 27
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4

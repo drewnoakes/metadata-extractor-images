@@ -96,7 +96,7 @@ FILE: Nikon Coolpix AW120.jpg
 [Nikon Makernote - 0x00b2] Unknown 31 = NORMAL  
 [Nikon Makernote - 0x00b5] Unknown 48 = 4097
 [Nikon Makernote - 0x00c2] Unknown tag (0x00c2) = [24 values]
-[Nikon Makernote - 0x00c3] Unknown tag (0x00c3) = 48 49 48 48 109 3 -92 4 0 0 10 0
+[Nikon Makernote - 0x00c3] Unknown tag (0x00c3) = 48 49 48 48 109 3 164 4 0 0 10 0
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

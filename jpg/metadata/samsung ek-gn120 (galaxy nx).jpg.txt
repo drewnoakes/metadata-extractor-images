@@ -87,7 +87,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [ICC Profile - 0x6758595a] Green Colorant = (0.2053, 0.6257, 0.0609)
 [ICC Profile - 0x6258595a] Blue Colorant = (0.1492, 0.0632, 0.7446)
 
-[Photoshop - 0x0425] Caption Digest = -99 -110 13 121 -120 -2 46 -20 -7 76 62 -92 27 60 38 51
+[Photoshop - 0x0425] Caption Digest = 157 146 13 121 136 254 46 236 249 76 62 164 27 60 38 51
 [Photoshop - 0x043a] Print Info 2 = [229 values]
 [Photoshop - 0x043b] Print Style = [557 values]
 [Photoshop - 0x03ed] Resolution Info = 300x300 DPI
