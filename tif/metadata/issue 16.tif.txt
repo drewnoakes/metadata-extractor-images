@@ -28,7 +28,7 @@ FILE: Issue 16.tif
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
 [IPTC - 0x0250] By-line = Eric Piasecki Photography LLC
-[IPTC - 0x0237] Date Created = Mon Nov 30 00:00:00 +00:00 2009
+[IPTC - 0x0237] Date Created = 20100000
 [IPTC - 0x025a] City = New York
 [IPTC - 0x025f] Province/State = NY
 [IPTC - 0x0265] Country/Primary Location Name = USA
