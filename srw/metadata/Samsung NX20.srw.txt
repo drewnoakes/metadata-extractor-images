@@ -1,0 +1,40 @@
+FILE: Samsung NX20.srw
+
+[Exif IFD0 - 0x010f] Make = SAMSUNG
+[Exif IFD0 - 0x0110] Model = NX20
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0132] Date/Time = 2012:01:11 11:51:34
+[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 217285 217391
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/125 sec
+[Exif SubIFD - 0x829d] F-Number = f/4.0
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2012:01:11 11:51:34
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 25 mm
+[Exif SubIFD - 0x927c] Makernote = [210536 values]
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 5472 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3648 pixels
+[Exif SubIFD - 0xa402] Exposure Mode = Unknown (3)
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 38 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+[Exif Thumbnail - 0x014a] Sub IFD Pointer(s) = 211026
+
+[File - 0x0001] File Name = Samsung NX20.srw
+[File - 0x0002] File Size = 37108190 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
