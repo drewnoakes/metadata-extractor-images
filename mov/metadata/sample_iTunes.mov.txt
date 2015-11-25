@@ -1,0 +1,53 @@
+FILE: sample_iTunes.mov
+
+[Quicktime File Type - 0x0001] Major Brand = qt  
+[Quicktime File Type - 0x0002] Minor Version = 537199360
+[Quicktime File Type - 0x0003] Compatible Brands = System.Collections.Generic.List`1[System.String]
+
+[Quicktime Movie Header - 0x0001] Version = 0
+[Quicktime Movie Header - 0x0002] Flags = 0 0 0
+[Quicktime Movie Header - 0x0003] Created = Mon Oct 17 22:54:32 2005
+[Quicktime Movie Header - 0x0004] Modified = Mon Oct 17 22:56:39 2005
+[Quicktime Movie Header - 0x0005] TrackId = 1000
+[Quicktime Movie Header - 0x0006] Duration = 00:01:25.5000000
+[Quicktime Movie Header - 0x0007] Preferred Rate = 1
+[Quicktime Movie Header - 0x0008] Preferred Volume = 1
+[Quicktime Movie Header - 0x0009] Matrix = [36 values]
+[Quicktime Movie Header - 0x000a] Preview Time = 0
+[Quicktime Movie Header - 0x000b] Preview Duration = 0
+[Quicktime Movie Header - 0x000c] Poster Time = 0
+[Quicktime Movie Header - 0x000d] Selection Time = 0
+[Quicktime Movie Header - 0x000e] Selection Duration = 0
+[Quicktime Movie Header - 0x000f] Current Time = 0
+[Quicktime Movie Header - 0x0010] Next Track Id = 3
+
+[Quicktime Track Header - 0x0001] Version = 0
+[Quicktime Track Header - 0x0002] Flags = 0 0 15
+[Quicktime Track Header - 0x0003] Created = Mon Oct 17 22:54:33 2005
+[Quicktime Track Header - 0x0004] Modified = Mon Oct 17 22:56:39 2005
+[Quicktime Track Header - 0x0005] TrackId = 1
+[Quicktime Track Header - 0x0006] Duration = 85500
+[Quicktime Track Header - 0x0007] Layer = 0
+[Quicktime Track Header - 0x0008] Alternate Group = 0
+[Quicktime Track Header - 0x0009] Volume = 0
+[Quicktime Track Header - 0x000a] Width = 640
+[Quicktime Track Header - 0x000b] Height = 480
+
+[Quicktime Track Header - 0x0001] Version = 0
+[Quicktime Track Header - 0x0002] Flags = 0 0 15
+[Quicktime Track Header - 0x0003] Created = Mon Oct 17 22:54:34 2005
+[Quicktime Track Header - 0x0004] Modified = Mon Oct 17 22:56:39 2005
+[Quicktime Track Header - 0x0005] TrackId = 2
+[Quicktime Track Header - 0x0006] Duration = 85500
+[Quicktime Track Header - 0x0007] Layer = 0
+[Quicktime Track Header - 0x0008] Alternate Group = 0
+[Quicktime Track Header - 0x0009] Volume = 1
+[Quicktime Track Header - 0x000a] Width = 0
+[Quicktime Track Header - 0x000b] Height = 0
+
+[File - 0x0001] File Name = sample_iTunes.mov
+[File - 0x0002] File Size = 3284257 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
