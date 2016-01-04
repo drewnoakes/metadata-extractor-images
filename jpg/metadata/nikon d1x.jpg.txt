@@ -1,6 +1,6 @@
 FILE: Nikon D1X.jpg
 
-[ERROR: GPS] Invalid TIFF tag format code: 0
+[ERROR: GPS] Invalid TIFF tag format code 0 for tag 0x0
 [ERROR: IPTC] Too few bytes remain for a valid IPTC tag
 
 [JPEG - 0xfffffffd] Compression Type = Baseline

@@ -1,7 +1,7 @@
 FILE: Samsung NX3000.srw
 
-[ERROR: Exif IFD0] Invalid TIFF tag format code: 0
-[ERROR: Exif SubIFD] Invalid TIFF tag format code: 0
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x0
 
 [Exif IFD0 - 0x010f] Make = SAMSUNG
 [Exif IFD0 - 0x0110] Model = NX3000
