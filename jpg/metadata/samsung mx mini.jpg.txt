@@ -49,7 +49,7 @@ FILE: Samsung MX mini.jpg
 [Exif SubIFD - 0xa405] Focal Length 35 = 24 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa40a] Sharpness = None
-[Exif SubIFD - 0xa432] Lens Specification = 9/1 9/1 35/10 130/10
+[Exif SubIFD - 0xa432] Lens Specification = 9mm f/3.5-13.0
 [Exif SubIFD - 0xa434] Lens Model = NX-M 9mm F3.5
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)

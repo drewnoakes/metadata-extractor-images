@@ -57,7 +57,7 @@ FILE: Nikon D3300.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 [Exif SubIFD - 0xa431] Body Serial Number = 3000205
-[Exif SubIFD - 0xa432] Lens Specification = 180/10 550/10 35/10 56/10
+[Exif SubIFD - 0xa432] Lens Specification = 18-55mm f/3.5-5.6
 [Exif SubIFD - 0xa434] Lens Model = 18.0-55.0 mm f/3.5-5.6
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.11

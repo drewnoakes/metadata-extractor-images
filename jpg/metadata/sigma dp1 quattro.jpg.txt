@@ -59,7 +59,7 @@ FILE: Sigma DP1 Quattro.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa420] Unique Image ID = 3030373031343638803B865435343836
 [Exif SubIFD - 0xa431] Body Serial Number = 90701468
-[Exif SubIFD - 0xa432] Lens Specification = 190/10 190/10 28/10 28/10
+[Exif SubIFD - 0xa432] Lens Specification = 19mm f/2.8
 [Exif SubIFD - 0xa433] Lens Make = SIGMA
 [Exif SubIFD - 0xa434] Lens Model = 1006
 [Exif SubIFD - 0xa500] Gamma = 2.2

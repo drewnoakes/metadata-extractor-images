@@ -29,7 +29,7 @@ FILE: Canon EOS REBEL T3i.jpg
 [Exif IFD0 - 0x8830] Sensitivity Type = Recommended Exposure Index
 [Exif IFD0 - 0x8832] Recommended Exposure Index = 400
 [Exif IFD0 - 0xa431] Body Serial Number = 142066080698
-[Exif IFD0 - 0xa432] Lens Specification = 18/1 55/1 0/0 0/0
+[Exif IFD0 - 0xa432] Lens Specification = 18-55mm
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/200 sec
 [Exif SubIFD - 0x829d] F-Number = f/14.0

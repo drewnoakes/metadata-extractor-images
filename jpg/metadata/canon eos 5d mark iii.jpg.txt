@@ -53,7 +53,7 @@ FILE: Canon EOS 5D Mark III.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa430] Camera Owner Name = 
 [Exif SubIFD - 0xa431] Body Serial Number = 022021005794
-[Exif SubIFD - 0xa432] Lens Specification = 24/1 105/1 0/1 0/1
+[Exif SubIFD - 0xa432] Lens Specification = 24-105mm
 [Exif SubIFD - 0xa434] Lens Model = EF24-105mm f/4L IS USM
 [Exif SubIFD - 0xa435] Lens Serial Number = 000016682c
 

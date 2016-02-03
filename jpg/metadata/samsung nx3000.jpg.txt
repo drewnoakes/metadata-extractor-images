@@ -49,7 +49,7 @@ FILE: Samsung NX3000.jpg
 [Exif SubIFD - 0xa405] Focal Length 35 = 66 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa40a] Sharpness = None
-[Exif SubIFD - 0xa432] Lens Specification = 16/1 50/1 35/10 220/10
+[Exif SubIFD - 0xa432] Lens Specification = 16-50mm f/3.5-22.0
 [Exif SubIFD - 0xa434] Lens Model = NX 16-50mm F3.5-5.6 Power Zoom
 
 [Interoperability - 0x0001] Interoperability Index = Unknown ()

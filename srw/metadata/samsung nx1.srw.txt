@@ -30,7 +30,7 @@ FILE: Samsung NX1.srw
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa434] Lens Model = NX 16-50mm F2-2.8 S
-[Exif SubIFD - 0xa432] Lens Specification = 16/1 50/1 20/10 28/10
+[Exif SubIFD - 0xa432] Lens Specification = 16-50mm f/2.0-2.8
 
 [Exif Thumbnail - 0x014a] Sub IFD Pointer(s) = 774743
 

@@ -53,7 +53,7 @@ FILE: Sony ILCE-5000 (A5000).arw
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
-[Exif SubIFD - 0xa432] Lens Specification = 160/10 500/10 35/10 56/10
+[Exif SubIFD - 0xa432] Lens Specification = 16-50mm f/3.5-5.6
 [Exif SubIFD - 0xa434] Lens Model = E PZ 16-50mm F3.5-5.6 OSS
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)

@@ -48,7 +48,7 @@ FILE: Canon EOS REBEL SL1.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa430] Camera Owner Name = 
 [Exif SubIFD - 0xa431] Body Serial Number = 012070143361
-[Exif SubIFD - 0xa432] Lens Specification = 18/1 55/1 0/1 0/1
+[Exif SubIFD - 0xa432] Lens Specification = 18-55mm
 [Exif SubIFD - 0xa434] Lens Model = EF-S18-55mm f/3.5-5.6 IS STM
 [Exif SubIFD - 0xa435] Lens Serial Number = 0000000c2e
 

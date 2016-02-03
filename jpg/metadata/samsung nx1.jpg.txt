@@ -50,7 +50,7 @@ FILE: Samsung NX1.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa500] Gamma = 0
 [Exif SubIFD - 0xa434] Lens Model = NX 50-150mm F2.8 S
-[Exif SubIFD - 0xa432] Lens Specification = 50/1 150/1 28/10 28/10
+[Exif SubIFD - 0xa432] Lens Specification = 50-150mm f/2.8
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

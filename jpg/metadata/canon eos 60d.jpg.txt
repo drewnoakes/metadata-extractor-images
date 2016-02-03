@@ -53,7 +53,7 @@ FILE: Canon EOS 60D.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa430] Camera Owner Name = 
 [Exif SubIFD - 0xa431] Body Serial Number = 0330109202
-[Exif SubIFD - 0xa432] Lens Specification = 15/1 85/1 0/0 0/0
+[Exif SubIFD - 0xa432] Lens Specification = 15-85mm
 [Exif SubIFD - 0xa434] Lens Model = EF-S15-85mm f/3.5-5.6 IS USM
 [Exif SubIFD - 0xa435] Lens Serial Number = 00002000f3
 

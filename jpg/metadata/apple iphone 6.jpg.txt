@@ -49,7 +49,7 @@ FILE: Apple iPhone 6.jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa405] Focal Length 35 = 29 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-[Exif SubIFD - 0xa432] Lens Specification = 83/20 83/20 11/5 11/5
+[Exif SubIFD - 0xa432] Lens Specification = 4.15mm f/2.2
 [Exif SubIFD - 0xa433] Lens Make = Apple
 [Exif SubIFD - 0xa434] Lens Model = iPhone 6 back camera 4.15mm f/2.2
 

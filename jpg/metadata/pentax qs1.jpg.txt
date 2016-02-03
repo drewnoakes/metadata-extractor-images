@@ -53,7 +53,7 @@ FILE: Pentax QS1.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Distant view
 [Exif SubIFD - 0xa431] Body Serial Number = 2587411
-[Exif SubIFD - 0xa432] Lens Specification = 50/10 150/10 28/10 45/10
+[Exif SubIFD - 0xa432] Lens Specification = 5-15mm f/2.8-4.5
 [Exif SubIFD - 0xa433] Lens Make = PENTAX
 [Exif SubIFD - 0xa434] Lens Model = 02 STANDARD ZOOM
 

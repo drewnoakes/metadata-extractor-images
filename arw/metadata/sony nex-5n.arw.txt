@@ -52,7 +52,7 @@ FILE: Sony NEX-5N.arw
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
-[Exif SubIFD - 0xa432] Lens Specification = 240/10 240/10 18/10 18/10
+[Exif SubIFD - 0xa432] Lens Specification = 24mm f/1.8
 [Exif SubIFD - 0xa434] Lens Model = E 24mm F1.8 ZA
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)

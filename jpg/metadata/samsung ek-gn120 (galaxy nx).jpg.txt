@@ -46,7 +46,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa431] Body Serial Number = 0
-[Exif SubIFD - 0xa432] Lens Specification = 18/1 55/1 35/10 56/10
+[Exif SubIFD - 0xa432] Lens Specification = 18-55mm f/3.5-5.6
 [Exif SubIFD - 0xa434] Lens Model = Samsung 18-55 f/3.5-5.6 OIS
 [Exif SubIFD - 0xa435] Lens Serial Number = 174900526210
 

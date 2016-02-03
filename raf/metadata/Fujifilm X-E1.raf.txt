@@ -57,7 +57,7 @@ FILE: Fujifilm X-E1.raf
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
-[Exif SubIFD - 0xa432] Lens Specification = 1800/100 5500/100 280/100 400/100
+[Exif SubIFD - 0xa432] Lens Specification = 18-55mm f/2.8-4.0
 [Exif SubIFD - 0xa433] Lens Make = FUJIFILM
 [Exif SubIFD - 0xa434] Lens Model = XF18-55mmF2.8-4 R LM OIS
 [Exif SubIFD - 0xa435] Lens Serial Number = 24A01404

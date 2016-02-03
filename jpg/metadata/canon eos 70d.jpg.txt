@@ -53,7 +53,7 @@ FILE: Canon EOS 70D.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa430] Camera Owner Name = 
 [Exif SubIFD - 0xa431] Body Serial Number = 073024014625
-[Exif SubIFD - 0xa432] Lens Specification = 105/1 105/1 0/1 0/1
+[Exif SubIFD - 0xa432] Lens Specification = 105mm
 [Exif SubIFD - 0xa434] Lens Model = 105mm
 [Exif SubIFD - 0xa435] Lens Serial Number = 0000000000
 
