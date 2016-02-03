@@ -96,7 +96,7 @@ FILE: Nikon D810.nef
 [Nikon Makernote - 0x0041] Unknown tag (0x0041) = 48 49 48 48 0 1
 [Nikon Makernote - 0x0042] Unknown tag (0x0042) = 48 49 48 48 3 0
 [Nikon Makernote - 0x0083] Lens Type = AF, D, G
-[Nikon Makernote - 0x0084] Lens = 50-50mm f/1.4
+[Nikon Makernote - 0x0084] Lens = 50mm f/1.4
 [Nikon Makernote - 0x0087] Flash Used = Flash Not Used
 [Nikon Makernote - 0x0089] Shooting Mode = Single Frame
 [Nikon Makernote - 0x008a] Unknown 20 = 2
