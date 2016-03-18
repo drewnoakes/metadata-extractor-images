@@ -1,0 +1,8 @@
+FILE: webpvp8l.webp
+
+[File - 0x0001] File Name = webpvp8l.webp
+[File - 0x0002] File Size = 1205814 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

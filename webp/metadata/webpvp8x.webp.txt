@@ -1,0 +1,15 @@
+FILE: webpvp8x.webp
+
+[WebP - 0x0002] Image Width = 1440
+[WebP - 0x0001] Image Height = 900
+[WebP - 0x0003] Has Alpha = false
+[WebP - 0x0004] Is Animation = false
+
+[Exif IFD0 - 0x0131] Software = Picasa
+
+[File - 0x0001] File Name = webpvp8x.webp
+[File - 0x0002] File Size = 1634530 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
