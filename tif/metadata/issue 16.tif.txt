@@ -20,10 +20,19 @@ FILE: Issue 16.tif
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop CS3 Macintosh
 [Exif IFD0 - 0x0132] Date/Time = 2013:05:15 09:42:30
 [Exif IFD0 - 0x013b] Artist = Eric Piasecki Photography LLC
-[Exif IFD0 - 0x02bc] Unknown tag (0x02bc) = [29183 values]
 [Exif IFD0 - 0x8298] Copyright = Â© 2010 Eric Piasecki
 [Exif IFD0 - 0x8649] Unknown tag (0x8649) = [14098 values]
 [Exif IFD0 - 0x8773] Inter Color Profile = [3144 values]
+
+[Xmp - 0xffff] XMP Value Count = 234
+[Xmp - 0x0001] Make = Phase One
+[Xmp - 0x0002] Model = P 45+
+[Xmp - 0x0003] Exposure Time = 1/6 sec
+[Xmp - 0x000c] Exposure Program = Manual control
+[Xmp - 0x0004] Shutter Speed Value = 1/6 sec
+[Xmp - 0x000d] Date/Time Original = 2010-09-30T16:06:06-07:00
+[Xmp - 0x000e] Date/Time Digitized = 2010-09-30T16:06:06-07:00
+[Xmp - 0x2001] Subject = apt color kureck jones moroccan vivid
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4

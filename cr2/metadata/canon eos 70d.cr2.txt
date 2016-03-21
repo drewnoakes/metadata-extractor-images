@@ -14,8 +14,10 @@ FILE: Canon EOS 70D.cr2
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0132] Date/Time = 2014:04:29 17:07:52
 [Exif IFD0 - 0x013b] Artist = 
-[Exif IFD0 - 0x02bc] Unknown tag (0x02bc) = [8192 values]
 [Exif IFD0 - 0x8298] Copyright = 
+
+[Xmp - 0xffff] XMP Value Count = 1
+[Xmp - 0x1001] Rating = 0
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.2 sec
 [Exif SubIFD - 0x829d] F-Number = f/18.0
