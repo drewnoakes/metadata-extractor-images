@@ -1,0 +1,6 @@
+FILE: issue 121.jpg
+
+EXCEPTION: Expected JPEG segment start identifier 0xFF, not 0x0
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
