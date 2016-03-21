@@ -16,7 +16,7 @@ FILE: gimp-8x12-greyscale-alpha-time-background.png
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2835
 [PNG-pHYs - 0x0012] Unit Specifier = Metres
 
-[PNG-tIME - 0x000e] Last Modification Time = Tue Jan 01 04:08:30 +00:00 2013
+[PNG-tIME - 0x000e] Last Modification Time = 2013:01:01 04:08:30
 
 [PNG-iTXt - 0x000d] Textual Data = Comment: Created with GIMP
 

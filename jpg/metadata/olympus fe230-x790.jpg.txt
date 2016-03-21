@@ -52,7 +52,7 @@ FILE: Olympus FE230-X790.jpg
 [GPS - 0x0004] GPS Longitude = -118° 6' 26.19"
 [GPS - 0x0005] GPS Altitude Ref = Sea level
 [GPS - 0x0006] GPS Altitude = 1875 metres
-[GPS - 0x0007] GPS Time-Stamp = 17:35:52.00 UTC
+[GPS - 0x0007] GPS Time-Stamp = 17:35:52.000 UTC
 [GPS - 0x0012] GPS Map Datum = WGS 1984
 [GPS - 0x001d] GPS Date Stamp = 2008:12:07
 
@@ -66,8 +66,8 @@ FILE: Olympus FE230-X790.jpg
 [Xmp - 0x0005] F-Number = f/4.6
 [Xmp - 0x000a] Focal Length = 6.3 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/159 sec
-[Xmp - 0x000d] Date/Time Original = Sun Dec 07 18:28:52 +00:00 2008
-[Xmp - 0x000e] Date/Time Digitized = Sun Dec 07 18:28:52 +00:00 2008
+[Xmp - 0x000d] Date/Time Original = 2008-12-07T10:28:52-08:00
+[Xmp - 0x000e] Date/Time Digitized = 2008-12-07T10:28:52-08:00
 [Xmp - 0x1001] Rating = 3
 [Xmp - 0x2001] Subject = 2008 bc british columbia canada december powder day revelstoke rmr snow
 
@@ -77,7 +77,7 @@ FILE: Olympus FE230-X790.jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Mon Feb 09 06:49:00 +00:00 1998
+[ICC Profile - 0x0018] Profile Date/Time = 1998:02:09 06:49:00
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
 [ICC Profile - 0x0030] Device manufacturer = IEC 

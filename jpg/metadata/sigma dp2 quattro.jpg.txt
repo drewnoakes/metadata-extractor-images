@@ -104,7 +104,7 @@ FILE: Sigma DP2 Quattro.jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Mon Feb 09 06:49:00 +00:00 1998
+[ICC Profile - 0x0018] Profile Date/Time = 1998:02:09 06:49:00
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
 [ICC Profile - 0x0030] Device manufacturer = IEC 

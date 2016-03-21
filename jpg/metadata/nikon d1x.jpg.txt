@@ -100,7 +100,7 @@ FILE: Nikon D1X.jpg
 [IPTC - 0x0214] Supplemental Category(s) = Woodworking
 [IPTC - 0x0219] Keywords = Woodworking
 [IPTC - 0x0228] Special Instructions = 
-[IPTC - 0x0237] Date Created = Wed Aug 06 00:00:00 +01:00 2003
+[IPTC - 0x0237] Date Created = 2003:08:06
 [IPTC - 0x023c] Time Created = 18:04:34-0500
 [IPTC - 0x0250] By-line = 
 [IPTC - 0x0255] By-line Title = 

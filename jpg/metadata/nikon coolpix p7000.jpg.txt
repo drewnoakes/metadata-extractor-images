@@ -117,7 +117,7 @@ FILE: Nikon Coolpix P7000.jpg
 [Xmp - 0x0005] F-Number = f/4.5
 [Xmp - 0x000a] Focal Length = 6 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/799 sec
-[Xmp - 0x000d] Date/Time Original = Thu Oct 21 11:22:48 +01:00 2010
+[Xmp - 0x000d] Date/Time Original = 2010-10-21T11:22:48+01:00
 
 [File - 0x0001] File Name = Nikon Coolpix P7000.jpg
 [File - 0x0002] File Size = 4234401 bytes

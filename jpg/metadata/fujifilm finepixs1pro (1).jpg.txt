@@ -60,7 +60,7 @@ FILE: FujiFilm FinePixS1Pro (1).jpg
 [GPS - 0x0002] GPS Latitude = 54° 59' 22.8"
 [GPS - 0x0003] GPS Longitude Ref = W
 [GPS - 0x0004] GPS Longitude = -1° 54' 51"
-[GPS - 0x0007] GPS Time-Stamp = 14:58:24.00 UTC
+[GPS - 0x0007] GPS Time-Stamp = 14:58:24.000 UTC
 [GPS - 0x0012] GPS Map Datum = WGS84
 
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
@@ -79,7 +79,7 @@ FILE: FujiFilm FinePixS1Pro (1).jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Mon Feb 09 06:49:00 +00:00 1998
+[ICC Profile - 0x0018] Profile Date/Time = 1998:02:09 06:49:00
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
 [ICC Profile - 0x0030] Device manufacturer = IEC 
@@ -132,7 +132,7 @@ FILE: FujiFilm FinePixS1Pro (1).jpg
 [IPTC - 0x026e] Credit = Ian Britton
 [IPTC - 0x0273] Source = FreeFoto.com
 [IPTC - 0x0205] Object Name = Communications
-[IPTC - 0x0237] Date Created = Thu Jun 20 00:00:00 +01:00 2002
+[IPTC - 0x0237] Date Created = 2002:06:20
 [IPTC - 0x025a] City =  
 [IPTC - 0x025f] Province/State =  
 [IPTC - 0x0265] Country/Primary Location Name = Ubited Kingdom

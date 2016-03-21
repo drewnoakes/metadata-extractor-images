@@ -143,7 +143,7 @@ FILE: Panasonic DMC-TZ10.jpg
 [GPS - 0x0002] GPS Latitude = 53° 8' 49.65"
 [GPS - 0x0003] GPS Longitude Ref = E
 [GPS - 0x0004] GPS Longitude = 8° 10' 45.1"
-[GPS - 0x0007] GPS Time-Stamp = 10:17:21.00 UTC
+[GPS - 0x0007] GPS Time-Stamp = 10:17:21.000 UTC
 [GPS - 0x0008] GPS Satellites = 5
 [GPS - 0x0009] GPS Status = Active (Measurement in progress)
 [GPS - 0x000a] GPS Measure Mode = 2-dimensional measurement

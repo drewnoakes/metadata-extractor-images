@@ -59,7 +59,7 @@ FILE: Leica T (Typ 701).jpg
 [GPS - 0x0004] GPS Longitude = 0° 0' 0"
 [GPS - 0x0005] GPS Altitude Ref = Sea level
 [GPS - 0x0006] GPS Altitude = 0 metres
-[GPS - 0x0007] GPS Time-Stamp = 00:00:00.00 UTC
+[GPS - 0x0007] GPS Time-Stamp = 00:00:00.000 UTC
 [GPS - 0x0009] GPS Status = Void (Measurement Interoperability)
 [GPS - 0x000a] GPS Measure Mode = Unknown ()
 [GPS - 0x0012] GPS Map Datum = 

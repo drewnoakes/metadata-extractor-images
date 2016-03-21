@@ -50,7 +50,7 @@ FILE: Apple iPhone 5.jpg
 [GPS - 0x0004] GPS Longitude = -122° 20' 14.4"
 [GPS - 0x0005] GPS Altitude Ref = Sea level
 [GPS - 0x0006] GPS Altitude = 3 metres
-[GPS - 0x0007] GPS Time-Stamp = 23:11:25.63 UTC
+[GPS - 0x0007] GPS Time-Stamp = 23:11:25.630 UTC
 [GPS - 0x0010] GPS Img Direction Ref = True direction
 [GPS - 0x0011] GPS Img Direction = 93.42 degrees
 

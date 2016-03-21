@@ -76,7 +76,7 @@ FILE: Minolta DiMAGE 7Hi.jpg
 [Olympus Makernote - 0xf013] Focal Length = 27.3 mm
 [Olympus Makernote - 0xf014] Focus Distance = Infinity
 [Olympus Makernote - 0xf015] Flash Fired = Unknown (131205899)
-[Olympus Makernote - 0xf016] Date = Thu Dec 09 00:00:00 GMT 1971
+[Olympus Makernote - 0xf016] Date = 1971-12-09
 [Olympus Makernote - 0xf017] Time = 00:00:36
 [Olympus Makernote - 0xf018] Max Aperture at Focal Length = f/3.1
 [Olympus Makernote - 0xf019] Unknown tag (0xf019) = 0

@@ -63,7 +63,7 @@ FILE: Minolta DiMAGE S304.jpg
 [Olympus Makernote - 0xf013] Focal Length = 0 mm
 [Olympus Makernote - 0xf014] Focus Distance = Infinity
 [Olympus Makernote - 0xf015] Flash Fired = Unknown (131139841)
-[Olympus Makernote - 0xf016] Date = Sun Dec 11 00:00:00 GMT 1988
+[Olympus Makernote - 0xf016] Date = 1988-12-11
 [Olympus Makernote - 0xf017] Time = 00:00:36
 [Olympus Makernote - 0xf018] Max Aperture at Focal Length = f/3.1
 [Olympus Makernote - 0xf019] Unknown tag (0xf019) = 0
@@ -103,7 +103,7 @@ FILE: Minolta DiMAGE S304.jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Sun Sep 02 18:44:22 +01:00 2001
+[ICC Profile - 0x0018] Profile Date/Time = 2001:09:02 17:44:22
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
 [ICC Profile - 0x0030] Device manufacturer = MNLT

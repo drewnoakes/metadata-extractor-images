@@ -72,8 +72,8 @@ FILE: Canon EOS 7D.jpg
 [Xmp - 0x0005] F-Number = f/11.0
 [Xmp - 0x000a] Focal Length = 57 mm
 [Xmp - 0x0004] Shutter Speed Value = 1/124 sec
-[Xmp - 0x000d] Date/Time Original = Sun Dec 12 11:41:35 +00:00 2010
-[Xmp - 0x000e] Date/Time Digitized = Sun Dec 12 11:41:35 +00:00 2010
+[Xmp - 0x000d] Date/Time Original = 2010-12-12T12:41:35.00+01:00
+[Xmp - 0x000e] Date/Time Digitized = 2010-12-12T12:41:35.00+01:00
 [Xmp - 0x1001] Rating = 3
 [Xmp - 0x2000] Label = blau
 
@@ -83,7 +83,7 @@ FILE: Canon EOS 7D.jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Thu Jun 03 01:00:00 +01:00 1999
+[ICC Profile - 0x0018] Profile Date/Time = 1999:06:03 00:00:00
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
 [ICC Profile - 0x0030] Device manufacturer = none

@@ -52,7 +52,7 @@ FILE: Apple iPhone 4.jpg
 [GPS - 0x0002] GPS Latitude = 41° 51' 10.8"
 [GPS - 0x0003] GPS Longitude Ref = E
 [GPS - 0x0004] GPS Longitude = 12° 29' 19.8"
-[GPS - 0x0007] GPS Time-Stamp = 14:33:35.62 UTC
+[GPS - 0x0007] GPS Time-Stamp = 14:33:35.620 UTC
 [GPS - 0x0010] GPS Img Direction Ref = True direction
 [GPS - 0x0011] GPS Img Direction = 177.56 degrees
 
@@ -62,7 +62,7 @@ FILE: Apple iPhone 4.jpg
 [ICC Profile - 0x000c] Class = Display Device
 [ICC Profile - 0x0010] Color space = RGB 
 [ICC Profile - 0x0014] Profile Connection Space = XYZ 
-[ICC Profile - 0x0018] Profile Date/Time = Mon Feb 09 06:49:00 +00:00 1998
+[ICC Profile - 0x0018] Profile Date/Time = 1998:02:09 06:49:00
 [ICC Profile - 0x0024] Signature = acsp
 [ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
 [ICC Profile - 0x0030] Device manufacturer = IEC 

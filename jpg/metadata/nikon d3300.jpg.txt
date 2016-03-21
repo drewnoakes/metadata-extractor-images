@@ -142,7 +142,7 @@ FILE: Nikon D3300.jpg
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 4
-[IPTC - 0x0237] Date Created = Wed Feb 19 00:00:00 +00:00 2014
+[IPTC - 0x0237] Date Created = 2014:02:19
 [IPTC - 0x023c] Time Created = 13:47:19
 
 [File - 0x0001] File Name = Nikon D3300.jpg
