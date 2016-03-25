@@ -19,9 +19,36 @@ FILE: Nikon D70.nef
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Nikon Transfer 6.2.1 W
 [Exif IFD0 - 0x0132] Date/Time = 2007:01:17 14:15:01
-[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 1072 1190
 [Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [255,255,255]
 [Exif IFD0 - 0x9216] TIFF/EP Standard ID = 1 0 0 0
+
+[Exif SubIFD - 0x00fe] New Subfile Type = 
+[Exif SubIFD - 0x0103] Compression = JPEG (old-style)
+[Exif SubIFD - 0x011a] X Resolution = 72 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 72 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x0201] Unknown tag (0x0201) = 94149
+[Exif SubIFD - 0x0202] Unknown tag (0x0202) = 715274
+[Exif SubIFD - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x0100] Image Width = 3040 pixels
+[Exif SubIFD - 0x0101] Image Height = 2014 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Nikon NEF Compressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+[Exif SubIFD - 0x0111] Strip Offsets = 809423
+[Exif SubIFD - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 2014 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 4808449 bytes
+[Exif SubIFD - 0x011a] X Resolution = 300 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 300 dots per inch
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = 2 1 1 0
+[Exif SubIFD - 0x9217] Unknown tag (0x9217) = 2
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/6400 sec
 [Exif SubIFD - 0x829d] F-Number = f/3.5

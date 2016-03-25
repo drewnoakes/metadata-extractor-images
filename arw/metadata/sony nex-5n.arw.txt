@@ -11,12 +11,33 @@ FILE: Sony NEX-5N.arw
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = NEX-5N v1.00
 [Exif IFD0 - 0x0132] Date/Time = 2011:02:26 15:51:13
-[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 118470
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 118946
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 866411
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0xc4a5] Print IM = [106 values]
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 10 204 0 0
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x0100] Image Width = 4928 pixels
+[Exif SubIFD - 0x0101] Image Height = 3276 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Sony ARW Compressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+[Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x011a] X Resolution = 350 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 350 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = 0 1 1 2
+[Exif SubIFD - 0x7000] Unknown tag (0x7000) = 2
+[Exif SubIFD - 0x7001] Unknown tag (0x7001) = 1
+[Exif SubIFD - 0x7010] Unknown tag (0x7010) = 8000 10400 12900 14100
+[Exif SubIFD - 0x7011] Unknown tag (0x7011) = 4000 7200 10050 12075
+[Exif SubIFD - 0x7020] Unknown tag (0x7020) = 0
+[Exif SubIFD - 0x0111] Strip Offsets = 987136
+[Exif SubIFD - 0x0116] Rows Per Strip = 3276 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 16144128 bytes
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/2000 sec
 [Exif SubIFD - 0x829d] F-Number = f/4.0

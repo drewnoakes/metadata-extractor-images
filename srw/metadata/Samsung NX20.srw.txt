@@ -4,7 +4,6 @@ FILE: Samsung NX20.srw
 [Exif IFD0 - 0x0110] Model = NX20
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif IFD0 - 0x0132] Date/Time = 2012:01:11 11:51:34
-[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 217285 217391
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/125 sec
 [Exif SubIFD - 0x829d] F-Number = f/4.0
@@ -30,7 +29,33 @@ FILE: Samsung NX20.srw
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
 
-[Exif Thumbnail - 0x014a] Sub IFD Pointer(s) = 211026
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x011a] X Resolution = 350 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 350 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x0201] Unknown tag (0x0201) = 217536
+[Exif SubIFD - 0x0202] Unknown tag (0x0202) = 5464094
+[Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x0100] Image Width = 5632 pixels
+[Exif SubIFD - 0x0101] Image Height = 3720 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Samsung SRW Compressed
+[Exif SubIFD - 0x0111] Strip Offsets = 5681630
+[Exif SubIFD - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 3720 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 31426560 bytes
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = 1 0 2 1
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x011a] X Resolution = 350 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 350 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x0201] Unknown tag (0x0201) = 211136
+[Exif SubIFD - 0x0202] Unknown tag (0x0202) = 6149
+[Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
 
 [File - 0x0001] File Name = Samsung NX20.srw
 [File - 0x0002] File Size = 37108190 bytes

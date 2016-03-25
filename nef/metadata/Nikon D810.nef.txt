@@ -20,11 +20,46 @@ FILE: Nikon D810.nef
 [Exif IFD0 - 0x0131] Software = Ver.1.00 
 [Exif IFD0 - 0x0132] Date/Time = 2015:05:13 19:49:55
 [Exif IFD0 - 0x013b] Artist = Raymond Barlow                      
-[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 252704 252824 253052
 [Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [255,255,255]
 [Exif IFD0 - 0x8298] Copyright =                                                       
 [Exif IFD0 - 0x9003] Date/Time Original = 2015:05:13 19:49:55
 [Exif IFD0 - 0x9216] TIFF/EP Standard ID = 1 0 0 0
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0103] Compression = JPEG (old-style)
+[Exif SubIFD - 0x011a] X Resolution = 300 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 300 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x0201] Unknown tag (0x0201) = 961536
+[Exif SubIFD - 0x0202] Unknown tag (0x0202) = 1729670
+[Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x0100] Image Width = 7380 pixels
+[Exif SubIFD - 0x0101] Image Height = 4928 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 14 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Nikon NEF Compressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+[Exif SubIFD - 0x0111] Strip Offsets = 2691584
+[Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 4928 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 37976188 bytes
+[Exif SubIFD - 0x011a] X Resolution = 300 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 300 dots per inch
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = 0 1 1 2
+[Exif SubIFD - 0x9217] Unknown tag (0x9217) = 2
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0103] Compression = JPEG (old-style)
+[Exif SubIFD - 0x011a] X Resolution = 300 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 300 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x0201] Unknown tag (0x0201) = 253440
+[Exif SubIFD - 0x0202] Unknown tag (0x0202) = 707693
+[Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
 
 [Xmp - 0xffff] XMP Value Count = 2
 

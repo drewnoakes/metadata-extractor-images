@@ -7,7 +7,6 @@ FILE: Samsung NX3000.srw
 [Exif IFD0 - 0x0110] Model = NX3000
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif IFD0 - 0x0132] Date/Time = 2014:08:12 09:03:27
-[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 846008 846114
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
 [Exif SubIFD - 0x829d] F-Number = f/5.6
@@ -44,7 +43,37 @@ FILE: Samsung NX3000.srw
 [Exif SubIFD - 0xa433] Lens Make = Samsung
 [Exif SubIFD - 0xa434] Lens Model = NX 16-50mm F3.5-5.6 Power Zoom
 
-[Exif Thumbnail - 0x014a] Sub IFD Pointer(s) = 837694
+[Exif SubIFD - 0x0103] Compression = JPEG (old-style)
+[Exif SubIFD - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif SubIFD - 0x011a] X Resolution = 40182/630833 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 3/13406 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x0201] Unknown tag (0x0201) = 846300
+[Exif SubIFD - 0x0202] Unknown tag (0x0202) = 7612219
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x0100] Image Width = 5600 pixels
+[Exif SubIFD - 0x0101] Image Height = 3714 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Samsung SRW Compressed 2
+[Exif SubIFD - 0x0111] Strip Offsets = 8458519
+[Exif SubIFD - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 5600 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 19056696 bytes
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = 1 2 0 1
+[Exif SubIFD - 0xa010] Unknown tag (0xa010) = 0
+[Exif SubIFD - 0xa011] Unknown tag (0xa011) = 0
+[Exif SubIFD - 0xa101] Unknown tag (0xa101) = I
+[Exif SubIFD - 0xa102] Unknown tag (0xa102) = 
+
+[Exif SubIFD - 0x0103] Compression = JPEG (old-style)
+[Exif SubIFD - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif SubIFD - 0x011a] X Resolution = 40182/630833 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 3/13406 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x0201] Unknown tag (0x0201) = 837800
+[Exif SubIFD - 0x0202] Unknown tag (0x0202) = 8208
 
 [File - 0x0001] File Name = Samsung NX3000.srw
 [File - 0x0002] File Size = 27515215 bytes

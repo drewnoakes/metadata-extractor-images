@@ -4,7 +4,6 @@ FILE: Samsung NX1.srw
 [Exif IFD0 - 0x0110] Model = NX1
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif IFD0 - 0x0132] Date/Time = 2014:12:09 11:49:40
-[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 788870 788976
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.01 sec
 [Exif SubIFD - 0x829d] F-Number = f/8.0
@@ -32,7 +31,37 @@ FILE: Samsung NX1.srw
 [Exif SubIFD - 0xa434] Lens Model = NX 16-50mm F2-2.8 S
 [Exif SubIFD - 0xa432] Lens Specification = 16-50mm f/2.0-2.8
 
-[Exif Thumbnail - 0x014a] Sub IFD Pointer(s) = 774743
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x011a] X Resolution = 1431193344/3834200241 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 100663296/919011328 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x0201] Unknown tag (0x0201) = 789162
+[Exif SubIFD - 0x0202] Unknown tag (0x0202) = 8592512
+[Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x0100] Image Width = 6496 pixels
+[Exif SubIFD - 0x0101] Image Height = 4336 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 14 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = PackBits
+[Exif SubIFD - 0x0111] Strip Offsets = 9381674
+[Exif SubIFD - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 4336 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 26858256 bytes
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = 1 0 2 1
+[Exif SubIFD - 0xa010] Unknown tag (0xa010) = 9381674
+[Exif SubIFD - 0xa011] Unknown tag (0xa011) = 0
+[Exif SubIFD - 0xa101] Unknown tag (0xa101) = 
+[Exif SubIFD - 0xa102] Unknown tag (0xa102) = 
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x011a] X Resolution = 825506353/842674233 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 540094778/876165684 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x0201] Unknown tag (0x0201) = 774849
+[Exif SubIFD - 0x0202] Unknown tag (0x0202) = 14021
+[Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
 
 [File - 0x0001] File Name = Samsung NX1.srw
 [File - 0x0002] File Size = 36239930 bytes

@@ -18,7 +18,6 @@ FILE: Leica X VARIO (Typ 107).dng
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = 1.0                            
 [Exif IFD0 - 0x0132] Date/Time = 2014:04:04 11:04:14
-[Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 842
 [Exif IFD0 - 0xc612] Unknown tag (0xc612) = 1 3 0 0
 [Exif IFD0 - 0xc613] Unknown tag (0xc613) = 1 3 0 0
 [Exif IFD0 - 0xc614] Unknown tag (0xc614) = LEICA X VARIO (Typ 107)
@@ -34,6 +33,31 @@ FILE: Leica X VARIO (Typ 107).dng
 [Exif IFD0 - 0xc635] Unknown tag (0xc635) = 1
 [Exif IFD0 - 0xc65a] Unknown tag (0xc65a) = 17
 [Exif IFD0 - 0xc65b] Unknown tag (0xc65b) = 21
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x0100] Image Width = 4944 pixels
+[Exif SubIFD - 0x0101] Image Height = 3274 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Uncompressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+[Exif SubIFD - 0x0111] Strip Offsets = 184926
+[Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 3274 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 24279984 bytes
+[Exif SubIFD - 0x011a] X Resolution = 300 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 300 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = 0 1 1 2
+[Exif SubIFD - 0xc617] Unknown tag (0xc617) = 1
+[Exif SubIFD - 0xc61d] Unknown tag (0xc61d) = 4095
+[Exif SubIFD - 0xc61f] Unknown tag (0xc61f) = 8 5
+[Exif SubIFD - 0xc620] Unknown tag (0xc620) = 4928 3264
+[Exif SubIFD - 0xc62d] Unknown tag (0xc62d) = 0
+[Exif SubIFD - 0xc632] Unknown tag (0xc632) = 0.7
+[Exif SubIFD - 0xc65c] Unknown tag (0xc65c) = 1
+[Exif SubIFD - 0xc65d] Unknown tag (0xc65d) = 252 23 14 4 11 4 4 222 7 52 209 71 0 0 0 0
+[Exif SubIFD - 0xc74e] Unknown tag (0xc74e) = [184 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
 [Exif SubIFD - 0x829d] F-Number = f/6.4
