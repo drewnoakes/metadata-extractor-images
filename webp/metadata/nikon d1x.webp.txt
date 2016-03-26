@@ -1,6 +1,6 @@
 FILE: Nikon D1X.webp
 
-[ERROR: GPS] Invalid TIFF tag format code 0 for tag 0x0
+[ERROR: GPS] Invalid TIFF tag format code 0 for tag 0x0000
 
 [WebP - 0x0002] Image Width = 600
 [WebP - 0x0001] Image Height = 391
