@@ -128,7 +128,7 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 - Xmp
 - ICC Profile
 - Photoshop
-- IPTC
+    - IPTC
 - Adobe JPEG
 - File
 

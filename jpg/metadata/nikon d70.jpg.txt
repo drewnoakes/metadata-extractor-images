@@ -125,7 +125,7 @@ FILE: Nikon D70.jpg
         - Interoperability
     - Exif Thumbnail
 - Photoshop
-- IPTC
+    - IPTC
 - File
 
 Generated using metadata-extractor

@@ -140,7 +140,7 @@ FILE: Nikon D40.jpg
     - Exif Thumbnail
 - Xmp
 - Photoshop
-- IPTC
+    - IPTC
 - File
 
 Generated using metadata-extractor

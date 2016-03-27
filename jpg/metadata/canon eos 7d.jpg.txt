@@ -134,7 +134,7 @@ FILE: Canon EOS 7D.jpg
 - Xmp
 - ICC Profile
 - Photoshop
-- IPTC
+    - IPTC
 - Adobe JPEG
 - File
 

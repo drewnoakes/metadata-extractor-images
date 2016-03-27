@@ -132,7 +132,7 @@ FILE: Canon EOS-1D Mark III (via Adobe Lightroom).jpg
 - Xmp
 - ICC Profile
 - Photoshop
-- IPTC
+    - IPTC
 - Adobe JPEG
 - File
 

@@ -65,7 +65,7 @@ FILE: LG G3.jpg
     - GPS
 - Xmp
 - Photoshop
-- IPTC
+    - IPTC
 - File
 
 Generated using metadata-extractor

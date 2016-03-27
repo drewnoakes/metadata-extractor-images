@@ -95,7 +95,7 @@ FILE: issue 121.jpg
 - Xmp
 - ICC Profile
 - Photoshop
-- IPTC
+    - IPTC
 - File
 
 Generated using metadata-extractor

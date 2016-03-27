@@ -120,7 +120,7 @@ FILE: Nikon D1X.jpg
         - Nikon Makernote
     - GPS
 - Photoshop
-- IPTC
+    - IPTC
 - File
 
 Generated using metadata-extractor

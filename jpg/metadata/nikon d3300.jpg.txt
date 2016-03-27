@@ -158,7 +158,7 @@ FILE: Nikon D3300.jpg
     - Exif Thumbnail
 - Xmp
 - Photoshop
-- IPTC
+    - IPTC
 - File
 
 Generated using metadata-extractor

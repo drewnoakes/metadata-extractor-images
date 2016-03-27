@@ -136,7 +136,7 @@ FILE: Nikon Coolpix P340.jpg
     - Exif Thumbnail
 - Xmp
 - Photoshop
-- IPTC
+    - IPTC
 - File
 
 Generated using metadata-extractor

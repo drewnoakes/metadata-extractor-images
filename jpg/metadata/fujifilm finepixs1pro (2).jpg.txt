@@ -161,7 +161,7 @@ FILE: FujiFilm FinePixS1Pro (2).jpg
 - Xmp
 - ICC Profile
 - Photoshop
-- IPTC
+    - IPTC
 - Adobe JPEG
 - File
 

@@ -64,11 +64,11 @@ FILE: BlazRobar Thinking Head Icon Set.psd
 
 - PSD Header
 - Photoshop
-- IPTC
-- Xmp
-- Exif IFD0
-    - Exif SubIFD
-    - Exif Thumbnail
+    - IPTC
+    - Xmp
+    - Exif IFD0
+        - Exif SubIFD
+        - Exif Thumbnail
 - File
 
 Generated using metadata-extractor

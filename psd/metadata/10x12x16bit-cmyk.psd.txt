@@ -81,11 +81,11 @@ FILE: 10x12x16bit-CMYK.psd
 
 - PSD Header
 - Photoshop
-- Xmp
-- ICC Profile
-- Exif IFD0
-    - Exif SubIFD
-    - Exif Thumbnail
+    - Xmp
+    - ICC Profile
+    - Exif IFD0
+        - Exif SubIFD
+        - Exif Thumbnail
 - File
 
 Generated using metadata-extractor

@@ -80,7 +80,7 @@ FILE: Photoshop (3).jpg
 - Xmp
 - ICC Profile
 - Photoshop
-- IPTC
+    - IPTC
 - Ducky
 - Adobe JPEG
 - File

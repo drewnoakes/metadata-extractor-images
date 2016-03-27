@@ -76,11 +76,11 @@ FILE: 8x4x8bit-Grayscale.psd
 
 - PSD Header
 - Photoshop
-- Xmp
-- ICC Profile
-- Exif IFD0
-    - Exif SubIFD
-    - Exif Thumbnail
+    - Xmp
+    - ICC Profile
+    - Exif IFD0
+        - Exif SubIFD
+        - Exif Thumbnail
 - File
 
 Generated using metadata-extractor

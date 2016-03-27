@@ -111,7 +111,7 @@ FILE: Nokia Lumia 800.jpg
 - Xmp
 - ICC Profile
 - Photoshop
-- IPTC
+    - IPTC
 - Adobe JPEG
 - File
 
