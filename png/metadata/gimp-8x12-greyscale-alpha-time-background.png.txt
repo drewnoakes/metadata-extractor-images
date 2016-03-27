@@ -24,5 +24,13 @@ FILE: gimp-8x12-greyscale-alpha-time-background.png
 [File - 0x0002] File Size = 269 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- PNG-IHDR
+- PNG-gAMA
+- PNG-bKGD
+- PNG-pHYs
+- PNG-tIME
+- PNG-iTXt
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -18,5 +18,11 @@ FILE: photoshop-8x12-16colorpalette.png
 [File - 0x0002] File Size = 1025 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- PNG-IHDR
+- PNG-iTXt
+- Xmp
+- PNG-PLTE
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

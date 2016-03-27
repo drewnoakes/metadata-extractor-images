@@ -15,5 +15,8 @@ FILE: 16color-10x10.bmp
 [File - 0x0002] File Size = 198 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- BMP Header
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -55,5 +55,12 @@ FILE: invalid-iCCP-missing-adler32-checksum.png
 [File - 0x0002] File Size = 22661 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- PNG-IHDR
+- ICC Profile
+- PNG-iCCP
+- PNG-gAMA
+- PNG Chromaticities
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

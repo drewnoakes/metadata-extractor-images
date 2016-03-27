@@ -168,5 +168,15 @@ FILE: Nikon D810.nef
 [File - 0x0002] File Size = 40667772 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- Exif IFD0
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Xmp
+    - Exif SubIFD
+        - Nikon Makernote
+    - GPS
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

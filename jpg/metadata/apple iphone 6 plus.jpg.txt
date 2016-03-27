@@ -119,5 +119,16 @@ FILE: Apple iPhone 6 plus.jpg
 [File - 0x0002] File Size = 3676072 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+    - GPS
+- Xmp
+- ICC Profile
+- Photoshop
+- IPTC
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

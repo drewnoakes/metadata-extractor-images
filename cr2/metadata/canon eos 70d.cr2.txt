@@ -212,5 +212,14 @@ FILE: Canon EOS 70D.cr2
 [File - 0x0002] File Size = 22443014 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- Exif IFD0
+    - Xmp
+    - Exif SubIFD
+        - Canon Makernote
+        - Interoperability
+    - GPS
+    - Exif Thumbnail
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

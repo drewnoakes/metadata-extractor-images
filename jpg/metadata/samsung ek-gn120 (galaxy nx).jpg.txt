@@ -121,5 +121,16 @@ FILE: Samsung EK-GN120 (Galaxy NX).jpg
 [File - 0x0002] File Size = 13572880 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+    - Exif Thumbnail
+- Xmp
+- ICC Profile
+- Photoshop
+- IPTC
+- Adobe JPEG
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

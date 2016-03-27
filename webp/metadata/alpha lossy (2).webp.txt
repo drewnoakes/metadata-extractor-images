@@ -9,5 +9,8 @@ FILE: Alpha Lossy (2).webp
 [File - 0x0002] File Size = 17128 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- WebP
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

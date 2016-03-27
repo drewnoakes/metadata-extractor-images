@@ -49,5 +49,11 @@ FILE: sample_iPod.m4v
 [File - 0x0002] File Size = 2236480 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- Quicktime File Type
+- Quicktime Movie Header
+- Quicktime Track Header
+- Quicktime Track Header
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

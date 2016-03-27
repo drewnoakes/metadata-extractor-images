@@ -62,5 +62,13 @@ FILE: Sony DCR-PC110E (1).jpg
 [File - 0x0002] File Size = 599089 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+        - Interoperability
+    - Exif Thumbnail
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

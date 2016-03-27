@@ -63,5 +63,14 @@ FILE: Sony Ericsson U10i.jpg
 [File - 0x0002] File Size = 1522541 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Sony Makernote
+        - Interoperability
+    - Exif Thumbnail
+- Xmp
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

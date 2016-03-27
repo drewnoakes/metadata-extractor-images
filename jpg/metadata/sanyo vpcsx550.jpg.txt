@@ -64,5 +64,14 @@ FILE: Sanyo VPCSX550.jpg
 [File - 0x0002] File Size = 102448 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- JPEG
+- JpegComment
+- Exif IFD0
+    - Exif SubIFD
+        - Sanyo Makernote
+        - Interoperability
+    - Exif Thumbnail
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -144,5 +144,13 @@ FILE: Canon PowerShot G2 (3).jpg
 [File - 0x0002] File Size = 180439 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+        - Canon Makernote
+        - Interoperability
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

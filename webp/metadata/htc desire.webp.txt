@@ -68,5 +68,12 @@ FILE: HTC Desire.webp
 [File - 0x0002] File Size = 46362 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- WebP
+- ICC Profile
+- Exif IFD0
+    - Exif SubIFD
+    - GPS
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

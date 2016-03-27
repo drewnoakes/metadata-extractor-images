@@ -126,5 +126,15 @@ FILE: Canon EOS-1D Mark III (via Adobe Lightroom).jpg
 [File - 0x0002] File Size = 2484852 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+- Xmp
+- ICC Profile
+- Photoshop
+- IPTC
+- Adobe JPEG
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

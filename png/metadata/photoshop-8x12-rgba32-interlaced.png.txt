@@ -16,5 +16,10 @@ FILE: photoshop-8x12-rgba32-interlaced.png
 [File - 0x0002] File Size = 1100 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- PNG-IHDR
+- PNG-iTXt
+- Xmp
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

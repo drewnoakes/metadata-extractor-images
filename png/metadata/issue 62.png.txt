@@ -24,5 +24,13 @@ FILE: Issue 62.png
 [File - 0x0002] File Size = 47975 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- PNG-IHDR
+- PNG-sBIT
+- PNG-pHYs
+- PNG-iTXt
+- PNG-iTXt
+- Xmp
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

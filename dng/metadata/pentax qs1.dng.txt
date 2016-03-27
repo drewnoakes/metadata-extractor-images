@@ -119,5 +119,12 @@ FILE: Pentax QS1.dng
 [File - 0x0002] File Size = 22643744 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- Exif IFD0
+    - Exif SubIFD
+    - Exif SubIFD
+    - Xmp
+    - Exif SubIFD
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

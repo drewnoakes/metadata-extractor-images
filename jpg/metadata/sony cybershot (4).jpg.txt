@@ -89,5 +89,15 @@ FILE: Sony Cybershot (4).jpg
 [File - 0x0002] File Size = 109641 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+        - Interoperability
+    - Exif Thumbnail
+- Photoshop
+- Adobe JPEG
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

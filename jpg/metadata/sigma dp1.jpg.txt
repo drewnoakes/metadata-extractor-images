@@ -124,5 +124,13 @@ RunID: SD14Cal-001; Run time: 25-Jan-2008 11:52:55
 [File - 0x0002] File Size = 3102563 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Sigma Makernote
+        - Interoperability
+    - Exif Thumbnail
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

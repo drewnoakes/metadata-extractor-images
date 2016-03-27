@@ -133,5 +133,18 @@ FILE: FujiFilm FinePixS2Pro.jpg
 [File - 0x0002] File Size = 46695 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+    - GPS
+    - Exif Thumbnail
+- Xmp
+- ICC Profile
+- Photoshop
+- IPTC
+- Adobe JPEG
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
