@@ -195,8 +195,8 @@ FILE: Canon EOS 100D.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 11188 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 18748 bytes
 
-[Xmp - 0xffff] XMP Value Count = 1
-[Xmp - 0x1001] Rating = 0
+[XMP - 0xffff] XMP Value Count = 1
+[XMP - 0x1001] Rating = 0
 
 [File - 0x0001] File Name = Canon EOS 100D.jpg
 [File - 0x0002] File Size = 14023358 bytes
@@ -209,7 +209,7 @@ FILE: Canon EOS 100D.jpg
         - Interoperability
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

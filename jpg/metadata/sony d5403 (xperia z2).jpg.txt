@@ -56,8 +56,8 @@ FILE: Sony D5403 (Xperia Z2).jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 16770 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 24826 bytes
 
-[Xmp - 0xffff] XMP Value Count = 24
-[Xmp - 0x1001] Rating = 2
+[XMP - 0xffff] XMP Value Count = 24
+[XMP - 0x1001] Rating = 2
 
 [Photoshop - 0x0425] Caption Digest = 222 209 101 113 32 204 0 188 29 21 54 175 187 39 22 101
 
@@ -75,7 +75,7 @@ FILE: Sony D5403 (Xperia Z2).jpg
     - Exif SubIFD
         - Interoperability
     - Exif Thumbnail
-- Xmp
+- XMP
 - Photoshop
     - IPTC
 - File

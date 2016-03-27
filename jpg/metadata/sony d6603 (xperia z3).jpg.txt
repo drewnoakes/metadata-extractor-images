@@ -56,8 +56,8 @@ FILE: Sony D6603 (Xperia Z3).jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 12068 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10152 bytes
 
-[Xmp - 0xffff] XMP Value Count = 24
-[Xmp - 0x1001] Rating = 1
+[XMP - 0xffff] XMP Value Count = 24
+[XMP - 0x1001] Rating = 1
 
 [Photoshop - 0x0425] Caption Digest = 208 116 248 238 226 36 50 127 56 94 118 15 70 164 75 253
 
@@ -75,7 +75,7 @@ FILE: Sony D6603 (Xperia Z3).jpg
     - Exif SubIFD
         - Interoperability
     - Exif Thumbnail
-- Xmp
+- XMP
 - Photoshop
     - IPTC
 - File

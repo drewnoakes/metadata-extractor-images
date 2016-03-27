@@ -104,16 +104,16 @@ FILE: Nikon Coolpix P7000.webp
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 8692 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6044 bytes
 
-[Xmp - 0xffff] XMP Value Count = 57
-[Xmp - 0x0001] Make = NIKON
-[Xmp - 0x0002] Model = COOLPIX P7000
-[Xmp - 0x0003] Exposure Time = 1/800 sec
-[Xmp - 0x000c] Exposure Program = Program normal
-[Xmp - 0x000b] Aperture Value = f/4.5
-[Xmp - 0x0005] F-Number = f/4.5
-[Xmp - 0x000a] Focal Length = 6 mm
-[Xmp - 0x0004] Shutter Speed Value = 1/799 sec
-[Xmp - 0x000d] Date/Time Original = 2010-10-21T11:22:48+01:00
+[XMP - 0xffff] XMP Value Count = 57
+[XMP - 0x0001] Make = NIKON
+[XMP - 0x0002] Model = COOLPIX P7000
+[XMP - 0x0003] Exposure Time = 1/800 sec
+[XMP - 0x000c] Exposure Program = Program normal
+[XMP - 0x000b] Aperture Value = f/4.5
+[XMP - 0x0005] F-Number = f/4.5
+[XMP - 0x000a] Focal Length = 6 mm
+[XMP - 0x0004] Shutter Speed Value = 1/799 sec
+[XMP - 0x000d] Date/Time Original = 2010-10-21T11:22:48+01:00
 
 [File - 0x0001] File Name = Nikon Coolpix P7000.webp
 [File - 0x0002] File Size = 474772 bytes
@@ -125,7 +125,7 @@ FILE: Nikon Coolpix P7000.webp
         - Nikon Makernote
         - Interoperability
     - Exif Thumbnail
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

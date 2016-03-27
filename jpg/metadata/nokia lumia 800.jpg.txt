@@ -44,17 +44,17 @@ FILE: Nokia Lumia 800.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 654 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5815 bytes
 
-[Xmp - 0xffff] XMP Value Count = 118
-[Xmp - 0x0001] Make = Nokia
-[Xmp - 0x0002] Model = Nokia Lumia 800
-[Xmp - 0x0003] Exposure Time = 1/1000 sec
-[Xmp - 0x000b] Aperture Value = f/2.2
-[Xmp - 0x0005] F-Number = f/2.2
-[Xmp - 0x0004] Shutter Speed Value = 1/999 sec
-[Xmp - 0x000d] Date/Time Original = 2012-06-09T21:23:38+01:00
-[Xmp - 0x000e] Date/Time Digitized = 2012-06-09T21:23:38+01:00
-[Xmp - 0x1001] Rating = 3
-[Xmp - 0x2001] Subject = 2012 dublin ireland june lumia
+[XMP - 0xffff] XMP Value Count = 118
+[XMP - 0x0001] Make = Nokia
+[XMP - 0x0002] Model = Nokia Lumia 800
+[XMP - 0x0003] Exposure Time = 1/1000 sec
+[XMP - 0x000b] Aperture Value = f/2.2
+[XMP - 0x0005] F-Number = f/2.2
+[XMP - 0x0004] Shutter Speed Value = 1/999 sec
+[XMP - 0x000d] Date/Time Original = 2012-06-09T21:23:38+01:00
+[XMP - 0x000e] Date/Time Digitized = 2012-06-09T21:23:38+01:00
+[XMP - 0x1001] Rating = 3
+[XMP - 0x2001] Subject = 2012 dublin ireland june lumia
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
@@ -108,7 +108,7 @@ FILE: Nokia Lumia 800.jpg
     - Exif SubIFD
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - ICC Profile
 - Photoshop
     - IPTC

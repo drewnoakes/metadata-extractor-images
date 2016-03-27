@@ -134,7 +134,7 @@ FILE: Nikon D750.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10105 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
-[Xmp - 0xffff] XMP Value Count = 2
+[XMP - 0xffff] XMP Value Count = 2
 
 [File - 0x0001] File Name = Nikon D750.jpg
 [File - 0x0002] File Size = 12061456 bytes
@@ -147,7 +147,7 @@ FILE: Nikon D750.jpg
         - Interoperability
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

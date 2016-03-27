@@ -115,7 +115,7 @@ FILE: Nikon Coolpix P340.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 3950 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3787 bytes
 
-[Xmp - 0xffff] XMP Value Count = 22
+[XMP - 0xffff] XMP Value Count = 22
 
 [Photoshop - 0x0425] Caption Digest = 107 180 113 1 94 65 137 38 164 167 14 128 146 57 4 243
 
@@ -134,7 +134,7 @@ FILE: Nikon Coolpix P340.jpg
         - Nikon Makernote
         - Interoperability
     - Exif Thumbnail
-- Xmp
+- XMP
 - Photoshop
     - IPTC
 - File

@@ -44,8 +44,8 @@ FILE: LG G3.jpg
 [GPS - 0x0005] GPS Altitude Ref = Sea level
 [GPS - 0x0006] GPS Altitude = 0 metres
 
-[Xmp - 0xffff] XMP Value Count = 23
-[Xmp - 0x1001] Rating = 2
+[XMP - 0xffff] XMP Value Count = 23
+[XMP - 0x1001] Rating = 2
 
 [Photoshop - 0x0425] Caption Digest = 247 106 131 105 11 43 247 79 253 249 34 245 6 22 67 236
 
@@ -63,7 +63,7 @@ FILE: LG G3.jpg
     - Exif SubIFD
         - Interoperability
     - GPS
-- Xmp
+- XMP
 - Photoshop
     - IPTC
 - File

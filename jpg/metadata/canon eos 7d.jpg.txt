@@ -59,23 +59,23 @@ FILE: Canon EOS 7D.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 786 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10286 bytes
 
-[Xmp - 0xffff] XMP Value Count = 179
-[Xmp - 0x0006] Lens Information = 24/1 70/1 0/0 0/0
-[Xmp - 0x0007] Lens = EF24-70mm f/2.8L USM
-[Xmp - 0x0008] Serial Number = 380319450
-[Xmp - 0x0009] Firmware = 1.2.1
-[Xmp - 0x0001] Make = Canon
-[Xmp - 0x0002] Model = Canon EOS 7D
-[Xmp - 0x0003] Exposure Time = 1/125 sec
-[Xmp - 0x000c] Exposure Program = Manual control
-[Xmp - 0x000b] Aperture Value = f/11.0
-[Xmp - 0x0005] F-Number = f/11.0
-[Xmp - 0x000a] Focal Length = 57 mm
-[Xmp - 0x0004] Shutter Speed Value = 1/124 sec
-[Xmp - 0x000d] Date/Time Original = 2010-12-12T12:41:35.00+01:00
-[Xmp - 0x000e] Date/Time Digitized = 2010-12-12T12:41:35.00+01:00
-[Xmp - 0x1001] Rating = 3
-[Xmp - 0x2000] Label = blau
+[XMP - 0xffff] XMP Value Count = 179
+[XMP - 0x0006] Lens Information = 24/1 70/1 0/0 0/0
+[XMP - 0x0007] Lens = EF24-70mm f/2.8L USM
+[XMP - 0x0008] Serial Number = 380319450
+[XMP - 0x0009] Firmware = 1.2.1
+[XMP - 0x0001] Make = Canon
+[XMP - 0x0002] Model = Canon EOS 7D
+[XMP - 0x0003] Exposure Time = 1/125 sec
+[XMP - 0x000c] Exposure Program = Manual control
+[XMP - 0x000b] Aperture Value = f/11.0
+[XMP - 0x0005] F-Number = f/11.0
+[XMP - 0x000a] Focal Length = 57 mm
+[XMP - 0x0004] Shutter Speed Value = 1/124 sec
+[XMP - 0x000d] Date/Time Original = 2010-12-12T12:41:35.00+01:00
+[XMP - 0x000e] Date/Time Digitized = 2010-12-12T12:41:35.00+01:00
+[XMP - 0x1001] Rating = 3
+[XMP - 0x2000] Label = blau
 
 [ICC Profile - 0x0000] Profile Size = 560
 [ICC Profile - 0x0004] CMM Type = ADBE
@@ -131,7 +131,7 @@ FILE: Canon EOS 7D.jpg
 - Exif IFD0
     - Exif SubIFD
     - Exif Thumbnail
-- Xmp
+- XMP
 - ICC Profile
 - Photoshop
     - IPTC

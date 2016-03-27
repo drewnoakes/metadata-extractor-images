@@ -10,7 +10,7 @@ FILE: photoshop-8x12-rgba32-interlaced.png
 
 [PNG-iTXt - 0x000d] Textual Data = Software: Adobe ImageReady
 
-[Xmp - 0xffff] XMP Value Count = 6
+[XMP - 0xffff] XMP Value Count = 6
 
 [File - 0x0001] File Name = photoshop-8x12-rgba32-interlaced.png
 [File - 0x0002] File Size = 1100 bytes
@@ -18,7 +18,7 @@ FILE: photoshop-8x12-rgba32-interlaced.png
 
 - PNG-IHDR
 - PNG-iTXt
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

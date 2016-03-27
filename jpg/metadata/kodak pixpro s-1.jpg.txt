@@ -54,7 +54,7 @@ FILE: Kodak PIXPRO S-1.jpg
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa407] Gain Control = Low gain up
 
-[Xmp - 0xffff] XMP Value Count = 7
+[XMP - 0xffff] XMP Value Count = 7
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
@@ -95,7 +95,7 @@ FILE: Kodak PIXPRO S-1.jpg
 - JFIF
 - Exif IFD0
     - Exif SubIFD
-- Xmp
+- XMP
 - ICC Profile
 - File
 

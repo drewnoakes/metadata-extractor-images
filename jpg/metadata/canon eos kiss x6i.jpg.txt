@@ -193,8 +193,8 @@ FILE: Canon EOS Kiss X6i.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 10924 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 18917 bytes
 
-[Xmp - 0xffff] XMP Value Count = 1
-[Xmp - 0x1001] Rating = 0
+[XMP - 0xffff] XMP Value Count = 1
+[XMP - 0x1001] Rating = 0
 
 [File - 0x0001] File Name = Canon EOS Kiss X6i.jpg
 [File - 0x0002] File Size = 5269435 bytes
@@ -207,7 +207,7 @@ FILE: Canon EOS Kiss X6i.jpg
         - Interoperability
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

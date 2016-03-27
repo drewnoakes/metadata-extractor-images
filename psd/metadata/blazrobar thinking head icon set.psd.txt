@@ -38,7 +38,7 @@ FILE: BlazRobar Thinking Head Icon Set.psd
 [IPTC - 0x0200] Application Record Version = 0
 [IPTC - 0x0205] Object Name = thinking-head-icon-set
 
-[Xmp - 0xffff] XMP Value Count = 240
+[XMP - 0xffff] XMP Value Count = 240
 
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
@@ -65,7 +65,7 @@ FILE: BlazRobar Thinking Head Icon Set.psd
 - PSD Header
 - Photoshop
     - IPTC
-    - Xmp
+    - XMP
     - Exif IFD0
         - Exif SubIFD
         - Exif Thumbnail

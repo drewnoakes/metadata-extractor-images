@@ -193,8 +193,8 @@ FILE: Canon EOS REBEL T2i.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 12824 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3936 bytes
 
-[Xmp - 0xffff] XMP Value Count = 7
-[Xmp - 0x2001] Subject = piano
+[XMP - 0xffff] XMP Value Count = 7
+[XMP - 0x2001] Subject = piano
 
 [File - 0x0001] File Name = Canon EOS REBEL T2i.jpg
 [File - 0x0002] File Size = 5598660 bytes
@@ -207,7 +207,7 @@ FILE: Canon EOS REBEL T2i.jpg
         - Canon Makernote
         - Interoperability
     - Exif Thumbnail
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

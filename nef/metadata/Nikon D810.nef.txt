@@ -61,7 +61,7 @@ FILE: Nikon D810.nef
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 707693
 [Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
 
-[Xmp - 0xffff] XMP Value Count = 2
+[XMP - 0xffff] XMP Value Count = 2
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/800 sec
 [Exif SubIFD - 0x829d] F-Number = f/3.5
@@ -172,7 +172,7 @@ FILE: Nikon D810.nef
     - Exif SubIFD
     - Exif SubIFD
     - Exif SubIFD
-    - Xmp
+    - XMP
     - Exif SubIFD
         - Nikon Makernote
     - GPS

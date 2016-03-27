@@ -130,8 +130,8 @@ FILE: Nikon D610.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 8090 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
-[Xmp - 0xffff] XMP Value Count = 7
-[Xmp - 0x1001] Rating = 0
+[XMP - 0xffff] XMP Value Count = 7
+[XMP - 0x1001] Rating = 0
 
 [Photoshop - 0x03ed] Resolution Info = 200x200 DPI
 [Photoshop - 0x040a] Copyright Flag = No
@@ -153,7 +153,7 @@ FILE: Nikon D610.jpg
         - Interoperability
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - Photoshop
     - IPTC
 - File

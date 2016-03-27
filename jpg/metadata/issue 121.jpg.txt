@@ -27,7 +27,7 @@ FILE: issue 121.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 302 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 4560 bytes
 
-[Xmp - 0xffff] XMP Value Count = 764
+[XMP - 0xffff] XMP Value Count = 764
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
@@ -92,7 +92,7 @@ FILE: issue 121.jpg
 - Exif IFD0
     - Exif SubIFD
     - Exif Thumbnail
-- Xmp
+- XMP
 - ICC Profile
 - Photoshop
     - IPTC

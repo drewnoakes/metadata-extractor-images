@@ -18,8 +18,8 @@ FILE: Photoshop (3).jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 606 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 177 pixels
 
-[Xmp - 0xffff] XMP Value Count = 27
-[Xmp - 0x2001] Subject = test keyword 1 test keyword 2
+[XMP - 0xffff] XMP Value Count = 27
+[XMP - 0x2001] Subject = test keyword 1 test keyword 2
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
@@ -77,7 +77,7 @@ FILE: Photoshop (3).jpg
 - JPEG
 - Exif IFD0
     - Exif SubIFD
-- Xmp
+- XMP
 - ICC Profile
 - Photoshop
     - IPTC

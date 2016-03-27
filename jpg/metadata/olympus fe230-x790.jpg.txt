@@ -56,20 +56,20 @@ FILE: Olympus FE230-X790.jpg
 [GPS - 0x0012] GPS Map Datum = WGS 1984
 [GPS - 0x001d] GPS Date Stamp = 2008:12:07
 
-[Xmp - 0xffff] XMP Value Count = 141
-[Xmp - 0x0008] Serial Number = 000K79K13272
-[Xmp - 0x0001] Make = OLYMPUS IMAGING CORP.
-[Xmp - 0x0002] Model = FE230/X790
-[Xmp - 0x0003] Exposure Time = 1/160 sec
-[Xmp - 0x000c] Exposure Program = Program creative (slow program)
-[Xmp - 0x000b] Aperture Value = f/4.6
-[Xmp - 0x0005] F-Number = f/4.6
-[Xmp - 0x000a] Focal Length = 6.3 mm
-[Xmp - 0x0004] Shutter Speed Value = 1/159 sec
-[Xmp - 0x000d] Date/Time Original = 2008-12-07T10:28:52-08:00
-[Xmp - 0x000e] Date/Time Digitized = 2008-12-07T10:28:52-08:00
-[Xmp - 0x1001] Rating = 3
-[Xmp - 0x2001] Subject = 2008 bc british columbia canada december powder day revelstoke rmr snow
+[XMP - 0xffff] XMP Value Count = 141
+[XMP - 0x0008] Serial Number = 000K79K13272
+[XMP - 0x0001] Make = OLYMPUS IMAGING CORP.
+[XMP - 0x0002] Model = FE230/X790
+[XMP - 0x0003] Exposure Time = 1/160 sec
+[XMP - 0x000c] Exposure Program = Program creative (slow program)
+[XMP - 0x000b] Aperture Value = f/4.6
+[XMP - 0x0005] F-Number = f/4.6
+[XMP - 0x000a] Focal Length = 6.3 mm
+[XMP - 0x0004] Shutter Speed Value = 1/159 sec
+[XMP - 0x000d] Date/Time Original = 2008-12-07T10:28:52-08:00
+[XMP - 0x000e] Date/Time Digitized = 2008-12-07T10:28:52-08:00
+[XMP - 0x1001] Rating = 3
+[XMP - 0x2001] Subject = 2008 bc british columbia canada december powder day revelstoke rmr snow
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
@@ -122,7 +122,7 @@ FILE: Olympus FE230-X790.jpg
 - Exif IFD0
     - Exif SubIFD
     - GPS
-- Xmp
+- XMP
 - ICC Profile
 - Photoshop
     - IPTC

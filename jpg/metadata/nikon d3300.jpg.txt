@@ -132,11 +132,11 @@ FILE: Nikon D3300.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 8783 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
 
-[Xmp - 0xffff] XMP Value Count = 29
-[Xmp - 0x0006] Lens Information = 180/10 550/10 35/10 56/10
-[Xmp - 0x0007] Lens = 18.0-55.0 mm f/3.5-5.6
-[Xmp - 0x0008] Serial Number = 3000205
-[Xmp - 0x1001] Rating = 3
+[XMP - 0xffff] XMP Value Count = 29
+[XMP - 0x0006] Lens Information = 180/10 550/10 35/10 56/10
+[XMP - 0x0007] Lens = 18.0-55.0 mm f/3.5-5.6
+[XMP - 0x0008] Serial Number = 3000205
+[XMP - 0x1001] Rating = 3
 
 [Photoshop - 0x0425] Caption Digest = 169 110 129 242 241 89 147 111 97 247 171 203 74 152 102 24
 
@@ -156,7 +156,7 @@ FILE: Nikon D3300.jpg
         - Interoperability
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - Photoshop
     - IPTC
 - File

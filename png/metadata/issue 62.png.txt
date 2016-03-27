@@ -18,7 +18,7 @@ FILE: Issue 62.png
 
 [PNG-iTXt - 0x000d] Textual Data = Software: Adobe Fireworks CS3
 
-[Xmp - 0xffff] XMP Value Count = 4
+[XMP - 0xffff] XMP Value Count = 4
 
 [File - 0x0001] File Name = Issue 62.png
 [File - 0x0002] File Size = 47975 bytes
@@ -29,7 +29,7 @@ FILE: Issue 62.png
 - PNG-pHYs
 - PNG-iTXt
 - PNG-iTXt
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

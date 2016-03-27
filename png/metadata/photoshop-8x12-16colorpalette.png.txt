@@ -10,7 +10,7 @@ FILE: photoshop-8x12-16colorpalette.png
 
 [PNG-iTXt - 0x000d] Textual Data = Software: Adobe ImageReady
 
-[Xmp - 0xffff] XMP Value Count = 6
+[XMP - 0xffff] XMP Value Count = 6
 
 [PNG-PLTE - 0x0008] Palette Size = 16
 
@@ -20,7 +20,7 @@ FILE: photoshop-8x12-16colorpalette.png
 
 - PNG-IHDR
 - PNG-iTXt
-- Xmp
+- XMP
 - PNG-PLTE
 - File
 

@@ -189,8 +189,8 @@ FILE: Canon EOS 600D.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 8916 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 14320 bytes
 
-[Xmp - 0xffff] XMP Value Count = 1
-[Xmp - 0x1001] Rating = 0
+[XMP - 0xffff] XMP Value Count = 1
+[XMP - 0x1001] Rating = 0
 
 [File - 0x0001] File Name = Canon EOS 600D.jpg
 [File - 0x0002] File Size = 9314112 bytes
@@ -202,7 +202,7 @@ FILE: Canon EOS 600D.jpg
         - Canon Makernote
         - Interoperability
     - Exif Thumbnail
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

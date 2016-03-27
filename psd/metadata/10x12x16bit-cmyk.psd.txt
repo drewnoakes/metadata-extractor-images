@@ -31,7 +31,7 @@ FILE: 10x12x16bit-CMYK.psd
 [Photoshop - 0x0fa0] Plug-in 1 Data = [248 values]
 [Photoshop - 0x0fa1] Plug-in 2 Data = [28 values]
 
-[Xmp - 0xffff] XMP Value Count = 16
+[XMP - 0xffff] XMP Value Count = 16
 
 [ICC Profile - 0x0000] Profile Size = 557168
 [ICC Profile - 0x0004] CMM Type = ADBE
@@ -81,7 +81,7 @@ FILE: 10x12x16bit-CMYK.psd
 
 - PSD Header
 - Photoshop
-    - Xmp
+    - XMP
     - ICC Profile
     - Exif IFD0
         - Exif SubIFD

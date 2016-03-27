@@ -190,12 +190,12 @@ FILE: Canon EOS REBEL SL1.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 11188 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10105 bytes
 
-[Xmp - 0xffff] XMP Value Count = 31
-[Xmp - 0x0006] Lens Information = 18/1 55/1 0/0 0/0
-[Xmp - 0x0007] Lens = EF-S18-55mm f/3.5-5.6 IS STM
-[Xmp - 0x0008] Serial Number = 012070143361
-[Xmp - 0x0009] Firmware = 1.0.0
-[Xmp - 0x1001] Rating = 5
+[XMP - 0xffff] XMP Value Count = 31
+[XMP - 0x0006] Lens Information = 18/1 55/1 0/0 0/0
+[XMP - 0x0007] Lens = EF-S18-55mm f/3.5-5.6 IS STM
+[XMP - 0x0008] Serial Number = 012070143361
+[XMP - 0x0009] Firmware = 1.0.0
+[XMP - 0x1001] Rating = 5
 
 [Photoshop - 0x0425] Caption Digest = 3 132 165 205 164 33 45 254 117 0 224 224 67 62 136 27
 
@@ -215,7 +215,7 @@ FILE: Canon EOS REBEL SL1.jpg
         - Interoperability
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - Photoshop
     - IPTC
 - File

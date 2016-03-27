@@ -57,7 +57,7 @@ FILE: Sony Ericsson U10i.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 52672 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 7053 bytes
 
-[Xmp - 0xffff] XMP Value Count = 6
+[XMP - 0xffff] XMP Value Count = 6
 
 [File - 0x0001] File Name = Sony Ericsson U10i.jpg
 [File - 0x0002] File Size = 1522541 bytes
@@ -69,7 +69,7 @@ FILE: Sony Ericsson U10i.jpg
         - Sony Makernote
         - Interoperability
     - Exif Thumbnail
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

@@ -175,8 +175,8 @@ FILE: Canon PowerShot S95.jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 5108 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5811 bytes
 
-[Xmp - 0xffff] XMP Value Count = 1
-[Xmp - 0x1001] Rating = 0
+[XMP - 0xffff] XMP Value Count = 1
+[XMP - 0x1001] Rating = 0
 
 [File - 0x0001] File Name = Canon PowerShot S95.jpg
 [File - 0x0002] File Size = 4333873 bytes
@@ -188,7 +188,7 @@ FILE: Canon PowerShot S95.jpg
         - Canon Makernote
         - Interoperability
     - Exif Thumbnail
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

@@ -125,8 +125,8 @@ FILE: Nikon 1 V3.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10682 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
 
-[Xmp - 0xffff] XMP Value Count = 7
-[Xmp - 0x1001] Rating = 0
+[XMP - 0xffff] XMP Value Count = 7
+[XMP - 0x1001] Rating = 0
 
 [Photoshop - 0x03ed] Resolution Info = 200x200 DPI
 [Photoshop - 0x040a] Copyright Flag = No
@@ -148,7 +148,7 @@ FILE: Nikon 1 V3.jpg
         - Interoperability
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - Photoshop
     - IPTC
 - File

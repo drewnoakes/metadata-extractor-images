@@ -72,8 +72,8 @@ FILE: FujiFilm FinePixS1Pro (5).jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 1074 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 4437 bytes
 
-[Xmp - 0xffff] XMP Value Count = 32
-[Xmp - 0x2001] Subject = Wilts & Dorset Bus
+[XMP - 0xffff] XMP Value Count = 32
+[XMP - 0x2001] Subject = Wilts & Dorset Bus
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
@@ -158,7 +158,7 @@ FILE: FujiFilm FinePixS1Pro (5).jpg
     - Exif SubIFD
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - ICC Profile
 - Photoshop
     - IPTC

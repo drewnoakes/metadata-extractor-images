@@ -144,7 +144,7 @@ FILE: Panasonic DMC-LX3 (Lumix).jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5087 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
-[Xmp - 0xffff] XMP Value Count = 0
+[XMP - 0xffff] XMP Value Count = 0
 
 [File - 0x0001] File Name = Panasonic DMC-LX3 (Lumix).jpg
 [File - 0x0002] File Size = 3380687 bytes
@@ -157,7 +157,7 @@ FILE: Panasonic DMC-LX3 (Lumix).jpg
         - Interoperability
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - File
 
 Generated using metadata-extractor

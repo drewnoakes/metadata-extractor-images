@@ -70,8 +70,8 @@ FILE: FujiFilm FinePixS1Pro (1).jpg
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 1038 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3662 bytes
 
-[Xmp - 0xffff] XMP Value Count = 33
-[Xmp - 0x2001] Subject = Communications
+[XMP - 0xffff] XMP Value Count = 33
+[XMP - 0x2001] Subject = Communications
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
@@ -157,7 +157,7 @@ FILE: FujiFilm FinePixS1Pro (1).jpg
     - Exif SubIFD
     - GPS
     - Exif Thumbnail
-- Xmp
+- XMP
 - ICC Profile
 - Photoshop
     - IPTC
