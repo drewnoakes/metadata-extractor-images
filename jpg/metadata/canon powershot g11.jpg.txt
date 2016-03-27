@@ -141,7 +141,7 @@ FILE: Canon PowerShot G11.jpg
 [Canon Makernote - 0x0006] Image Type = IMG:PowerShot G11 JPEG
 [Canon Makernote - 0x0007] Firmware Version = Firmware Version 1.00
 [Canon Makernote - 0x0008] Image Number = 4120954
-[Canon Makernote - 0x0009] Owner Name = Balázs Iván József +36304028290
+[Canon Makernote - 0x0009] Owner Name = Bal�zs Iv�n J�zsef +36304028290
 [Canon Makernote - 0x000d] Camera Info Array = [171 values]
 [Canon Makernote - 0x0010] Canon Model ID = 40894464
 [Canon Makernote - 0x0026] AF Info Array 2 = [48 values]

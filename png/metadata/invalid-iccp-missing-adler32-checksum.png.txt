@@ -1,6 +1,6 @@
 FILE: invalid-iCCP-missing-adler32-checksum.png
 
-[ERROR: ICC Profile] Exception reading ICC profile: Unexpected end of ZLIB input stream
+[ERROR: ICC Profile] Exception reading ICC profile: Unexpected EOF
 
 [PNG-IHDR - 0x0001] Image Width = 460
 [PNG-IHDR - 0x0002] Image Height = 60

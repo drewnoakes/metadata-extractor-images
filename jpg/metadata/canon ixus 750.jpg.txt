@@ -137,7 +137,7 @@ FILE: Canon IXUS 750.jpg
 [Canon Makernote - 0x0006] Image Type = IMG:DIGITAL IXUS 750 JPEG
 [Canon Makernote - 0x0007] Firmware Version = Firmware Version 1.00
 [Canon Makernote - 0x0008] Image Number = 1003892
-[Canon Makernote - 0x0009] Owner Name = Renè Glanzer
+[Canon Makernote - 0x0009] Owner Name = Ren� Glanzer
 [Canon Makernote - 0x000d] Camera Info Array = [94 values]
 [Canon Makernote - 0x0010] Canon Model ID = 26214400
 [Canon Makernote - 0xd200] AF Point Count = 9

@@ -1,7 +1,7 @@
 FILE: Panasonic Lumix DMC-LX7.rw2
 
 [Exif IFD0 - 0x0001] Interoperability Index = Unknown (48 51 49 48)
-[Exif IFD0 - 0x0002] Interoperability Version = ๰
+[Exif IFD0 - 0x0002] Interoperability Version = 
 [Exif IFD0 - 0x0003] Unknown tag (0x0003) = 2752
 [Exif IFD0 - 0x0004] Unknown tag (0x0004) = 8
 [Exif IFD0 - 0x0005] Unknown tag (0x0005) = 8
