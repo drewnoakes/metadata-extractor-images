@@ -1,9 +1,13 @@
 FILE: webpvp8l.webp
 
+[WebP - 0x0002] Image Width = 1200
+[WebP - 0x0001] Image Height = 900
+
 [File - 0x0001] File Name = webpvp8l.webp
 [File - 0x0002] File Size = 1205814 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- WebP
 - File
 
 Generated using metadata-extractor

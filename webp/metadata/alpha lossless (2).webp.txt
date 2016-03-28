@@ -1,9 +1,13 @@
 FILE: Alpha Lossless (2).webp
 
+[WebP - 0x0002] Image Width = 386
+[WebP - 0x0001] Image Height = 395
+
 [File - 0x0001] File Name = Alpha Lossless (2).webp
 [File - 0x0002] File Size = 29360 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- WebP
 - File
 
 Generated using metadata-extractor
