@@ -58,6 +58,8 @@ FILE: Canon EOS-1D Mark III (via Adobe Lightroom).jpg
 [XMP - 0x0004] Shutter Speed Value = 1/639 sec
 [XMP - 0x000d] Date/Time Original = 2008-09-20T09:01:07.09+01:00
 [XMP - 0x000e] Date/Time Digitized = 2008-09-20T09:01:07.09+01:00
+[XMP - 0x0203] Creator Tool = Adobe Photoshop Lightroom
+[XMP - 0x0206] Modify Date = 2008-12-19T19:06:11Z
 [XMP - 0x2000] Label = label
 [XMP - 0x2001] Subject = [17 values]
 

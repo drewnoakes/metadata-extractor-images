@@ -85,6 +85,10 @@ FILE: Pentax QS1.dng
 [XMP - 0x0006] Lens Information = 50/10 150/10 28/10 45/10
 [XMP - 0x0007] Lens = 02 STANDARD ZOOM
 [XMP - 0x0008] Serial Number = 2587411
+[XMP - 0x0202] Create Date = 2015-01-10T13:28:54
+[XMP - 0x0203] Creator Tool = PENTAX Q-S1   Ver 1.00
+[XMP - 0x0205] Metadata Date = 2015-01-11T18:16:52Z
+[XMP - 0x0206] Modify Date = 2015-01-10T13:28:54
 [XMP - 0x1001] Rating = 3
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/250 sec

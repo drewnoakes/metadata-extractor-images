@@ -114,6 +114,10 @@ FILE: Nikon Coolpix P7000.webp
 [XMP - 0x000a] Focal Length = 6 mm
 [XMP - 0x0004] Shutter Speed Value = 1/799 sec
 [XMP - 0x000d] Date/Time Original = 2010-10-21T11:22:48+01:00
+[XMP - 0x0202] Create Date = 2010-10-21T11:22:48+01:00
+[XMP - 0x0203] Creator Tool = COOLPIX P7000V1.0
+[XMP - 0x0205] Metadata Date = 2010-11-17T14:52:46Z
+[XMP - 0x0206] Modify Date = 2010-10-21T11:22:48+01:00
 
 [File - 0x0001] File Name = Nikon Coolpix P7000.webp
 [File - 0x0002] File Size = 474772 bytes

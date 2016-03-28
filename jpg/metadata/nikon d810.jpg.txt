@@ -135,6 +135,8 @@ FILE: Nikon D810.jpg
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
 [XMP - 0xffff] XMP Value Count = 2
+[XMP - 0x0202] Create Date = 2014-01-30T16:41:04.99
+[XMP - 0x0203] Creator Tool = NIKON D810 Ver.1.00     
 
 [File - 0x0001] File Name = Nikon D810.jpg
 [File - 0x0002] File Size = 18575098 bytes

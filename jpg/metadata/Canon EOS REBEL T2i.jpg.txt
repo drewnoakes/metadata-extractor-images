@@ -194,6 +194,7 @@ FILE: Canon EOS REBEL T2i.jpg
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3936 bytes
 
 [XMP - 0xffff] XMP Value Count = 7
+[XMP - 0x0203] Creator Tool = Microsoft Windows Photo Viewer 6.1.7600.16385
 [XMP - 0x2001] Subject = piano
 
 [File - 0x0001] File Name = Canon EOS REBEL T2i.jpg

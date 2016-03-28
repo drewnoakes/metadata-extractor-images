@@ -32,6 +32,10 @@ FILE: Issue 16.tif
 [XMP - 0x0004] Shutter Speed Value = 1/6 sec
 [XMP - 0x000d] Date/Time Original = 2010-09-30T16:06:06-07:00
 [XMP - 0x000e] Date/Time Digitized = 2010-09-30T16:06:06-07:00
+[XMP - 0x0202] Create Date = 2013-05-15T09:42:30-07:00
+[XMP - 0x0203] Creator Tool = Adobe Photoshop CS3 Macintosh
+[XMP - 0x0205] Metadata Date = 2013-05-15T09:42:30-07:00
+[XMP - 0x0206] Modify Date = 2013-05-15T09:42:30-07:00
 [XMP - 0x2001] Subject = apt color kureck jones moroccan vivid
 
 [IPTC - 0x015a] Coded Character Set = UTF-8

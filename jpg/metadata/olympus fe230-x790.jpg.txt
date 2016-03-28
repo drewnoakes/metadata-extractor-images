@@ -68,6 +68,9 @@ FILE: Olympus FE230-X790.jpg
 [XMP - 0x0004] Shutter Speed Value = 1/159 sec
 [XMP - 0x000d] Date/Time Original = 2008-12-07T10:28:52-08:00
 [XMP - 0x000e] Date/Time Digitized = 2008-12-07T10:28:52-08:00
+[XMP - 0x0203] Creator Tool = Adobe Photoshop Lightroom
+[XMP - 0x0205] Metadata Date = 2008-12-09T20:44:33.249-08:00
+[XMP - 0x0206] Modify Date = 2008-12-09T21:03:56-08:00
 [XMP - 0x1001] Rating = 3
 [XMP - 0x2001] Subject = 2008 bc british columbia canada december powder day revelstoke rmr snow
 

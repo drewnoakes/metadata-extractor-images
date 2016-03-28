@@ -53,6 +53,9 @@ FILE: Nokia Lumia 800.jpg
 [XMP - 0x0004] Shutter Speed Value = 1/999 sec
 [XMP - 0x000d] Date/Time Original = 2012-06-09T21:23:38+01:00
 [XMP - 0x000e] Date/Time Digitized = 2012-06-09T21:23:38+01:00
+[XMP - 0x0202] Create Date = 2012-06-09T21:23:38+01:00
+[XMP - 0x0203] Creator Tool = Adobe Photoshop Lightroom
+[XMP - 0x0206] Modify Date = 2012-06-13T23:17:22+01:00
 [XMP - 0x1001] Rating = 3
 [XMP - 0x2001] Subject = 2012 dublin ireland june lumia
 

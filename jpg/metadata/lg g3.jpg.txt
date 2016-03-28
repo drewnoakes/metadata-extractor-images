@@ -45,6 +45,9 @@ FILE: LG G3.jpg
 [GPS - 0x0006] GPS Altitude = 0 metres
 
 [XMP - 0xffff] XMP Value Count = 23
+[XMP - 0x0202] Create Date = 2014-11-14T14:10:41
+[XMP - 0x0205] Metadata Date = 2014-11-16T00:04:56Z
+[XMP - 0x0206] Modify Date = 2014-11-14T14:10:41
 [XMP - 0x1001] Rating = 2
 
 [Photoshop - 0x0425] Caption Digest = 247 106 131 105 11 43 247 79 253 249 34 245 6 22 67 236

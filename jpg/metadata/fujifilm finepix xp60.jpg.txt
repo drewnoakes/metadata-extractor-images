@@ -117,6 +117,7 @@ FILE: FujiFilm FinePix XP60.jpg
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
 [XMP - 0xffff] XMP Value Count = 2
+[XMP - 0x0203] Creator Tool = Microsoft Windows Photo Viewer 6.1.7600.16385
 
 [File - 0x0001] File Name = FujiFilm FinePix XP60.jpg
 [File - 0x0002] File Size = 8027368 bytes

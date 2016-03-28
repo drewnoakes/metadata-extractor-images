@@ -136,6 +136,10 @@ FILE: Nikon D3300.jpg
 [XMP - 0x0006] Lens Information = 180/10 550/10 35/10 56/10
 [XMP - 0x0007] Lens = 18.0-55.0 mm f/3.5-5.6
 [XMP - 0x0008] Serial Number = 3000205
+[XMP - 0x0202] Create Date = 2014-02-19T13:47:19.00
+[XMP - 0x0203] Creator Tool = Ver.1.00
+[XMP - 0x0205] Metadata Date = 2014-03-05T11:13:11-08:00
+[XMP - 0x0206] Modify Date = 2014-02-19T13:47:19.00
 [XMP - 0x1001] Rating = 3
 
 [Photoshop - 0x0425] Caption Digest = 169 110 129 242 241 89 147 111 97 247 171 203 74 152 102 24

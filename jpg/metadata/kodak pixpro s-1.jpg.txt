@@ -55,6 +55,9 @@ FILE: Kodak PIXPRO S-1.jpg
 [Exif SubIFD - 0xa407] Gain Control = Low gain up
 
 [XMP - 0xffff] XMP Value Count = 7
+[XMP - 0x0202] Create Date = 2014-09-04T14:04:22
+[XMP - 0x0203] Creator Tool = 1.0                            
+[XMP - 0x0206] Modify Date = 2014-09-04T14:04:22
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino

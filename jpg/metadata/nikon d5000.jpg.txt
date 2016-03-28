@@ -76,6 +76,10 @@ FILE: Nikon D5000.jpg
 [XMP - 0x0006] Lens Information = 180/10 550/10 35/10 56/10
 [XMP - 0x0007] Lens = 18.0-55.0 mm f/3.5-5.6
 [XMP - 0x0008] Serial Number = 6607572
+[XMP - 0x0202] Create Date = 2011-03-12T15:36:11.00+01:00
+[XMP - 0x0203] Creator Tool = Adobe Bridge CS5
+[XMP - 0x0205] Metadata Date = 2011-03-20T10:07:16+01:00
+[XMP - 0x0206] Modify Date = 2011-03-20T10:07:16+01:00
 [XMP - 0x1001] Rating = 0
 
 [ICC Profile - 0x0000] Profile Size = 3144

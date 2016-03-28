@@ -11,6 +11,7 @@ FILE: photoshop-8x12-rgba32-interlaced.png
 [PNG-iTXt - 0x000d] Textual Data = Software: Adobe ImageReady
 
 [XMP - 0xffff] XMP Value Count = 6
+[XMP - 0x0203] Creator Tool = Adobe Photoshop CS6 (Windows)
 
 [File - 0x0001] File Name = photoshop-8x12-rgba32-interlaced.png
 [File - 0x0002] File Size = 1100 bytes
