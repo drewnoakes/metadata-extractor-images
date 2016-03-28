@@ -53,7 +53,7 @@ FILE: Canon IXUS.jpg
 [Canon Makernote - 0xc106] Unknown Camera Setting 2 = 0
 [Canon Makernote - 0xc107] Focus Mode = AI Servo
 [Canon Makernote - 0xc108] Unknown Camera Setting 3 = 0
-[Canon Makernote - 0xc109] Unknown Camera Setting 4 = 1
+[Canon Makernote - 0xc109] Record Mode = JPEG
 [Canon Makernote - 0xc10a] Image Size = Small
 [Canon Makernote - 0xc10b] Easy Shooting Mode = Manual
 [Canon Makernote - 0xc10c] Digital Zoom = No digital zoom
