@@ -1,9 +1,13 @@
 FILE: Photo (1).webp
 
+[WebP - 0x0002] Image Width = 1024
+[WebP - 0x0001] Image Height = 772
+
 [File - 0x0001] File Name = Photo (1).webp
 [File - 0x0002] File Size = 176972 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- WebP
 - File
 
 Generated using metadata-extractor

@@ -7,6 +7,9 @@ FILE: Nikon D1X.webp
 [WebP - 0x0003] Has Alpha = false
 [WebP - 0x0004] Is Animation = false
 
+[WebP - 0x0002] Image Width = 600
+[WebP - 0x0001] Image Height = 391
+
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = NIKON CORPORATION
 [Exif IFD0 - 0x0110] Model = NIKON D1X
@@ -94,6 +97,7 @@ FILE: Nikon D1X.webp
 [File - 0x0002] File Size = 19944 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- WebP
 - WebP
 - Exif IFD0
     - Exif SubIFD

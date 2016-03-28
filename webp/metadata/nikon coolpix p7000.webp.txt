@@ -5,6 +5,9 @@ FILE: Nikon Coolpix P7000.webp
 [WebP - 0x0003] Has Alpha = false
 [WebP - 0x0004] Is Animation = false
 
+[WebP - 0x0002] Image Width = 3648
+[WebP - 0x0001] Image Height = 2736
+
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = NIKON
 [Exif IFD0 - 0x0110] Model = COOLPIX P7000
@@ -123,6 +126,7 @@ FILE: Nikon Coolpix P7000.webp
 [File - 0x0002] File Size = 474772 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- WebP
 - WebP
 - Exif IFD0
     - Exif SubIFD
