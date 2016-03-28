@@ -77,7 +77,7 @@ FILE: Canon PowerShot G2 (1).jpg
 [Canon Makernote - 0xc113] AF Point Selected = Centre
 [Canon Makernote - 0xc114] Exposure Mode = Program
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 65535
-[Canon Makernote - 0xc116] Lens Type = 65535
+[Canon Makernote - 0xc116] Lens Type = N/A
 [Canon Makernote - 0xc117] Long Focal Length = 672 32
 [Canon Makernote - 0xc118] Short Focal Length = 224 32
 [Canon Makernote - 0xc119] Focal Units per mm = 32

@@ -70,7 +70,7 @@ FILE: Canon PowerShot A610.jpg
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (8197)
 [Canon Makernote - 0xc114] Exposure Mode = Program
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 32767
-[Canon Makernote - 0xc116] Lens Type = 65535
+[Canon Makernote - 0xc116] Lens Type = N/A
 [Canon Makernote - 0xc117] Long Focal Length = 29200 1000
 [Canon Makernote - 0xc118] Short Focal Length = 7300 1000
 [Canon Makernote - 0xc119] Focal Units per mm = 1000

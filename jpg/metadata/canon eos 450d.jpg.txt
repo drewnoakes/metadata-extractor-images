@@ -70,7 +70,7 @@ FILE: Canon EOS 450D.jpg
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (0)
 [Canon Makernote - 0xc114] Exposure Mode = Av-priority
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 65535
-[Canon Makernote - 0xc116] Lens Type = 224
+[Canon Makernote - 0xc116] Lens Type = Canon EF 70-200mm f/2.8L IS
 [Canon Makernote - 0xc117] Long Focal Length = 200 1
 [Canon Makernote - 0xc118] Short Focal Length = 70 1
 [Canon Makernote - 0xc119] Focal Units per mm = 1

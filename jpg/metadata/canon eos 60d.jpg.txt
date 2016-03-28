@@ -79,7 +79,7 @@ FILE: Canon EOS 60D.jpg
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (0)
 [Canon Makernote - 0xc114] Exposure Mode = Av-priority
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 65535
-[Canon Makernote - 0xc116] Lens Type = 488
+[Canon Makernote - 0xc116] Lens Type = Canon EF-S 15-85mm f/3.5-5.6 IS USM
 [Canon Makernote - 0xc117] Long Focal Length = 85 1
 [Canon Makernote - 0xc118] Short Focal Length = 15 1
 [Canon Makernote - 0xc119] Focal Units per mm = 1

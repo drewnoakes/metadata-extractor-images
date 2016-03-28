@@ -79,7 +79,7 @@ FILE: Canon EOS 100D.jpg
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (0)
 [Canon Makernote - 0xc114] Exposure Mode = Av-priority
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 65535
-[Canon Makernote - 0xc116] Lens Type = 4142
+[Canon Makernote - 0xc116] Lens Type = Canon EF-S 18-135mm f/3.5-5.6 IS STM
 [Canon Makernote - 0xc117] Long Focal Length = 135 1
 [Canon Makernote - 0xc118] Short Focal Length = 18 1
 [Canon Makernote - 0xc119] Focal Units per mm = 1

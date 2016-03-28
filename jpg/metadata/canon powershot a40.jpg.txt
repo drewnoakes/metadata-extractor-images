@@ -70,7 +70,7 @@ FILE: Canon PowerShot A40.jpg
 [Canon Makernote - 0xc113] AF Point Selected = Auto selected
 [Canon Makernote - 0xc114] Exposure Mode = Easy shooting
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 65535
-[Canon Makernote - 0xc116] Lens Type = 65535
+[Canon Makernote - 0xc116] Lens Type = N/A
 [Canon Makernote - 0xc117] Long Focal Length = 518 32
 [Canon Makernote - 0xc118] Short Focal Length = 173 32
 [Canon Makernote - 0xc119] Focal Units per mm = 32

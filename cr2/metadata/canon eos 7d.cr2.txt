@@ -68,7 +68,7 @@ FILE: Canon EOS 7D.cr2
 [Canon Makernote - 0xc113] AF Point Selected = Unknown (0)
 [Canon Makernote - 0xc114] Exposure Mode = Manual
 [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 65535
-[Canon Makernote - 0xc116] Lens Type = 160
+[Canon Makernote - 0xc116] Lens Type = Canon EF 20-35mm f/3.5-4.5 USM or Tamron or Tokina Lens
 [Canon Makernote - 0xc117] Long Focal Length = 17 1
 [Canon Makernote - 0xc118] Short Focal Length = 10 1
 [Canon Makernote - 0xc119] Focal Units per mm = 1
