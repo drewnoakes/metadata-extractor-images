@@ -16,5 +16,8 @@ FILE: SWCP0002.PCX
 [File - 0x0002] File Size = 197221 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
+- PCX
+- File
+
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
