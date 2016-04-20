@@ -1,7 +1,6 @@
 FILE: Nikon D1X.jpg
 
 [ERROR: GPS] Invalid TIFF tag format code 0 for tag 0x0000
-[ERROR: IPTC] Too few bytes remain for a valid IPTC tag
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
@@ -109,6 +108,7 @@ FILE: Nikon D1X.jpg
 [IPTC - 0x0273] Source = 
 [IPTC - 0x0274] Copyright Notice = © 2003 Joseph S. Colson
 [IPTC - 0x0278] Caption/Abstract = Workshop showing workbench and storage
+[IPTC - 0x027a] Caption Writer/Editor = 
 
 [File - 0x0001] File Name = Nikon D1X.jpg
 [File - 0x0002] File Size = 101874 bytes
