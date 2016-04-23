@@ -41,7 +41,6 @@ FILE: Apple iPhone 6 plus.jpg
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 4.2 mm
 [Exif SubIFD - 0x9214] Subject Location = 1995 1113 610 612
-[Exif SubIFD - 0x927c] Makernote = [890 values]
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 539
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
@@ -56,6 +55,21 @@ FILE: Apple iPhone 6 plus.jpg
 [Exif SubIFD - 0xa432] Lens Specification = 4.15mm f/2.2
 [Exif SubIFD - 0xa433] Lens Make = Apple
 [Exif SubIFD - 0xa434] Lens Model = iPhone 6 Plus back camera 4.15mm f/2.2
+
+[Apple Makernote - 0x0001] Unknown tag (0x0001) = 2
+[Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
+[Apple Makernote - 0x0003] Run Time = [104 values]
+[Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
+[Apple Makernote - 0x0005] Unknown tag (0x0005) = 174
+[Apple Makernote - 0x0006] Unknown tag (0x0006) = 172
+[Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+[Apple Makernote - 0x0008] Unknown tag (0x0008) = -744/3779 -327/10511 -1928/1979
+[Apple Makernote - 0x0009] Unknown tag (0x0009) = 531
+[Apple Makernote - 0x000c] Unknown tag (0x000c) = 39/128 99/256
+[Apple Makernote - 0x000d] Unknown tag (0x000d) = 3
+[Apple Makernote - 0x000e] Unknown tag (0x000e) = 0
+[Apple Makernote - 0x000f] Unknown tag (0x000f) = 2
+[Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
 
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 51° 28' 58.78"
@@ -127,6 +141,7 @@ FILE: Apple iPhone 6 plus.jpg
 - JFIF
 - Exif IFD0
     - Exif SubIFD
+        - Apple Makernote
     - GPS
 - XMP
 - ICC Profile

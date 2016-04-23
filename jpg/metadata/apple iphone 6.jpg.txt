@@ -35,7 +35,6 @@ FILE: Apple iPhone 6.jpg
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 4.2 mm
 [Exif SubIFD - 0x9214] Subject Location = 1631 1223 1795 1077
-[Exif SubIFD - 0x927c] Makernote = [826 values]
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 133
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 133
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
@@ -52,6 +51,17 @@ FILE: Apple iPhone 6.jpg
 [Exif SubIFD - 0xa432] Lens Specification = 4.15mm f/2.2
 [Exif SubIFD - 0xa433] Lens Make = Apple
 [Exif SubIFD - 0xa434] Lens Model = iPhone 6 back camera 4.15mm f/2.2
+
+[Apple Makernote - 0x0001] Unknown tag (0x0001) = 2
+[Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
+[Apple Makernote - 0x0003] Run Time = [104 values]
+[Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
+[Apple Makernote - 0x0005] Unknown tag (0x0005) = 128
+[Apple Makernote - 0x0006] Unknown tag (0x0006) = 114
+[Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+[Apple Makernote - 0x0008] Unknown tag (0x0008) = -12101/12201 -857/16886 584/4633
+[Apple Makernote - 0x000a] HDR Image Type = HDR Image
+[Apple Makernote - 0x000e] Unknown tag (0x000e) = 0
 
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 51° 45' 44.67"
@@ -82,6 +92,7 @@ FILE: Apple iPhone 6.jpg
 - JPEG
 - Exif IFD0
     - Exif SubIFD
+        - Apple Makernote
     - GPS
     - Exif Thumbnail
 - File
