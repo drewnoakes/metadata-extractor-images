@@ -13,6 +13,15 @@ FILE: photoshop-8x12-16colorpalette.png
 [XMP - 0xffff] XMP Value Count = 6
 [XMP - 0x0203] Creator Tool = Adobe Photoshop CS6 (Windows)
 
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS6 (Windows)
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:13F2D476539A11E2B3A1940DA80A4139
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:13F2D477539A11E2B3A1940DA80A4139
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:13F2D474539A11E2B3A1940DA80A4139
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = xmp.did:13F2D475539A11E2B3A1940DA80A4139
+
 [PNG-PLTE - 0x0008] Palette Size = 16
 
 [File - 0x0001] File Name = photoshop-8x12-16colorpalette.png

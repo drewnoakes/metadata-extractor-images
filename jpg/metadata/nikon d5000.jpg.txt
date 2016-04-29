@@ -82,6 +82,29 @@ FILE: Nikon D5000.jpg
 [XMP - 0x0206] Modify Date = 2011-03-20T10:07:16+01:00
 [XMP - 0x1001] Rating = 0
 
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2011-03-20T10:07:16+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2011-03-12T15:36:11.00+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Bridge CS5
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2011-03-20T10:07:16+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:SerialNumber = 6607572
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensInfo = 180/10 550/10 35/10 56/10
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Lens = 18.0-55.0 mm f/3.5-5.6
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensID = 154
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ImageNumber = 181
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ApproximateFocusDistance = 4294967295/1
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:9C120C69D152E011AEE5D499A47E1392
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:9C120C69D152E011AEE5D499A47E1392
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:9C120C69D152E011AEE5D499A47E1392
+[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:GPSLongitude = 21,2.595070E
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:GPSLatitude = 48,53.323582N
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:GPSAltitude = 324145/1000
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:GPSAltitudeRef = 0
+
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
 [ICC Profile - 0x0008] Version = 2.1.0

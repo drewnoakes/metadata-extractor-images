@@ -200,6 +200,43 @@ FILE: Canon EOS REBEL SL1.jpg
 [XMP - 0x0206] Modify Date = 2013-06-30T07:36:42.00
 [XMP - 0x1001] Rating = 5
 
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 5
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2013-06-30T07:36:42.00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2013-06-30T07:36:42.00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2013-07-03T23:06:59-07:00
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:SerialNumber = 012070143361
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensInfo = 18/1 55/1 0/0 0/0
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Lens = EF-S18-55mm f/3.5-5.6 IS STM
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensID = 4146
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensSerialNumber = 0000000c2e
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ImageNumber = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ApproximateFocusDistance = 4294967295/1
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:FlashCompensation = 0/1
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Firmware = 1.0.0
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2013-06-30T07:36:42.00
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = 7D38027261E5CE342B878D1C454C2633
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = 7D38027261E5CE342B878D1C454C2633
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:739e50ce-e38e-4eb4-b5b1-71a0530b349a
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
+[XMPMeta - ] xmpMM:History[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:1E73E590462068118083A66280698FC6
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2013-07-03T23:06:59-07:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.1
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /metadata
+[XMPMeta - ] xmpMM:History[2] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:739e50ce-e38e-4eb4-b5b1-71a0530b349a
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:when = 2013-07-03T23:06:59-07:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.1 (Macintosh)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /metadata
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
+
 [Photoshop - 0x0425] Caption Digest = 3 132 165 205 164 33 45 254 117 0 224 224 67 62 136 27
 
 [IPTC - 0x015a] Coded Character Set = UTF-8

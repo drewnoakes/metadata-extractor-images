@@ -133,6 +133,18 @@ FILE: Nikon D610.jpg
 [XMP - 0xffff] XMP Value Count = 7
 [XMP - 0x1001] Rating = 0
 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2013-11-23T16:47:09-08:00
+[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/]  = 
+[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:ColorClass = 0
+[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:Tagged = True
+[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:Prefs = 1:0:0:004660
+[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:PMVersion = PM5
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ImageNumber = 4660
+
 [Photoshop - 0x03ed] Resolution Info = 200x200 DPI
 [Photoshop - 0x040a] Copyright Flag = No
 

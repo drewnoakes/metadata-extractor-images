@@ -71,6 +71,33 @@ FILE: Issue 116.jpg
 [XMP - 0x000e] Date/Time Digitized = 2011:10:17 18:19:51
 [XMP - 0x0202] Create Date = 2011-10-17T18:19:51
 
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2011-10-17T18:19:51
+[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Make = Canon
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Model = Canon EOS 350D DIGITAL
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Orientation = Top-left
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:XResolution = 72
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:YResolution = 72
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ResolutionUnit = Inch
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTime = 2011:10:17 18:19:51
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:YCbCrPositioning = Co-sited
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Padding = 2060 bytes undefined data
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/60 sec.
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = f/2.2
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureProgram = Not defined
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ISOSpeedRatings = 
+[XMPMeta - ] exif:ISOSpeedRatings[1] = 400
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = Exif Version 2.21
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2011:10:17 18:19:51
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2011:10:17 18:19:51
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ComponentsConfiguration = 
+[XMPMeta - ] exif:ComponentsConfiguration[1] = Y Cb Cr -
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = 5.91 EV (1/60 sec.)
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 2.28 EV (f/2.2)
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0.00 EV
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MeteringMode = Pattern
+
 [File - 0x0001] File Name = Issue 116.jpg
 [File - 0x0002] File Size = 130669 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>

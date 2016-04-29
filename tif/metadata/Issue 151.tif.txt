@@ -19,6 +19,29 @@ FILE: Issue 151.tif
 
 [XMP - 0xffff] XMP Value Count = 21
 
+[XMPMeta - http://pix4d.com/camera/1.0/]  = 
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:Irradiance = 530.000000
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradianceYaw = 81.523750
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradiancePitch = -48.406395
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradianceRoll = 35.940220
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:RigName = Chlorophyll
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:RigCameraIndex = 2
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:Yaw = -167.020798
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:Pitch = 13.216802
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:Roll = 0.172856
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:SensorTemperature = 36.250000
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:LineReadoutTime = 23076
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:BandName = 
+[XMPMeta - ] Camera:BandName[1] = Red edge
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:CentralWavelength = 
+[XMPMeta - ] Camera:CentralWavelength[1] = 735.000000
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:WavelengthFWHM = 
+[XMPMeta - ] Camera:WavelengthFWHM[1] = 15.000000
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:BandSensitivity = 
+[XMPMeta - ] Camera:BandSensitivity[1] = 0.140000
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradianceSensitivity = 
+[XMPMeta - ] Camera:IrradianceSensitivity[1] = 0.240000
+
 [Exif SubIFD - 0x829a] Exposure Time = 3320340/2147483647 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.2
 [Exif SubIFD - 0x8824] Spectral Sensitivity = 735 nm

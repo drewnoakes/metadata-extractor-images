@@ -33,6 +33,776 @@ FILE: issue 121.jpg
 [XMP - 0x0205] Metadata Date = 2011-08-17T19:57:05+02:00
 [XMP - 0x0206] Modify Date = 2011-08-17T19:57:05+02:00
 
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Illustrator CS5
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2011-06-14T15:47+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2011-08-17T19:57:05+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2011-08-17T19:57:05+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/t/pg/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/t/pg/] xmpTPg:NPages = 1
+[XMPMeta - http://ns.adobe.com/xap/1.0/t/pg/] xmpTPg:HasVisibleTransparency = False
+[XMPMeta - http://ns.adobe.com/xap/1.0/t/pg/] xmpTPg:HasVisibleOverprint = False
+[XMPMeta - http://ns.adobe.com/xap/1.0/t/pg/] xmpTPg:MaxPageSize = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] xmpTPg:MaxPageSize/stDim:w = 209.902778
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] xmpTPg:MaxPageSize/stDim:h = 297.038889
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] xmpTPg:MaxPageSize/stDim:unit = Millimeters
+[XMPMeta - http://ns.adobe.com/xap/1.0/t/pg/] xmpTPg:Fonts = 
+[XMPMeta - ] xmpTPg:Fonts[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Font#] xmpTPg:Fonts[1]/stFnt:fontName = Univers
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Font#] xmpTPg:Fonts[1]/stFnt:fontFamily = Univers
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Font#] xmpTPg:Fonts[1]/stFnt:fontFace = 55 Roman
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Font#] xmpTPg:Fonts[1]/stFnt:fontType = Type 1
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Font#] xmpTPg:Fonts[1]/stFnt:versionString = 001.000
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Font#] xmpTPg:Fonts[1]/stFnt:composite = False
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Font#] xmpTPg:Fonts[1]/stFnt:fontFileName = Unive
+[XMPMeta - http://ns.adobe.com/xap/1.0/t/pg/] xmpTPg:PlateNames = 
+[XMPMeta - ] xmpTPg:PlateNames[1] = Black
+[XMPMeta - http://ns.adobe.com/xap/1.0/t/pg/] xmpTPg:SwatchGroups = 
+[XMPMeta - ] xmpTPg:SwatchGroups[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:groupName = Standard-Farbfeldgruppe
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:groupType = 0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants = 
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[1]/xmpG:swatchName = K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[1]/xmpG:mode = GRAY
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[1]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[1]/xmpG:gray = 0
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[2] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[2]/xmpG:swatchName = K=100
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[2]/xmpG:mode = GRAY
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[2]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[2]/xmpG:gray = 255
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[3] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[3]/xmpG:swatchName = C=0 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[3]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[3]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[3]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[3]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[3]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[3]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[4] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[4]/xmpG:swatchName = K=25
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[4]/xmpG:mode = GRAY
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[4]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[4]/xmpG:gray = 63
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[5] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[5]/xmpG:swatchName = K=50
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[5]/xmpG:mode = GRAY
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[5]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[5]/xmpG:gray = 127
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[6] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[6]/xmpG:swatchName = K=75
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[6]/xmpG:mode = GRAY
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[6]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[6]/xmpG:gray = 191
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[7] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[7]/xmpG:swatchName = K=100
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[7]/xmpG:mode = GRAY
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[7]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[7]/xmpG:gray = 255
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[8] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[8]/xmpG:swatchName = C=25 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[8]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[8]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[8]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[8]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[8]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[8]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[9] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[9]/xmpG:swatchName = C=50 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[9]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[9]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[9]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[9]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[9]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[9]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[10] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[10]/xmpG:swatchName = C=75 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[10]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[10]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[10]/xmpG:cyan = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[10]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[10]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[10]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[11] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[11]/xmpG:swatchName = C=100 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[11]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[11]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[11]/xmpG:cyan = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[11]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[11]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[11]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[12] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[12]/xmpG:swatchName = C=25 M=25 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[12]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[12]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[12]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[12]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[12]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[12]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[13] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[13]/xmpG:swatchName = C=50 M=50 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[13]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[13]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[13]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[13]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[13]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[13]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[14] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[14]/xmpG:swatchName = C=75 M=75 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[14]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[14]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[14]/xmpG:cyan = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[14]/xmpG:magenta = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[14]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[14]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[15] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[15]/xmpG:swatchName = C=100 M=100 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[15]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[15]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[15]/xmpG:cyan = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[15]/xmpG:magenta = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[15]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[15]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[16] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[16]/xmpG:swatchName = C=0 M=25 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[16]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[16]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[16]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[16]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[16]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[16]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[17] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[17]/xmpG:swatchName = C=0 M=50 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[17]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[17]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[17]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[17]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[17]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[17]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[18] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[18]/xmpG:swatchName = C=0 M=75 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[18]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[18]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[18]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[18]/xmpG:magenta = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[18]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[18]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[19] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[19]/xmpG:swatchName = C=0 M=100 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[19]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[19]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[19]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[19]/xmpG:magenta = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[19]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[19]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[20] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[20]/xmpG:swatchName = C=0 M=25 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[20]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[20]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[20]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[20]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[20]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[20]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[21] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[21]/xmpG:swatchName = C=0 M=50 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[21]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[21]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[21]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[21]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[21]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[21]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[22] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[22]/xmpG:swatchName = C=0 M=75 Y=75 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[22]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[22]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[22]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[22]/xmpG:magenta = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[22]/xmpG:yellow = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[22]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[23] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[23]/xmpG:swatchName = C=0 M=100 Y=100 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[23]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[23]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[23]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[23]/xmpG:magenta = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[23]/xmpG:yellow = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[23]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[24] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[24]/xmpG:swatchName = C=0 M=0 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[24]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[24]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[24]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[24]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[24]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[24]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[25] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[25]/xmpG:swatchName = C=0 M=0 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[25]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[25]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[25]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[25]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[25]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[25]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[26] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[26]/xmpG:swatchName = C=0 M=0 Y=75 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[26]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[26]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[26]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[26]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[26]/xmpG:yellow = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[26]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[27] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[27]/xmpG:swatchName = C=0 M=0 Y=100 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[27]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[27]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[27]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[27]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[27]/xmpG:yellow = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[27]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[28] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[28]/xmpG:swatchName = C=25 M=0 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[28]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[28]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[28]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[28]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[28]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[28]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[29] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[29]/xmpG:swatchName = C=50 M=0 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[29]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[29]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[29]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[29]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[29]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[29]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[30] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[30]/xmpG:swatchName = C=75 M=0 Y=75 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[30]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[30]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[30]/xmpG:cyan = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[30]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[30]/xmpG:yellow = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[30]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[31] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[31]/xmpG:swatchName = C=100 M=0 Y=100 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[31]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[31]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[31]/xmpG:cyan = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[31]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[31]/xmpG:yellow = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[31]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[32] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[32]/xmpG:swatchName = C=25 M=13 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[32]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[32]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[32]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[32]/xmpG:magenta = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[32]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[32]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[33] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[33]/xmpG:swatchName = C=50 M=25 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[33]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[33]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[33]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[33]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[33]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[33]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[34] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[34]/xmpG:swatchName = C=75 M=38 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[34]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[34]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[34]/xmpG:cyan = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[34]/xmpG:magenta = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[34]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[34]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[35] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[35]/xmpG:swatchName = C=100 M=50 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[35]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[35]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[35]/xmpG:cyan = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[35]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[35]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[35]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[36] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[36]/xmpG:swatchName = C=13 M=25 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[36]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[36]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[36]/xmpG:cyan = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[36]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[36]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[36]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[37] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[37]/xmpG:swatchName = C=25 M=50 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[37]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[37]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[37]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[37]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[37]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[37]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[38] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[38]/xmpG:swatchName = C=38 M=75 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[38]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[38]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[38]/xmpG:cyan = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[38]/xmpG:magenta = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[38]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[38]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[39] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[39]/xmpG:swatchName = C=50 M=100 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[39]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[39]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[39]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[39]/xmpG:magenta = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[39]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[39]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[40] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[40]/xmpG:swatchName = C=0 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[40]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[40]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[40]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[40]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[40]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[40]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[41] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[41]/xmpG:swatchName = C=0 M=25 Y=13 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[41]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[41]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[41]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[41]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[41]/xmpG:yellow = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[41]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[42] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[42]/xmpG:swatchName = C=0 M=50 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[42]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[42]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[42]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[42]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[42]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[42]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[43] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[43]/xmpG:swatchName = C=0 M=75 Y=38 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[43]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[43]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[43]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[43]/xmpG:magenta = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[43]/xmpG:yellow = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[43]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[44] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[44]/xmpG:swatchName = C=0 M=100 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[44]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[44]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[44]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[44]/xmpG:magenta = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[44]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[44]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[45] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[45]/xmpG:swatchName = C=0 M=13 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[45]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[45]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[45]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[45]/xmpG:magenta = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[45]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[45]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[46] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[46]/xmpG:swatchName = C=0 M=25 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[46]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[46]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[46]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[46]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[46]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[46]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[47] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[47]/xmpG:swatchName = C=0 M=38 Y=75 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[47]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[47]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[47]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[47]/xmpG:magenta = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[47]/xmpG:yellow = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[47]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[48] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[48]/xmpG:swatchName = C=0 M=50 Y=100 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[48]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[48]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[48]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[48]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[48]/xmpG:yellow = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[48]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[49] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[49]/xmpG:swatchName = C=0 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[49]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[49]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[49]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[49]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[49]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[49]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[50] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[50]/xmpG:swatchName = C=13 M=0 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[50]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[50]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[50]/xmpG:cyan = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[50]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[50]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[50]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[51] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[51]/xmpG:swatchName = C=25 M=0 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[51]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[51]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[51]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[51]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[51]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[51]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[52] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[52]/xmpG:swatchName = C=38 M=0 Y=75 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[52]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[52]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[52]/xmpG:cyan = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[52]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[52]/xmpG:yellow = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[52]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[53] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[53]/xmpG:swatchName = C=50 M=0 Y=100 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[53]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[53]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[53]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[53]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[53]/xmpG:yellow = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[53]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[54] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[54]/xmpG:swatchName = C=25 M=0 Y=13 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[54]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[54]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[54]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[54]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[54]/xmpG:yellow = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[54]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[55] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[55]/xmpG:swatchName = C=50 M=0 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[55]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[55]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[55]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[55]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[55]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[55]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[56] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[56]/xmpG:swatchName = C=75 M=0 Y=38 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[56]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[56]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[56]/xmpG:cyan = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[56]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[56]/xmpG:yellow = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[56]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[57] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[57]/xmpG:swatchName = C=100 M=0 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[57]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[57]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[57]/xmpG:cyan = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[57]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[57]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[57]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[58] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[58]/xmpG:swatchName = C=0 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[58]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[58]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[58]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[58]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[58]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[58]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[59] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[59]/xmpG:swatchName = C=25 M=13 Y=13 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[59]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[59]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[59]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[59]/xmpG:magenta = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[59]/xmpG:yellow = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[59]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[60] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[60]/xmpG:swatchName = C=50 M=25 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[60]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[60]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[60]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[60]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[60]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[60]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[61] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[61]/xmpG:swatchName = C=75 M=38 Y=38 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[61]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[61]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[61]/xmpG:cyan = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[61]/xmpG:magenta = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[61]/xmpG:yellow = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[61]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[62] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[62]/xmpG:swatchName = C=100 M=50 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[62]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[62]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[62]/xmpG:cyan = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[62]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[62]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[62]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[63] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[63]/xmpG:swatchName = C=25 M=25 Y=13 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[63]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[63]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[63]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[63]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[63]/xmpG:yellow = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[63]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[64] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[64]/xmpG:swatchName = C=50 M=50 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[64]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[64]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[64]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[64]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[64]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[64]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[65] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[65]/xmpG:swatchName = C=75 M=75 Y=38 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[65]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[65]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[65]/xmpG:cyan = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[65]/xmpG:magenta = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[65]/xmpG:yellow = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[65]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[66] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[66]/xmpG:swatchName = C=100 M=100 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[66]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[66]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[66]/xmpG:cyan = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[66]/xmpG:magenta = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[66]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[66]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[67] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[67]/xmpG:swatchName = C=0 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[67]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[67]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[67]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[67]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[67]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[67]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[68] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[68]/xmpG:swatchName = C=13 M=25 Y=13 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[68]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[68]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[68]/xmpG:cyan = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[68]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[68]/xmpG:yellow = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[68]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[69] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[69]/xmpG:swatchName = C=25 M=50 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[69]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[69]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[69]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[69]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[69]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[69]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[70] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[70]/xmpG:swatchName = C=38 M=75 Y=38 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[70]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[70]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[70]/xmpG:cyan = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[70]/xmpG:magenta = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[70]/xmpG:yellow = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[70]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[71] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[71]/xmpG:swatchName = C=50 M=100 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[71]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[71]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[71]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[71]/xmpG:magenta = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[71]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[71]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[72] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[72]/xmpG:swatchName = C=13 M=25 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[72]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[72]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[72]/xmpG:cyan = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[72]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[72]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[72]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[73] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[73]/xmpG:swatchName = C=25 M=50 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[73]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[73]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[73]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[73]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[73]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[73]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[74] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[74]/xmpG:swatchName = C=38 M=75 Y=75 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[74]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[74]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[74]/xmpG:cyan = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[74]/xmpG:magenta = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[74]/xmpG:yellow = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[74]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[75] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[75]/xmpG:swatchName = C=50 M=100 Y=100 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[75]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[75]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[75]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[75]/xmpG:magenta = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[75]/xmpG:yellow = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[75]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[76] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[76]/xmpG:swatchName = C=0 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[76]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[76]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[76]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[76]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[76]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[76]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[77] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[77]/xmpG:swatchName = C=13 M=13 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[77]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[77]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[77]/xmpG:cyan = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[77]/xmpG:magenta = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[77]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[77]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[78] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[78]/xmpG:swatchName = C=25 M=25 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[78]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[78]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[78]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[78]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[78]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[78]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[79] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[79]/xmpG:swatchName = C=38 M=38 Y=75 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[79]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[79]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[79]/xmpG:cyan = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[79]/xmpG:magenta = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[79]/xmpG:yellow = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[79]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[80] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[80]/xmpG:swatchName = C=50 M=50 Y=100 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[80]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[80]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[80]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[80]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[80]/xmpG:yellow = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[80]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[81] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[81]/xmpG:swatchName = C=25 M=13 Y=25 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[81]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[81]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[81]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[81]/xmpG:magenta = 12.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[81]/xmpG:yellow = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[81]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[82] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[82]/xmpG:swatchName = C=50 M=25 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[82]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[82]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[82]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[82]/xmpG:magenta = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[82]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[82]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[83] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[83]/xmpG:swatchName = C=75 M=38 Y=75 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[83]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[83]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[83]/xmpG:cyan = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[83]/xmpG:magenta = 37.500000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[83]/xmpG:yellow = 75.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[83]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[84] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[84]/xmpG:swatchName = C=100 M=50 Y=100 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[84]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[84]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[84]/xmpG:cyan = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[84]/xmpG:magenta = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[84]/xmpG:yellow = 100.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[84]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[85] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[85]/xmpG:swatchName = C=0 M=0 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[85]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[85]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[85]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[85]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[85]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[85]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[86] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[86]/xmpG:swatchName = K=30
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[86]/xmpG:mode = GRAY
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[86]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[86]/xmpG:gray = 76
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[87] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[87]/xmpG:swatchName = C=0 M=0 Y=50 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[87]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[87]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[87]/xmpG:cyan = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[87]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[87]/xmpG:yellow = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[87]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[88] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[88]/xmpG:swatchName = C=20 M=40 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[88]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[88]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[88]/xmpG:cyan = 19.999998
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[88]/xmpG:magenta = 39.999996
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[88]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[88]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[89] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[89]/xmpG:swatchName = C=50 M=70 Y=0 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[89]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[89]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[89]/xmpG:cyan = 50.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[89]/xmpG:magenta = 70.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[89]/xmpG:yellow = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[89]/xmpG:black = 0.000000
+[XMPMeta - ] xmpTPg:SwatchGroups[1]/xmpG:Colorants[90] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[90]/xmpG:swatchName = C=25 M=0 Y=21 K=0
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[90]/xmpG:mode = CMYK
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[90]/xmpG:type = PROCESS
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[90]/xmpG:cyan = 25.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[90]/xmpG:magenta = 0.000000
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[90]/xmpG:yellow = 20.999998
+[XMPMeta - http://ns.adobe.com/xap/1.0/g/] xmpTPg:SwatchGroups[1]/xmpG:Colorants[90]/xmpG:black = 0.000000
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:01801174072068118F62F5D4009E84F4
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:02801174072068118F62F5D4009E84F4
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:01801174072068118F62F5D4009E84F4
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
+[XMPMeta - ] xmpMM:History[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = converted
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:parameters = from application/postscript to application/vnd.adobe.illustrator
+[XMPMeta - ] xmpMM:History[2] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = converted
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:parameters = from application/postscript to application/vnd.adobe.illustrator
+[XMPMeta - ] xmpMM:History[3] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[3]/stEvt:action = converted
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[3]/stEvt:parameters = from application/postscript to application/vnd.adobe.photoshop
+[XMPMeta - ] xmpMM:History[4] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[4]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[4]/stEvt:instanceID = xmp.iid:01801174072068118F62F5D4009E84F4
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[4]/stEvt:when = 2011-08-17T19:57:05+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[4]/stEvt:softwareAgent = Adobe Photoshop CS5 Macintosh
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[4]/stEvt:changed = /
+[XMPMeta - ] xmpMM:History[5] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[5]/stEvt:action = converted
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[5]/stEvt:parameters = from application/postscript to image/jpeg
+[XMPMeta - ] xmpMM:History[6] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[6]/stEvt:action = derived
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[6]/stEvt:parameters = converted from application/vnd.adobe.photoshop to image/jpeg
+[XMPMeta - ] xmpMM:History[7] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[7]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[7]/stEvt:instanceID = xmp.iid:02801174072068118F62F5D4009E84F4
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[7]/stEvt:when = 2011-08-17T19:57:05+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[7]/stEvt:softwareAgent = Adobe Photoshop CS5 Macintosh
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[7]/stEvt:changed = /
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:01801174072068118F62F5D4009E84F4
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = xmp.did:01801174072068118F62F5D4009E84F4
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:originalDocumentID = xmp.did:01801174072068118F62F5D4009E84F4
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = sRGB IEC61966-2.1
+
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino
 [ICC Profile - 0x0008] Version = 2.1.0

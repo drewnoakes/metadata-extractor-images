@@ -121,6 +121,33 @@ FILE: Nikon Coolpix P340.jpg
 [XMP - 0x0205] Metadata Date = 2014-04-21T12:34:09-07:00
 [XMP - 0x0206] Modify Date = 2014-04-13T13:42:27
 
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = COOLPIX P340   V1.0
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2014-04-13T13:42:27
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2014-04-13T13:42:27
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2014-04-21T12:34:09-07:00
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2014-04-13T13:42:27
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = FC2AE9DFAB89FE5D4143B4301C6FA895
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = FC2AE9DFAB89FE5D4143B4301C6FA895
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:bf9ce32d-9fd5-4c95-8e5b-6c11b7bada3a
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
+[XMPMeta - ] xmpMM:History[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:f4b9c024-551d-4c96-a10c-9119ac8bb8f2
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2014-04-21T12:34:09-07:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.4
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /metadata
+[XMPMeta - ] xmpMM:History[2] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:bf9ce32d-9fd5-4c95-8e5b-6c11b7bada3a
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:when = 2014-04-21T12:34:09-07:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.4 (Macintosh)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /metadata
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
+
 [Photoshop - 0x0425] Caption Digest = 107 180 113 1 94 65 137 38 164 167 14 128 146 57 4 243
 
 [IPTC - 0x015a] Coded Character Set = UTF-8

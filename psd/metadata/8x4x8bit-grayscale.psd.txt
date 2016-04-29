@@ -37,6 +37,27 @@ FILE: 8x4x8bit-Grayscale.psd
 [XMP - 0x0205] Metadata Date = 2012-05-22T15:52:27+01:00
 [XMP - 0x0206] Modify Date = 2012-05-22T15:52:27+01:00
 
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS5 Windows
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2012-05-22T15:52:27+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2012-05-22T15:52:27+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2012-05-22T15:52:27+01:00
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = application/vnd.adobe.photoshop
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:85C8F0A71DA4E1119A15DFB9448C3622
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:85C8F0A71DA4E1119A15DFB9448C3622
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:85C8F0A71DA4E1119A15DFB9448C3622
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
+[XMPMeta - ] xmpMM:History[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = created
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:85C8F0A71DA4E1119A15DFB9448C3622
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2012-05-22T15:52:27+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop CS5 Windows
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 1
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = Dot Gain 20%
+
 [ICC Profile - 0x0000] Profile Size = 912
 [ICC Profile - 0x0004] CMM Type = ADBE
 [ICC Profile - 0x0008] Version = 2.1.0

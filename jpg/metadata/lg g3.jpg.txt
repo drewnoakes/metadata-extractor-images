@@ -50,6 +50,35 @@ FILE: LG G3.jpg
 [XMP - 0x0206] Modify Date = 2014-11-14T14:10:41
 [XMP - 0x1001] Rating = 2
 
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2014-11-14T14:10:41
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2014-11-14T14:10:41
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 2
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2014-11-16T00:04:56Z
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2014-11-14T14:10:41
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = 6DDE7223B322893924FBF8E07EB607B8
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = 6DDE7223B322893924FBF8E07EB607B8
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:e3048346-c172-4ddc-83e1-d6261e02783a
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
+[XMPMeta - ] xmpMM:History[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:f922aed5-334b-4911-b008-bdd5223dc440
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2014-11-16T00:04:56Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.6
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /metadata
+[XMPMeta - ] xmpMM:History[2] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:e3048346-c172-4ddc-83e1-d6261e02783a
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:when = 2014-11-16T00:04:56Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.6 (Macintosh)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /metadata
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
+[XMPMeta - http://cipa.jp/exif/1.0/]  = 
+[XMPMeta - http://cipa.jp/exif/1.0/] exifEX:PhotographicSensitivity = 50
+
 [Photoshop - 0x0425] Caption Digest = 247 106 131 105 11 43 247 79 253 249 34 245 6 22 67 236
 
 [IPTC - 0x015a] Coded Character Set = UTF-8

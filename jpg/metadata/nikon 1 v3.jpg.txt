@@ -128,6 +128,18 @@ FILE: Nikon 1 V3.jpg
 [XMP - 0xffff] XMP Value Count = 7
 [XMP - 0x1001] Rating = 0
 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2014-06-06T17:10:24-07:00
+[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/]  = 
+[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:ColorClass = 0
+[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:Tagged = True
+[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:Prefs = 1:0:0:005073
+[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:PMVersion = PM5
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ImageNumber = 5073
+
 [Photoshop - 0x03ed] Resolution Info = 200x200 DPI
 [Photoshop - 0x040a] Copyright Flag = No
 

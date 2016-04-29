@@ -77,6 +77,39 @@ FILE: Pentax QS1.jpg
 [XMP - 0x0206] Modify Date = 2015-01-08T14:41:16
 [XMP - 0x1001] Rating = 4
 
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = PENTAX Q-S1   Ver 1.00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2015-01-08T14:41:16
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2015-01-08T14:41:15
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 4
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2015-01-11T18:13:52Z
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:SerialNumber = 2587411
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensInfo = 50/10 150/10 28/10 45/10
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Lens = 02 STANDARD ZOOM
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensID = 21 2
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2015-01-08T14:41:15
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = CAA01B91613E121532F467F58643E361
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = CAA01B91613E121532F467F58643E361
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:77c9899b-c965-4f81-ad51-43c545125987
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
+[XMPMeta - ] xmpMM:History[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:51c0b84f-8841-4da8-a089-5a626a74608f
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2015-01-11T18:13:52Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.7
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /metadata
+[XMPMeta - ] xmpMM:History[2] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:77c9899b-c965-4f81-ad51-43c545125987
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:when = 2015-01-11T18:13:52Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.7.1 (Macintosh)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /metadata
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
+
 [Photoshop - 0x0425] Caption Digest = 110 38 73 217 175 196 10 86 255 11 212 14 177 67 34 134
 
 [IPTC - 0x015a] Coded Character Set = UTF-8

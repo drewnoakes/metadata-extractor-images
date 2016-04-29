@@ -142,6 +142,41 @@ FILE: Nikon D3300.jpg
 [XMP - 0x0206] Modify Date = 2014-02-19T13:47:19.00
 [XMP - 0x1001] Rating = 3
 
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 3
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Ver.1.00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2014-02-19T13:47:19.00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2014-02-19T13:47:19.00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2014-03-05T11:13:11-08:00
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensInfo = 180/10 550/10 35/10 56/10
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Lens = 18.0-55.0 mm f/3.5-5.6
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ImageNumber = 156
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:SerialNumber = 3000205
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensID = 162
+[XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ApproximateFocusDistance = 84/100
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2014-02-19T13:47:19.00
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = 5B5C8FE12502D95C276314F22B36AE34
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = 5B5C8FE12502D95C276314F22B36AE34
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:c2ec18fd-c3c8-44fb-bc38-7337ed425dad
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
+[XMPMeta - ] xmpMM:History[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:1e202625-672e-47d6-b985-0fb467e4c001
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2014-02-26T20:18:15-08:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.2
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /metadata
+[XMPMeta - ] xmpMM:History[2] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:c2ec18fd-c3c8-44fb-bc38-7337ed425dad
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:when = 2014-03-05T11:13:11-08:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.4 (Macintosh)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /metadata
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
+
 [Photoshop - 0x0425] Caption Digest = 169 110 129 242 241 89 147 111 97 247 171 203 74 152 102 24
 
 [IPTC - 0x015a] Coded Character Set = UTF-8

@@ -59,6 +59,14 @@ FILE: Sony Ericsson U10i.jpg
 
 [XMP - 0xffff] XMP Value Count = 6
 
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/]  = 
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:mcc = 460
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:mnc = 0
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:lac = 4236
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:cellid = 50280
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:r = 3
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:cgi = 460-0-4236-50280
+
 [File - 0x0001] File Name = Sony Ericsson U10i.jpg
 [File - 0x0002] File Size = 1522541 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>

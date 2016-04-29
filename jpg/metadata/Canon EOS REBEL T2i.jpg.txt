@@ -197,6 +197,18 @@ FILE: Canon EOS REBEL T2i.jpg
 [XMP - 0x0203] Creator Tool = Microsoft Windows Photo Viewer 6.1.7600.16385
 [XMP - 0x2001] Subject = piano
 
+[XMPMeta - http://ns.microsoft.com/photo/1.0/]  = 
+[XMPMeta - http://ns.microsoft.com/photo/1.0/] MicrosoftPhoto:DateAcquired = 2012-02-04T21:21:09.481
+[XMPMeta - http://ns.microsoft.com/photo/1.0/] MicrosoftPhoto:LastKeywordXMP = 
+[XMPMeta - ] MicrosoftPhoto:LastKeywordXMP[1] = piano
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:subject = 
+[XMPMeta - ] dc:subject[1] = piano
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Microsoft Windows Photo Viewer 6.1.7600.16385
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b
+
 [File - 0x0001] File Name = Canon EOS REBEL T2i.jpg
 [File - 0x0002] File Size = 5598660 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
