@@ -1,58 +1,58 @@
 FILE: sample_mpeg4.mp4
 
-[Quicktime File Type - 0x0001] Major Brand = mp42
-[Quicktime File Type - 0x0002] Minor Version = 1
-[Quicktime File Type - 0x0003] Compatible Brands = System.Collections.Generic.List`1[System.String]
+[QuickTime File Type - 0x0001] Major Brand = mp42
+[QuickTime File Type - 0x0002] Minor Version = 1
+[QuickTime File Type - 0x0003] Compatible Brands = System.Collections.Generic.List`1[System.String]
 
-[Quicktime Movie Header - 0x0001] Version = 0
-[Quicktime Movie Header - 0x0002] Flags = 0 0 0
-[Quicktime Movie Header - 0x0003] Created = Fri Oct 28 17:46:46 2005
-[Quicktime Movie Header - 0x0004] Modified = Fri Oct 28 17:46:46 2005
-[Quicktime Movie Header - 0x0005] TrackId = 600
-[Quicktime Movie Header - 0x0006] Duration = 00:00:04.9670000
-[Quicktime Movie Header - 0x0007] Preferred Rate = 1
-[Quicktime Movie Header - 0x0008] Preferred Volume = 1
-[Quicktime Movie Header - 0x0009] Matrix = [36 values]
-[Quicktime Movie Header - 0x000a] Preview Time = 0
-[Quicktime Movie Header - 0x000b] Preview Duration = 0
-[Quicktime Movie Header - 0x000c] Poster Time = 0
-[Quicktime Movie Header - 0x000d] Selection Time = 0
-[Quicktime Movie Header - 0x000e] Selection Duration = 0
-[Quicktime Movie Header - 0x000f] Current Time = 0
-[Quicktime Movie Header - 0x0010] Next Track Id = 3
+[QuickTime Movie Header - 0x0001] Version = 0
+[QuickTime Movie Header - 0x0002] Flags = 0 0 0
+[QuickTime Movie Header - 0x0003] Created = Fri Oct 28 17:46:46 2005
+[QuickTime Movie Header - 0x0004] Modified = Fri Oct 28 17:46:46 2005
+[QuickTime Movie Header - 0x0005] TrackId = 600
+[QuickTime Movie Header - 0x0006] Duration = 00:00:04.9670000
+[QuickTime Movie Header - 0x0007] Preferred Rate = 1
+[QuickTime Movie Header - 0x0008] Preferred Volume = 1
+[QuickTime Movie Header - 0x0009] Matrix = [36 values]
+[QuickTime Movie Header - 0x000a] Preview Time = 0
+[QuickTime Movie Header - 0x000b] Preview Duration = 0
+[QuickTime Movie Header - 0x000c] Poster Time = 0
+[QuickTime Movie Header - 0x000d] Selection Time = 0
+[QuickTime Movie Header - 0x000e] Selection Duration = 0
+[QuickTime Movie Header - 0x000f] Current Time = 0
+[QuickTime Movie Header - 0x0010] Next Track Id = 3
 
-[Quicktime Track Header - 0x0001] Version = 0
-[Quicktime Track Header - 0x0002] Flags = 0 0 1
-[Quicktime Track Header - 0x0003] Created = Fri Oct 28 17:46:46 2005
-[Quicktime Track Header - 0x0004] Modified = Fri Oct 28 17:46:46 2005
-[Quicktime Track Header - 0x0005] TrackId = 1
-[Quicktime Track Header - 0x0006] Duration = 2980
-[Quicktime Track Header - 0x0007] Layer = 0
-[Quicktime Track Header - 0x0008] Alternate Group = 0
-[Quicktime Track Header - 0x0009] Volume = 1
-[Quicktime Track Header - 0x000a] Width = 0
-[Quicktime Track Header - 0x000b] Height = 0
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 1
+[QuickTime Track Header - 0x0003] Created = Fri Oct 28 17:46:46 2005
+[QuickTime Track Header - 0x0004] Modified = Fri Oct 28 17:46:46 2005
+[QuickTime Track Header - 0x0005] TrackId = 1
+[QuickTime Track Header - 0x0006] Duration = 2980
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
 
-[Quicktime Track Header - 0x0001] Version = 0
-[Quicktime Track Header - 0x0002] Flags = 0 0 1
-[Quicktime Track Header - 0x0003] Created = Fri Oct 28 17:46:46 2005
-[Quicktime Track Header - 0x0004] Modified = Fri Oct 28 17:46:46 2005
-[Quicktime Track Header - 0x0005] TrackId = 2
-[Quicktime Track Header - 0x0006] Duration = 2980
-[Quicktime Track Header - 0x0007] Layer = 0
-[Quicktime Track Header - 0x0008] Alternate Group = 0
-[Quicktime Track Header - 0x0009] Volume = 0
-[Quicktime Track Header - 0x000a] Width = 190
-[Quicktime Track Header - 0x000b] Height = 240
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 1
+[QuickTime Track Header - 0x0003] Created = Fri Oct 28 17:46:46 2005
+[QuickTime Track Header - 0x0004] Modified = Fri Oct 28 17:46:46 2005
+[QuickTime Track Header - 0x0005] TrackId = 2
+[QuickTime Track Header - 0x0006] Duration = 2980
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000a] Width = 190
+[QuickTime Track Header - 0x000b] Height = 240
 
 [File - 0x0001] File Name = sample_mpeg4.mp4
 [File - 0x0002] File Size = 245779 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
-- Quicktime File Type
-- Quicktime Movie Header
-- Quicktime Track Header
-- Quicktime Track Header
+- QuickTime File Type
+- QuickTime Movie Header
+- QuickTime Track Header
+- QuickTime Track Header
 - File
 
 Generated using metadata-extractor
