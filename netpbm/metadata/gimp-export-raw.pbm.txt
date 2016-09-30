@@ -1,0 +1,6 @@
+FILE: gimp-export-raw.pbm
+
+EXCEPTION: MaxValue is not parseable as an integer.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
