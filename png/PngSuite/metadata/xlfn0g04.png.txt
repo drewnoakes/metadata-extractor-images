@@ -1,0 +1,6 @@
+FILE: xlfn0g04.png
+
+EXCEPTION: File format is not supported
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

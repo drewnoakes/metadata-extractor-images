@@ -1,0 +1,13 @@
+FILE: xc9n2c08.png
+
+[PNG-gAMA - 0x000b] Image Gamma = 1
+
+[File - 0x0001] File Name = xc9n2c08.png
+[File - 0x0002] File Size = 145 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-gAMA
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
