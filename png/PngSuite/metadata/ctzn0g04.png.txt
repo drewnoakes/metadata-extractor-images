@@ -15,6 +15,18 @@ FILE: ctzn0g04.png
 [PNG-iTXt - 0x000d] Textual Data = Author: Willem A.J. van Schaik
 (willem@schaik.com)
 
+[PNG-zTXt - 0x000d] Textual Data = Copyright: Copyright Willem van Schaik, Singapore 1995-96
+
+[PNG-zTXt - 0x000d] Textual Data = Description: A compilation of a set of images created to test the
+various color-types of the PNG format. Included are
+black&white, color, paletted, with alpha channel, with
+transparency formats. All bit-depths allowed according
+to the spec are present.
+
+[PNG-zTXt - 0x000d] Textual Data = Software: Created on a NeXTstation color using "pnmtopng".
+
+[PNG-zTXt - 0x000d] Textual Data = Disclaimer: Freeware.
+
 [File - 0x0001] File Name = ctzn0g04.png
 [File - 0x0002] File Size = 753 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -23,6 +35,10 @@ FILE: ctzn0g04.png
 - PNG-gAMA
 - PNG-iTXt
 - PNG-iTXt
+- PNG-zTXt
+- PNG-zTXt
+- PNG-zTXt
+- PNG-zTXt
 - File
 
 Generated using metadata-extractor
