@@ -24,11 +24,10 @@ FILE: Reconyx HC500 firmware 3.3.0.jpg
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
 
 [Reconyx Makernote - 0x0000] Makernote Version = 61697
-[Reconyx Makernote - 0x0002] Firmware Version = 3.3.0
-[Reconyx Makernote - 0x0008] Firmware Date = 8209 272
+[Reconyx Makernote - 0x0002] Firmware Version = 3.3.0.20110110
 [Reconyx Makernote - 0x000c] Trigger Mode = M
 [Reconyx Makernote - 0x000e] Sequence = 4/5
-[Reconyx Makernote - 0x0012] Event Number = 0 7
+[Reconyx Makernote - 0x0012] Event Number = 7
 [Reconyx Makernote - 0x0016] Date/Time Original = 2015:05:07 08:08:31
 [Reconyx Makernote - 0x0024] Moon Phase = Waning Gibbous
 [Reconyx Makernote - 0x0026] Ambient Temperature Farenheit = 23
