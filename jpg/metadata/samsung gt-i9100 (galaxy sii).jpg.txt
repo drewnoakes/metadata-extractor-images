@@ -36,7 +36,6 @@ FILE: Samsung GT-I9100 (Galaxy SII).jpg
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash fired
 [Exif SubIFD - 0x920a] Focal Length = 4 mm
-[Exif SubIFD - 0x927c] Makernote = [66 values]
 [Exif SubIFD - 0x9286] User Comment = User comments
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
@@ -46,6 +45,12 @@ FILE: Samsung GT-I9100 (Galaxy SII).jpg
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa420] Unique Image ID = OCEE09
+
+[Samsung Makernote - 0x0001] Maker Note Version = 1.00
+[Samsung Makernote - 0x0002] Device Type = Cell Phone
+[Samsung Makernote - 0x0040] Unknown tag (0x0040) = 0
+[Samsung Makernote - 0x0050] Unknown tag (0x0050) = 1
+[Samsung Makernote - 0x0100] Face Detect = Off
 
 [Exif Thumbnail - 0x0100] Image Width = 320 pixels
 [Exif Thumbnail - 0x0101] Image Height = 240 pixels
@@ -64,6 +69,7 @@ FILE: Samsung GT-I9100 (Galaxy SII).jpg
 - JPEG
 - Exif IFD0
     - Exif SubIFD
+        - Samsung Makernote
     - Exif Thumbnail
 - File
 

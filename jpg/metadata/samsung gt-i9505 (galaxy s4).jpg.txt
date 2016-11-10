@@ -27,7 +27,6 @@ FILE: Samsung GT-I9505 (Galaxy S4).jpg
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:11:27 17:52:49
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
-[Exif SubIFD - 0x927c] Makernote = [98 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 4128 pixels
@@ -35,6 +34,14 @@ FILE: Samsung GT-I9505 (Galaxy S4).jpg
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Night scene
+
+[Samsung Makernote - 0x0001] Maker Note Version = 1.00
+[Samsung Makernote - 0x0002] Device Type = Cell Phone
+[Samsung Makernote - 0x000c] Unknown tag (0x000c) = 0
+[Samsung Makernote - 0x0010] Unknown tag (0x0010) = 92/98452
+[Samsung Makernote - 0x0040] Unknown tag (0x0040) = 0
+[Samsung Makernote - 0x0050] Unknown tag (0x0050) = 1
+[Samsung Makernote - 0x0100] Face Detect = Off
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -46,6 +53,7 @@ FILE: Samsung GT-I9505 (Galaxy S4).jpg
 - JPEG
 - Exif IFD0
     - Exif SubIFD
+        - Samsung Makernote
         - Interoperability
 - File
 

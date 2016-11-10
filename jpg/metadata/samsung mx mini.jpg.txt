@@ -35,7 +35,6 @@ FILE: Samsung MX mini.jpg
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 9 mm
-[Exif SubIFD - 0x927c] Makernote = [39322 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 5472 pixels
@@ -51,6 +50,20 @@ FILE: Samsung MX mini.jpg
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa432] Lens Specification = 9mm f/3.5-13.0
 [Exif SubIFD - 0xa434] Lens Model = NX-M 9mm F3.5
+
+[Samsung Makernote - 0x0001] Maker Note Version = 1.00
+[Samsung Makernote - 0x0002] Device Type = Compact Digital Camera
+[Samsung Makernote - 0x0003] Model Id = Various Models (0x3000000)
+[Samsung Makernote - 0x0022] Unknown tag (0x0022) = 1
+[Samsung Makernote - 0x0030] Unknown tag (0x0030) = 0
+[Samsung Makernote - 0x0031] Unknown tag (0x0031) = 0
+[Samsung Makernote - 0x003f] Unknown tag (0x003f) = 0 0
+[Samsung Makernote - 0x0060] Unknown tag (0x0060) = [6000 values]
+[Samsung Makernote - 0x0080] Unknown tag (0x0080) = [20000 values]
+[Samsung Makernote - 0x00a0] Unknown tag (0x00a0) = [7000 values]
+[Samsung Makernote - 0x00a1] Unknown tag (0x00a1) = 
+[Samsung Makernote - 0x00c0] Unknown tag (0x00c0) = [6144 values]
+[Samsung Makernote - 0x00e0] Unknown tag (0x00e0) = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -70,6 +83,7 @@ FILE: Samsung MX mini.jpg
 - JPEG
 - Exif IFD0
     - Exif SubIFD
+        - Samsung Makernote
         - Interoperability
     - Exif Thumbnail
 - File

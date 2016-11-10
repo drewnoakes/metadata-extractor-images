@@ -37,7 +37,6 @@ FILE: Samsung SM-C115 (Galaxy K Zoom).jpg
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 44 mm
-[Exif SubIFD - 0x927c] Makernote = [22122 values]
 [Exif SubIFD - 0x9286] User Comment = User comments
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
@@ -50,6 +49,15 @@ FILE: Samsung SM-C115 (Galaxy K Zoom).jpg
 [Exif SubIFD - 0xa405] Focal Length 35 = 245 mm
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa420] Unique Image ID = D20FSHE06DA
+
+[Samsung Makernote - 0x0001] Maker Note Version = 1.00
+[Samsung Makernote - 0x0002] Device Type = Cell Phone
+[Samsung Makernote - 0x000c] Unknown tag (0x000c) = 0
+[Samsung Makernote - 0x0010] Unknown tag (0x0010) = 2/131377
+[Samsung Makernote - 0x0040] Unknown tag (0x0040) = 0
+[Samsung Makernote - 0x0050] Unknown tag (0x0050) = 1
+[Samsung Makernote - 0x0060] Unknown tag (0x0060) = [22012 values]
+[Samsung Makernote - 0x0100] Face Detect = Off
 
 [Exif Thumbnail - 0x0100] Image Width = 160 pixels
 [Exif Thumbnail - 0x0101] Image Height = 120 pixels
@@ -68,6 +76,7 @@ FILE: Samsung SM-C115 (Galaxy K Zoom).jpg
 - JPEG
 - Exif IFD0
     - Exif SubIFD
+        - Samsung Makernote
     - Exif Thumbnail
 - File
 

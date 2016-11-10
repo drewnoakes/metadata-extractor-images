@@ -33,7 +33,6 @@ FILE: Leica T (Typ 701).jpg
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 18 mm
-[Exif SubIFD - 0x927c] Makernote = [5914 values]
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 4928 pixels
@@ -48,6 +47,34 @@ FILE: Leica T (Typ 701).jpg
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
+
+[Leica Makernote - 0x0302] Unknown tag (0x0302) = 255 0 0 0
+[Leica Makernote - 0x0303] Lens Model = Vario-Elmar T 1:3.5-5.6 / 18-56 ASPH.                       
+[Leica Makernote - 0x0304] Unknown tag (0x0304) = 0
+[Leica Makernote - 0x0305] Unknown tag (0x0305) = 0
+[Leica Makernote - 0x0306] Unknown tag (0x0306) = 0 0 0 0
+[Leica Makernote - 0x0400] Unknown tag (0x0400) = 0 0 0 0
+[Leica Makernote - 0x0401] Unknown tag (0x0401) = 0 11 0 0
+[Leica Makernote - 0x0402] Unknown tag (0x0402) = 0 0 0 0
+[Leica Makernote - 0x0404] Unknown tag (0x0404) = 1 0 0 0
+[Leica Makernote - 0x0405] Unknown tag (0x0405) = 0 0 0 0
+[Leica Makernote - 0x0406] Unknown tag (0x0406) = 3 3 3 3
+[Leica Makernote - 0x0407] Original File Name = L1110033.JPG
+[Leica Makernote - 0x0408] Original Directory = 111LEICA
+[Leica Makernote - 0x0409] Unknown tag (0x0409) = 0
+[Leica Makernote - 0x040a] Unknown tag (0x040a) = 568 18000 0 0
+[Leica Makernote - 0x040b] Unknown tag (0x040b) = 0 1 0 0
+[Leica Makernote - 0x040c] Unknown tag (0x040c) = 0 0 0 0
+[Leica Makernote - 0x040d] Exposure Mode = Aperture-priority AE (1)
+[Leica Makernote - 0x040e] Unknown tag (0x040e) = 255 0 0 0
+[Leica Makernote - 0x040f] Unknown tag (0x040f) = 1 3 0 0
+[Leica Makernote - 0x0410] Shot Info = 33 0 42 18 12 24 4 222 7 0 0 0 0 0 0 0
+[Leica Makernote - 0x0411] Unknown tag (0x0411) = 1 0 0 0
+[Leica Makernote - 0x0412] Film Mode = Standard
+[Leica Makernote - 0x0413] WB RGB Levels = 256/697 512/511 256/403
+[Leica Makernote - 0x04ff] Unknown tag (0x04ff) = [852 values]
+[Leica Makernote - 0x0500] Unknown tag (0x0500) = 48 48 48 48 48 48 48 48 48 48 48 48
+[Leica Makernote - 0x05ff] Unknown tag (0x05ff) = [4540 values]
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -80,6 +107,7 @@ FILE: Leica T (Typ 701).jpg
 - JPEG
 - Exif IFD0
     - Exif SubIFD
+        - Leica Makernote
         - Interoperability
     - GPS
     - Exif Thumbnail

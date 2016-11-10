@@ -55,7 +55,6 @@ FILE: Sony DSLR-A500.arw
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
 [Exif SubIFD - 0x920a] Focal Length = 18 mm
-[Exif SubIFD - 0x927c] Makernote = [43132 values]
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
@@ -71,6 +70,41 @@ FILE: Sony DSLR-A500.arw
 [Exif SubIFD - 0xa408] Contrast = None
 [Exif SubIFD - 0xa409] Saturation = None
 [Exif SubIFD - 0xa40a] Sharpness = None
+
+[Sony Makernote - 0x0010] Camera Info = [15360 values]
+[Sony Makernote - 0x0018] Unknown tag (0x0018) = [4096 values]
+[Sony Makernote - 0x0020] Focus Info = [20480 values]
+[Sony Makernote - 0x0102] Image Quality = RAW + JPEG
+[Sony Makernote - 0x0104] Flash Exposure Compensation = 0 EV
+[Sony Makernote - 0x0105] Teleconverter Model = None
+[Sony Makernote - 0x0112] White Balance Fine Tune Value = 0
+[Sony Makernote - 0x0114] Camera Settings = [2048 values]
+[Sony Makernote - 0x0115] White Balance = Auto
+[Sony Makernote - 0x0116] Extra Info = [30 values]
+[Sony Makernote - 0x2000] Unknown tag (0x2000) = 0
+[Sony Makernote - 0x2002] Rating = 0
+[Sony Makernote - 0x2003] Unknown tag (0x2003) = 
+[Sony Makernote - 0x2004] Contrast = 0
+[Sony Makernote - 0x2005] Saturation = 0
+[Sony Makernote - 0x2006] Sharpness = 0
+[Sony Makernote - 0x2007] Brightness = 0
+[Sony Makernote - 0x2008] Long Exposure Noise Reduction = 0
+[Sony Makernote - 0x2009] High ISO Noise Reduction = Off
+[Sony Makernote - 0xb000] File Format = 3 1 0 0
+[Sony Makernote - 0xb001] Sony Model ID = DSLR-A500
+[Sony Makernote - 0xb020] Color Mode Setting = Standard
+[Sony Makernote - 0xb021] Color Temperature = Auto
+[Sony Makernote - 0xb022] Color Compensation Filter = 0
+[Sony Makernote - 0xb023] Scene Mode = Standard
+[Sony Makernote - 0xb024] Zone Matching = ISO Setting Used
+[Sony Makernote - 0xb025] Dynamic Range Optimizer = Auto
+[Sony Makernote - 0xb026] Image Stabilisation = On
+[Sony Makernote - 0xb027] Lens ID = 55
+[Sony Makernote - 0xb029] Color Mode = Standard
+[Sony Makernote - 0xb02a] Lens Spec = 1 0 24 0 85 53 86 2
+[Sony Makernote - 0xb02b] Full Image Size = 2848 4272
+[Sony Makernote - 0xb02c] Preview Image Size = 1080 1616
+[Sony Makernote - 0x900b] Unknown tag (0x900b) = [400 values]
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -95,6 +129,7 @@ FILE: Sony DSLR-A500.arw
 - Exif IFD0
     - Exif SubIFD
     - Exif SubIFD
+        - Sony Makernote
         - Interoperability
     - Exif Thumbnail
 - File

@@ -1,10 +1,5 @@
 FILE: Sony DSC-P52.jpg
 
-[ERROR: Sony Makernote] Invalid TIFF tag format code 0 for tag 0x0000
-[ERROR: Sony Makernote] Invalid TIFF tag format code 0 for tag 0x0000
-[ERROR: Sony Makernote] Invalid TIFF tag format code 0 for tag 0x0000
-[ERROR: Sony Makernote] Invalid TIFF tag format code 0 for tag 0x0000
-
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 1224 pixels
