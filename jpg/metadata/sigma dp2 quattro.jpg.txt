@@ -1,7 +1,5 @@
 FILE: Sigma DP2 Quattro.jpg
 
-[ERROR: Exif Thumbnail] Invalid thumbnail data specification: Attempt to read from beyond end of underlying data source (requested index: 1648, requested count: 5728, max index: 7373)
-
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 7680 pixels
