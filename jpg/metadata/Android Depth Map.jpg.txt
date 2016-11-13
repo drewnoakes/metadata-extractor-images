@@ -1,0 +1,58 @@
+FILE: Android Depth Map.jpg
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1024 pixels
+[JPEG - 0x0003] Image Width = 768 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = none
+[JFIF - 0x0008] X Resolution = 1 dot
+[JFIF - 0x000a] Y Resolution = 1 dot
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif IFD0 - 0x0132] Date/Time = 2014:04:17 14:34:05
+
+[XMP - 0xffff] XMP Value Count = 10
+
+[XMPMeta - http://ns.google.com/photos/1.0/depthmap/]  = 
+[XMPMeta - http://ns.google.com/photos/1.0/depthmap/] GDepth:Far = 390.539306640625
+[XMPMeta - http://ns.google.com/photos/1.0/depthmap/] GDepth:Format = RangeInverse
+[XMPMeta - http://ns.google.com/photos/1.0/depthmap/] GDepth:Mime = image/png
+[XMPMeta - http://ns.google.com/photos/1.0/depthmap/] GDepth:Near = 12.423587799072266
+[XMPMeta - http://ns.google.com/photos/1.0/focus/]  = 
+[XMPMeta - http://ns.google.com/photos/1.0/focus/] GFocus:BlurAtInfinity = 0.013350779
+[XMPMeta - http://ns.google.com/photos/1.0/focus/] GFocus:FocalDistance = 16.577824
+[XMPMeta - http://ns.google.com/photos/1.0/focus/] GFocus:FocalPointX = 0.5208333
+[XMPMeta - http://ns.google.com/photos/1.0/focus/] GFocus:FocalPointY = 0.58125
+[XMPMeta - http://ns.google.com/photos/1.0/image/]  = 
+[XMPMeta - http://ns.google.com/photos/1.0/image/] GImage:Mime = image/jpeg
+[XMPMeta - http://ns.adobe.com/xmp/note/]  = 
+[XMPMeta - http://ns.adobe.com/xmp/note/] xmpNote:HasExtendedXMP = E0CC0C923EA0770C77E3E4EF99F538B3
+
+[XMP - 0xffff] XMP Value Count = 2
+
+[XMPMeta - http://ns.google.com/photos/1.0/depthmap/]  = 
+[XMPMeta - http://ns.google.com/photos/1.0/depthmap/] GDepth:Data = iVBORw0KGgoAAAANSUhEUgAAAwAAAAQACAYAAABWJj4AAAAABHNCSVQICAgIfAhkiAAAIABJREFUeJzsfely7DBuNdW77XtnJktV3v9d8jSpSubLzF3s3vT9uIF8BAMkuGnp5qlyubslkeAGHoAg1f3nf/5n754cfd8P/+mvYX50XTf80fc1ovWvhhqYeny08djwSHiU/jwXWv2tH7u5BZgDTeE3NDQ05IHr0UYAGhoaGtaDpzQAJDRvUENDQ4MO1I2N7Dc0NDSsG09tAOCE1oh/Q0PDWjAnAW+e/4aGhob146kNAOfG8aANDQ0NS8bc8baN/Dc0NDQ8Bp7CAAiR+0b+14FGPhoa3Gjj3Vzo+/6LDG18NjQ0NKwHT2EASGgx/8tHizluaPgEP3VjbrTx2dDQ0LBePJUB0GL+14lH8yx2Xdf6X0M2ljIOHm18NjQ0NDwDnsoAcK7F/K8Nj0YuQmETDQ1rwqONz4aGhoZnwUMaAC3m//EgxRyvDSQ/laX1 <truncated from 268496 characters>
+[XMPMeta - http://ns.google.com/photos/1.0/image/]  = 
+[XMPMeta - http://ns.google.com/photos/1.0/image/] GImage:Data = /9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAQAAwADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx <truncated from 252160 characters>
+
+[File - 0x0001] File Name = Android Depth Map.jpg
+[File - 0x0002] File Size = 605282 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+- XMP
+- XMP
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
