@@ -71,7 +71,7 @@ derived from a testcase provided by the excellent
 images do not contain any artistic content, but the project publishes them
 under the LGPL.
 
-== Images ==
+## Images
 
 ### 008b8bb75b8a487dc5aac86c9abb06fb.png FT
 
