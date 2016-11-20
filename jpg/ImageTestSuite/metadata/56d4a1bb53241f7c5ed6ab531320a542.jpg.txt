@@ -1,6 +1,6 @@
 FILE: 56d4a1bb53241f7c5ed6ab531320a542.jpg
 
-[ERROR: Exif IFD0] Exception processing TIFF data: Unclear distinction between Motorola/Intel byte ordering: 23629
+[ERROR: Error] Exception processing TIFF data: Unclear distinction between Motorola/Intel byte ordering: 23629
 
 [JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
 [JPEG - 0x0000] Data Precision = 8 bits
@@ -19,7 +19,7 @@ FILE: 56d4a1bb53241f7c5ed6ab531320a542.jpg
 
 - JPEG
 - JpegComment
-- Exif IFD0
+- Error
 - File
 
 Generated using metadata-extractor

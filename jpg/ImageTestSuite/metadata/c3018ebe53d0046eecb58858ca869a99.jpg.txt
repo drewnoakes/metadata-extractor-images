@@ -1,6 +1,6 @@
 FILE: c3018ebe53d0046eecb58858ca869a99.jpg
 
-[ERROR: Exif IFD0] Exception processing TIFF data: Unexpected TIFF marker: 0x132A
+[ERROR: Error] Exception processing TIFF data: Unexpected TIFF marker: 0x132A
 
 [JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
 [JPEG - 0x0000] Data Precision = 8 bits
@@ -22,7 +22,7 @@ FILE: c3018ebe53d0046eecb58858ca869a99.jpg
 
 - JPEG
 - JFIF
-- Exif IFD0
+- Error
 - File
 
 Generated using metadata-extractor

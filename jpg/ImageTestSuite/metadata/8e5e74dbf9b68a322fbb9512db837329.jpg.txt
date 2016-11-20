@@ -1,6 +1,6 @@
 FILE: 8e5e74dbf9b68a322fbb9512db837329.jpg
 
-[ERROR: Exif IFD0] Exception processing TIFF data: Unexpected TIFF marker: 0xD2
+[ERROR: Error] Exception processing TIFF data: Unexpected TIFF marker: 0xD2
 
 [JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
 [JPEG - 0x0000] Data Precision = 8 bits
@@ -19,7 +19,7 @@ FILE: 8e5e74dbf9b68a322fbb9512db837329.jpg
 
 - JPEG
 - JpegComment
-- Exif IFD0
+- Error
 - File
 
 Generated using metadata-extractor
