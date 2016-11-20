@@ -1,0 +1,43 @@
+FILE: m10-42c19f8e79e582bef107f372f18a074b.tif
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x0100] Image Width = 17 pixels
+[Exif IFD0 - 0x0101] Image Height = 45585 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0111] Strip Offsets = 29048
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 17 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 546 bytes
+[Exif IFD0 - 0x011a] X Resolution = 720090/10000 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 720090/10000 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Pho�oshop CS3 Macintosh
+[Exif IFD0 - 0x0132] Date/Time = 
+[Exif IFD0 - 0x013d] Predictor = 2
+[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x83bb] IPTC/NAA = 570556416 33554432
+[Exif IFD0 - 0x8773] Inter Color Profile = [4380 values]
+[Exif IFD0 - 0x935c] Unknown tag (0x935c) = [5628 values]
+
+[Exif SubIFD - 0xa001] Color Space = Unknown (13311)
+[Exif SubIFD - 0xa002] Exif Image Width = 17 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 17 pixels
+
+[File - 0x0001] File Name = m10-42c19f8e79e582bef107f372f18a074b.tif
+[File - 0x0002] File Size = 35272 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - Exif SubIFD
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

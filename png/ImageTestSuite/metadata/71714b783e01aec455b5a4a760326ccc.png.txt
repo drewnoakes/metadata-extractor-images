@@ -1,0 +1,28 @@
+FILE: 71714b783e01aec455b5a4a760326ccc.png
+
+[ERROR: ICC Profile] Exception reading ICC profile: Block length does not match with its complement.
+
+[PNG-IHDR - 0x0001] Image Width = 48
+[PNG-IHDR - 0x0002] Image Height = 48
+[PNG-IHDR - 0x0003] Bits Per Sample = 1
+[PNG-IHDR - 0x0004] Color Type = Indexed Color
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-PLTE - 0x0008] Palette Size = 1
+
+[PNG-iCCP - 0x000c] ICC Profile Name = Gamma 1.0 profile
+
+[File - 0x0001] File Name = 71714b783e01aec455b5a4a760326ccc.png
+[File - 0x0002] File Size = 519 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-PLTE
+- PNG-iCCP
+    - ICC Profile
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

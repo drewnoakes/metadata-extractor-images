@@ -1,0 +1,6 @@
+FILE: m8-336db1cd76254717eb50a8602b651fbf.tif
+
+EXCEPTION: File format is not supported
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

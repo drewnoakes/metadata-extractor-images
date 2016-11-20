@@ -1,0 +1,61 @@
+FILE: b1247c37897d354610a07ddfe17eb669.tif
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif IFD0 - 0x0100] Image Width = 1728 pixels
+[Exif IFD0 - 0x0101] Image Height = 2311 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = T4/Group 3 Fax
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x010a] Fill Order = Reversed
+[Exif IFD0 - 0x010e] Image Description = 
+[Exif IFD0 - 0x0111] Strip Offsets = 8
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 2311 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 38969 bytes
+[Exif IFD0 - 0x011a] X Resolution = 200 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 200 dots per inch
+[Exif IFD0 - 0x0124] Unknown tag (0x0124) = 0
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0129] Unknown tag (0x0129) = 0 0
+[Exif IFD0 - 0x0131] Software = Dialogic - Cheetah Dm3Fax version 1.00
+[Exif IFD0 - 0x0132] Date/Time = 2008:02:13 14:39:13
+[Exif IFD0 - 0x0146] Unknown tag (0x0146) = 2
+[Exif IFD0 - 0x0147] Unknown tag (0x0147) = 1
+[Exif IFD0 - 0x0148] Unknown tag (0x0148) = 2
+[Exif IFD0 - 0x9330] Unknown tag (0x9330) = [5632 values]
+
+[Exif Thumbnail - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif Thumbnail - 0x0100] Image Width = 1728 pixels
+[Exif Thumbnail - 0x0101] Image Height = 2305 pixels
+[Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Thumbnail - 0x0103] Compression = T4/Group 3 Fax
+[Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Thumbnail - 0x010a] Fill Order = Reversed
+[Exif Thumbnail - 0x010e] Image Description = 
+[Exif Thumbnail - 0x0111] Strip Offsets = 925900
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Thumbnail - 0x0116] Rows Per Strip = 2305 rows/strip
+[Exif Thumbnail - 0x0117] Strip Byte Counts = 15089 bytes
+[Exif Thumbnail - 0x011a] X Resolution = 200 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 200 dots per inch
+[Exif Thumbnail - 0x0124] Unknown tag (0x0124) = 0
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0129] Unknown tag (0x0129) = 23 0
+[Exif Thumbnail - 0x0131] Software = Dialogic - Cheetah Dm3Fax version 1.00
+[Exif Thumbnail - 0x0132] Date/Time = 2008:02:13 14:46:28
+[Exif Thumbnail - 0x0146] Unknown tag (0x0146) = 2
+[Exif Thumbnail - 0x0147] Unknown tag (0x0147) = 1
+[Exif Thumbnail - 0x0148] Unknown tag (0x0148) = 2
+
+[File - 0x0001] File Name = b1247c37897d354610a07ddfe17eb669.tif
+[File - 0x0002] File Size = 947050 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Thumbnail
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,17 @@
+FILE: e34116d68f49c7852b362ec72a636df5.gif
+
+[ERROR: GIF Header] Unable to read BMP header
+
+[GIF Header - 0x0001] GIF Format Version = 89a
+[GIF Header - 0x0002] Image Width = 100
+[GIF Header - 0x0003] Image Height = 100
+
+[File - 0x0001] File Name = e34116d68f49c7852b362ec72a636df5.gif
+[File - 0x0002] File Size = 10 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- GIF Header
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

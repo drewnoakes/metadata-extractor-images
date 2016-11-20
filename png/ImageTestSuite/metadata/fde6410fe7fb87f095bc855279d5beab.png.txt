@@ -1,0 +1,6 @@
+FILE: fde6410fe7fb87f095bc855279d5beab.png
+
+EXCEPTION: File format is not supported
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,39 @@
+FILE: m1-d1d366d7965db766c19a66c7a2ccbb6b.tif
+
+[ERROR: Exif IFD0] Invalid TIFF tag format code 57099 for tag 0x0001
+[ERROR: Exif IFD0] Invalid TIFF tag format code 51875 for tag 0x0000
+[ERROR: Exif IFD0] Invalid TIFF tag format code 8689 for tag 0x0000
+[ERROR: Exif IFD0] Invalid TIFF tag format code 12334 for tag 0x2031
+[ERROR: Exif IFD0] Invalid TIFF tag format code 13609 for tag 0x3136
+[ERROR: Exif IFD0] Invalid TIFF tag format code 12599 for tag 0x363A
+[ERROR: Exif IFD0] Stopping processing as too many errors seen in TIFF IFD
+
+[Exif IFD0 - 0x0100] Image Width = 324 pixels
+[Exif IFD0 - 0x0101] Image Height = 450 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = 
+[Exif IFD0 - 0x0111] Strip Offsets = 8 34168 86043 122635 170480
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 37477 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 34160 51875 36592 47845 8689 bytes
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0131] Software = Mac OS X 10.4.11 (8S165)
+[Exif IFD0 - 0x0132] Date/Time = 2008:06:17 10:03:36
+[Exif IFD0 - 0x013b] Artist = Matteo Della Torre
+[Exif IFD0 - 0x013d] Predictor = 2
+[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x0153] Unknown tag (0x0153) = 1 1 1 1
+[Exif IFD0 - 0x8773] Inter Color Profile = [3176 values]
+[Exif IFD0 - 0x0000] Unknown tag (0x0000) = [34168 values]
+
+[File - 0x0001] File Name = m1-d1d366d7965db766c19a66c7a2ccbb6b.tif
+[File - 0x0002] File Size = 182690 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

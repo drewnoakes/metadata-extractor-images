@@ -1,0 +1,46 @@
+FILE: 1b9a48cf04466108f6f2d225d100edbf.png
+
+[PNG-IHDR - 0x0001] Image Width = 91
+[PNG-IHDR - 0x0002] Image Height = 69
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
+
+[PNG-sBIT - 0x0013] Significant Bits = 5 5 5 5
+
+[PNG-bKGD - 0x000f] Background Color = 
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 2835
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 2835
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[PNG-tIME - 0x000e] Last Modification Time = 1996:06:07 17:58:08
+
+[PNG-iTXt - 0x000d] Textual Data = Title: PNG
+
+[PNG-zTXt - 0x000d] Textual Data = Description: Rendered by Persistence of Vision (tm) Ray Tracer
+Version 3.0, using the Times New Roman font and DMFWood6.
+Since POV-Ray does not direclty support interlaced output,
+this file has been converted to an interlaced image via a
+post-processing step.
+
+[File - 0x0001] File Name = 1b9a48cf04466108f6f2d225d100edbf.png
+[File - 0x0002] File Size = 8624 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-gAMA
+- PNG-sBIT
+- PNG-bKGD
+- PNG-pHYs
+- PNG-tIME
+- PNG-iTXt
+- PNG-zTXt
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

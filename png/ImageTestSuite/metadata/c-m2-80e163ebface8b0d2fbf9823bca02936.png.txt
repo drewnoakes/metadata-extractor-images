@@ -1,0 +1,43 @@
+FILE: c-m2-80e163ebface8b0d2fbf9823bca02936.png
+
+[ERROR: ICC Profile] Exception reading ICC profile: Block length does not match with its complement.
+
+[PNG-IHDR - 0x0001] Image Width = 100
+[PNG-IHDR - 0x0002] Image Height = 100
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = Greyscale with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 11811
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 11811
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[PNG-iCCP - 0x000c] ICC Profile Name = Photoshop ICC profilG
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
+
+[PNG Chromaticities - 0x0001] White Point X = 31269
+[PNG Chromaticities - 0x0002] White Point Y = 32899
+[PNG Chromaticities - 0x0003] Red X = 63999
+[PNG Chromaticities - 0x0004] Red Y = 33001
+[PNG Chromaticities - 0x0005] Green X = 30000
+[PNG Chromaticities - 0x0006] Green Y = 5696096
+[PNG Chromaticities - 0x0007] Blue X = 15000
+[PNG Chromaticities - 0x0008] Blue Y = 5999
+
+[File - 0x0001] File Name = c-m2-80e163ebface8b0d2fbf9823bca02936.png
+[File - 0x0002] File Size = 11645 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-pHYs
+- PNG-iCCP
+    - ICC Profile
+- PNG-gAMA
+- PNG Chromaticities
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

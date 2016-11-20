@@ -1,0 +1,28 @@
+FILE: m6-336db1cd76254717eb50a8602b651fbf.tif
+
+[ERROR: Exif IFD0] Invalid TIFF tag format code 17 for tag 0x0159
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0xfe00] Unknown tag (0xfe00) = 2306
+[Exif IFD0 - 0x0101] Image Height = 3111 pixels
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x0111] Strip Offsets = [112 values]
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1281 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 28 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 146 0 149 0 157 0 150 0 150 0 156 0 1256 0 1435 0 1300 0 1517 0 1828 0 2163 0 2353 0 2634 0 2659 95 2830 0 2283 0 2213 0 2315 0 897 0 601 0 171 0 198 0 206 6656 614 0 1228 0 786 0 790 0 247 0 240 0 909 0 1283 0 702 0 1498 0 617 0 1229 0 470 0 1483 0 512 0 207 0 214 0 204 0 281 0 855 0 807 0 232 0 231 0 237 0 -25408 0 194 0 187 0 302 0 2467 0 2440 0 2247 0 2644 0 bytes
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 3000000/1744840464 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x013d] Predictor = 1
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [4598 values]
+
+[File - 0x0001] File Name = m6-336db1cd76254717eb50a8602b651fbf.tif
+[File - 0x0002] File Size = 134068 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,46 @@
+FILE: 8d8582b004aa2560f5bccffbccf4f3d6.tif
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x0100] Image Width = 680 pixels
+[Exif IFD0 - 0x0101] Image Height = 510 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x010f] Make = Hasselblad/Imacon
+[Exif IFD0 - 0x0110] Model = Ixpress 528C - Hasselblad ELD
+[Exif IFD0 - 0x0111] Strip Offsets = 1558
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 510 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1040400 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per (no unit)
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per (no unit)
+[Exif IFD0 - 0x0128] Resolution Unit = (No unit)
+[Exif IFD0 - 0x8568] Unknown tag (0x8568) = [23 values]
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [104 values]
+[Exif IFD0 - 0x8773] Inter Color Profile = [1080 values]
+
+[IPTC - 0x0200] Application Record Version = 2
+[IPTC - 0x0274] Copyright Notice = Paolo Monello
+[IPTC - 0x0250] By-line = paolo monello
+[IPTC - 0x0278] Caption/Abstract = Master 33D 065
+[IPTC - 0x0237] Date Created = 2006:09:12
+[IPTC - 0x0238] Unknown tag (0x0238) = 210503+0200
+
+[Exif SubIFD - 0x829a] Exposure Time = 8947848/536870912 sec
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 50
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2006:09:12 21:04:57
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2006:09:12 21:04:57
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/59 sec
+
+[File - 0x0001] File Name = 8d8582b004aa2560f5bccffbccf4f3d6.tif
+[File - 0x0002] File Size = 1042226 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - IPTC
+    - Exif SubIFD
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,36 @@
+FILE: m1-26f459b3eb2a285626b849d6950db7ab.tif
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+
+[Exif IFD0 - 0x0100] Image Width = 1250 pixels
+[Exif IFD0 - 0x0101] Image Height = 1995 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x0111] Strip Offsets = [39 values]
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 52 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1048 1069 3913 2494 3553 2824 3813 3303 3829 3208 3258 3606 3306 2992 2902 3871 2082 3687 2967 3118 3411 3508 3207 3244 3928 2583 3978 3165 3513 2884 3541 3030 3346 3273 3481 3243 3283 3153 101 bytes
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
+[Exif IFD0 - 0x0132] Date/Time = 2003:10:17 14:24:00
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [17414 values]
+
+[Exif SubIFD - 0xa0bc] Unknown tag (0xa0bc) = 65535
+[Exif SubIFD - 0xa002] Exif Image Width = 1250 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1995 pixels
+
+[File - 0x0001] File Name = m1-26f459b3eb2a285626b849d6950db7ab.tif
+[File - 0x0002] File Size = 143444 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - Exif SubIFD
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

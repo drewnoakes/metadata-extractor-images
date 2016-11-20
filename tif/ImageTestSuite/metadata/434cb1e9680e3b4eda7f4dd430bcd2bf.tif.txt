@@ -1,0 +1,60 @@
+FILE: 434cb1e9680e3b4eda7f4dd430bcd2bf.tif
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x0100] Image Width = 2147 pixels
+[Exif IFD0 - 0x0101] Image Height = 1027 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB Palette
+[Exif IFD0 - 0x010f] Make = CASIO
+[Exif IFD0 - 0x0110] Model = QV-4000  
+[Exif IFD0 - 0x0111] Strip Offsets = [343 values]
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 3 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 135 138 131 132 131 132 132 131 131 132 131 131 131 132 481 947 1083 1202 1814 2029 2031 1953 1344 1068 969 572 291 160 131 131 131 131 162 504 905 1316 1453 1778 1530 1432 1231 1041 585 395 222 151 170 173 801 1635 1054 729 1792 1957 1151 1523 1970 1059 978 1902 1923 1468 1426 1039 953 936 1035 1215 1178 1255 1722 2698 1952 1589 2181 2379 1983 1908 1578 1217 1099 812 1039 1087 1286 1541 1448 1492 1451 1534 1369 1073 736 726 696 654 761 886 880 2355 1564 1167 1344 2472 1662 1809 1662 1310 1186 840 1015 1062 1268 1337 1470 1468 1358 1722 1311 1154 810 694 774 622 742 856 824 2201 1370 819 726 1640 791 740 776 481 355 351 356 351 349 356 349 354 362 359 361 346 347 339 331 340 335 349 352 714 1909 855 966 1160 2124 1563 1505 1597 1153 1037 791 861 933 911 1187 1197 1413 1136 1792 1176 1003 770 556 746 584 744 751 931 2036 1307 1140 1076 1678 1622 1622 1600 1296 953 884 825 869 915 904 1168 1297 1208 1332 1541 980 841 609 684 651 681 779 887 1657 1560 1131 1107 1277 1827 1642 1644 1565 958 975 750 821 825 711 1421 1145 1365 1080 1696 1036 942 671 582 735 605 742 827 1341 1557 966 814 717 1029 780 791 747 396 346 337 322 321 309 305 301 297 295 295 300 309 314 316 317 319 334 372 880 1094 1204 1021 1173 1388 1994 1692 1982 1706 1279 1470 1282 1164 942 1200 1172 1436 1464 1242 1589 1044 1098 1006 1077 1068 944 986 1184 1381 1525 1347 1211 1140 1666 1532 2038 1921 1534 1189 1278 911 767 872 941 1391 1349 1486 1059 1338 917 1091 1085 1143 1118 974 1002 1319 1300 1195 947 895 762 771 830 842 916 532 335 332 326 324 330 326 143 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
+[Exif IFD0 - 0x0132] Date/Time = 2004:05:25 11:58:16
+[Exif IFD0 - 0x013d] Predictor = 1
+[Exif IFD0 - 0x0140] Unknown tag (0x0140) = [768 values]
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [5184 values]
+[Exif IFD0 - 0x8773] Inter Color Profile = [3144 values]
+
+[XMP - 0xffff] XMP Value Count = 2
+
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:9e447b65-ae20-11d8-af43-9accb68e574e
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:3c4012f3-ae21-11d8-af43-9accb68e574e
+
+[Exif SubIFD - 0x829a] Exposure Time = 0.04 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.3
+[Exif SubIFD - 0x8822] Exposure Program = Manual control
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2004:05:25 08:16:46
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2004:05:25 08:16:46
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 15099488/3763200 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.0
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash fired
+[Exif SubIFD - 0x920a] Focal Length = 11.8 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2147 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1027 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+
+[File - 0x0001] File Name = 434cb1e9680e3b4eda7f4dd430bcd2bf.tif
+[File - 0x0002] File Size = 364272 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - Exif SubIFD
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

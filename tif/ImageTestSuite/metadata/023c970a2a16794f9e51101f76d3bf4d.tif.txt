@@ -1,0 +1,62 @@
+FILE: 023c970a2a16794f9e51101f76d3bf4d.tif
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x0100] Image Width = 689 pixels
+[Exif IFD0 - 0x0101] Image Height = 217 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0111] Strip Offsets = 592
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 217 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 190357 bytes
+[Exif IFD0 - 0x011a] X Resolution = 96 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 96 dots per inch
+[Exif IFD0 - 0x0124] Unknown tag (0x0124) = 0
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0129] Unknown tag (0x0129) = 1 1
+[Exif IFD0 - 0x013d] Predictor = 2
+[Exif IFD0 - 0x013e] White Point = 0/1000000 0/1000000
+[Exif IFD0 - 0x013f] Primary Chromaticities = 0/1000000 0/1000000 0/1000000 0/1000000 0/1000000 0/1000000
+[Exif IFD0 - 0x0211] YCbCr Coefficients = 0/1000000 0/1000000 0/1000000
+[Exif IFD0 - 0x0213] YCbCr Positioning = Unknown (0)
+[Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [0,0,0]
+
+[Exif SubIFD - 0x829a] Exposure Time = 0 sec
+[Exif SubIFD - 0x829d] F-Number = f/0.0
+[Exif SubIFD - 0x8822] Exposure Program = Unknown (0)
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 0 bits/pixel
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/1.0
+[Exif SubIFD - 0x9203] Brightness Value = 0
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/1.0
+[Exif SubIFD - 0x9206] Subject Distance = 0.0 metres
+[Exif SubIFD - 0x9207] Metering Mode = Unknown
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 0 mm
+[Exif SubIFD - 0xa001] Color Space = Unknown (0)
+[Exif SubIFD - 0xa002] Exif Image Width = 689 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 217 pixels
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 1000000/0 unknown (0)
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 1000000/0 unknown (0)
+[Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Unknown (0)
+[Exif SubIFD - 0xa215] Exposure Index = 0
+[Exif SubIFD - 0xa217] Sensing Method = Unknown (0)
+[Exif SubIFD - 0xa300] File Source = Unknown (0)
+[Exif SubIFD - 0xa301] Scene Type = Unknown (0)
+
+[File - 0x0001] File Name = 023c970a2a16794f9e51101f76d3bf4d.tif
+[File - 0x0002] File Size = 191232 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

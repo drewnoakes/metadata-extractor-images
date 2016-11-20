@@ -1,0 +1,13 @@
+FILE: m1-84da94dc7e5469f7849b0a7efdff5462.tif
+
+[ERROR: Exif IFD0] Illegally sized IFD
+
+[File - 0x0001] File Name = m1-84da94dc7e5469f7849b0a7efdff5462.tif
+[File - 0x0002] File Size = 3616692 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

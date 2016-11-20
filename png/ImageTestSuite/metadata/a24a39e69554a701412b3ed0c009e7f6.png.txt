@@ -1,0 +1,6 @@
+FILE: a24a39e69554a701412b3ed0c009e7f6.png
+
+EXCEPTION: Observed multiple instances of PNG chunk 'cHRM', for which multiples are not allowed
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

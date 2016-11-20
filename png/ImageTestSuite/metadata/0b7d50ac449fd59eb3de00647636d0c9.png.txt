@@ -1,0 +1,6 @@
+FILE: 0b7d50ac449fd59eb3de00647636d0c9.png
+
+EXCEPTION: Invalid number of bytes
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

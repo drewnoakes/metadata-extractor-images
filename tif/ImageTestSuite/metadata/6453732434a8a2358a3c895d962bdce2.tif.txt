@@ -1,0 +1,43 @@
+FILE: 6453732434a8a2358a3c895d962bdce2.tif
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x0100] Image Width = 200 pixels
+[Exif IFD0 - 0x0101] Image Height = 200 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = PackBits
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
+[Exif IFD0 - 0x011a] X Resolution = 20 dots per cm
+[Exif IFD0 - 0x011b] Y Resolution = 20 dots per cm
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = cm
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
+[Exif IFD0 - 0x0132] Date/Time = 2005:01:22 08:13:44
+[Exif IFD0 - 0x0142] Tile Width = 128
+[Exif IFD0 - 0x0143] Tile Length = 128
+[Exif IFD0 - 0x0144] Tile Offsets = 8946 69536 100654 132657
+[Exif IFD0 - 0x0145] Tile Byte Counts = 60590 31118 32003 14936
+[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [3888 values]
+
+[XMP - 0xffff] XMP Value Count = 2
+
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:bf93e969-6c3b-11d9-9d35-910fafd7239a
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:c4dadca1-6c3c-11d9-9d35-910fafd7239a
+
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 200 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 200 pixels
+
+[File - 0x0001] File Name = 6453732434a8a2358a3c895d962bdce2.tif
+[File - 0x0002] File Size = 1825826 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - Exif SubIFD
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

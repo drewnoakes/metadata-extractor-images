@@ -1,0 +1,6 @@
+FILE: d5a0175c07418852152ef33a886a5029.gif
+
+EXCEPTION: File format is not supported
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

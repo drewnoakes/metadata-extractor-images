@@ -1,0 +1,40 @@
+FILE: m14-42c19f8e79e582bef107f372f18a074b.tif
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 252 for tag 0x02BC
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 64730 for tag 0x000A
+[ERROR: Exif IFD0] Invalid TIFF tag format code 10000 for tag 0x0000
+[ERROR: Exif IFD0] Invalid TIFF tag format code 28531 for tag 0x6F74
+[ERROR: Exif IFD0] Invalid TIFF tag format code 25449 for tag 0x4D61
+[ERROR: Exif IFD0] Invalid TIFF tag format code 14896 for tag 0x3038
+[ERROR: Exif IFD0] Stopping processing as too many errors seen in TIFF IFD
+
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0111] Strip Offsets = 29048
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 17 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 546 bytes
+[Exif IFD0 - 0x011a] X Resolution = 720090/10000 dots per unit
+[Exif IFD0 - 0x011b] Y Resolution = 1734962749/586136511 dots per unit
+[Exif IFD0 - 0xa51c] Unknown tag (0xa51c) = 1
+[Exif IFD0 - 0x0132] Date/Time = 2008:06:13 10:O3:40
+[Exif IFD0 - 0x013d] Predictor = 2
+[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 10944512
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [8920 values]
+[Exif IFD0 - 0x462a] Unknown tag (0x462a) = 29596
+[Exif IFD0 - 0x8773] Inter Color Profile = [4380 values]
+
+[File - 0x0001] File Name = m14-42c19f8e79e582bef107f372f18a074b.tif
+[File - 0x0002] File Size = 35272 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

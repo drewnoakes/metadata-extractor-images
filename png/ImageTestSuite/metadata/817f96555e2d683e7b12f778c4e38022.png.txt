@@ -1,0 +1,6 @@
+FILE: 817f96555e2d683e7b12f778c4e38022.png
+
+EXCEPTION: PNG chunk type identifier may only contain alphabet characters
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

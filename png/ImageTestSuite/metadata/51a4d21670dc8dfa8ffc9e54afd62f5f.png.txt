@@ -1,0 +1,39 @@
+FILE: 51a4d21670dc8dfa8ffc9e54afd62f5f.png
+
+[ERROR: ICC Profile] Exception reading ICC profile: Block length does not match with its complement.
+
+[PNG-IHDR - 0x0001] Image Width = 160
+[PNG-IHDR - 0x0002] Image Height = 278
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = Greyscale with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
+
+[PNG-iCCP - 0x000c] ICC Profile Name = ICC profile
+
+[PNG-bKGD - 0x000f] Background Color = 
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 24016
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 24016
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[PNG-tIME - 0x000e] Last Modification Time = 2008:03:15 17:27:08
+
+[PNG-iTXt - 0x000d] Textual Data = Comment: File written by Adobe Photoshop? 5.0
+
+[File - 0x0001] File Name = 51a4d21670dc8dfa8ffc9e54afd62f5f.png
+[File - 0x0002] File Size = 25400 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-iCCP
+    - ICC Profile
+- PNG-bKGD
+- PNG-pHYs
+- PNG-tIME
+- PNG-iTXt
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

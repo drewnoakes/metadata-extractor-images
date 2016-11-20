@@ -1,0 +1,10 @@
+FILE: 3ea649db8e81a46ca4f92fb3238f78ff.jpg
+
+[File - 0x0001] File Name = 3ea649db8e81a46ca4f92fb3238f78ff.jpg
+[File - 0x0002] File Size = 1718 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

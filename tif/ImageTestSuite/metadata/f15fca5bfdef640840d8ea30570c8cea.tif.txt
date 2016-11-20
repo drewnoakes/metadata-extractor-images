@@ -1,0 +1,106 @@
+FILE: f15fca5bfdef640840d8ea30570c8cea.tif
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x0100] Image Width = 995 pixels
+[Exif IFD0 - 0x0101] Image Height = 1181 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0111] Strip Offsets = 33326 107412 181582 287702 412230 526364 632630 739470 834886 928874 1024064 1122516 1213316 1298886
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 87 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 74085 74169 106119 124528 114134 106266 106840 95415 93988 95190 98451 90800 85570 48103 bytes
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop CS3 Macintosh
+[Exif IFD0 - 0x0132] Date/Time = 2008:11:13 18:29:11
+[Exif IFD0 - 0x013d] Predictor = 2
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [12804 values]
+[Exif IFD0 - 0x8773] Inter Color Profile = [4376 values]
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0100] Image Width = 498 pixels
+[Exif SubIFD - 0x0101] Image Height = 591 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = LZW
+[Exif SubIFD - 0x0106] Photometric Interpretation = RGB
+[Exif SubIFD - 0x0111] Strip Offsets = 1347300 1473798 1612906 1738714
+[Exif SubIFD - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif SubIFD - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 175 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 126498 139108 125808 42933 bytes
+[Exif SubIFD - 0x011a] X Resolution = 150 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 150 dots per inch
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x013d] Predictor = 2
+
+[XMP - 0xffff] XMP Value Count = 33
+[XMP - 0x0202] Create Date = 2008-11-13T18:29:11+01:00
+[XMP - 0x0203] Creator Tool = Adobe Photoshop CS3 Macintosh
+[XMP - 0x0205] Metadata Date = 2008-11-13T18:29:11+01:00
+[XMP - 0x0206] Modify Date = 2008-11-13T18:29:11+01:00
+
+[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 3000000/10000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 3000000/10000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:NativeDigest = 256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;25446A9093E60AC7979AF912565487CC
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 995
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 1181
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:BitsPerSample = 
+[XMPMeta - ] tiff:BitsPerSample[1] = 8
+[XMPMeta - ] tiff:BitsPerSample[2] = 8
+[XMPMeta - ] tiff:BitsPerSample[3] = 8
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Compression = 5
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:PhotometricInterpretation = 2
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:SamplesPerPixel = 3
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:PlanarConfiguration = 1
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2008-11-13T18:29:11+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS3 Macintosh
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2008-11-13T18:29:11+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2008-11-13T18:29:11+01:00
+[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0220
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = -1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 995
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 1181
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:NativeDigest = 36864,40960,40961,37121,37122,40962,40963,37510,40964,36867,36868,33434,33437,34850,34852,34855,34856,37377,37378,37379,37380,37381,37382,37383,37384,37385,37386,37396,41483,41484,41486,41487,41488,41492,41493,41495,41728,41729,41730,41985,41986,41987,41988,41989,41990,41991,41992,41993,41994,41995,41996,42016,0,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,30;CC779C09C3EDBBA562D18FE2E2D16935
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = uuid:C9E0DEC2EDB2DD1186CC98BE2D0B4E2C
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:CAE0DEC2EDB2DD1186CC98BE2D0B4E2C
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = uuid:52B788484DB2DD11825AFDE868E6DA31
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = uuid:2297AA864CB2DD11825AFDE868E6DA31
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = Color LCD
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
+
+[IPTC - 0x0200] Application Record Version = 0
+
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 995 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1181 pixels
+
+[File - 0x0001] File Name = f15fca5bfdef640840d8ea30570c8cea.tif
+[File - 0x0002] File Size = 1960356 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+    - XMP
+    - IPTC
+    - Exif SubIFD
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

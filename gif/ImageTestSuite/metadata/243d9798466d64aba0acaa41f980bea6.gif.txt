@@ -1,0 +1,20 @@
+FILE: 243d9798466d64aba0acaa41f980bea6.gif
+
+[GIF Header - 0x0001] GIF Format Version = 89a
+[GIF Header - 0x0002] Image Width = 192
+[GIF Header - 0x0003] Image Height = 168
+[GIF Header - 0x0004] Color Table Size = 128
+[GIF Header - 0x0005] Is Color Table Sorted = false
+[GIF Header - 0x0006] Bits per Pixel = 6
+[GIF Header - 0x0007] Has Global Color Table = true
+[GIF Header - 0x0008] Background Color Index = 0
+
+[File - 0x0001] File Name = 243d9798466d64aba0acaa41f980bea6.gif
+[File - 0x0002] File Size = 16836 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- GIF Header
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

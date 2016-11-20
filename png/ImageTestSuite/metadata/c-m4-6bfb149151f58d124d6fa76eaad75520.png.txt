@@ -1,0 +1,6 @@
+FILE: c-m4-6bfb149151f58d124d6fa76eaad75520.png
+
+EXCEPTION: End of data reached.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

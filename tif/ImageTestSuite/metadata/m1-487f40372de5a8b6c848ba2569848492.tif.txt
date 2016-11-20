@@ -1,0 +1,66 @@
+FILE: m1-487f40372de5a8b6c848ba2569848492.tif
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 5379 for tag 0x0128
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x5C70
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x7DC4
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x9BFE
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0xBF12
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0xE08A
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x05DD
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0B26
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0933
+[ERROR: Exif IFD0] Invalid TIFF tag format code 31 for tag 0x0B7A
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0B61
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0BF7
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0AFC
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0B8E
+[ERROR: Exif IFD0] Invalid TIFF tag format code 14848 for tag 0x04A2
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0AF3
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0691
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0894
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0314
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x07AF
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x2710
+[ERROR: Exif IFD0] Invalid TIFF tag format code 25199 for tag 0x6441
+[ERROR: Exif IFD0] Invalid TIFF tag format code 8304 for tag 0x6F68
+[ERROR: Exif IFD0] Invalid TIFF tag format code 14896 for tag 0x313A
+[ERROR: Exif IFD0] Stopping processing as too many errors seen in TIFF IFD
+[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+[ERROR: Exif SubIFD] Illegally sized IFD
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x0100] Image Width = 1235 pixels
+[Exif IFD0 - 0x0101] Image Height = 2128 pixels
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = Unknown colour space
+[Exif IFD0 - 0x0111] Strip Offsets = [41 values]
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 52 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1501 386 2635 2854 3042 14158111 2355 10423270 2886 2034554 3037 2745 2913 2908 8063661 3063 2926 1534 2812 2938 10030101 2958 2839 3000 973079714 2473 53111 2803 2733 3003 1681 1459 1979713416 2196 2928 2862 788 3073 2941 1967 799 bytes
+[Exif IFD0 - 0x011a] X Resolution = 2963648/10000 dots per unit
+[Exif IFD0 - 0x011b] Y Resolution = 841053923/2385060943 dots per unit
+[Exif IFD0 - 0x0132] Date/Time = 2003:10:06 15:�4:52
+[Exif IFD0 - 0x83bb] IPTC/NAA = 5276 0
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [16492 values]
+
+[File - 0x0001] File Name = m1-487f40372de5a8b6c848ba2569848492.tif
+[File - 0x0002] File Size = 123324 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - Exif SubIFD
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,58 @@
+FILE: 2a6ff5f8106894b22dad3ce99673481a.png
+
+[ERROR: ICC Profile] Exception reading ICC profile: Block length does not match with its complement.
+
+[PNG-IHDR - 0x0001] Image Width = 52
+[PNG-IHDR - 0x0002] Image Height = 30
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
+
+[PNG-sRGB - 0x000a] sRGB Rendering Intent = Relative Colorimetric
+
+[PNG-iCCP - 0x000c] ICC Profile Name = Photoshop ICC Profile
+
+[PNG Chromaticities - 0x0001] White Point X = 31270
+[PNG Chromaticities - 0x0002] White Point Y = 32899
+[PNG Chromaticities - 0x0003] Red X = 64000
+[PNG Chromaticities - 0x0004] Red Y = 33000
+[PNG Chromaticities - 0x0005] Green X = 30000
+[PNG Chromaticities - 0x0006] Green Y = 60001
+[PNG Chromaticities - 0x0007] Blue X = 14999
+[PNG Chromaticities - 0x0008] Blue Y = 6000
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 2834
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 2834
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[PNG-tIME - 0x000e] Last Modification Time = 2006:11:07 08:45:21
+
+[PNG-iTXt - 0x000d] Textual Data = File Name: C:\Documents and Settings\Jmartin\Desktop\images\m7.jpg
+
+[PNG-iTXt - 0x000d] Textual Data = Software: Adobe Photoshop
+
+[PNG-iTXt - 0x000d] Textual Data = Writer: SuperPNG by Brendan Bolles
+
+[File - 0x0001] File Name = 2a6ff5f8106894b22dad3ce99673481a.png
+[File - 0x0002] File Size = 7300 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-gAMA
+- PNG-sRGB
+- PNG-iCCP
+    - ICC Profile
+- PNG Chromaticities
+- PNG-pHYs
+- PNG-tIME
+- PNG-iTXt
+- PNG-iTXt
+- PNG-iTXt
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

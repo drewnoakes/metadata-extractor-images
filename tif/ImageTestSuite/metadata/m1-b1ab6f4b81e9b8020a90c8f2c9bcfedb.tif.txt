@@ -1,0 +1,57 @@
+FILE: m1-b1ab6f4b81e9b8020a90c8f2c9bcfedb.tif
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+[ERROR: Exif Thumbnail] Invalid TIFF tag format code 94 for tag 0x010A
+[ERROR: Exif Thumbnail] Invalid TIFF tag format code 44292 for tag 0xED16
+[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x0100] Image Width = 1728 pixels
+[Exif IFD0 - 0x0101] Image Height = 1078 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = T4/Group 3 Fax
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x010a] Fill Order = Reversed
+[Exif IFD0 - 0x010e] Image Description =         15102780734                 K7FAX  Thu Feb 28 09:42:34 2008
+
+[Exif IFD0 - 0x0111] Strip Offsets = 340
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 1078 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1359015351 bytes
+[Exif IFD0 - 0x011a] X Resolution = 204 dots per inch
+[Exif IFD0 - 0x0124] Unknown tag (0x0124) = 0
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0129] Unknown tag (0x0129) = 1 0
+[Exif IFD0 - 0x0146] Unknown tag (0x0146) = 0
+[Exif IFD0 - 0x0147] Unknown tag (0x0147) = 140
+[Exif IFD0 - 0x0148] Unknown tag (0x0148) = 0
+
+[Exif Thumbnail - 0x00fe] New Subfile Type = Unknown (36096)
+[Exif Thumbnail - 0x0101] Image Height = 1077 pixels
+[Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Thumbnail - 0x0103] Compression = T4/Group 3 Fax
+[Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Thumbnail - 0x010e] Image Description =          15102780734                 K7FAX  Thu Feb 28 09:43:12 2008
+
+[Exif Thumbnail - 0x0111] Strip Offsets = 61527
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Thumbnail - 0x0117] Strip Byte Counts = 64086 bytes
+[Exif Thumbnail - 0x011a] X Resolution = 204 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 98 dots per inch
+[Exif Thumbnail - 0x0124] Unknown tag (0x0124) = 0
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0146] Unknown tag (0x0146) = 0
+[Exif Thumbnail - 0x0148] Unknown tag (0x0148) = 13238272
+
+[File - 0x0001] File Name = m1-b1ab6f4b81e9b8020a90c8f2c9bcfedb.tif
+[File - 0x0002] File Size = 125613 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Thumbnail
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

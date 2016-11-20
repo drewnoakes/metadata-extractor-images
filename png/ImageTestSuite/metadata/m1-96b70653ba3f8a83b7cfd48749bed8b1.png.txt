@@ -1,0 +1,31 @@
+FILE: m1-96b70653ba3f8a83b7cfd48749bed8b1.png
+
+[ERROR: ICC Profile] Exception reading ICC profile: Block length does not match with its complement.
+
+[PNG-IHDR - 0x0001] Image Width = 800
+[PNG-IHDR - 0x0002] Image Height = 600
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
+
+[PNG-sRGB - 0x000a] sRGB Rendering Intent = Absolute Colorimetric
+
+[PNG-iCCP - 0x000c] ICC Profile Name = icc
+
+[PNG-zTXt - 0x000d] Textual Data = author: Grigore Moldovan
+
+[File - 0x0001] File Name = m1-96b70653ba3f8a83b7cfd48749bed8b1.png
+[File - 0x0002] File Size = 666171 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-sRGB
+- PNG-iCCP
+    - ICC Profile
+- PNG-zTXt
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
