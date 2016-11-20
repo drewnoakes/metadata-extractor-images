@@ -100,13 +100,13 @@ FILE: Panasonic Lumix DMC-LX5.jpg
 [Panasonic Makernote - 0x0041] Sharpness = 0
 [Panasonic Makernote - 0x0042] Film Mode = 1
 [Panasonic Makernote - 0x0043] Unknown tag (0x0043) = 2
-[Panasonic Makernote - 0x0044] Unknown tag (0x0044) = 0
+[Panasonic Makernote - 0x0044] Color Temp Kelvin = 0
 [Panasonic Makernote - 0x0046] White Balance Adjust (AB) = 0
 [Panasonic Makernote - 0x0047] White Balance Adjust (GM) = 0
-[Panasonic Makernote - 0x0048] Unknown tag (0x0048) = 0
+[Panasonic Makernote - 0x0048] Flash Curtain = n/a
 [Panasonic Makernote - 0x004a] Unknown tag (0x004a) = 0
-[Panasonic Makernote - 0x004b] Unknown tag (0x004b) = 3648
-[Panasonic Makernote - 0x004c] Unknown tag (0x004c) = 2736
+[Panasonic Makernote - 0x004b] Panasonic Image Width = 3648
+[Panasonic Makernote - 0x004c] Panasonic Image Height = 2736
 [Panasonic Makernote - 0x004d] Af Point Position = 128/256 128/256
 [Panasonic Makernote - 0x004e] Face Detection Info = 
 [Panasonic Makernote - 0x004f] Unknown tag (0x004f) = 0

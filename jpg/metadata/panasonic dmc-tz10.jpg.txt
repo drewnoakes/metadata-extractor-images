@@ -97,7 +97,7 @@ FILE: Panasonic DMC-TZ10.jpg
 [Panasonic Makernote - 0x003f] Number of Detected Faces = 1
 [Panasonic Makernote - 0x0040] Saturation = 0
 [Panasonic Makernote - 0x0041] Sharpness = 0
-[Panasonic Makernote - 0x0049] Unknown tag (0x0049) = 0
+[Panasonic Makernote - 0x0049] Long Exposure Noise Reduction = Unknown (0)
 [Panasonic Makernote - 0x004d] Af Point Position = 113/256 128/256
 [Panasonic Makernote - 0x004e] Face Detection Info = Face 1: x: 142 y: 120 width: 76 height: 76
 [Panasonic Makernote - 0x004f] Unknown tag (0x004f) = 1
