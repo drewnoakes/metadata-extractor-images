@@ -88,7 +88,12 @@ FILE: Minolta DiMAGE S404.jpg
 [Olympus Makernote - 0x0010] Unknown tag (0x0010) = [12968 values]
 [Olympus Makernote - 0x0020] Unknown tag (0x0020) = [354 values]
 [Olympus Makernote - 0x0040] Compressed Image Size = 1826901
-[Olympus Makernote - 0x0e00] Print Image Matching (PIM) Info = [40 values]
+
+[PrintIM - 0x0000] PrintIM Version = 0100
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x01000000
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x01000000
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -110,6 +115,7 @@ FILE: Minolta DiMAGE S404.jpg
 - Exif IFD0
     - Exif SubIFD
         - Olympus Makernote
+            - PrintIM
         - Interoperability
     - Exif Thumbnail
 - File

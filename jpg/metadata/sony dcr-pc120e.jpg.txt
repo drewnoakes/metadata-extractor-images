@@ -35,7 +35,9 @@ FILE: Sony DCR-PC120E.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 1360 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1020 pixels
 
-[Sony Makernote - 0x0e00] Print Image Matching (PIM) Info = [28 values]
+[PrintIM - 0x0000] PrintIM Version = 0100
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000000
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -59,6 +61,7 @@ FILE: Sony DCR-PC120E.jpg
 - Exif IFD0
     - Exif SubIFD
         - Sony Makernote
+            - PrintIM
         - Interoperability
     - Exif Thumbnail
 - File

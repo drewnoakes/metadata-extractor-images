@@ -1,5 +1,7 @@
 FILE: Pentax Optio 330.jpg
 
+[ERROR: PrintIM] Invalid PrintIM header
+
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 2048 pixels
@@ -69,7 +71,6 @@ FILE: Pentax Optio 330.jpg
 [Pentax Makernote - 0x0017] Colour = Normal
 [Pentax Makernote - 0x0018] Unknown tag (0x0018) = 0
 [Pentax Makernote - 0x0019] Unknown tag (0x0019) = 1
-[Pentax Makernote - 0x0e00] Print Image Matching (PIM) Info = [124 values]
 [Pentax Makernote - 0x1000] Time Zone = 76 79 78 32
 [Pentax Makernote - 0x1001] Daylight Savings = 32 32 32 32
 
@@ -92,6 +93,7 @@ FILE: Pentax Optio 330.jpg
 - Exif IFD0
     - Exif SubIFD
         - Pentax Makernote
+            - PrintIM
         - Interoperability
     - Exif Thumbnail
 - File

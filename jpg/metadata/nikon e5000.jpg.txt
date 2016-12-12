@@ -70,7 +70,21 @@ FILE: Nikon E5000.jpg
 [Nikon Makernote - 0x0095] Noise Reduction = OFF 
 [Nikon Makernote - 0x0010] Data Dump = [254 values]
 [Nikon Makernote - 0x0011] Preview IFD = 1764
-[Nikon Makernote - 0x0e00] Print Image Matching (PIM) Info = [94 values]
+
+[PrintIM - 0x0000] PrintIM Version = 0100
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x0000005e
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x000000a6
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x000000be
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000005
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000001
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -91,6 +105,7 @@ FILE: Nikon E5000.jpg
 - Exif IFD0
     - Exif SubIFD
         - Nikon Makernote
+            - PrintIM
         - Interoperability
     - Exif Thumbnail
 - File

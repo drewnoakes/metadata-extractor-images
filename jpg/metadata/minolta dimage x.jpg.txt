@@ -67,8 +67,13 @@ FILE: Minolta DiMAGE X.jpg
 [Olympus Makernote - 0x021d] Unknown tag (0x021d) = 0
 [Olympus Makernote - 0x021e] Unknown tag (0x021e) = 0
 [Olympus Makernote - 0x021f] Unknown tag (0x021f) = 0
-[Olympus Makernote - 0x0e00] Print Image Matching (PIM) Info = [40 values]
 [Olympus Makernote - 0x0f00] Data Dump = [254 values]
+
+[PrintIM - 0x0000] PrintIM Version = 0100
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000001
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -88,6 +93,7 @@ FILE: Minolta DiMAGE X.jpg
 - Exif IFD0
     - Exif SubIFD
         - Olympus Makernote
+            - PrintIM
         - Interoperability
     - Exif Thumbnail
 - File

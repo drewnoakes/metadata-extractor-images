@@ -1,5 +1,7 @@
 FILE: Kyocera FC-S3.jpg
 
+[ERROR: PrintIM] Invalid PrintIM header
+
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 2048 pixels
@@ -47,7 +49,6 @@ FILE: Kyocera FC-S3.jpg
 [Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
 
 [Kyocera/Contax Makernote - 0x0001] Proprietary Thumbnail Format Data = (55160 bytes)
-[Kyocera/Contax Makernote - 0x0e00] Print Image Matching (PIM) Info = [40 values]
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -68,6 +69,7 @@ FILE: Kyocera FC-S3.jpg
 - Exif IFD0
     - Exif SubIFD
         - Kyocera/Contax Makernote
+            - PrintIM
         - Interoperability
     - Exif Thumbnail
 - File

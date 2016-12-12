@@ -66,7 +66,22 @@ FILE: Panasonic DMC-LC40.jpg
 [Panasonic Makernote - 0x001c] Macro Mode = On
 [Panasonic Makernote - 0x0020] Audio = On
 [Panasonic Makernote - 0x0021] Unknown Data Dump = (16 bytes)
-[Panasonic Makernote - 0x0e00] Print Image Matching (PIM) Info = [208 values]
+
+[PrintIM - 0x0000] PrintIM Version = 0250
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000000
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000064
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x000000ac
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x000000c4
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x05000000
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x01000000
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x80000000
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -98,6 +113,7 @@ FILE: Panasonic DMC-LC40.jpg
 - Exif IFD0
     - Exif SubIFD
         - Panasonic Makernote
+            - PrintIM
         - Interoperability
     - PrintIM
     - Exif Thumbnail

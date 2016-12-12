@@ -89,7 +89,12 @@ FILE: Minolta DiMAGE 7.jpg
 [Olympus Makernote - 0x0010] Unknown tag (0x0010) = [12968 values]
 [Olympus Makernote - 0x0020] Unknown tag (0x0020) = [260 values]
 [Olympus Makernote - 0x0040] Compressed Image Size = 2189626089 564877062 698697708 4115677177
-[Olympus Makernote - 0x0e00] Print Image Matching (PIM) Info = [40 values]
+
+[PrintIM - 0x0000] PrintIM Version = 0100
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x01000000
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x01000000
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x08000301
 
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -131,6 +136,7 @@ FILE: Minolta DiMAGE 7.jpg
 - Exif IFD0
     - Exif SubIFD
         - Olympus Makernote
+            - PrintIM
     - Exif Thumbnail
 - ICC Profile
 - File
