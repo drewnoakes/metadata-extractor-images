@@ -1,6 +1,6 @@
 FILE: e34116d68f49c7852b362ec72a636df5.gif
 
-[ERROR: GIF Header] Unable to read BMP header
+[ERROR: GIF Header] Unable to read GIF header
 
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 100
