@@ -63,13 +63,52 @@ FILE: ce50e53224a3b62bb821bc294bf6a588.tif
 [Exif IFD0 - 0xa408] Contrast = None
 [Exif IFD0 - 0xa409] Saturation = None
 [Exif IFD0 - 0xa40a] Sharpness = None
-[Exif IFD0 - 0xc4a5] Print IM = [690 values]
+
+[PrintIM - 0x0000] PrintIM Version = 0300
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00140014
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x000000ee
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x00000136
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x0000014e
+[PrintIM - 0x0010] Unknown tag (0x0010) = 0x0000015e
+[PrintIM - 0x0020] Unknown tag (0x0020) = 0x00000252
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000003
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x000000ff
+[PrintIM - 0x0102] Unknown tag (0x0102) = 0x00000083
+[PrintIM - 0x0103] Unknown tag (0x0103) = 0x00000083
+[PrintIM - 0x0104] Unknown tag (0x0104) = 0x00000083
+[PrintIM - 0x0105] Unknown tag (0x0105) = 0x00000083
+[PrintIM - 0x0106] Unknown tag (0x0106) = 0x00000083
+[PrintIM - 0x0107] Unknown tag (0x0107) = 0x00808080
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x00000081
+[PrintIM - 0x0200] Unknown tag (0x0200) = 0x00000000
+[PrintIM - 0x0207] Unknown tag (0x0207) = 0x00000000
+[PrintIM - 0x0208] Unknown tag (0x0208) = 0x00000000
+[PrintIM - 0x0209] Unknown tag (0x0209) = 0x00000000
+[PrintIM - 0x020a] Unknown tag (0x020a) = 0x00000000
+[PrintIM - 0x020b] Unknown tag (0x020b) = 0x00000276
+[PrintIM - 0x020d] Unknown tag (0x020d) = 0x00000000
+[PrintIM - 0x0220] Unknown tag (0x0220) = 0x0000028e
+[PrintIM - 0x0300] Unknown tag (0x0300) = 0x00000003
+[PrintIM - 0x0301] Unknown tag (0x0301) = 0x000000ff
+[PrintIM - 0x0302] Unknown tag (0x0302) = 0x00000083
+[PrintIM - 0x0303] Unknown tag (0x0303) = 0x00000083
+[PrintIM - 0x0306] Unknown tag (0x0306) = 0x00000083
+[PrintIM - 0x0310] Unknown tag (0x0310) = 0x00000081
+[PrintIM - 0x0400] Unknown tag (0x0400) = 0x00000000
 
 [File - 0x0001] File Name = ce50e53224a3b62bb821bc294bf6a588.tif
 [File - 0x0002] File Size = 379396 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+    - PrintIM
 - File
 
 Generated using metadata-extractor

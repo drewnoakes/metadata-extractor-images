@@ -40,7 +40,7 @@ FILE: Nikon E5700.jpg
 [Exif SubIFD - 0xa002] Exif Image Width = 1920 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 2560 pixels
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
-[Exif SubIFD - 0xa302] CFA Pattern = 0 2 0 2 5 3 1 4
+[Exif SubIFD - 0xa302] CFA Pattern = [Yellow,Cyan][Green,Magenta]
 
 [Nikon Makernote - 0x0001] Firmware Version = 2.00
 [Nikon Makernote - 0x0002] ISO = ISO 100

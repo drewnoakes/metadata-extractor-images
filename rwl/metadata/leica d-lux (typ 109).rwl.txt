@@ -80,7 +80,6 @@ FILE: Leica D-LUX (Typ 109).rwl
 [Exif IFD0 - 0x0131] Software = Ver.0.1  
 [Exif IFD0 - 0x0132] Date/Time = 2015:01:08 14:27:54
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [208 values]
 [Exif IFD0 - 0xc6d2] Panasonic Title = [64 values]
 [Exif IFD0 - 0xc6d3] Panasonic Title (2) = [128 values]
 
@@ -264,6 +263,22 @@ FILE: Leica D-LUX (Typ 109).rwl
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
+[PrintIM - 0x0000] PrintIM Version = 0250
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000000
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000064
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x000000ac
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x000000c4
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000005
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000001
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x00000080
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch
@@ -308,6 +323,7 @@ FILE: Leica D-LUX (Typ 109).rwl
     - Exif SubIFD
     - Panasonic Makernote
     - Interoperability
+    - PrintIM
     - Exif Thumbnail
     - PanasonicRaw DistortionInfo
     - Exif SubIFD

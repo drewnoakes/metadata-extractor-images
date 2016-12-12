@@ -19,7 +19,6 @@ FILE: FujiFilm FinePixS5500.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2005:01:30 16:19:47
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8298] Copyright =     
-[Exif IFD0 - 0xc4a5] Print IM = [28 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/900 sec
 [Exif SubIFD - 0x829d] F-Number = f/6.3
@@ -82,6 +81,10 @@ FILE: FujiFilm FinePixS5500.jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
+[PrintIM - 0x0000] PrintIM Version = 0250
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
@@ -100,6 +103,7 @@ FILE: FujiFilm FinePixS5500.jpg
     - Exif SubIFD
         - Fujifilm Makernote
         - Interoperability
+    - PrintIM
     - Exif Thumbnail
 - File
 

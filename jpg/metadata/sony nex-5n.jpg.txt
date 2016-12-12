@@ -21,7 +21,6 @@ FILE: Sony NEX-5N.jpg
 [Exif IFD0 - 0x0131] Software = NEX-5N v1.00
 [Exif IFD0 - 0x0132] Date/Time = 2011:02:26 15:49:58
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [106 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/2000 sec
 [Exif SubIFD - 0x829d] F-Number = f/4.0
@@ -146,6 +145,11 @@ FILE: Sony NEX-5N.jpg
 [GPS - 0x0005] GPS Altitude Ref = Sea level
 [GPS - 0x0006] GPS Altitude = 117 metres
 
+[PrintIM - 0x0000] PrintIM Version = 0300
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000022
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
+
 [File - 0x0001] File Name = Sony NEX-5N.jpg
 [File - 0x0002] File Size = 8224907 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -156,6 +160,7 @@ FILE: Sony NEX-5N.jpg
         - Sony Makernote
         - Interoperability
     - GPS
+    - PrintIM
 - File
 
 Generated using metadata-extractor

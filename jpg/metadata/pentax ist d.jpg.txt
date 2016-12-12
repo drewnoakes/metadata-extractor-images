@@ -17,7 +17,6 @@ FILE: Pentax ist D.jpg
 [Exif IFD0 - 0x0131] Software = *ist D      Ver 1.10   
 [Exif IFD0 - 0x0132] Date/Time = 2004:10:02 23:29:52
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [244 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/90 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.4
@@ -125,6 +124,28 @@ FILE: Pentax ist D.jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
+[PrintIM - 0x0000] PrintIM Version = 0250
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x01000000
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000088
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x000000d0
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x000000e8
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x05000000
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0xff000000
+[PrintIM - 0x0102] Unknown tag (0x0102) = 0x83000000
+[PrintIM - 0x0103] Unknown tag (0x0103) = 0x83000000
+[PrintIM - 0x0104] Unknown tag (0x0104) = 0x83000000
+[PrintIM - 0x0105] Unknown tag (0x0105) = 0x83000000
+[PrintIM - 0x0106] Unknown tag (0x0106) = 0x83000000
+[PrintIM - 0x0107] Unknown tag (0x0107) = 0x80808000
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x80000000
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
@@ -141,6 +162,7 @@ FILE: Pentax ist D.jpg
     - Exif SubIFD
         - Casio Makernote
         - Interoperability
+    - PrintIM
     - Exif Thumbnail
 - File
 

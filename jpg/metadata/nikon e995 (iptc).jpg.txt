@@ -60,7 +60,7 @@ FILE: Nikon E995 (iptc).jpg
 [Nikon Makernote - 0x008f] Scene Mode =                 
 [Nikon Makernote - 0x0094] Saturation = 0
 [Nikon Makernote - 0x0095] Noise Reduction = FPNR
-[Nikon Makernote - 0x0e00] Print IM = [202 values]
+[Nikon Makernote - 0x0e00] Print Image Matching (PIM) Info = [202 values]
 [Nikon Makernote - 0x0e10] Nikon Scan = 1394
 
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)

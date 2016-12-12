@@ -45,7 +45,7 @@ FILE: Nikon D100.jpg
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-[Exif SubIFD - 0xa302] CFA Pattern = 0 2 0 2 1 0 2 1
+[Exif SubIFD - 0xa302] CFA Pattern = [Green,Red][Blue,Green]
 [Exif SubIFD - 0xa401] Custom Rendered = Normal process
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Manual white balance

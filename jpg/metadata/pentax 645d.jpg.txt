@@ -20,7 +20,6 @@ FILE: Pentax 645D.jpg
 [Exif IFD0 - 0x013b] Artist = 
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8298] Copyright = 
-[Exif IFD0 - 0xc4a5] Print IM = [350 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1 sec
 [Exif SubIFD - 0x829d] F-Number = f/8.0
@@ -143,6 +142,41 @@ FILE: Pentax 645D.jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
+[PrintIM - 0x0000] PrintIM Version = 0300
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x01000000
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x000000d6
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x0000011e
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x00000134
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x05000000
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0xff000000
+[PrintIM - 0x0102] Unknown tag (0x0102) = 0x83000000
+[PrintIM - 0x0103] Unknown tag (0x0103) = 0x83000000
+[PrintIM - 0x0104] Unknown tag (0x0104) = 0x83000000
+[PrintIM - 0x0105] Unknown tag (0x0105) = 0x83000000
+[PrintIM - 0x0106] Unknown tag (0x0106) = 0x83000000
+[PrintIM - 0x0107] Unknown tag (0x0107) = 0x80808000
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x80000000
+[PrintIM - 0x0200] Unknown tag (0x0200) = 0x00000000
+[PrintIM - 0x0207] Unknown tag (0x0207) = 0x00000000
+[PrintIM - 0x0208] Unknown tag (0x0208) = 0x00000000
+[PrintIM - 0x0209] Unknown tag (0x0209) = 0x00000000
+[PrintIM - 0x020a] Unknown tag (0x020a) = 0x00000000
+[PrintIM - 0x020b] Unknown tag (0x020b) = 0x00000144
+[PrintIM - 0x020d] Unknown tag (0x020d) = 0x00000000
+[PrintIM - 0x0300] Unknown tag (0x0300) = 0x05000000
+[PrintIM - 0x0301] Unknown tag (0x0301) = 0xff000000
+[PrintIM - 0x0302] Unknown tag (0x0302) = 0x83000000
+[PrintIM - 0x0303] Unknown tag (0x0303) = 0x83000000
+[PrintIM - 0x0306] Unknown tag (0x0306) = 0x83000000
+[PrintIM - 0x0310] Unknown tag (0x0310) = 0x80000000
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
@@ -159,6 +193,7 @@ FILE: Pentax 645D.jpg
     - Exif SubIFD
         - Casio Makernote
         - Interoperability
+    - PrintIM
     - Exif Thumbnail
 - File
 

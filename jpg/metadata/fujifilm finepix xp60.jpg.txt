@@ -26,7 +26,6 @@ FILE: FujiFilm FinePix XP60.jpg
 [Exif IFD0 - 0x0132] Date/Time = 2013:02:25 15:36:32
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8298] Copyright =     
-[Exif IFD0 - 0xc4a5] Print IM = [28 values]
 [Exif IFD0 - 0xea1c] Padding = [2060 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 0.25 sec
@@ -107,6 +106,10 @@ FILE: FujiFilm FinePix XP60.jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
+[PrintIM - 0x0000] PrintIM Version = 0250
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
@@ -134,6 +137,7 @@ FILE: FujiFilm FinePix XP60.jpg
     - Exif SubIFD
         - Fujifilm Makernote
         - Interoperability
+    - PrintIM
     - Exif Thumbnail
 - XMP
 - File

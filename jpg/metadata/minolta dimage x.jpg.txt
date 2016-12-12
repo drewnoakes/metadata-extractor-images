@@ -48,7 +48,7 @@ FILE: Minolta DiMAGE X.jpg
 [Olympus Makernote - 0x0201] JPEG Quality = Super High Quality
 [Olympus Makernote - 0x0202] Macro = Normal (no macro)
 [Olympus Makernote - 0x0203] BW Mode = Off
-[Olympus Makernote - 0x0204] DigiZoom Ratio = Normal
+[Olympus Makernote - 0x0204] Digital Zoom = 0
 [Olympus Makernote - 0x020e] Unknown tag (0x020e) = 0
 [Olympus Makernote - 0x020f] Unknown tag (0x020f) = 0
 [Olympus Makernote - 0x0210] Unknown tag (0x0210) = 0

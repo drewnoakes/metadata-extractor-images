@@ -14,7 +14,6 @@ FILE: Sony NEX-7.arw
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 140962
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 336497
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [106 values]
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 74 181 0 0
 
 [Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
@@ -155,6 +154,11 @@ FILE: Sony NEX-7.arw
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
+[PrintIM - 0x0000] PrintIM Version = 0300
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000022
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
+
 [Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010e] Image Description =                                
@@ -179,6 +183,7 @@ FILE: Sony NEX-7.arw
     - Exif SubIFD
         - Sony Makernote
         - Interoperability
+    - PrintIM
     - Exif Thumbnail
 - File
 

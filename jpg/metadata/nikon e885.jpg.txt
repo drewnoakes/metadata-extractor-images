@@ -70,7 +70,7 @@ FILE: Nikon E885.jpg
 [Nikon Makernote - 0x0095] Noise Reduction = OFF 
 [Nikon Makernote - 0x0010] Data Dump = [254 values]
 [Nikon Makernote - 0x0011] Preview IFD = 1764
-[Nikon Makernote - 0x0e00] Print IM = [94 values]
+[Nikon Makernote - 0x0e00] Print Image Matching (PIM) Info = [94 values]
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

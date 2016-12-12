@@ -60,7 +60,7 @@ FILE: Nikon Coolpix 775.jpg
 [Nikon Makernote - 0x0088] AF Focus Position = Centre
 [Nikon Makernote - 0x008f] Scene Mode =                
 [Nikon Makernote - 0x0010] Data Dump = [122 values]
-[Nikon Makernote - 0x0e00] Print IM = [94 values]
+[Nikon Makernote - 0x0e00] Print Image Matching (PIM) Info = [94 values]
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

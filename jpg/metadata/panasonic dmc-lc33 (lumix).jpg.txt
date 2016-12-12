@@ -18,7 +18,6 @@ FILE: Panasonic DMC-LC33 (Lumix).jpg
 [Exif IFD0 - 0x0131] Software = Ver1.08
 [Exif IFD0 - 0x0132] Date/Time = 2004:10:11 18:54:01
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0xc4a5] Print IM = [208 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/8 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.8
@@ -44,7 +43,7 @@ FILE: Panasonic DMC-LC33 (Lumix).jpg
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-[Exif SubIFD - 0xa302] CFA Pattern = 0 2 0 2 0 1 1 2
+[Exif SubIFD - 0xa302] CFA Pattern = [Red,Green][Green,Blue]
 [Exif SubIFD - 0xa401] Custom Rendered = Normal process
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
@@ -72,6 +71,22 @@ FILE: Panasonic DMC-LC33 (Lumix).jpg
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
+[PrintIM - 0x0000] PrintIM Version = 0250
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000000
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000064
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x000000ac
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x000000c4
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000005
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000001
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x00000080
+
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
@@ -89,6 +104,7 @@ FILE: Panasonic DMC-LC33 (Lumix).jpg
     - Exif SubIFD
         - Panasonic Makernote
         - Interoperability
+    - PrintIM
     - Exif Thumbnail
 - File
 
