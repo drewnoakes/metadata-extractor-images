@@ -1,5 +1,7 @@
 FILE: fc3e2b992c559055267e26dc23e484c0.gif
 
+[ERROR: Error] IOException processing GIF data
+
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 100
 [GIF Header - 0x0003] Image Height = 45
@@ -9,11 +11,25 @@ FILE: fc3e2b992c559055267e26dc23e484c0.gif
 [GIF Header - 0x0007] Has Global Color Table = true
 [GIF Header - 0x0008] Background Color Index = 0
 
+[GIF Control - 0x0001] Delay = 0
+
+[GIF Image - 0x0001] Left = 0
+[GIF Image - 0x0002] Top = 0
+[GIF Image - 0x0003] Width = 100
+[GIF Image - 0x0004] Height = 45
+[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0006] Is Interlaced = false
+[GIF Image - 0x0007] Is Local Colour Table Sorted = false
+[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
+
 [File - 0x0001] File Name = fc3e2b992c559055267e26dc23e484c0.gif
 [File - 0x0002] File Size = 2172 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - GIF Header
+- GIF Control
+- GIF Image
+- Error
 - File
 
 Generated using metadata-extractor

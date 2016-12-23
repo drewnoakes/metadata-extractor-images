@@ -1,5 +1,7 @@
 FILE: 6d939393058de0579fca1bbf10ecff25.gif
 
+[ERROR: Error] IOException processing GIF data
+
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 160
 [GIF Header - 0x0003] Image Height = 120
@@ -9,11 +11,57 @@ FILE: 6d939393058de0579fca1bbf10ecff25.gif
 [GIF Header - 0x0007] Has Global Color Table = true
 [GIF Header - 0x0008] Background Color Index = 49
 
+[GIF Animation - 0x0001] Iteration Count = Infinite
+
+[GIF Control - 0x0001] Delay = 140
+
+[GIF Image - 0x0001] Left = 0
+[GIF Image - 0x0002] Top = 0
+[GIF Image - 0x0003] Width = 160
+[GIF Image - 0x0004] Height = 120
+[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0006] Is Interlaced = false
+[GIF Image - 0x0007] Is Local Colour Table Sorted = false
+[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
+
+[GIF Control - 0x0001] Delay = 150
+
+[GIF Image - 0x0001] Left = 0
+[GIF Image - 0x0002] Top = 0
+[GIF Image - 0x0003] Width = 160
+[GIF Image - 0x0004] Height = 120
+[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0006] Is Interlaced = false
+[GIF Image - 0x0007] Is Local Colour Table Sorted = false
+[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
+
+[GIF Control - 0x0001] Delay = 138
+
+[GIF Image - 0x0001] Left = 0
+[GIF Image - 0x0002] Top = 0
+[GIF Image - 0x0003] Width = 160
+[GIF Image - 0x0004] Height = 120
+[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0006] Is Interlaced = false
+[GIF Image - 0x0007] Is Local Colour Table Sorted = false
+[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
+
+[GIF Control - 0x0001] Delay = 145
+
 [File - 0x0001] File Name = 6d939393058de0579fca1bbf10ecff25.gif
 [File - 0x0002] File Size = 28672 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - GIF Header
+- GIF Animation
+- GIF Control
+- GIF Image
+- GIF Control
+- GIF Image
+- GIF Control
+- GIF Image
+- GIF Control
+- Error
 - File
 
 Generated using metadata-extractor
