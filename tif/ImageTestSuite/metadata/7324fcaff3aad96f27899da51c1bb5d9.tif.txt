@@ -1,6 +1,6 @@
 FILE: 7324fcaff3aad96f27899da51c1bb5d9.tif
 
-[ERROR: IPTC] Invalid IPTC tag marker at offset 29. Expected '0x1C' but got '0x0'.
+[ERROR: IPTC] Invalid IPTC tag marker at offset 29. Expected '0x1c' but got '0x0'.
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 4064 pixels
