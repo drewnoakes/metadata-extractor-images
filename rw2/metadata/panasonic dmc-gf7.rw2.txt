@@ -216,7 +216,7 @@ FILE: Panasonic DMC-GF7.rw2
 [Panasonic Makernote - 0x0085] Unknown tag (0x0085) = [128 values]
 [Panasonic Makernote - 0x0087] Unknown tag (0x0087) = 65535
 [Panasonic Makernote - 0x0089] Photo Style = Standard or Custom
-[Panasonic Makernote - 0x008a] Shading Compensation = On
+[Panasonic Makernote - 0x008a] Shading Compensation = Off
 [Panasonic Makernote - 0x008b] Unknown tag (0x008b) = 0
 [Panasonic Makernote - 0x008c] Accelerometer Z = 260
 [Panasonic Makernote - 0x008d] Accelerometer X = -10
