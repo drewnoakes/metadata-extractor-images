@@ -1,4 +1,5 @@
 FILE: s37i3p04.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 37
 [PNG-IHDR - 0x0002] Image Height = 37

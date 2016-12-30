@@ -1,4 +1,5 @@
 FILE: Sigma DP2 Quattro.x3f
+TYPE: UNKNOWN
 
 EXCEPTION: File format is not supported
 

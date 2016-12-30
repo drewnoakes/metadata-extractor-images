@@ -1,4 +1,5 @@
 FILE: gimp-8x12-greyscale-alpha-time-background.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 8
 [PNG-IHDR - 0x0002] Image Height = 12

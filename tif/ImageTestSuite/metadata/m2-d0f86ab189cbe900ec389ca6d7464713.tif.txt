@@ -1,4 +1,5 @@
 FILE: m2-d0f86ab189cbe900ec389ca6d7464713.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset

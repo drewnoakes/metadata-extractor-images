@@ -1,4 +1,5 @@
 FILE: m2-f55287249b20fd368b4683f8336153d3.tif
+TYPE: TIFF
 
 [ERROR: Exif Thumbnail] Illegally sized IFD
 

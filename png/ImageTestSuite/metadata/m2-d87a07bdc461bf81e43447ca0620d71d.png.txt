@@ -1,4 +1,5 @@
 FILE: m2-d87a07bdc461bf81e43447ca0620d71d.png
+TYPE: UNKNOWN
 
 EXCEPTION: File format is not supported
 

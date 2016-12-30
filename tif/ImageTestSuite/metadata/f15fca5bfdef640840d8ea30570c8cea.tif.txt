@@ -1,4 +1,5 @@
 FILE: f15fca5bfdef640840d8ea30570c8cea.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 995 pixels

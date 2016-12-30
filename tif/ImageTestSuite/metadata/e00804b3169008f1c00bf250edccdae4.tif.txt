@@ -1,4 +1,5 @@
 FILE: e00804b3169008f1c00bf250edccdae4.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 1664 pixels

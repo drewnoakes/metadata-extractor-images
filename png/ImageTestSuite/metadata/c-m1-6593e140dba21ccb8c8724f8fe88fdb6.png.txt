@@ -1,4 +1,5 @@
 FILE: c-m1-6593e140dba21ccb8c8724f8fe88fdb6.png
+TYPE: PNG
 
 [ERROR: PNG-zTXt] Invalid compression method value
 

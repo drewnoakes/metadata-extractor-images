@@ -1,4 +1,5 @@
 FILE: BlazRobar Thinking Head Icon Set.eps
+TYPE: UNKNOWN
 
 EXCEPTION: File format is not supported
 

@@ -1,4 +1,5 @@
 FILE: ee6d1133f9264dc6467990e53d0bf104.gif
+TYPE: GIF
 
 [ERROR: Error] IOException processing GIF data
 

@@ -1,4 +1,5 @@
 FILE: photoshop-8x12-16colorpalette.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 8
 [PNG-IHDR - 0x0002] Image Height = 12

@@ -1,4 +1,5 @@
 FILE: b0b8914cc5f7a6eff409f16d8cc236c5.jpg
+TYPE: JPEG
 
 [JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
 [JPEG - 0x0000] Data Precision = 8 bits

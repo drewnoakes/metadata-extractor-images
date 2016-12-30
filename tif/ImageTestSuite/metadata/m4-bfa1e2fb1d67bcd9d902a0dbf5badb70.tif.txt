@@ -1,4 +1,5 @@
 FILE: m4-bfa1e2fb1d67bcd9d902a0dbf5badb70.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 211 for tag 0x0112
 [ERROR: Exif Thumbnail] Invalid TIFF tag format code 49156 for tag 0x00FE

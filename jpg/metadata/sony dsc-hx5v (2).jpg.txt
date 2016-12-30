@@ -1,4 +1,5 @@
 FILE: Sony DSC-HX5V (2).jpg
+TYPE: JPEG
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0001
 [ERROR: Exif Thumbnail] Invalid TIFF tag format code 0 for tag 0x0001

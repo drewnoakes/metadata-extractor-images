@@ -1,4 +1,5 @@
 FILE: c-m1-aded9dc1dc9361363ad0b426c2ff1846.png
+TYPE: PNG
 
 [ERROR: ICC Profile] Exception reading ICC profile: Block length does not match with its complement.
 [ERROR: PNG-zTXt] Invalid compression method value

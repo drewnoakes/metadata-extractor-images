@@ -1,4 +1,5 @@
 FILE: 3cc4a7fc6481ea3681138da4643f3d16.jpg
+TYPE: JPEG
 
 [JPEG - 0xfffffffd] Compression Type = Extended sequential, Huffman
 [JPEG - 0x0000] Data Precision = 8 bits

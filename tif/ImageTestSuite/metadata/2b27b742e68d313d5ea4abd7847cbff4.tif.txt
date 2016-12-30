@@ -1,4 +1,5 @@
 FILE: 2b27b742e68d313d5ea4abd7847cbff4.tif
+TYPE: ARW
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 3432 pixels

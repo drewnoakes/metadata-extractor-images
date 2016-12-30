@@ -1,4 +1,5 @@
 FILE: m1-79818c280a08c94bf7fd2a54b1e2567d.tif
+TYPE: ARW
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x4442
 [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0xA3A0

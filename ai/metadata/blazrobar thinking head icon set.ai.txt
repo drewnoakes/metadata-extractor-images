@@ -1,4 +1,5 @@
 FILE: BlazRobar Thinking Head Icon Set.ai
+TYPE: UNKNOWN
 
 EXCEPTION: File format is not supported
 

@@ -1,4 +1,5 @@
 FILE: c0d253443d8d4241035fff993ea0581b.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 600 pixels

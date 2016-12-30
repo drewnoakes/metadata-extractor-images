@@ -1,4 +1,5 @@
 FILE: Kyocera FC-S3.jpg
+TYPE: JPEG
 
 [ERROR: PrintIM] Invalid PrintIM header
 

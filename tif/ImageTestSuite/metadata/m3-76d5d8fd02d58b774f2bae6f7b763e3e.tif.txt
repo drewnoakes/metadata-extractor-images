@@ -1,4 +1,5 @@
 FILE: m3-76d5d8fd02d58b774f2bae6f7b763e3e.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x0100] Image Width = 234 pixels
 [Exif IFD0 - 0x0101] Image Height = 213 pixels

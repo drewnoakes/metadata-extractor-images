@@ -1,4 +1,5 @@
 FILE: 0b7d50ac449fd59eb3de00647636d0c9.png
+TYPE: PNG
 
 EXCEPTION: Invalid number of bytes
 

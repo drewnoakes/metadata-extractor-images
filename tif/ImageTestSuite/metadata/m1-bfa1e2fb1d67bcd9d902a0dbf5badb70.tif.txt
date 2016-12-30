@@ -1,4 +1,5 @@
 FILE: m1-bfa1e2fb1d67bcd9d902a0dbf5badb70.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset

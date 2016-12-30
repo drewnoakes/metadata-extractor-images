@@ -1,4 +1,5 @@
 FILE: gimp-export-raw.pbm
+TYPE: NETPBM
 
 EXCEPTION: MaxValue is not parseable as an integer.
 

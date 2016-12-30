@@ -1,4 +1,5 @@
 FILE: 401d27e0565674c24a017588b8cd61d2.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 928 pixels

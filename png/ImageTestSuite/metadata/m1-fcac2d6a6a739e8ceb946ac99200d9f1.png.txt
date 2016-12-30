@@ -1,4 +1,5 @@
 FILE: m1-fcac2d6a6a739e8ceb946ac99200d9f1.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 32
 [PNG-IHDR - 0x0002] Image Height = 32

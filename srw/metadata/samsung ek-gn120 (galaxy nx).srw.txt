@@ -1,4 +1,5 @@
 FILE: Samsung EK-GN120 (Galaxy NX).srw
+TYPE: TIFF
 
 [Exif IFD0 - 0x010f] Make = SAMSUNG
 [Exif IFD0 - 0x0110] Model = EK-GN120

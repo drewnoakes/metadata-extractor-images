@@ -1,4 +1,5 @@
 FILE: m1-a1f9d85a8243b884d40e74f656c55e75.png
+TYPE: PNG
 
 EXCEPTION: PNG chunk type identifier may only contain alphabet characters
 

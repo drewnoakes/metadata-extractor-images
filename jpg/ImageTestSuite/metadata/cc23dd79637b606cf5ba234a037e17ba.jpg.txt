@@ -1,4 +1,5 @@
 FILE: cc23dd79637b606cf5ba234a037e17ba.jpg
+TYPE: JPEG
 
 [JFIF - 0x0005] Version = 4.73
 [JFIF - 0x0007] Resolution Units = none

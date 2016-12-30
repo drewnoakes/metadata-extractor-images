@@ -1,4 +1,5 @@
 FILE: Sony ILCE-5000 (A5000).jpg
+TYPE: JPEG
 
 [ERROR: Sony Makernote] Illegal TIFF tag pointer offset
 

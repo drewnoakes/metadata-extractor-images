@@ -1,4 +1,5 @@
 FILE: 16color-10x10.bmp
+TYPE: BMP
 
 [BMP Header - 0xffffffff] Header Size = 40
 [BMP Header - 0x0002] Image Width = 10

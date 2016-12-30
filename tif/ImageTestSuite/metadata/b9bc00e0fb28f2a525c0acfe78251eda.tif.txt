@@ -1,4 +1,5 @@
 FILE: b9bc00e0fb28f2a525c0acfe78251eda.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0100] Image Width = 1728 pixels

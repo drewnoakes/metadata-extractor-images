@@ -1,4 +1,5 @@
 FILE: d45b0dbbb808df6486f8a13ea44ea174.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 91
 [PNG-IHDR - 0x0002] Image Height = 69

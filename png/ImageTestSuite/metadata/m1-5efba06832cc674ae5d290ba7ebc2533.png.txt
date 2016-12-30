@@ -1,4 +1,5 @@
 FILE: m1-5efba06832cc674ae5d290ba7ebc2533.png
+TYPE: PNG
 
 [ERROR: PNG-tIME] Error constructing DateTime: Year, Month, and Day parameters describe an un-representable DateTime.
 

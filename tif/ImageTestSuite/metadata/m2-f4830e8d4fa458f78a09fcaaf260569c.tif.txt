@@ -1,4 +1,5 @@
 FILE: m2-f4830e8d4fa458f78a09fcaaf260569c.tif
+TYPE: ARW
 
 [ERROR: XMP] Error processing XMP data: Unsupported Encoding
 [ERROR: IPTC] Invalid IPTC tag marker at offset 7. Expected '0x1c' but got '0x27'.

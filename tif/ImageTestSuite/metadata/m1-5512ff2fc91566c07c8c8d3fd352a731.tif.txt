@@ -1,4 +1,5 @@
 FILE: m1-5512ff2fc91566c07c8c8d3fd352a731.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 2267

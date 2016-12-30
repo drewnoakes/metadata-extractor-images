@@ -1,4 +1,5 @@
 FILE: c-f23a99688fa66359f6186678e6b2f14a.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 58
 [PNG-IHDR - 0x0002] Image Height = 58

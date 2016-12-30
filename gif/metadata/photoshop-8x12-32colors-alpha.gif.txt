@@ -1,4 +1,5 @@
 FILE: photoshop-8x12-32colors-alpha.gif
+TYPE: GIF
 
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 8

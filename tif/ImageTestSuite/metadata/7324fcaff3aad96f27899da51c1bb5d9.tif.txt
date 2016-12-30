@@ -1,4 +1,5 @@
 FILE: 7324fcaff3aad96f27899da51c1bb5d9.tif
+TYPE: TIFF
 
 [ERROR: IPTC] Invalid IPTC tag marker at offset 29. Expected '0x1c' but got '0x0'.
 

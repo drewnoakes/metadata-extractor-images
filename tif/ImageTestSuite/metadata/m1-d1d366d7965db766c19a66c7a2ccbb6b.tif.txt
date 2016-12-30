@@ -1,4 +1,5 @@
 FILE: m1-d1d366d7965db766c19a66c7a2ccbb6b.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 57099 for tag 0x0001
 [ERROR: Exif IFD0] Invalid TIFF tag format code 51875 for tag 0x0000

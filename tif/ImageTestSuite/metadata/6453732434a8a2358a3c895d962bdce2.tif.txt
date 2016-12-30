@@ -1,4 +1,5 @@
 FILE: 6453732434a8a2358a3c895d962bdce2.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 200 pixels

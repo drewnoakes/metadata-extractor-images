@@ -1,4 +1,5 @@
 FILE: m2-8f2b481b7fd9bd745e620b7c01a18df2.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 73
 [PNG-IHDR - 0x0002] Image Height = 31

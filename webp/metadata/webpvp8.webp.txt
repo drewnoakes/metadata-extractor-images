@@ -1,4 +1,5 @@
 FILE: webpvp8.webp
+TYPE: RIFF
 
 [WebP - 0x0002] Image Width = 1600
 [WebP - 0x0001] Image Height = 900

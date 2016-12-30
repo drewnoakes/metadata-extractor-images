@@ -1,4 +1,5 @@
 FILE: 463d3570f92a6b6ecba0cc4fd9a7a384.png
+TYPE: PNG
 
 EXCEPTION: Observed multiple instances of PNG chunk 'PLTE', for which multiples are not allowed
 

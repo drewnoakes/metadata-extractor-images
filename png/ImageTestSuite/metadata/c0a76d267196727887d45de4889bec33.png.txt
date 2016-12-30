@@ -1,4 +1,5 @@
 FILE: c0a76d267196727887d45de4889bec33.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 91
 [PNG-IHDR - 0x0002] Image Height = 69

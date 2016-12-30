@@ -1,4 +1,5 @@
 FILE: m1-3c6b71d657852e13d0b5dfc0906343f5.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 31747 for tag 0x0187
 [ERROR: Exif IFD0] Invalid TIFF tag format code 82 for tag 0x0112

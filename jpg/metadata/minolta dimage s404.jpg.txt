@@ -1,4 +1,5 @@
 FILE: Minolta DiMAGE S404.jpg
+TYPE: JPEG
 
 [ERROR: Olympus Makernote] Illegal TIFF tag pointer offset
 

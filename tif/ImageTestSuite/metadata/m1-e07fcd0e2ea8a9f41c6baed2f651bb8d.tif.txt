@@ -1,4 +1,5 @@
 FILE: m1-e07fcd0e2ea8a9f41c6baed2f651bb8d.tif
+TYPE: ARW
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 16 for tag 0x0116
 

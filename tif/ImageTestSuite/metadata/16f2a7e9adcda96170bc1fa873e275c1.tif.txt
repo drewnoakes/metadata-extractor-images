@@ -1,4 +1,5 @@
 FILE: 16f2a7e9adcda96170bc1fa873e275c1.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x0100] Image Width = 333 pixels
 [Exif IFD0 - 0x0101] Image Height = 225 pixels

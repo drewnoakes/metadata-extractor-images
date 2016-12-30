@@ -1,4 +1,5 @@
 FILE: m2-299787ea764c0a88bc481364eded5556.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 134 for tag 0x010A
 [ERROR: Exif Thumbnail] Invalid TIFF tag format code 59396 for tag 0x0124

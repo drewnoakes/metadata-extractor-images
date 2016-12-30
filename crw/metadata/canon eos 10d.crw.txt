@@ -1,4 +1,5 @@
 FILE: Canon EOS 10D.crw
+TYPE: CRW
 
 EXCEPTION: File format is not supported
 

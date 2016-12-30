@@ -1,4 +1,5 @@
 FILE: Pentax QS1.dng
+TYPE: ARW
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 160 pixels

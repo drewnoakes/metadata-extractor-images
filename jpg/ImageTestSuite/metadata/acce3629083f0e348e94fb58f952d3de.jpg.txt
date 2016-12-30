@@ -1,4 +1,5 @@
 FILE: acce3629083f0e348e94fb58f952d3de.jpg
+TYPE: JPEG
 
 [File - 0x0001] File Name = acce3629083f0e348e94fb58f952d3de.jpg
 [File - 0x0002] File Size = 357 bytes

@@ -1,4 +1,5 @@
 FILE: 3755b21390a93c1474aef88f4162de17.tif
+TYPE: TIFF
 
 [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
 

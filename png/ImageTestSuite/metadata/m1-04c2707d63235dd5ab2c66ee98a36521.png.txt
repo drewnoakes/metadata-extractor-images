@@ -1,4 +1,5 @@
 FILE: m1-04c2707d63235dd5ab2c66ee98a36521.png
+TYPE: PNG
 
 EXCEPTION: End of data reached.
 

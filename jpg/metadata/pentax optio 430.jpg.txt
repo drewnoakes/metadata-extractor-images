@@ -1,4 +1,5 @@
 FILE: Pentax Optio 430.jpg
+TYPE: JPEG
 
 [ERROR: PrintIM] Invalid PrintIM header
 

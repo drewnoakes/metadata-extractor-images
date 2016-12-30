@@ -1,4 +1,5 @@
 FILE: Pentax QS1.jpg
+TYPE: JPEG
 
 [ERROR: Pentax Makernote] Illegally sized IFD
 

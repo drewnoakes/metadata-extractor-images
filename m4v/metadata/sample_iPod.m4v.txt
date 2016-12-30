@@ -1,4 +1,5 @@
 FILE: sample_iPod.m4v
+TYPE: QUICKTIME
 
 [QuickTime File Type - 0x0001] Major Brand = M4V 
 [QuickTime File Type - 0x0002] Minor Version = 1

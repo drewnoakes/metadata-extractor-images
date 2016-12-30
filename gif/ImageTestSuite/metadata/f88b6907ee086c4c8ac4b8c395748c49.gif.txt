@@ -1,4 +1,5 @@
 FILE: f88b6907ee086c4c8ac4b8c395748c49.gif
+TYPE: GIF
 
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 79

@@ -1,4 +1,5 @@
 FILE: f8179f8f5e566349cf3583a1ff3ea95c.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00ff] Subfile Type = Single page of multi-page image
 [Exif IFD0 - 0x0100] Image Width = 1656 pixels

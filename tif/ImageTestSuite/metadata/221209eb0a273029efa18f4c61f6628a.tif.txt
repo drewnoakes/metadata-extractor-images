@@ -1,4 +1,5 @@
 FILE: 221209eb0a273029efa18f4c61f6628a.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x0100] Image Width = 500 pixels
 [Exif IFD0 - 0x0101] Image Height = 396 pixels

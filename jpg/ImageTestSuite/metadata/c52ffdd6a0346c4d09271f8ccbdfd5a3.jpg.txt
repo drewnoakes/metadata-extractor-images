@@ -1,4 +1,5 @@
 FILE: c52ffdd6a0346c4d09271f8ccbdfd5a3.jpg
+TYPE: JPEG
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

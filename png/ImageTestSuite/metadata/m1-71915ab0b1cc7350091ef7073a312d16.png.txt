@@ -1,4 +1,5 @@
 FILE: m1-71915ab0b1cc7350091ef7073a312d16.png
+TYPE: UNKNOWN
 
 EXCEPTION: File format is not supported
 

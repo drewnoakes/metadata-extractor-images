@@ -1,4 +1,5 @@
 FILE: c4ced510f44a9bfe85c696c05a7f791d.jpg
+TYPE: JPEG
 
 EXCEPTION: JPEG segment size would be less than zero
 

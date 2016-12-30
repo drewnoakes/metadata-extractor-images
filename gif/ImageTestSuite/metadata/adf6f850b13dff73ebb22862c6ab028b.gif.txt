@@ -1,4 +1,5 @@
 FILE: adf6f850b13dff73ebb22862c6ab028b.gif
+TYPE: GIF
 
 [ERROR: Error] IOException processing GIF data
 

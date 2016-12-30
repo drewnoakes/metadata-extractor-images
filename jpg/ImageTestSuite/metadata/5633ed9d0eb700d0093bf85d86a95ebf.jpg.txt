@@ -1,4 +1,5 @@
 FILE: 5633ed9d0eb700d0093bf85d86a95ebf.jpg
+TYPE: JPEG
 
 [JFXX - 0x0005] Extension Code = Unknown extension code 1
 

@@ -1,4 +1,5 @@
 FILE: Nikon Coolpix P7000.webp
+TYPE: RIFF
 
 [WebP - 0x0002] Image Width = 3648
 [WebP - 0x0001] Image Height = 2736

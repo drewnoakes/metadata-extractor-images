@@ -1,4 +1,5 @@
 FILE: gimp-export-ascii.pnm
+TYPE: NETPBM
 
 [Netpbm - 0x0001] Format Type = Portable PixMap (ASCII, B&W)
 [Netpbm - 0x0002] Width = 32

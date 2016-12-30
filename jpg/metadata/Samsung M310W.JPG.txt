@@ -1,4 +1,5 @@
 FILE: Samsung M310W.JPG
+TYPE: JPEG
 
 [ERROR: Samsung Makernote] Illegally sized IFD
 

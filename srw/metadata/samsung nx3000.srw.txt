@@ -1,4 +1,5 @@
 FILE: Samsung NX3000.srw
+TYPE: ARW
 
 [Exif IFD0 - 0x010f] Make = SAMSUNG
 [Exif IFD0 - 0x0110] Model = NX3000

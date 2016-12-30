@@ -1,4 +1,5 @@
 FILE: m1-b127f0fb89daedea07abb50b9db2dfd9.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x0100] Image Width = 1250 pixels
 [Exif IFD0 - 0x0101] Image Height = 2200 pixels

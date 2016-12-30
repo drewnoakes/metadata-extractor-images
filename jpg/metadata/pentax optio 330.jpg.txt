@@ -1,4 +1,5 @@
 FILE: Pentax Optio 330.jpg
+TYPE: JPEG
 
 [ERROR: PrintIM] Invalid PrintIM header
 

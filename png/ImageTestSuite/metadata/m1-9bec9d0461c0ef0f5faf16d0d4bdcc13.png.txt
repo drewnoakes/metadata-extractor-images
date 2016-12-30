@@ -1,4 +1,5 @@
 FILE: m1-9bec9d0461c0ef0f5faf16d0d4bdcc13.png
+TYPE: PNG
 
 [ERROR: PNG-iCCP] Invalid compression method value
 

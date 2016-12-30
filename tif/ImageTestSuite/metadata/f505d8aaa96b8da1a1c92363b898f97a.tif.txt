@@ -1,4 +1,5 @@
 FILE: f505d8aaa96b8da1a1c92363b898f97a.tif
+TYPE: ARW
 
 [Exif IFD0 - 0x0100] Image Width = 350 pixels
 [Exif IFD0 - 0x0101] Image Height = 233 pixels

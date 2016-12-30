@@ -1,4 +1,5 @@
 FILE: 7e7cdf7f4ee50b308531313bbf43e0c3.jpg
+TYPE: JPEG
 
 [JFIF - 0x0005] Version = 148.195
 [JFIF - 0x0007] Resolution Units = unit

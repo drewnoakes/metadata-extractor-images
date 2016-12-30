@@ -1,4 +1,5 @@
 FILE: m1-1b5df699719c4a7cc8314ab9af139405.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 200
 [PNG-IHDR - 0x0002] Image Height = 171

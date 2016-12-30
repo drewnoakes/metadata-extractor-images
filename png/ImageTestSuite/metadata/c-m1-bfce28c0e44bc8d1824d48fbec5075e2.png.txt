@@ -1,4 +1,5 @@
 FILE: c-m1-bfce28c0e44bc8d1824d48fbec5075e2.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 48
 [PNG-IHDR - 0x0002] Image Height = 48

@@ -1,4 +1,5 @@
 FILE: c-m3-a46ce91d8975a017917156b8824f936e.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 120
 [PNG-IHDR - 0x0002] Image Height = 120

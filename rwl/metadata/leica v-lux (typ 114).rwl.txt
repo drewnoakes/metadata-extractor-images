@@ -1,4 +1,5 @@
 FILE: Leica V-LUX (Typ 114).rwl
+TYPE: RW2
 
 [PanasonicRaw Exif IFD0 - 0x0001] Panasonic Raw Version = 3.50
 [PanasonicRaw Exif IFD0 - 0x0002] Sensor Width = 5488

@@ -1,4 +1,5 @@
 FILE: sample_mpeg4.mp4
+TYPE: QUICKTIME
 
 [QuickTime File Type - 0x0001] Major Brand = mp42
 [QuickTime File Type - 0x0002] Minor Version = 1

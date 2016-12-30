@@ -1,4 +1,5 @@
 FILE: tbgn2c16.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 32
 [PNG-IHDR - 0x0002] Image Height = 32

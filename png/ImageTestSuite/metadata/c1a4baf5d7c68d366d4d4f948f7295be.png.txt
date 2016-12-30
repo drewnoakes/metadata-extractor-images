@@ -1,4 +1,5 @@
 FILE: c1a4baf5d7c68d366d4d4f948f7295be.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 32
 [PNG-IHDR - 0x0002] Image Height = 32

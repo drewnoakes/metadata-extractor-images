@@ -1,4 +1,5 @@
 FILE: m1-f55287249b20fd368b4683f8336153d3.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 120 for tag 0x9C48
 [ERROR: Exif Thumbnail] Invalid TIFF tag format code 247 for tag 0x0102

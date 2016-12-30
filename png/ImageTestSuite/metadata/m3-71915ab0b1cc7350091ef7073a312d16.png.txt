@@ -1,4 +1,5 @@
 FILE: m3-71915ab0b1cc7350091ef7073a312d16.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 60
 [PNG-IHDR - 0x0002] Image Height = 34

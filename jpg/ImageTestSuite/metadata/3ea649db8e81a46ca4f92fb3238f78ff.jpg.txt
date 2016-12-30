@@ -1,4 +1,5 @@
 FILE: 3ea649db8e81a46ca4f92fb3238f78ff.jpg
+TYPE: JPEG
 
 [File - 0x0001] File Name = 3ea649db8e81a46ca4f92fb3238f78ff.jpg
 [File - 0x0002] File Size = 1718 bytes

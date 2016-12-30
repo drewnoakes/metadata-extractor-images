@@ -1,4 +1,5 @@
 FILE: m1-ed254aa9f390aab319728b42e00a73e7.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00ff] Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 1512 pixels

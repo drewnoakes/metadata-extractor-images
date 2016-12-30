@@ -1,4 +1,5 @@
 FILE: bd927c8547634cdbdd22af0afe818a9b.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 200
 [PNG-IHDR - 0x0002] Image Height = 250

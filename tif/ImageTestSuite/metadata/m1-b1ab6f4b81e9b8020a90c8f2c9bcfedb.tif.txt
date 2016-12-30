@@ -1,4 +1,5 @@
 FILE: m1-b1ab6f4b81e9b8020a90c8f2c9bcfedb.tif
+TYPE: ARW
 
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset

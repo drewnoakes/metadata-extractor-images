@@ -1,4 +1,5 @@
 FILE: 56d4a1bb53241f7c5ed6ab531320a542.jpg
+TYPE: JPEG
 
 [ERROR: Error] Exception processing TIFF data: Unclear distinction between Motorola/Intel byte ordering: 23629
 

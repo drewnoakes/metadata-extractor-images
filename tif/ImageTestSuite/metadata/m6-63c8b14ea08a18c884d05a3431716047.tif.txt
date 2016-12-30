@@ -1,4 +1,5 @@
 FILE: m6-63c8b14ea08a18c884d05a3431716047.tif
+TYPE: ARW
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 52739 for tag 0x0129
 

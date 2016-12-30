@@ -1,4 +1,5 @@
 FILE: 754664a12e36abff7950e796c906ae39.jpg
+TYPE: JPEG
 
 EXCEPTION: End of data reached.
 

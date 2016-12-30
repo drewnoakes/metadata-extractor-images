@@ -1,4 +1,5 @@
 FILE: m8-336db1cd76254717eb50a8602b651fbf.tif
+TYPE: UNKNOWN
 
 EXCEPTION: File format is not supported
 

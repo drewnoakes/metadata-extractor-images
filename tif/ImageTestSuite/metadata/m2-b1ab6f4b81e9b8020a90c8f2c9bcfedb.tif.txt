@@ -1,4 +1,5 @@
 FILE: m2-b1ab6f4b81e9b8020a90c8f2c9bcfedb.tif
+TYPE: ARW
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 65284 for tag 0x0146
 [ERROR: Exif Thumbnail] Invalid TIFF tag format code 62211 for tag 0x0147

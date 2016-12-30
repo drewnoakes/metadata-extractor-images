@@ -1,4 +1,5 @@
 FILE: m2-f228b1103fd7b629c08c1bbba94708e0.tif
+TYPE: ARW
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 4680 pixels

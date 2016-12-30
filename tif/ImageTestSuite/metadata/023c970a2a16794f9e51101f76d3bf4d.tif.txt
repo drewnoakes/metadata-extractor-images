@@ -1,4 +1,5 @@
 FILE: 023c970a2a16794f9e51101f76d3bf4d.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 689 pixels

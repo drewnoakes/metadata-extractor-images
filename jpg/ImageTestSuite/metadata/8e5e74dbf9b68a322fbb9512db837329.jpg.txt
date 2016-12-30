@@ -1,4 +1,5 @@
 FILE: 8e5e74dbf9b68a322fbb9512db837329.jpg
+TYPE: JPEG
 
 [ERROR: Error] Exception processing TIFF data: Unexpected TIFF marker: 0xD2
 

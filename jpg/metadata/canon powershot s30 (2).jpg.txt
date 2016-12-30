@@ -1,4 +1,5 @@
 FILE: Canon PowerShot S30 (2).jpg
+TYPE: JPEG
 
 [ERROR: Interoperability] Ignored IFD marked to start outside data segment
 

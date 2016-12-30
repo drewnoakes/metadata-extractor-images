@@ -1,4 +1,5 @@
 FILE: Canon EOS 7D.cr2
+TYPE: CR2
 
 [Exif IFD0 - 0x0100] Image Width = 5184 pixels
 [Exif IFD0 - 0x0101] Image Height = 3456 pixels

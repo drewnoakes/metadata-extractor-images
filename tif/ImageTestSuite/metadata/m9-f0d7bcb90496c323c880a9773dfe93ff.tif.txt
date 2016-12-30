@@ -1,4 +1,5 @@
 FILE: m9-f0d7bcb90496c323c880a9773dfe93ff.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 

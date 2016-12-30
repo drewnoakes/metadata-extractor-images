@@ -1,4 +1,5 @@
 FILE: 0301fde58080883e938b604cab9768ea.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 48
 [PNG-IHDR - 0x0002] Image Height = 48

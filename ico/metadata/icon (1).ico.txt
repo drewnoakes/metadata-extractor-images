@@ -1,4 +1,5 @@
 FILE: Icon (1).ico
+TYPE: ICO
 
 [ICO - 0x0001] Image Type = Icon
 [ICO - 0x0002] Image Width = 48 pixels

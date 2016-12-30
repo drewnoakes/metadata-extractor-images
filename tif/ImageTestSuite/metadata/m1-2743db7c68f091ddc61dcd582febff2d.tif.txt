@@ -1,4 +1,5 @@
 FILE: m1-2743db7c68f091ddc61dcd582febff2d.tif
+TYPE: ARW
 
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 

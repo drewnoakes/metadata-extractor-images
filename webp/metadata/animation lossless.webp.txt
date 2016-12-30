@@ -1,4 +1,5 @@
 FILE: Animation Lossless.webp
+TYPE: RIFF
 
 [WebP - 0x0002] Image Width = 320
 [WebP - 0x0001] Image Height = 240

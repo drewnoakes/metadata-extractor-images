@@ -1,4 +1,5 @@
 FILE: invalid-iCCP-missing-adler32-checksum.png
+TYPE: PNG
 
 [ERROR: ICC Profile] Exception reading ICC profile: Block length does not match with its complement.
 

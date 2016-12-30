@@ -1,4 +1,5 @@
 FILE: Nikon D1X.webp
+TYPE: RIFF
 
 [ERROR: GPS] Invalid TIFF tag format code 0 for tag 0x0000
 

@@ -1,4 +1,5 @@
 FILE: c16f4894de3142b98e8f3d8fc6b3d23e.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x0100] Image Width = 50 pixels
 [Exif IFD0 - 0x0101] Image Height = 50 pixels

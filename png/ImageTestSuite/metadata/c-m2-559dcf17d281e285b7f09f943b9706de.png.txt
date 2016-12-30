@@ -1,4 +1,5 @@
 FILE: c-m2-559dcf17d281e285b7f09f943b9706de.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 9
 [PNG-IHDR - 0x0002] Image Height = 11

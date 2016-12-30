@@ -1,4 +1,5 @@
 FILE: m1-8110934bb3b18d0e87ccc1ddfc5f0107.tif
+TYPE: TIFF
 
 [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
 

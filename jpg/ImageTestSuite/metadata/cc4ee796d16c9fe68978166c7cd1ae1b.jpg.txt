@@ -1,4 +1,5 @@
 FILE: cc4ee796d16c9fe68978166c7cd1ae1b.jpg
+TYPE: JPEG
 
 [File - 0x0001] File Name = cc4ee796d16c9fe68978166c7cd1ae1b.jpg
 [File - 0x0002] File Size = 613 bytes

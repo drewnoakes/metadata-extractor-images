@@ -1,4 +1,5 @@
 FILE: Sony NEX-5N.jpg
+TYPE: JPEG
 
 [ERROR: Sony Makernote] Illegal TIFF tag pointer offset
 

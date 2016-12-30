@@ -1,4 +1,5 @@
 FILE: 27d40bc5f25d8382b890766accb28cf7.tif
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 1110 pixels

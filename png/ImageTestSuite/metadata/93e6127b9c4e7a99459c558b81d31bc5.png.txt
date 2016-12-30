@@ -1,4 +1,5 @@
 FILE: 93e6127b9c4e7a99459c558b81d31bc5.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 50
 [PNG-IHDR - 0x0002] Image Height = 50

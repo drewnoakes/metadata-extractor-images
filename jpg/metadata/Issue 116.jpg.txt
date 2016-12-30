@@ -1,4 +1,5 @@
 FILE: Issue 116.jpg
+TYPE: JPEG
 
 [ERROR: XMP] Unable to parse XMP property exif:ExposureProgram as an int.
 [ERROR: XMP] Unable to parse XMP property exif:ApertureValue as a Rational.

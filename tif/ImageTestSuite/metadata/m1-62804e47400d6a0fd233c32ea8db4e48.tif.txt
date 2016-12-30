@@ -1,4 +1,5 @@
 FILE: m1-62804e47400d6a0fd233c32ea8db4e48.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: XMP] Error processing XMP data: Unsupported Encoding

@@ -1,4 +1,5 @@
 FILE: SWPIC9.PCX
+TYPE: PCX
 
 [PCX - 0x0001] Version = 3.0 or better
 [PCX - 0x0002] Bits Per Pixel = 8

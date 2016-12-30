@@ -1,4 +1,5 @@
 FILE: Panasonic DMC-GF3.rw2
+TYPE: RW2
 
 [PanasonicRaw Exif IFD0 - 0x0001] Panasonic Raw Version = 3.10
 [PanasonicRaw Exif IFD0 - 0x0002] Sensor Width = 4088

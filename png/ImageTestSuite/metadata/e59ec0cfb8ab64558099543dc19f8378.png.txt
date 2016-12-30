@@ -1,4 +1,5 @@
 FILE: e59ec0cfb8ab64558099543dc19f8378.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 18
 [PNG-IHDR - 0x0002] Image Height = 11

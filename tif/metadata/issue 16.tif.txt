@@ -1,4 +1,5 @@
 FILE: Issue 16.tif
+TYPE: ARW
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
 [Exif IFD0 - 0x0100] Image Width = 728 pixels

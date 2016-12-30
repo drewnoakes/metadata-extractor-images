@@ -1,4 +1,5 @@
 FILE: m9-76c43508fc007bcf5902b6a28e8055a5.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 101 for tag 0x0128
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset

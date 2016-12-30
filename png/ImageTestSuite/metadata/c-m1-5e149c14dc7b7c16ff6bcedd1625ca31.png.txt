@@ -1,4 +1,5 @@
 FILE: c-m1-5e149c14dc7b7c16ff6bcedd1625ca31.png
+TYPE: PNG
 
 [ERROR: ICC Profile] Exception reading ICC profile: Block length does not match with its complement.
 

@@ -1,4 +1,5 @@
 FILE: BlazRobar Thinking Head Icon Set.psd
+TYPE: PSD
 
 [PSD Header - 0x0001] Channel Count = 4 channels
 [PSD Header - 0x0002] Image Height = 4925 pixels

@@ -1,4 +1,5 @@
 FILE: m4-299787ea764c0a88bc481364eded5556.tif
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 21251 for tag 0x0129
 [ERROR: Exif IFD0] Invalid TIFF tag format code 35075 for tag 0x0147

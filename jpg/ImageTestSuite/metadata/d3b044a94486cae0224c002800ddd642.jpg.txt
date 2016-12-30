@@ -1,4 +1,5 @@
 FILE: d3b044a94486cae0224c002800ddd642.jpg
+TYPE: JPEG
 
 EXCEPTION: JPEG segment size would be less than zero
 

@@ -1,4 +1,5 @@
 FILE: f5e7b9db8e8d002a26304f5c81889ee1.png
+TYPE: UNKNOWN
 
 EXCEPTION: File format is not supported
 

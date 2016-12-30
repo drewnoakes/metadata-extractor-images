@@ -1,4 +1,5 @@
 FILE: Bushnell Trophy HD Aggressor 119775C firmware BS685BWYx08237.jpg
+TYPE: JPEG
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits

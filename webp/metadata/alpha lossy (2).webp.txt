@@ -1,4 +1,5 @@
 FILE: Alpha Lossy (2).webp
+TYPE: RIFF
 
 [WebP - 0x0002] Image Width = 386
 [WebP - 0x0001] Image Height = 395

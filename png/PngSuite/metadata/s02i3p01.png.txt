@@ -1,4 +1,5 @@
 FILE: s02i3p01.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 2
 [PNG-IHDR - 0x0002] Image Height = 2

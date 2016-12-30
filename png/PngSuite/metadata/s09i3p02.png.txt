@@ -1,4 +1,5 @@
 FILE: s09i3p02.png
+TYPE: PNG
 
 [PNG-IHDR - 0x0001] Image Width = 9
 [PNG-IHDR - 0x0002] Image Height = 9

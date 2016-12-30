@@ -1,4 +1,5 @@
 FILE: c8bc97335529d069a753c67475b8c82c.jpg
+TYPE: JPEG
 
 [ERROR: JPEG] End of data reached.
 
