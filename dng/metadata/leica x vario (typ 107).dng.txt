@@ -49,7 +49,7 @@ TYPE: ARW
 [Exif SubIFD - 0x011b] Y Resolution = 300 dots per inch
 [Exif SubIFD - 0x0128] Resolution Unit = Inch
 [Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
-[Exif SubIFD - 0x828e] CFA Pattern = 0 1 1 2
+[Exif SubIFD - 0x828e] CFA Pattern = [Red,Green][Green,Blue]
 [Exif SubIFD - 0xc617] Unknown tag (0xc617) = 1
 [Exif SubIFD - 0xc61d] Unknown tag (0xc61d) = 4095
 [Exif SubIFD - 0xc61f] Unknown tag (0xc61f) = 8 5

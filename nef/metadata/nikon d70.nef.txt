@@ -48,7 +48,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif SubIFD - 0x0128] Resolution Unit = Inch
 [Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
-[Exif SubIFD - 0x828e] CFA Pattern = 2 1 1 0
+[Exif SubIFD - 0x828e] CFA Pattern = [Blue,Green][Green,Red]
 [Exif SubIFD - 0x9217] Unknown tag (0x9217) = 2
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/6400 sec

@@ -135,7 +135,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x0116] Rows Per Strip = 3714 rows/strip
 [Exif SubIFD - 0x0117] Strip Byte Counts = 21435872 bytes
 [Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
-[Exif SubIFD - 0x828e] CFA Pattern = 1 71 21 224
+[Exif SubIFD - 0x828e] CFA Pattern = [Green,Unknown][Unknown,Unknown]
 [Exif SubIFD - 0xa010] Unknown tag (0xa010) = 3165436
 [Exif SubIFD - 0xa011] Unknown tag (0xa011) = 14856
 [Exif SubIFD - 0xa101] Unknown tag (0xa101) = 

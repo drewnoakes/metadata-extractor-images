@@ -117,7 +117,7 @@ TYPE: ARW
 [Exif SubIFD - 0x0116] Rows Per Strip = 5600 rows/strip
 [Exif SubIFD - 0x0117] Strip Byte Counts = 19056696 bytes
 [Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
-[Exif SubIFD - 0x828e] CFA Pattern = 1 2 0 1
+[Exif SubIFD - 0x828e] CFA Pattern = [Green,Blue][Red,Green]
 [Exif SubIFD - 0xa010] Unknown tag (0xa010) = 0
 [Exif SubIFD - 0xa011] Unknown tag (0xa011) = 0
 [Exif SubIFD - 0xa101] Unknown tag (0xa101) = I
