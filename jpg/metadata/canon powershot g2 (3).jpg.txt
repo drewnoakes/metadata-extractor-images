@@ -45,8 +45,8 @@ TYPE: JPEG
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 640 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 480 pixels
-[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 140/1136000 inches
-[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 105/852000 inches
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 7/56800 inches
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 7/56800 inches
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)

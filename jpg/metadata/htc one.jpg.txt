@@ -27,10 +27,10 @@ TYPE: JPEG
 [Exif SubIFD - 0x9003] Date/Time Original = 2013:05:29 09:33:20
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2013:05:29 09:33:20
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 12145552/4085760 bits/pixel
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 759097/255360 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/221 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/2.0
-[Exif SubIFD - 0x9203] Brightness Value = 4779802/1000000
+[Exif SubIFD - 0x9203] Brightness Value = 2389901/500000
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.0
 [Exif SubIFD - 0x9207] Metering Mode = (Other)

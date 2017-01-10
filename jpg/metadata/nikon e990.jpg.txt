@@ -52,7 +52,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x0006] Sharpening = AUTO  
 [Nikon Makernote - 0x0007] AF Type = AF-C  
 [Nikon Makernote - 0x0008] Flash Sync Mode = NORMAL 
-[Nikon Makernote - 0x000a] Unknown tag (0x000a) = 4416/500
+[Nikon Makernote - 0x000a] Unknown tag (0x000a) = 1104/125
 [Nikon Makernote - 0x000f] ISO Mode = AUTO  
 [Nikon Makernote - 0x0080] Image Adjustment = AUTO         
 [Nikon Makernote - 0x0082] Adapter = OFF         

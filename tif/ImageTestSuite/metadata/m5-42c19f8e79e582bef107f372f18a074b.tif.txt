@@ -22,7 +22,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
 [Exif IFD0 - 0x0116] Rows Per Strip = 17 rows/strip
 [Exif IFD0 - 0x0117] Strip Byte Counts = 546 bytes
-[Exif IFD0 - 0x011a] X Resolution = 720090/10000 dots per unit
+[Exif IFD0 - 0x011a] X Resolution = 72009/1000 dots per unit
 [Exif IFD0 - 0x011b] Y Resolution = 1734962749/586136511 dots per unit
 [Exif IFD0 - 0xa51c] Unknown tag (0xa51c) = 1
 [Exif IFD0 - 0x0132] Date/Time = 

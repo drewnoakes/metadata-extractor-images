@@ -38,8 +38,8 @@ TYPE: JPEG
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 3840 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 2160 pixels
-[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 32768/68129682 cm
-[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 32768/68129682 cm
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 16384/34064841 cm
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 16384/34064841 cm
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = cm
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa401] Custom Rendered = Normal process

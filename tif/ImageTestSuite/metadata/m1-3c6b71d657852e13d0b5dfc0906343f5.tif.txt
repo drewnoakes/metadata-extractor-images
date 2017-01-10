@@ -48,7 +48,7 @@ TYPE: TIFF
 [Exif Thumbnail - 0x0116] Rows Per Strip = 74 rows/strip
 [Exif Thumbnail - 0x01b3] Unknown tag (0x01b3) = 57600
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
-[Exif Thumbnail - 0x011b] Y Resolution = 4739840/65536 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 18515/256 dots per inch
 [Exif Thumbnail - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 

@@ -12,8 +12,8 @@ TYPE: ARW
 [Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
 [Exif IFD0 - 0x0116] Rows Per Strip = 109 rows/strip
 [Exif IFD0 - 0x0117] Strip Byte Counts = 22811 47284 8107 22387 32055 38999 18486 2157 bytes
-[Exif IFD0 - 0x011a] X Resolution = 1181100/10000 dots per cm
-[Exif IFD0 - 0x011b] Y Resolution = 1181100/10000 dots per cm
+[Exif IFD0 - 0x011a] X Resolution = 11811/100 dots per cm
+[Exif IFD0 - 0x011b] Y Resolution = 11811/100 dots per cm
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = cm
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop CS2 Windows

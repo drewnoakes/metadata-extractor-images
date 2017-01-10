@@ -41,7 +41,7 @@ TYPE: JPEG
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 3888 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 2592 pixels
-[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 438/1944000 inches
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 73/324000 inches
 [Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 583/2592000 inches
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
 [Exif SubIFD - 0xa401] Custom Rendered = Normal process

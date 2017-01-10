@@ -13,8 +13,8 @@ TYPE: TIFF
 [Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
 [Exif IFD0 - 0x0116] Rows Per Strip = 64 rows/strip
 [Exif IFD0 - 0x0117] Strip Byte Counts = 17446 15161 16944 15862 10913 9764 bytes
-[Exif IFD0 - 0x011a] X Resolution = 14832/50 dots per unit
-[Exif IFD0 - 0x011b] Y Resolution = 14832/50 dots per unit
+[Exif IFD0 - 0x011a] X Resolution = 7416/25 dots per unit
+[Exif IFD0 - 0x011b] Y Resolution = 7416/25 dots per unit
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 
 [Exif Thumbnail - 0x00ff] Subfile Type = Full-resolution image
@@ -29,8 +29,8 @@ TYPE: TIFF
 [Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
 [Exif Thumbnail - 0x0116] Rows Per Strip = 64 rows/strip
 [Exif Thumbnail - 0x0117] Strip Byte Counts = 12096 12096 12096 12096 12096 7371 bytes
-[Exif Thumbnail - 0x0e1a] Unknown tag (0x0e1a) = 14832/50
-[Exif Thumbnail - 0x011b] Y Resolution = 14832/50 dots per unit
+[Exif Thumbnail - 0x0e1a] Unknown tag (0x0e1a) = 7416/25
+[Exif Thumbnail - 0x011b] Y Resolution = 7416/25 dots per unit
 [Exif Thumbnail - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 
 [File - 0x0001] File Name = m1-ed254aa9f390aab319728b42e00a73e7.tif

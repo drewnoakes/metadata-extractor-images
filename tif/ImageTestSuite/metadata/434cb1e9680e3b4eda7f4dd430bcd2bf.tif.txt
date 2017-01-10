@@ -36,7 +36,7 @@ TYPE: ARW
 [Exif SubIFD - 0x9003] Date/Time Original = 2004:05:25 08:16:46
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2004:05:25 08:16:46
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 15099488/3763200 bits/pixel
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 471859/117600 bits/pixel
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.0
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment

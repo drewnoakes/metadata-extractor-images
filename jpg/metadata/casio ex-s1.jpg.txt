@@ -27,7 +27,7 @@ TYPE: JPEG
 [Exif SubIFD - 0x9003] Date/Time Original = 2002:07:13 00:07:18
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2002:07:13 00:07:18
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 143360/307200 bits/pixel
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 7/15 bits/pixel
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.4
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment

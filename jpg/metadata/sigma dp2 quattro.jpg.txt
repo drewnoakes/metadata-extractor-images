@@ -72,7 +72,7 @@ TYPE: JPEG
 [Sigma Makernote - 0x001a] Unknown tag (0x001a) = 0.5
 [Sigma Makernote - 0x001b] Unknown tag (0x001b) = 0.5
 [Sigma Makernote - 0x0027] Unknown tag (0x0027) = 1007
-[Sigma Makernote - 0x002c] Unknown tag (0x002c) = 194694/65534
+[Sigma Makernote - 0x002c] Unknown tag (0x002c) = 97347/32767
 [Sigma Makernote - 0x002f] Unknown tag (0x002f) = 0
 [Sigma Makernote - 0x003d] Unknown tag (0x003d) = Standard
 [Sigma Makernote - 0x0072] Unknown tag (0x0072) = 3

@@ -60,8 +60,8 @@ TYPE: TIFF
 [Exif SubIFD - 0xa001] Color Space = Undefined
 [Exif SubIFD - 0xa002] Exif Image Width = 1000 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 667 pixels
-[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 295/1168000 inches
-[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 295/1168000 inches
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 59/233600 inches
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 59/233600 inches
 [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
 [Exif SubIFD - 0xa401] Custom Rendered = Normal process
 [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure

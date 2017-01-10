@@ -20,7 +20,7 @@ TYPE: JPEG
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 [Exif IFD0 - 0xea1c] Padding = [2060 values]
 
-[Exif SubIFD - 0x829a] Exposure Time = 5550/1000000 sec
+[Exif SubIFD - 0x829a] Exposure Time = 111/20000 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.4
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
 [Exif SubIFD - 0x9000] Exif Version = 2.20

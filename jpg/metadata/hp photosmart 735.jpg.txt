@@ -19,7 +19,7 @@ TYPE: JPEG
 [Exif IFD0 - 0x0131] Software = Ver 1.12
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
-[Exif SubIFD - 0x829a] Exposure Time = 10218/1000000 sec
+[Exif SubIFD - 0x829a] Exposure Time = 5109/500000 sec
 [Exif SubIFD - 0x829d] F-Number = f/4.3
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 134

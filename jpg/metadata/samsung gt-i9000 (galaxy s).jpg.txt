@@ -21,7 +21,7 @@ TYPE: JPEG
 [Exif IFD0 - 0x0132] Date/Time = 2011:04:02 18:30:10
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
-[Exif SubIFD - 0x829a] Exposure Time = 512/6888 sec
+[Exif SubIFD - 0x829a] Exposure Time = 64/861 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.6
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100

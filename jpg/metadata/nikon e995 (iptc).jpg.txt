@@ -20,7 +20,7 @@ TYPE: JPEG
 [Exif IFD0 - 0x0132] Date/Time = 2002:08:29 17:31:40
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 
-[Exif SubIFD - 0x829a] Exposure Time = 2439024/100000000 sec
+[Exif SubIFD - 0x829a] Exposure Time = 152439/6250000 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.6
 [Exif SubIFD - 0x8822] Exposure Program = Program normal
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
@@ -50,7 +50,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x0006] Sharpening = AUTO  
 [Nikon Makernote - 0x0007] AF Type = AF-C  
 [Nikon Makernote - 0x0008] Flash Sync Mode = NORMAL      
-[Nikon Makernote - 0x000a] Unknown tag (0x000a) = 4416/500
+[Nikon Makernote - 0x000a] Unknown tag (0x000a) = 1104/125
 [Nikon Makernote - 0x000f] ISO Mode = AUTO  
 [Nikon Makernote - 0x0011] Preview IFD = 1300
 [Nikon Makernote - 0x0080] Image Adjustment = AUTO         

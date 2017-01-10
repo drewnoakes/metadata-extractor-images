@@ -115,8 +115,8 @@ TYPE: TIFF
 [Samsung Makernote - 0xa060] Unknown tag (0xa060) = -305/-8
 
 [Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
-[Exif SubIFD - 0x011a] X Resolution = 1431193344/3834200241 dots per inch
-[Exif SubIFD - 0x011b] Y Resolution = 100663296/919011328 dots per inch
+[Exif SubIFD - 0x011a] X Resolution = 477064448/1278066747 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 1536/14023 dots per inch
 [Exif SubIFD - 0x0128] Resolution Unit = Inch
 [Exif SubIFD - 0x0201] Unknown tag (0x0201) = 789162
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 8592512
@@ -140,7 +140,7 @@ TYPE: TIFF
 
 [Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
 [Exif SubIFD - 0x011a] X Resolution = 825506353/842674233 dots per inch
-[Exif SubIFD - 0x011b] Y Resolution = 540094778/876165684 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 270047389/438082842 dots per inch
 [Exif SubIFD - 0x0128] Resolution Unit = Inch
 [Exif SubIFD - 0x0201] Unknown tag (0x0201) = 774849
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 14021

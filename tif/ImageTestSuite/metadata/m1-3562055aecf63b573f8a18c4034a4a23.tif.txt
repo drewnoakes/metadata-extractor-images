@@ -16,7 +16,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x01b4] Unknown tag (0x01b4) = 1
 [Exif IFD0 - 0x013c] Host Computer = 3379
 [Exif IFD0 - 0x0117] Strip Byte Counts = 68316 bytes
-[Exif IFD0 - 0x011a] X Resolution = 1981724800/16777216 dots per unknown (12291)
+[Exif IFD0 - 0x011a] X Resolution = 15482225/131072 dots per unknown (12291)
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = Unknown (12291)
 

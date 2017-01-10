@@ -26,7 +26,7 @@ TYPE: JPEG
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
 [Exif IFD0 - 0x92d6] Unknown tag (0x92d6) = 
 
-[Exif SubIFD - 0x829a] Exposure Time = 76/50000 sec
+[Exif SubIFD - 0x829a] Exposure Time = 19/12500 sec
 [Exif SubIFD - 0x829d] F-Number = f/5.5
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
 [Exif SubIFD - 0x9000] Exif Version = 2.10

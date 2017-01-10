@@ -27,7 +27,7 @@ TYPE: TIFF
 [IPTC - 0x0237] Date Created = 2006:09:12
 [IPTC - 0x0238] Unknown tag (0x0238) = 210503+0200
 
-[Exif SubIFD - 0x829a] Exposure Time = 8947848/536870912 sec
+[Exif SubIFD - 0x829a] Exposure Time = 1118481/67108864 sec
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 50
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2006:09:12 21:04:57
