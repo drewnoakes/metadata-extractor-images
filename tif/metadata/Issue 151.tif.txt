@@ -22,16 +22,16 @@ TYPE: TIFF
 
 [XMPMeta - http://pix4d.com/camera/1.0/]  = 
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:Irradiance = 530.000000
-[XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradianceYaw = 81.523750
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradiancePitch = -48.406395
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradianceRoll = 35.940220
-[XMPMeta - http://pix4d.com/camera/1.0/] Camera:RigName = Chlorophyll
-[XMPMeta - http://pix4d.com/camera/1.0/] Camera:RigCameraIndex = 2
-[XMPMeta - http://pix4d.com/camera/1.0/] Camera:Yaw = -167.020798
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradianceYaw = 81.523750
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:LineReadoutTime = 23076
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:Pitch = 13.216802
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:RigCameraIndex = 2
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:RigName = Chlorophyll
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:Roll = 0.172856
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:SensorTemperature = 36.250000
-[XMPMeta - http://pix4d.com/camera/1.0/] Camera:LineReadoutTime = 23076
+[XMPMeta - http://pix4d.com/camera/1.0/] Camera:Yaw = -167.020798
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:BandName = 
 [XMPMeta - ] Camera:BandName[1] = Red edge
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:CentralWavelength = 

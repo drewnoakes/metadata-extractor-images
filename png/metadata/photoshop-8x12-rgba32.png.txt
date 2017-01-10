@@ -17,11 +17,11 @@ TYPE: PNG
 [XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS6 (Windows)
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:95AFFF00539911E2A3AA92B1CD5BB11B
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:95AFFF01539911E2A3AA92B1CD5BB11B
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:95AFFF00539911E2A3AA92B1CD5BB11B
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
-[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:95AFFEFE539911E2A3AA92B1CD5BB11B
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = xmp.did:95AFFEFF539911E2A3AA92B1CD5BB11B
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:95AFFEFE539911E2A3AA92B1CD5BB11B
 
 [File - 0x0001] File Name = photoshop-8x12-rgba32.png
 [File - 0x0002] File Size = 1038 bytes

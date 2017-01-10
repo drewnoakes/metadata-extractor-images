@@ -26,11 +26,6 @@ TYPE: JPEG
 [XMP - 0x0206] Modify Date = 2015-06-29T18:19:12+01:00
 [XMP - 0x2001] Subject = test keyword 1 test keyword 2
 
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
-[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS6 (Windows)
-[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2015-06-29T18:15:36+01:00
-[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2015-06-29T18:19:12+01:00
-[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2015-06-29T18:19:12+01:00
 [XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:rights = 
@@ -48,15 +43,20 @@ TYPE: JPEG
 [XMPMeta - ] dc:subject[1] = test keyword 1
 [XMPMeta - ] dc:subject[2] = test keyword 2
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:AuthorsPosition = Test author title string for metadata-extractor
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = sRGB IEC61966-2.1
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:AuthorsPosition = Test author title string for metadata-extractor
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2015-06-29T18:15:36+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS6 (Windows)
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2015-06-29T18:19:12+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2015-06-29T18:19:12+01:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:F5B4A8B31E8211E5A0FBC1C720F8BFA3
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:F5B4A8B41E8211E5A0FBC1C720F8BFA3
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:F5B4A8B31E8211E5A0FBC1C720F8BFA3
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
-[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:F5B4A8B11E8211E5A0FBC1C720F8BFA3
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = xmp.did:F5B4A8B21E8211E5A0FBC1C720F8BFA3
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:F5B4A8B11E8211E5A0FBC1C720F8BFA3
 
 [ICC Profile - 0x0000] Profile Size = 3144
 [ICC Profile - 0x0004] CMM Type = Lino

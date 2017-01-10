@@ -51,9 +51,9 @@ TYPE: JPEG
 [XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/]  = 
 [XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/] mwg-rs:Regions = 
 [XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/] mwg-rs:Regions/mwg-rs:AppliedToDimensions = 
-[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:w = 3744
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:h = 4992
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:unit = pixel
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:w = 3744
 [XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/] mwg-rs:Regions/mwg-rs:RegionList = 
 [XMPMeta - ] mwg-rs:Regions/mwg-rs:RegionList[1] = 
 [XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Title = 

@@ -80,8 +80,8 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:AuthorsPosition = Photographer
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Credit = Ian Britton
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Source = FreeFoto.com
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:City = 
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:State = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:City =  
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:State =  
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Country = Ubited Kingdom
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Category = BUS
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2002-06-20

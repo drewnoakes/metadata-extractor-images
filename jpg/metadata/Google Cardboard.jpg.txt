@@ -12,27 +12,27 @@ TYPE: JPEG
 
 [XMP - 0xffff] XMP Value Count = 10
 
-[XMPMeta - http://ns.google.com/photos/1.0/panorama/]  = 
-[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:CroppedAreaLeftPixels = 0
-[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:CroppedAreaTopPixels = 1932
-[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:CroppedAreaImageWidthPixels = 9344
-[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:CroppedAreaImageHeightPixels = 1613
-[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:FullPanoWidthPixels = 9344
-[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:FullPanoHeightPixels = 4672
-[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:InitialViewHeadingDegrees = 180
-[XMPMeta - http://ns.google.com/photos/1.0/image/]  = 
-[XMPMeta - http://ns.google.com/photos/1.0/image/] GImage:Mime = image/jpeg
 [XMPMeta - http://ns.google.com/photos/1.0/audio/]  = 
 [XMPMeta - http://ns.google.com/photos/1.0/audio/] GAudio:Mime = audio/mp4a-latm
+[XMPMeta - http://ns.google.com/photos/1.0/image/]  = 
+[XMPMeta - http://ns.google.com/photos/1.0/image/] GImage:Mime = image/jpeg
+[XMPMeta - http://ns.google.com/photos/1.0/panorama/]  = 
+[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:CroppedAreaImageHeightPixels = 1613
+[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:CroppedAreaImageWidthPixels = 9344
+[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:CroppedAreaLeftPixels = 0
+[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:CroppedAreaTopPixels = 1932
+[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:FullPanoHeightPixels = 4672
+[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:FullPanoWidthPixels = 9344
+[XMPMeta - http://ns.google.com/photos/1.0/panorama/] GPano:InitialViewHeadingDegrees = 180
 [XMPMeta - http://ns.adobe.com/xmp/note/]  = 
 [XMPMeta - http://ns.adobe.com/xmp/note/] xmpNote:HasExtendedXMP = 5740B4AB4292ABB7BDCE0639415FA33F
 
 [XMP - 0xffff] XMP Value Count = 2
 
-[XMPMeta - http://ns.google.com/photos/1.0/image/]  = 
-[XMPMeta - http://ns.google.com/photos/1.0/image/] GImage:Data = /9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgHBwcHBwoHCAgICQkJBwcMDAoIDAcICQgBAwQEBgUGCgYGCg0NDAwNDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIBk0kgAMBIgACEQEDEQH/xAAeAAABBAMBAQEAAAAAAAAAAAAEAgMFBgABBwgJCv/EAGIQAAEDAgMEBwQHBAcECAIAFwEAAgMEEQUSIQYxQVEHEyJhcYGRCDKhsRQjQlJywdEVM2KCCSRDU5Lh8BaisvEXNGNzg5PC0hglRFRFhMM1VWR0lKOz0+IZpFZltNTy8yb/xAAcAQACAwEBAQEAAAAAAAAAAAABAgADBAUGBwj/xAA9EQACAgEEAQQBAwMEAgEDAAsAAQIRAwQSITFBBRMiUTIGFGEjM3EVQoGRUqE0 <truncated from 2287032 characters>
 [XMPMeta - http://ns.google.com/photos/1.0/audio/]  = 
 [XMPMeta - http://ns.google.com/photos/1.0/audio/] GAudio:Data = AAAAGGZ0eXBtcDQyAAAAAGlzb21tcDQyAAbB621kYXQBQCKAo3/4hS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS708QpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpa <truncated from 597684 characters>
+[XMPMeta - http://ns.google.com/photos/1.0/image/]  = 
+[XMPMeta - http://ns.google.com/photos/1.0/image/] GImage:Data = /9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgHBwcHBwoHCAgICQkJBwcMDAoIDAcICQgBAwQEBgUGCgYGCg0NDAwNDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIBk0kgAMBIgACEQEDEQH/xAAeAAABBAMBAQEAAAAAAAAAAAAEAgMFBgABBwgJCv/EAGIQAAEDAgMEBwQHBAcECAIAFwEAAgMEEQUSIQYxQVEHEyJhcYGRCDKhsRQjQlJywdEVM2KCCSRDU5Lh8BaisvEXNGNzg5PC0hglRFRFhMM1VWR0lKOz0+IZpFZltNTy8yb/xAAcAQACAwEBAQEAAAAAAAAAAAABAgADBAUGBwj/xAA9EQACAgEEAQQBAwMEAgEDAAsAAQIRAwQSITFBBRMiUTIGFGEjM3EVQoGRUqE0 <truncated from 2287032 characters>
 
 [File - 0x0001] File Name = Google Cardboard.jpg
 [File - 0x0002] File Size = 4596985 bytes
