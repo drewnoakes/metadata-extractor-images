@@ -1,7 +1,7 @@
 FILE: 27d40bc5f25d8382b890766accb28cf7.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 1110 pixels
 [Exif IFD0 - 0x0101] Image Height = 1110 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 8 8 bits/component/pixel

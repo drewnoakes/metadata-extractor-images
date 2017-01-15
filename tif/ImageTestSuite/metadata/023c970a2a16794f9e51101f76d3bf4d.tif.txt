@@ -1,7 +1,7 @@
 FILE: 023c970a2a16794f9e51101f76d3bf4d.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 689 pixels
 [Exif IFD0 - 0x0101] Image Height = 217 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -16,7 +16,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x011b] Y Resolution = 96 dots per inch
 [Exif IFD0 - 0x0124] Unknown tag (0x0124) = 0
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0129] Unknown tag (0x0129) = 1 1
+[Exif IFD0 - 0x0129] Page Number = 1 1
 [Exif IFD0 - 0x013d] Predictor = 2
 [Exif IFD0 - 0x013e] White Point = 0/1000000 0/1000000
 [Exif IFD0 - 0x013f] Primary Chromaticities = 0/1000000 0/1000000 0/1000000 0/1000000 0/1000000 0/1000000

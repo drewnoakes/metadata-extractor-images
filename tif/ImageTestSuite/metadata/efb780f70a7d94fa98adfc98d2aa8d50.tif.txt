@@ -1,7 +1,7 @@
 FILE: efb780f70a7d94fa98adfc98d2aa8d50.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 2624 pixels
 [Exif IFD0 - 0x0101] Image Height = 1948 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
@@ -22,7 +22,7 @@ TYPE: TIFF
 [Exif IFD0 - 0xfefb] Unknown tag (0xfefb) = 0000000084N10157F
 [Exif IFD0 - 0xfefa] Unknown tag (0xfefa) = 5
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif SubIFD - 0x0103] Compression = Uncompressed
 [Exif SubIFD - 0x0112] Orientation = Top, left side (Horizontal / normal)
 [Exif SubIFD - 0x0116] Rows Per Strip = 1948 rows/strip

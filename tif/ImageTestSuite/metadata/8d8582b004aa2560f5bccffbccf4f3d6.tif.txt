@@ -1,7 +1,7 @@
 FILE: 8d8582b004aa2560f5bccffbccf4f3d6.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 680 pixels
 [Exif IFD0 - 0x0101] Image Height = 510 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel

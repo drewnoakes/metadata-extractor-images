@@ -3,7 +3,7 @@ TYPE: ARW
 
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x01b5] Unknown tag (0x01b5) = 1920
 [Exif IFD0 - 0x0101] Image Height = 2704 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel

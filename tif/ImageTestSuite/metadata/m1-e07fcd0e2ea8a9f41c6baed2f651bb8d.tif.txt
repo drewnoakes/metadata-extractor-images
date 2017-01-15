@@ -20,7 +20,7 @@ TYPE: ARW
 [Exif IFD0 - 0x0124] Unknown tag (0x0124) = 4
 [Exif IFD0 - 0x0125] Unknown tag (0x0125) = 0
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0129] Unknown tag (0x0129) = 0 0
+[Exif IFD0 - 0x0129] Page Number = 0 0
 
 [File - 0x0001] File Name = m1-e07fcd0e2ea8a9f41c6baed2f651bb8d.tif
 [File - 0x0002] File Size = 79472 bytes

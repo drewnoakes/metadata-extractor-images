@@ -1,7 +1,7 @@
 FILE: m8-299787ea764c0a88bc481364eded5556.tif
 TYPE: TIFF
 
-[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+[ERROR: Exif Image] Illegal TIFF tag pointer offset
 [ERROR: Exif Thumbnail] Invalid TIFF tag format code 155 for tag 0x0100
 [ERROR: Exif Thumbnail] Invalid TIFF tag format code 66 for tag 0x0117
 [ERROR: Exif Thumbnail] Invalid TIFF tag format code 76 for tag 0x011B
@@ -31,7 +31,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x0b1b] Unknown tag (0x0b1b) = 98
 [Exif IFD0 - 0x0124] Unknown tag (0x0124) = 5
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0129] Unknown tag (0x0129) = 0 9
+[Exif IFD0 - 0x0129] Page Number = 0 9
 [Exif IFD0 - 0x0131] Software = NaturalFax
 [Exif IFD0 - 0x01c9] Unknown tag (0x01c9) = 2008:09:08 09:42:29
 [Exif IFD0 - 0x0146] Unknown tag (0x0146) = 0
@@ -39,29 +39,49 @@ TYPE: TIFF
 [Exif IFD0 - 0x0148] Unknown tag (0x0148) = 0
 [Exif IFD0 - 0x9330] Unknown tag (0x9330) = [3072 values]
 
-[Exif Thumbnail - 0x00fe] New Subfile Type = Reduced-resolution image
-[Exif Thumbnail - 0x0100] Image Width = 1728 pixels
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1728 pixels
+[Exif Image - 0x0101] Image Height = 1089 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010a] Fill Order = Normal
+[Exif Image - 0x0111] Strip Offsets = 41210
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 1089 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 24834 bytes
+[Exif Image - 0x011a] X Resolution = 204 dots per inch
+[Exif Image - 0x011b] Y Resolution = 98 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 5
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x01cf] Unknown tag (0x01cf) = 1 9
+[Exif Image - 0x0132] Date/Time = 2008:09:08 09:42:29
+[Exif Image - 0x0146] Unknown tag (0x0146) = 0
+[Exif Image - 0x0147] Unknown tag (0x0147) = 0
+[Exif Image - 0x0148] Unknown tag (0x0148) = 0
+
+[Exif Thumbnail - 0x00fe] New Subfile Type = Single page of multi-page image
 [Exif Thumbnail - 0x0101] Image Height = 1086 pixels
 [Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
 [Exif Thumbnail - 0x0103] Compression = Unknown (16131)
 [Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
 [Exif Thumbnail - 0x010a] Fill Order = Normal
 [Exif Thumbnail - 0x0111] Strip Offsets = 264618
-[Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Thumbnail - 0x0199] Unknown tag (0x0199) = 1
 [Exif Thumbnail - 0x0116] Rows Per Strip = 1086 rows/strip
 [Exif Thumbnail - 0x0117] Strip Byte Counts = 41998 bytes
 [Exif Thumbnail - 0x011a] X Resolution = 204 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 98 dots per inch
 [Exif Thumbnail - 0x0124] Unknown tag (0x0124) = 5
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x01cf] Unknown tag (0x01cf) = 1 9
+[Exif Thumbnail - 0x0129] Page Number = 8 9
+[Exif Thumbnail - 0x0131] Software = NaturalFax
 [Exif Thumbnail - 0x0132] Date/Time = 2008:09:08 09:42:29
 [Exif Thumbnail - 0x0146] Unknown tag (0x0146) = 0
 [Exif Thumbnail - 0x0147] Unknown tag (0x0147) = 0
 [Exif Thumbnail - 0x0148] Unknown tag (0x0148) = 0
-[Exif Thumbnail - 0x0199] Unknown tag (0x0199) = 1
-[Exif Thumbnail - 0x0129] Unknown tag (0x0129) = 8 9
-[Exif Thumbnail - 0x0131] Software = NaturalFax
+[Exif Thumbnail - 0x0100] Image Width = 1728 pixels
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
 [Exif Thumbnail - 0x0123] Unknown tag (0x0123) = 1728
 [Exif Thumbnail - 0x5415] Unknown tag (0x5415) = 1
 [Exif Thumbnail - 0xf324] Unknown tag (0xf324) = 5
@@ -71,7 +91,8 @@ TYPE: TIFF
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
-    - Exif Thumbnail
+    - Exif Image
+        - Exif Thumbnail
 - File
 
 Generated using metadata-extractor

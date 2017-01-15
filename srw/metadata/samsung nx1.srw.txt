@@ -114,7 +114,7 @@ TYPE: TIFF
 [Samsung Makernote - 0xa057] Unknown tag (0xa057) = 333 395 657 913 242 750 448 11
 [Samsung Makernote - 0xa060] Unknown tag (0xa060) = -305/-8
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x011a] X Resolution = 477064448/1278066747 dots per inch
 [Exif SubIFD - 0x011b] Y Resolution = 1536/14023 dots per inch
 [Exif SubIFD - 0x0128] Resolution Unit = Inch
@@ -122,7 +122,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 8592512
 [Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x0100] Image Width = 6496 pixels
 [Exif SubIFD - 0x0101] Image Height = 4336 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 14 bits/component/pixel
@@ -138,7 +138,7 @@ TYPE: TIFF
 [Exif SubIFD - 0xa101] Unknown tag (0xa101) = 
 [Exif SubIFD - 0xa102] Unknown tag (0xa102) = 
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x011a] X Resolution = 825506353/842674233 dots per inch
 [Exif SubIFD - 0x011b] Y Resolution = 270047389/438082842 dots per inch
 [Exif SubIFD - 0x0128] Resolution Unit = Inch

@@ -15,7 +15,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x011b] Y Resolution = 400 dots per inch
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0129] Unknown tag (0x0129) = 0 0
+[Exif IFD0 - 0x0129] Page Number = 0 0
 
 [File - 0x0001] File Name = m1-14847ce6f5fab0774dae9ad4fba31316.tif
 [File - 0x0002] File Size = 78236 bytes

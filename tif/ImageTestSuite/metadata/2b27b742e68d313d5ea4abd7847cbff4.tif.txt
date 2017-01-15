@@ -1,7 +1,7 @@
 FILE: 2b27b742e68d313d5ea4abd7847cbff4.tif
 TYPE: ARW
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 3432 pixels
 [Exif IFD0 - 0x0101] Image Height = 2394 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -20,12 +20,12 @@ TYPE: ARW
 [Exif IFD0 - 0x0200] JPEG Proc = Baseline
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 368
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 507201
-[Exif IFD0 - 0x0203] Unknown tag (0x0203) = 0
+[Exif IFD0 - 0x0203] JPEG Restart Interval = 0
 [Exif IFD0 - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:2
 [Exif IFD0 - 0x80a3] Unknown tag (0x80a3) = [24 values]
 [Exif IFD0 - 0x80a6] Unknown tag (0x80a6) = [27 values]
 
-[Exif Thumbnail - 0x00fe] New Subfile Type = Unknown (0)
+[Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
 [Exif Thumbnail - 0x0100] Image Width = 3394 pixels
 [Exif Thumbnail - 0x0101] Image Height = 2368 pixels
 [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -44,7 +44,7 @@ TYPE: ARW
 [Exif Thumbnail - 0x0200] JPEG Proc = Baseline
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 9423016 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 653552 bytes
-[Exif Thumbnail - 0x0203] Unknown tag (0x0203) = 0
+[Exif Thumbnail - 0x0203] JPEG Restart Interval = 0
 [Exif Thumbnail - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:2
 [Exif Thumbnail - 0x80a3] Unknown tag (0x80a3) = [24 values]
 [Exif Thumbnail - 0x80a6] Unknown tag (0x80a6) = 0

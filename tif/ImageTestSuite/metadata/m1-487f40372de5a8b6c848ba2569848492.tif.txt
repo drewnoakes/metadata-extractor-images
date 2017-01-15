@@ -39,7 +39,7 @@ TYPE: ARW
 [ERROR: XMP] Error processing XMP data: Unsupported Encoding
 [ERROR: Exif SubIFD] Illegally sized IFD
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 1235 pixels
 [Exif IFD0 - 0x0101] Image Height = 2128 pixels
 [Exif IFD0 - 0x0103] Compression = LZW

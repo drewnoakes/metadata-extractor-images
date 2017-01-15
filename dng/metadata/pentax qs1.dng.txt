@@ -1,7 +1,7 @@
 FILE: Pentax QS1.dng
 TYPE: ARW
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0100] Image Width = 160 pixels
 [Exif IFD0 - 0x0101] Image Height = 120 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -35,7 +35,7 @@ TYPE: ARW
 [Exif IFD0 - 0xc65a] Unknown tag (0xc65a) = 17
 [Exif IFD0 - 0xc65b] Unknown tag (0xc65b) = 21
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x0100] Image Width = 4064 pixels
 [Exif SubIFD - 0x0101] Image Height = 3000 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
@@ -62,7 +62,7 @@ TYPE: ARW
 [Exif SubIFD - 0xc632] Unknown tag (0xc632) = 1
 [Exif SubIFD - 0xc68d] Unknown tag (0xc68d) = 0 0 3000 4000
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif SubIFD - 0x0100] Image Width = 4000 pixels
 [Exif SubIFD - 0x0101] Image Height = 3000 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel

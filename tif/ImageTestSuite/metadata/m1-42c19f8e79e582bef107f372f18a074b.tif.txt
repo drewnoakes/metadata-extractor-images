@@ -8,7 +8,7 @@ TYPE: TIFF
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 17 pixels
 [Exif IFD0 - 0x0101] Image Height = 17 pixels
 [Exif IFD0 - 0x0103] Compression = LZW

@@ -1,7 +1,7 @@
 FILE: m1-5512ff2fc91566c07c8c8d3fd352a731.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x014a] Sub IFD Pointer(s) = 2267
 [Exif IFD0 - 0x0101] Image Height = 3221 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel

@@ -1,7 +1,7 @@
 FILE: 89b5888641d5910e92bf451b5e639ad0.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 766 pixels
 [Exif IFD0 - 0x0101] Image Height = 991 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -20,14 +20,14 @@ TYPE: TIFF
 [Exif IFD0 - 0x0200] JPEG Proc = Baseline
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 444
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 601
-[Exif IFD0 - 0x0203] Unknown tag (0x0203) = 0
-[Exif IFD0 - 0x0207] Unknown tag (0x0207) = 8665 8734 8734
-[Exif IFD0 - 0x0208] Unknown tag (0x0208) = 8822 9038 9038
-[Exif IFD0 - 0x0209] Unknown tag (0x0209) = 8855 9071 9071
+[Exif IFD0 - 0x0203] JPEG Restart Interval = 0
+[Exif IFD0 - 0x0207] JPEGQ Tables = 8665 8734 8734
+[Exif IFD0 - 0x0208] JPEGDC Tables = 8822 9038 9038
+[Exif IFD0 - 0x0209] JPEGAC Tables = 8855 9071 9071
 [Exif IFD0 - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:2
 [Exif IFD0 - 0x80a6] Unknown tag (0x80a6) = 1196310871 1 2 168244 72 96908
 
-[Exif Thumbnail - 0x00fe] New Subfile Type = Unknown (0)
+[Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
 [Exif Thumbnail - 0x0100] Image Width = 766 pixels
 [Exif Thumbnail - 0x0101] Image Height = 991 pixels
 [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -46,10 +46,10 @@ TYPE: TIFF
 [Exif Thumbnail - 0x0200] JPEG Proc = Baseline
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 97280 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 601 bytes
-[Exif Thumbnail - 0x0203] Unknown tag (0x0203) = 0
-[Exif Thumbnail - 0x0207] Unknown tag (0x0207) = 169533 169602 169602
-[Exif Thumbnail - 0x0208] Unknown tag (0x0208) = 169690 169906 169906
-[Exif Thumbnail - 0x0209] Unknown tag (0x0209) = 169723 169939 169939
+[Exif Thumbnail - 0x0203] JPEG Restart Interval = 0
+[Exif Thumbnail - 0x0207] JPEGQ Tables = 169533 169602 169602
+[Exif Thumbnail - 0x0208] JPEGDC Tables = 169690 169906 169906
+[Exif Thumbnail - 0x0209] JPEGAC Tables = 169723 169939 169939
 [Exif Thumbnail - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:2
 [Exif Thumbnail - 0x80a6] Unknown tag (0x80a6) = 0
 

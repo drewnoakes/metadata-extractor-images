@@ -1,7 +1,7 @@
 FILE: b52a2fceb34f9b31cb417379cf8c02ba.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 54 pixels
 [Exif IFD0 - 0x0101] Image Height = 50 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -15,7 +15,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
 [Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0129] Unknown tag (0x0129) = 0 0
+[Exif IFD0 - 0x0129] Page Number = 0 0
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop CS Macintosh
 [Exif IFD0 - 0x0132] Date/Time = 2006:01:05 12:54:59
 [Exif IFD0 - 0x013d] Predictor = 2

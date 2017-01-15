@@ -1,7 +1,7 @@
 FILE: 6cd02db6f3688efdd705c28ffcb9a3d3.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 7465 pixels
 [Exif IFD0 - 0x0101] Image Height = 5536 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
@@ -19,7 +19,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x011b] Y Resolution = 200 dots per inch
 [Exif IFD0 - 0x0125] Unknown tag (0x0125) = 0
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0129] Unknown tag (0x0129) = 1 1
+[Exif IFD0 - 0x0129] Page Number = 1 1
 [Exif IFD0 - 0x0131] Software = Imagenation VME
 
 [File - 0x0001] File Name = 6cd02db6f3688efdd705c28ffcb9a3d3.tif
@@ -27,7 +27,7 @@ TYPE: TIFF
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
-    - Exif Thumbnail
+    - Exif Image
 - File
 
 Generated using metadata-extractor

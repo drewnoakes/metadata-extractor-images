@@ -3,7 +3,7 @@ TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 18434 for tag 0x0131
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 4772 pixels
 [Exif IFD0 - 0x0101] Image Height = 6776 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel

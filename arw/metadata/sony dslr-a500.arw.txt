@@ -1,7 +1,7 @@
 FILE: Sony DSLR-A500.arw
 TYPE: ARW
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0103] Compression = JPEG (old-style)
 [Exif IFD0 - 0x010e] Image Description = SONY DSC                       
 [Exif IFD0 - 0x010f] Make = SONY
@@ -17,7 +17,7 @@ TYPE: ARW
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 0 0 1 0
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x0100] Image Width = 4288 pixels
 [Exif SubIFD - 0x0101] Image Height = 2858 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
@@ -117,7 +117,7 @@ TYPE: ARW
 [PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
 [PrintIM - 0x0110] Unknown tag (0x0110) = 0x00000080
 
-[Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
+[Exif Thumbnail - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010f] Make = SONY
 [Exif Thumbnail - 0x0110] Model = DSLR-A500

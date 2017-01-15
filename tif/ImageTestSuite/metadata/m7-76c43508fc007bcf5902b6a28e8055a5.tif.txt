@@ -5,7 +5,7 @@ TYPE: TIFF
 [ERROR: XMP] Error processing XMP data: Unsupported Encoding
 [ERROR: IPTC] Data for tag extends beyond end of IPTC segment
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 1772 pixels
 [Exif IFD0 - 0x0101] Image Height = 1313 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 8 bits/component/pixel

@@ -1,7 +1,7 @@
 FILE: 84399cc32c29ac0cf33b96a0f654f379.tif
 TYPE: ARW
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 3300 pixels
 [Exif IFD0 - 0x0101] Image Height = 3508 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel

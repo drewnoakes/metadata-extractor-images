@@ -107,7 +107,7 @@ TYPE: ARW
 [Exif SubIFD - 0x0201] Unknown tag (0x0201) = 846300
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 7612219
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x0100] Image Width = 5600 pixels
 [Exif SubIFD - 0x0101] Image Height = 3714 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel

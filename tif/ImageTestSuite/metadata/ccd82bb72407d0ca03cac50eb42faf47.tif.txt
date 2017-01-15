@@ -1,7 +1,7 @@
 FILE: ccd82bb72407d0ca03cac50eb42faf47.tif
 TYPE: ARW
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 347 pixels
 [Exif IFD0 - 0x0101] Image Height = 80 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel

@@ -3,7 +3,7 @@ TYPE: TIFF
 
 [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 3307 pixels
 [Exif IFD0 - 0x0101] Image Height = 4704 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
@@ -21,7 +21,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x0125] Unknown tag (0x0125) = 0
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 
-[Exif Thumbnail - 0x00fe] New Subfile Type = Unknown (0)
+[Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
 [Exif Thumbnail - 0x0100] Image Width = 3307 pixels
 [Exif Thumbnail - 0x0101] Image Height = 4704 pixels
 [Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel

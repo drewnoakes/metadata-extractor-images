@@ -1,7 +1,7 @@
 FILE: Nikon D70.nef
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0100] Image Width = 120 pixels
 [Exif IFD0 - 0x0101] Image Height = 160 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -32,7 +32,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 715274
 [Exif SubIFD - 0x0213] YCbCr Positioning = Center of pixel array
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x0100] Image Width = 3040 pixels
 [Exif SubIFD - 0x0101] Image Height = 2014 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel

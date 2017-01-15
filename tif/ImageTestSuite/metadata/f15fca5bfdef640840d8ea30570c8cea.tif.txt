@@ -1,7 +1,7 @@
 FILE: f15fca5bfdef640840d8ea30570c8cea.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 995 pixels
 [Exif IFD0 - 0x0101] Image Height = 1181 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -22,7 +22,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x8649] Unknown tag (0x8649) = [12804 values]
 [Exif IFD0 - 0x8773] Inter Color Profile = [4376 values]
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif SubIFD - 0x0100] Image Width = 498 pixels
 [Exif SubIFD - 0x0101] Image Height = 591 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel

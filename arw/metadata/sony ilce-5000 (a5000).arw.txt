@@ -1,7 +1,7 @@
 FILE: Sony ILCE-5000 (A5000).arw
 TYPE: ARW
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0103] Compression = JPEG (old-style)
 [Exif IFD0 - 0x010e] Image Description =                                
 [Exif IFD0 - 0x010f] Make = SONY
@@ -17,7 +17,7 @@ TYPE: ARW
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 126 209 0 0
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x0100] Image Width = 5504 pixels
 [Exif SubIFD - 0x0101] Image Height = 3656 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
@@ -184,7 +184,7 @@ TYPE: ARW
 [PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000022
 [PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
 
-[Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
+[Exif Thumbnail - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x010e] Image Description =                                
 [Exif Thumbnail - 0x010f] Make = SONY

@@ -1,7 +1,7 @@
 FILE: 1af8e95246f4cfa4e5e58f67d6428ea3.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 160 pixels
 [Exif IFD0 - 0x0101] Image Height = 160 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -19,10 +19,10 @@ TYPE: TIFF
 [Exif IFD0 - 0x0200] JPEG Proc = Baseline
 [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 8
 [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 4608
-[Exif IFD0 - 0x0203] Unknown tag (0x0203) = 0
-[Exif IFD0 - 0x0207] Unknown tag (0x0207) = 34 103 103
-[Exif IFD0 - 0x0208] Unknown tag (0x0208) = 172 205 205
-[Exif IFD0 - 0x0209] Unknown tag (0x0209) = 238 421 421
+[Exif IFD0 - 0x0203] JPEG Restart Interval = 0
+[Exif IFD0 - 0x0207] JPEGQ Tables = 34 103 103
+[Exif IFD0 - 0x0208] JPEGDC Tables = 172 205 205
+[Exif IFD0 - 0x0209] JPEGAC Tables = 238 421 421
 [Exif IFD0 - 0x0211] YCbCr Coefficients = 2990/10000 5870/10000 1140/10000
 [Exif IFD0 - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:0
 [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array

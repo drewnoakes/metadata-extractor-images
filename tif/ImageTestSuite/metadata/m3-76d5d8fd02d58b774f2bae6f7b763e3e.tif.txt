@@ -16,9 +16,9 @@ TYPE: TIFF
 [Exif IFD0 - 0x0144] Tile Offsets = 8
 [Exif IFD0 - 0xe145] Unknown tag (0xe145) = 7076
 [Exif IFD0 - 0x0200] JPEG Proc = Baseline
-[Exif IFD0 - 0x0207] Unknown tag (0x0207) = 7364 7428 7492
-[Exif IFD0 - 0x0208] Unknown tag (0x0208) = 7568 7596 7624
-[Exif IFD0 - 0x0209] Unknown tag (0x0209) = 7664 7842 8020
+[Exif IFD0 - 0x0207] JPEGQ Tables = 7364 7428 7492
+[Exif IFD0 - 0x0208] JPEGDC Tables = 7568 7596 7624
+[Exif IFD0 - 0x0209] JPEGAC Tables = 7664 7842 8020
 [Exif IFD0 - 0x0211] YCbCr Coefficients = 2990/10000 5870/10000 1140/10000
 [Exif IFD0 - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:0
 [Exif IFD0 - 0x0214] Reference Black/White = [16,128,128] [235,240,240]

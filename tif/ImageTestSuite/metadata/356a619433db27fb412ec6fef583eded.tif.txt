@@ -1,7 +1,7 @@
 FILE: 356a619433db27fb412ec6fef583eded.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 2338 pixels
 [Exif IFD0 - 0x0101] Image Height = 1656 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -21,7 +21,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
 [Exif IFD0 - 0x9330] Unknown tag (0x9330) = [5632 values]
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif SubIFD - 0x0100] Image Width = 160 pixels
 [Exif SubIFD - 0x0101] Image Height = 224 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 8 bits/component/pixel
@@ -35,7 +35,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x0201] Unknown tag (0x0201) = 933274
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 4872
 
-[Exif Thumbnail - 0x00fe] New Subfile Type = Unknown (0)
+[Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
 [Exif Thumbnail - 0x0100] Image Width = 2338 pixels
 [Exif Thumbnail - 0x0101] Image Height = 1656 pixels
 [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -54,7 +54,7 @@ TYPE: TIFF
 [Exif Thumbnail - 0x0202] Thumbnail Length = 813124 bytes
 [Exif Thumbnail - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif SubIFD - 0x0100] Image Width = 160 pixels
 [Exif SubIFD - 0x0101] Image Height = 224 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 8 bits/component/pixel

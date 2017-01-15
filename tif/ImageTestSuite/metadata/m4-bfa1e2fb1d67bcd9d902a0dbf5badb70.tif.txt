@@ -5,7 +5,7 @@ TYPE: TIFF
 [ERROR: Exif Thumbnail] Invalid TIFF tag format code 49156 for tag 0x00FE
 [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 1950 pixels
 [Exif IFD0 - 0x0101] Image Height = 2454 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 26 bits/component/pixel

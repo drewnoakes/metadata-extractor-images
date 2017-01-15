@@ -97,7 +97,7 @@ TYPE: TIFF
 [Samsung Makernote - 0xa057] Unknown tag (0xa057) = 15138816 48627712 29360128 786431 -19988480 1507327 -34865153 -6946816
 [Samsung Makernote - 0xa061] Unknown tag (0xa061) = 1
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x011a] X Resolution = 350 dots per inch
 [Exif SubIFD - 0x011b] Y Resolution = 350 dots per inch
 [Exif SubIFD - 0x0128] Resolution Unit = Inch
@@ -105,7 +105,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 5464094
 [Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x0100] Image Width = 5632 pixels
 [Exif SubIFD - 0x0101] Image Height = 3720 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
@@ -117,7 +117,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
 [Exif SubIFD - 0x828e] CFA Pattern = [Green,Red][Blue,Green]
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x011a] X Resolution = 350 dots per inch
 [Exif SubIFD - 0x011b] Y Resolution = 350 dots per inch
 [Exif SubIFD - 0x0128] Resolution Unit = Inch

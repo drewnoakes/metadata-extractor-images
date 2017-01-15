@@ -1,7 +1,7 @@
 FILE: 0c84d07e1b22b76f24cccc70d8788e4a.tif
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 246 pixels
 [Exif IFD0 - 0x0101] Image Height = 345 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -67,7 +67,7 @@ TYPE: TIFF
 
 [IPTC - 0x0200] Application Record Version = 2
 
-[Exif Thumbnail - 0x00fe] New Subfile Type = Unknown (0)
+[Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
 [Exif Thumbnail - 0x0100] Image Width = 1748 pixels
 [Exif Thumbnail - 0x0101] Image Height = 2480 pixels
 [Exif Thumbnail - 0x0103] Compression = T6/Group 4 Fax
@@ -87,7 +87,7 @@ TYPE: TIFF
 [Exif Thumbnail - 0x932d] Unknown tag (0x932d) = [604 values]
 [Exif Thumbnail - 0x932e] Unknown tag (0x932e) = [2086 values]
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif SubIFD - 0x0100] Image Width = 160 pixels
 [Exif SubIFD - 0x0101] Image Height = 224 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 8 bits/component/pixel
@@ -101,7 +101,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x0201] Unknown tag (0x0201) = 291340
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 2765
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif SubIFD - 0x0100] Image Width = 160 pixels
 [Exif SubIFD - 0x0101] Image Height = 224 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 8 bits/component/pixel
@@ -115,7 +115,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x0201] Unknown tag (0x0201) = 308730
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 3151
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif SubIFD - 0x0100] Image Width = 160 pixels
 [Exif SubIFD - 0x0101] Image Height = 224 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 8 bits/component/pixel

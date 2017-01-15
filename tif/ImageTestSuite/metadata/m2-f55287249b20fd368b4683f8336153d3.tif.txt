@@ -1,9 +1,9 @@
 FILE: m2-f55287249b20fd368b4683f8336153d3.tif
 TYPE: TIFF
 
-[ERROR: Exif Thumbnail] Illegally sized IFD
+[ERROR: Exif Image] Illegally sized IFD
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 1728 pixels
 [Exif IFD0 - 0x0101] Image Height = 1137 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
@@ -17,7 +17,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x011b] Y Resolution = 98 dots per inch
 [Exif IFD0 - 0x0124] Unknown tag (0x0124) = 5
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
-[Exif IFD0 - 0x0129] Unknown tag (0x0129) = 0 0
+[Exif IFD0 - 0x0129] Page Number = 0 0
 [Exif IFD0 - 0x0131] Software = Windows NT Fax Server
 [Exif IFD0 - 0x013d] Predictor = 1
 [Exif IFD0 - 0x0147] Unknown tag (0x0147) = 0
@@ -32,7 +32,7 @@ TYPE: TIFF
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
-    - Exif Thumbnail
+    - Exif Image
 - File
 
 Generated using metadata-extractor

@@ -1,7 +1,7 @@
 FILE: Nikon D90.nef
 TYPE: TIFF
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0100] Image Width = 160 pixels
 [Exif IFD0 - 0x0101] Image Height = 120 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -24,7 +24,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x9003] Date/Time Original = 2011:04:25 01:55:46
 [Exif IFD0 - 0x9216] TIFF/EP Standard ID = 1 0 0 0
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif SubIFD - 0x0103] Compression = JPEG (old-style)
 [Exif SubIFD - 0x011a] X Resolution = 300 dots per inch
 [Exif SubIFD - 0x011b] Y Resolution = 300 dots per inch
@@ -33,7 +33,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 1013525
 [Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
 
-[Exif SubIFD - 0x00fe] New Subfile Type = Unknown (0)
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x0100] Image Width = 4352 pixels
 [Exif SubIFD - 0x0101] Image Height = 2868 pixels
 [Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel

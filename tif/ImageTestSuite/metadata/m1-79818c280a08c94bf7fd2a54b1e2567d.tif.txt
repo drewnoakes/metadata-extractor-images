@@ -57,7 +57,7 @@ TYPE: ARW
 [ERROR: Exif Thumbnail] Invalid TIFF tag format code 65535 for tag 0xFFFF
 [ERROR: Exif Thumbnail] Stopping processing as too many errors seen in TIFF IFD
 
-[Exif IFD0 - 0x00fe] New Subfile Type = Unknown (0)
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 2500 pixels
 [Exif IFD0 - 0x0101] Image Height = 3225 pixels
 [Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
