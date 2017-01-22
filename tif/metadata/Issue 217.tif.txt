@@ -1,0 +1,66 @@
+FILE: Issue 217.tif
+TYPE: ARW
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 1805 pixels
+[Exif IFD0 - 0x0101] Image Height = 1082 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0111] Strip Offsets = 23966
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 1082 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 5859030 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop CS6 (Windows)
+[Exif IFD0 - 0x0132] Date/Time = 2016:12:29 21:27:58
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [6380 values]
+[Exif IFD0 - 0x8773] Inter Color Profile = [3144 values]
+[Exif IFD0 - 0x935c] Unknown tag (0x935c) = [4542144 values]
+
+[XMP - 0xffff] XMP Value Count = 16
+[XMP - 0x0202] Create Date = 2016-12-29T21:27:58+01:00
+[XMP - 0x0203] Creator Tool = Adobe Photoshop CS6 (Windows)
+[XMP - 0x0205] Metadata Date = 2016-12-29T21:27:58+01:00
+[XMP - 0x0206] Modify Date = 2016-12-29T21:27:58+01:00
+
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS6 (Windows)
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2016-12-29T21:27:58+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2016-12-29T21:27:58+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2016-12-29T21:27:58+01:00
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:149ACA4905CEE611A50CDB347D99C8CB
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:149ACA4905CEE611A50CDB347D99C8CB
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:149ACA4905CEE611A50CDB347D99C8CB
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
+[XMPMeta - ] xmpMM:History[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = created
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:149ACA4905CEE611A50CDB347D99C8CB
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2016-12-29T21:27:58+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop CS6 (Windows)
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = sRGB IEC61966-2.1
+
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 1805 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1082 pixels
+
+[File - 0x0001] File Name = Issue 217.tif
+[File - 0x0002] File Size = 10425188 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - Exif SubIFD
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

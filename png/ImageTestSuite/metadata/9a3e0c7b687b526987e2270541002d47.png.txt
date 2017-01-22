@@ -38,7 +38,7 @@ TYPE: PNG
 
 [PNG-zTXt - 0x000d] Textual Data = Thumb::Image::Width: 373
 
-[PNG-zTXt - 0x000d] Textual Data = Thumb::URI: 
+[PNG-zTXt - 0x000d] Textual Data = Thumb::URI: file:////mnt/upload./wikipedia/commons/0/01/Provincia_di_Teramo-Stemma.p.Twavcra/
 
 [File - 0x0001] File Name = 9a3e0c7b687b526987e2270541002d47.png
 [File - 0x0002] File Size = 8941 bytes

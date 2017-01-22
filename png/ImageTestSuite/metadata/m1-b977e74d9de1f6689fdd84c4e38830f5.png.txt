@@ -1,8 +1,6 @@
 FILE: m1-b977e74d9de1f6689fdd84c4e38830f5.png
 TYPE: PNG
 
-[ERROR: ICC Profile] Exception reading ICC profile: Block length does not match with its complement.
-
 [PNG-IHDR - 0x0001] Image Width = 230
 [PNG-IHDR - 0x0002] Image Height = 184
 [PNG-IHDR - 0x0003] Bits Per Sample = 16
@@ -10,6 +8,30 @@ TYPE: PNG
 [PNG-IHDR - 0x0005] Compression Type = Deflate
 [PNG-IHDR - 0x0006] Filter Method = Adaptive
 [PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[ICC Profile - 0x0000] Profile Size = 724098
+[ICC Profile - 0x0004] CMM Type = ADBE
+[ICC Profile - 0x0008] Version = 2.1.0
+[ICC Profile - 0x000c] Class = Output Device
+[ICC Profile - 0x0010] Color space = CMYK
+[ICC Profile - 0x0014] Profile Connection Space = Lab 
+[ICC Profile - 0x0018] Profile Date/Time = 2005:11:02 20:26:58
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = none
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 11
+[ICC Profile - 0x41324230] AToB 0 = mft2 (0x6D667432): 395328 bytes
+[ICC Profile - 0x41324231] AToB 1 = mft2 (0x6D667432): 395328 bytes
+[ICC Profile - 0x41324232] AToB 2 = mft2 (0x6D667432): 395328 bytes
+[ICC Profile - 0x42324130] BToA 0 = mft2 (0x6D667432): 291144 bytes
+[ICC Profile - 0x42324131] BToA 1 = mft2 (0x6D667432): 291144 bytes
+[ICC Profile - 0x42324132] BToA 2 = mft2 (0x6D667432): 291144 bytes
+[ICC Profile - 0x63707274] Copyright = Copyright 2005 Adobe Systems Incorporated
+[ICC Profile - 0x64657363] Profile Description = SWOP (Newsprint), 30%, GCR, Medium
+[ICC Profile - 0x67616d74] Gamut = mft1 (0x6D667431): 37009 bytes
+[ICC Profile - 0x77747074] Media White Point = (0.9642, 1, 0.8249)
+[ICC Profile - 0x41533030] Unknown tag (0x41533030) = data (0x64617461): 150 bytes
 
 [PNG-iCCP - 0x000c] ICC Profile Name = icc
 

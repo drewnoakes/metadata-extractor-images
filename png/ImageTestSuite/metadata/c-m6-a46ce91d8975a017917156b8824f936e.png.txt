@@ -1,7 +1,7 @@
 FILE: c-m6-a46ce91d8975a017917156b8824f936e.png
 TYPE: PNG
 
-[ERROR: PNG-tIME] Error constructing DateTime: Hour, Minute, and Second parameters describe an un-representable DateTime.
+[ERROR: PNG-tIME] PNG tIME data describes an invalid date/time: year=2007 month=3 day=7 hour=57 minute=33 second=28
 
 [PNG-IHDR - 0x0001] Image Width = 120
 [PNG-IHDR - 0x0002] Image Height = 120

@@ -1,7 +1,7 @@
 FILE: 1ebd73c1d3fbc89782f29507364128fc.png
 TYPE: PNG
 
-[ERROR: ICC Profile] Exception reading ICC profile: Block length does not match with its complement.
+[ERROR: ICC Profile] Exception reading ICC profile: Attempt to read from beyond end of underlying data source (requested index: 432, requested count: 41478, max index: 31999)
 
 [PNG-IHDR - 0x0001] Image Width = 110
 [PNG-IHDR - 0x0002] Image Height = 110
@@ -10,6 +10,23 @@ TYPE: PNG
 [PNG-IHDR - 0x0005] Compression Type = Deflate
 [PNG-IHDR - 0x0006] Filter Method = Adaptive
 [PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[ICC Profile - 0x0000] Profile Size = 557168
+[ICC Profile - 0x0004] CMM Type = ADBE
+[ICC Profile - 0x0008] Version = 2.1.0
+[ICC Profile - 0x000c] Class = Output Device
+[ICC Profile - 0x0010] Color space = CMYK
+[ICC Profile - 0x0014] Profile Connection Space = Lab 
+[ICC Profile - 0x0018] Profile Date/Time = 2000:07:26 05:41:53
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = ADBE
+[ICC Profile - 0x0040] Rendering Intent = Media-Relative Colorimetric
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 10
+[ICC Profile - 0x64657363] Profile Description = U.S. Web Coated (SWOP) v2
+[ICC Profile - 0x63707274] Copyright = Copyright 2000 Adobe Systems, Inc.
+[ICC Profile - 0x77747074] Media White Point = (0.7084, 0.7359, 0.571)
 
 [PNG-iCCP - 0x000c] ICC Profile Name = icc
 

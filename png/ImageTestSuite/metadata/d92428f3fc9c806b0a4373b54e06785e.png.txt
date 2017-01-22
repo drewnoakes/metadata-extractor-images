@@ -1,7 +1,7 @@
 FILE: d92428f3fc9c806b0a4373b54e06785e.png
 TYPE: PNG
 
-[ERROR: PNG-tIME] Error constructing DateTime: Year, Month, and Day parameters describe an un-representable DateTime.
+[ERROR: PNG-tIME] PNG tIME data describes an invalid date/time: year=0 month=33 day=135 hour=0 minute=0 second=33
 
 [PNG-IHDR - 0x0001] Image Width = 400
 [PNG-IHDR - 0x0002] Image Height = 310
