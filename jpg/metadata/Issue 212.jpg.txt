@@ -71,6 +71,18 @@ TYPE: JPEG
 [XMP - 0x1001] Rating = 0
 [XMP - 0x2001] Subject = Nafissa
 
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/]  = 
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CountryCode = TH
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:Location = Hill Tribe Museum
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo = 
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrCity = Zürich
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrCtry = Switzerland
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrExtadr = Walter Hangartner
+Blumenfeldstrasse 37
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrPcode = 8046
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrRegion = Zürich
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiEmailWork = walter.hangartner@gmail.com
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiTelWork = +41 (44) 3710054; +41 (79) 6625530
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ApproximateFocusDistance = 400/100
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:DistortionCorrectionAlreadyApplied = True
@@ -138,12 +150,12 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:LuminanceAdjustmentYellow = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:LuminanceSmoothing = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ParametricDarks = 0
-[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ParametricHighlights = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ParametricHighlightSplit = 75
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ParametricHighlights = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ParametricLights = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ParametricMidtoneSplit = 50
-[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ParametricShadows = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ParametricShadowSplit = 25
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ParametricShadows = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:PerspectiveAspect = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:PerspectiveHorizontal = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:PerspectiveRotate = 0.0
@@ -164,8 +176,8 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:SaturationAdjustmentPurple = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:SaturationAdjustmentRed = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:SaturationAdjustmentYellow = 0
-[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:Shadows2012 = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ShadowTint = 0
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:Shadows2012 = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:SharpenDetail = 25
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:SharpenEdgeMasking = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:SharpenRadius = +1.0
@@ -233,18 +245,6 @@ TYPE: JPEG
 [XMPMeta - ] exifEX:LensSpecification[2] = 1350/10
 [XMPMeta - ] exifEX:LensSpecification[3] = 35/10
 [XMPMeta - ] exifEX:LensSpecification[4] = 56/10
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/]  = 
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CountryCode = TH
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:Location = Hill Tribe Museum
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo = 
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrCity = Zürich
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrCtry = Switzerland
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrExtadr = Walter Hangartner
-Blumenfeldstrasse 37
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrPcode = 8046
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrRegion = Zürich
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiEmailWork = walter.hangartner@gmail.com
-[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiTelWork = +41 (44) 3710054; +41 (79) 6625530
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:AuthorsPosition = Freelance Photographer
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:CaptionWriter = Walter Hangartner
