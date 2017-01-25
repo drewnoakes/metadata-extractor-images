@@ -29,10 +29,6 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0202] Thumbnail Length = 4560 bytes
 
 [XMP - 0xffff] XMP Value Count = 764
-[XMP - 0x0202] Create Date = 2011-06-14T15:47+02:00
-[XMP - 0x0203] Creator Tool = Adobe Illustrator CS5
-[XMP - 0x0205] Metadata Date = 2011-08-17T19:57:05+02:00
-[XMP - 0x0206] Modify Date = 2011-08-17T19:57:05+02:00
 
 [XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg

@@ -11,14 +11,12 @@ TYPE: GIF
 [GIF Header - 0x0008] Background Color Index = 0
 
 [XMP - 0xffff] XMP Value Count = 2
-[XMP - 0x2001] Subject = foobarisawesome
 
 [XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:subject = 
 [XMPMeta - ] dc:subject[1] = foobarisawesome
 
 [XMP - 0xffff] XMP Value Count = 2
-[XMP - 0x2001] Subject = foobarisawesome
 
 [XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:subject = 

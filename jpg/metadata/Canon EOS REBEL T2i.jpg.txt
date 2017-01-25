@@ -195,8 +195,6 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3936 bytes
 
 [XMP - 0xffff] XMP Value Count = 7
-[XMP - 0x0203] Creator Tool = Microsoft Windows Photo Viewer 6.1.7600.16385
-[XMP - 0x2001] Subject = piano
 
 [XMPMeta - http://ns.microsoft.com/photo/1.0/]  = 
 [XMPMeta - http://ns.microsoft.com/photo/1.0/] MicrosoftPhoto:DateAcquired = 2012-02-04T21:21:09.481

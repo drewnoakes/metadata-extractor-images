@@ -26,10 +26,6 @@ TYPE: TIFF
 [Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [0,0,0]
 
 [XMP - 0xffff] XMP Value Count = 18
-[XMP - 0x0202] Create Date = 2006-01-05T12:54:59+01:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop CS Macintosh
-[XMP - 0x0205] Metadata Date = 2006-01-05T12:54:59+01:00
-[XMP - 0x0206] Modify Date = 2006-01-05T12:54:59+01:00
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 4294967295

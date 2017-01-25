@@ -59,14 +59,6 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5955 bytes
 
 [XMP - 0xffff] XMP Value Count = 168
-[XMP - 0x0006] Lens Information = 18/1 55/1 35/10 56/10
-[XMP - 0x0007] Lens = Samsung 18-55 f/3.5-5.6 OIS
-[XMP - 0x0008] Serial Number = 0
-[XMP - 0x0009] Firmware = 0.01
-[XMP - 0x0202] Create Date = 2012-01-01T04:22:54
-[XMP - 0x0205] Metadata Date = 2013-09-26T16:25:18+01:00
-[XMP - 0x0206] Modify Date = 2013-09-26T16:25:18+01:00
-[XMP - 0x1001] Rating = 0
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Firmware = 0.01

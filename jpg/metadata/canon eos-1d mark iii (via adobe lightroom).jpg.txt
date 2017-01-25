@@ -45,24 +45,6 @@ TYPE: JPEG
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
 [XMP - 0xffff] XMP Value Count = 209
-[XMP - 0x0006] Lens Information = 70/1 200/1 0/0 0/0
-[XMP - 0x0007] Lens = EF70-200mm f/2.8L IS USM
-[XMP - 0x0008] Serial Number = 556769
-[XMP - 0x0009] Firmware = 1.2.3
-[XMP - 0x0001] Make = Canon
-[XMP - 0x0002] Model = Canon EOS-1D Mark III
-[XMP - 0x0003] Exposure Time = 1/640 sec
-[XMP - 0x000c] Exposure Program = Program normal
-[XMP - 0x000b] Aperture Value = f/5.6
-[XMP - 0x0005] F-Number = f/5.6
-[XMP - 0x000a] Focal Length = 200 mm
-[XMP - 0x0004] Shutter Speed Value = 1/639 sec
-[XMP - 0x000d] Date/Time Original = 2008-09-20T09:01:07.09+01:00
-[XMP - 0x000e] Date/Time Digitized = 2008-09-20T09:01:07.09+01:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop Lightroom
-[XMP - 0x0206] Modify Date = 2008-12-19T19:06:11Z
-[XMP - 0x2000] Label = label
-[XMP - 0x2001] Subject = [17 values]
 
 [XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/]  = 
 [XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CountryCode = GBR

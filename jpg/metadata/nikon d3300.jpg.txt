@@ -134,14 +134,6 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
 
 [XMP - 0xffff] XMP Value Count = 29
-[XMP - 0x0006] Lens Information = 180/10 550/10 35/10 56/10
-[XMP - 0x0007] Lens = 18.0-55.0 mm f/3.5-5.6
-[XMP - 0x0008] Serial Number = 3000205
-[XMP - 0x0202] Create Date = 2014-02-19T13:47:19.00
-[XMP - 0x0203] Creator Tool = Ver.1.00
-[XMP - 0x0205] Metadata Date = 2014-03-05T11:13:11-08:00
-[XMP - 0x0206] Modify Date = 2014-02-19T13:47:19.00
-[XMP - 0x1001] Rating = 3
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ApproximateFocusDistance = 84/100

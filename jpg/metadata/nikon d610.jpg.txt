@@ -132,7 +132,6 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
 [XMP - 0xffff] XMP Value Count = 7
-[XMP - 0x1001] Rating = 0
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ImageNumber = 4660

@@ -23,18 +23,6 @@ TYPE: TIFF
 [Exif IFD0 - 0x8773] Inter Color Profile = [560 values]
 
 [XMP - 0xffff] XMP Value Count = 43
-[XMP - 0x0003] Exposure Time = 8/1 sec
-[XMP - 0x000c] Exposure Program = Manual control
-[XMP - 0x000b] Aperture Value = f/19.9
-[XMP - 0x0005] F-Number = f/20.0
-[XMP - 0x000a] Focal Length = 90 mm
-[XMP - 0x0004] Shutter Speed Value = 8 sec
-[XMP - 0x000d] Date/Time Original = 2004-04-26T13:55:57+02:00
-[XMP - 0x000e] Date/Time Digitized = 2004-04-26T13:55:57+02:00
-[XMP - 0x0202] Create Date = 2004-06-10T10:42:54+02:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop Elements for Windows, version 2.0
-[XMP - 0x0205] Metadata Date = 2004-06-10T10:42:54+02:00
-[XMP - 0x0206] Modify Date = 2004-06-10T10:42:54+02:00
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 8/1

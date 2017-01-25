@@ -26,18 +26,6 @@ TYPE: ARW
 [Exif IFD0 - 0x8773] Inter Color Profile = [3144 values]
 
 [XMP - 0xffff] XMP Value Count = 234
-[XMP - 0x0001] Make = Phase One
-[XMP - 0x0002] Model = P 45+
-[XMP - 0x0003] Exposure Time = 1/6 sec
-[XMP - 0x000c] Exposure Program = Manual control
-[XMP - 0x0004] Shutter Speed Value = 1/6 sec
-[XMP - 0x000d] Date/Time Original = 2010-09-30T16:06:06-07:00
-[XMP - 0x000e] Date/Time Digitized = 2010-09-30T16:06:06-07:00
-[XMP - 0x0202] Create Date = 2013-05-15T09:42:30-07:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop CS3 Macintosh
-[XMP - 0x0205] Metadata Date = 2013-05-15T09:42:30-07:00
-[XMP - 0x0206] Modify Date = 2013-05-15T09:42:30-07:00
-[XMP - 0x2001] Subject = apt color kureck jones moroccan vivid
 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2010-01-01

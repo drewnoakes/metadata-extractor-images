@@ -27,19 +27,6 @@ TYPE: TIFF
 [Exif IFD0 - 0x8773] Inter Color Profile = [560 values]
 
 [XMP - 0xffff] XMP Value Count = 40
-[XMP - 0x0001] Make = Canon
-[XMP - 0x0002] Model = Canon EOS-1DS
-[XMP - 0x0003] Exposure Time = 1/60 sec
-[XMP - 0x000b] Aperture Value = f/18.2
-[XMP - 0x0005] F-Number = f/18.0
-[XMP - 0x000a] Focal Length = 63 mm
-[XMP - 0x0004] Shutter Speed Value = 1/63 sec
-[XMP - 0x000d] Date/Time Original = 2003-11-25T16:05:53+02:00
-[XMP - 0x000e] Date/Time Digitized = 2003-11-25T16:05:53+02:00
-[XMP - 0x0202] Create Date = 2004-06-13T17:44:48+02:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop CS Windows
-[XMP - 0x0205] Metadata Date = 2004-06-13T17:44:48+02:00
-[XMP - 0x0206] Modify Date = 2004-06-13T17:44:48+02:00
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/60

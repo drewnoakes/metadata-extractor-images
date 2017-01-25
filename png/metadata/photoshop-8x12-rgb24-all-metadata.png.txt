@@ -12,10 +12,6 @@ TYPE: PNG
 [PNG-iTXt - 0x000d] Textual Data = Software: Adobe ImageReady
 
 [XMP - 0xffff] XMP Value Count = 10
-[XMP - 0x0202] Create Date = 2012-12-31T04:35:10Z
-[XMP - 0x0203] Creator Tool = Adobe Photoshop CS6 (Windows)
-[XMP - 0x0205] Metadata Date = 2013-01-01T02:13:24
-[XMP - 0x0206] Modify Date = 2013-01-01T02:13:24
 
 [XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/png

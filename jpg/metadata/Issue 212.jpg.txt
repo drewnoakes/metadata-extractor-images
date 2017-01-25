@@ -62,14 +62,6 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0202] Thumbnail Length = 9708 bytes
 
 [XMP - 0xffff] XMP Value Count = 236
-[XMP - 0x0006] Lens Information = 180/10 1350/10 35/10 56/10
-[XMP - 0x0007] Lens = smc PENTAX-DA 18-135mm F3.5-5.6 ED AL[IF] DC WR
-[XMP - 0x0202] Create Date = 2015-10-07T07:45:07
-[XMP - 0x0203] Creator Tool = K-50 Ver. 1.02
-[XMP - 0x0205] Metadata Date = 2015-11-19T09:44:05+01:00
-[XMP - 0x0206] Modify Date = 2015-11-19T09:44:05+01:00
-[XMP - 0x1001] Rating = 0
-[XMP - 0x2001] Subject = Nafissa
 
 [XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/]  = 
 [XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CountryCode = TH

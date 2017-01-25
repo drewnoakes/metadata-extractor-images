@@ -20,11 +20,6 @@ TYPE: JPEG
 [Exif SubIFD - 0xa003] Exif Image Height = 177 pixels
 
 [XMP - 0xffff] XMP Value Count = 27
-[XMP - 0x0202] Create Date = 2015-06-29T18:15:36+01:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop CS6 (Windows)
-[XMP - 0x0205] Metadata Date = 2015-06-29T18:19:12+01:00
-[XMP - 0x0206] Modify Date = 2015-06-29T18:19:12+01:00
-[XMP - 0x2001] Subject = test keyword 1 test keyword 2
 
 [XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg

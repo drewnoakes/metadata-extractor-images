@@ -50,23 +50,6 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0202] Thumbnail Length = 11021 bytes
 
 [XMP - 0xffff] XMP Value Count = 131
-[XMP - 0x0006] Lens Information = 6000/1000 22500/1000 0/0 0/0
-[XMP - 0x0007] Lens = 6.0-22.5 mm
-[XMP - 0x0009] Firmware = 1.00
-[XMP - 0x0001] Make = Canon
-[XMP - 0x0002] Model = Canon PowerShot S90
-[XMP - 0x0003] Exposure Time = 1/200 sec
-[XMP - 0x000b] Aperture Value = f/4.9
-[XMP - 0x0005] F-Number = f/4.9
-[XMP - 0x000a] Focal Length = 22.5 mm
-[XMP - 0x0004] Shutter Speed Value = 1/199 sec
-[XMP - 0x000d] Date/Time Original = 2012-06-10T12:06:14+01:00
-[XMP - 0x000e] Date/Time Digitized = 2012-06-10T12:06:14+01:00
-[XMP - 0x0202] Create Date = 2012-06-10T12:06:14+01:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop Lightroom
-[XMP - 0x0206] Modify Date = 2012-06-13T23:17:33+01:00
-[XMP - 0x1001] Rating = 3
-[XMP - 0x2001] Subject = 2012 dublin ireland june
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Firmware = 1.00

@@ -26,20 +26,6 @@ TYPE: TIFF
 [Exif IFD0 - 0x8773] Inter Color Profile = [3144 values]
 
 [XMP - 0xffff] XMP Value Count = 52
-[XMP - 0x0001] Make = Canon
-[XMP - 0x0002] Model = Canon EOS 5D
-[XMP - 0x0003] Exposure Time = 1/100 sec
-[XMP - 0x000c] Exposure Program = Manual control
-[XMP - 0x000b] Aperture Value = f/12.9
-[XMP - 0x0005] F-Number = f/13.0
-[XMP - 0x000a] Focal Length = 38 mm
-[XMP - 0x0004] Shutter Speed Value = 1/98 sec
-[XMP - 0x000d] Date/Time Original = 2008-07-14T23:12:10-04:00
-[XMP - 0x000e] Date/Time Digitized = 2008-07-14T23:12:10-04:00
-[XMP - 0x0202] Create Date = 2008-07-14T17:24:11-04:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop CS2 Macintosh
-[XMP - 0x0205] Metadata Date = 2008-07-14T17:25:02-04:00
-[XMP - 0x0206] Modify Date = 2008-07-14T17:25:02-04:00
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0221

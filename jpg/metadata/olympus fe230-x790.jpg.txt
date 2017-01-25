@@ -58,22 +58,6 @@ TYPE: JPEG
 [GPS - 0x001d] GPS Date Stamp = 2008:12:07
 
 [XMP - 0xffff] XMP Value Count = 141
-[XMP - 0x0008] Serial Number = 000K79K13272
-[XMP - 0x0001] Make = OLYMPUS IMAGING CORP.
-[XMP - 0x0002] Model = FE230/X790
-[XMP - 0x0003] Exposure Time = 1/160 sec
-[XMP - 0x000c] Exposure Program = Program creative (slow program)
-[XMP - 0x000b] Aperture Value = f/4.6
-[XMP - 0x0005] F-Number = f/4.6
-[XMP - 0x000a] Focal Length = 6.3 mm
-[XMP - 0x0004] Shutter Speed Value = 1/159 sec
-[XMP - 0x000d] Date/Time Original = 2008-12-07T10:28:52-08:00
-[XMP - 0x000e] Date/Time Digitized = 2008-12-07T10:28:52-08:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop Lightroom
-[XMP - 0x0205] Metadata Date = 2008-12-09T20:44:33.249-08:00
-[XMP - 0x0206] Modify Date = 2008-12-09T21:03:56-08:00
-[XMP - 0x1001] Rating = 3
-[XMP - 0x2001] Subject = 2008 bc british columbia canada december powder day revelstoke rmr snow
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:SerialNumber = 000K79K13272

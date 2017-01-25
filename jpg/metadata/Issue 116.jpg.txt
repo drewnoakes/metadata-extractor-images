@@ -1,11 +1,6 @@
 FILE: Issue 116.jpg
 TYPE: JPEG
 
-[ERROR: XMP] Unable to parse XMP property exif:ExposureProgram as an int.
-[ERROR: XMP] Unable to parse XMP property exif:ApertureValue as a Rational.
-[ERROR: XMP] Unable to parse XMP property exif:FNumber as a Rational.
-[ERROR: XMP] Unable to parse XMP property exif:ShutterSpeedValue as a Rational.
-
 [JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 346 pixels
@@ -67,10 +62,6 @@ TYPE: JPEG
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
 [XMP - 0xffff] XMP Value Count = 24
-[XMP - 0x0003] Exposure Time = 1/60 sec. sec
-[XMP - 0x000d] Date/Time Original = 2011:10:17 18:19:51
-[XMP - 0x000e] Date/Time Digitized = 2011:10:17 18:19:51
-[XMP - 0x0202] Create Date = 2011-10-17T18:19:51
 
 [XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2011-10-17T18:19:51

@@ -33,10 +33,6 @@ TYPE: PSD
 [Photoshop - 0x0fa1] Plug-in 2 Data = [28 values]
 
 [XMP - 0xffff] XMP Value Count = 16
-[XMP - 0x0202] Create Date = 2012-05-22T15:51:47+01:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop CS5 Windows
-[XMP - 0x0205] Metadata Date = 2012-05-22T15:51:47+01:00
-[XMP - 0x0206] Modify Date = 2012-05-22T15:51:47+01:00
 
 [XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS5 Windows

@@ -24,19 +24,6 @@ TYPE: ARW
 [Exif IFD0 - 0x8773] Inter Color Profile = [3144 values]
 
 [XMP - 0xffff] XMP Value Count = 52
-[XMP - 0x0001] Make = Canon
-[XMP - 0x0002] Model = Canon EOS D30
-[XMP - 0x0003] Exposure Time = 3/1 sec
-[XMP - 0x000b] Aperture Value = f/22.0
-[XMP - 0x0005] F-Number = f/22.0
-[XMP - 0x000a] Focal Length = 30 mm
-[XMP - 0x0004] Shutter Speed Value = 3 sec
-[XMP - 0x000d] Date/Time Original = 2007-05-10T00:50:33+01:00
-[XMP - 0x000e] Date/Time Digitized = 2007-05-10T00:50:33+01:00
-[XMP - 0x0202] Create Date = 2007-06-13T13:42:54+01:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop CS2 Windows
-[XMP - 0x0205] Metadata Date = 2007-06-13T13:42:54+01:00
-[XMP - 0x0206] Modify Date = 2007-06-13T13:42:54+01:00
 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = uuid:2F317654AB19DC119E42B2B60E1ED505

@@ -74,7 +74,6 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0202] Thumbnail Length = 4437 bytes
 
 [XMP - 0xffff] XMP Value Count = 32
-[XMP - 0x2001] Subject = Wilts & Dorset Bus
 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:CaptionWriter = Ian Britton

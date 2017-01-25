@@ -192,14 +192,6 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10105 bytes
 
 [XMP - 0xffff] XMP Value Count = 31
-[XMP - 0x0006] Lens Information = 18/1 55/1 0/0 0/0
-[XMP - 0x0007] Lens = EF-S18-55mm f/3.5-5.6 IS STM
-[XMP - 0x0008] Serial Number = 012070143361
-[XMP - 0x0009] Firmware = 1.0.0
-[XMP - 0x0202] Create Date = 2013-06-30T07:36:42.00
-[XMP - 0x0205] Metadata Date = 2013-07-03T23:06:59-07:00
-[XMP - 0x0206] Modify Date = 2013-06-30T07:36:42.00
-[XMP - 0x1001] Rating = 5
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ApproximateFocusDistance = 4294967295/1

@@ -61,26 +61,6 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10286 bytes
 
 [XMP - 0xffff] XMP Value Count = 179
-[XMP - 0x0006] Lens Information = 24/1 70/1 0/0 0/0
-[XMP - 0x0007] Lens = EF24-70mm f/2.8L USM
-[XMP - 0x0008] Serial Number = 380319450
-[XMP - 0x0009] Firmware = 1.2.1
-[XMP - 0x0001] Make = Canon
-[XMP - 0x0002] Model = Canon EOS 7D
-[XMP - 0x0003] Exposure Time = 1/125 sec
-[XMP - 0x000c] Exposure Program = Manual control
-[XMP - 0x000b] Aperture Value = f/11.0
-[XMP - 0x0005] F-Number = f/11.0
-[XMP - 0x000a] Focal Length = 57 mm
-[XMP - 0x0004] Shutter Speed Value = 1/124 sec
-[XMP - 0x000d] Date/Time Original = 2010-12-12T12:41:35.00+01:00
-[XMP - 0x000e] Date/Time Digitized = 2010-12-12T12:41:35.00+01:00
-[XMP - 0x0202] Create Date = 2010-12-12T12:41:35.00+01:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop Lightroom
-[XMP - 0x0205] Metadata Date = 2011-01-09T21:31:56.078-01:00
-[XMP - 0x0206] Modify Date = 2011-01-10T21:09:00+01:00
-[XMP - 0x1001] Rating = 3
-[XMP - 0x2000] Label = blau
 
 [XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/]  = 
 [XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CountryCode = DE

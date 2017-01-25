@@ -18,7 +18,6 @@ TYPE: CR2
 [Exif IFD0 - 0x8298] Copyright = 
 
 [XMP - 0xffff] XMP Value Count = 1
-[XMP - 0x1001] Rating = 0
 
 [XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 0

@@ -22,10 +22,6 @@ TYPE: TIFF
 [Exif IFD0 - 0x9330] Unknown tag (0x9330) = [3584 values]
 
 [XMP - 0xffff] XMP Value Count = 31
-[XMP - 0x0202] Create Date = 2008-03-09T23:30:21+01:00
-[XMP - 0x0203] Creator Tool = Adobe Photoshop CS2 Windows
-[XMP - 0x0205] Metadata Date = 2008-03-09T23:30:21+01:00
-[XMP - 0x0206] Modify Date = 2008-03-09T23:30:21+01:00
 
 [XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS2 Windows

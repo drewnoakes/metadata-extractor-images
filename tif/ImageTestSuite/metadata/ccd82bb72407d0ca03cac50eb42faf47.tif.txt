@@ -23,10 +23,6 @@ TYPE: ARW
 [Exif IFD0 - 0x935c] Unknown tag (0x935c) = [28796 values]
 
 [XMP - 0xffff] XMP Value Count = 15
-[XMP - 0x0202] Create Date = 2008-08-05T12:42:28Z
-[XMP - 0x0203] Creator Tool = Adobe Photoshop CS Windows
-[XMP - 0x0205] Metadata Date = 2008-08-06T15:31:22Z
-[XMP - 0x0206] Modify Date = 2008-08-06T15:31:22Z
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 1

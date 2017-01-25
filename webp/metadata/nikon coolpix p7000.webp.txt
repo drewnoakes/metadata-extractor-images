@@ -109,19 +109,6 @@ TYPE: RIFF
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6044 bytes
 
 [XMP - 0xffff] XMP Value Count = 57
-[XMP - 0x0001] Make = NIKON
-[XMP - 0x0002] Model = COOLPIX P7000
-[XMP - 0x0003] Exposure Time = 1/800 sec
-[XMP - 0x000c] Exposure Program = Program normal
-[XMP - 0x000b] Aperture Value = f/4.5
-[XMP - 0x0005] F-Number = f/4.5
-[XMP - 0x000a] Focal Length = 6 mm
-[XMP - 0x0004] Shutter Speed Value = 1/799 sec
-[XMP - 0x000d] Date/Time Original = 2010-10-21T11:22:48+01:00
-[XMP - 0x0202] Create Date = 2010-10-21T11:22:48+01:00
-[XMP - 0x0203] Creator Tool = COOLPIX P7000V1.0
-[XMP - 0x0205] Metadata Date = 2010-11-17T14:52:46Z
-[XMP - 0x0206] Modify Date = 2010-10-21T11:22:48+01:00
 
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:AlreadyApplied = True
