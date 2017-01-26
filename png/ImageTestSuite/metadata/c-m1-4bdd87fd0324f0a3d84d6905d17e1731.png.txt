@@ -55,13 +55,13 @@ TYPE: PNG
 
 [PNG-iCCP - 0x000c] ICC Profile Name = sRGB IEC61966-2.1
 
-[PNG-iTXt - 0x000d] Textual Data = Comment: 
+[PNG-tEXt - 0x000d] Textual Data = Comment: 
 
-[PNG-iTXt - 0x000d] Textual Data = CreationTime: 0000:00:00 00:00:00
+[PNG-tEXt - 0x000d] Textual Data = CreationTime: 0000:00:00 00:00:00
 
-[PNG-iTXt - 0x000d] Textual Data = Software: v774-75
+[PNG-tEXt - 0x000d] Textual Data = Software: v774-75
 
-[PNG-iTXt - 0x000d] Textual Data = Source: X250,D560Z,C350Z
+[PNG-tEXt - 0x000d] Textual Data = Source: X250,D560Z,C350Z
 
 [File - 0x0001] File Name = c-m1-4bdd87fd0324f0a3d84d6905d17e1731.png
 [File - 0x0002] File Size = 167552 bytes
@@ -73,10 +73,10 @@ TYPE: PNG
 - PNG-iCCP
     - ICC Profile
 - PNG-tIME
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

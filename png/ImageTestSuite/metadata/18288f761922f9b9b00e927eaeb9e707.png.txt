@@ -28,7 +28,7 @@ TYPE: PNG
 
 [PNG-iTXt - 0x000d] Textual Data = Title: gfmjxfjg
 
-[PNG-iTXt - 0x000d] Textual Data = Title: gfmjxfjg
+[PNG-tEXt - 0x000d] Textual Data = Title: gfmjxfjg
 
 [File - 0x0001] File Name = 18288f761922f9b9b00e927eaeb9e707.png
 [File - 0x0002] File Size = 522636 bytes
@@ -40,7 +40,7 @@ TYPE: PNG
 - PNG Chromaticities
 - PNG-pHYs
 - PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

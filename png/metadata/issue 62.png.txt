@@ -15,9 +15,9 @@ TYPE: PNG
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2800
 [PNG-pHYs - 0x0012] Unit Specifier = Metres
 
-[PNG-iTXt - 0x000d] Textual Data = Creation Time: 6/16/09
+[PNG-tEXt - 0x000d] Textual Data = Creation Time: 6/16/09
 
-[PNG-iTXt - 0x000d] Textual Data = Software: Adobe Fireworks CS3
+[PNG-tEXt - 0x000d] Textual Data = Software: Adobe Fireworks CS3
 
 [XMP - 0xffff] XMP Value Count = 4
 
@@ -35,8 +35,8 @@ TYPE: PNG
 - PNG-IHDR
 - PNG-sBIT
 - PNG-pHYs
-- PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
+- PNG-tEXt
 - XMP
 - File
 

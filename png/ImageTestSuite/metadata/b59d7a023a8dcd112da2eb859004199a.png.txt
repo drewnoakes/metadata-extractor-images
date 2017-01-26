@@ -19,7 +19,7 @@ TYPE: PNG
 
 [PNG-tIME - 0x000e] Last Modification Time = 2008:12:21 21:34:13
 
-[PNG-iTXt - 0x000d] Textual Data = Comment: Created with GIMP
+[PNG-tEXt - 0x000d] Textual Data = Comment: Created with GIMP
 
 [File - 0x0001] File Name = b59d7a023a8dcd112da2eb859004199a.png
 [File - 0x0002] File Size = 32983 bytes
@@ -30,7 +30,7 @@ TYPE: PNG
 - PNG-bKGD
 - PNG-pHYs
 - PNG-tIME
-- PNG-iTXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

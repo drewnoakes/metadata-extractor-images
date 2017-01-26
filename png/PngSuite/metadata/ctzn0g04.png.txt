@@ -11,9 +11,9 @@ TYPE: PNG
 
 [PNG-gAMA - 0x000b] Image Gamma = 1
 
-[PNG-iTXt - 0x000d] Textual Data = Title: PngSuite
+[PNG-tEXt - 0x000d] Textual Data = Title: PngSuite
 
-[PNG-iTXt - 0x000d] Textual Data = Author: Willem A.J. van Schaik
+[PNG-tEXt - 0x000d] Textual Data = Author: Willem A.J. van Schaik
 (willem@schaik.com)
 
 [PNG-zTXt - 0x000d] Textual Data = Copyright: Copyright Willem van Schaik, Singapore 1995-96
@@ -34,8 +34,8 @@ to the spec are present.
 
 - PNG-IHDR
 - PNG-gAMA
-- PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
+- PNG-tEXt
 - PNG-zTXt
 - PNG-zTXt
 - PNG-zTXt

@@ -15,9 +15,9 @@ TYPE: PNG
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2834
 [PNG-pHYs - 0x0012] Unit Specifier = Unknown (-70)
 
-[PNG-iTXt - 0x000d] Textual Data = Creation Time: 06/05/08
+[PNG-tEXt - 0x000d] Textual Data = Creation Time: 06/05/08
 
-[PNG-iTXt - 0x000d] Textual Data = XML:com.adobe.xmp: <?xpacket begin="   " id="W5M0MpCehiHzreSzNTczkc9d"?>
+[PNG-tEXt - 0x000d] Textual Data = XML:com.adobe.xmp: <?xpacket begin="   " id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.1-c034 46.272976, Sat Jan 27 2|07 22:37:37  r     ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns%">
       <rdf:Description rdf:about=""
@@ -30,7 +30,7 @@ TYPE: PNG
             xmlns:dc="http://purl.org/dc/elements/1.1/">
          <dc:format>image/png</dc:fo
 
-[PNG-iTXt - 0x000d] Textual Data = Software: Adobe Fireworks
+[PNG-tEXt - 0x000d] Textual Data = Software: Adobe Fireworks
 
 [File - 0x0001] File Name = c-m2-8f2b481b7fd9bd745e620b7c01a18df2.png
 [File - 0x0002] File Size = 2021 bytes
@@ -39,9 +39,9 @@ TYPE: PNG
 - PNG-IHDR
 - PNG-sBIT
 - PNG-pHYs
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

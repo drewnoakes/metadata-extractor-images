@@ -38,7 +38,7 @@ TYPE: PNG
 
 [PNG-tIME - 0x000e] Last Modification Time = 2008:03:15 17:27:08
 
-[PNG-iTXt - 0x000d] Textual Data = Comment: File written by Adobe Photoshop? 5.0
+[PNG-tEXt - 0x000d] Textual Data = Comment: File written by Adobe Photoshop? 5.0
 
 [File - 0x0001] File Name = 51a4d21670dc8dfa8ffc9e54afd62f5f.png
 [File - 0x0002] File Size = 25400 bytes
@@ -50,7 +50,7 @@ TYPE: PNG
 - PNG-bKGD
 - PNG-pHYs
 - PNG-tIME
-- PNG-iTXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

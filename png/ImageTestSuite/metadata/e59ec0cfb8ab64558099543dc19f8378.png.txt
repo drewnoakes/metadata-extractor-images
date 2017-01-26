@@ -19,9 +19,9 @@ TYPE: PNG
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2834
 [PNG-pHYs - 0x0012] Unit Specifier = Metres
 
-[PNG-iTXt - 0x000d] Textual Data = Creation Time: 07/22/06
+[PNG-tEXt - 0x000d] Textual Data = Creation Time: 07/22/06
 
-[PNG-iTXt - 0x000d] Textual Data = Software: Macromedia Fireworks MX
+[PNG-tEXt - 0x000d] Textual Data = Software: Macromedia Fireworks MX
 
 [File - 0x0001] File Name = e59ec0cfb8ab64558099543dc19f8378.png
 [File - 0x0002] File Size = 255 bytes
@@ -32,8 +32,8 @@ TYPE: PNG
 - PNG-PLTE
 - PNG-tRNS
 - PNG-pHYs
-- PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

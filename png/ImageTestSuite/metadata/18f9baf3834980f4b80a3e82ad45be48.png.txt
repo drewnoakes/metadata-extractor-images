@@ -17,13 +17,13 @@ TYPE: PNG
 
 [PNG-tIME - 0x000e] Last Modification Time = 2007:04:07 01:08:09
 
-[PNG-iTXt - 0x000d] Textual Data = Author: UleaULead System
+[PNG-tEXt - 0x000d] Textual Data = Author: UleaULead System
 
-[PNG-iTXt - 0x000d] Textual Data = Software: ULead System
+[PNG-tEXt - 0x000d] Textual Data = Software: ULead System
 
-[PNG-iTXt - 0x000d] Textual Data = Author: UleaULead System
+[PNG-tEXt - 0x000d] Textual Data = Author: UleaULead System
 
-[PNG-iTXt - 0x000d] Textual Data = Software: ULead System
+[PNG-tEXt - 0x000d] Textual Data = Software: ULead System
 
 [File - 0x0001] File Name = 18f9baf3834980f4b80a3e82ad45be48.png
 [File - 0x0002] File Size = 10552 bytes
@@ -33,10 +33,10 @@ TYPE: PNG
 - PNG-bKGD
 - PNG-pHYs
 - PNG-tIME
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

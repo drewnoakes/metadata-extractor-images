@@ -11,7 +11,7 @@ TYPE: PNG
 
 [PNG-tIME - 0x000e] Last Modification Time = 2007:03:07 02:33:28
 
-[PNG-iTXt - 0x000d] Textual Data = Software: GLDPNG ver 3.4
+[PNG-tEXt - 0x000d] Textual Data = Software: GLDPNG ver 3.4
 
 [PNG-gAMA - 0x000b] Image Gamma = 0.455
 
@@ -34,7 +34,7 @@ TYPE: PNG
 
 - PNG-IHDR
 - PNG-tIME
-- PNG-iTXt
+- PNG-tEXt
 - PNG-gAMA
 - PNG Chromaticities
 - PNG-pHYs

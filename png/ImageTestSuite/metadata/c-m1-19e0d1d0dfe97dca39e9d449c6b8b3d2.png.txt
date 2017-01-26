@@ -15,7 +15,7 @@ TYPE: PNG
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2834
 [PNG-pHYs - 0x0012] Unit Specifier = Metres
 
-[PNG-iTXt - 0x000d] Textual Data = Software: Macromedia Fireworks 8
+[PNG-tEXt - 0x000d] Textual Data = Software: Macromedia Fireworks 8
 
 [File - 0x0001] File Name = c-m1-19e0d1d0dfe97dca39e9d449c6b8b3d2.png
 [File - 0x0002] File Size = 26713 bytes
@@ -24,7 +24,7 @@ TYPE: PNG
 - PNG-IHDR
 - PNG-sBIT
 - PNG-pHYs
-- PNG-iTXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

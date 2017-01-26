@@ -526,7 +526,7 @@ f66c6b8b47a8ea83a97399ead9bdbe96ef42ac6b3d3a2aaf259565b32baa65e266651c8c
 20004300530000000100
 
 
-[PNG-iTXt - 0x000d] Textual Data = Raw profile type iptc: 
+[PNG-tEXt - 0x000d] Textual Data = Raw profile type iptc: 
 iptc
        8
 1c02000002000200
@@ -729,7 +729,7 @@ xmp
     - ICC Profile
 - PNG-pHYs
 - PNG-zTXt
-- PNG-iTXt
+- PNG-tEXt
 - PNG-zTXt
 - PNG-zTXt
 - PNG-zTXt

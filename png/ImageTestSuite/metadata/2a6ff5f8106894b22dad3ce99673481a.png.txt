@@ -62,11 +62,11 @@ TYPE: PNG
 
 [PNG-tIME - 0x000e] Last Modification Time = 2006:11:07 08:45:21
 
-[PNG-iTXt - 0x000d] Textual Data = File Name: C:\Documents and Settings\Jmartin\Desktop\images\m7.jpg
+[PNG-tEXt - 0x000d] Textual Data = File Name: C:\Documents and Settings\Jmartin\Desktop\images\m7.jpg
 
-[PNG-iTXt - 0x000d] Textual Data = Software: Adobe Photoshop
+[PNG-tEXt - 0x000d] Textual Data = Software: Adobe Photoshop
 
-[PNG-iTXt - 0x000d] Textual Data = Writer: SuperPNG by Brendan Bolles
+[PNG-tEXt - 0x000d] Textual Data = Writer: SuperPNG by Brendan Bolles
 
 [File - 0x0001] File Name = 2a6ff5f8106894b22dad3ce99673481a.png
 [File - 0x0002] File Size = 7300 bytes
@@ -80,9 +80,9 @@ TYPE: PNG
 - PNG Chromaticities
 - PNG-pHYs
 - PNG-tIME
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

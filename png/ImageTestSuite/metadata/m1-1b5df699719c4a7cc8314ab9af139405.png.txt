@@ -9,7 +9,7 @@ TYPE: PNG
 [PNG-IHDR - 0x0006] Filter Method = Adaptive
 [PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
 
-[PNG-iTXt - 0x000d] Textual Data = Creation Time: Wed 5 Apr 2006 13:33:39 -0000
+[PNG-tEXt - 0x000d] Textual Data = Creation Time: Wed 5 Apr 2006 13:33:39 -0000
 
 [PNG-tIME - 0x000e] Last Modification Time = 2006:04:05 13:09:43
 
@@ -26,7 +26,7 @@ TYPE: PNG
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - PNG-IHDR
-- PNG-iTXt
+- PNG-tEXt
 - PNG-tIME
 - PNG-pHYs
 - PNG-gAMA

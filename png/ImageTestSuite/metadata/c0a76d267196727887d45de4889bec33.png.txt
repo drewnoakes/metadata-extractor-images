@@ -21,7 +21,7 @@ TYPE: PNG
 
 [PNG-tIME - 0x000e] Last Modification Time = 1996:06:07 17:58:08
 
-[PNG-iTXt - 0x000d] Textual Data = Title: PNG
+[PNG-tEXt - 0x000d] Textual Data = Title: PNG
 
 [PNG-zTXt - 0x000d] Textual Data = Description: Rendered by Persistence of Vision (tm) Ray Tracer
 Version 3.0, using the Times New Roman font and DMFWood6.
@@ -39,7 +39,7 @@ post-processing step.
 - PNG-bKGD
 - PNG-pHYs
 - PNG-tIME
-- PNG-iTXt
+- PNG-tEXt
 - PNG-zTXt
 - File
 

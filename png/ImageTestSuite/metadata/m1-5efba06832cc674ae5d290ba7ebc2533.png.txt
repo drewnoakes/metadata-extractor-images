@@ -19,9 +19,9 @@ TYPE: PNG
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 7874
 [PNG-pHYs - 0x0012] Unit Specifier = Metres
 
-[PNG-iTXt - 0x000d] Textual Data = Creation Time: ter 20 fev 2007 15:48:58 -0300
+[PNG-tEXt - 0x000d] Textual Data = Creation Time: ter 20 fev 2007 15:48:58 -0300
 
-[PNG-iTXt - 0x000d] Textual Data = Creation Time: ter 20 fev 2007 15:48:58 -0300
+[PNG-tEXt - 0x000d] Textual Data = Creation Time: ter 20 fev 2007 15:48:58 -0300
 
 [File - 0x0001] File Name = m1-5efba06832cc674ae5d290ba7ebc2533.png
 [File - 0x0002] File Size = 232282 bytes
@@ -32,8 +32,8 @@ TYPE: PNG
 - PNG-bKGD
 - PNG-pHYs
 - PNG-tIME
-- PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

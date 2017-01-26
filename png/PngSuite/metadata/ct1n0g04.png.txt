@@ -11,22 +11,22 @@ TYPE: PNG
 
 [PNG-gAMA - 0x000b] Image Gamma = 1
 
-[PNG-iTXt - 0x000d] Textual Data = Title: PngSuite
+[PNG-tEXt - 0x000d] Textual Data = Title: PngSuite
 
-[PNG-iTXt - 0x000d] Textual Data = Author: Willem A.J. van Schaik
+[PNG-tEXt - 0x000d] Textual Data = Author: Willem A.J. van Schaik
 (willem@schaik.com)
 
-[PNG-iTXt - 0x000d] Textual Data = Copyright: Copyright Willem van Schaik, Singapore 1995-96
+[PNG-tEXt - 0x000d] Textual Data = Copyright: Copyright Willem van Schaik, Singapore 1995-96
 
-[PNG-iTXt - 0x000d] Textual Data = Description: A compilation of a set of images created to test the
+[PNG-tEXt - 0x000d] Textual Data = Description: A compilation of a set of images created to test the
 various color-types of the PNG format. Included are
 black&white, color, paletted, with alpha channel, with
 transparency formats. All bit-depths allowed according
 to the spec are present.
 
-[PNG-iTXt - 0x000d] Textual Data = Software: Created on a NeXTstation color using "pnmtopng".
+[PNG-tEXt - 0x000d] Textual Data = Software: Created on a NeXTstation color using "pnmtopng".
 
-[PNG-iTXt - 0x000d] Textual Data = Disclaimer: Freeware.
+[PNG-tEXt - 0x000d] Textual Data = Disclaimer: Freeware.
 
 [File - 0x0001] File Name = ct1n0g04.png
 [File - 0x0002] File Size = 792 bytes
@@ -34,12 +34,12 @@ to the spec are present.
 
 - PNG-IHDR
 - PNG-gAMA
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

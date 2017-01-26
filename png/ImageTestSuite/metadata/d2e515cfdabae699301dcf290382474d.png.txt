@@ -55,7 +55,7 @@ TYPE: PNG
 
 [PNG-iTXt - 0x000d] Textual Data = Title: helen
 
-[PNG-iTXt - 0x000d] Textual Data = Title: helen
+[PNG-tEXt - 0x000d] Textual Data = Title: helen
 
 [File - 0x0001] File Name = d2e515cfdabae699301dcf290382474d.png
 [File - 0x0002] File Size = 109565 bytes
@@ -67,7 +67,7 @@ TYPE: PNG
 - PNG-iCCP
     - ICC Profile
 - PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor

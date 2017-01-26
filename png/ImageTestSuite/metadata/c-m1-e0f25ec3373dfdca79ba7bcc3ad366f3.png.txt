@@ -1648,9 +1648,9 @@ f984fc83fb822f8182818180807d776f655a4f45393029221f1d1f21283039444f586268
 423b35302b272320
 
 
-[PNG-iTXt - 0x000d] Textual Data = Software: Adobe Photoshop CS2 Windows
+[PNG-tEXt - 0x000d] Textual Data = Software: Adobe Photoshop CS2 Windows
 
-[PNG-iTXt - 0x000d] Textual Data = Timestamp: 2006:09:18 19:18:42
+[PNG-tEXt - 0x000d] Textual Data = Timestamp: 2006:09:18 19:18:42
 
 [File - 0x0001] File Name = c-m1-e0f25ec3373dfdca79ba7bcc3ad366f3.png
 [File - 0x0002] File Size = 205359 bytes
@@ -1663,8 +1663,8 @@ f984fc83fb822f8182818180807d776f655a4f45393029221f1d1f21283039444f586268
 - PNG-pHYs
 - PNG-zTXt
 - PNG-zTXt
-- PNG-iTXt
-- PNG-iTXt
+- PNG-tEXt
+- PNG-tEXt
 - File
 
 Generated using metadata-extractor
