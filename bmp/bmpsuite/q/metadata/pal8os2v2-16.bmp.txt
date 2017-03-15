@@ -1,9 +1,12 @@
 FILE: pal8os2v2-16.bmp
 TYPE: BMP
 
-[ERROR: BMP Header] Unexpected DIB header size: 16
-
+[BMP Header - 0xfffffffe] Bitmap type = Standard
 [BMP Header - 0xffffffff] Header Size = 16
+[BMP Header - 0x0002] Image Width = 127
+[BMP Header - 0x0001] Image Height = 64
+[BMP Header - 0x0003] Planes = 1
+[BMP Header - 0x0004] Bits Per Pixel = 8
 
 [File - 0x0001] File Name = pal8os2v2-16.bmp
 [File - 0x0002] File Size = 9246 bytes

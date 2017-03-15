@@ -1,7 +1,19 @@
 FILE: ba-bm.bmp
-TYPE: UNKNOWN
+TYPE: BMP
 
-EXCEPTION: File format is not supported
+[BMP Header - 0xfffffffe] Bitmap type = Standard
+[BMP Header - 0xffffffff] Header Size = 12
+[BMP Header - 0x0002] Image Width = 127
+[BMP Header - 0x0001] Image Height = 64
+[BMP Header - 0x0003] Planes = 1
+[BMP Header - 0x0004] Bits Per Pixel = 8
+
+[File - 0x0001] File Name = ba-bm.bmp
+[File - 0x0002] File Size = 9000 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- BMP Header
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

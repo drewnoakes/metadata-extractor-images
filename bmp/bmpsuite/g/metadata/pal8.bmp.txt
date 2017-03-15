@@ -1,6 +1,7 @@
 FILE: pal8.bmp
 TYPE: BMP
 
+[BMP Header - 0xfffffffe] Bitmap type = Standard
 [BMP Header - 0xffffffff] Header Size = 40
 [BMP Header - 0x0002] Image Width = 127
 [BMP Header - 0x0001] Image Height = 64

@@ -1,6 +1,7 @@
 FILE: programming.BMP
 TYPE: BMP
 
+[BMP Header - 0xfffffffe] Bitmap type = Standard
 [BMP Header - 0xffffffff] Header Size = 40
 [BMP Header - 0x0002] Image Width = 76
 [BMP Header - 0x0001] Image Height = 72

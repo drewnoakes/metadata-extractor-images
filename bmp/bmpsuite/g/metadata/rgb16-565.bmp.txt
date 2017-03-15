@@ -1,12 +1,13 @@
 FILE: rgb16-565.bmp
 TYPE: BMP
 
+[BMP Header - 0xfffffffe] Bitmap type = Standard
 [BMP Header - 0xffffffff] Header Size = 40
 [BMP Header - 0x0002] Image Width = 127
 [BMP Header - 0x0001] Image Height = 64
 [BMP Header - 0x0003] Planes = 1
 [BMP Header - 0x0004] Bits Per Pixel = 16
-[BMP Header - 0x0005] Compression = Huffman 1D
+[BMP Header - 0x0005] Compression = Bit Fields
 [BMP Header - 0x0006] X Pixels per Meter = 2835
 [BMP Header - 0x0007] Y Pixels per Meter = 2835
 [BMP Header - 0x0008] Palette Colour Count = 0

@@ -1,9 +1,21 @@
 FILE: rgba32h56.bmp
 TYPE: BMP
 
-[ERROR: BMP Header] Unexpected DIB header size: 56
-
+[BMP Header - 0xfffffffe] Bitmap type = Standard
 [BMP Header - 0xffffffff] Header Size = 56
+[BMP Header - 0x0002] Image Width = 127
+[BMP Header - 0x0001] Image Height = 64
+[BMP Header - 0x0003] Planes = 1
+[BMP Header - 0x0004] Bits Per Pixel = 32
+[BMP Header - 0x0005] Compression = Bit Fields
+[BMP Header - 0x0006] X Pixels per Meter = 2835
+[BMP Header - 0x0007] Y Pixels per Meter = 2835
+[BMP Header - 0x0008] Palette Colour Count = 0
+[BMP Header - 0x0009] Important Colour Count = 0
+[BMP Header - 0x000c] Red Mask = 0xFF000000
+[BMP Header - 0x000d] Green Mask = 0x0000FF00
+[BMP Header - 0x000e] Blue Mask = 0x000000FF
+[BMP Header - 0x000f] Alpha Mask = 0x00FF0000
 
 [File - 0x0001] File Name = rgba32h56.bmp
 [File - 0x0002] File Size = 32582 bytes
