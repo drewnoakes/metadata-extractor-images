@@ -22,10 +22,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 0
 [GIF Image - 0x0003] Width = 76
 [GIF Image - 0x0004] Height = 80
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Restore to Background Color
 [GIF Control - 0x0003] User Input Flag = false
@@ -37,10 +35,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 11
 [GIF Image - 0x0003] Width = 59
 [GIF Image - 0x0004] Height = 65
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Restore to Background Color
 [GIF Control - 0x0003] User Input Flag = false
@@ -52,10 +48,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 19
 [GIF Image - 0x0003] Width = 69
 [GIF Image - 0x0004] Height = 45
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Restore to Background Color
 [GIF Control - 0x0003] User Input Flag = false
@@ -67,10 +61,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 25
 [GIF Image - 0x0003] Width = 69
 [GIF Image - 0x0004] Height = 29
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Restore to Background Color
 [GIF Control - 0x0003] User Input Flag = false
@@ -82,10 +74,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 9
 [GIF Image - 0x0003] Width = 62
 [GIF Image - 0x0004] Height = 57
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Restore to Background Color
 [GIF Control - 0x0003] User Input Flag = false
@@ -97,10 +87,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 2
 [GIF Image - 0x0003] Width = 51
 [GIF Image - 0x0004] Height = 70
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Restore to Background Color
 [GIF Control - 0x0003] User Input Flag = false
@@ -112,10 +100,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 3
 [GIF Image - 0x0003] Width = 53
 [GIF Image - 0x0004] Height = 69
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Restore to Background Color
 [GIF Control - 0x0003] User Input Flag = false
@@ -127,10 +113,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 10
 [GIF Image - 0x0003] Width = 63
 [GIF Image - 0x0004] Height = 57
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Restore to Background Color
 [GIF Control - 0x0003] User Input Flag = false
@@ -142,10 +126,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 25
 [GIF Image - 0x0003] Width = 70
 [GIF Image - 0x0004] Height = 29
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Restore to Background Color
 [GIF Control - 0x0003] User Input Flag = false
@@ -157,10 +139,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 20
 [GIF Image - 0x0003] Width = 68
 [GIF Image - 0x0004] Height = 45
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Restore to Background Color
 [GIF Control - 0x0003] User Input Flag = false
@@ -172,10 +152,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 11
 [GIF Image - 0x0003] Width = 55
 [GIF Image - 0x0004] Height = 66
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Comment - 0x0001] Comment = This GIF animation was constructed and optimized using Ulead WebRazor.
 

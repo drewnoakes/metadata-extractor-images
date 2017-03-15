@@ -22,10 +22,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 0
 [GIF Image - 0x0003] Width = 100
 [GIF Image - 0x0004] Height = 45
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [File - 0x0001] File Name = 55abb3cc464305dd554171c3d44cb61f.gif
 [File - 0x0002] File Size = 2172 bytes

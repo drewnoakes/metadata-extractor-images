@@ -37,10 +37,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 0
 [GIF Image - 0x0003] Width = 120
 [GIF Image - 0x0004] Height = 124
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Don't Dispose
 [GIF Control - 0x0003] User Input Flag = false
@@ -82,8 +80,10 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 0
 [GIF Image - 0x0003] Width = 120
 [GIF Image - 0x0004] Height = 124
-[GIF Image - 0x0005] Has Local Colour Table = false
+[GIF Image - 0x0005] Has Local Colour Table = true
 [GIF Image - 0x0006] Is Interlaced = false
+[GIF Image - 0x0007] Is Local Colour Table Sorted = false
+[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 1
 
 [File - 0x0001] File Name = ce774930ac70449f38a18789c70095b8.gif
 [File - 0x0002] File Size = 42434 bytes
