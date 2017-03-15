@@ -1,0 +1,16 @@
+FILE: QSb.BMP
+TYPE: BMP
+
+[ERROR: BMP Header] Unexpected DIB header size: 64
+
+[BMP Header - 0xffffffff] Header Size = 64
+
+[File - 0x0001] File Name = QSb.BMP
+[File - 0x0002] File Size = 5070 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- BMP Header
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

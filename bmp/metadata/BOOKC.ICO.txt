@@ -1,0 +1,7 @@
+FILE: BOOKC.ICO
+TYPE: UNKNOWN
+
+EXCEPTION: File format is not supported
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

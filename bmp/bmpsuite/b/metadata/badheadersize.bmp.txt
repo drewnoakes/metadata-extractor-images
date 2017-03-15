@@ -1,0 +1,16 @@
+FILE: badheadersize.bmp
+TYPE: BMP
+
+[ERROR: BMP Header] Unexpected DIB header size: 66
+
+[BMP Header - 0xffffffff] Header Size = 66
+
+[File - 0x0001] File Name = badheadersize.bmp
+[File - 0x0002] File Size = 1112 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- BMP Header
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

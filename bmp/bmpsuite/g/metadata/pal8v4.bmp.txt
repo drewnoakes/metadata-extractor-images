@@ -1,0 +1,16 @@
+FILE: pal8v4.bmp
+TYPE: BMP
+
+[ERROR: BMP Header] Unexpected DIB header size: 108
+
+[BMP Header - 0xffffffff] Header Size = 108
+
+[File - 0x0001] File Name = pal8v4.bmp
+[File - 0x0002] File Size = 9322 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- BMP Header
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

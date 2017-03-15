@@ -1,0 +1,16 @@
+FILE: rgb24jpeg.bmp
+TYPE: BMP
+
+[ERROR: BMP Header] Unexpected DIB header size: 124
+
+[BMP Header - 0xffffffff] Header Size = 124
+
+[File - 0x0001] File Name = rgb24jpeg.bmp
+[File - 0x0002] File Size = 2457 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- BMP Header
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,18 @@
+FILE: QC.BMP
+TYPE: BMP
+
+[BMP Header - 0xffffffff] Header Size = 12
+[BMP Header - 0x0002] Image Width = 58
+[BMP Header - 0x0001] Image Height = 79
+[BMP Header - 0x0003] Planes = 1
+[BMP Header - 0x0004] Bits Per Pixel = 4
+
+[File - 0x0001] File Name = QC.BMP
+[File - 0x0002] File Size = 2602 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- BMP Header
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
