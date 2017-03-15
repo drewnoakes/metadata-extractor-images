@@ -12,7 +12,11 @@ TYPE: GIF
 
 [GIF Animation - 0x0001] Iteration Count = Infinite
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 96
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -23,7 +27,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 11
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 8
 [GIF Image - 0x0002] Top = 11
@@ -34,7 +42,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 11
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 3
 [GIF Image - 0x0002] Top = 19
@@ -45,7 +57,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 11
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 4
 [GIF Image - 0x0002] Top = 25
@@ -56,7 +72,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 11
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 9
 [GIF Image - 0x0002] Top = 9
@@ -67,7 +87,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 11
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 17
 [GIF Image - 0x0002] Top = 2
@@ -78,7 +102,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 11
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 14
 [GIF Image - 0x0002] Top = 3
@@ -89,7 +117,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 11
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 8
 [GIF Image - 0x0002] Top = 10
@@ -100,7 +132,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 11
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 2
 [GIF Image - 0x0002] Top = 25
@@ -111,7 +147,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 11
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 2
 [GIF Image - 0x0002] Top = 20
@@ -122,7 +162,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 11
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 9
 [GIF Image - 0x0002] Top = 11

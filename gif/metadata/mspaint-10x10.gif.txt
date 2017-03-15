@@ -10,7 +10,11 @@ TYPE: GIF
 [GIF Header - 0x0007] Has Global Color Table = true
 [GIF Header - 0x0008] Background Color Index = 0
 
+[GIF Control - 0x0002] Disposal Method = Not Specified
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 252
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0

@@ -12,7 +12,11 @@ TYPE: GIF
 [GIF Header - 0x0007] Has Global Color Table = true
 [GIF Header - 0x0008] Background Color Index = 255
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -21,7 +25,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 7
 [GIF Image - 0x0002] Top = 6
@@ -30,7 +38,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 6
@@ -39,7 +51,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 7
@@ -48,7 +64,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 3
 [GIF Image - 0x0002] Top = 9
@@ -57,7 +77,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -66,7 +90,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -75,7 +103,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -84,7 +116,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -93,7 +129,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -102,7 +142,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -111,7 +155,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 5
@@ -120,7 +168,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 5
@@ -129,7 +181,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 5
@@ -138,7 +194,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 5
@@ -147,7 +207,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 6

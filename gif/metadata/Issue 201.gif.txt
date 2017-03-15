@@ -22,7 +22,11 @@ TYPE: GIF
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:subject = 
 [XMPMeta - ] dc:subject[1] = foobarisawesome
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 10
+[GIF Control - 0x0005] Transparent Color Index = 255
 
 [GIF Comment - 0x0001] Comment = this is a comment
 

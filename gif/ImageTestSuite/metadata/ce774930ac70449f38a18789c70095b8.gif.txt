@@ -12,7 +12,11 @@ TYPE: GIF
 
 [GIF Animation - 0x0001] Iteration Count = Infinite
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = false
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -23,7 +27,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 6
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = false
 [GIF Control - 0x0001] Delay = 200
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -34,7 +42,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = false
 [GIF Control - 0x0001] Delay = 50
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -45,7 +57,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = false
 [GIF Control - 0x0001] Delay = 200
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -56,7 +72,11 @@ TYPE: GIF
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
+[GIF Control - 0x0002] Disposal Method = Don't Dispose
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = false
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0

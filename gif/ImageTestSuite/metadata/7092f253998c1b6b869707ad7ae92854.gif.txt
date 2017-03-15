@@ -17,7 +17,11 @@ TYPE: GIF
 Created with Animagic GIF V 1.02b
 by Right to Left Software Inc.
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 50
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -26,7 +30,11 @@ by Right to Left Software Inc.
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 50
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -37,7 +45,11 @@ by Right to Left Software Inc.
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 7
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 50
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -48,7 +60,11 @@ by Right to Left Software Inc.
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
 [GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 7
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 50
+[GIF Control - 0x0005] Transparent Color Index = 0
 
 [File - 0x0001] File Name = 7092f253998c1b6b869707ad7ae92854.gif
 [File - 0x0002] File Size = 16836 bytes

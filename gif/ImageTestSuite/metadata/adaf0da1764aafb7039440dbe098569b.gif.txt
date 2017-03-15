@@ -12,7 +12,11 @@ TYPE: GIF
 
 [GIF Animation - 0x0001] Iteration Count = Infinite
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 10
+[GIF Control - 0x0005] Transparent Color Index = 31
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
@@ -21,7 +25,11 @@ TYPE: GIF
 [GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
 
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 10
+[GIF Control - 0x0005] Transparent Color Index = 31
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0

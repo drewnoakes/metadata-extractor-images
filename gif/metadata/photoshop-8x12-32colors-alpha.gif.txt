@@ -21,7 +21,11 @@ TYPE: GIF
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = xmp.did:E32DD366530311E29F54C1E0270410D5
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:E32DD365530311E29F54C1E0270410D5
 
+[GIF Control - 0x0002] Disposal Method = Not Specified
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
 [GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 8
 
 [GIF Image - 0x0001] Left = 0
 [GIF Image - 0x0002] Top = 0
