@@ -1,7 +1,48 @@
 FILE: 4c5b82ba0a9c12356007bd71e52185b2.png
 TYPE: PNG
 
-EXCEPTION: Index was outside the bounds of the array.
+[PNG-IHDR - 0x0001] Image Width = 212
+[PNG-IHDR - 0x0002] Image Height = 141
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[XMP - 0xffff] XMP Value Count = 15
+
+[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/180
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 56/10
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2003-06-23T11:32:37+00:00
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2003-06-23T11:32:37+00:00
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0/2
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MaxApertureValue = 262144/65536
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MeteringMode = 5
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalLength = 75/1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 1152
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 768
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CustomRendered = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureMode = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneCaptureType = 0
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 7087
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 7087
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[PNG-tEXt - 0x000d] Textual Data = Software: GraphicConverter (PowerPC)
+
+[File - 0x0001] File Name = 4c5b82ba0a9c12356007bd71e52185b2.png
+[File - 0x0002] File Size = 88161 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- XMP
+- PNG-pHYs
+- PNG-tEXt
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
