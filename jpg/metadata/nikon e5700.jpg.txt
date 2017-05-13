@@ -96,6 +96,8 @@ TYPE: JPEG
 [ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
 [ICC Profile - 0x63707274] Copyright = Nikon Inc. & Nikon Corporation 2001
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Nikon E5700.jpg
 [File - 0x0002] File Size = 2046784 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -107,6 +109,7 @@ TYPE: JPEG
     - GPS
     - Exif Thumbnail
 - ICC Profile
+- Huffman
 - File
 
 Generated using metadata-extractor

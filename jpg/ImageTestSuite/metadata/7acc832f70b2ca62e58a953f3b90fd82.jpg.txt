@@ -12,12 +12,15 @@ TYPE: JPEG
 
 [JpegComment - 0x0000] JPEG Comment = Uav�s�@goo�[e.om
 
+[Huffman - 0x0001] Number of Tables = 2 Huffman tables
+
 [File - 0x0001] File Name = 7acc832f70b2ca62e58a953f3b90fd82.jpg
 [File - 0x0002] File Size = 613 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - JPEG
 - JpegComment
+- Huffman
 - File
 
 Generated using metadata-extractor

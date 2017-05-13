@@ -53,6 +53,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Kodak DC210.jpg
 [File - 0x0002] File Size = 79837 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -62,6 +64,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

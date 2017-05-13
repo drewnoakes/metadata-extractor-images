@@ -12,6 +12,8 @@ TYPE: JPEG
 
 [JpegComment - 0x0000] JPEG Comment = taviso@google.com
 
+[Huffman - 0x0001] Number of Tables = 3 Huffman tables
+
 [File - 0x0001] File Name = 3ef05501315073d9d4e1c6b654d99ac0.jpg
 [File - 0x0002] File Size = 613 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -19,6 +21,7 @@ TYPE: JPEG
 - JPEG
 - JpegComment
 - Exif IFD0
+- Huffman
 - File
 
 Generated using metadata-extractor

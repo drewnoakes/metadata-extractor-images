@@ -119,6 +119,8 @@ Breite (GPS) : N/A
 Länge (GPS) : N/A
 Höhe (GPS) : N/A
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Nikon E995 (iptc).jpg
 [File - 0x0002] File Size = 781204 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -132,6 +134,7 @@ Höhe (GPS) : N/A
     - Exif Thumbnail
 - Photoshop
     - IPTC
+- Huffman
 - File
 
 Generated using metadata-extractor

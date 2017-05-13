@@ -56,6 +56,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 797 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 2959 bytes
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Sony Cybershot (8).jpg
 [File - 0x0002] File Size = 63643 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -65,6 +67,7 @@ TYPE: JPEG
     - Exif SubIFD
         - Interoperability
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

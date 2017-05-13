@@ -40,6 +40,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Noritsu Koki QSS.jpg
 [File - 0x0002] File Size = 3568344 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -49,6 +51,7 @@ TYPE: JPEG
     - Exif SubIFD
         - Interoperability
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

@@ -20,6 +20,8 @@ TYPE: JPEG
 [JFIF - 0x000c] Thumbnail Width Pixels = 0
 [JFIF - 0x000d] Thumbnail Height Pixels = 0
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = a17806f32b45d63eea5230e7893e1f15.jpg
 [File - 0x0002] File Size = 3446 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -27,6 +29,7 @@ TYPE: JPEG
 - JPEG
 - JpegComment
 - JFIF
+- Huffman
 - File
 
 Generated using metadata-extractor

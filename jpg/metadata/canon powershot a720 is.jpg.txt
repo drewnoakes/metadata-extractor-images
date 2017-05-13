@@ -173,6 +173,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 5108 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5665 bytes
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Canon PowerShot A720 IS.jpg
 [File - 0x0002] File Size = 921898 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -183,6 +185,7 @@ TYPE: JPEG
         - Canon Makernote
         - Interoperability
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

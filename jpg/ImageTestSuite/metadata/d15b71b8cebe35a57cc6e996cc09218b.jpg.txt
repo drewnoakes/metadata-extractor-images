@@ -12,12 +12,15 @@ TYPE: JPEG
 
 [JpegComment - 0x0000] JPEG Comment = Software: Microsoft Office
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = d15b71b8cebe35a57cc6e996cc09218b.jpg
 [File - 0x0002] File Size = 3255 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - JPEG
 - JpegComment
+- Huffman
 - File
 
 Generated using metadata-extractor

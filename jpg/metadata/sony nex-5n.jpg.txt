@@ -151,6 +151,8 @@ TYPE: JPEG
 [PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000022
 [PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Sony NEX-5N.jpg
 [File - 0x0002] File Size = 8224907 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -162,6 +164,7 @@ TYPE: JPEG
         - Interoperability
     - GPS
     - PrintIM
+- Huffman
 - File
 
 Generated using metadata-extractor

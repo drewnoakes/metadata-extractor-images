@@ -141,6 +141,8 @@ TYPE: JPEG
 [Interoperability - 0x1001] Related Image Width = 2272
 [Interoperability - 0x1002] Related Image Height = 1704
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Canon PowerShot G2 (3).jpg
 [File - 0x0002] File Size = 180439 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -151,6 +153,7 @@ TYPE: JPEG
     - Exif SubIFD
         - Canon Makernote
         - Interoperability
+- Huffman
 - File
 
 Generated using metadata-extractor

@@ -106,6 +106,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x9286] User Comment = 
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Panasonic DMC-LC40.jpg
 [File - 0x0002] File Size = 423694 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -118,6 +120,7 @@ TYPE: JPEG
         - Interoperability
     - PrintIM
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

@@ -12,12 +12,15 @@ TYPE: JPEG
 
 [JFXX - 0x0005] Extension Code = Thumbnail coded using JPEG
 
+[Huffman - 0x0001] Number of Tables = 2 Huffman tables
+
 [File - 0x0001] File Name = 21ad703b38e2c350215bb92a849486f3.jpg
 [File - 0x0002] File Size = 14612 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - JPEG
 - JFXX
+- Huffman
 - File
 
 Generated using metadata-extractor

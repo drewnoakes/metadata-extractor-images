@@ -119,6 +119,8 @@ TYPE: JPEG
 [Adobe JPEG - 0x0002] Flags 1 = 0
 [Adobe JPEG - 0x0003] Color Transform = YCbCr
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Nikon E885.jpg
 [File - 0x0002] File Size = 309072 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -133,6 +135,7 @@ TYPE: JPEG
     - Exif Thumbnail
 - Photoshop
 - Adobe JPEG
+- Huffman
 - File
 
 Generated using metadata-extractor

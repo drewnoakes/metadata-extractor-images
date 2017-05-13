@@ -44,6 +44,8 @@ TYPE: JPEG
 [GPS - 0x000e] GPS Track Ref = True direction
 [GPS - 0x000f] GPS Track = 0 degrees
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = FLIR Vue Pro 640.jpg
 [File - 0x0002] File Size = 701803 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -53,6 +55,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
     - GPS
+- Huffman
 - File
 
 Generated using metadata-extractor

@@ -222,6 +222,8 @@ TYPE: RW2
 [Exif Thumbnail - 0x0202] Thumbnail Length = 7897 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [PanasonicRaw DistortionInfo - 0x0002] Distortion Param 2 = 311/32678
 [PanasonicRaw DistortionInfo - 0x0004] Distortion Param 4 = 473/32678
 [PanasonicRaw DistortionInfo - 0x0005] Distortion Scale = 1
@@ -257,6 +259,7 @@ TYPE: RW2
     - Interoperability
     - PrintIM
     - Exif Thumbnail
+    - Huffman
     - PanasonicRaw DistortionInfo
     - Exif SubIFD
 - File

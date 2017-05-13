@@ -43,6 +43,8 @@ TYPE: JPEG
 [Exif SubIFD - 0xa403] White Balance Mode = Manual white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Canon EOS-1DS (after Noise Ninja).jpg
 [File - 0x0002] File Size = 1411301 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -50,6 +52,7 @@ TYPE: JPEG
 - JPEG
 - Exif IFD0
     - Exif SubIFD
+- Huffman
 - File
 
 Generated using metadata-extractor

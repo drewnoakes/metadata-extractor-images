@@ -12,12 +12,15 @@ TYPE: JPEG
 
 [Ducky - 0x0001] Quality = 80
 
+[Huffman - 0x0001] Number of Tables = 6 Huffman tables
+
 [File - 0x0001] File Name = f6d3f522dcb693d9e731d5a0fb4e1393.jpg
 [File - 0x0002] File Size = 14216 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - JPEG
 - Ducky
+- Huffman
 - File
 
 Generated using metadata-extractor

@@ -50,6 +50,8 @@ TYPE: JPEG
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Pentax Optio S4i.jpg
 [File - 0x0002] File Size = 65536 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -58,6 +60,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
         - Interoperability
+- Huffman
 - File
 
 Generated using metadata-extractor

@@ -34,6 +34,8 @@ TYPE: JPEG
 [XMPMeta - http://ns.google.com/photos/1.0/image/]  = 
 [XMPMeta - http://ns.google.com/photos/1.0/image/] GImage:Data = /9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgHBwcHBwoHCAgICQkJBwcMDAoIDAcICQgBAwQEBgUGCgYGCg0NDAwNDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIBk0kgAMBIgACEQEDEQH/xAAeAAABBAMBAQEAAAAAAAAAAAAEAgMFBgABBwgJCv/EAGIQAAEDAgMEBwQHBAcECAIAFwEAAgMEEQUSIQYxQVEHEyJhcYGRCDKhsRQjQlJywdEVM2KCCSRDU5Lh8BaisvEXNGNzg5PC0hglRFRFhMM1VWR0lKOz0+IZpFZltNTy8yb/xAAcAQACAwEBAQEAAAAAAAAAAAABAgADBAUGBwj/xAA9EQACAgEEAQQBAwMEAgEDAAsAAQIRAwQSITFBBRMiUTIGFGEjM3EVQoGRUqE0 <truncated from 2287032 characters>
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Google Cardboard.jpg
 [File - 0x0002] File Size = 4596985 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -41,6 +43,7 @@ TYPE: JPEG
 - JPEG
 - XMP
 - XMP
+- Huffman
 - File
 
 Generated using metadata-extractor

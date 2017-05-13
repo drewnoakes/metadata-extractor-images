@@ -52,6 +52,8 @@ TYPE: JPEG
 [Reconyx HyperFire Makernote - 0x0054] Battery Voltage = 9.550
 [Reconyx HyperFire Makernote - 0x0056] User Label = HC500 HYPERFIRE
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Issue 211.jpg
 [File - 0x0002] File Size = 358588 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -60,6 +62,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
 - Reconyx HyperFire Makernote
+- Huffman
 - File
 
 Generated using metadata-extractor

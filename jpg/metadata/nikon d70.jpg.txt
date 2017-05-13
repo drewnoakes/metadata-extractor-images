@@ -115,6 +115,8 @@ TYPE: JPEG
 [IPTC - 0x0265] Country/Primary Location Name = England
 [IPTC - 0x0274] Copyright Notice = http://drewnoakes.com
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Nikon D70.jpg
 [File - 0x0002] File Size = 1602061 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -127,6 +129,7 @@ TYPE: JPEG
     - Exif Thumbnail
 - Photoshop
     - IPTC
+- Huffman
 - File
 
 Generated using metadata-extractor

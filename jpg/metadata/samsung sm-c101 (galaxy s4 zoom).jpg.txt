@@ -81,6 +81,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 21672 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 16362 bytes
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Samsung SM-C101 (Galaxy S4 Zoom).jpg
 [File - 0x0002] File Size = 5307261 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -91,6 +93,7 @@ TYPE: JPEG
         - Samsung Makernote
     - GPS
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

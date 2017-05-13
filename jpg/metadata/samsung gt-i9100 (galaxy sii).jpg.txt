@@ -63,6 +63,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 860 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 51601 bytes
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Samsung GT-I9100 (Galaxy SII).jpg
 [File - 0x0002] File Size = 3308686 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -72,6 +74,7 @@ TYPE: JPEG
     - Exif SubIFD
         - Samsung Makernote
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

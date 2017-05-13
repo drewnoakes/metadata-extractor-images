@@ -90,6 +90,8 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0.00 EV
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MeteringMode = Pattern
 
+[Huffman - 0x0001] Number of Tables = 2 Huffman tables
+
 [File - 0x0001] File Name = Issue 116.jpg
 [File - 0x0002] File Size = 130669 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -101,6 +103,7 @@ TYPE: JPEG
         - Canon Makernote
         - Interoperability
 - XMP
+- Huffman
 - File
 
 Generated using metadata-extractor

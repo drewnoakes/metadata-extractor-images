@@ -108,6 +108,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0202] Thumbnail Length = 4381 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Minolta DiMAGE S404.jpg
 [File - 0x0002] File Size = 1897844 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -119,6 +121,7 @@ TYPE: JPEG
             - PrintIM
         - Interoperability
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

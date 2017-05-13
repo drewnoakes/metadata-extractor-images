@@ -10,11 +10,14 @@ TYPE: JPEG
 [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
 [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
 
+[Huffman - 0x0001] Number of Tables = 3 Huffman tables
+
 [File - 0x0001] File Name = 7dbf474f80e466e9e25ee46b84166420.jpg
 [File - 0x0002] File Size = 613 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - JPEG
+- Huffman
 - File
 
 Generated using metadata-extractor

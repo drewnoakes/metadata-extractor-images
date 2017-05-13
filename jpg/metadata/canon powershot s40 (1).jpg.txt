@@ -129,6 +129,8 @@ TYPE: JPEG
 [Canon Makernote - 0x0010] Canon Model ID = 17891328
 [Canon Makernote - 0x000d] Camera Info Array = [21 values]
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Canon PowerShot S40 (1).jpg
 [File - 0x0002] File Size = 1525807 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -138,6 +140,7 @@ TYPE: JPEG
     - Exif SubIFD
         - Canon Makernote
         - Interoperability
+- Huffman
 - File
 
 Generated using metadata-extractor

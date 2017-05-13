@@ -61,6 +61,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 56282 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 8192 bytes
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Kyocera FC-S3.jpg
 [File - 0x0002] File Size = 743064 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -73,6 +75,7 @@ TYPE: JPEG
             - PrintIM
         - Interoperability
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

@@ -152,6 +152,8 @@ TYPE: JPEG
 [IPTC - 0x0237] Date Created = 2014:04:13
 [IPTC - 0x023c] Time Created = 13:42:27
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Nikon Coolpix P340.jpg
 [File - 0x0002] File Size = 4859738 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -165,6 +167,7 @@ TYPE: JPEG
 - XMP
 - Photoshop
     - IPTC
+- Huffman
 - File
 
 Generated using metadata-extractor

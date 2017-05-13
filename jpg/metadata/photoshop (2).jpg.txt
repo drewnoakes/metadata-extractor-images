@@ -34,6 +34,8 @@ TYPE: JPEG
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 6.0) 1
 [Photoshop - 0x0406] JPEG Quality = 12 (Maximum), Progressive format, 5 scans
 
+[Huffman - 0x0001] Number of Tables = 6 Huffman tables
+
 [File - 0x0001] File Name = Photoshop (2).jpg
 [File - 0x0002] File Size = 339023 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -41,6 +43,7 @@ TYPE: JPEG
 - JPEG
 - JFIF
 - Photoshop
+- Huffman
 - File
 
 Generated using metadata-extractor

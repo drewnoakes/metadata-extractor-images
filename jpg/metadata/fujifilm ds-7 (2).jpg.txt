@@ -48,6 +48,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 [Exif Thumbnail - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = FujiFilm DS-7 (2).jpg
 [File - 0x0002] File Size = 64130 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -56,6 +58,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

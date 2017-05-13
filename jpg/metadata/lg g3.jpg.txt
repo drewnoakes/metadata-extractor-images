@@ -83,6 +83,8 @@ TYPE: JPEG
 [IPTC - 0x0237] Date Created = 2014:11:14
 [IPTC - 0x023c] Time Created = 14:10:41
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = LG G3.jpg
 [File - 0x0002] File Size = 5618721 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -95,6 +97,7 @@ TYPE: JPEG
 - XMP
 - Photoshop
     - IPTC
+- Huffman
 - File
 
 Generated using metadata-extractor

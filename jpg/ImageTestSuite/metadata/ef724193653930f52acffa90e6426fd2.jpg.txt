@@ -41,6 +41,8 @@ TYPE: JPEG
 [Adobe JPEG - 0x0002] Flags 1 = 0
 [Adobe JPEG - 0x0003] Color Transform = YCbCr
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = ef724193653930f52acffa90e6426fd2.jpg
 [File - 0x0002] File Size = 5562 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -49,6 +51,7 @@ TYPE: JPEG
 - JFIF
 - Photoshop
 - Adobe JPEG
+- Huffman
 - File
 
 Generated using metadata-extractor

@@ -107,6 +107,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 58364 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3390 bytes
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Nikon Coolpix S3600.JPG
 [File - 0x0002] File Size = 4210716 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -117,6 +119,7 @@ TYPE: JPEG
         - Nikon Makernote
         - Interoperability
     - Exif Thumbnail
+- Huffman
 - File
 
 Generated using metadata-extractor

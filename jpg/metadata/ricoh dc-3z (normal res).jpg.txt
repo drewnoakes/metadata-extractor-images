@@ -38,6 +38,8 @@ TYPE: JPEG
 [Exif SubIFD - 0x927c] Makernote = [64 values]
 [Exif SubIFD - 0x9286] User Comment = 
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File - 0x0001] File Name = Ricoh DC-3Z (normal res).jpg
 [File - 0x0002] File Size = 81920 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -45,6 +47,7 @@ TYPE: JPEG
 - JPEG
 - Exif IFD0
     - Exif SubIFD
+- Huffman
 - File
 
 Generated using metadata-extractor
