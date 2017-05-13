@@ -6,7 +6,7 @@ TYPE: TIFF
 [ERROR: Exif IFD0] Invalid TIFF tag format code 147 for tag 0x0112
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
-[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+[ERROR: XMP] Error processing XMP data: XML parsing failure
 [ERROR: Exif SubIFD] Illegally sized IFD
 
 [Exif IFD0 - 0x0100] Image Width = 1949 pixels

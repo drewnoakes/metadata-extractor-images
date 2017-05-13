@@ -5,7 +5,7 @@ TYPE: TIFF
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
-[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+[ERROR: XMP] Error processing XMP data: XML parsing failure
 [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
 [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
 

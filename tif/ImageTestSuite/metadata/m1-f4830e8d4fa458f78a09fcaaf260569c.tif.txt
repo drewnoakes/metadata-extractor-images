@@ -2,7 +2,7 @@ FILE: m1-f4830e8d4fa458f78a09fcaaf260569c.tif
 TYPE: ARW
 
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
-[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+[ERROR: XMP] Error processing XMP data: XML parsing failure
 [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image

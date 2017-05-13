@@ -2,7 +2,7 @@ FILE: m7-76c43508fc007bcf5902b6a28e8055a5.tif
 TYPE: TIFF
 
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
-[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+[ERROR: XMP] Error processing XMP data: XML parsing failure
 [ERROR: IPTC] Data for tag extends beyond end of IPTC segment
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image

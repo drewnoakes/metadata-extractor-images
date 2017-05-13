@@ -2,7 +2,7 @@ FILE: m1-108af7a96a2efa82a0cee0f200e6b9a2.tif
 TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 69 for tag 0x0132
-[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+[ERROR: XMP] Error processing XMP data: XML parsing failure
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 800 pixels

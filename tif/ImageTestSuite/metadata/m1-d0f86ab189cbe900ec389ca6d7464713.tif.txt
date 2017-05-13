@@ -1,7 +1,7 @@
 FILE: m1-d0f86ab189cbe900ec389ca6d7464713.tif
 TYPE: TIFF
 
-[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+[ERROR: XMP] Error processing XMP data: XML parsing failure
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 2717 pixels

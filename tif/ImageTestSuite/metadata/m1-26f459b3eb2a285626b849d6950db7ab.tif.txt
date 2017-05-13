@@ -3,7 +3,7 @@ TYPE: ARW
 
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
-[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+[ERROR: XMP] Error processing XMP data: XML parsing failure
 
 [Exif IFD0 - 0x0100] Image Width = 1250 pixels
 [Exif IFD0 - 0x0101] Image Height = 1995 pixels

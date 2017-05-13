@@ -5,7 +5,7 @@ TYPE: TIFF
 [ERROR: Exif IFD0] Invalid TIFF tag format code 62979 for tag 0x0106
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif IFD0] Invalid TIFF tag format code 56067 for tag 0x013D
-[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+[ERROR: XMP] Error processing XMP data: XML parsing failure
 [ERROR: IPTC] Data for tag extends beyond end of IPTC segment
 [ERROR: Exif SubIFD] Illegally sized IFD
 
