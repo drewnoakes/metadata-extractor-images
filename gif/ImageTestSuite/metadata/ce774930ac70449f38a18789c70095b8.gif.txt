@@ -1,6 +1,8 @@
 FILE: ce774930ac70449f38a18789c70095b8.gif
 TYPE: GIF
 
+[ERROR: Error] Unknown gif block marker found.
+
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 120
 [GIF Header - 0x0003] Image Height = 124
@@ -101,6 +103,7 @@ TYPE: GIF
 - GIF Image
 - GIF Control
 - GIF Image
+- Error
 - File
 
 Generated using metadata-extractor

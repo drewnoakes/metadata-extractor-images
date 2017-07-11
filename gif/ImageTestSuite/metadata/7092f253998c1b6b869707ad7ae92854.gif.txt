@@ -1,6 +1,8 @@
 FILE: 7092f253998c1b6b869707ad7ae92854.gif
 TYPE: GIF
 
+[ERROR: Error] Unknown gif block marker found.
+
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 192
 [GIF Header - 0x0003] Image Height = 168
@@ -80,6 +82,7 @@ by Right to Left Software Inc.
 - GIF Control
 - GIF Image
 - GIF Control
+- Error
 - File
 
 Generated using metadata-extractor
