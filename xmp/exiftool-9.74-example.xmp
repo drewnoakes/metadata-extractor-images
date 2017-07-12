@@ -1,0 +1,43 @@
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 9.74'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpCore='http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/'>
+  <Iptc4xmpCore:DateCreated>2006-05-23</Iptc4xmpCore:DateCreated>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Luftaufnahmen</rdf:li>
+    <rdf:li>Muenchen</rdf:li>
+    <rdf:li>OesterreichBayern</rdf:li>
+    <rdf:li>Orte</rdf:li>
+    <rdf:li>Panoramaquelle</rdf:li>
+    <rdf:li>Thema</rdf:li>
+    <rdf:li>Urlaub</rdf:li>
+    <rdf:li>hec</rdf:li>
+    <rdf:li>qrl</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:exif='http://ns.adobe.com/exif/1.0/'>
+  <exif:GPSLatitude>48,9.003180N</exif:GPSLatitude>
+  <exif:GPSLongitude>11,34.569360E</exif:GPSLongitude>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:City>München</photoshop:City>
+  <photoshop:State>Bayern</photoshop:State>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xap='http://ns.adobe.com/xap/1.0/'>
+  <xap:CreateDate>2006-05-23T14:04:42</xap:CreateDate>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
