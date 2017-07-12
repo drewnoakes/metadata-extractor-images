@@ -1,0 +1,30 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.1.1">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:xap="http://ns.adobe.com/xap/1.0/">
+      <xap:CreateDate>2006-05-24T15:06:26</xap:CreateDate>
+    </rdf:Description>
+    <rdf:Description rdf:about=""
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>Deutschland</rdf:li>
+          <rdf:li>GarmischPartenkirchen</rdf:li>
+          <rdf:li>OesterreichBayern</rdf:li>
+          <rdf:li>Orte</rdf:li>
+          <rdf:li>Urlaub</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about=""
+        xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/">
+      <Iptc4xmpCore:DateCreated>2006-05-24</Iptc4xmpCore:DateCreated>
+    </rdf:Description>
+    <rdf:Description rdf:about=""
+        xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
+      <photoshop:City>GarmischPatenkirchen</photoshop:City>
+      <photoshop:State>Bayern</photoshop:State>
+      <photoshop:Country>Deutschland</photoshop:Country>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
