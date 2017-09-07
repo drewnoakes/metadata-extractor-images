@@ -1,5 +1,5 @@
 FILE: HTC Desire.webp
-TYPE: RIFF
+TYPE: WEBP
 
 [WebP - 0x0002] Image Width = 776
 [WebP - 0x0001] Image Height = 909
@@ -68,8 +68,10 @@ TYPE: RIFF
 [GPS - 0x0012] GPS Map Datum = WGS-84
 [GPS - 0x001d] GPS Date Stamp = 2011:05:06
 
-[File Type - 0x0001] Detected File Type Name = RIFF
-[File Type - 0x0002] Detected File Type Long Name = Resource Interchange File Format
+[File Type - 0x0001] Detected File Type Name = WebP
+[File Type - 0x0002] Detected File Type Long Name = WebP
+[File Type - 0x0003] Detected MIME Type = image/webp
+[File Type - 0x0004] Expected File Name Extension = webp
 
 [File - 0x0001] File Name = HTC Desire.webp
 [File - 0x0002] File Size = 46362 bytes

@@ -1,5 +1,5 @@
 FILE: Nikon D1X.webp
-TYPE: RIFF
+TYPE: WEBP
 
 [ERROR: GPS] Invalid TIFF tag format code 0 for tag 0x0000
 
@@ -94,8 +94,10 @@ TYPE: RIFF
 
 [GPS - 0x0000] GPS Version ID = 2.200
 
-[File Type - 0x0001] Detected File Type Name = RIFF
-[File Type - 0x0002] Detected File Type Long Name = Resource Interchange File Format
+[File Type - 0x0001] Detected File Type Name = WebP
+[File Type - 0x0002] Detected File Type Long Name = WebP
+[File Type - 0x0003] Detected MIME Type = image/webp
+[File Type - 0x0004] Expected File Name Extension = webp
 
 [File - 0x0001] File Name = Nikon D1X.webp
 [File - 0x0002] File Size = 19944 bytes
