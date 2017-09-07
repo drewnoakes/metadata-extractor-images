@@ -1,5 +1,5 @@
 FILE: Nikon D90.nef
-TYPE: TIFF
+TYPE: NEF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0100] Image Width = 160 pixels
