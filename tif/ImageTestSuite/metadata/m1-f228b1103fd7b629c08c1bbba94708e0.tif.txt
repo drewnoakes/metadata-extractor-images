@@ -25,12 +25,17 @@ TYPE: ARW
 
 [Exif SubIFD - 0xa001] Color Space = Undefined
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = m1-f228b1103fd7b629c08c1bbba94708e0.tif
 [File - 0x0002] File Size = 965322 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

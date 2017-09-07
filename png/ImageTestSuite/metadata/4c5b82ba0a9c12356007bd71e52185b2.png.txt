@@ -34,6 +34,11 @@ TYPE: PNG
 
 [PNG-tEXt - 0x000d] Textual Data = Software: GraphicConverter (PowerPC)
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = 4c5b82ba0a9c12356007bd71e52185b2.png
 [File - 0x0002] File Size = 88161 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -42,6 +47,7 @@ TYPE: PNG
 - XMP
 - PNG-pHYs
 - PNG-tEXt
+- File Type
 - File
 
 Generated using metadata-extractor

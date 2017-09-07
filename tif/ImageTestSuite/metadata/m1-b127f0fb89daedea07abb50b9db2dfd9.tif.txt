@@ -19,11 +19,17 @@ TYPE: TIFF
 [Exif IFD0 - 0x0131] Software = @(#)ImageMagick 4.2.3 99/05/01 cristy@mystic.es.dupont.com
 [Exif IFD0 - 0x0140] Unknown tag (0x0140) = 64764 5140 64764 5140 64764 5140
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = m1-b127f0fb89daedea07abb50b9db2dfd9.tif
 [File - 0x0002] File Size = 40922 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+- File Type
 - File
 
 Generated using metadata-extractor

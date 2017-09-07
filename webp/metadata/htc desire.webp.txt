@@ -68,6 +68,9 @@ TYPE: RIFF
 [GPS - 0x0012] GPS Map Datum = WGS-84
 [GPS - 0x001d] GPS Date Stamp = 2011:05:06
 
+[File Type - 0x0001] Detected File Type Name = RIFF
+[File Type - 0x0002] Detected File Type Long Name = Resource Interchange File Format
+
 [File - 0x0001] File Name = HTC Desire.webp
 [File - 0x0002] File Size = 46362 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -78,6 +81,7 @@ TYPE: RIFF
 - Exif IFD0
     - Exif SubIFD
     - GPS
+- File Type
 - File
 
 Generated using metadata-extractor

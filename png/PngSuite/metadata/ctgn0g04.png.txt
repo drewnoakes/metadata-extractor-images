@@ -23,6 +23,11 @@ TYPE: PNG
 
 [PNG-iTXt - 0x000d] Textual Data = Disclaimer: ÎÏÏÎµÎ¬Î½ Î»Î¿Î³Î¹ÏÎ¼Î¹ÎºÏ.
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = ctgn0g04.png
 [File - 0x0002] File Size = 1182 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -35,6 +40,7 @@ TYPE: PNG
 - PNG-iTXt
 - PNG-iTXt
 - PNG-iTXt
+- File Type
 - File
 
 Generated using metadata-extractor

@@ -11,6 +11,9 @@ TYPE: RIFF
 
 [Exif IFD0 - 0x0131] Software = Picasa
 
+[File Type - 0x0001] Detected File Type Name = RIFF
+[File Type - 0x0002] Detected File Type Long Name = Resource Interchange File Format
+
 [File - 0x0001] File Name = webpvp8x.webp
 [File - 0x0002] File Size = 1634530 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -18,6 +21,7 @@ TYPE: RIFF
 - WebP
 - WebP
 - Exif IFD0
+- File Type
 - File
 
 Generated using metadata-extractor

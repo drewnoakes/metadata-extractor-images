@@ -23,11 +23,17 @@ TYPE: BMP
 [BMP Header - 0x0014] Rendering Intent = Picture, Perceptual
 [BMP Header - 0x0015] Linked Profile File Name = C:\temp\test•ë.icc
 
+[File Type - 0x0001] Detected File Type Name = BMP
+[File Type - 0x0002] Detected File Type Long Name = Device Independent Bitmap
+[File Type - 0x0003] Detected MIME Type = image/bmp
+[File Type - 0x0004] Expected File Name Extension = bmp
+
 [File - 0x0001] File Name = rgb24lprof.bmp
 [File - 0x0002] File Size = 24743 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - BMP Header
+- File Type
 - File
 
 Generated using metadata-extractor

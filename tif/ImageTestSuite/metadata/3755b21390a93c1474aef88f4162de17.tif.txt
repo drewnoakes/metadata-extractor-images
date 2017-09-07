@@ -31,6 +31,11 @@ TYPE: TIFF
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:7e120775-a026-11d7-97eb-d04c234bf82b
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:7e120778-a026-11d7-97eb-d04c234bf82b
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = 3755b21390a93c1474aef88f4162de17.tif
 [File - 0x0002] File Size = 266816 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -38,6 +43,7 @@ TYPE: TIFF
 - Exif IFD0
     - XMP
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

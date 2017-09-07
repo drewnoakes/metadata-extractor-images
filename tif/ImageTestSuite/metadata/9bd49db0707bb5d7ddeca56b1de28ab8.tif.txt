@@ -153,6 +153,10 @@ TYPE: TIFF
 [Interoperability - 0x0001] Interoperability Index = Unknown (R03)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
+[File Type - 0x0001] Detected File Type Name = NEF
+[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
+[File Type - 0x0004] Expected File Name Extension = nef
+
 [File - 0x0001] File Name = 9bd49db0707bb5d7ddeca56b1de28ab8.tif
 [File - 0x0002] File Size = 10822660 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -162,6 +166,7 @@ TYPE: TIFF
     - IPTC
     - Exif SubIFD
         - Interoperability
+- File Type
 - File
 
 Generated using metadata-extractor

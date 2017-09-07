@@ -101,6 +101,10 @@ TYPE: ARW
 [Exif Image - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:2
 [Exif Image - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = 362323f81c0160afd677241cd5ce92e9.tif
 [File - 0x0002] File Size = 1390339 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -109,6 +113,7 @@ TYPE: ARW
     - Exif Image
         - Exif Image
             - Exif Image
+- File Type
 - File
 
 Generated using metadata-extractor

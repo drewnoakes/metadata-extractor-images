@@ -48,6 +48,11 @@ TYPE: PNG
 
 [PNG-zTXt - 0x000d] Textual Data = Thumb::URI: file:////mnt/upload3/wikipedia/commons/7/7a/Steel_wire_rope.png
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = c-m1-c5a372c145ce25ce712959cd3b6df35e.png
 [File - 0x0002] File Size = 80268 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -68,6 +73,7 @@ TYPE: PNG
 - PNG-zTXt
 - PNG-zTXt
 - PNG-zTXt
+- File Type
 - File
 
 Generated using metadata-extractor

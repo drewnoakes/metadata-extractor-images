@@ -784,6 +784,11 @@ xmp
 
 [PNG-tEXt - 0x000d] Textual Data = xapMM:InstanceID: uuid:AB1D728D8CCADD1188CEB39223CC5CB9
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = 0839d93f8e77e21acd0ac40a80b14b7b.png
 [File - 0x0002] File Size = 527417 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -818,6 +823,7 @@ xmp
 - PNG-tEXt
 - PNG-tEXt
 - PNG-tEXt
+- File Type
 - File
 
 Generated using metadata-extractor

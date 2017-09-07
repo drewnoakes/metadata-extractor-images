@@ -1652,6 +1652,11 @@ f984fc83fb822f8182818180807d776f655a4f45393029221f1d1f21283039444f586268
 
 [PNG-tEXt - 0x000d] Textual Data = Timestamp: 2006:09:18 19:18:42
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = m1-e0f25ec3373dfdca79ba7bcc3ad366f3.png
 [File - 0x0002] File Size = 205359 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -1665,6 +1670,7 @@ f984fc83fb822f8182818180807d776f655a4f45393029221f1d1f21283039444f586268
 - PNG-zTXt
 - PNG-tEXt
 - PNG-tEXt
+- File Type
 - File
 
 Generated using metadata-extractor

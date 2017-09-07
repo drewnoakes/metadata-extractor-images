@@ -33,6 +33,10 @@ TYPE: PNG
 [PNG-zTXt - 0x000d] Textual Data = Thumb::Size: 10.9355kb
 
 [PNG-zTXt - 0x000d] Textual Data = Tumb::URI: fil/r/////pl_tpload3/wikipedia/commons/0/09/European_Parliament_6th_term_new.png
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
 
 [File - 0x0001] File Name = m3-71915ab0b1cc7350091ef7073a312d16.png
 [File - 0x0002] File Size = 3541 bytes
@@ -47,6 +51,7 @@ TYPE: PNG
 - PNG-zTXt
 - PNG-zTXt
 - PNG-zTXt
+- File Type
 - File
 
 Generated using metadata-extractor

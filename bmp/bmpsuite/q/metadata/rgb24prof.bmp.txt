@@ -49,12 +49,18 @@ TYPE: BMP
 [ICC Profile - 0x63707274] Copyright = Copyright International Color Consortium, 2009
 [ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
 
+[File Type - 0x0001] Detected File Type Name = BMP
+[File Type - 0x0002] Detected File Type Long Name = Device Independent Bitmap
+[File Type - 0x0003] Detected MIME Type = image/bmp
+[File Type - 0x0004] Expected File Name Extension = bmp
+
 [File - 0x0001] File Name = rgb24prof.bmp
 [File - 0x0002] File Size = 27782 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - BMP Header
     - ICC Profile
+- File Type
 - File
 
 Generated using metadata-extractor

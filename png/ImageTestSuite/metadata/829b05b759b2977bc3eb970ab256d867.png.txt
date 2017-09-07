@@ -35,6 +35,11 @@ TYPE: PNG
 
 [PNG-iCCP - 0x000c] ICC Profile Name = NTSC
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = 829b05b759b2977bc3eb970ab256d867.png
 [File - 0x0002] File Size = 418 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -42,6 +47,7 @@ TYPE: PNG
 - PNG-IHDR
 - PNG-iCCP
     - ICC Profile
+- File Type
 - File
 
 Generated using metadata-extractor

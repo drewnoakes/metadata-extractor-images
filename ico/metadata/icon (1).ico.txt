@@ -208,6 +208,11 @@ TYPE: ICO
 [ICO - 0x0009] Image Size Bytes = 1128
 [ICO - 0x000a] Image Offset Bytes = 249407
 
+[File Type - 0x0001] Detected File Type Name = ICO
+[File Type - 0x0002] Detected File Type Long Name = Windows Icon
+[File Type - 0x0003] Detected MIME Type = image/x-icon
+[File Type - 0x0004] Expected File Name Extension = ico
+
 [File - 0x0001] File Name = Icon (1).ico
 [File - 0x0002] File Size = 250535 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -235,6 +240,7 @@ TYPE: ICO
 - ICO
 - ICO
 - ICO
+- File Type
 - File
 
 Generated using metadata-extractor

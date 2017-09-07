@@ -313,6 +313,10 @@ TYPE: RW2
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 427
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
+[File Type - 0x0001] Detected File Type Name = RW2
+[File Type - 0x0002] Detected File Type Long Name = Panasonic Camera Raw
+[File Type - 0x0004] Expected File Name Extension = rw2
+
 [File - 0x0001] File Name = Leica V-LUX (Typ 114).rwl
 [File - 0x0002] File Size = 23667712 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -329,6 +333,7 @@ TYPE: RW2
     - Huffman
     - PanasonicRaw DistortionInfo
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

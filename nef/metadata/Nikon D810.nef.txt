@@ -169,6 +169,10 @@ TYPE: ARW
 
 [GPS - 0x0000] GPS Version ID = 2.300
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = Nikon D810.nef
 [File - 0x0002] File Size = 40667772 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -181,6 +185,7 @@ TYPE: ARW
     - Exif SubIFD
         - Nikon Makernote
     - GPS
+- File Type
 - File
 
 Generated using metadata-extractor

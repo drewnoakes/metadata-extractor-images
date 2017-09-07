@@ -44,6 +44,11 @@ TYPE: PNG
 
 [PNG-zTXt - 0x000d] Textual Data = Thumb::URI: file:////nfs/nfs1/c/images/07/09/19/7e7c770b-8d09-cf8b-8009-ea34bd2e9a44.png
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = e585afb2ecf50c04eaf0dedb71602cb8.png
 [File - 0x0002] File Size = 53189 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -62,6 +67,7 @@ TYPE: PNG
 - PNG-zTXt
 - PNG-zTXt
 - PNG-zTXt
+- File Type
 - File
 
 Generated using metadata-extractor

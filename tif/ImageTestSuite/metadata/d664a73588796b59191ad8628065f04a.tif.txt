@@ -20,11 +20,17 @@ TYPE: TIFF
 [Exif IFD0 - 0x0131] Software = Oi/GFS, writer v00.06.00P, (c) Wang Labs, Inc. 1990, 1991
 [Exif IFD0 - 0x80a6] Unknown tag (0x80a6) = 1196310871 1 3 73960 1024 8 856
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = d664a73588796b59191ad8628065f04a.tif
 [File - 0x0002] File Size = 73960 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+- File Type
 - File
 
 Generated using metadata-extractor

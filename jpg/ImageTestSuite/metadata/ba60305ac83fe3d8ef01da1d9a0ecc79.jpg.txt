@@ -12,12 +12,18 @@ TYPE: JPEG
 
 [Huffman - 0x0001] Number of Tables = 6 Huffman tables
 
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
 [File - 0x0001] File Name = ba60305ac83fe3d8ef01da1d9a0ecc79.jpg
 [File - 0x0002] File Size = 4852 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - JPEG
 - Huffman
+- File Type
 - File
 
 Generated using metadata-extractor

@@ -173,6 +173,9 @@ TYPE: RIFF
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2010-11-17T14:52:46Z
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2010-10-21T11:22:48+01:00
 
+[File Type - 0x0001] Detected File Type Name = RIFF
+[File Type - 0x0002] Detected File Type Long Name = Resource Interchange File Format
+
 [File - 0x0001] File Name = Nikon Coolpix P7000.webp
 [File - 0x0002] File Size = 474772 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -185,6 +188,7 @@ TYPE: RIFF
         - Interoperability
     - Exif Thumbnail
 - XMP
+- File Type
 - File
 
 Generated using metadata-extractor

@@ -29,6 +29,11 @@ Since POV-Ray does not direclty support interlaced output,
 this file has been converted to an interlaced image via a
 post-processing step.
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = 611b294df9cf794eeaa1ffcc620bf6a4.png
 [File - 0x0002] File Size = 8645 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -41,6 +46,7 @@ post-processing step.
 - PNG-tIME
 - PNG-tEXt
 - PNG-zTXt
+- File Type
 - File
 
 Generated using metadata-extractor

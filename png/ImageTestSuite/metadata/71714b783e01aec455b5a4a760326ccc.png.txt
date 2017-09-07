@@ -37,6 +37,11 @@ TYPE: PNG
 
 [PNG-iCCP - 0x000c] ICC Profile Name = Gamma 1.0 profile
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = 71714b783e01aec455b5a4a760326ccc.png
 [File - 0x0002] File Size = 519 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -45,6 +50,7 @@ TYPE: PNG
 - PNG-PLTE
 - PNG-iCCP
     - ICC Profile
+- File Type
 - File
 
 Generated using metadata-extractor

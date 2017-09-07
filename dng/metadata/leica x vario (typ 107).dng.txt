@@ -114,6 +114,10 @@ TYPE: ARW
 [Leica Makernote - 0x0500] Unknown tag (0x0500) = 48 48 48 48 48 48 48 48 48 48 48 48
 [Leica Makernote - 0x05ff] Unknown tag (0x05ff) = [4540 values]
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = Leica X VARIO (Typ 107).dng
 [File - 0x0002] File Size = 24466014 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -122,6 +126,7 @@ TYPE: ARW
     - Exif SubIFD
     - Exif SubIFD
         - Leica Makernote
+- File Type
 - File
 
 Generated using metadata-extractor

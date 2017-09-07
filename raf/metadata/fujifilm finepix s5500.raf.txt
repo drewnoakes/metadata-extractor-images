@@ -97,6 +97,10 @@ TYPE: RAF
 
 [Huffman - 0x0001] Number of Tables = 4 Huffman tables
 
+[File Type - 0x0001] Detected File Type Name = RAF
+[File Type - 0x0002] Detected File Type Long Name = FujiFilm Camera Raw
+[File Type - 0x0004] Expected File Name Extension = raf
+
 [File - 0x0001] File Name = FujiFilm FinePix S5500.raf
 [File - 0x0002] File Size = 8500960 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -109,6 +113,7 @@ TYPE: RAF
     - PrintIM
     - Exif Thumbnail
 - Huffman
+- File Type
 - File
 
 Generated using metadata-extractor

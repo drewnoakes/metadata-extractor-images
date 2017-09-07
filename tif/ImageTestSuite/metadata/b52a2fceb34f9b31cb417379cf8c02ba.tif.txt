@@ -89,6 +89,11 @@ TYPE: TIFF
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = b52a2fceb34f9b31cb417379cf8c02ba.tif
 [File - 0x0002] File Size = 6684 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -96,6 +101,7 @@ TYPE: TIFF
 - Exif IFD0
     - XMP
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

@@ -231,6 +231,10 @@ TYPE: ARW
 [Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:37
 [Exif Image - 0x013b] Artist = IRIS 2001          
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = fa0aa927763ee4c7ebf43a5d05dfebc7.tif
 [File - 0x0002] File Size = 1551584 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -247,6 +251,7 @@ TYPE: ARW
                                     - Exif Image
                                         - Exif Image
                                             - Exif Image
+- File Type
 - File
 
 Generated using metadata-extractor

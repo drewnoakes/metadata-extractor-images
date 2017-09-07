@@ -16,11 +16,17 @@ TYPE: TIFF
 [Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = 034ed0549f9046b9c370ac26550a60da.tif
 [File - 0x0002] File Size = 67677 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+- File Type
 - File
 
 Generated using metadata-extractor

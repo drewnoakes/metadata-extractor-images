@@ -25,12 +25,17 @@ TYPE: TIFF
 [Exif IFD0 - 0x7cbc] Unknown tag (0x7cbc) = [15008 values]
 [Exif IFD0 - 0x8773] Inter Color Profile = [557168 values]
 
+[File Type - 0x0001] Detected File Type Name = NEF
+[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
+[File Type - 0x0004] Expected File Name Extension = nef
+
 [File - 0x0001] File Name = m3-d0f86ab189cbe900ec389ca6d7464713.tif
 [File - 0x0002] File Size = 742188 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

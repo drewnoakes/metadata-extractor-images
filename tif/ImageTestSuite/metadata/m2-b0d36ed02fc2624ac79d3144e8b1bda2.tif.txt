@@ -22,11 +22,17 @@ TYPE: TIFF
 [Exif IFD0 - 0x013b] Artist = maya
 [Exif IFD0 - 0x013c] Host Computer = thor
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = m2-b0d36ed02fc2624ac79d3144e8b1bda2.tif
 [File - 0x0002] File Size = 486219 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+- File Type
 - File
 
 Generated using metadata-extractor

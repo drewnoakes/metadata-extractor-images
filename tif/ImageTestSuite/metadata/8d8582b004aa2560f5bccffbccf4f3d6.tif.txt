@@ -34,6 +34,11 @@ TYPE: TIFF
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2006:09:12 21:04:57
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/59 sec
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = 8d8582b004aa2560f5bccffbccf4f3d6.tif
 [File - 0x0002] File Size = 1042226 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -41,6 +46,7 @@ TYPE: TIFF
 - Exif IFD0
     - IPTC
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

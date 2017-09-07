@@ -110,6 +110,11 @@ TYPE: JPEG
 
 [Huffman - 0x0001] Number of Tables = 4 Huffman tables
 
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
 [File - 0x0001] File Name = Minolta DiMAGE S404.jpg
 [File - 0x0002] File Size = 1897844 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -122,6 +127,7 @@ TYPE: JPEG
         - Interoperability
     - Exif Thumbnail
 - Huffman
+- File Type
 - File
 
 Generated using metadata-extractor

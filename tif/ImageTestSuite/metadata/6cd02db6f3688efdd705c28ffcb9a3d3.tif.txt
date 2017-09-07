@@ -22,12 +22,17 @@ TYPE: TIFF
 [Exif IFD0 - 0x0129] Page Number = 1 1
 [Exif IFD0 - 0x0131] Software = Imagenation VME
 
+[File Type - 0x0001] Detected File Type Name = NEF
+[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
+[File Type - 0x0004] Expected File Name Extension = nef
+
 [File - 0x0001] File Name = 6cd02db6f3688efdd705c28ffcb9a3d3.tif
 [File - 0x0002] File Size = 1968862 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
     - Exif Image
+- File Type
 - File
 
 Generated using metadata-extractor

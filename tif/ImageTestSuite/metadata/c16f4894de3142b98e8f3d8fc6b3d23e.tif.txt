@@ -24,12 +24,18 @@ TYPE: TIFF
 [Exif SubIFD - 0xa002] Exif Image Width = 50 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 50 pixels
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = c16f4894de3142b98e8f3d8fc6b3d23e.tif
 [File - 0x0002] File Size = 30962 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

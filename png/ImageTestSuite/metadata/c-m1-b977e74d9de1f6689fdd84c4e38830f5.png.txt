@@ -720,6 +720,11 @@ xmp
 
 [PNG-zTXt - 0x000d] Textual Data = Timestamp: 2007:04:04 14:47:26
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = c-m1-b977e74d9de1f6689fdd84c4e38830f5.png
 [File - 0x0002] File Size = 499681 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -733,6 +738,7 @@ xmp
 - PNG-zTXt
 - PNG-zTXt
 - PNG-zTXt
+- File Type
 - File
 
 Generated using metadata-extractor

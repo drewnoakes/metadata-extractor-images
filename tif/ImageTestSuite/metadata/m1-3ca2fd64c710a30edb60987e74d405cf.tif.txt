@@ -17,11 +17,17 @@ TYPE: TIFF
 [Exif IFD0 - 0x011b] Y Resolution = 300 dots per unit
 [Exif IFD0 - 0x011c] Planar Configuration = Unknown (94)
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = m1-3ca2fd64c710a30edb60987e74d405cf.tif
 [File - 0x0002] File Size = 54729 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+- File Type
 - File
 
 Generated using metadata-extractor

@@ -56,6 +56,11 @@ TYPE: PNG
 
 [PNG-tRNS - 0x0009] Palette Has Transparency = Yes
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = m1-9eb5b67f01da30f0e16062004c343e4a.png
 [File - 0x0002] File Size = 17366 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -66,6 +71,7 @@ TYPE: PNG
 - PNG-gAMA
 - PNG Chromaticities
 - PNG-tRNS
+- File Type
 - File
 
 Generated using metadata-extractor

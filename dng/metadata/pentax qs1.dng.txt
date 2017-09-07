@@ -160,6 +160,10 @@ TYPE: ARW
 [Exif SubIFD - 0xa433] Lens Make = PENTAX             
 [Exif SubIFD - 0xa434] Lens Model = 02 STANDARD ZOOM
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = Pentax QS1.dng
 [File - 0x0002] File Size = 22643744 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -169,6 +173,7 @@ TYPE: ARW
     - Exif SubIFD
     - XMP
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

@@ -9,12 +9,16 @@ TYPE: RIFF
 [WebP - 0x0002] Image Width = 400
 [WebP - 0x0001] Image Height = 301
 
+[File Type - 0x0001] Detected File Type Name = RIFF
+[File Type - 0x0002] Detected File Type Long Name = Resource Interchange File Format
+
 [File - 0x0001] File Name = Alpha Lossy (1).webp
 [File - 0x0002] File Size = 23404 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - WebP
 - WebP
+- File Type
 - File
 
 Generated using metadata-extractor

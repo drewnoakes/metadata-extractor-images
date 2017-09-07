@@ -9,11 +9,17 @@ TYPE: PNG
 [PNG-IHDR - 0x0006] Filter Method = Adaptive
 [PNG-IHDR - 0x0007] Interlace Method = No Interlace
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = f03n0g08.png
 [File - 0x0002] File Size = 389 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - PNG-IHDR
+- File Type
 - File
 
 Generated using metadata-extractor

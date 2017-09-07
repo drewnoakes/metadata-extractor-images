@@ -22,6 +22,11 @@ TYPE: PNG
 [PNG Chromaticities - 0x0007] Blue X = 15000
 [PNG Chromaticities - 0x0008] Blue Y = 6000
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = m1-bfce28c0e44bc8d1824d48fbec5075e2.png
 [File - 0x0002] File Size = 553 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -30,6 +35,7 @@ TYPE: PNG
 - PNG-sRGB
 - PNG-gAMA
 - PNG Chromaticities
+- File Type
 - File
 
 Generated using metadata-extractor

@@ -13,11 +13,17 @@ TYPE: PCX
 [PCX - 0x000a] Color Planes = Unknown (1)
 [PCX - 0x000b] Bytes Per Line = 320
 
+[File Type - 0x0001] Detected File Type Name = PCX
+[File Type - 0x0002] Detected File Type Long Name = PiCture eXchange
+[File Type - 0x0003] Detected MIME Type = image/x-pcx
+[File Type - 0x0004] Expected File Name Extension = pcx
+
 [File - 0x0001] File Name = PREY0005.PCX
 [File - 0x0002] File Size = 41369 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - PCX
+- File Type
 - File
 
 Generated using metadata-extractor

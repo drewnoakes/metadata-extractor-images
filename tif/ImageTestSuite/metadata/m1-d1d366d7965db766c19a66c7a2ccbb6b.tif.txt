@@ -29,11 +29,17 @@ TYPE: TIFF
 [Exif IFD0 - 0x8773] Inter Color Profile = [3176 values]
 [Exif IFD0 - 0x0000] Unknown tag (0x0000) = [34168 values]
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = m1-d1d366d7965db766c19a66c7a2ccbb6b.tif
 [File - 0x0002] File Size = 182690 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+- File Type
 - File
 
 Generated using metadata-extractor

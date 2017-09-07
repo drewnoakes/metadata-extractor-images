@@ -130,6 +130,11 @@ TYPE: TIFF
 [Exif Thumbnail - 0x01ca] Unknown tag (0x01ca) = 204
 [Exif Thumbnail - 0x171b] Unknown tag (0x171b) = 98
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = m7-299787ea764c0a88bc481364eded5556.tif
 [File - 0x0002] File Size = 310000 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -139,6 +144,7 @@ TYPE: TIFF
         - Exif Image
             - Exif Image
                 - Exif Thumbnail
+- File Type
 - File
 
 Generated using metadata-extractor

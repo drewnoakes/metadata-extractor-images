@@ -99,6 +99,10 @@ TYPE: TIFF
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
+[File Type - 0x0001] Detected File Type Name = NEF
+[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
+[File Type - 0x0004] Expected File Name Extension = nef
+
 [File - 0x0001] File Name = 401d27e0565674c24a017588b8cd61d2.tif
 [File - 0x0002] File Size = 2454468 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -107,6 +111,7 @@ TYPE: TIFF
     - XMP
     - IPTC
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

@@ -15,6 +15,11 @@ TYPE: PNG
 
 [PNG-PLTE - 0x0008] Palette Size = 4
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = s09n3p02.png
 [File - 0x0002] File Size = 143 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -23,6 +28,7 @@ TYPE: PNG
 - PNG-gAMA
 - PNG-sBIT
 - PNG-PLTE
+- File Type
 - File
 
 Generated using metadata-extractor

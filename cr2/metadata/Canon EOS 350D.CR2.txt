@@ -179,6 +179,10 @@ TYPE: CR2
 [Exif Thumbnail - 0xc5e0] Unknown tag (0xc5e0) = 1
 [Exif Thumbnail - 0xc640] Unknown tag (0xc640) = 1 1758 1758
 
+[File Type - 0x0001] Detected File Type Name = CR2
+[File Type - 0x0002] Detected File Type Long Name = Canon Camera Raw
+[File Type - 0x0004] Expected File Name Extension = cr2
+
 [File - 0x0001] File Name = Canon EOS 350D.CR2
 [File - 0x0002] File Size = 7797386 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -188,6 +192,7 @@ TYPE: CR2
         - Canon Makernote
         - Interoperability
     - Exif Thumbnail
+- File Type
 - File
 
 Generated using metadata-extractor

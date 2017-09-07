@@ -264,6 +264,10 @@ TYPE: RW2
 [Exif SubIFD - 0x920a] Focal Length = 14 mm
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
+[File Type - 0x0001] Detected File Type Name = RW2
+[File Type - 0x0002] Detected File Type Long Name = Panasonic Camera Raw
+[File Type - 0x0004] Expected File Name Extension = rw2
+
 [File - 0x0001] File Name = Panasonic DMC-GF3.rw2
 [File - 0x0002] File Size = 13180928 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -280,6 +284,7 @@ TYPE: RW2
     - Huffman
     - PanasonicRaw DistortionInfo
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

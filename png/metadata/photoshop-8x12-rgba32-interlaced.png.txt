@@ -22,6 +22,11 @@ TYPE: PNG
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = xmp.did:A6887AB1539911E2AE8C8C26BE1FF85C
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:A6887AB0539911E2AE8C8C26BE1FF85C
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = photoshop-8x12-rgba32-interlaced.png
 [File - 0x0002] File Size = 1100 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -29,6 +34,7 @@ TYPE: PNG
 - PNG-IHDR
 - PNG-tEXt
 - XMP
+- File Type
 - File
 
 Generated using metadata-extractor

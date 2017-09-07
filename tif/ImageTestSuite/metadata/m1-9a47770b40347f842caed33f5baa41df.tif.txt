@@ -25,11 +25,17 @@ TYPE: TIFF
 [Exif IFD0 - 0x87af] Unknown tag (0x87af) = [20 values]
 [Exif IFD0 - 0x87b1] Unknown tag (0x87b1) = UTM Zone 14 N with NAD27|
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = m1-9a47770b40347f842caed33f5baa41df.tif
 [File - 0x0002] File Size = 3815666 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+- File Type
 - File
 
 Generated using metadata-extractor

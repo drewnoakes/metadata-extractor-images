@@ -46,12 +46,18 @@ TYPE: BMP
 [ICC Profile - 0x6758595a] Green Colorant = (0.436, 0.2225, 0.0139)
 [ICC Profile - 0x6258595a] Blue Colorant = (0.1431, 0.0606, 0.7139)
 
+[File Type - 0x0001] Detected File Type Name = BMP
+[File Type - 0x0002] Detected File Type Long Name = Device Independent Bitmap
+[File Type - 0x0003] Detected MIME Type = image/bmp
+[File Type - 0x0004] Expected File Name Extension = bmp
+
 [File - 0x0001] File Name = rgb24prof2.bmp
 [File - 0x0002] File Size = 25254 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - BMP Header
     - ICC Profile
+- File Type
 - File
 
 Generated using metadata-extractor

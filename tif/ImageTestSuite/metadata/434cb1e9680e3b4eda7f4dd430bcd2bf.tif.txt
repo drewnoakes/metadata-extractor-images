@@ -48,6 +48,10 @@ TYPE: ARW
 [Exif SubIFD - 0xa003] Exif Image Height = 1027 pixels
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = 434cb1e9680e3b4eda7f4dd430bcd2bf.tif
 [File - 0x0002] File Size = 364272 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -55,6 +59,7 @@ TYPE: ARW
 - Exif IFD0
     - XMP
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

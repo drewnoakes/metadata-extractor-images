@@ -46,12 +46,17 @@ TYPE: ARW
 [Exif Image - 0x0146] Unknown tag (0x0146) = 0
 [Exif Image - 0x0148] Unknown tag (0x0148) = 0
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = m2-b1ab6f4b81e9b8020a90c8f2c9bcfedb.tif
 [File - 0x0002] File Size = 125613 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
     - Exif Image
+- File Type
 - File
 
 Generated using metadata-extractor

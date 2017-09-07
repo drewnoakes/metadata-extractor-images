@@ -104,12 +104,18 @@ TYPE: TIFF
 [PrintIM - 0x0310] Unknown tag (0x0310) = 0x00000081
 [PrintIM - 0x0400] Unknown tag (0x0400) = 0x00000000
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = ce50e53224a3b62bb821bc294bf6a588.tif
 [File - 0x0002] File Size = 379396 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
     - PrintIM
+- File Type
 - File
 
 Generated using metadata-extractor

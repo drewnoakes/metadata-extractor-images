@@ -244,6 +244,11 @@ TYPE: TIFF
 [Exif Image - 0x0128] Resolution Unit = Inch
 [Exif Image - 0x0129] Page Number = 10 11
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = f8179f8f5e566349cf3583a1ff3ea95c.tif
 [File - 0x0002] File Size = 735412 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -259,6 +264,7 @@ TYPE: TIFF
                                 - Exif Image
                                     - Exif Image
                                         - Exif Image
+- File Type
 - File
 
 Generated using metadata-extractor

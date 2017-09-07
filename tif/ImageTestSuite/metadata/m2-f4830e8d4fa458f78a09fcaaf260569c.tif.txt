@@ -68,6 +68,10 @@ TYPE: ARW
 [Exif SubIFD - 0xa40a] Sharpness = Hard
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = m2-f4830e8d4fa458f78a09fcaaf260569c.tif
 [File - 0x0002] File Size = 539640 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -76,6 +80,7 @@ TYPE: ARW
     - XMP
     - IPTC
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

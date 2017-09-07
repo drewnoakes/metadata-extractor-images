@@ -15,6 +15,11 @@ TYPE: PNG
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 72
 [PNG-pHYs - 0x0012] Unit Specifier = Unspecified
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = c-m1-58d30745083f25952342caafb6ee5f37.png
 [File - 0x0002] File Size = 17917 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -22,6 +27,7 @@ TYPE: PNG
 - PNG-IHDR
 - PNG-bKGD
 - PNG-pHYs
+- File Type
 - File
 
 Generated using metadata-extractor

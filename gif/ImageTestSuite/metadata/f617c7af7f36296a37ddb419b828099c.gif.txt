@@ -179,6 +179,11 @@ TYPE: GIF
 
 [GIF Comment - 0x0001] Comment = Animation PhotoFiltre Studio
 
+[File Type - 0x0001] Detected File Type Name = GIF
+[File Type - 0x0002] Detected File Type Long Name = Graphics Interchange Format
+[File Type - 0x0003] Detected MIME Type = image/gif
+[File Type - 0x0004] Expected File Name Extension = gif
+
 [File - 0x0001] File Name = f617c7af7f36296a37ddb419b828099c.gif
 [File - 0x0002] File Size = 475368 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -208,6 +213,7 @@ TYPE: GIF
 - GIF Control
 - GIF Image
 - GIF Comment
+- File Type
 - File
 
 Generated using metadata-extractor

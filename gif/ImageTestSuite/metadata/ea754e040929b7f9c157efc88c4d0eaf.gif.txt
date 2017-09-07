@@ -159,6 +159,11 @@ TYPE: GIF
 
 GIF animation licensed from The Brauer Group, Taipei, Taiwan.
 
+[File Type - 0x0001] Detected File Type Name = GIF
+[File Type - 0x0002] Detected File Type Long Name = Graphics Interchange Format
+[File Type - 0x0003] Detected MIME Type = image/gif
+[File Type - 0x0004] Expected File Name Extension = gif
+
 [File - 0x0001] File Name = ea754e040929b7f9c157efc88c4d0eaf.gif
 [File - 0x0002] File Size = 22586 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -188,6 +193,7 @@ GIF animation licensed from The Brauer Group, Taipei, Taiwan.
 - GIF Control
 - GIF Image
 - GIF Comment
+- File Type
 - File
 
 Generated using metadata-extractor

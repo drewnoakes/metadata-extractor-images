@@ -27,12 +27,18 @@ TYPE: TIFF
 [Exif IFD0 - 0x9c47] Unknown tag (0x9c47) = Fax
 [Exif IFD0 - 0x9c48] Unknown tag (0x9c48) = 1062219804/29942401 16646167/65540 131072/16777216 65540/113246208 16842752/65540 74514432/16960768 65539/65536 16973824/65539
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = m2-f55287249b20fd368b4683f8336153d3.tif
 [File - 0x0002] File Size = 71190 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
     - Exif Image
+- File Type
 - File
 
 Generated using metadata-extractor

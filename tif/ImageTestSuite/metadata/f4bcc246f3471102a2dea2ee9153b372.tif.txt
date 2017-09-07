@@ -41,12 +41,17 @@ TYPE: ARW
 [Exif Thumbnail - 0x0132] Date/Time = 06:01:1998
 [Exif Thumbnail - 0x013b] Artist = Copyright Snowbound Software 1998
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = f4bcc246f3471102a2dea2ee9153b372.tif
 [File - 0x0002] File Size = 214023 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
     - Exif Thumbnail
+- File Type
 - File
 
 Generated using metadata-extractor

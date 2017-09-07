@@ -16,11 +16,17 @@ TYPE: PCX
 [PCX - 0x000d] H Scr Size = 200
 [PCX - 0x000e] V Scr Size = 1
 
+[File Type - 0x0001] Detected File Type Name = PCX
+[File Type - 0x0002] Detected File Type Long Name = PiCture eXchange
+[File Type - 0x0003] Detected MIME Type = image/x-pcx
+[File Type - 0x0004] Expected File Name Extension = pcx
+
 [File - 0x0001] File Name = CGA_FSD.PCX
 [File - 0x0002] File Size = 13615 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - PCX
+- File Type
 - File
 
 Generated using metadata-extractor

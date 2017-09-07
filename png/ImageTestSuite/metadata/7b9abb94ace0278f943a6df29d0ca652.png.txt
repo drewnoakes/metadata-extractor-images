@@ -13,6 +13,11 @@ TYPE: PNG
 
 [PNG-gAMA - 0x000b] Image Gamma = 1
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = 7b9abb94ace0278f943a6df29d0ca652.png
 [File - 0x0002] File Size = 1286 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -20,6 +25,7 @@ TYPE: PNG
 - PNG-IHDR
 - PNG-PLTE
 - PNG-gAMA
+- File Type
 - File
 
 Generated using metadata-extractor

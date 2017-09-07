@@ -24,11 +24,17 @@ TYPE: TIFF
 [Exif IFD0 - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:0
 [Exif IFD0 - 0x0214] Reference Black/White = [16,128,128] [235,240,240]
 
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
 [File - 0x0001] File Name = m1-76d5d8fd02d58b774f2bae6f7b763e3e.tif
 [File - 0x0002] File Size = 8258 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+- File Type
 - File
 
 Generated using metadata-extractor

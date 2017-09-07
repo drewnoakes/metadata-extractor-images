@@ -131,6 +131,10 @@ TYPE: ARW
 [Exif SubIFD - 0x0201] Unknown tag (0x0201) = 837800
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 8208
 
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
 [File - 0x0001] File Name = Samsung NX3000.srw
 [File - 0x0002] File Size = 27515215 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -142,6 +146,7 @@ TYPE: ARW
     - Exif SubIFD
     - Exif Thumbnail
         - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

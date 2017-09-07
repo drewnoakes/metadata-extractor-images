@@ -6,11 +6,15 @@ TYPE: RIFF
 [WebP - 0x0003] Has Alpha = true
 [WebP - 0x0004] Is Animation = true
 
+[File Type - 0x0001] Detected File Type Name = RIFF
+[File Type - 0x0002] Detected File Type Long Name = Resource Interchange File Format
+
 [File - 0x0001] File Name = Animation Lossless.webp
 [File - 0x0002] File Size = 261372 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - WebP
+- File Type
 - File
 
 Generated using metadata-extractor

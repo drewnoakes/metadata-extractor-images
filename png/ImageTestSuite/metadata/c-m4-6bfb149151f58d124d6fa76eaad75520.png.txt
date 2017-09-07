@@ -17,6 +17,11 @@ TYPE: PNG
 
 [PNG-tEXt - 0x000d] Textual Data = create-date: 200Ô-04-07T19:06:16-07:00
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = c-m4-6bfb149151f58d124d6fa76eaad75520.png
 [File - 0x0002] File Size = 272 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -25,6 +30,7 @@ TYPE: PNG
 - PNG-PLTE
 - PNG-pHYs
 - PNG-tEXt
+- File Type
 - File
 
 Generated using metadata-extractor

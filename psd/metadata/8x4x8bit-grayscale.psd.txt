@@ -91,6 +91,10 @@ TYPE: PSD
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 302 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 0 bytes
+[File Type - 0x0001] Detected File Type Name = PSD
+[File Type - 0x0002] Detected File Type Long Name = Photoshop Document
+[File Type - 0x0003] Detected MIME Type = image/vnd.adobe.photoshop
+[File Type - 0x0004] Expected File Name Extension = psd
 
 [File - 0x0001] File Name = 8x4x8bit-Grayscale.psd
 [File - 0x0002] File Size = 18682 bytes
@@ -103,6 +107,7 @@ TYPE: PSD
     - Exif IFD0
         - Exif SubIFD
         - Exif Thumbnail
+- File Type
 - File
 
 Generated using metadata-extractor

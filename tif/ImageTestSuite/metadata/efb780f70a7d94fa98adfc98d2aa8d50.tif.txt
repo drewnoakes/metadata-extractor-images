@@ -67,6 +67,10 @@ TYPE: TIFF
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
 
+[File Type - 0x0001] Detected File Type Name = NEF
+[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
+[File Type - 0x0004] Expected File Name Extension = nef
+
 [File - 0x0001] File Name = efb780f70a7d94fa98adfc98d2aa8d50.tif
 [File - 0x0002] File Size = 5123514 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -74,6 +78,7 @@ TYPE: TIFF
 - Exif IFD0
     - Exif SubIFD
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

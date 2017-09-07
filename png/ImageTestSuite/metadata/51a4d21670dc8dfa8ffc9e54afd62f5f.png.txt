@@ -40,6 +40,11 @@ TYPE: PNG
 
 [PNG-tEXt - 0x000d] Textual Data = Comment: File written by Adobe Photoshop? 5.0
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = 51a4d21670dc8dfa8ffc9e54afd62f5f.png
 [File - 0x0002] File Size = 25400 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -51,6 +56,7 @@ TYPE: PNG
 - PNG-pHYs
 - PNG-tIME
 - PNG-tEXt
+- File Type
 - File
 
 Generated using metadata-extractor

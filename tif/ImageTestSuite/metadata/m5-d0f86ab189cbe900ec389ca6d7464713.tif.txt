@@ -28,12 +28,17 @@ TYPE: TIFF
 [Exif SubIFD - 0xa002] Exif Image Width = 4262557 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 385 pixels
 
+[File Type - 0x0001] Detected File Type Name = NEF
+[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
+[File Type - 0x0004] Expected File Name Extension = nef
+
 [File - 0x0001] File Name = m5-d0f86ab189cbe900ec389ca6d7464713.tif
 [File - 0x0002] File Size = 742188 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
     - Exif SubIFD
+- File Type
 - File
 
 Generated using metadata-extractor

@@ -39,6 +39,11 @@ TYPE: PNG
 
 [PNG-zTXt - 0x000d] Textual Data = author: Grigore Moldovan
 
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
 [File - 0x0001] File Name = m1-96b70653ba3f8a83b7cfd48749bed8b1.png
 [File - 0x0002] File Size = 666171 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
@@ -48,6 +53,7 @@ TYPE: PNG
 - PNG-iCCP
     - ICC Profile
 - PNG-zTXt
+- File Type
 - File
 
 Generated using metadata-extractor
