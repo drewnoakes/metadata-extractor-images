@@ -54,7 +54,7 @@ TYPE: ARW
 [Exif IFD0 - 0xc715] Unknown tag (0xc715) = 88/128 2/128 34/128 27/128 87/128 13/128 0/128 -69/128 175/128
 [Exif IFD0 - 0xc741] Unknown tag (0xc741) = [3908 values]
 [Exif IFD0 - 0xc74e] Unknown tag (0xc74e) = 0 0 0 0
-[Exif IFD0 - 0xc761] Unknown tag (0xc761) = 0 -0 0 -0 0 -0
+[Exif IFD0 - 0xc761] Unknown tag (0xc761) = 0 0 0 0 0 0
 
 [File Type - 0x0001] Detected File Type Name = ARW
 [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
