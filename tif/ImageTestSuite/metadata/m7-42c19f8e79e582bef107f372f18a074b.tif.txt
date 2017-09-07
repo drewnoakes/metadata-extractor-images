@@ -29,9 +29,10 @@ TYPE: TIFF
 
 [IPTC - 0x0200] Application Record Version = 0
 
-[File Type - 0x0001] Detected File Type Name = NEF
-[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
-[File Type - 0x0004] Expected File Name Extension = nef
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = m7-42c19f8e79e582bef107f372f18a074b.tif
 [File - 0x0002] File Size = 35272 bytes

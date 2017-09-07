@@ -149,9 +149,10 @@ TYPE: TIFF
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 19272
 [Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
 
-[File Type - 0x0001] Detected File Type Name = NEF
-[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
-[File Type - 0x0004] Expected File Name Extension = nef
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = Samsung EK-GN120 (Galaxy NX).srw
 [File - 0x0002] File Size = 24616164 bytes

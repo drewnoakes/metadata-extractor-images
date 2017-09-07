@@ -56,9 +56,10 @@ TYPE: TIFF
 [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
 
-[File Type - 0x0001] Detected File Type Name = NEF
-[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
-[File Type - 0x0004] Expected File Name Extension = nef
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = ebad222e9402d00e371c92ab5da86e6b.tif
 [File - 0x0002] File Size = 1628444 bytes

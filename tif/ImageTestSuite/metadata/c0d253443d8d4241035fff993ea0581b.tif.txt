@@ -113,9 +113,10 @@ TYPE: TIFF
 [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
-[File Type - 0x0001] Detected File Type Name = NEF
-[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
-[File Type - 0x0004] Expected File Name Extension = nef
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = c0d253443d8d4241035fff993ea0581b.tif
 [File - 0x0002] File Size = 270748 bytes

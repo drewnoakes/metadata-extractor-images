@@ -52,9 +52,10 @@ TYPE: TIFF
 [Exif Thumbnail - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 
-[File Type - 0x0001] Detected File Type Name = NEF
-[File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
-[File Type - 0x0004] Expected File Name Extension = nef
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = m1-3c6b71d657852e13d0b5dfc0906343f5.tif
 [File - 0x0002] File Size = 6922045 bytes
