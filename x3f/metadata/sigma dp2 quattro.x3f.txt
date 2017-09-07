@@ -1,7 +1,7 @@
 FILE: Sigma DP2 Quattro.x3f
 TYPE: UNKNOWN
 
-EXCEPTION: File format is not supported
+EXCEPTION: File format could not be determined
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

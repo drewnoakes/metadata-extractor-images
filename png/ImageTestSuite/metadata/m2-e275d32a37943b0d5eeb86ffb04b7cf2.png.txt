@@ -1,7 +1,7 @@
 FILE: m2-e275d32a37943b0d5eeb86ffb04b7cf2.png
 TYPE: UNKNOWN
 
-EXCEPTION: File format is not supported
+EXCEPTION: File format could not be determined
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
