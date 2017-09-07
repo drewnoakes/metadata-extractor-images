@@ -1,0 +1,77 @@
+FILE: Issue 260.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3648 pixels
+[JPEG - 0x0003] Image Width = 5472 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = none
+[JFIF - 0x0008] X Resolution = 72 dots
+[JFIF - 0x000a] Y Resolution = 72 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+
+[Exif SubIFD - 0xa002] Exif Image Width = 5472 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3648 pixels
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 1/72 (no unit)
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 1/72 (no unit)
+[Exif SubIFD - 0xa210] Focal Plane Resolution Unit = (No unit)
+
+[ICC Profile - 0x0000] Profile Size = 524
+[ICC Profile - 0x0004] CMM Type = lcms
+[ICC Profile - 0x0008] Version = 2.1.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 2012:01:25 03:41:57
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 10
+[ICC Profile - 0x64657363] Profile Description = c2
+[ICC Profile - 0x63707274] Copyright = IX
+[ICC Profile - 0x77747074] Media White Point = (0.9642, 1, 0.8249)
+[ICC Profile - 0x626b7074] Media Black Point = (0.0121, 0.0125, 0.0103)
+[ICC Profile - 0x7258595a] Red Colorant = (0.4361, 0.2225, 0.0139)
+[ICC Profile - 0x6758595a] Green Colorant = (0.3851, 0.7169, 0.0971)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1431, 0.0606, 0.7141)
+[ICC Profile - 0x72545243] Red TRC = 0.0, 0.0030976, 0.0069734, 0.0132296, 0.0217594, 0.0328832, 0.0467231, 0.0634623, 0.0832685, 0.1062638, 0.1325856, 0.162356, 0.1956817, 0.2327001, 0.273518, 0.3182269, 0.3669032, 0.4196841, 0.4766461, 0.5378653, 0.6034638, 0.6734874, 0.7480125, 0.8272068, 0.9109026, 1.0
+[ICC Profile - 0x67545243] Green TRC = 0.0, 0.0030976, 0.0069734, 0.0132296, 0.0217594, 0.0328832, 0.0467231, 0.0634623, 0.0832685, 0.1062638, 0.1325856, 0.162356, 0.1956817, 0.2327001, 0.273518, 0.3182269, 0.3669032, 0.4196841, 0.4766461, 0.5378653, 0.6034638, 0.6734874, 0.7480125, 0.8272068, 0.9109026, 1.0
+[ICC Profile - 0x62545243] Blue TRC = 0.0, 0.0030976, 0.0069734, 0.0132296, 0.0217594, 0.0328832, 0.0467231, 0.0634623, 0.0832685, 0.1062638, 0.1325856, 0.162356, 0.1956817, 0.2327001, 0.273518, 0.3182269, 0.3669032, 0.4196841, 0.4766461, 0.5378653, 0.6034638, 0.6734874, 0.7480125, 0.8272068, 0.9109026, 1.0
+
+[Photoshop - 0x0425] Caption Digest = 212 29 140 217 143 0 178 4 233 128 9 152 236 248 66 126
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Issue 260.jpg
+[File - 0x0002] File Size = 15062139 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+- ICC Profile
+- Photoshop
+    - IPTC
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
