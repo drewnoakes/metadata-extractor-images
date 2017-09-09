@@ -1,0 +1,7 @@
+FILE: mathematica.eps
+TYPE: EPS
+
+EXCEPTION: End of data reached.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
