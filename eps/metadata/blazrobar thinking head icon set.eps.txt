@@ -1,7 +1,46 @@
 FILE: BlazRobar Thinking Head Icon Set.eps
-TYPE: UNKNOWN
+TYPE: EPS
 
-EXCEPTION: File format could not be determined
+[EPS - 0x0020] TIFF Preview Size = 1200717 bytes
+[EPS - 0x0021] TIFF Preview Offset = 590829 bytes
+[EPS - 0x000e] Title = thinking-head-icon-set.eps
+[EPS - 0x0006] Creator = Adobe Illustrator(R) 14.0
+[EPS - 0x0007] For = D.M. Duijverman
+[EPS - 0x0005] Creation Date = 12/09/14
+[EPS - 0x0003] Bounding Box = 0 0 507 1182
+[EPS - 0x0013] Language Level = 2
+[EPS - 0x0010] Document Data = Clean7Bit
+[EPS - 0x000b] Pages = 1
+[EPS - 0x000f] Version = 1.0 0
+[EPS - 0x0004] Copyright = Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved.
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 507 pixels
+[Exif IFD0 - 0x0101] Image Height = 1182 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB Palette
+[Exif IFD0 - 0x0115] Samples Per Pixel = 2 samples/pixel
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0111] Strip Offsets = 11
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1198548 bytes
+[Exif IFD0 - 0x0140] Unknown tag (0x0140) = [768 values]
+[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [450 values]
+
+[File Type - 0x0001] Detected File Type Name = EPS
+[File Type - 0x0002] Detected File Type Long Name = Encapsulated PostScript
+[File Type - 0x0003] Detected MIME Type = application/postscript
+[File Type - 0x0004] Expected File Name Extension = eps
+
+[File - 0x0001] File Name = BlazRobar Thinking Head Icon Set.eps
+[File - 0x0002] File Size = 1791546 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- EPS
+- Exif IFD0
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
