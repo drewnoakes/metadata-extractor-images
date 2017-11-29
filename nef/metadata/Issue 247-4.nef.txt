@@ -1,8 +1,6 @@
 FILE: Issue 247-4.nef
 TYPE: JPEG
 
-[ERROR: IPTC] Too few bytes remain for a valid IPTC tag
-
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 3008 pixels
@@ -177,6 +175,7 @@ TYPE: JPEG
 [IPTC - 0x0274] Copyright Notice = 
 [IPTC - 0x0278] Caption/Abstract = 
 [IPTC - 0x027a] Caption Writer/Editor = 
+[IPTC - 0x0287] Language Identifier = 
 
 [Huffman - 0x0001] Number of Tables = 4 Huffman tables
 
