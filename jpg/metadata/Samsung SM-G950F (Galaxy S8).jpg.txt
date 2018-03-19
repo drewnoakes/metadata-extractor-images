@@ -1,0 +1,74 @@
+FILE: Samsung SM-G950F (Galaxy S8).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3024 pixels
+[JPEG - 0x0003] Image Width = 4032 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = centimetre
+[JFIF - 0x0008] X Resolution = 59 dots
+[JFIF - 0x000a] Y Resolution = 59 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif IFD0 - 0x0100] Image Width = 4032 pixels
+[Exif IFD0 - 0x0101] Image Height = 3024 pixels
+[Exif IFD0 - 0x010f] Make = samsung
+[Exif IFD0 - 0x0110] Model = SM-G950F
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = G950FXXU1AQL5
+[Exif IFD0 - 0x0132] Date/Time = 2018:01:30 09:55:19
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/40 sec
+[Exif SubIFD - 0x829d] F-Number = f/1.7
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2018:01:30 09:55:19
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2018:01:30 09:55:19
+[Exif SubIFD - 0x9205] Max Aperture Value = f/1.7
+[Exif SubIFD - 0x9207] Metering Mode = Center weighted average
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 4.2 mm
+[Exif SubIFD - 0x927c] Makernote = [98 values]
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4032 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3024 pixels
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa405] Focal Length 35 = 26 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Unknown (4)
+[Exif SubIFD - 0xa420] Unique Image ID = F12LLJA00VM F12LLKG01GM
+
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Samsung SM-G950F (Galaxy S8).jpg
+[File - 0x0002] File Size = 22965268 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
