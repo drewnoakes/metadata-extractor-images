@@ -15,7 +15,7 @@ TYPE: PNG
 
 [PNG-tRNS - 0x0009] Palette Has Transparency = Yes
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = Palette Index 0
 
 [File Type - 0x0001] Detected File Type Name = PNG
 [File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics

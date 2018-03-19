@@ -13,7 +13,7 @@ TYPE: PNG
 
 [PNG-PLTE - 0x0008] Palette Size = 16
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = Palette Index 17
 
 [File Type - 0x0001] Detected File Type Name = PNG
 [File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics

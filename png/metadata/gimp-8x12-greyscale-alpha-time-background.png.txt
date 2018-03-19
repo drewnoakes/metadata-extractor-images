@@ -11,7 +11,7 @@ TYPE: PNG
 
 [PNG-gAMA - 0x000b] Image Gamma = 0.455
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = Greyscale Level 52
 
 [PNG-pHYs - 0x0010] Pixels Per Unit X = 2835
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2835

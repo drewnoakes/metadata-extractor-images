@@ -11,7 +11,7 @@ TYPE: PNG
 
 [PNG-gAMA - 0x000b] Image Gamma = 1
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = Greyscale Level 0
 
 [PNG-tRNS - 0x0009] Palette Has Transparency = Yes
 

@@ -9,7 +9,7 @@ TYPE: PNG
 [PNG-IHDR - 0x0006] Filter Method = Adaptive
 [PNG-IHDR - 0x0007] Interlace Method = No Interlace
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = R 65535, G 65535, B 65535
 
 [PNG-pHYs - 0x0010] Pixels Per Unit X = 72
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 72

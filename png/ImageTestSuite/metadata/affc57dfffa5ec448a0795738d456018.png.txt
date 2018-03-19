@@ -30,7 +30,7 @@ TYPE: PNG
 
 [PNG-tRNS - 0x0009] Palette Has Transparency = Yes
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = Palette Index 31
 
 [PNG-zTXt - 0x000d] Textual Data = Title: flyawayextended
 

@@ -11,7 +11,7 @@ TYPE: PNG
 
 [PNG-sRGB - 0x000a] sRGB Rendering Intent = Perceptual
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = R 255, G 255, B 255
 
 [PNG-pHYs - 0x0010] Pixels Per Unit X = 2835
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2835

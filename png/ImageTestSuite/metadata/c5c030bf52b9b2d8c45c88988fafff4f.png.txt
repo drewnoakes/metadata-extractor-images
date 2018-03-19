@@ -11,7 +11,7 @@ TYPE: PNG
 
 [PNG-gAMA - 0x000b] Image Gamma = 1
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = Greyscale Level 43908
 
 [File Type - 0x0001] Detected File Type Name = PNG
 [File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics

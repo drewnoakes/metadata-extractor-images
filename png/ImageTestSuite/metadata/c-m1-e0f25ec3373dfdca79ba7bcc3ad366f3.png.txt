@@ -43,7 +43,7 @@ TYPE: PNG
 
 [PNG-iCCP - 0x000c] ICC Profile Name = icc
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = R 254, G 254, B 254
 
 [PNG-pHYs - 0x0010] Pixels Per Unit X = 2834
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2834

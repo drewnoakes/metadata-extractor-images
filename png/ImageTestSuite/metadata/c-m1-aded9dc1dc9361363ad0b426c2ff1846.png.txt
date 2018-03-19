@@ -54,7 +54,7 @@ TYPE: PNG
 [PNG Chromaticities - 0x0007] Blue X = 15000
 [PNG Chromaticities - 0x0008] Blue Y = 5999
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = R 65535, G 65535, B 65535
 
 [PNG-pHYs - 0x0010] Pixels Per Unit X = 2835
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2835

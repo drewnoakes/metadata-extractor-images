@@ -30,7 +30,7 @@ TYPE: PNG
 
 [PNG-iCCP - 0x000c] ICC Profile Name = ICC profile
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = Greyscale Level 255
 
 [PNG-pHYs - 0x0010] Pixels Per Unit X = 24016
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 24016

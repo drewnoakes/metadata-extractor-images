@@ -13,7 +13,7 @@ TYPE: PNG
 
 [PNG-sBIT - 0x0013] Significant Bits = 5 5 5 5
 
-[PNG-bKGD - 0x000f] Background Color = 
+[PNG-bKGD - 0x000f] Background Color = R 224, G 224, B 128
 
 [PNG-pHYs - 0x0010] Pixels Per Unit X = 2835
 [PNG-pHYs - 0x0011] Pixels Per Unit Y = 2835
