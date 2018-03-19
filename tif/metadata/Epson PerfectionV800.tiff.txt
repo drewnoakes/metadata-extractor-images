@@ -1,0 +1,46 @@
+FILE: Epson PerfectionV800.tiff
+TYPE: TIFF
+
+[Exif IFD0 - 0x0100] Image Width = 425 pixels
+[Exif IFD0 - 0x0101] Image Height = 640 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x010a] Fill Order = Normal
+[Exif IFD0 - 0x010f] Make = Epson
+[Exif IFD0 - 0x0110] Model = PerfectionV800
+[Exif IFD0 - 0x0111] Strip Offsets = 74 130124 260174 390224 520274 650324 780374
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 102 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 130050 130050 130050 130050 130050 130050 35700 bytes
+[Exif IFD0 - 0x011a] X Resolution = 1066 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 1066 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = VueScan 9 x64 (9.6.01)
+[Exif IFD0 - 0x0153] Unknown tag (0x0153) = 1 1 1
+[Exif IFD0 - 0x8773] Inter Color Profile = [3144 values]
+
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 425 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 640 pixels
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = Epson PerfectionV800.tiff
+[File - 0x0002] File Size = 819606 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
