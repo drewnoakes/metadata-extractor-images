@@ -1,0 +1,180 @@
+FILE: DJI Phantom 4 (2).dng
+TYPE: ARW
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif IFD0 - 0x0100] Image Width = 160 pixels
+[Exif IFD0 - 0x0101] Image Height = 120 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = JPEG
+[Exif IFD0 - 0x0106] Photometric Interpretation = YCbCr
+[Exif IFD0 - 0x010f] Make = DJI
+[Exif IFD0 - 0x0110] Model = FC330
+[Exif IFD0 - 0x0111] Strip Offsets = 88970
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0117] Strip Byte Counts = 7866 bytes
+[Exif IFD0 - 0x0131] Software = v01.19.5266
+[Exif IFD0 - 0x0132] Date/Time = 2016:12:08 13:58:43
+[Exif IFD0 - 0x9c9c] Windows XP Comment = 0.91.142
+[Exif IFD0 - 0x9c9e] Windows XP Keywords = N
+[Exif IFD0 - 0xc612] Unknown tag (0xc612) = 1 4 0 0
+[Exif IFD0 - 0xc613] Unknown tag (0xc613) = 1 3 0 0
+[Exif IFD0 - 0xc614] Unknown tag (0xc614) = FC330
+[Exif IFD0 - 0xc621] Unknown tag (0xc621) = 11050/10000 -7405/10000 1696/10000 -1982/10000 7536/10000 5303/10000 -89/10000 909/10000 5633/10000
+[Exif IFD0 - 0xc622] Unknown tag (0xc622) = 7497/10000 -1964/10000 -483/10000 -3827/10000 11576/10000 2677/10000 -1083/10000 2348/10000 6001/10000
+[Exif IFD0 - 0xc627] Unknown tag (0xc627) = 1000000/1000000 1000000/1000000 1000000/1000000
+[Exif IFD0 - 0xc628] Unknown tag (0xc628) = 576009/1000000 1000000/1000000 569917/1000000
+[Exif IFD0 - 0xc62a] Unknown tag (0xc62a) = 0
+[Exif IFD0 - 0xc62b] Unknown tag (0xc62b) = 1
+[Exif IFD0 - 0xc62c] Unknown tag (0xc62c) = 1
+[Exif IFD0 - 0xc62e] Unknown tag (0xc62e) = 1
+[Exif IFD0 - 0xc62f] Unknown tag (0xc62f) = 31ffffffff447fffff4dffffffffff69
+[Exif IFD0 - 0xc630] Unknown tag (0xc630) = 36100/10000 36100/10000 0/0 0/0
+[Exif IFD0 - 0xc633] Unknown tag (0xc633) = 1
+[Exif IFD0 - 0xc634] Unknown tag (0xc634) = [256 values]
+[Exif IFD0 - 0xc65a] Unknown tag (0xc65a) = 17
+[Exif IFD0 - 0xc65b] Unknown tag (0xc65b) = 21
+[Exif IFD0 - 0xc6f9] Unknown tag (0xc6f9) = 6 6 3
+[Exif IFD0 - 0xc6fa] Unknown tag (0xc6fa) = [324 values]
+[Exif IFD0 - 0xc6fb] Unknown tag (0xc6fb) = [324 values]
+[Exif IFD0 - 0xc6fd] Unknown tag (0xc6fd) = 0
+[Exif IFD0 - 0xc791] Unknown tag (0xc791) = 0 0
+[Exif IFD0 - 0xc792] Unknown tag (0xc792) = 0 0
+[Exif IFD0 - 0xc793] Unknown tag (0xc793) = 0/0 0/0
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0100] Image Width = 4000 pixels
+[Exif SubIFD - 0x0101] Image Height = 3000 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 16 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Uncompressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+[Exif SubIFD - 0x0111] Strip Offsets = 360947
+[Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 3000 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 24000000 bytes
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = [Red,Green][Green,Blue]
+[Exif SubIFD - 0xc616] Unknown tag (0xc616) = 0 1 2
+[Exif SubIFD - 0xc617] Unknown tag (0xc617) = 1
+[Exif SubIFD - 0xc619] Unknown tag (0xc619) = 2 2
+[Exif SubIFD - 0xc61a] Unknown tag (0xc61a) = 800/1 800/1 800/1 800/1
+[Exif SubIFD - 0xc61d] Unknown tag (0xc61d) = 16383
+[Exif SubIFD - 0xc61e] Unknown tag (0xc61e) = 1/1 1/1
+[Exif SubIFD - 0xc61f] Unknown tag (0xc61f) = 4/1 4/1
+[Exif SubIFD - 0xc620] Unknown tag (0xc620) = 3992/1 2992/1
+[Exif SubIFD - 0xc62d] Unknown tag (0xc62d) = 0
+[Exif SubIFD - 0xc632] Unknown tag (0xc632) = 1
+[Exif SubIFD - 0xc65c] Unknown tag (0xc65c) = 1
+[Exif SubIFD - 0xc68d] Unknown tag (0xc68d) = 0 0 3000 4000
+[Exif SubIFD - 0xc740] Unknown tag (0xc740) = [74704 values]
+[Exif SubIFD - 0xc74e] Unknown tag (0xc74e) = [256 values]
+[Exif SubIFD - 0xc7b5] Unknown tag (0xc7b5) = 0/1 0/1 1/1 1/1
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif SubIFD - 0x0100] Image Width = 960 pixels
+[Exif SubIFD - 0x0101] Image Height = 720 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = JPEG
+[Exif SubIFD - 0x0106] Photometric Interpretation = YCbCr
+[Exif SubIFD - 0x0111] Strip Offsets = 96836
+[Exif SubIFD - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 720 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 264111 bytes
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
+[Exif SubIFD - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:0
+[Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
+[Exif SubIFD - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
+
+[XMP - 0xffff] XMP Value Count = 22
+
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:AlreadyApplied = False
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:HasCrop = False
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:HasSettings = False
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:Version = 7.0
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
+[XMPMeta - http://www.dji.com/drone-dji/1.0/]  = 
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:AbsoluteAltitude = -35.27
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:CamReverse = 0
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightPitchDegree = -1.10
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightRollDegree = +3.70
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightXSpeed = +0.00
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightYSpeed = +0.00
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightYawDegree = -118.60
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightZSpeed = +0.00
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:GimbalPitchDegree = -4.50
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:GimbalReverse = 0
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:GimbalRollDegree = +0.00
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:GimbalYawDegree = -117.40
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:RelativeAltitude = +18.50
+[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = DJI
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Model = FC330
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2016-12-08
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2016-12-08
+
+[Exif SubIFD - 0x829a] Exposure Time = 1457/1000000 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.8
+[Exif SubIFD - 0x8822] Exposure Program = Unknown (58655)
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0x9003] Date/Time Original = 2016:12:08 13:58:43
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2016:12:08 13:58:43
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/685 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/2.6
+[Exif SubIFD - 0x9204] Exposure Bias Value = 21/32 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9206] Subject Distance = 0.0 metres
+[Exif SubIFD - 0x9207] Metering Mode = Spot
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 3.6 mm
+[Exif SubIFD - 0x927c] Makernote = [256 values]
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+[Exif SubIFD - 0xa405] Focal Length 35 = 20 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = None
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+[Exif SubIFD - 0xa431] Body Serial Number = 31ffffffff447fffff4dffffffffff69
+[Exif SubIFD - 0xa432] Lens Specification = 3.61mm
+[Exif SubIFD - 0xa434] Lens Model = 
+
+[GPS - 0x0000] GPS Version ID = 2.300
+[GPS - 0x0001] GPS Latitude Ref = N
+[GPS - 0x0002] GPS Latitude = 34° 58' 35.35"
+[GPS - 0x0003] GPS Longitude Ref = W
+[GPS - 0x0004] GPS Longitude = -89° 37' 4.85"
+[GPS - 0x0005] GPS Altitude Ref = Below sea level
+[GPS - 0x0006] GPS Altitude = 35 metres
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = DJI Phantom 4 (2).dng
+[File - 0x0002] File Size = 24360947 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+    - Exif SubIFD
+    - XMP
+    - Exif SubIFD
+    - GPS
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

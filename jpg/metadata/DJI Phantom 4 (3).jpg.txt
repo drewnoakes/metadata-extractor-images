@@ -1,0 +1,137 @@
+FILE: DJI Phantom 4 (3).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3000 pixels
+[JPEG - 0x0003] Image Width = 4000 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010e] Image Description = DCIM\101MEDIA\DJI_0284.JPG
+[Exif IFD0 - 0x010f] Make = DJI
+[Exif IFD0 - 0x0110] Model = FC330
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = v01.19.5266
+[Exif IFD0 - 0x0132] Date/Time = 2017:01:26 08:46:36
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0x9c9c] Windows XP Comment = 0.91.142
+[Exif IFD0 - 0x9c9e] Windows XP Keywords = N
+[Exif IFD0 - 0xa431] Body Serial Number = 31ffffffff447fffff4dffffffffff69
+
+[Exif SubIFD - 0x829a] Exposure Time = 1273/500000 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.8
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0x9003] Date/Time Original = 2017:01:26 08:46:34
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2017:01:26 08:46:34
+[Exif SubIFD - 0x9101] Components Configuration = CrCbY
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4710097/1500000 bits/pixel
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/392 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/2.8
+[Exif SubIFD - 0x9204] Exposure Bias Value = -11/32 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9206] Subject Distance = 0.0 metres
+[Exif SubIFD - 0x9207] Metering Mode = Center weighted average
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 3.6 mm
+[Exif SubIFD - 0x927c] Makernote = [256 values]
+[Exif SubIFD - 0xa000] FlashPix Version = 0.10
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4000 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3000 pixels
+[Exif SubIFD - 0xa215] Exposure Index = 0
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Unknown (0)
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+[Exif SubIFD - 0xa405] Focal Length 35 = 20 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = None
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40b] Device Setting Description = 0 0 0 0
+[Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[GPS - 0x0000] GPS Version ID = .000
+[GPS - 0x0001] GPS Latitude Ref = N
+[GPS - 0x0002] GPS Latitude = 32° 28' 42.95"
+[GPS - 0x0003] GPS Longitude Ref = W
+[GPS - 0x0004] GPS Longitude = -90° 15' 36.01"
+[GPS - 0x0005] GPS Altitude Ref = Sea level
+[GPS - 0x0006] GPS Altitude = 109 metres
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 41972 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 8257 bytes
+
+[XMP - 0xffff] XMP Value Count = 22
+
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:AlreadyApplied = False
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:HasCrop = False
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:HasSettings = False
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:Version = 7.0
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
+[XMPMeta - http://www.dji.com/drone-dji/1.0/]  = 
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:AbsoluteAltitude = +109.79
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:CamReverse = 0
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightPitchDegree = -7.40
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightRollDegree = -2.30
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightXSpeed = +0.00
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightYSpeed = +0.00
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightYawDegree = -7.90
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:FlightZSpeed = +0.00
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:GimbalPitchDegree = -29.80
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:GimbalReverse = 0
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:GimbalRollDegree = +0.00
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:GimbalYawDegree = -7.80
+[XMPMeta - http://www.dji.com/drone-dji/1.0/] drone-dji:RelativeAltitude = +121.60
+[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = DJI
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Model = FC330
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2017-01-26
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2017-01-26
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = DJI Phantom 4 (3).jpg
+[File - 0x0002] File Size = 5069792 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Interoperability
+    - GPS
+    - Exif Thumbnail
+- XMP
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
