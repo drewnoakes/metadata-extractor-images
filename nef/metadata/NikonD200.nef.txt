@@ -1,0 +1,160 @@
+FILE: NikonD200.nef
+TYPE: TIFF
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif IFD0 - 0x0100] Image Width = 160 pixels
+[Exif IFD0 - 0x0101] Image Height = 120 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x010f] Make = NIKON CORPORATION
+[Exif IFD0 - 0x0110] Model = NIKON D200
+[Exif IFD0 - 0x0111] Strip Offsets = 109888
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 120 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 57600 bytes
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver.2.01 
+[Exif IFD0 - 0x0132] Date/Time = 2012:05:14 17:44:05
+[Exif IFD0 - 0x0214] Reference Black/White = [0,0,0] [255,255,255]
+[Exif IFD0 - 0x9003] Date/Time Original = 2012:05:14 17:44:05
+[Exif IFD0 - 0x9216] TIFF/EP Standard ID = 1 0 0 0
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif SubIFD - 0x0103] Compression = JPEG (old-style)
+[Exif SubIFD - 0x011a] X Resolution = 300 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 300 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x0201] Unknown tag (0x0201) = 169792
+[Exif SubIFD - 0x0202] Unknown tag (0x0202) = 422624
+[Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0100] Image Width = 3904 pixels
+[Exif SubIFD - 0x0101] Image Height = 2616 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Uncompressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+[Exif SubIFD - 0x0111] Strip Offsets = [238 values]
+[Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 11 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 64416 52704 bytes
+[Exif SubIFD - 0x011a] X Resolution = 300 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 300 dots per inch
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = [Green,Red][Blue,Green]
+[Exif SubIFD - 0x9217] Unknown tag (0x9217) = 2
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/250 sec
+[Exif SubIFD - 0x829d] F-Number = f/5.6
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x9003] Date/Time Original = 2012:05:14 17:44:05
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2012:05:14 17:44:05
+[Exif SubIFD - 0x9204] Exposure Bias Value = -4/3 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/5.7
+[Exif SubIFD - 0x9207] Metering Mode = Spot
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 400 mm
+[Exif SubIFD - 0x9286] User Comment = www.ImageMontage.com
+[Exif SubIFD - 0x9290] Sub-Sec Time = 76
+[Exif SubIFD - 0x9291] Sub-Sec Time Original = 76
+[Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 76
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa302] CFA Pattern = [Green,Red][Blue,Green]
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 600 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = None
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+
+[Nikon Makernote - 0x0001] Firmware Version = 2.10
+[Nikon Makernote - 0x0002] ISO = ISO 200
+[Nikon Makernote - 0x0003] Color Mode = COLOR
+[Nikon Makernote - 0x0004] Quality & File Format = RAW    
+[Nikon Makernote - 0x0005] White Balance = AUTO        
+[Nikon Makernote - 0x0006] Sharpening = AUTO  
+[Nikon Makernote - 0x0007] AF Type = AF-C  
+[Nikon Makernote - 0x0008] Flash Sync Mode = NORMAL      
+[Nikon Makernote - 0x0009] Auto Flash Mode =                    
+[Nikon Makernote - 0x000b] White Balance Fine = 3
+[Nikon Makernote - 0x000c] White Balance RB Coefficients = 397/256 396/256 256/256 256/256
+[Nikon Makernote - 0x000d] Program Shift = 2.33 EV
+[Nikon Makernote - 0x000e] Exposure Difference = 0 EV
+[Nikon Makernote - 0x0011] Preview IFD = 6530
+[Nikon Makernote - 0x0012] Auto Flash Compensation = 0 EV
+[Nikon Makernote - 0x0013] ISO = 0 200
+[Nikon Makernote - 0x0017] Flash Exposure Compensation = 0 EV
+[Nikon Makernote - 0x0018] Flash Bracket Compensation = 0 EV
+[Nikon Makernote - 0x0019] AE Bracket Compensation = 0
+[Nikon Makernote - 0x001b] Crop High Speed = 0 3904 2616 3904 2616 0 0
+[Nikon Makernote - 0x001c] Exposure Tuning = 0 EV
+[Nikon Makernote - 0x001d] Camera Serial Number =        
+[Nikon Makernote - 0x001e] Color Space = sRGB
+[Nikon Makernote - 0x0020] Image Authentication = 0
+[Nikon Makernote - 0x0081] Tone Compensation = AUTO    
+[Nikon Makernote - 0x0083] Lens Type = AF, D, VR
+[Nikon Makernote - 0x0084] Lens = 80-400mm f/4.5-5.6
+[Nikon Makernote - 0x0087] Flash Used = Flash Not Used
+[Nikon Makernote - 0x0088] AF Focus Position = Unknown (0 0 0 1)
+[Nikon Makernote - 0x0089] Shooting Mode = Single Frame
+[Nikon Makernote - 0x008a] Unknown 20 = 2
+[Nikon Makernote - 0x008b] Lens Stops = 5.67 EV
+[Nikon Makernote - 0x008c] Contrast Curve = [4160 values]
+[Nikon Makernote - 0x008d] Colour Mode = Mode I (sRGB)
+[Nikon Makernote - 0x0090] Light source = NATURAL    
+[Nikon Makernote - 0x0091] Shot Info = [784 values]
+[Nikon Makernote - 0x0092] Camera Hue Adjustment = 0 degrees
+[Nikon Makernote - 0x0095] Noise Reduction = OFF 
+[Nikon Makernote - 0x0097] Color Balance = [608 values]
+[Nikon Makernote - 0x0098] Lens Data = [31 values]
+[Nikon Makernote - 0x0099] NEF Thumbnail Size = 1952 1308
+[Nikon Makernote - 0x009a] Sensor Pixel Size = 605/100 605/100
+[Nikon Makernote - 0x00a3] Unknown 27 = 0
+[Nikon Makernote - 0x00a4] Unknown 28 = 48 50 48 48
+[Nikon Makernote - 0x00a5] Image Count = 64494
+[Nikon Makernote - 0x00a6] Deleted Image Count = 2985
+[Nikon Makernote - 0x00a7] Exposure Sequence Number = 67479
+[Nikon Makernote - 0x00a8] Flash Info = [20 values]
+[Nikon Makernote - 0x00a9] Image Optimisation = NORMAL         
+[Nikon Makernote - 0x00aa] Saturation = AUTO           
+[Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x00b1] High ISO Noise Reduction = Off
+
+[GPS - 0x0000] GPS Version ID = 2.200
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = NikonD200.nef
+[File - 0x0002] File Size = 15911712 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+        - Nikon Makernote
+    - GPS
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
