@@ -36,7 +36,7 @@ TYPE: JPEG
 [Exif SubIFD - 0x9205] Max Aperture Value = f/3.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 34.9 mm
 [Exif SubIFD - 0x9290] Sub-Sec Time = 095
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 095

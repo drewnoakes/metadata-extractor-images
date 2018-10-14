@@ -4,6 +4,7 @@ TYPE: ARW
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif IFD0] Invalid TIFF tag format code 17 for tag 0x8302
 [ERROR: Exif IFD0] Invalid TIFF tag format code 11269 for tag 0x011B
+[ERROR: Photoshop] End of data reached.
 
 [Exif IFD0 - 0x0100] Image Width = 2306 pixels
 [Exif IFD0 - 0x0101] Image Height = 3111 pixels
@@ -16,7 +17,6 @@ TYPE: ARW
 [Exif IFD0 - 0x011a] X Resolution = 300 dots per unit
 [Exif IFD0 - 0x01e4] Unknown tag (0x01e4) = 2
 [Exif IFD0 - 0x013d] Predictor = 1
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [4598 values]
 
 [File Type - 0x0001] Detected File Type Name = ARW
 [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
@@ -27,6 +27,7 @@ TYPE: ARW
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+    - Photoshop
 - File Type
 - File
 

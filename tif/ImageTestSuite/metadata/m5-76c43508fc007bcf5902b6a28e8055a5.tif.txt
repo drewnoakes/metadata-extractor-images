@@ -6,6 +6,7 @@ TYPE: TIFF
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: XMP] Error processing XMP data: XML parsing failure
+[ERROR: Photoshop] End of data reached.
 [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
 [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
 
@@ -26,7 +27,6 @@ TYPE: TIFF
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Adobe Photos�op 7.0
 [Exif IFD0 - 0x9f32] Unknown tag (0x9f32) = 2003:11:26 18:04:31
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [5840 values]
 
 [Exif SubIFD - 0xa001] Color Space = Undefined
 
@@ -41,6 +41,7 @@ TYPE: TIFF
 
 - Exif IFD0
     - XMP
+    - Photoshop
     - Exif SubIFD
 - File Type
 - File

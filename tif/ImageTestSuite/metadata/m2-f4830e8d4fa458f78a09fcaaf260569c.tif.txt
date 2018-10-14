@@ -3,6 +3,7 @@ TYPE: ARW
 
 [ERROR: XMP] Error processing XMP data: XML parsing failure
 [ERROR: IPTC] Invalid IPTC tag marker at offset 7. Expected '0x1c' but got '0x27'.
+[ERROR: Photoshop] End of data reached.
 [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
 [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
 [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
@@ -30,9 +31,30 @@ TYPE: ARW
 [Exif IFD0 - 0x0212] YCbCr Sub-Sampling = (Unknown)
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 [Exif IFD0 - 0x8298] Copyright =    �
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [7112 values]
 
 [IPTC - 0x0200] Application Record Version = 2
+
+[Photoshop - 0x0425] Caption Digest = 82 180 122 60 81 93 164 168 211 227 38 82 225 198 51 221
+[Photoshop - 0x042f] Print Info = [74 values]
+[Photoshop - 0x03e9] Mac Print Info = [120 values]
+[Photoshop - 0x03ed] Resolution Info = 72x72 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 1
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0400] Layer State Information = 0 1
+[Photoshop - 0x0402] Layers Group Information = 0 0 0 0
+[Photoshop - 0x0430] Layer Groups Enabled ID = 1 1
+[Photoshop - 0x042d] Layer Selection IDs = 0 1 0 0 0 2
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+
+[IPTC - 0x0200] Application Record Version = 2
+[IPTC - 0x0274] Copyright Notice =     
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
 [Exif SubIFD - 0x829d] F-Number = f/4.8
@@ -45,7 +67,7 @@ TYPE: ARW
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 3.2 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/63 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/4.8
-[Exif SubIFD - 0x9203] Brightness Value = 1
+[Exif SubIFD - 0x9203] Brightness Value = 1.0
 [Exif SubIFD - 0x9207] Metering Mode = 
 [Exif SubIFD - 0x9208] White Balance = Unknown
 [Exif SubIFD - 0x9209] Flash = Flash fired
@@ -79,6 +101,8 @@ TYPE: ARW
 - Exif IFD0
     - XMP
     - IPTC
+    - Photoshop
+        - IPTC
     - Exif SubIFD
 - File Type
 - File

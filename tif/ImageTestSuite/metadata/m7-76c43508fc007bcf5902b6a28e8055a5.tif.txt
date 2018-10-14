@@ -4,6 +4,7 @@ TYPE: TIFF
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: XMP] Error processing XMP data: XML parsing failure
 [ERROR: IPTC] Data for tag extends beyond end of IPTC segment
+[ERROR: ICC Profile] Exception reading ICC profile: Attempt to read from beyond end of underlying data source (requested index: 41908, requested count: 771793414, max index: 557163)
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 1772 pixels
@@ -23,12 +24,51 @@ TYPE: TIFF
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
 [Exif IFD0 - 0x013d] Predictor = 60162
 [Exif IFD0 - 0x0150] Unknown tag (0x0150) = 0 255
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [5840 values]
-[Exif IFD0 - 0x8773] Inter Color Profile = [557164 values]
+
+[Photoshop - 0x0425] Caption Digest = 208 238 122 220 218 202 159 171 251 140 172 0 235 65 249 132
+[Photoshop - 0x03e9] Mac Print Info = [120 values]
+[Photoshop - 0x03ed] Resolution Info = 16172x300 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x4819] Unknown tag (0x4819) = 0 0 0 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 38 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = mac ve_4c (12648448,0,1313,19692) 1 Slices
+[Photoshop - 0x0414] Seed Number = 2
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 128x95, Decomp 36480 bytes, 1572865 bpp, 4252 bytes
+[Photoshop - 0x0421] Version Info = 
+
+[IPTC - 0x0200] Application Record Version = 2
+[IPTC - 0x0278] Caption/Abstract =  
 
 [Exif SubIFD - 0xa001] Color Space = Undefined
 [Exif SubIFD - 0xa002] Exif Image Width = 1772 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1313 pixels
+
+[ICC Profile - 0x0000] Profile Size = 557164
+[ICC Profile - 0x0004] CMM Type = ADBE
+[ICC Profile - 0x0008] Version = 2.1.0
+[ICC Profile - 0x000c] Class = Output Device
+[ICC Profile - 0x0010] Color space = CMYK
+[ICC Profile - 0x0014] Profile Connection Space = Lab 
+[ICC Profile - 0x0018] Profile Date/Time = 2000:07:26 06:19:38
+[ICC Profile - 0x0024] Signature = �csp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = ADBE
+[ICC Profile - 0x0040] Rendering Intent = Media-Relative Colorimetric
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 10
+[ICC Profile - 0x64657363] Profile Description = Euroscale Uncoated v2
+[ICC Profile - 0x63707274] Copyright = Copyright 2000 Adobe Systems��Inc
+
+[ICC Profile - 0x77747074] Media White Point = (0.8259, 0.8468, 0.7724)
+[ICC Profile - 0x41324230] AToB 0 = mft2 (0x6D667432): 41478 bytes
+[ICC Profile - 0x41324232] AToB 2 = mft2 (0x6D667432): 41478 bytes
 
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
@@ -42,7 +82,10 @@ TYPE: TIFF
 - Exif IFD0
     - XMP
     - IPTC
+    - Photoshop
+        - IPTC
     - Exif SubIFD
+    - ICC Profile
 - File Type
 - File
 

@@ -11,7 +11,6 @@ TYPE: PNG
 
 [XMP - 0xffff] XMP Value Count = 15
 
-[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/180
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 56/10
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2003-06-23T11:32:37+00:00

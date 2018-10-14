@@ -149,7 +149,7 @@ TYPE: JPEG
 [GPS - 0x000a] GPS Measure Mode = 2-dimensional measurement
 [GPS - 0x000b] GPS DOP = 2.4
 [GPS - 0x0012] GPS Map Datum = WGS-84   
-[GPS - 0x001b] GPS Processing Method = 71 80 83
+[GPS - 0x001b] GPS Processing Method = GPS
 [GPS - 0x001d] GPS Date Stamp = 2010:06:24
 
 [PrintIM - 0x0000] PrintIM Version = 0250

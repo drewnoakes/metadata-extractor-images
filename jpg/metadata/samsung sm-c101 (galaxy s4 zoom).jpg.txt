@@ -68,7 +68,7 @@ TYPE: JPEG
 [GPS - 0x0005] GPS Altitude Ref = Sea level
 [GPS - 0x0006] GPS Altitude = 83 metres
 [GPS - 0x0007] GPS Time-Stamp = 14:23:02.000 UTC
-[GPS - 0x001b] GPS Processing Method = 65 83 67 73 73 0 0 0
+[GPS - 0x001b] GPS Processing Method = ASCII
 [GPS - 0x001d] GPS Date Stamp = 2013:09:26
 
 [Exif Thumbnail - 0x0100] Image Width = 160 pixels

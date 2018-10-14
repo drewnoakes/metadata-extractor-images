@@ -13,6 +13,7 @@ TYPE: TIFF
 [ERROR: Exif IFD0] Invalid TIFF tag format code 28531 for tag 0x6F74
 [ERROR: Exif IFD0] Invalid TIFF tag format code 25449 for tag 0x4D61
 [ERROR: Exif IFD0] Stopping processing as too many errors seen in TIFF IFD
+[ERROR: Photoshop] End of data reached.
 
 [Exif IFD0 - 0x0103] Compression = LZW
 [Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
@@ -25,7 +26,6 @@ TYPE: TIFF
 [Exif IFD0 - 0x0132] Date/Time = 2008:06:13 10:O3:40
 [Exif IFD0 - 0x013d] Predictor = 2
 [Exif IFD0 - 0x0152] Unknown tag (0x0152) = -2052653056
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [8920 values]
 [Exif IFD0 - 0x46e0] Unknown tag (0x46e0) = 29596
 
 [File Type - 0x0001] Detected File Type Name = TIFF
@@ -38,6 +38,7 @@ TYPE: TIFF
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+    - Photoshop
 - File Type
 - File
 

@@ -34,7 +34,7 @@ TYPE: JPEG
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/5.2
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 46 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
@@ -191,9 +191,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 11188 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 10105 bytes
 
-[XMP - 0xffff] XMP Value Count = 31
+[XMP - 0xffff] XMP Value Count = 28
 
-[XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ApproximateFocusDistance = 4294967295/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Firmware = 1.0.0
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:FlashCompensation = 0/1
@@ -203,27 +202,20 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensInfo = 18/1 55/1 0/0 0/0
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensSerialNumber = 0000000c2e
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:SerialNumber = 012070143361
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2013-06-30T07:36:42.00
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2013-06-30T07:36:42.00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2013-07-03T23:06:59-07:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2013-06-30T07:36:42.00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 5
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = 7D38027261E5CE342B878D1C454C2633
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:739e50ce-e38e-4eb4-b5b1-71a0530b349a
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = 7D38027261E5CE342B878D1C454C2633
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
-[XMPMeta - ] xmpMM:History[1] = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /metadata
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:1E73E590462068118083A66280698FC6
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.1
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2013-07-03T23:06:59-07:00
-[XMPMeta - ] xmpMM:History[2] = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /metadata
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:739e50ce-e38e-4eb4-b5b1-71a0530b349a

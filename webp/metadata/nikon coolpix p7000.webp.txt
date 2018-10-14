@@ -33,7 +33,7 @@ TYPE: WEBP
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 6 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
@@ -108,11 +108,9 @@ TYPE: WEBP
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 8692 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6044 bytes
 
-[XMP - 0xffff] XMP Value Count = 57
+[XMP - 0xffff] XMP Value Count = 54
 
-[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:AlreadyApplied = True
-[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 433985/100000
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Contrast = 0
@@ -141,18 +139,14 @@ TYPE: WEBP
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = 9643856/1000000
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SubjectDistanceRange = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 0
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ISOSpeedRatings = 
 [XMPMeta - ] exif:ISOSpeedRatings[1] = 100
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Fired = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Function = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Mode = 2
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:RedEyeMode = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Return = 0
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = sRGB IEC61966-2.1
-[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 2736
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 3648
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = NIKON
@@ -163,11 +157,9 @@ TYPE: WEBP
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:SamplesPerPixel = 3
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 300/1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 300/1
-[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:BitsPerSample = 
 [XMPMeta - ] tiff:BitsPerSample[1] = 8
 [XMPMeta - ] tiff:BitsPerSample[2] = 8
 [XMPMeta - ] tiff:BitsPerSample[3] = 8
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2010-10-21T11:22:48+01:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = COOLPIX P7000V1.0
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2010-11-17T14:52:46Z

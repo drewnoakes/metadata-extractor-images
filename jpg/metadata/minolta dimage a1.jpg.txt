@@ -29,12 +29,12 @@ TYPE: JPEG
 [Exif SubIFD - 0x9003] Date/Time Original = 2003:09:13 16:10:42
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2003:09:13 16:10:42
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9203] Brightness Value = 5
+[Exif SubIFD - 0x9203] Brightness Value = 5.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0.3 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 12.5 mm
 [Exif SubIFD - 0x9214] Subject Location = 1280 960 2560 1920
 [Exif SubIFD - 0x9286] User Comment = 

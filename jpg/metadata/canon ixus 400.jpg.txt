@@ -32,7 +32,7 @@ TYPE: JPEG
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 10.8 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0x9290] Sub-Sec Time = 949

@@ -62,7 +62,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x9205] Max Aperture Value = f/4.6
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 30 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0x9290] Sub-Sec Time = 10
@@ -137,7 +137,7 @@ TYPE: TIFF
 [Nikon Makernote - 0x00ab] Digital Vari Program = AUTO(FLASH OFF)
 [Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Normal
-[Nikon Makernote - 0x00b6] Power Up Time = 
+[Nikon Makernote - 0x00b6] Power Up Time = 2014:08:12 09:30:43
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 255 255 255 0

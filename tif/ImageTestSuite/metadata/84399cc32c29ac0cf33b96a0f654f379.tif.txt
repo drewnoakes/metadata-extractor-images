@@ -20,13 +20,31 @@ TYPE: ARW
 [Exif IFD0 - 0x015b] JPEG Tables = [558 values]
 [Exif IFD0 - 0x0212] YCbCr Sub-Sampling = (Unknown)
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [15828 values]
 
 [XMP - 0xffff] XMP Value Count = 2
 
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:c2f73406-f6e7-11da-901f-d85e9854135a
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:e08f8924-f6e8-11da-901f-d85e9854135a
+
+[Photoshop - 0x0425] Caption Digest = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Photoshop - 0x03ed] Resolution Info = 300x300 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x040d] Global Angle = 120
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 1
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0400] Layer State Information = 0 5
+[Photoshop - 0x0402] Layers Group Information = [24 values]
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = zoom (0,0,3508,3300) 1 Slices
+[Photoshop - 0x0411] ICC Untagged Profile = 1
+[Photoshop - 0x0414] Seed Number = 14
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 241x256, Decomp 185344 bytes, 1572865 bpp, 14343 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 7.0) 1
 
 [Exif SubIFD - 0xa001] Color Space = Undefined
 [Exif SubIFD - 0xa002] Exif Image Width = 3300 pixels
@@ -42,6 +60,7 @@ TYPE: ARW
 
 - Exif IFD0
     - XMP
+    - Photoshop
     - Exif SubIFD
 - File Type
 - File

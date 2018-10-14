@@ -18,7 +18,261 @@ TYPE: ARW
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
 [Exif IFD0 - 0x0132] Date/Time = 2003:10:17 14:24:00
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [17414 values]
+
+[Photoshop - 0x0425] Caption Digest = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Photoshop - 0x03ea] XML Data = <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.print.PageFormat.PMHorizontalRes</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.printingmanager</string>
+		<key>com.apple.print.ticket.itemArr�y</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMHorizontalRes</key>
+				<real>72</real>
+				<key>com.apple.print.ticket.client</key>
+				<string>com.apple.printingmanager</string>
+				<key>com.apple.print.ticket.modDate</key>
+				<date>2003-10-17T18:23:57Z</date>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0<�integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMOrientation</key>
+	<dict>
+	H<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.printingmanager</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMOrientation</key>
+				<integer>1</integer>
+				<key>com.apple.print.ticket.client</key>
+				<string>com.apple.printingmanager</string>
+				<key>com.apple.print.ticket.modDate</�ey>
+				<date>2003-10-17T18:23:57Z</date>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMScaling</key>
+	<dict�
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.printingmanager</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.prin.PageFormat.PMScaling</key>
+				<real>1</real>
+				<key>com.apple.print.ticket.client</key>
+				<string>com.apple.printingmanager</string>
+				<key>com.apple.print.ticket.modDate</key>
+				<date>2003-10-17T18:23:57Z</date>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMVerticalRes</Hey>
+	<dict>
+		<key>com.apple.print.ticket.c�eator</key>
+		<strin�>com.apple.printingmanager</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			�dict>
+				<key>com.apple.print.PageFormat.PMVerticalRes</key>
+				<real>72</real>
+				<key>com.apple.print.icket.client</key>
+				<string>com.apple.printingmanager</string>
+				<key>com.apple.print.ticket.modDate</key>
+				<date>2003-10-17T18:23:57Z</date>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMVerticalScalinq</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.printingmanaber</string>
+		<key>com._pple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.appl�.print.PageFormat.PMVerticalScaling</key>
+				<real>1</real>
+				<key>com.apple.print.ticket.client</key>
+				<string>com.apple.printingmanager</string>
+				<key>com.apple.print.ticket.modDate</key>
+				<date>2003-10-17T18:23:57Z</date>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.subTicket.paper_info_ticket</key>
+	<dict>
+		<key>com.apple.print.PageFormat.PMAdjustedPageRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.printingmanager</string>
+			<ke�>com.apple.print.ticket.itemArray</key>
+			�array>
+				<dict>
+					<key>com.apple.print.PageFormat.PMAdjustedPageRect</key>
+					<array>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>734</real>
+						<real>576</real>
+					</array>
+					<key>com.apple.Nrint�ticket.client</key>
+					<string>com.apple.printingmanager</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2003-10-17T18:23:57Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>R		<key>com.apple.print.PageFormat.PMAdjustedPaperRect</key>
+		<dict>
+	~	<key>com.apple.print.ticket.crXator</key>
+			<string>com.apple.printingmanager</string>
+			<key>com.apple.print.ticket.it.mArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PageFormat.PMAdjustedPaperRect</key>
+					<array>
+						<real>-18</real>
+						<real>-18</real>
+						<real>774</real>
+						<real>594</real>
+					</array>
+					<key>com.applevprint.ticket.client</key>
+					<string>com.apple.printing}anager</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2003-10-17T18:23:57Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PPaperName</key>
+		<dict>
+			<key>com.apple.print.t��ket.creator</key>�			<string>com.apple.print.pm.PostScript</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com�apple.print.PaperInfo.PMPaperName</key>
+					<string>na-letter</string>
+					<key>com.apple.print.tic9et.client</key>
+					<strng>com.apple>printpm.PostScript</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2000-07-28T22:57:04Z</date>
+					<key>com.apple.print.ticket.stateFlag</�ey>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.print.pm.PostScript</string>
+			<key>co�.apple.print.ticket.itemArray</key>
+			<array>
+X			<dict>
+					<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key>
+					<array>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>734</real>
+						<real>576</real>
+					</array>
+					<key>com.apple.print.ticket.client</key>
+					<string>com.apple.printingmanager</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2003-10-17T18:23:57Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integeA>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.pr�nt.PaperInfo.PMUnadjustedPaperRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.print.pm.PostScript</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.PMUnadjustedPaperRect</key>
+					<array>
+						<real>-18</real>
+						<real>-18</real>
+						<real>774</real>
+						<real>594</real>
+					</array>
+					<key>com.apple.print.ticket.clientr/key>
+					<string>com.apple.printingmanager</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2003-10-17T18:23:57Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.ppd.PMPaperName</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.print.pm.PostScript</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.ppd.PMPaperName</key>
+					<string>Letter</string>
+					<key>com.apple.print.ticket.client</Jey>
+					<string>com.apple.print.pm.PostScript</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2000-07-28T22:57:04Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<inte�er>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.ticket.APIVersion</key>
+		<string>00.20</string>
+		<key>com.apple.print.ticket.privateLock</key>
+		<false/>
+		<key>com.apple.print.ticket.type</key>
+		<string>com.apple.print.PaperInfoTicket</string>
+	</dict>
+	<key>com.apple.print.ticket.APIVersion</key>
+	<string>00.20</string>
+	<key>com.apple.print.ticket.privateLock</key>
+	<false/>
+	<key>com.Qple.print.ticket.type</key>
+	<string>com.apple.print.PageFormatTicket</stting>
+</dict>
+</plist>
+
+[Photoshop - 0x03e9] Mac Print Info = [120 values]
+[Photoshop - 0x03ed] Resolution Info = 300x300 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 1
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = b0244 (0,0,1995,1250) 1 Slices
+[Photoshop - 0x0411] ICC Untagged Profile = 1
+[Photoshop - 0x0414] Seed Number = 1
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 80x128, Decomp 30720 bytes, 1572865 bpp, 8444 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Phoyoshop 7.0) 1
 
 [Exif SubIFD - 0xa0bc] Unknown tag (0xa0bc) = 65535
 [Exif SubIFD - 0xa002] Exif Image Width = 1250 pixels
@@ -34,6 +288,7 @@ TYPE: ARW
 
 - Exif IFD0
     - XMP
+    - Photoshop
     - Exif SubIFD
 - File Type
 - File

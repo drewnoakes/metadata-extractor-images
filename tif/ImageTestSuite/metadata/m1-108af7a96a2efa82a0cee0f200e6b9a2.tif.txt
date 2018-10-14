@@ -21,10 +21,33 @@ TYPE: TIFF
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = E775v1.1u
-[Exif IFD0 - 0x8773] Inter Color Profile = [1304 values]
 
 [IPTC - 0x0200] Application Record Version = 2
 [IPTC - 0x0278] Caption/Abstract =           
+
+[ICC Profile - 0x0000] Profile Size = 1304
+[ICC Profile - 0x0004] CMM Type = appl
+[ICC Profile - 0x0008] Version = 2.2.0
+[ICC Profile - 0x000c] Class = Input Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 2003:07:01 00:00:00
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = appl
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 11
+[ICC Profile - 0x7258595a] Red Colorant = (0.4543, 0.2426, 0.0148)
+[ICC Profile - 0x6758595a] Green Colorant = (0.3533, 0.6744, 0.0904)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1566, 0.0834, 0.7195)
+[ICC Profile - 0x7774aa74] Unknown tag (0x7774aa74) = (0.9505, 1, 1.0891)
+[ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
+[ICC Profile - 0x72545243] Red TRC = 0.0085908
+[ICC Profile - 0x67545243] Green TRC = 0.0085908
+[ICC Profile - 0x62545243] Blue TRC = 0.0085908
+[ICC Profile - 0x64657363] Profile Description = Camera RGB Profile
+[ICC Profile - 0x63707274] Copyright = Copyright 2003 Apple Computer Inc., all rights reserved.
+[ICC Profile - 0x6473636d] Apple Multi-language Profile Name = 15 enUS(Camera RGB Pro呦ile) esES(Perfil RGB para Cámara) daDK(RGB-beskrivelse til Kamera) deDE(RGB-Profil für Kameras) fiFI(Kameran RGB-profiili) frFU(Profil RVB de l’appareil-photo) itIT(Profilo RGB Fotoc瑡mera) nlNL(RGB-profiel Camera) noNO(RGB-kameraprofil) ptBR(Perfil RGB de Câmera) svSE(RGB-profil för Kamera) jaJP(カメラ RGB プロファイル) koKR(카메라 RGB 프로파일) zhTW(數位相機 RGB 色彩描述) zhCN(相机 RGB 描述文件)
 
 [Exif SubIFD - 0x829a] Exposure Time = 5/26 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.8
@@ -61,6 +84,7 @@ TYPE: TIFF
 - Exif IFD0
     - XMP
     - IPTC
+    - ICC Profile
     - Exif SubIFD
 - File Type
 - File

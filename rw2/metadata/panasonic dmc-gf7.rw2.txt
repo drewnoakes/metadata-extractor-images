@@ -98,7 +98,7 @@ TYPE: RW2
 [Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 12 mm
 [Exif SubIFD - 0x9290] Sub-Sec Time = 530
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 530
@@ -137,7 +137,7 @@ TYPE: RW2
 [Panasonic Makernote - 0x0026] Exif Version = 4.09
 [Panasonic Makernote - 0x0027] Unknown tag (0x0027) = 0
 [Panasonic Makernote - 0x0028] Color Effect = Off
-[Panasonic Makernote - 0x0029] Camera Uptime = 18 s
+[Panasonic Makernote - 0x0029] Camera Uptime = 18.0 s
 [Panasonic Makernote - 0x002a] Burst Mode = Off
 [Panasonic Makernote - 0x002b] Sequence Number = 0
 [Panasonic Makernote - 0x002c] Contrast Mode = Low
@@ -319,7 +319,7 @@ TYPE: RW2
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 12 mm
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 530
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 530

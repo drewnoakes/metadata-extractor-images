@@ -45,7 +45,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x9205] Max Aperture Value = f/3.1
 [Exif IFD0 - 0x9207] Metering Mode = Multi-segment
 [Exif IFD0 - 0x9208] White Balance = Unknown
-[Exif IFD0 - 0x9209] Flash = Flash did not fire, auto
+[Exif IFD0 - 0x9209] Flash = Flash did not fire
 [Exif IFD0 - 0x920a] Focal Length = 6.3 mm
 [Exif IFD0 - 0x927c] Makernote = [1996 values]
 [Exif IFD0 - 0x9286] User Comment = 

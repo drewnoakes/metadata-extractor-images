@@ -98,8 +98,8 @@ TYPE: RW2
 [Exif SubIFD - 0x9205] Max Aperture Value = f/3.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 32.7 mm
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 32.6 mm
 [Exif SubIFD - 0x9290] Sub-Sec Time = 427
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 427
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 427
@@ -307,8 +307,8 @@ TYPE: RW2
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/3.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-[Exif SubIFD - 0x920a] Focal Length = 32.7 mm
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 32.6 mm
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 427
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 427
 [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)

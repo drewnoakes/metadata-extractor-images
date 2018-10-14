@@ -30,9 +30,9 @@ TYPE: JPEG
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/1492 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/2.4
-[Exif SubIFD - 0x9203] Brightness Value = 2988/325
+[Exif SubIFD - 0x9203] Brightness Value = 9.194
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 4.3 mm
 [Exif SubIFD - 0x9214] Subject Location = 1631 1223 881 881
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00

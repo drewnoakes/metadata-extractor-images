@@ -36,7 +36,7 @@ TYPE: JPEG
 [Exif SubIFD - 0x9205] Max Aperture Value = f/1.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 11.8 mm
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
 [Exif SubIFD - 0xa001] Color Space = sRGB
@@ -116,29 +116,22 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 3950 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 3787 bytes
 
-[XMP - 0xffff] XMP Value Count = 22
+[XMP - 0xffff] XMP Value Count = 19
 
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2014-04-13T13:42:27
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2014-04-13T13:42:27
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = COOLPIX P340   V1.0
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2014-04-21T12:34:09-07:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2014-04-13T13:42:27
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = FC2AE9DFAB89FE5D4143B4301C6FA895
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:bf9ce32d-9fd5-4c95-8e5b-6c11b7bada3a
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = FC2AE9DFAB89FE5D4143B4301C6FA895
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
-[XMPMeta - ] xmpMM:History[1] = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /metadata
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:f4b9c024-551d-4c96-a10c-9119ac8bb8f2
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop Camera Raw 8.4
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2014-04-21T12:34:09-07:00
-[XMPMeta - ] xmpMM:History[2] = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /metadata
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:bf9ce32d-9fd5-4c95-8e5b-6c11b7bada3a

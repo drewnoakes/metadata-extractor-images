@@ -34,7 +34,7 @@ TYPE: JPEG
 [Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 24 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0x9290] Sub-Sec Time = 70
@@ -110,7 +110,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x00ab] Digital Vari Program =                
 [Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Low
-[Nikon Makernote - 0x00b6] Power Up Time = 
+[Nikon Makernote - 0x00b6] Power Up Time = 2012:12:31 16:02:08
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
@@ -133,16 +133,12 @@ TYPE: JPEG
 
 [XMP - 0xffff] XMP Value Count = 7
 
-[XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ImageNumber = 4660
-[XMPMeta - http://ns.camerabits.com/photomechanic/1.0/]  = 
 [XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:ColorClass = 0
 [XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:PMVersion = PM5
 [XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:Prefs = 1:0:0:004660
 [XMPMeta - http://ns.camerabits.com/photomechanic/1.0/] photomechanic:Tagged = True
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2013-11-23T16:47:09-08:00
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 0
 
 [Photoshop - 0x03ed] Resolution Info = 200x200 DPI

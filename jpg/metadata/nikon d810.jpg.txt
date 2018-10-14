@@ -36,7 +36,7 @@ TYPE: JPEG
 [Exif SubIFD - 0x9205] Max Aperture Value = f/4.0
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 200 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0x9290] Sub-Sec Time = 99
@@ -114,7 +114,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x00a8] Flash Info = [51 values]
 [Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Off
-[Nikon Makernote - 0x00b6] Power Up Time = 
+[Nikon Makernote - 0x00b6] Power Up Time = 0000:00:00 00:00:00
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
@@ -137,7 +137,6 @@ TYPE: JPEG
 
 [XMP - 0xffff] XMP Value Count = 2
 
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = NIKON D810 Ver.1.00     
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2014-01-30T16:41:04.99
 

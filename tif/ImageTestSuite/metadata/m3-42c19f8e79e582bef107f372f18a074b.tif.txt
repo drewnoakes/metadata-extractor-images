@@ -10,14 +10,17 @@ TYPE: TIFF
 [ERROR: Exif IFD0] Invalid TIFF tag format code 14896 for tag 0x3038
 [ERROR: Exif IFD0] Invalid TIFF tag format code 14900 for tag 0x3533
 [ERROR: Exif IFD0] Stopping processing as too many errors seen in TIFF IFD
+[ERROR: Photoshop] End of data reached.
 
 [Exif IFD0 - 0x0132] Date/Time = 2008:06:13 10:53:40
 [Exif IFD0 - 0x013d] Predictor = 2
 [Exif IFD0 - 0x0152] Unknown tag (0x0152) = 167
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [8920 values]
 [Exif IFD0 - 0x935c] Unknown tag (0x935c) = [5628 values]
 
 [IPTC - 0x0200] Application Record Version = 0
+
+[Photoshop - 0x07d0] Path Info 1 = "" having 0 subpaths:
+[Photoshop - 0x0425] Caption Digest = 232 241 92 243 47 193 24 161 162 123 103 173 197 100 213 209
 
 [Exif SubIFD - 0xa001] Color Space = Undefined
 [Exif SubIFD - 0xa002] Exif Image Width = 17 pixels
@@ -34,6 +37,7 @@ TYPE: TIFF
 
 - Exif IFD0
     - IPTC
+    - Photoshop
     - Exif SubIFD
 - File Type
 - File

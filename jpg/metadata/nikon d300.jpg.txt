@@ -110,7 +110,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x00a8] Flash Info = [22 values]
 [Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Normal
-[Nikon Makernote - 0x00b6] Power Up Time = 
+[Nikon Makernote - 0x00b6] Power Up Time = 2009:11:13 07:47:31
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0

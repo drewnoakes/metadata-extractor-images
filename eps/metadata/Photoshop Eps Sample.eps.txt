@@ -91,7 +91,7 @@ TYPE: EPS
 [Exif SubIFD - 0x9204] Exposure Bias Value = 1/3 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 38 mm
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 00
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 00
@@ -181,7 +181,7 @@ TYPE: EPS
 [Exif SubIFD - 0x9204] Exposure Bias Value = 1/3 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 38 mm
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 00
 [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 00

@@ -4,6 +4,7 @@ TYPE: TIFF
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 [ERROR: Exif IFD0] Invalid TIFF tag format code 69 for tag 0x6E32
 [ERROR: XMP] Error processing XMP data: XML parsing failure
+[ERROR: ICC Profile] Exception reading ICC profile: Attempt to read from beyond end of underlying data source (requested index: 1157628292, requested count: 13326, max index: 1303)
 [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
@@ -22,10 +23,27 @@ TYPE: TIFF
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = E775v1.1u
-[Exif IFD0 - 0x8773] Inter Color Profile = [1304 values]
 
 [IPTC - 0x0200] Application Record Version = 2
 [IPTC - 0x0278] Caption/Abstract =           
+
+[ICC Profile - 0x0000] Profile Size = 1304
+[ICC Profile - 0x0004] CMM Type = appl
+[ICC Profile - 0x0008] Version = 2.2.0
+[ICC Profile - 0x000c] Class = Input Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 2003:07:01 00:00:00
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = appl
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 11
+[ICC Profile - 0x7258595a] Red Colorant = X�Z  (0x58F65A20): 20 bytes
+[ICC Profile - 0x6758595a] Green Colorant = (0.658, 0.6744, 0.0904)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1566, 0.0834, 0.7195)
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+[ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
 
 [Exif SubIFD - 0x829a] Exposure Time = 5/26 sec
 [Exif SubIFD - 0x829d] F-Number = f/2.8
@@ -61,6 +79,7 @@ TYPE: TIFF
 - Exif IFD0
     - XMP
     - IPTC
+    - ICC Profile
     - Exif SubIFD
 - File Type
 - File

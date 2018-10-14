@@ -23,7 +23,6 @@ TYPE: TIFF
 [Exif IFD0 - 0x013e] White Point = 313/1000 329/1000
 [Exif IFD0 - 0x013f] Primary Chromaticities = 64/100 33/100 21/100 71/100 15/100 6/100
 [Exif IFD0 - 0x8298] Copyright =                                                       
-[Exif IFD0 - 0x8773] Inter Color Profile = [492 values]
 
 [Exif SubIFD - 0x829a] Exposure Time = 1/320 sec
 [Exif SubIFD - 0x829d] F-Number = f/11.0
@@ -106,10 +105,33 @@ TYPE: TIFF
 [Nikon Makernote - 0x00a8] Flash Info = [22 values]
 [Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Normal
-[Nikon Makernote - 0x00b6] Power Up Time = 
+[Nikon Makernote - 0x00b6] Power Up Time = 2009:11:13 07:47:31
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
+
+[ICC Profile - 0x0000] Profile Size = 492
+[ICC Profile - 0x0004] CMM Type = NKON
+[ICC Profile - 0x0008] Version = 2.2.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 1999:12:07 18:59:22
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = none
+[ICC Profile - 0x0034] Device model = 1
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 9
+[ICC Profile - 0x64657363] Profile Description = Nikon Adobe RGB 4.0.0.3000
+[ICC Profile - 0x7258595a] Red Colorant = (0.6098, 0.3111, 0.0195)
+[ICC Profile - 0x6758595a] Green Colorant = (0.2052, 0.6257, 0.0609)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1492, 0.0632, 0.7446)
+[ICC Profile - 0x72545243] Red TRC = 0.0085908
+[ICC Profile - 0x67545243] Green TRC = 0.0085908
+[ICC Profile - 0x62545243] Blue TRC = 0.0085908
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+[ICC Profile - 0x63707274] Copyright = Nikon Inc. & Nikon Corporation 2002
 
 [GPS - 0x0000] GPS Version ID = 2.200
 
@@ -139,6 +161,7 @@ TYPE: TIFF
 - Exif IFD0
     - Exif SubIFD
         - Nikon Makernote
+    - ICC Profile
     - GPS
     - Exif Thumbnail
 - File Type

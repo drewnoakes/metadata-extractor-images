@@ -56,12 +56,12 @@ TYPE: ARW
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:03:14 13:32:15
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 8 bits/pixel
-[Exif SubIFD - 0x9203] Brightness Value = 13507/1280
+[Exif SubIFD - 0x9203] Brightness Value = 10.552
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 16 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00

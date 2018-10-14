@@ -22,14 +22,31 @@ TYPE: TIFF
 [Exif IFD0 - 0x013d] Predictor = 1
 [Exif IFD0 - 0x0150] Unknown tag (0x0150) = 0 255
 [Exif IFD0 - 0x0152] Unknown tag (0x0152) = 2
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [6532 values]
 [Exif IFD0 - 0x935c] Unknown tag (0x935c) = [49032 values]
 
 [XMP - 0xffff] XMP Value Count = 2
 
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:7e120775-a026-11d7-97eb-d04c234bf82b
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:7e120778-a026-11d7-97eb-d04c234bf82b
+
+[Photoshop - 0x0425] Caption Digest = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Photoshop - 0x03ed] Resolution Info = 300x300 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 1
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0400] Layer State Information = 0 0
+[Photoshop - 0x0402] Layers Group Information = 0 0
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = cert_arb (0,0,1126,646) 1 Slices
+[Photoshop - 0x0414] Seed Number = 2
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 73x128, Decomp 28160 bytes, 1572865 bpp, 5075 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 7.0) 1
 
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
@@ -42,6 +59,7 @@ TYPE: TIFF
 
 - Exif IFD0
     - XMP
+    - Photoshop
     - Exif SubIFD
 - File Type
 - File

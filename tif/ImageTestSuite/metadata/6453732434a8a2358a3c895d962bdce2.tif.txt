@@ -19,13 +19,35 @@ TYPE: TIFF
 [Exif IFD0 - 0x0144] Tile Offsets = 8946 69536 100654 132657
 [Exif IFD0 - 0x0145] Tile Byte Counts = 60590 31118 32003 14936
 [Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [3888 values]
 
 [XMP - 0xffff] XMP Value Count = 2
 
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:bf93e969-6c3b-11d9-9d35-910fafd7239a
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:c4dadca1-6c3c-11d9-9d35-910fafd7239a
+
+[Photoshop - 0x0425] Caption Digest = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Photoshop - 0x03ed] Resolution Info = 50.8x50.8 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x03ee] Alpha Channels = 12 84 114 97 110 115 112 97 114 101 110 99 121
+[Photoshop - 0x0415] Unicode Alpha Names = [30 values]
+[Photoshop - 0x03ef] Display Info (Obsolete) = 0 0 255 255 0 0 0 0 0 0 0 100 1 0
+[Photoshop - 0x041d] Alpha Identifiers = 0 0 0 0
+[Photoshop - 0x040d] Global Angle = 120
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0400] Layer State Information = 0 0
+[Photoshop - 0x0402] Layers Group Information = 0 0
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = Untitled-2 (0,0,200,200) 1 Slices
+[Photoshop - 0x0411] ICC Untagged Profile = 1
+[Photoshop - 0x0414] Seed Number = 2
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 128x128, Decomp 49152 bytes, 1572865 bpp, 2303 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 7.0) 1
 
 [Exif SubIFD - 0xa001] Color Space = Undefined
 [Exif SubIFD - 0xa002] Exif Image Width = 200 pixels
@@ -42,6 +64,7 @@ TYPE: TIFF
 
 - Exif IFD0
     - XMP
+    - Photoshop
     - Exif SubIFD
 - File Type
 - File

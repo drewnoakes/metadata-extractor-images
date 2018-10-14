@@ -29,7 +29,7 @@ TYPE: JPEG
 [Exif SubIFD - 0x9205] Max Aperture Value = f/4.9
 [Exif SubIFD - 0x9206] Subject Distance = 30.4 metres
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 22.5 mm
 [Exif SubIFD - 0xa20e] Focal Plane X Resolution = 73/912000 inches
 [Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 73/912000 inches
@@ -49,15 +49,13 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 676 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 11021 bytes
 
-[XMP - 0xffff] XMP Value Count = 131
+[XMP - 0xffff] XMP Value Count = 127
 
-[XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Firmware = 1.00
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:FlashCompensation = 0/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Lens = 6.0-22.5 mm
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensID = 65535
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensInfo = 6000/1000 22500/1000 0/0 0/0
-[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:AlreadyApplied = True
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:BlueHue = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:BlueSaturation = 0
@@ -132,10 +130,8 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:Vibrance = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:VignetteAmount = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:WhiteBalance = As Shot
-[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ToneCurve = 
 [XMPMeta - ] crs:ToneCurve[1] = 0, 0
 [XMPMeta - ] crs:ToneCurve[2] = 255, 255
-[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 4585563/1000000
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CustomRendered = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2012-06-10T12:06:14+01:00
@@ -160,17 +156,13 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = 7643856/1000000
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SubjectDistance = 304/10
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 0
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ISOSpeedRatings = 
 [XMPMeta - ] exif:ISOSpeedRatings[1] = 80
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Fired = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Function = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Mode = 2
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:RedEyeMode = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Return = 0
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:LegacyIPTCDigest = DDBA340ABFC5F3872A265B5C22B93B40
-[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 2736
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 3648
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = Canon
@@ -178,13 +170,10 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 240/1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 240/1
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2012-06-10T12:06:14+01:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop Lightroom
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2012-06-13T23:17:33+01:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 3
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
-[XMPMeta - http://purl.org/dc/elements/1.1/] dc:subject = 
 [XMPMeta - ] dc:subject[1] = 2012
 [XMPMeta - ] dc:subject[2] = dublin
 [XMPMeta - ] dc:subject[3] = ireland

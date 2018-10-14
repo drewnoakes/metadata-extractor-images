@@ -34,12 +34,12 @@ TYPE: JPEG
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2011:02:26 15:49:58
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
-[Exif SubIFD - 0x9203] Brightness Value = 12447/1280
+[Exif SubIFD - 0x9203] Brightness Value = 9.724
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/1.8
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9208] White Balance = Unknown
-[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 24 mm
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00
@@ -144,7 +144,7 @@ TYPE: JPEG
 [GPS - 0x0003] GPS Longitude Ref = E
 [GPS - 0x0004] GPS Longitude = 8° 38' 27.06"
 [GPS - 0x0005] GPS Altitude Ref = Sea level
-[GPS - 0x0006] GPS Altitude = 117 metres
+[GPS - 0x0006] GPS Altitude = 117.5 metres
 
 [PrintIM - 0x0000] PrintIM Version = 0300
 [PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001

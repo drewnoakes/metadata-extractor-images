@@ -2,6 +2,7 @@ FILE: m6-336db1cd76254717eb50a8602b651fbf.tif
 TYPE: ARW
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 17 for tag 0x0159
+[ERROR: Photoshop] End of data reached.
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0xfe00] Unknown tag (0xfe00) = 2306
@@ -16,7 +17,6 @@ TYPE: ARW
 [Exif IFD0 - 0x011b] Y Resolution = 62500/36350843 dots per inch
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x013d] Predictor = 1
-[Exif IFD0 - 0x8649] Unknown tag (0x8649) = [4598 values]
 
 [File Type - 0x0001] Detected File Type Name = ARW
 [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
@@ -27,6 +27,7 @@ TYPE: ARW
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+    - Photoshop
 - File Type
 - File
 
