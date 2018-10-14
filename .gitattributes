@@ -1,2 +1,21 @@
-*.txt diff text
+# There is no source code in this repo, and much of the text is generated.
+# However generated text often contains dumped strings from metadata extraction
+# which in turn contain varied line endings, for which there is negative value
+# to normalisation.
+
+* binary
+
+# Enable diff for files known to contain text-like content, though still treat
+# as binary to disable all line ending normalisation.
+
+.* diff
+*.txt diff
+*.md diff
+*.LICENSE diff
+*.eps diff
+*.xmp diff
+*.pbm diff
+*.pgm diff
+*.pnm diff
+*.ppm diff
 
