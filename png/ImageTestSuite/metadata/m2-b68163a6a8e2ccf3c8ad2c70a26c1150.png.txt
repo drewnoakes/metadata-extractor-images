@@ -1,7 +1,0 @@
-FILE: m2-b68163a6a8e2ccf3c8ad2c70a26c1150.png
-TYPE: UNKNOWN
-
-EXCEPTION: File format could not be determined
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

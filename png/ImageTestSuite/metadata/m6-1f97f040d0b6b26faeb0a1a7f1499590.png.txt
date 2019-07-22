@@ -1,7 +1,0 @@
-FILE: m6-1f97f040d0b6b26faeb0a1a7f1499590.png
-TYPE: PNG
-
-EXCEPTION: End of data reached.
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

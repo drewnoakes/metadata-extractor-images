@@ -1,7 +1,0 @@
-FILE: 0132cfdbd8ca323574a2072e7ed5014c.png
-TYPE: PNG
-
-EXCEPTION: Observed multiple instances of PNG chunk 'sRGB', for which multiples are not allowed
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

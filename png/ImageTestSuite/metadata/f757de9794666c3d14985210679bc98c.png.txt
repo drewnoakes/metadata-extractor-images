@@ -1,7 +1,0 @@
-FILE: f757de9794666c3d14985210679bc98c.png
-TYPE: PNG
-
-EXCEPTION: Observed multiple instances of PNG chunk 'pHYs', for which multiples are not allowed
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

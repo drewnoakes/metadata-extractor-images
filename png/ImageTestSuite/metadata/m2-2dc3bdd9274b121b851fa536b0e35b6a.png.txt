@@ -1,7 +1,0 @@
-FILE: m2-2dc3bdd9274b121b851fa536b0e35b6a.png
-TYPE: PNG
-
-EXCEPTION: PNG chunk type identifier may only contain alphabet characters
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

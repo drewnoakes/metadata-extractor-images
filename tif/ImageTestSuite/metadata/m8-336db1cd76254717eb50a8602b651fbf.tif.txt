@@ -1,7 +1,0 @@
-FILE: m8-336db1cd76254717eb50a8602b651fbf.tif
-TYPE: UNKNOWN
-
-EXCEPTION: File format could not be determined
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

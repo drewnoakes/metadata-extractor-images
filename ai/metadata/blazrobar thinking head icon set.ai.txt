@@ -1,7 +1,0 @@
-FILE: BlazRobar Thinking Head Icon Set.ai
-TYPE: UNKNOWN
-
-EXCEPTION: File format could not be determined
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

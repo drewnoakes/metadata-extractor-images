@@ -1,7 +1,0 @@
-FILE: fa9f6aa9bcc679d20e171dbf07a628fd.png
-TYPE: PNG
-
-EXCEPTION: Observed multiple instances of PNG chunk 'gAMA', for which multiples are not allowed
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

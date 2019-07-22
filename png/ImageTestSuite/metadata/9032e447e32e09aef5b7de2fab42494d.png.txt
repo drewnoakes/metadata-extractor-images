@@ -1,7 +1,0 @@
-FILE: 9032e447e32e09aef5b7de2fab42494d.png
-TYPE: PNG
-
-EXCEPTION: Observed multiple instances of PNG chunk 'IHDR', for which multiples are not allowed
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

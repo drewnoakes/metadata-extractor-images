@@ -1,47 +1,0 @@
-FILE: ctgn0g04.png
-TYPE: PNG
-
-[PNG-IHDR - 0x0001] Image Width = 32
-[PNG-IHDR - 0x0002] Image Height = 32
-[PNG-IHDR - 0x0003] Bits Per Sample = 4
-[PNG-IHDR - 0x0004] Color Type = Greyscale
-[PNG-IHDR - 0x0005] Compression Type = Deflate
-[PNG-IHDR - 0x0006] Filter Method = Adaptive
-[PNG-IHDR - 0x0007] Interlace Method = No Interlace
-
-[PNG-gAMA - 0x000b] Image Gamma = 1
-
-[PNG-iTXt - 0x000d] Textual Data = Title: PngSuite
-
-[PNG-iTXt - 0x000d] Textual Data = Author: Willem van Schaik (willem@schaik.com)
-
-[PNG-iTXt - 0x000d] Textual Data = Copyright: Î Î½ÎµÏÎ¼Î±ÏÎ¹ÎºÎ¬ Î´Î¹ÎºÎ±Î¹ÏÎ¼Î±ÏÎ± Schaik van Willem, ÎÎ±Î½Î±Î´Î¬Ï 2011
-
-[PNG-iTXt - 0x000d] Textual Data = Description: ÎÎ¹Î± ÏÏÎ»Î»Î¿Î³Î® Î±ÏÏ Î­Î½Î± ÏÏÎ½Î¿Î»Î¿ ÎµÎ¹ÎºÏÎ½ÏÎ½ ÏÎ¿Ï Î´Î·Î¼Î¹Î¿ÏÏÎ³Î®Î¸Î·ÎºÎ±Î½ Î³Î¹Î± ÏÎ· Î´Î¿ÎºÎ¹Î¼Î® ÏÏÎ½ Î´Î¹Î±ÏÏÏÏÎ½ ÏÏÏÎ¼Î¬ÏÏÎ½-ÏÏÏÏÎ½ ÏÎ¿Ï Î¼Î¿ÏÏÎ® PNG. Î ÎµÏÎ¹Î»Î±Î¼Î²Î¬Î½Î¿Î½ÏÎ±Î¹ Î¿Î¹ Î±ÏÏÏÏÎ¼Î±ÏÏÎµÏ, ÏÏÏÎ¼Î±, paletted, Î¼Îµ Î¬Î»ÏÎ± ÎºÎ±Î½Î¬Î»Î¹, Î¼Îµ Î¼Î¿ÏÏÎ­Ï ÏÎ·Ï Î´Î¹Î±ÏÎ¬Î½ÎµÎ¹Î±Ï. ÎÎ»Î¿Î¹ Î»Î¯Î³Î¿-Î²Î¬Î¸Î· ÎµÏÎ¹ÏÏÎ­ÏÎµÏÎ±Î¹ ÏÏÎ¼ÏÏÎ½Î± Î¼Îµ ÏÎ¿ spec ÎµÎ¯Î½Î±Î¹ ÏÎ±ÏÏÎ½ÏÎµÏ.
-
-[PNG-iTXt - 0x000d] Textual Data = Software: ÎÎ·Î¼Î¹Î¿ÏÏÎ³Î®Î¸Î·ÎºÎµ ÏÎµ Î­Î½Î± ÏÏÏÎ¼Î± NeXTstation ÏÏÎ·ÏÎ¹Î¼Î¿ÏÎ¿Î¹ÏÎ½ÏÎ±Ï "pnmtopng".
-
-[PNG-iTXt - 0x000d] Textual Data = Disclaimer: ÎÏÏÎµÎ¬Î½ Î»Î¿Î³Î¹ÏÎ¼Î¹ÎºÏ.
-
-[File Type - 0x0001] Detected File Type Name = PNG
-[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
-[File Type - 0x0003] Detected MIME Type = image/png
-[File Type - 0x0004] Expected File Name Extension = png
-
-[File - 0x0001] File Name = ctgn0g04.png
-[File - 0x0002] File Size = 1182 bytes
-[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-
-- PNG-IHDR
-- PNG-gAMA
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
-- PNG-iTXt
-- File Type
-- File
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

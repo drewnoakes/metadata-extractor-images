@@ -1,7 +1,0 @@
-FILE: d5a0175c07418852152ef33a886a5029.gif
-TYPE: UNKNOWN
-
-EXCEPTION: File format could not be determined
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

@@ -1,7 +1,0 @@
-FILE: m6-d1d366d7965db766c19a66c7a2ccbb6b.tif
-TYPE: UNKNOWN
-
-EXCEPTION: File format could not be determined
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

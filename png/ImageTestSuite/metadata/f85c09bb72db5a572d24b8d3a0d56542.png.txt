@@ -1,7 +1,0 @@
-FILE: f85c09bb72db5a572d24b8d3a0d56542.png
-TYPE: UNKNOWN
-
-EXCEPTION: File format could not be determined
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/

@@ -1,7 +1,0 @@
-FILE: 13f665c09e4b03cdbe2fff3015ec8aa7.png
-TYPE: PNG
-
-EXCEPTION: Observed multiple instances of PNG chunk 'bKGD', for which multiples are not allowed
-
-Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
