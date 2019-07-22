@@ -1,0 +1,35 @@
+FILE: 586914b5d01d3889fb7bb5c44fe29771.png
+TYPE: PNG
+
+[ERROR: PNG-zTXt] Exception decompressing PNG zTXt chunk with keyword "Software": invalid distance code
+
+[PNG-IHDR - 0x0001] Image Width = 15
+[PNG-IHDR - 0x0002] Image Height = 11
+[PNG-IHDR - 0x0003] Bits Per Sample = 1
+[PNG-IHDR - 0x0004] Color Type = Greyscale
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-bKGD - 0x000f] Background Color = Greyscale Level 194
+
+[PNG-zTXt - 0x000d] Textual Data = Signature: bd1b3f1c6571a61b70f3da0d2c748b00
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = 586914b5d01d3889fb7bb5c44fe29771.png
+[File - 0x0002] File Size = 256 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-bKGD
+- PNG-zTXt
+- PNG-zTXt
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

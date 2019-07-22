@@ -1,0 +1,7 @@
+FILE: sample_3GPP2.3g2
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

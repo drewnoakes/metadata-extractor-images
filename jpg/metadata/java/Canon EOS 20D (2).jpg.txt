@@ -1,0 +1,195 @@
+FILE: Canon EOS 20D (2).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3504 pixels
+[JPEG - 0x0003] Image Width = 2336 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = none
+[JFIF - 0x0008] X Resolution = 1 dot
+[JFIF - 0x000a] Y Resolution = 1 dot
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon EOS 20D
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0132] Date/Time = 2005:04:10 13:04:54
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 0.05 sec
+[Exif SubIFD - 0x829d] F-Number = f/8.0
+[Exif SubIFD - 0x8822] Exposure Program = Manual control
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 400
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2005:04:10 13:04:54
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2005:04:10 13:04:54
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/20 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/8.0
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Partial
+[Exif SubIFD - 0x9209] Flash = Flash fired
+[Exif SubIFD - 0x920a] Focal Length = 37 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 3504 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2336 pixels
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 59/233600 inches
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 59/233600 inches
+[Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+
+[Canon Makernote - 0xc100] Unknown tag (0xc100) = 1
+[Canon Makernote - 0xc101] Macro Mode = Unknown (32767)
+[Canon Makernote - 0xc102] Self Timer Delay = 0.4 sec
+[Canon Makernote - 0xc103] Quality = Normal
+[Canon Makernote - 0xc104] Flash Mode = No flash fired
+[Canon Makernote - 0xc105] Continuous Drive Mode = Unknown (4)
+[Canon Makernote - 0xc106] Unknown Camera Setting 2 = 65535
+[Canon Makernote - 0xc107] Focus Mode = Unknown (65535)
+[Canon Makernote - 0xc108] Unknown Camera Setting 3 = 75
+[Canon Makernote - 0xc109] Record Mode = Unknown (28)
+[Canon Makernote - 0xc10a] Image Size = Medium
+[Canon Makernote - 0xc10b] Easy Shooting Mode = Unknown (95)
+[Canon Makernote - 0xc10c] Digital Zoom = Unknown (320)
+[Canon Makernote - 0xc10d] Contrast = Unknown (198)
+[Canon Makernote - 0xc10e] Saturation = Unknown (16392)
+[Canon Makernote - 0xc10f] Sharpness = Normal
+[Canon Makernote - 0xc110] Iso = Not specified (see ISOSpeedRatings tag)
+[Canon Makernote - 0xc111] Metering Mode = Unknown (1)
+[Canon Makernote - 0xc112] Focus Type = Unknown (65535)
+[Canon Makernote - 0xc113] AF Point Selected = Unknown (65535)
+[Canon Makernote - 0xc114] Exposure Mode = Easy shooting
+[Canon Makernote - 0xc115] Unknown Camera Setting 7 = 0
+[Canon Makernote - 0xc116] Lens Type = Unknown (0)
+[Canon Makernote - 0xc117] Long Focal Length = 0 
+[Canon Makernote - 0xc118] Short Focal Length = 65535 
+[Canon Makernote - 0xc119] Focal Units per mm = 
+[Canon Makernote - 0xc11a] Max Aperture = Unknown (32767)
+[Canon Makernote - 0xc11b] Min Aperture = f/1.0
+[Canon Makernote - 0xc11c] Flash Activity = Unknown (32767)
+[Canon Makernote - 0xc11d] Flash Details = External E-TTL
+[Canon Makernote - 0xc11e] Focus Continuous = Unknown (65535)
+[Canon Makernote - 0xc11f] AE Setting = AE Lock
+[Canon Makernote - 0xc120] Focus Mode = Unknown (37)
+[Canon Makernote - 0xc121] Display Aperture = f/90.7
+[Canon Makernote - 0xc122] Zoom Source Width = 605
+[Canon Makernote - 0xc123] Zoom Target Width = 16
+[Canon Makernote - 0xc124] Unknown tag (0xc124) = 117
+[Canon Makernote - 0xc125] Spot Metering Mode = Center
+[Canon Makernote - 0xc126] Photo Effect = Off
+[Canon Makernote - 0xc127] Manual Flash Output = Unknown (68)
+[Canon Makernote - 0xc128] Unknown tag (0xc128) = 0
+[Canon Makernote - 0xc129] Color Tone = 224
+[Canon Makernote - 0xc12a] Unknown tag (0xc12a) = 12
+[Canon Makernote - 0xc12b] Unknown tag (0xc12b) = 192
+[Canon Makernote - 0xc12c] Unknown tag (0xc12c) = 138
+[Canon Makernote - 0xc12d] SRAW Quality = n/a
+[Canon Makernote - 0xc200] Unknown tag (0xc200) = 0
+[Canon Makernote - 0xc201] Unknown tag (0xc201) = 3
+[Canon Makernote - 0xc202] Unknown tag (0xc202) = 0
+[Canon Makernote - 0xc203] Unknown tag (0xc203) = 8
+[Canon Makernote - 0x0003] Unknown tag (0x0003) = 8 0 65535 0
+[Canon Makernote - 0xc400] Unknown tag (0xc400) = 0
+[Canon Makernote - 0xc401] Auto ISO = 0
+[Canon Makernote - 0xc402] Base ISO = 0
+[Canon Makernote - 0xc403] Measured EV = 1
+[Canon Makernote - 0xc404] Target Aperture = 0
+[Canon Makernote - 0xc405] Target Exposure Time = 0
+[Canon Makernote - 0xc406] Exposure Compensation = 192
+[Canon Makernote - 0xc407] White Balance = 300
+[Canon Makernote - 0xc408] Slow Shutter = 87
+[Canon Makernote - 0xc409] Sequence Number = 0
+[Canon Makernote - 0xc40a] Optical Zoom Code = 0
+[Canon Makernote - 0xc40b] Unknown tag (0xc40b) = 252
+[Canon Makernote - 0xc40c] Camera Temperature = 1
+[Canon Makernote - 0xc40d] Flash Guide Number = 65535
+[Canon Makernote - 0xc40e] AF Points in Focus = 0
+[Canon Makernote - 0xc40f] Flash Exposure Compensation = 0
+[Canon Makernote - 0xc410] Auto Exposure Bracketing = 0
+[Canon Makernote - 0xc411] AEB Bracket Value = 0
+[Canon Makernote - 0xc412] Control Mode = 0
+[Canon Makernote - 0xc413] Focus Distance Upper = 24899
+[Canon Makernote - 0xc414] Focus Distance Lower = 28526
+[Canon Makernote - 0xc415] F Number = 8302
+[Canon Makernote - 0xc416] Exposure Time = 20293
+[Canon Makernote - 0xc417] Measured EV 2 = 8275
+[Canon Makernote - 0xc418] Bulb Duration = 12338
+[Canon Makernote - 0xc419] Unknown tag (0xc419) = 68
+[Canon Makernote - 0xc41a] Camera Type = 0
+[Canon Makernote - 0xc41b] Auto Rotate = 0
+[Canon Makernote - 0xc41c] ND Filter = 0
+[Canon Makernote - 0xc41d] Self Timer 2 = 0
+[Canon Makernote - 0xc41e] Unknown tag (0xc41e) = 0
+[Canon Makernote - 0xc41f] Unknown tag (0xc41f) = 0
+[Canon Makernote - 0xc420] Unknown tag (0xc420) = 0
+[Canon Makernote - 0xc421] Flash Output = 0
+[Canon Makernote - 0x0006] Image Type = 
+[Canon Makernote - 0x0007] Firmware Version = 
+[Canon Makernote - 0x0009] Owner Name = 
+[Canon Makernote - 0x000c] Camera Serial Number = 002000104
+[Canon Makernote - 0x000d] Camera Info Array = [1024 values]
+[Canon Makernote - 0x000f] Custom Functions = [19 values]
+[Canon Makernote - 0x0010] Canon Model ID = 2147484021
+[Canon Makernote - 0xd200] AF Point Count = 571
+[Canon Makernote - 0xd201] Valid AF Point Count = 8
+[Canon Makernote - 0xd202] Image Width = 504
+[Canon Makernote - 0xd203] Image Height = 270
+[Canon Makernote - 0xd204] AF Image Width = 270
+[Canon Makernote - 0xd205] AF Image Height = 4
+[Canon Makernote - 0xd206] AF Area Width = 4
+[Canon Makernote - 0xd207] AF Area Height = 4
+[Canon Makernote - 0x0013] Thumbnail Image Valid Area = 0 0 0 0
+[Canon Makernote - 0x0015] Serial Number Format = 2684354560
+[Canon Makernote - 0x0019] Unknown tag (0x0019) = 1
+[Canon Makernote - 0x0083] Original Decision Data Offset = 0
+[Canon Makernote - 0x0093] File Info Array = 0 28 0 0 0 0 0 0 0 32768 5200 0 0 0 0 10
+[Canon Makernote - 0x00a0] Processing Information Array = 523 1024 1024 736 34 3596 2360 1 1 84 19 3587 2354 0
+[Canon Makernote - 0x00aa] Measured Color Array = 0 0 0 0 0
+[Canon Makernote - 0x00d0] VRD Offset = 0
+[Canon Makernote - 0x00e0] Sensor Information Array = [17 values]
+[Canon Makernote - 0x4001] Color Data Array 1 = [582 values]
+[Canon Makernote - 0x4002] CRW Parameters = [2676 values]
+[Canon Makernote - 0x4003] Color Data Array 2 = [22 values]
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 9286 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 3273 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Canon EOS 20D (2).jpg
+[File - 0x0002] File Size = 2854241 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+        - Canon Makernote
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

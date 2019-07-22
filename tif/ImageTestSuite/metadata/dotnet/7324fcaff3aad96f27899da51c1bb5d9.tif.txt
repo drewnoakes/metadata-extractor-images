@@ -1,0 +1,168 @@
+FILE: 7324fcaff3aad96f27899da51c1bb5d9.tif
+TYPE: TIFF
+
+[ERROR: IPTC] Invalid IPTC tag marker at offset 29. Expected '0x1c' but got '0x0'.
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 4064 pixels
+[Exif IFD0 - 0x0101] Image Height = 2487 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Adobe Deflate
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x010f] Make = Canon
+[Exif IFD0 - 0x0110] Model = Canon EOS-1DS
+[Exif IFD0 - 0x0111] Strip Offsets = [29 values]
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 86 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 423070 406633 387360 384404 416559 458293 457427 448595 497825 544395 554265 552239 555786 558456 554773 567133 580495 577653 574589 579896 565651 551626 552796 562626 549162 523879 532391 562333 538518 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop CS Windows
+[Exif IFD0 - 0x0132] Date/Time = 2004:06:13 17:44:48
+[Exif IFD0 - 0x013b] Artist = Studio Mantyniemi
+[Exif IFD0 - 0x013d] Predictor = 2
+
+[XMP - 0xffff] XMP Value Count = 39
+
+[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/60
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 18/1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0220
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2003-11-25T16:05:53+02:00
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = 393216/65536
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 548864/65536
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0/1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalLength = 63/1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FlashpixVersion = 0100
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 4294967295
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 4064
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 2487
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalPlaneXResolution = 756642880/262144
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalPlaneYResolution = 756496640/262144
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalPlaneResolutionUnit = 2
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CustomRendered = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureMode = 1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneCaptureType = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ISOSpeedRatings = 
+[XMPMeta - ] exif:ISOSpeedRatings[1] = 100
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
+[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = Canon
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Model = Canon EOS-1DS
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 720000/10000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 720000/10000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2004-06-13T17:44:48+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2004-06-13T17:44:48+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2004-06-13T17:44:48+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS Windows
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = uuid:d6e58659-6272-11d8-882d-de733b57fb5c
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = adobe:docid:photoshop:8a40317d-518f-11d8-a0e9-df2d7ed1ccbb
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:24eda082-bd48-11d8-949e-d7339cf0c1ee
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:24eda083-bd48-11d8-949e-d7339cf0c1ee
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:creator = 
+[XMPMeta - ] dc:creator[1] = Studio Mantyniemi
+
+[IPTC - 0x0200] Application Record Version = 2
+[IPTC - 0x0250] By-line = Studio Mantyniemi
+
+[Photoshop - 0x0425] Caption Digest = 194 109 252 2 87 234 69 209 20 135 36 129 184 101 163 100
+[Photoshop - 0x03e9] Mac Print Info = [120 values]
+[Photoshop - 0x03ed] Resolution Info = 72x72 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = ryhmäkuva02mv (0,0,2487,4064) 1 Slices
+[Photoshop - 0x0428] Pixel Aspect Ratio = 1.0
+[Photoshop - 0x0414] Seed Number = 18
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 160x98, Decomp 47040 bytes, 1572865 bpp, 5410 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CS) 1
+[Photoshop - 0x07d0] Unknown tag (0x07d0) = [119470 values]
+[Photoshop - 0x0bb7] Clipping Path Name = 6 80 97 116 104 32 49 0 0 0 0 0 1
+
+[IPTC - 0x0200] Application Record Version = 2
+[IPTC - 0x0250] By-line = Studio Mantyniemi
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
+[Exif SubIFD - 0x829d] F-Number = f/18.0
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2003:11:25 16:05:53
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2003:11:25 16:05:53
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/63 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/18.2
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x920a] Focal Length = 63 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 4064 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2487 pixels
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 4096/11822545 inches
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 1024/2955065 inches
+[Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Manual white balance
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+
+[ICC Profile - 0x0000] Profile Size = 560
+[ICC Profile - 0x0004] CMM Type = ADBE
+[ICC Profile - 0x0008] Version = 2.1.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 1999:06:03 00:00:00
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = none
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 10
+[ICC Profile - 0x63707274] Copyright = Copyright 1999 Adobe Systems Incorporated
+[ICC Profile - 0x64657363] Profile Description = Adobe RGB (1998)
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+[ICC Profile - 0x626b7074] Media Black Point = (0, 0, 0)
+[ICC Profile - 0x72545243] Red TRC = 0.0085908
+[ICC Profile - 0x67545243] Green TRC = 0.0085908
+[ICC Profile - 0x62545243] Blue TRC = 0.0085908
+[ICC Profile - 0x7258595a] Red Colorant = (0.6097, 0.3111, 0.0195)
+[ICC Profile - 0x6758595a] Green Colorant = (0.2053, 0.6257, 0.0609)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1492, 0.0632, 0.7446)
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = 7324fcaff3aad96f27899da51c1bb5d9.tif
+[File - 0x0002] File Size = 15154924 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - IPTC
+    - Photoshop
+        - IPTC
+    - Exif SubIFD
+    - ICC Profile
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

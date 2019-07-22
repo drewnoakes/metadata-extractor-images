@@ -1,0 +1,247 @@
+FILE: Icon (1).ico
+TYPE: ICO
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 48 pixels
+[ICO - 0x0003] Image Height = 48 pixels
+[ICO - 0x0004] Colour Palette Size = 2 colours
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 1
+[ICO - 0x0009] Image Size Bytes = 816
+[ICO - 0x000a] Image Offset Bytes = 374
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 32 pixels
+[ICO - 0x0003] Image Height = 32 pixels
+[ICO - 0x0004] Colour Palette Size = 2 colours
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 1
+[ICO - 0x0009] Image Size Bytes = 304
+[ICO - 0x000a] Image Offset Bytes = 1190
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 16 pixels
+[ICO - 0x0003] Image Height = 16 pixels
+[ICO - 0x0004] Colour Palette Size = 2 colours
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 1
+[ICO - 0x0009] Image Size Bytes = 176
+[ICO - 0x000a] Image Offset Bytes = 1494
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 256 pixels
+[ICO - 0x0003] Image Height = 256 pixels
+[ICO - 0x0004] Colour Palette Size = 16 colours
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 4
+[ICO - 0x0009] Image Size Bytes = 10319
+[ICO - 0x000a] Image Offset Bytes = 1670
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 48 pixels
+[ICO - 0x0003] Image Height = 48 pixels
+[ICO - 0x0004] Colour Palette Size = 16 colours
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 4
+[ICO - 0x0009] Image Size Bytes = 1640
+[ICO - 0x000a] Image Offset Bytes = 11989
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 32 pixels
+[ICO - 0x0003] Image Height = 32 pixels
+[ICO - 0x0004] Colour Palette Size = 16 colours
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 4
+[ICO - 0x0009] Image Size Bytes = 744
+[ICO - 0x000a] Image Offset Bytes = 13629
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 24 pixels
+[ICO - 0x0003] Image Height = 24 pixels
+[ICO - 0x0004] Colour Palette Size = 16 colours
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 4
+[ICO - 0x0009] Image Size Bytes = 488
+[ICO - 0x000a] Image Offset Bytes = 14373
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 16 pixels
+[ICO - 0x0003] Image Height = 16 pixels
+[ICO - 0x0004] Colour Palette Size = 16 colours
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 4
+[ICO - 0x0009] Image Size Bytes = 296
+[ICO - 0x000a] Image Offset Bytes = 14861
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 256 pixels
+[ICO - 0x0003] Image Height = 256 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 8
+[ICO - 0x0009] Image Size Bytes = 22332
+[ICO - 0x000a] Image Offset Bytes = 15157
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 48 pixels
+[ICO - 0x0003] Image Height = 48 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 8
+[ICO - 0x0009] Image Size Bytes = 3752
+[ICO - 0x000a] Image Offset Bytes = 37489
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 32 pixels
+[ICO - 0x0003] Image Height = 32 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 8
+[ICO - 0x0009] Image Size Bytes = 2216
+[ICO - 0x000a] Image Offset Bytes = 41241
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 24 pixels
+[ICO - 0x0003] Image Height = 24 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 8
+[ICO - 0x0009] Image Size Bytes = 1736
+[ICO - 0x000a] Image Offset Bytes = 43457
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 16 pixels
+[ICO - 0x0003] Image Height = 16 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 8
+[ICO - 0x0009] Image Size Bytes = 1384
+[ICO - 0x000a] Image Offset Bytes = 45193
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 256 pixels
+[ICO - 0x0003] Image Height = 256 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 32
+[ICO - 0x0009] Image Size Bytes = 15630
+[ICO - 0x000a] Image Offset Bytes = 46577
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 128 pixels
+[ICO - 0x0003] Image Height = 128 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 32
+[ICO - 0x0009] Image Size Bytes = 67624
+[ICO - 0x000a] Image Offset Bytes = 62207
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 96 pixels
+[ICO - 0x0003] Image Height = 96 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 32
+[ICO - 0x0009] Image Size Bytes = 38056
+[ICO - 0x000a] Image Offset Bytes = 129831
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 80 pixels
+[ICO - 0x0003] Image Height = 80 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 32
+[ICO - 0x0009] Image Size Bytes = 26600
+[ICO - 0x000a] Image Offset Bytes = 167887
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 72 pixels
+[ICO - 0x0003] Image Height = 72 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 32
+[ICO - 0x0009] Image Size Bytes = 21640
+[ICO - 0x000a] Image Offset Bytes = 194487
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 64 pixels
+[ICO - 0x0003] Image Height = 64 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 32
+[ICO - 0x0009] Image Size Bytes = 16936
+[ICO - 0x000a] Image Offset Bytes = 216127
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 48 pixels
+[ICO - 0x0003] Image Height = 48 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 32
+[ICO - 0x0009] Image Size Bytes = 9640
+[ICO - 0x000a] Image Offset Bytes = 233063
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 32 pixels
+[ICO - 0x0003] Image Height = 32 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 32
+[ICO - 0x0009] Image Size Bytes = 4264
+[ICO - 0x000a] Image Offset Bytes = 242703
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 24 pixels
+[ICO - 0x0003] Image Height = 24 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 32
+[ICO - 0x0009] Image Size Bytes = 2440
+[ICO - 0x000a] Image Offset Bytes = 246967
+
+[ICO - 0x0001] Image Type = Icon
+[ICO - 0x0002] Image Width = 16 pixels
+[ICO - 0x0003] Image Height = 16 pixels
+[ICO - 0x0004] Colour Palette Size = No palette
+[ICO - 0x0005] Colour Planes = 1
+[ICO - 0x0007] Bits Per Pixel = 32
+[ICO - 0x0009] Image Size Bytes = 1128
+[ICO - 0x000a] Image Offset Bytes = 249407
+
+[File Type - 0x0001] Detected File Type Name = ICO
+[File Type - 0x0002] Detected File Type Long Name = Windows Icon
+[File Type - 0x0003] Detected MIME Type = image/x-icon
+[File Type - 0x0004] Expected File Name Extension = ico
+
+[File - 0x0001] File Name = Icon (1).ico
+[File - 0x0002] File Size = 250535 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- ICO
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

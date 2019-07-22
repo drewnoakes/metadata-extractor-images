@@ -1,0 +1,104 @@
+FILE: Pentax Optio 430.jpg
+TYPE: JPEG
+
+[ERROR: PrintIM] Invalid PrintIM header
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1680 pixels
+[JPEG - 0x0003] Image Width = 2240 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = Asahi Optical Co.,Ltd
+[Exif IFD0 - 0x0110] Model = PENTAX Optio 430 
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver1.00              
+[Exif IFD0 - 0x0132] Date/Time = 2002:01:22 11:10:48
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/500 sec
+[Exif SubIFD - 0x829d] F-Number = f/4.8
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2002:01:22 11:10:48
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2002:01:22 11:10:48
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.6
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 22.8 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2240 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1680 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+
+[Pentax Makernote - 0x0001] Capture Mode = Auto
+[Pentax Makernote - 0x0002] Quality Level = Best
+[Pentax Makernote - 0x0003] Focus Mode = Auto
+[Pentax Makernote - 0x0004] Flash Mode = Flash Off
+[Pentax Makernote - 0x0005] Unknown tag (0x0005) = 13
+[Pentax Makernote - 0x0006] Unknown tag (0x0006) = 597
+[Pentax Makernote - 0x0007] White Balance = Auto
+[Pentax Makernote - 0x0008] Unknown tag (0x0008) = 1
+[Pentax Makernote - 0x0009] Unknown tag (0x0009) = 1
+[Pentax Makernote - 0x000a] Digital Zoom = Off
+[Pentax Makernote - 0x000b] Sharpness = Normal
+[Pentax Makernote - 0x000c] Contrast = Normal
+[Pentax Makernote - 0x000d] Saturation = Normal
+[Pentax Makernote - 0x000e] Unknown tag (0x000e) = 0
+[Pentax Makernote - 0x000f] Unknown tag (0x000f) = 0
+[Pentax Makernote - 0x0010] Unknown tag (0x0010) = 0
+[Pentax Makernote - 0x0011] Unknown tag (0x0011) = 71894082
+[Pentax Makernote - 0x0012] Unknown tag (0x0012) = 16
+[Pentax Makernote - 0x0013] Unknown tag (0x0013) = 18
+[Pentax Makernote - 0x0014] ISO Speed = ISO 100
+[Pentax Makernote - 0x0015] Unknown tag (0x0015) = 0
+[Pentax Makernote - 0x0017] Colour = Normal
+[Pentax Makernote - 0x0018] Unknown tag (0x0018) = 0
+[Pentax Makernote - 0x0019] Unknown tag (0x0019) = 1
+[Pentax Makernote - 0x1000] Time Zone = 78 89 67 32
+[Pentax Makernote - 0x1001] Daylight Savings = 32 32 32 32
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 1144 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 5038 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Pentax Optio 430.jpg
+[File - 0x0002] File Size = 1656293 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Pentax Makernote
+            - PrintIM
+        - Interoperability
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

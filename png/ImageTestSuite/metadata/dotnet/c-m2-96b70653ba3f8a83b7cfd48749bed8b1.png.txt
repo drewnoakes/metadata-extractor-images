@@ -1,0 +1,7 @@
+FILE: c-m2-96b70653ba3f8a83b7cfd48749bed8b1.png
+TYPE: PNG
+
+EXCEPTION: PNG chunk type identifier may only contain alphabet characters
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

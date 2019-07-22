@@ -1,0 +1,78 @@
+FILE: Issue 154.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 815 pixels
+[JPEG - 0x0003] Image Width = 1379 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = none
+[JFIF - 0x0008] X Resolution = 180 dots
+[JFIF - 0x000a] Y Resolution = 180 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[XMP - 0xffff] XMP Value Count = 24
+
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2018-01-12T21:19:13
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = sRGB IEC61966-2.1
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2018-01-12T21:19:13
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS5 Macintosh
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2018-07-29T19:54:47+10:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2018-07-29T19:54:47+10:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = C7EE91DF85D86DA0552BEBD762A3753A
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:5AF24DF484206811999CEEA5B505DF26
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = C7EE91DF85D86DA0552BEBD762A3753A
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
+[XMPMeta - ] xmpMM:History[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:59F24DF484206811999CEEA5B505DF26
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop CS5 Macintosh
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2018-07-29T19:54:47+10:00
+[XMPMeta - ] xmpMM:History[2] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:5AF24DF484206811999CEEA5B505DF26
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:softwareAgent = Adobe Photoshop CS5 Macintosh
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:when = 2018-07-29T19:54:47+10:00
+
+[Photoshop - 0x0425] Caption Digest = 141 250 124 218 55 175 222 11 180 125 250 42 47 183 9 91
+
+[IPTC - 0x015a] Coded Character Set = UTF-8
+[IPTC - 0x0200] Application Record Version = 2
+[IPTC - 0x023f] Digital Time Created = 21:19:13
+[IPTC - 0x023e] Digital Date Created = 2018:01:12
+[IPTC - 0x0237] Date Created = 2018:01:12
+[IPTC - 0x023c] Time Created = 21:19:13
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Issue 154.jpg
+[File - 0x0002] File Size = 142211 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- XMP
+- Photoshop
+    - IPTC
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

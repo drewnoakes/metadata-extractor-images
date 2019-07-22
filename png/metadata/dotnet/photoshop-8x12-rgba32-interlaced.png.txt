@@ -1,0 +1,41 @@
+FILE: photoshop-8x12-rgba32-interlaced.png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 8
+[PNG-IHDR - 0x0002] Image Height = 12
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
+
+[PNG-tEXt - 0x000d] Textual Data = Software: Adobe ImageReady
+
+[XMP - 0xffff] XMP Value Count = 6
+
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS6 (Windows)
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:A6887AB3539911E2AE8C8C26BE1FF85C
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:A6887AB2539911E2AE8C8C26BE1FF85C
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = xmp.did:A6887AB1539911E2AE8C8C26BE1FF85C
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:A6887AB0539911E2AE8C8C26BE1FF85C
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = photoshop-8x12-rgba32-interlaced.png
+[File - 0x0002] File Size = 1100 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-tEXt
+- XMP
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

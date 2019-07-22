@@ -1,0 +1,51 @@
+FILE: m1-ed254aa9f390aab319728b42e00a73e7.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x00ff] Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 1512 pixels
+[Exif IFD0 - 0x0101] Image Height = 359 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 4 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Thunderscan
+[Exif IFD0 - 0x012e] Unknown tag (0x012e) = 0
+[Exif IFD0 - 0x010a] Fill Order = Normal
+[Exif IFD0 - 0x0111] Strip Offsets = 258 17704 32865 49809 65671 76584
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 64 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 17446 15161 16944 15862 10913 9764 bytes
+[Exif IFD0 - 0x011a] X Resolution = 7416/25 dots per unit
+[Exif IFD0 - 0x011b] Y Resolution = 7416/25 dots per unit
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+
+[Exif Thumbnail - 0x00ff] Subfile Type = Full-resolution image
+[Exif Thumbnail - 0x0100] Image Width = 1512 pixels
+[Exif Thumbnail - 0x0101] Image Height = 359 pixels
+[Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Thumbnail - 0x0103] Compression = Uncompressed
+[Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Thumbnail - 0x010a] Fill Order = Normal
+[Exif Thumbnail - 0x0111] Strip Offsets = 86598 98694 110790 122886 134982 147078
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Thumbnail - 0x0116] Rows Per Strip = 64 rows/strip
+[Exif Thumbnail - 0x0117] Strip Byte Counts = 12096 12096 12096 12096 12096 7371 bytes
+[Exif Thumbnail - 0x0e1a] Unknown tag (0x0e1a) = 7416/25
+[Exif Thumbnail - 0x011b] Y Resolution = 7416/25 dots per unit
+[Exif Thumbnail - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m1-ed254aa9f390aab319728b42e00a73e7.tif
+[File - 0x0002] File Size = 154496 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Thumbnail
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,50 @@
+FILE: Issue 62.png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 23
+[PNG-IHDR - 0x0002] Image Height = 25
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-sBIT - 0x0013] Significant Bits = 8 8 8 8
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 2800
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 2800
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[PNG-tEXt - 0x000d] Textual Data = Creation Time: 6/16/09
+
+[PNG-tEXt - 0x000d] Textual Data = Software: Adobe Fireworks CS3
+
+[XMP - 0xffff] XMP Value Count = 4
+
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Fireworks CS3
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2009-06-16T14:57:56Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2009-06-16T14:58:15Z
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/png
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = Issue 62.png
+[File - 0x0002] File Size = 47975 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-sBIT
+- PNG-pHYs
+- PNG-tEXt
+- PNG-tEXt
+- XMP
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

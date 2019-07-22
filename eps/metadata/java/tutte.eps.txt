@@ -1,0 +1,25 @@
+FILE: tutte.eps
+TYPE: EPS
+
+[EPS - 0x0006] Creator = ps_write.f90
+[EPS - 0x000e] Title = tutte.eps
+[EPS - 0x0005] Creation Date = 20020904
+[EPS - 0x000b] Pages = 1
+[EPS - 0x0003] Bounding Box = 36    36   576   756
+[EPS - 0x0013] Language Level = 1
+
+[File Type - 0x0001] Detected File Type Name = EPS
+[File Type - 0x0002] Detected File Type Long Name = Encapsulated PostScript
+[File Type - 0x0003] Detected MIME Type = application/postscript
+[File Type - 0x0004] Expected File Name Extension = eps
+
+[File - 0x0001] File Name = tutte.eps
+[File - 0x0002] File Size = 10776 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- EPS
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

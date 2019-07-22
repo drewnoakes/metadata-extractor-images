@@ -1,0 +1,35 @@
+FILE: m1-2743db7c68f091ddc61dcd582febff2d.tif
+TYPE: ARW
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x01b5] Unknown tag (0x01b5) = 1920
+[Exif IFD0 - 0x0101] Image Height = 2704 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = T6/Group 4 Fax
+[Exif IFD0 - 0x01d4] Unknown tag (0x01d4) = 0
+[Exif IFD0 - 0x010a] Fill Order = Reversed
+[Exif IFD0 - 0x0111] Strip Offsets = 222
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 2704 rows/strip
+[Exif IFD0 - 0x011a] X Resolution = 240 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 240 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0125] Unknown tag (0x0125) = 1
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = m1-2743db7c68f091ddc61dcd582febff2d.tif
+[File - 0x0002] File Size = 17431 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

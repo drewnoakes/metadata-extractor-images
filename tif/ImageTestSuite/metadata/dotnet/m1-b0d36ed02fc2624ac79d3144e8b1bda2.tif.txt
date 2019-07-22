@@ -1,0 +1,39 @@
+FILE: m1-b0d36ed02fc2624ac79d3144e8b1bda2.tif
+TYPE: TIFF
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+
+[Exif IFD0 - 0x0100] Image Width = 1024 pixels
+[Exif IFD0 - 0x0101] Image Height = 768 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x010e] Image Description = Composer: Untitled, frame 0
+[Exif IFD0 - 0x0111] Strip Offsets = 8
+[Exif IFD0 - 0x6912] Unknown tag (0x6912) = 1
+[Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
+[Exif IFD0 - 0xa417] Unknown tag (0xa417) = 485366
+[Exif IFD0 - 0x011a] X Resolution = 1 dots per (no unit)
+[Exif IFD0 - 0x011b] Y Resolution = 16773021/16777216 dots per (no unit)
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = (No unit)
+[Exif IFD0 - 0x0131] Software = Co�poser
+[Exif IFD0 - 0x0132] Date/Time = Tue May  7 21:48:30 2002
+[Exif IFD0 - 0x013b] Artist = maya
+[Exif IFD0 - 0x013c] Host Computer = thor
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m1-b0d36ed02fc2624ac79d3144e8b1bda2.tif
+[File - 0x0002] File Size = 486219 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

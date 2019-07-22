@@ -1,0 +1,17 @@
+FILE: sample_mpeg2.m2v
+TYPE: VOB
+
+[File Type - 0x0001] Detected File Type Name = VOB
+[File Type - 0x0002] Detected File Type Long Name = Video Object
+[File Type - 0x0003] Detected MIME Type = video/dvd
+[File Type - 0x0004] Expected File Name Extension = .vob
+
+[File - 0x0001] File Name = sample_mpeg2.m2v
+[File - 0x0002] File Size = 1345348 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

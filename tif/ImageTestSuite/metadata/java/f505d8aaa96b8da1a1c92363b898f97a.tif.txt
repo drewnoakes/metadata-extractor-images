@@ -1,0 +1,159 @@
+FILE: f505d8aaa96b8da1a1c92363b898f97a.tif
+TYPE: ARW
+
+[Exif IFD0 - 0x0100] Image Width = 350 pixels
+[Exif IFD0 - 0x0101] Image Height = 233 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0111] Strip Offsets = 166243
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 233 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 244650 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Capture NX 2.0.0 W
+[Exif IFD0 - 0x0132] Date/Time = 2008:11:11 22:18:57
+
+[XMP - 0xffff] XMP Value Count = 31
+
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 890
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 593
+[XMPMeta - ] tiff:BitsPerSample[1] = 8
+[XMPMeta - ] tiff:BitsPerSample[2] = 8
+[XMPMeta - ] tiff:BitsPerSample[3] = 8
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Compression = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:PhotometricInterpretation = 2
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:SamplesPerPixel = 3
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:PlanarConfiguration = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 720000/10000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 720000/10000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:NativeDigest = 256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;0C2C56F4C8F8B57682DDEAD810880611
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2008-11-11T22:09:13+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS3 Windows
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2008-11-11T22:08:01+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2008-11-11T22:09:13+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0220
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FlashpixVersion = 0100
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = -1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 890
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 593
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:NativeDigest = 36864,40960,40961,37121,37122,40962,40963,37510,40964,36867,36868,33434,33437,34850,34852,34855,34856,37377,37378,37379,37380,37381,37382,37383,37384,37385,37386,37396,41483,41484,41486,41487,41488,41492,41493,41495,41728,41729,41730,41985,41986,41987,41988,41989,41990,41991,41992,41993,41994,41995,41996,42016,0,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,30;D1B22B07E4EABF7F313591B6AB47723F
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = Nikon Adobe RGB 4.0.0.3000
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:22029AD434B0DD11A3F1DC3DDA292AC2
+[XMPMeta - http://ns.microsoft.com/photo/1.0] MicrosoftPhoto_1_:Rating = 0
+
+[XMP - 0xffff] XMP Value Count = 31
+
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 890
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 593
+[XMPMeta - ] tiff:BitsPerSample[1] = 8
+[XMPMeta - ] tiff:BitsPerSample[2] = 8
+[XMPMeta - ] tiff:BitsPerSample[3] = 8
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Compression = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:PhotometricInterpretation = 2
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:SamplesPerPixel = 3
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:PlanarConfiguration = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 720000/10000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 720000/10000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:NativeDigest = 256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;0C2C56F4C8F8B57682DDEAD810880611
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2008-11-11T22:09:13+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS3 Windows
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2008-11-11T22:08:01+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2008-11-11T22:09:13+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0220
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FlashpixVersion = 0100
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = -1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 890
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 593
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:NativeDigest = 36864,40960,40961,37121,37122,40962,40963,37510,40964,36867,36868,33434,33437,34850,34852,34855,34856,37377,37378,37379,37380,37381,37382,37383,37384,37385,37386,37396,41483,41484,41486,41487,41488,41492,41493,41495,41728,41729,41730,41985,41986,41987,41988,41989,41990,41991,41992,41993,41994,41995,41996,42016,0,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,30;D1B22B07E4EABF7F313591B6AB47723F
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = Nikon Adobe RGB 4.0.0.3000
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:22029AD434B0DD11A3F1DC3DDA292AC2
+[XMPMeta - http://ns.microsoft.com/photo/1.0] MicrosoftPhoto_1_:Rating = 0
+
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x927c] Makernote = [218 values]
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = Undefined
+
+[ICC Profile - 0x0000] Profile Size = 2756
+[ICC Profile - 0x0004] CMM Type = ADBE
+[ICC Profile - 0x0008] Version = 2.1.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 2008:05:07 23:43:04
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
+[ICC Profile - 0x0030] Device manufacturer = IEC 
+[ICC Profile - 0x0034] Device model = sRGB
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 18
+[ICC Profile - 0x63707274] Copyright = Copyright (c) 1998 Hewlett-Packard Company Modified using Adobe Gamma
+[ICC Profile - 0x64657363] Profile Description = sRGB IEC61966-2.1
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+[ICC Profile - 0x626b7074] Media Black Point = (0, 0, 0)
+[ICC Profile - 0x7258595a] Red Colorant = (0.436, 0.2225, 0.0139)
+[ICC Profile - 0x6758595a] Green Colorant = (0.3852, 0.7169, 0.0971)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.143, 0.0606, 0.7139)
+[ICC Profile - 0x646d6e64] Device Mfg Description = IEC http://www.iec.ch
+[ICC Profile - 0x646d6464] Device Model Description = IEC 61966-2.1 Default RGB colour space - sRGB
+[ICC Profile - 0x76756564] Viewing Conditions Description = Reference Viewing Condition in IEC61966-2.1
+[ICC Profile - 0x76696577] Viewing Conditions = view (0x76696577): 36 bytes
+[ICC Profile - 0x6c756d69] Luminance = (76.0365, 80, 87.1246)
+[ICC Profile - 0x6d656173] Measurement = 1931 2° Observer, Backing (0, 0, 0), Geometry Unknown, Flare 1%, Illuminant D65
+[ICC Profile - 0x74656368] Technology = CRT 
+[ICC Profile - 0x72545243] Red TRC = 0.0085908
+[ICC Profile - 0x67545243] Green TRC = 0.0085908
+[ICC Profile - 0x62545243] Blue TRC = 0.0085908
+[ICC Profile - 0x76636774] Video Card Gamma = vcgt (0x76636774): 1584 bytes
+
+[Exif Thumbnail - 0x0100] Image Width = 160 pixels
+[Exif Thumbnail - 0x0101] Image Height = 106 pixels
+[Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif Thumbnail - 0x0103] Compression = Uncompressed
+[Exif Thumbnail - 0x0106] Photometric Interpretation = RGB
+[Exif Thumbnail - 0x0111] Strip Offsets = 34259
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif Thumbnail - 0x0116] Rows Per Strip = 106 rows/strip
+[Exif Thumbnail - 0x0117] Strip Byte Counts = 50880 bytes
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = f505d8aaa96b8da1a1c92363b898f97a.tif
+[File - 0x0002] File Size = 410893 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - XMP
+    - Exif SubIFD
+    - ICC Profile
+    - Exif Thumbnail
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

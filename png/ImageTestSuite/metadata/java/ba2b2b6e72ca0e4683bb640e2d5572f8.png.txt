@@ -1,0 +1,50 @@
+FILE: ba2b2b6e72ca0e4683bb640e2d5572f8.png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 218
+[PNG-IHDR - 0x0002] Image Height = 265
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG Chromaticities - 0x0001] White Point X = 31270
+[PNG Chromaticities - 0x0002] White Point Y = 32900
+[PNG Chromaticities - 0x0003] Red X = 64000
+[PNG Chromaticities - 0x0004] Red Y = 33000
+[PNG Chromaticities - 0x0005] Green X = 30000
+[PNG Chromaticities - 0x0006] Green Y = 60000
+[PNG Chromaticities - 0x0007] Blue X = 15000
+[PNG Chromaticities - 0x0008] Blue Y = 6000
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
+
+[PNG-sRGB - 0x000a] sRGB Rendering Intent = Perceptual
+
+[PNG-bKGD - 0x000f] Background Color = R 255, G 255, B 255
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 3780
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 3780
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = ba2b2b6e72ca0e4683bb640e2d5572f8.png
+[File - 0x0002] File Size = 38905 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG Chromaticities
+- PNG-gAMA
+- PNG-sRGB
+- PNG-bKGD
+- PNG-pHYs
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

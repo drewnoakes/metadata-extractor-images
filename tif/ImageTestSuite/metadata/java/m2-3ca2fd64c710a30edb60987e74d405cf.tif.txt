@@ -1,0 +1,34 @@
+FILE: m2-3ca2fd64c710a30edb60987e74d405cf.tif
+TYPE: TIFF
+
+[ERROR: Exif IFD0] Invalid TIFF tag format code 160 for tag 0x01DA
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 16 for tag 0x0115
+[ERROR: Exif IFD0] Invalid TIFF tag format code 76 for tag 0x0117
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 7272 pixels
+[Exif IFD0 - 0x0101] Image Height = 5440 pixels
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x0116] Rows Per Strip = 5441 rows/strip
+[Exif IFD0 - 0xa319] Unknown tag (0xa319) = 1
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per unit
+[Exif IFD0 - 0x011c] Planar Configuration = Unknown (37)
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m2-3ca2fd64c710a30edb60987e74d405cf.tif
+[File - 0x0002] File Size = 54729 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

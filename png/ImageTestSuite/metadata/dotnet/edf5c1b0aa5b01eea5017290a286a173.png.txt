@@ -1,0 +1,34 @@
+FILE: edf5c1b0aa5b01eea5017290a286a173.png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 103
+[PNG-IHDR - 0x0002] Image Height = 125
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 7874
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 7874
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[PNG-zTXt - 0x000d] Textual Data = Company: ArcSoft (hangzhou)
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = edf5c1b0aa5b01eea5017290a286a173.png
+[File - 0x0002] File Size = 23862 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-pHYs
+- PNG-zTXt
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,124 @@
+FILE: Samsung NX1.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 4320 pixels
+[JPEG - 0x0003] Image Width = 6480 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010e] Image Description = SAMSUNG CSC
+[Exif IFD0 - 0x010f] Make = SAMSUNG
+[Exif IFD0 - 0x0110] Model = NX1
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 350 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 350 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 1.01
+[Exif IFD0 - 0x0132] Date/Time = 2014:12:09 11:30:12
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/320 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.8
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0x9003] Date/Time Original = 2014:12:09 11:30:12
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2014:12:09 11:30:12
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 150 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 6480 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 4320 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 231 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa500] Gamma = 0
+[Exif SubIFD - 0xa434] Lens Model = NX 50-150mm F2.8 S
+[Exif SubIFD - 0xa432] Lens Specification = 50-150mm f/2.8
+
+[Samsung Makernote - 0x0001] Maker Note Version = 1.00
+[Samsung Makernote - 0x0002] Device Type = High-end NX Camera
+[Samsung Makernote - 0x0003] Model Id = Various Models (0x5001038)
+[Samsung Makernote - 0x0004] Unknown tag (0x0004) = 0 7 0 0 0 4 48 49 48 48 160 1 0 3 0 0
+[Samsung Makernote - 0x000e] Unknown tag (0x000e) = 65537 40962
+[Samsung Makernote - 0x0020] Unknown tag (0x0020) = 0 0
+[Samsung Makernote - 0x0021] Unknown tag (0x0021) = 4 0 1 0 6480
+[Samsung Makernote - 0x0022] Unknown tag (0x0022) = 65537
+[Samsung Makernote - 0x0023] Unknown tag (0x0023) = 
+[Samsung Makernote - 0x0025] Unknown tag (0x0025) = 0
+[Samsung Makernote - 0x002a] Unknown tag (0x002a) = 0 0 0 0
+[Samsung Makernote - 0x0035] Unknown tag (0x0035) = 1274346903
+[Samsung Makernote - 0x003a] Unknown tag (0x003a) = 0 0
+[Samsung Makernote - 0x003b] Unknown tag (0x003b) = 0 0
+[Samsung Makernote - 0x003c] Unknown tag (0x003c) = 0
+[Samsung Makernote - 0x003d] Unknown tag (0x003d) = 4 0 1 0 4320
+[Samsung Makernote - 0x003e] Unknown tag (0x003e) = 0
+[Samsung Makernote - 0x0041] Unknown tag (0x0041) = 0
+[Samsung Makernote - 0x0040] Unknown tag (0x0040) = 0
+[Samsung Makernote - 0x0043] Camera Temperature = -1610285052 C
+[Samsung Makernote - 0x004a] Unknown tag (0x004a) = 48822 2719416323 1 131072 2751594499 1 0
+[Samsung Makernote - 0x001f] Unknown tag (0x001f) = 1
+[Samsung Makernote - 0x0060] Unknown tag (0x0060) = [6000 values]
+[Samsung Makernote - 0x0080] Unknown tag (0x0080) = [22000 values]
+[Samsung Makernote - 0x00a0] Unknown tag (0x00a0) = [8500 values]
+[Samsung Makernote - 0x00a1] Unknown tag (0x00a1) = [8500 values]
+[Samsung Makernote - 0x00c0] Unknown tag (0x00c0) = [2048 values]
+[Samsung Makernote - 0x00e0] Unknown tag (0x00e0) = 0
+[Samsung Makernote - 0x0100] Face Detect = Off
+[Samsung Makernote - 0x0120] Face Recognition = Off
+[Samsung Makernote - 0x00c7] Unknown tag (0x00c7) = [380 values]
+[Samsung Makernote - 0x0123] Face Name = 
+[Samsung Makernote - 0x0140] Unknown tag (0x0140) = 0 0
+[Samsung Makernote - 0xa000] Unknown tag (0xa000) = 0
+[Samsung Makernote - 0xa001] Firmware Name = 
+[Samsung Makernote - 0xa002] Unknown tag (0xa002) = 
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 350 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 350 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 48946 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 9777 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Samsung NX1.jpg
+[File - 0x0002] File Size = 5884527 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Samsung Makernote
+        - Interoperability
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

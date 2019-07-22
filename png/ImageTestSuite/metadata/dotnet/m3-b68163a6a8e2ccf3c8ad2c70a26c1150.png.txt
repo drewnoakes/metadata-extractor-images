@@ -1,0 +1,7 @@
+FILE: m3-b68163a6a8e2ccf3c8ad2c70a26c1150.png
+TYPE: PNG
+
+EXCEPTION: PNG chunk type identifier may only contain alphabet characters
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

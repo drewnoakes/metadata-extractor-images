@@ -1,0 +1,7 @@
+FILE: m1-8f2b481b7fd9bd745e620b7c01a18df2.png
+TYPE: PNG
+
+EXCEPTION: End of data reached.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

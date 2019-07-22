@@ -1,0 +1,20 @@
+FILE: e34116d68f49c7852b362ec72a636df5.gif
+TYPE: GIF
+
+[ERROR: Error] IOException processing GIF data
+
+[File Type - 0x0001] Detected File Type Name = GIF
+[File Type - 0x0002] Detected File Type Long Name = Graphics Interchange Format
+[File Type - 0x0003] Detected MIME Type = image/gif
+[File Type - 0x0004] Expected File Name Extension = gif
+
+[File - 0x0001] File Name = e34116d68f49c7852b362ec72a636df5.gif
+[File - 0x0002] File Size = 10 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Error
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

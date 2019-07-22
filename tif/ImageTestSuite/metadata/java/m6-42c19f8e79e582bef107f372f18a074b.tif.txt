@@ -1,0 +1,7 @@
+FILE: m6-42c19f8e79e582bef107f372f18a074b.tif
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

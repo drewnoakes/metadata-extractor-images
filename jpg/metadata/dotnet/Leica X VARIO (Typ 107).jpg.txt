@@ -1,0 +1,107 @@
+FILE: Leica X VARIO (Typ 107).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2856 pixels
+[JPEG - 0x0003] Image Width = 4272 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = LEICA CAMERA AG        
+[Exif IFD0 - 0x0110] Model = LEICA X VARIO (Typ 107)
+[Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 1.0                            
+[Exif IFD0 - 0x0132] Date/Time = 2014:04:04 11:04:14
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/80 sec
+[Exif SubIFD - 0x829d] F-Number = f/6.4
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 1000
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2014:04:04 11:04:14
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2014:04:04 11:04:14
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 46 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4272 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2856 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 70 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Landscape
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+[Leica Makernote - 0x0302] Unknown tag (0x0302) = 255 0 0 0
+[Leica Makernote - 0x0303] Lens Model = 4706612
+[Leica Makernote - 0x0304] Unknown tag (0x0304) = 0 0 0 0
+[Leica Makernote - 0x0400] Unknown tag (0x0400) = 0 0 0 0
+[Leica Makernote - 0x0401] Unknown tag (0x0401) = 0 3 6 0
+[Leica Makernote - 0x0402] Unknown tag (0x0402) = 0 0 0 0
+[Leica Makernote - 0x0404] Unknown tag (0x0404) = 1 0 0 0
+[Leica Makernote - 0x0405] Unknown tag (0x0405) = 0 0 0 0
+[Leica Makernote - 0x0406] Unknown tag (0x0406) = 3 3 3 3
+[Leica Makernote - 0x0407] Original File Name = L9996140.JPG
+[Leica Makernote - 0x0408] Original Directory = 999LEICA
+[Leica Makernote - 0x040a] Unknown tag (0x040a) = 50339 46000 0 0
+[Leica Makernote - 0x040b] Unknown tag (0x040b) = 1 1 0 0
+[Leica Makernote - 0x040c] Unknown tag (0x040c) = 0 0 0 0
+[Leica Makernote - 0x040d] Exposure Mode = Aperture-priority AE (1)
+[Leica Makernote - 0x040e] Unknown tag (0x040e) = 255 0 0 0
+[Leica Makernote - 0x040f] Unknown tag (0x040f) = 1 3 0 0
+[Leica Makernote - 0x0410] Shot Info = 252 23 14 4 11 4 4 222 7 52 209 71 0 0 0 0
+[Leica Makernote - 0x0411] Unknown tag (0x0411) = 1 0 0 0
+[Leica Makernote - 0x0412] Film Mode = Standard
+[Leica Makernote - 0x0413] WB RGB Levels = 256/510 512/512 256/561
+[Leica Makernote - 0x04ff] Unknown tag (0x04ff) = [852 values]
+[Leica Makernote - 0x0500] Unknown tag (0x0500) = 48 48 48 48 48 48 48 48 48 48 48 48
+[Leica Makernote - 0x05ff] Unknown tag (0x05ff) = [4540 values]
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 11460 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 6856 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Leica X VARIO (Typ 107).jpg
+[File - 0x0002] File Size = 5216861 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Leica Makernote
+        - Interoperability
+    - Exif Thumbnail
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

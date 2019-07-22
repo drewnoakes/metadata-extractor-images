@@ -1,0 +1,64 @@
+FILE: 9a3e0c7b687b526987e2270541002d47.png
+TYPE: PNG
+
+[ERROR: PNG-zTXt] Exception decompressing PNG zTXt chunk with keyword "Software": incorrect data check
+[ERROR: PNG-zTXt] Invalid compression method value
+
+[PNG-IHDR - 0x0001] Image Width = 55
+[PNG-IHDR - 0x0002] Image Height = 74
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
+
+[PNG-sRGB - 0x000a] sRGB Rendering Intent = Perceptual
+
+[PNG Chromaticities - 0x0001] White Point X = 31270
+[PNG Chromaticities - 0x0002] White Point Y = 32900
+[PNG Chromaticities - 0x0003] Red X = 64000
+[PNG Chromaticities - 0x0004] Red Y = 33000
+[PNG Chromaticities - 0x0005] Green X = 30000
+[PNG Chromaticities - 0x0006] Green Y = 60000
+[PNG Chromaticities - 0x0007] Blue X = 15000
+[PNG Chromaticities - 0x0008] Blue Y = 6000
+
+[PNG-bKGD - 0x000f] Background Color = R 255, G 255, B 255
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 72
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 72
+[PNG-pHYs - 0x0012] Unit Specifier = Unspecified
+
+[PNG-zTXt - 0x000d] Textual Data = Thumb::Document::Pages: 1
+
+[PNG-zTXt - 0x000d] Textual Data = Thumb::Image::height: 500
+
+[PNG-zTXt - 0x000d] Textual Data = Thumb::Image::Width: 373
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = 9a3e0c7b687b526987e2270541002d47.png
+[File - 0x0002] File Size = 8941 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-gAMA
+- PNG-sRGB
+- PNG Chromaticities
+- PNG-bKGD
+- PNG-pHYs
+- PNG-zTXt
+- PNG-zTXt
+- PNG-zTXt
+- PNG-zTXt
+- PNG-zTXt
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

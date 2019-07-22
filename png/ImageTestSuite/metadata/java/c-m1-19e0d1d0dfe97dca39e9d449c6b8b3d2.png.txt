@@ -1,0 +1,37 @@
+FILE: c-m1-19e0d1d0dfe97dca39e9d449c6b8b3d2.png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 366
+[PNG-IHDR - 0x0002] Image Height = 96
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = Greyscale with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
+
+[PNG-sBIT - 0x0013] Significant Bits = 8 8
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 2834
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 2834
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[PNG-tEXt - 0x000d] Textual Data = Software: Macromedia Fireworks 8
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = c-m1-19e0d1d0dfe97dca39e9d449c6b8b3d2.png
+[File - 0x0002] File Size = 26713 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-sBIT
+- PNG-pHYs
+- PNG-tEXt
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

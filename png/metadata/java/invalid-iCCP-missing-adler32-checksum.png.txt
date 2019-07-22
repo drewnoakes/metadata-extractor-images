@@ -1,0 +1,73 @@
+FILE: invalid-iCCP-missing-adler32-checksum.png
+TYPE: PNG
+
+[ERROR: ICC Profile] Exception reading ICC profile: Unexpected end of ZLIB input stream
+
+[PNG-IHDR - 0x0001] Image Width = 460
+[PNG-IHDR - 0x0002] Image Height = 60
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color with Alpha
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[ICC Profile - 0x0000] Profile Size = 3144
+[ICC Profile - 0x0004] CMM Type = Lino
+[ICC Profile - 0x0008] Version = 2.1.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 1998:02:09 06:49:00
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
+[ICC Profile - 0x0030] Device manufacturer = IEC 
+[ICC Profile - 0x0034] Device model = sRGB
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 17
+[ICC Profile - 0x63707274] Copyright = Copyright (c) 1998 Hewlett-Packard Company
+[ICC Profile - 0x64657363] Profile Description = sRGB IEC61966-2.1
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+[ICC Profile - 0x626b7074] Media Black Point = (0, 0, 0)
+[ICC Profile - 0x7258595a] Red Colorant = (0.4361, 0.2225, 0.0139)
+[ICC Profile - 0x6758595a] Green Colorant = (0.3851, 0.7169, 0.0971)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1431, 0.0606, 0.7141)
+[ICC Profile - 0x646d6e64] Device Mfg Description = IEC http://www.iec.ch
+[ICC Profile - 0x646d6464] Device Model Description = IEC 61966-2.1 Default RGB colour space - sRGB
+[ICC Profile - 0x76756564] Viewing Conditions Description = Reference Viewing Condition in IEC61966-2.1
+[ICC Profile - 0x76696577] Viewing Conditions = view (0x76696577): 36 bytes
+[ICC Profile - 0x6c756d69] Luminance = (76.0365, 80, 87.1246)
+[ICC Profile - 0x6d656173] Measurement = 1931 2° Observer, Backing (0, 0, 0), Geometry Unknown, Flare 1%, Illuminant D65
+[ICC Profile - 0x74656368] Technology = CRT 
+
+[PNG-iCCP - 0x000c] ICC Profile Name = Photoshop ICC profile
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
+
+[PNG Chromaticities - 0x0001] White Point X = 31269
+[PNG Chromaticities - 0x0002] White Point Y = 32899
+[PNG Chromaticities - 0x0003] Red X = 63999
+[PNG Chromaticities - 0x0004] Red Y = 32998
+[PNG Chromaticities - 0x0005] Green X = 29998
+[PNG Chromaticities - 0x0006] Green Y = 59999
+[PNG Chromaticities - 0x0007] Blue X = 14999
+[PNG Chromaticities - 0x0008] Blue Y = 5999
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = invalid-iCCP-missing-adler32-checksum.png
+[File - 0x0002] File Size = 22661 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-iCCP
+    - ICC Profile
+- PNG-gAMA
+- PNG Chromaticities
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,142 @@
+FILE: Nikon D70.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2000 pixels
+[JPEG - 0x0003] Image Width = 3008 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = NIKON CORPORATION
+[Exif IFD0 - 0x0110] Model = NIKON D70
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Nikon Transfer 6.2.1 W
+[Exif IFD0 - 0x0132] Date/Time = 2004:11:22 00:29:43
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
+[Exif SubIFD - 0x829d] F-Number = f/4.5
+[Exif SubIFD - 0x8822] Exposure Program = Unknown (0)
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2004:11:21 21:29:12
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2004:11:21 21:29:12
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/4.4
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash fired, return detected, auto, red-eye reduction
+[Exif SubIFD - 0x920a] Focal Length = 70 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0x9290] Sub-Sec Time = 20
+[Exif SubIFD - 0x9291] Sub-Sec Time Original = 20
+[Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 20
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 3008 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2000 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa302] CFA Pattern = [Blue,Green][Green,Red]
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 105 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = None
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+
+[Nikon Makernote - 0x0001] Firmware Version = 2.00
+[Nikon Makernote - 0x0002] ISO = ISO 400
+[Nikon Makernote - 0x0004] Quality & File Format = NORMAL 
+[Nikon Makernote - 0x0005] White Balance = AUTO        
+[Nikon Makernote - 0x0006] Sharpening = AUTO  
+[Nikon Makernote - 0x0007] AF Type = MANUAL
+[Nikon Makernote - 0x0008] Flash Sync Mode = RED-EYE     
+[Nikon Makernote - 0x0009] Auto Flash Mode = Built-in,TTL
+[Nikon Makernote - 0x000b] White Balance Fine = 0
+[Nikon Makernote - 0x000c] White Balance RB Coefficients = 10242/1 34305/1 0/1 0/1
+[Nikon Makernote - 0x000d] Program Shift = 0 EV
+[Nikon Makernote - 0x000e] Exposure Difference = -1.5 EV
+[Nikon Makernote - 0x0011] Preview IFD = 1379
+[Nikon Makernote - 0x0012] Auto Flash Compensation = 0 EV
+[Nikon Makernote - 0x0013] ISO = 0 400
+[Nikon Makernote - 0x0016] Image Boundary = 0 0 49163 53255
+[Nikon Makernote - 0x0017] Flash Exposure Compensation = 0 EV
+[Nikon Makernote - 0x0018] Flash Bracket Compensation = 0 EV
+[Nikon Makernote - 0x0019] AE Bracket Compensation = 0
+[Nikon Makernote - 0x0081] Tone Compensation = AUTO    
+[Nikon Makernote - 0x0083] Lens Type = AF, D, G
+[Nikon Makernote - 0x0084] Lens = 18-70mm f/3.5-4.5
+[Nikon Makernote - 0x0087] Flash Used = Fired, TTL Mode
+[Nikon Makernote - 0x0089] Shooting Mode = Continuous
+[Nikon Makernote - 0x008a] Unknown 20 = 0
+[Nikon Makernote - 0x008b] Lens Stops = 5.33 EV
+[Nikon Makernote - 0x008d] Colour Mode = Mode I (sRGB)
+[Nikon Makernote - 0x0090] Light source = SPEEDLIGHT 
+[Nikon Makernote - 0x0091] Shot Info = [465 values]
+[Nikon Makernote - 0x0092] Camera Hue Adjustment = 0 degrees
+[Nikon Makernote - 0x0095] Noise Reduction = OFF 
+[Nikon Makernote - 0x0097] Color Balance = [140 values]
+[Nikon Makernote - 0x0098] Lens Data = [31 values]
+[Nikon Makernote - 0x009a] Sensor Pixel Size = 78/10 78/10
+[Nikon Makernote - 0x00a0] Camera Serial Number = NO= 00002539        
+[Nikon Makernote - 0x00a2] Image Data Size = 1564851
+[Nikon Makernote - 0x00a3] Unknown 27 = 0
+[Nikon Makernote - 0x00a7] Exposure Sequence Number = 5062
+[Nikon Makernote - 0x00aa] Saturation = NORMAL
+[Nikon Makernote - 0x00ab] Digital Vari Program = AUTO
+[Nikon Makernote - 0x0e10] Nikon Scan = 1473
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 2437 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 8741 bytes
+
+[IPTC - 0x0250] By-line = Drew Noakes
+[IPTC - 0x026e] Credit = Drew Noakes
+[IPTC - 0x025a] City = London
+[IPTC - 0x0265] Country/Primary Location Name = England
+[IPTC - 0x0274] Copyright Notice = http://drewnoakes.com
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Nikon D70.jpg
+[File - 0x0002] File Size = 1602061 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Nikon Makernote
+        - Interoperability
+    - Exif Thumbnail
+- Photoshop
+    - IPTC
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,17 @@
+FILE: 6903d4538fd33c8fd0ded32cb30d618e.jpg
+TYPE: JPEG
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = 6903d4538fd33c8fd0ded32cb30d618e.jpg
+[File - 0x0002] File Size = 613 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

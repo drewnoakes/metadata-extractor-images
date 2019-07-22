@@ -1,0 +1,7 @@
+FILE: m3-6bfb149151f58d124d6fa76eaad75520.png
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

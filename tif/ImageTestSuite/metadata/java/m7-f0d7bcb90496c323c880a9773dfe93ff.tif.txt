@@ -1,0 +1,33 @@
+FILE: m7-f0d7bcb90496c323c880a9773dfe93ff.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x0100] Image Width = 512 pixels
+[Exif IFD0 - 0x0101] Image Height = 384 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = JPEG
+[Exif IFD0 - 0x0106] Photometric Interpretation = YCbCr
+[Exif IFD0 - 0x0111] Strip Offsets = [70 values]
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 16 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 167 167 291 1594 1456 1450 1441 1114 167 575 1635 1571 1452 1447 652 167 1028 1563 1427 1404 1499 818 167 167 bytes
+[Exif IFD0 - 0x013c] Host Computer = 1
+[Exif IFD0 - 0x011e] Unknown tag (0x011e) = 0
+[Exif IFD0 - 0x011f] Unknown tag (0x011f) = 0
+[Exif IFD0 - 0x015b] JPEG Tables = [574 values]
+[Exif IFD0 - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m7-f0d7bcb90496c323c880a9773dfe93ff.tif
+[File - 0x0002] File Size = 24428 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

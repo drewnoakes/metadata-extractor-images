@@ -1,0 +1,37 @@
+FILE: m1-3562055aecf63b573f8a18c4034a4a23.tif
+TYPE: TIFF
+
+[ERROR: Exif IFD0] Invalid TIFF tag format code 9477 for tag 0x011B
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+
+[Exif IFD0 - 0x0100] Image Width = 2653 pixels
+[Exif IFD0 - 0x0101] Image Height = 3379 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = T6/Group 4 Fax
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x010a] Fill Order = Reversed
+[Exif IFD0 - 0x010d] Document Name = gothic_tiffs//B350.tiff
+[Exif IFD0 - 0x0111] Strip Offsets = 8
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x01b4] Unknown tag (0x01b4) = 1
+[Exif IFD0 - 0x013c] Host Computer = 3379
+[Exif IFD0 - 0x0117] Strip Byte Counts = 68316 bytes
+[Exif IFD0 - 0x011a] X Resolution = 15482225/131072 dots per unknown (12291)
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Unknown (12291)
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m1-3562055aecf63b573f8a18c4034a4a23.tif
+[File - 0x0002] File Size = 68637 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

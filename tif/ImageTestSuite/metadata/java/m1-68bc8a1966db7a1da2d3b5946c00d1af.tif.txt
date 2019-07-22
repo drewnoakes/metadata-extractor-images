@@ -1,0 +1,37 @@
+FILE: m1-68bc8a1966db7a1da2d3b5946c00d1af.tif
+TYPE: ARW
+
+[ERROR: Exif IFD0] Invalid TIFF tag format code 56324 for tag 0x00FE
+
+[Exif IFD0 - 0x0100] Image Width = 3306 pixels
+[Exif IFD0 - 0x0101] Image Height = 2368 pixels
+[Exif IFD0 - 0x014c] Unknown tag (0x014c) = 1
+[Exif IFD0 - 0x0103] Compression = T6/Group 4 Fax
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x010a] Fill Order = Normal
+[Exif IFD0 - 0x0111] Strip Offsets = [32 values]
+[Exif IFD0 - 0x7112] Unknown tag (0x7112) = 1
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 76 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1869 9119 13525 17375 20522 23573 24599 31008 32004 35147 35404 34840 35409 34168 36513 35393 36897 35726 35465 32836 30157 26397 4244660001 22443 19247 16308 12224 13000 9171 9168 5038 81 bytes
+[Exif IFD0 - 0x011a] X Resolution = 200 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 200/38401 dots per inch
+[Exif IFD0 - 0x0125] Unknown tag (0x0125) = 0
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Oi/GFS, writer v00.06.02
+[Exif IFD0 - 0xf4a6] Unknown tag (0xf4a6) = 
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = m1-68bc8a1966db7a1da2d3b5946c00d1af.tif
+[File - 0x0002] File Size = 749524 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

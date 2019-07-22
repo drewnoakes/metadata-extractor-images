@@ -1,0 +1,43 @@
+FILE: m1-1b5df699719c4a7cc8314ab9af139405.png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 200
+[PNG-IHDR - 0x0002] Image Height = 171
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
+
+[PNG-tEXt - 0x000d] Textual Data = Creation Time: Wed 5 Apr 2006 13:33:39 -0000
+
+[PNG-tIME - 0x000e] Last Modification Time = 2006:04:05 13:09:43
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 2834
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 2834
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
+
+[PNG-tRNS - 0x0009] Palette Has Transparency = Yes
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = m1-1b5df699719c4a7cc8314ab9af139405.png
+[File - 0x0002] File Size = 46657 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-tEXt
+- PNG-tIME
+- PNG-pHYs
+- PNG-gAMA
+- PNG-tRNS
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

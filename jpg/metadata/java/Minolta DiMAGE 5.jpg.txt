@@ -1,0 +1,148 @@
+FILE: Minolta DiMAGE 5.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2048 pixels
+[JPEG - 0x0003] Image Width = 1536 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = none
+[JFIF - 0x0008] X Resolution = 1 dot
+[JFIF - 0x000a] Y Resolution = 1 dot
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif IFD0 - 0x010e] Image Description = DCF 1.0
+[Exif IFD0 - 0x010f] Make = Minolta Co., Ltd.
+[Exif IFD0 - 0x0110] Model = DiMAGE 5
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = A2v055u
+[Exif IFD0 - 0x0132] Date/Time = 2001:09:01 11:14:24
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2001:09:01 11:14:24
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2001:09:01 11:14:24
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/255 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/3.4
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.4
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 49.3 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2048 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
+
+[Olympus Makernote - 0x0000] Makernote Version = ml.t0
+[Olympus Makernote - 0xf000] Unknown tag (0xf000) = 0
+[Olympus Makernote - 0xf001] Unknown tag (0xf001) = 0
+[Olympus Makernote - 0xf002] Exposure Mode = P
+[Olympus Makernote - 0xf003] Flash Mode = Normal
+[Olympus Makernote - 0xf004] White Balance = Auto
+[Olympus Makernote - 0xf005] Image Size = 1280 x 960
+[Olympus Makernote - 0xf006] Image Quality = Raw
+[Olympus Makernote - 0xf007] Shooting Mode = Single
+[Olympus Makernote - 0xf008] Metering Mode = Unknown (48)
+[Olympus Makernote - 0xf009] Apex Film Speed Value = 528.13
+[Olympus Makernote - 0xf00a] Apex Shutter Speed Time Value = 2.641 sec
+[Olympus Makernote - 0xf00b] Apex Aperture Value = f/0.3
+[Olympus Makernote - 0xf00c] Macro Mode = Off
+[Olympus Makernote - 0xf00d] Digital Zoom = Unknown (6)
+[Olympus Makernote - 0xf00e] Exposure Compensation = -2 EV
+[Olympus Makernote - 0xf00f] Bracket Step = 1/3 EV
+[Olympus Makernote - 0xf010] Unknown tag (0xf010) = 0
+[Olympus Makernote - 0xf011] Interval Length = N/A
+[Olympus Makernote - 0xf012] Interval Number = N/A
+[Olympus Makernote - 0xf013] Focal Length = 0 mm
+[Olympus Makernote - 0xf014] Focus Distance = Infinity
+[Olympus Makernote - 0xf015] Flash Fired = Unknown (131139841)
+[Olympus Makernote - 0xf016] Date = 1984-12-24
+[Olympus Makernote - 0xf017] Time = 00:00:36
+[Olympus Makernote - 0xf018] Max Aperture at Focal Length = f/3.1
+[Olympus Makernote - 0xf019] Unknown tag (0xf019) = 0
+[Olympus Makernote - 0xf01a] Unknown tag (0xf01a) = 1
+[Olympus Makernote - 0xf01b] File Number Memory = Unknown (241)
+[Olympus Makernote - 0xf01c] Last File Number = 528
+[Olympus Makernote - 0xf01d] White Balance Red = 1
+[Olympus Makernote - 0xf01e] White Balance Green = 1.46
+[Olympus Makernote - 0xf01f] White Balance Blue = 0.01
+[Olympus Makernote - 0xf020] Saturation = 0
+[Olympus Makernote - 0xf021] Contrast = -2
+[Olympus Makernote - 0xf022] Sharpness = Hard
+[Olympus Makernote - 0xf023] Subject Program = Unknown (6)
+[Olympus Makernote - 0xf024] Flash Compensation = -0.67 EV
+[Olympus Makernote - 0xf025] ISO Setting = 200
+[Olympus Makernote - 0xf026] Camera Model = DiMAGE 7
+[Olympus Makernote - 0x0010] Unknown tag (0x0010) = [12968 values]
+[Olympus Makernote - 0x0020] Unknown tag (0x0020) = [260 values]
+[Olympus Makernote - 0x0040] Compressed Image Size = 1411440
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 14172 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 11651 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
+
+[ICC Profile - 0x0000] Profile Size = 524
+[ICC Profile - 0x0004] CMM Type = Win 
+[ICC Profile - 0x0008] Version = 2.2.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 2001:09:22 19:51:29
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Microsoft Corporation
+[ICC Profile - 0x0030] Device manufacturer = MNLT
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 9
+[ICC Profile - 0x63707274] Copyright = Copyright 2001 Minolta Co.,Ltd.
+[ICC Profile - 0x64657363] Profile Description = sRGB (Minolta Co.,Ltd.)
+[ICC Profile - 0x7258595a] Red Colorant = (0.4361, 0.2225, 0.0139)
+[ICC Profile - 0x6758595a] Green Colorant = (0.3851, 0.7169, 0.0971)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1431, 0.0606, 0.7141)
+[ICC Profile - 0x72545243] Red TRC = 0.0085908
+[ICC Profile - 0x67545243] Green TRC = 0.0085908
+[ICC Profile - 0x62545243] Blue TRC = 0.0085908
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Minolta DiMAGE 5.jpg
+[File - 0x0002] File Size = 1418664 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+        - Olympus Makernote
+    - Exif Thumbnail
+- ICC Profile
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,54 @@
+FILE: photoshop-8x12-32colors-alpha.gif
+TYPE: GIF
+
+[GIF Header - 0x0001] GIF Format Version = 89a
+[GIF Header - 0x0002] Image Width = 8
+[GIF Header - 0x0003] Image Height = 12
+[GIF Header - 0x0004] Color Table Size = 32
+[GIF Header - 0x0005] Is Color Table Sorted = false
+[GIF Header - 0x0006] Bits per Pixel = 5
+[GIF Header - 0x0007] Has Global Color Table = true
+[GIF Header - 0x0008] Background Color Index = 8
+
+[XMP - 0xffff] XMP Value Count = 6
+
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS6 (Windows)
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:E32DD368530311E29F54C1E0270410D5
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:E32DD367530311E29F54C1E0270410D5
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = xmp.did:E32DD366530311E29F54C1E0270410D5
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:E32DD365530311E29F54C1E0270410D5
+
+[GIF Control - 0x0002] Disposal Method = Not Specified
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
+[GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 8
+
+[GIF Image - 0x0001] Left = 0
+[GIF Image - 0x0002] Top = 0
+[GIF Image - 0x0003] Width = 8
+[GIF Image - 0x0004] Height = 12
+[GIF Image - 0x0005] Has Local Colour Table = false
+[GIF Image - 0x0006] Is Interlaced = false
+
+[File Type - 0x0001] Detected File Type Name = GIF
+[File Type - 0x0002] Detected File Type Long Name = Graphics Interchange Format
+[File Type - 0x0003] Detected MIME Type = image/gif
+[File Type - 0x0004] Expected File Name Extension = gif
+
+[File - 0x0001] File Name = photoshop-8x12-32colors-alpha.gif
+[File - 0x0002] File Size = 1243 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- GIF Header
+- XMP
+- GIF Control
+- GIF Image
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,36 @@
+FILE: m1-b127f0fb89daedea07abb50b9db2dfd9.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x0100] Image Width = 1250 pixels
+[Exif IFD0 - 0x0101] Image Height = 2200 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Unknown (300)
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB Palette
+[Exif IFD0 - 0x010a] Fill Order = Normal
+[Exif IFD0 - 0x010d] Document Name = �home/kurisuto/public_html/torp/torp_pages/45.tiff
+[Exif IFD0 - 0x0111] Strip Offsets = [43 values]
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 52 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 10 367 17 1187 647 246 236 252 977 1097 1092 1261 1425 1078 627 1544 1164 1031 315 1187 1134 1299 1496 1066 1046 1047 1034 1091 1020 1402 1359 950 1377 1468 1208 446 901 1012 1500 1425 1109 47 11 bytes
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = @(#)ImageMagick 4.2.3 99/05/01 cristy@mystic.es.dupont.com
+[Exif IFD0 - 0x0140] Unknown tag (0x0140) = 64764 5140 64764 5140 64764 5140
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m1-b127f0fb89daedea07abb50b9db2dfd9.tif
+[File - 0x0002] File Size = 40922 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

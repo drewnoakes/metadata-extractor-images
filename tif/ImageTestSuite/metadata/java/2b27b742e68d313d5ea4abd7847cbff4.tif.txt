@@ -1,0 +1,66 @@
+FILE: 2b27b742e68d313d5ea4abd7847cbff4.tif
+TYPE: ARW
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 3432 pixels
+[Exif IFD0 - 0x0101] Image Height = 2394 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = JPEG (old-style)
+[Exif IFD0 - 0x0106] Photometric Interpretation = YCbCr
+[Exif IFD0 - 0x010a] Fill Order = Normal
+[Exif IFD0 - 0x0111] Strip Offsets = 368
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 2400 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 507201 bytes
+[Exif IFD0 - 0x011a] X Resolution = 200 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 200 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Oi/GFS, writer v00.07.00
+[Exif IFD0 - 0x0200] JPEG Proc = Baseline
+[Exif IFD0 - 0x0201] Unknown tag (0x0201) = 368
+[Exif IFD0 - 0x0202] Unknown tag (0x0202) = 507201
+[Exif IFD0 - 0x0203] JPEG Restart Interval = 0
+[Exif IFD0 - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:2
+[Exif IFD0 - 0x80a3] Unknown tag (0x80a3) = [24 values]
+[Exif IFD0 - 0x80a6] Unknown tag (0x80a6) = [27 values]
+
+[Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
+[Exif Thumbnail - 0x0100] Image Width = 3394 pixels
+[Exif Thumbnail - 0x0101] Image Height = 2368 pixels
+[Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0106] Photometric Interpretation = YCbCr
+[Exif Thumbnail - 0x010a] Fill Order = Normal
+[Exif Thumbnail - 0x0111] Strip Offsets = 9423016
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif Thumbnail - 0x0116] Rows Per Strip = 2368 rows/strip
+[Exif Thumbnail - 0x0117] Strip Byte Counts = 653552 bytes
+[Exif Thumbnail - 0x011a] X Resolution = 200 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 200 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0131] Software = Oi/GFS, writer v00.07.00
+[Exif Thumbnail - 0x0200] JPEG Proc = Baseline
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 9423016 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 653552 bytes
+[Exif Thumbnail - 0x0203] JPEG Restart Interval = 0
+[Exif Thumbnail - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:2
+[Exif Thumbnail - 0x80a3] Unknown tag (0x80a3) = [24 values]
+[Exif Thumbnail - 0x80a6] Unknown tag (0x80a6) = 0
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = 2b27b742e68d313d5ea4abd7847cbff4.tif
+[File - 0x0002] File Size = 10076700 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Thumbnail
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

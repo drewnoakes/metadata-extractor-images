@@ -1,0 +1,31 @@
+FILE: m1-814fcedc62fe4e43923c042ff1d6747f.png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 81
+[PNG-IHDR - 0x0002] Image Height = 88
+[PNG-IHDR - 0x0003] Bits Per Sample = 16
+[PNG-IHDR - 0x0004] Color Type = Greyscale
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 120
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 120
+[PNG-pHYs - 0x0012] Unit Specifier = Unspecified
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = m1-814fcedc62fe4e43923c042ff1d6747f.png
+[File - 0x0002] File Size = 856 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-pHYs
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

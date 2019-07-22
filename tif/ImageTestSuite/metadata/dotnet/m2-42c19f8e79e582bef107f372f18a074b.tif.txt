@@ -1,0 +1,58 @@
+FILE: m2-42c19f8e79e582bef107f372f18a074b.tif
+TYPE: TIFF
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 64730 for tag 0x000A
+[ERROR: Exif IFD0] Invalid TIFF tag format code 10000 for tag 0x0000
+[ERROR: Exif IFD0] Invalid TIFF tag format code 28531 for tag 0x6F74
+[ERROR: Exif IFD0] Invalid TIFF tag format code 25449 for tag 0x4D61
+[ERROR: Exif IFD0] Invalid TIFF tag format code 14896 for tag 0x3038
+[ERROR: Exif IFD0] Invalid TIFF tag format code 14900 for tag 0x3533
+[ERROR: Exif IFD0] Stopping processing as too many errors seen in TIFF IFD
+[ERROR: Photoshop] End of data reached.
+[ERROR: ICC Profile] ICC data describes an invalid date/time: year=2008 month=3 day=17 hour=63 minute=20 second=20
+[ERROR: ICC Profile] Exception reading ICC profile: Attempt to read from beyond end of underlying data source (requested index: 440, requested count: 50331662, max index: 4379)
+
+[Exif IFD0 - 0x0132] Date/Time = 2008:06:13 10:53:40
+[Exif IFD0 - 0x013d] Predictor = 2
+[Exif IFD0 - 0x0142] Tile Width = 10944512
+[Exif IFD0 - 0x4669] Unknown tag (0x4669) = 29596
+[Exif IFD0 - 0x9368] Unknown tag (0x9368) = [5628 values]
+
+[IPTC - 0x0200] Application Record Version = 0
+
+[ICC Profile - 0x0000] Profile Size = 4380
+[ICC Profile - 0x0004] CMM Type = appl
+[ICC Profile - 0x0008] Version = 2.0.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0024] Signature = acTp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 13631502
+[ICC Profile - 0x7258595a] Red Colorant = (0.375, 0.3428, 0.028)
+[ICC Profile - 0x67f3595a] Unknown tag (0x67f3595a) = (5120.436, 0.7007, 0.0974)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1534, 0.0896, 0.1212)
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+[ICC Profile - 0x63686164] Chromatic Adaptation = s�32 (0x73F13332): 44 bytes
+[ICC Profile - 0x72545243] Red TRC = 0.0070344
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m2-42c19f8e79e582bef107f372f18a074b.tif
+[File - 0x0002] File Size = 35272 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - IPTC
+    - Photoshop
+    - ICC Profile
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

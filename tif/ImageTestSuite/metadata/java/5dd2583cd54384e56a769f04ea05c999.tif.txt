@@ -1,0 +1,105 @@
+FILE: 5dd2583cd54384e56a769f04ea05c999.tif
+TYPE: ARW
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 600 pixels
+[Exif IFD0 - 0x0101] Image Height = 802 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0111] Strip Offsets = 23924 46736 94020 102128 124516 156572 195572 214058
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 109 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 22811 47284 8107 22387 32055 38999 18486 2157 bytes
+[Exif IFD0 - 0x011a] X Resolution = 11811/100 dots per cm
+[Exif IFD0 - 0x011b] Y Resolution = 11811/100 dots per cm
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = cm
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop CS2 Windows
+[Exif IFD0 - 0x0132] Date/Time = 2006:06:15 20:50:55
+[Exif IFD0 - 0x013d] Predictor = 2
+[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x935c] Unknown tag (0x935c) = [319320 values]
+
+[XMP - 0xffff] XMP Value Count = 28
+
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 1700
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 2272
+[XMPMeta - ] tiff:BitsPerSample[1] = 8
+[XMPMeta - ] tiff:BitsPerSample[2] = 8
+[XMPMeta - ] tiff:BitsPerSample[3] = 8
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Compression = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:PhotometricInterpretation = 2
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:SamplesPerPixel = 3
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 1181100/10000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 1181100/10000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 3
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:NativeDigest = 256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;BCA95BB476FD1104338BFC38E915AF36
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = uuid:72CCE9B48EFCDA1182CAFF47B618F9F3
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:77CCE9B48EFCDA1182CAFF47B618F9F3
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = uuid:79E7BD888DFCDA1182CAFF47B618F9F3
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = uuid:78E7BD888DFCDA1182CAFF47B618F9F3
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2006-06-15T20:49:16+04:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2006-06-15T20:50:55+04:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2006-06-15T20:50:55+04:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS2 Windows
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 600
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 802
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = -1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:NativeDigest = 36864,40960,40961,37121,37122,40962,40963,37510,40964,36867,36868,33434,33437,34850,34852,34855,34856,37377,37378,37379,37380,37381,37382,37383,37384,37385,37386,37396,41483,41484,41486,41487,41488,41492,41493,41495,41728,41729,41730,41985,41986,41987,41988,41989,41990,41991,41992,41993,41994,41995,41996,42016,0,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,30;9B75B6152B620352AFA9FB9107881B0D
+
+[Photoshop - 0x0425] Caption Digest = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Photoshop - 0x03ed] Resolution Info = 300x300 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x03ee] Alpha Channels = 12 84 114 97 110 115 112 97 114 101 110 99 121
+[Photoshop - 0x0415] Unicode Alpha Names = [30 values]
+[Photoshop - 0x03ef] Display Info (Obsolete) = 0 0 255 255 0 0 0 0 0 0 0 100 1 0
+[Photoshop - 0x041d] Alpha Identifiers = 0 0 0 0
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0400] Layer State Information = 0 0
+[Photoshop - 0x0402] Layers Group Information = 0 0
+[Photoshop - 0x0430] Layer Groups Enabled ID = 1
+[Photoshop - 0x042d] Layer Selection IDs = 0 1 0 0 0 2
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = region_2004 (0,0,802,600) 1 Slices
+[Photoshop - 0x0428] Pixel Aspect Ratio = 1.0
+[Photoshop - 0x0411] ICC Untagged Profile = 1
+[Photoshop - 0x0414] Seed Number = 2
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 120x160, Decomp 57600 bytes, 1572865 bpp, 6122 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CS2) 1
+[Photoshop - 0x0fa0] Plug-in 1 Data = [268 values]
+[Photoshop - 0x0fa1] Plug-in 2 Data = [28 values]
+
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 600 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 802 pixels
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = 5dd2583cd54384e56a769f04ea05c999.tif
+[File - 0x0002] File Size = 535584 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - Photoshop
+    - Exif SubIFD
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

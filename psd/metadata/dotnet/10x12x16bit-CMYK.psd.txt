@@ -1,0 +1,120 @@
+FILE: 10x12x16bit-CMYK.psd
+TYPE: PSD
+
+[PSD Header - 0x0001] Channel Count = 4 channels
+[PSD Header - 0x0002] Image Height = 12 pixels
+[PSD Header - 0x0003] Image Width = 10 pixels
+[PSD Header - 0x0004] Bits Per Channel = 16 bits per channel
+[PSD Header - 0x0005] Color Mode = CMYK
+
+[Photoshop - 0x0425] Caption Digest = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Photoshop - 0x043a] Print Info 2 = [155 values]
+[Photoshop - 0x043b] Print Style = [434 values]
+[Photoshop - 0x03ed] Resolution Info = 300x300 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x040d] Global Angle = 120
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0400] Layer State Information = 0 0
+[Photoshop - 0x0402] Layers Group Information = 0 0
+[Photoshop - 0x0430] Layer Groups Enabled ID = 1
+[Photoshop - 0x042d] Layer Selection IDs = 0 1 0 0 0 2
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = Untitled-1 (0,0,12,10) 1 Slices
+[Photoshop - 0x0428] Pixel Aspect Ratio = 1.0
+[Photoshop - 0x0414] Seed Number = 2
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 10x12, Decomp 384 bytes, 1572865 bpp, 534 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CS5) 1
+[Photoshop - 0x0fa0] Plug-in 1 Data = [248 values]
+[Photoshop - 0x0fa1] Plug-in 2 Data = [28 values]
+
+[XMP - 0xffff] XMP Value Count = 16
+
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS5 Windows
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2012-05-22T15:51:47+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2012-05-22T15:51:47+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2012-05-22T15:51:47+01:00
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = application/vnd.adobe.photoshop
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:84C8F0A71DA4E1119A15DFB9448C3622
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:84C8F0A71DA4E1119A15DFB9448C3622
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:84C8F0A71DA4E1119A15DFB9448C3622
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
+[XMPMeta - ] xmpMM:History[1] = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = created
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:84C8F0A71DA4E1119A15DFB9448C3622
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2012-05-22T15:51:47+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop CS5 Windows
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 4
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = U.S. Web Coated (SWOP) v2
+
+[ICC Profile - 0x0000] Profile Size = 557168
+[ICC Profile - 0x0004] CMM Type = ADBE
+[ICC Profile - 0x0008] Version = 2.1.0
+[ICC Profile - 0x000c] Class = Output Device
+[ICC Profile - 0x0010] Color space = CMYK
+[ICC Profile - 0x0014] Profile Connection Space = Lab 
+[ICC Profile - 0x0018] Profile Date/Time = 2000:07:26 05:41:53
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = ADBE
+[ICC Profile - 0x0040] Rendering Intent = Media-Relative Colorimetric
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 10
+[ICC Profile - 0x64657363] Profile Description = U.S. Web Coated (SWOP) v2
+[ICC Profile - 0x63707274] Copyright = Copyright 2000 Adobe Systems, Inc.
+[ICC Profile - 0x77747074] Media White Point = (0.7084, 0.7359, 0.571)
+[ICC Profile - 0x41324230] AToB 0 = mft2 (0x6D667432): 41478 bytes
+[ICC Profile - 0x41324232] AToB 2 = mft2 (0x6D667432): 41478 bytes
+[ICC Profile - 0x41324231] AToB 1 = mft2 (0x6D667432): 41478 bytes
+[ICC Profile - 0x42324130] BToA 0 = mft1 (0x6D667431): 145588 bytes
+[ICC Profile - 0x42324131] BToA 1 = mft1 (0x6D667431): 145588 bytes
+[ICC Profile - 0x42324132] BToA 2 = mft1 (0x6D667431): 145588 bytes
+[ICC Profile - 0x67616d74] Gamut = mft1 (0x6D667431): 37009 bytes
+
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop CS5 Windows
+[Exif IFD0 - 0x0132] Date/Time = 2012:05:22 15:51:47
+
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 10 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 12 pixels
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 302 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 0 bytes
+
+[File Type - 0x0001] Detected File Type Name = PSD
+[File Type - 0x0002] Detected File Type Long Name = Photoshop Document
+[File Type - 0x0003] Detected MIME Type = image/vnd.adobe.photoshop
+[File Type - 0x0004] Expected File Name Extension = psd
+
+[File - 0x0001] File Name = 10x12x16bit-CMYK.psd
+[File - 0x0002] File Size = 575378 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PSD Header
+- Photoshop
+    - XMP
+    - ICC Profile
+    - Exif IFD0
+        - Exif SubIFD
+        - Exif Thumbnail
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,7 @@
+FILE: 9bd8a9ed81c5a9190f74496197da7249.png
+TYPE: PNG
+
+EXCEPTION: Observed multiple instances of PNG chunk 'tIME', for which multiples are not allowed
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

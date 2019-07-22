@@ -1,0 +1,80 @@
+FILE: Kodak ProBack.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 877 pixels
+[JPEG - 0x0003] Image Width = 1228 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = none
+[JFIF - 0x0008] X Resolution = 1 dot
+[JFIF - 0x000a] Y Resolution = 1 dot
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x010e] Image Description = 
+[Exif IFD0 - 0x010f] Make = Kodak
+[Exif IFD0 - 0x0110] Model = ProBack
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = KODAK PROFESSIONAL DCS Photo Desk JPEG Export v3.2 W
+[Exif IFD0 - 0x0132] Date/Time = 2004:03:13 12:33:04
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x8290] Unknown tag (0x8290) = 356
+[Exif IFD0 - 0x83bb] IPTC/NAA = [1024 values]
+[Exif IFD0 - 0x9003] Date/Time Original = 2004:03:13 12:33:04
+
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2004:03:13 12:33:04
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2004:03:13 12:33:04
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4062 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2902 pixels
+
+[Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
+[Exif Thumbnail - 0x0100] Image Width = 156 pixels
+[Exif Thumbnail - 0x0101] Image Height = 111 pixels
+[Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif Thumbnail - 0x0103] Compression = Uncompressed
+[Exif Thumbnail - 0x0106] Photometric Interpretation = RGB
+[Exif Thumbnail - 0x0111] Strip Offsets = 4944
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif Thumbnail - 0x0116] Rows Per Strip = 111 rows/strip
+[Exif Thumbnail - 0x0117] Strip Byte Counts = 51948 bytes
+[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Kodak ProBack.jpg
+[File - 0x0002] File Size = 389120 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+        - Interoperability
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

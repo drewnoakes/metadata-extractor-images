@@ -1,0 +1,49 @@
+FILE: Photoshop (4).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 360 pixels
+[JPEG - 0x0003] Image Width = 640 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.2
+[JFIF - 0x0007] Resolution Units = none
+[JFIF - 0x0008] X Resolution = 100 dots
+[JFIF - 0x000a] Y Resolution = 100 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Ducky - 0x0001] Quality = 60
+[Ducky - 0x0002] Comment = Dated: 12-09-09Middlesbrough FC Chairman Steve Gibson talks to the media about his support for the Corus steelworkers facing redundancy prior to the match against Ipswich this afternoon.
+[Ducky - 0x0003] Copyright = © North News & Pictures ltd
+
+[Adobe JPEG - 0x0000] DCT Encode Version = 25600
+[Adobe JPEG - 0x0001] Flags 0 = 192
+[Adobe JPEG - 0x0002] Flags 1 = 0
+[Adobe JPEG - 0x0003] Color Transform = YCbCr
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Photoshop (4).jpg
+[File - 0x0002] File Size = 36467 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Ducky
+- Adobe JPEG
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

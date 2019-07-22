@@ -1,0 +1,7 @@
+FILE: xs7n0g01.png
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

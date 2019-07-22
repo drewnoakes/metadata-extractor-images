@@ -1,0 +1,40 @@
+FILE: rgb24lprof.bmp
+TYPE: BMP
+
+[BMP Header - 0xfffffffe] Bitmap type = Standard
+[BMP Header - 0xffffffff] Header Size = 124
+[BMP Header - 0x0002] Image Width = 127
+[BMP Header - 0x0001] Image Height = 64
+[BMP Header - 0x0003] Planes = 1
+[BMP Header - 0x0004] Bits Per Pixel = 24
+[BMP Header - 0x0005] Compression = None
+[BMP Header - 0x0006] X Pixels per Meter = 2835
+[BMP Header - 0x0007] Y Pixels per Meter = 2835
+[BMP Header - 0x0008] Palette Colour Count = 0
+[BMP Header - 0x0009] Important Colour Count = 0
+[BMP Header - 0x000c] Red Mask = 0x00000000
+[BMP Header - 0x000d] Green Mask = 0x00000000
+[BMP Header - 0x000e] Blue Mask = 0x00000000
+[BMP Header - 0x000f] Alpha Mask = 0x00000000
+[BMP Header - 0x0010] Color Space Type = Linked Profile
+[BMP Header - 0x0011] Red Gamma Curve = 0
+[BMP Header - 0x0012] Green Gamma Curve = 0
+[BMP Header - 0x0013] Blue Gamma Curve = 0
+[BMP Header - 0x0014] Rendering Intent = Picture, Perceptual
+[BMP Header - 0x0015] Linked Profile File Name = C:\temp\test•ë.icc
+
+[File Type - 0x0001] Detected File Type Name = BMP
+[File Type - 0x0002] Detected File Type Long Name = Device Independent Bitmap
+[File Type - 0x0003] Detected MIME Type = image/bmp
+[File Type - 0x0004] Expected File Name Extension = bmp
+
+[File - 0x0001] File Name = rgb24lprof.bmp
+[File - 0x0002] File Size = 24743 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- BMP Header
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,152 @@
+FILE: Sony DSLR-A500.arw
+TYPE: ARW
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif IFD0 - 0x0103] Compression = JPEG (old-style)
+[Exif IFD0 - 0x010e] Image Description = SONY DSC                       
+[Exif IFD0 - 0x010f] Make = SONY
+[Exif IFD0 - 0x0110] Model = DSLR-A500
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 350 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 350 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = DSLR-A500 v1.00
+[Exif IFD0 - 0x0132] Date/Time = 2010:02:01 16:03:48
+[Exif IFD0 - 0x0201] Unknown tag (0x0201) = 163891
+[Exif IFD0 - 0x0202] Unknown tag (0x0202) = 736202
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0xc634] Unknown tag (0xc634) = 0 0 1 0
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0100] Image Width = 4288 pixels
+[Exif SubIFD - 0x0101] Image Height = 2858 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Sony ARW Compressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+[Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x011a] X Resolution = 350 dots per inch
+[Exif SubIFD - 0x011b] Y Resolution = 350 dots per inch
+[Exif SubIFD - 0x0128] Resolution Unit = Inch
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = [Red,Green][Green,Blue]
+[Exif SubIFD - 0x7000] Unknown tag (0x7000) = 2
+[Exif SubIFD - 0x7001] Unknown tag (0x7001) = 1
+[Exif SubIFD - 0x7010] Unknown tag (0x7010) = 8000 10400 12900 14100
+[Exif SubIFD - 0x7011] Unknown tag (0x7011) = 4000 7200 10050 12075
+[Exif SubIFD - 0x7020] Unknown tag (0x7020) = 0
+[Exif SubIFD - 0x0111] Strip Offsets = 917504
+[Exif SubIFD - 0x0116] Rows Per Strip = 2858 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 12255104 bytes
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
+[Exif SubIFD - 0x829d] F-Number = f/8.0
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2010:02:01 16:03:48
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2010:02:01 16:03:48
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 8 bits/pixel
+[Exif SubIFD - 0x9203] Brightness Value = 5.87
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 18 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4272 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2848 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa405] Focal Length 35 = 27 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+[Sony Makernote - 0x0010] Camera Info = [15360 values]
+[Sony Makernote - 0x0018] Unknown tag (0x0018) = [4096 values]
+[Sony Makernote - 0x0020] Focus Info = [20480 values]
+[Sony Makernote - 0x0102] Image Quality = RAW + JPEG
+[Sony Makernote - 0x0104] Flash Exposure Compensation = 0 EV
+[Sony Makernote - 0x0105] Teleconverter Model = None
+[Sony Makernote - 0x0112] White Balance Fine Tune Value = 0
+[Sony Makernote - 0x0114] Camera Settings = [2048 values]
+[Sony Makernote - 0x0115] White Balance = Auto
+[Sony Makernote - 0x0116] Extra Info = [30 values]
+[Sony Makernote - 0x2000] Unknown tag (0x2000) = 0
+[Sony Makernote - 0x2002] Rating = 0
+[Sony Makernote - 0x2003] Unknown tag (0x2003) = 
+[Sony Makernote - 0x2004] Contrast = 0
+[Sony Makernote - 0x2005] Saturation = 0
+[Sony Makernote - 0x2006] Sharpness = 0
+[Sony Makernote - 0x2007] Brightness = 0
+[Sony Makernote - 0x2008] Long Exposure Noise Reduction = 0
+[Sony Makernote - 0x2009] High ISO Noise Reduction = Off
+[Sony Makernote - 0xb000] File Format = 3 1 0 0
+[Sony Makernote - 0xb001] Sony Model ID = DSLR-A500
+[Sony Makernote - 0xb020] Color Mode Setting = Standard
+[Sony Makernote - 0xb021] Color Temperature = Auto
+[Sony Makernote - 0xb022] Color Compensation Filter = 0
+[Sony Makernote - 0xb023] Scene Mode = Standard
+[Sony Makernote - 0xb024] Zone Matching = ISO Setting Used
+[Sony Makernote - 0xb025] Dynamic Range Optimizer = Auto
+[Sony Makernote - 0xb026] Image Stabilisation = On
+[Sony Makernote - 0xb027] Lens ID = 55
+[Sony Makernote - 0xb029] Color Mode = Standard
+[Sony Makernote - 0xb02a] Lens Spec = 1 0 24 0 85 53 86 2
+[Sony Makernote - 0xb02b] Full Image Size = 2848 4272
+[Sony Makernote - 0xb02c] Preview Image Size = 1080 1616
+[Sony Makernote - 0x900b] Unknown tag (0x900b) = [400 values]
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[PrintIM - 0x0000] PrintIM Version = 0300
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000034
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000005
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x00000080
+
+[Exif Thumbnail - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x010f] Make = SONY
+[Exif Thumbnail - 0x0110] Model = DSLR-A500
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 350 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 350 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0132] Date/Time = 2010:02:01 16:03:48
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 47796 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 3884 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = Sony DSLR-A500.arw
+[File - 0x0002] File Size = 13172736 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+    - Exif SubIFD
+        - Sony Makernote
+        - Interoperability
+    - PrintIM
+    - Exif Thumbnail
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,112 @@
+FILE: Minolta DiMAGE X.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 960 pixels
+[JPEG - 0x0003] Image Width = 1280 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010e] Image Description = MINOLTA DIGITAL CAMERA         
+[Exif IFD0 - 0x010f] Make = MINOLTA CO.,LTD
+[Exif IFD0 - 0x0110] Model = DiMAGE X
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = V100-02
+[Exif IFD0 - 0x0132] Date/Time = 2002:09:07 11:33:11
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 10/4699 sec
+[Exif SubIFD - 0x829d] F-Number = f/6.6
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2002:09:07 11:33:11
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2002:09:07 11:33:11
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 6 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 1280 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 960 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+
+[Olympus Makernote - 0x0000] Makernote Version = ML.T0
+[Olympus Makernote - 0x0200] Special Mode = Normal picture taking mode
+[Olympus Makernote - 0x0201] JPEG Quality = Super High Quality
+[Olympus Makernote - 0x0202] Macro = Normal (no macro)
+[Olympus Makernote - 0x0203] BW Mode = Off
+[Olympus Makernote - 0x0204] Digital Zoom = 0
+[Olympus Makernote - 0x020e] Unknown tag (0x020e) = 0
+[Olympus Makernote - 0x020f] Unknown tag (0x020f) = 0
+[Olympus Makernote - 0x0210] Unknown tag (0x0210) = 0
+[Olympus Makernote - 0x0211] Unknown tag (0x0211) = 0
+[Olympus Makernote - 0x0212] Unknown tag (0x0212) = 0
+[Olympus Makernote - 0x0213] Unknown tag (0x0213) = 0
+[Olympus Makernote - 0x0214] Unknown tag (0x0214) = 0
+[Olympus Makernote - 0x0215] Unknown tag (0x0215) = 0
+[Olympus Makernote - 0x0216] Unknown tag (0x0216) = 0
+[Olympus Makernote - 0x0217] Unknown tag (0x0217) = 0
+[Olympus Makernote - 0x0218] Unknown tag (0x0218) = 0
+[Olympus Makernote - 0x0219] Unknown tag (0x0219) = 0
+[Olympus Makernote - 0x021a] Unknown tag (0x021a) = 0
+[Olympus Makernote - 0x021b] Unknown tag (0x021b) = 0
+[Olympus Makernote - 0x021c] Unknown tag (0x021c) = 0
+[Olympus Makernote - 0x021d] Unknown tag (0x021d) = 0
+[Olympus Makernote - 0x021e] Unknown tag (0x021e) = 0
+[Olympus Makernote - 0x021f] Unknown tag (0x021f) = 0
+[Olympus Makernote - 0x0f00] Data Dump = [254 values]
+
+[PrintIM - 0x0000] PrintIM Version = 0100
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000001
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 4084 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 4202 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Minolta DiMAGE X.jpg
+[File - 0x0002] File Size = 493227 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Olympus Makernote
+            - PrintIM
+        - Interoperability
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

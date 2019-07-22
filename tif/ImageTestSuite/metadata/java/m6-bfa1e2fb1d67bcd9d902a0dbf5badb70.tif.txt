@@ -1,0 +1,55 @@
+FILE: m6-bfa1e2fb1d67bcd9d902a0dbf5badb70.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 1950 pixels
+[Exif IFD0 - 0x0101] Image Height = 2454 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 26 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = CCITT 1D
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x010a] Fill Order = Unknown (21505)
+[Exif IFD0 - 0x0111] Strip Offsets = [19 values]
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 130 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 3942648702 1920 1459 5013 2154 3933 2332036146 3951 4051 1205 4554 1466 1417 3700 1590 1056965030 1330 3808429580 1477 bytes
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0xa91b] Unknown tag (0xa91b) = 300
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Oi/GFS, writer v00.06.01P
+[Exif IFD0 - 0x80a6] Unknown tag (0x80a6) = 1196310871 1 3 782344 72 47748 4931256
+
+[Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
+[Exif Thumbnail - 0x0100] Image Width = 966 pixels
+[Exif Thumbnail - 0x0101] Image Height = 1497 pixels
+[Exif Thumbnail - 0x0102] Bits Per Sample = 39944 bits/component/pixel
+[Exif Thumbnail - 0x0103] Compression = LZW
+[Exif Thumbnail - 0xa306] Unknown tag (0xa306) = 1
+[Exif Thumbnail - 0x010a] Fill Order = Normal
+[Exif Thumbnail - 0xe311] Unknown tag (0xe311) = [47 values]
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Thumbnail - 0x0116] Rows Per Strip = 32 rows/strip
+[Exif Thumbnail - 0x0117] Strip Byte Counts = 932765799 720118538 779927818 2699281929 567195744 388512197 2735646034 862002896 2165192992 2186709956 1495663570 726165504 254165128 2970044099 1636529080 469907688 3817213788 2791051928 416080404 2554343712 2148026480 58361543 203209884 3898673706 1633747556 2433383124 1583891714 2468969260 3183586555 341436004 878594152 2198836763 3711959623 1837839246 562070474 930853061 104040991 1590739732 1007085580 18193469 1759513576 3772934040 393527388 88603650 69037792 3554755712 2206865800 bytes
+[Exif Thumbnail - 0x011a] X Resolution = 
+[Exif Thumbnail - 0x011b] Y Resolution = 150 dots per unknown (23298)
+[Exif Thumbnail - 0x0128] Resolution Unit = Unknown (23298)
+[Exif Thumbnail - 0x0131] Software = Oi/GFS, writer v00.06.01P
+[Exif Thumbnail - 0x80a6] Unknown tag (0x80a6) = 3624089417 3471976016 1020509473 2770885764 2429229968 2203704909
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m6-bfa1e2fb1d67bcd9d902a0dbf5badb70.tif
+[File - 0x0002] File Size = 782344 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Thumbnail
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

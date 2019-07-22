@@ -1,0 +1,64 @@
+FILE: ef724193653930f52acffa90e6426fd2.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 38 pixels
+[JPEG - 0x0003] Image Width = 74 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 14 horiz/5 vert
+
+[JFIF - 0x0005] Version = 1.2
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 72 dots
+[JFIF - 0x000a] Y Resolution = 72 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Photoshop - 0x03ed] Resolution Info = 72x72 DPI
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0400] Layer State Information = 0 0
+[Photoshop - 0x0402] Layers Group Information = 0 0
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = Logo (0,0,38,74) 1 Slices
+[Photoshop - 0x0411] ICC Untagged Profile = 1
+[Photoshop - 0x0414] Seed Number = 3
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 74x38, Decomp 8512 bytes, 1572865 bpp, 1539 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 6.0) 1
+[Photoshop - 0x0406] JPEG Quality = 12 (Maximum), Standard format, 3 scans
+
+[Adobe JPEG - 0x0000] DCT Encode Version = 25600
+[Adobe JPEG - 0x0001] Flags 0 = 64
+[Adobe JPEG - 0x0002] Flags 1 = 0
+[Adobe JPEG - 0x0003] Color Transform = YCbCr
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = ef724193653930f52acffa90e6426fd2.jpg
+[File - 0x0002] File Size = 5562 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Photoshop
+- Adobe JPEG
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

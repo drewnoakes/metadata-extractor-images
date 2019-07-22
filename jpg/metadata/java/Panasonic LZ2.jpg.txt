@@ -1,0 +1,135 @@
+FILE: Panasonic LZ2.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1920 pixels
+[JPEG - 0x0003] Image Width = 2560 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = Panasonic
+[Exif IFD0 - 0x0110] Model = DMC-LZ2
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver.1.0  
+[Exif IFD0 - 0x0132] Date/Time = 2005:03:26 13:28:27
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/2000 sec
+[Exif SubIFD - 0x829d] F-Number = f/5.6
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 400
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2005:03:26 13:28:27
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2005:03:26 13:28:27
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
+[Exif SubIFD - 0x920a] Focal Length = 6.1 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2560 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1920 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+[Exif SubIFD - 0xa405] Focal Length 35 = 37 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = Low gain down
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+[Panasonic Makernote - 0x0001] Quality Mode = High
+[Panasonic Makernote - 0x0002] Version = 1.02
+[Panasonic Makernote - 0x0003] White Balance = Auto
+[Panasonic Makernote - 0x0007] Focus Mode = Auto
+[Panasonic Makernote - 0x000f] AF Area Mode = 5-area
+[Panasonic Makernote - 0x001a] Image Stabilization = On, Mode 2
+[Panasonic Makernote - 0x001c] Macro Mode = Off
+[Panasonic Makernote - 0x001f] Record Mode = Macro
+[Panasonic Makernote - 0x0020] Audio = On
+[Panasonic Makernote - 0x0021] Unknown Data Dump = (5370 bytes)
+[Panasonic Makernote - 0x0022] Easy Mode = 0
+[Panasonic Makernote - 0x0023] White Balance Bias = 0
+[Panasonic Makernote - 0x0024] Flash Bias = 0
+[Panasonic Makernote - 0x0025] Internal Serial Number = F000501140053
+[Panasonic Makernote - 0x0026] Exif Version = 1.00
+[Panasonic Makernote - 0x0027] Unknown tag (0x0027) = 0
+[Panasonic Makernote - 0x0028] Color Effect = Off
+[Panasonic Makernote - 0x0029] Camera Uptime = 996.62 s
+[Panasonic Makernote - 0x002a] Burst Mode = Off
+[Panasonic Makernote - 0x002b] Sequence Number = 0
+[Panasonic Makernote - 0x002c] Contrast Mode = High
+[Panasonic Makernote - 0x002d] Noise Reduction = Standard (0)
+[Panasonic Makernote - 0x002e] Self Timer = Off
+[Panasonic Makernote - 0x002f] Unknown tag (0x002f) = 1
+[Panasonic Makernote - 0x0030] Rotation = Rotate 90 CW
+[Panasonic Makernote - 0x0031] AF Assist Lamp = Disabled and not required
+[Panasonic Makernote - 0x0032] Color Mode = Normal
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[PrintIM - 0x0000] PrintIM Version = 0250
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000000
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000064
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x000000ac
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x000000c4
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000005
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000001
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x00000080
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 6804 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 7663 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Panasonic LZ2.jpg
+[File - 0x0002] File Size = 2242422 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Panasonic Makernote
+        - Interoperability
+    - PrintIM
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

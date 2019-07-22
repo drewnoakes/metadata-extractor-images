@@ -1,0 +1,95 @@
+FILE: Casio QV-3000EX.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1536 pixels
+[JPEG - 0x0003] Image Width = 2048 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = CASIO
+[Exif IFD0 - 0x0110] Model = QV-3000EX
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver1.002
+[Exif IFD0 - 0x0132] Date/Time = 2001:03:14 08:46:51
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x829a] Exposure Time = 125/7503 sec
+[Exif SubIFD - 0x829d] F-Number = f/4.0
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2001:03:14 08:46:51
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2001:03:14 08:46:51
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 175/48 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.0
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash fired
+[Exif SubIFD - 0x920a] Focal Length = 10.4 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2048 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+
+[Casio Makernote - 0x0001] Recording Mode = Single shutter
+[Casio Makernote - 0x0002] Quality = Fine
+[Casio Makernote - 0x0003] Focusing Mode = Macro
+[Casio Makernote - 0x0004] Flash Mode = On
+[Casio Makernote - 0x0005] Flash Intensity = Normal
+[Casio Makernote - 0x0006] Object Distance = 179 mm
+[Casio Makernote - 0x0007] White Balance = Auto
+[Casio Makernote - 0x0008] Makernote Unknown 1 = 1
+[Casio Makernote - 0x0009] Makernote Unknown 2 = 1
+[Casio Makernote - 0x000a] Digital Zoom = No digital zoom
+[Casio Makernote - 0x000b] Sharpness = Normal
+[Casio Makernote - 0x000c] Contrast = Normal
+[Casio Makernote - 0x000d] Saturation = Normal
+[Casio Makernote - 0x000e] Makernote Unknown 3 = 0
+[Casio Makernote - 0x000f] Makernote Unknown 4 = 0
+[Casio Makernote - 0x0010] Makernote Unknown 5 = 1
+[Casio Makernote - 0x0011] Makernote Unknown 6 = 8978524
+[Casio Makernote - 0x0012] Makernote Unknown 7 = 16
+[Casio Makernote - 0x0013] Makernote Unknown 8 = 16
+[Casio Makernote - 0x0014] CCD Sensitivity = Normal
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 914 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 4486 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Casio QV-3000EX.jpg
+[File - 0x0002] File Size = 1256919 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Casio Makernote
+        - Interoperability
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

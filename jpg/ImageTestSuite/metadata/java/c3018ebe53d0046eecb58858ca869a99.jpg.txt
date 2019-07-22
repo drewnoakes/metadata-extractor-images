@@ -1,0 +1,39 @@
+FILE: c3018ebe53d0046eecb58858ca869a99.jpg
+TYPE: JPEG
+
+[ERROR: Error] Exception processing TIFF data: Unexpected TIFF marker: 0x132A
+
+[JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 407 pixels
+[JPEG - 0x0003] Image Width = 325 pixels
+[JPEG - 0x0005] Number of Components = 1
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.2
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 300 dots
+[JFIF - 0x000a] Y Resolution = 300 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 201
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = c3018ebe53d0046eecb58858ca869a99.jpg
+[File - 0x0002] File Size = 67705 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Error
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

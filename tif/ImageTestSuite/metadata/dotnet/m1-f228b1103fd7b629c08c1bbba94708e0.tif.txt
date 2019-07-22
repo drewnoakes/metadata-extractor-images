@@ -1,0 +1,42 @@
+FILE: m1-f228b1103fd7b629c08c1bbba94708e0.tif
+TYPE: ARW
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 4680 pixels
+[Exif IFD0 - 0x0101] Image Height = 6400 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = T6/Group 4 Fax
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x010a] Fill Order = Normal
+[Exif IFD0 - 0x010e] Image Description = Adobe Photoshop 7.0
+[Exif IFD0 - 0x010f] Make = techsoft as - P.O.BOX 132, N-3201 Sandefjord,NORWAY
+[Exif IFD0 - 0x0111] Strip Offsets = 838
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 6400 rows/strip
+[Exif IFD0 - 0x5017] Unknown tag (0x5017) = 964484
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0125] Unknown tag (0x0125) = 0
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = PixEdit Version 6.2.2.0, SN 246-50188-02,  used by Owner at Your Company Name
+[Exif IFD0 - 0x0132] Date/Time = 2008:01:05 13:29:0
+[Exif IFD0 - 0x882c] Unknown tag (0x882c) = 482
+
+[Exif SubIFD - 0xa001] Color Space = Undefined
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = m1-f228b1103fd7b629c08c1bbba94708e0.tif
+[File - 0x0002] File Size = 965322 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

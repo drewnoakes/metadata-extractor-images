@@ -1,0 +1,23 @@
+FILE: mathematica.eps
+TYPE: EPS
+
+[EPS - 0x0003] Bounding Box = 0 0 288 177
+[EPS - 0x0006] Creator = (Mathematica Macintosh 3.0)
+[EPS - 0x000e] Title = Clipboard
+[EPS - 0x0005] Creation Date = (Monday, September 11, 2000) (2:45:40 PM)
+
+[File Type - 0x0001] Detected File Type Name = EPS
+[File Type - 0x0002] Detected File Type Long Name = Encapsulated PostScript
+[File Type - 0x0003] Detected MIME Type = application/postscript
+[File Type - 0x0004] Expected File Name Extension = eps
+
+[File - 0x0001] File Name = mathematica.eps
+[File - 0x0002] File Size = 15878 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- EPS
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

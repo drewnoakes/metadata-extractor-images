@@ -1,0 +1,7 @@
+FILE: 008b8bb75b8a487dc5aac86c9abb06fb.png
+TYPE: PNG
+
+EXCEPTION: Observed multiple instances of PNG chunk 'sBIT', for which multiples are not allowed
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

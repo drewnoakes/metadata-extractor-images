@@ -1,0 +1,65 @@
+FILE: m3-299787ea764c0a88bc481364eded5556.tif
+TYPE: TIFF
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 141 for tag 0x0124
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif Image] Invalid TIFF tag format code 22531 for tag 0x0100
+[ERROR: Exif Image] Invalid TIFF tag format code 183 for tag 0x0111
+[ERROR: Exif Image] Invalid TIFF tag format code 52 for tag 0x0115
+[ERROR: Exif Image] Invalid TIFF tag format code 191 for tag 0x0124
+[ERROR: Exif Image] Invalid TIFF tag format code 32259 for tag 0x0128
+[ERROR: Exif Image] Invalid TIFF tag format code 9219 for tag 0x0147
+[ERROR: Exif Image] Stopping processing as too many errors seen in TIFF IFD
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif IFD0 - 0x0100] Image Width = 1547 pixels
+[Exif IFD0 - 0x0101] Image Height = 1087 pixels
+[Exif IFD0 - 0x0113] Unknown tag (0x0113) = 1
+[Exif IFD0 - 0x9103] Unknown tag (0x9103) = 3
+[Exif IFD0 - 0xd906] Unknown tag (0xd906) = 0
+[Exif IFD0 - 0x010a] Fill Order = Normal
+[Exif IFD0 - 0x0111] Strip Offsets = 8
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 1087 rows/strip
+[Exif IFD0 - 0xf717] Unknown tag (0xf717) = 40878
+[Exif IFD0 - 0x011b] Y Resolution = 98 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0129] Page Number = 0 9
+[Exif IFD0 - 0x0131] Software = 
+[Exif IFD0 - 0x0132] Date/Time = 2�08:09:08 09:42:29
+[Exif IFD0 - 0x0146] Unknown tag (0x0146) = 0
+[Exif IFD0 - 0x0147] Unknown tag (0x0147) = [5121 values]
+[Exif IFD0 - 0x0148] Unknown tag (0x0148) = 0
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0101] Image Height = 1089 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = 
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010a] Fill Order = Normal
+[Exif Image - 0x0116] Rows Per Strip = 1089 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 25073 bytes
+[Exif Image - 0x011a] X Resolution = 204 dots per unit
+[Exif Image - 0x011b] Y Resolution = 98 dots per unit
+[Exif Image - 0x0129] Page Number = 1 9
+[Exif Image - 0x0131] Software = NaturalFax
+[Exif Image - 0x0132] Date/Time = 2008:09:08 09:42:29
+[Exif Image - 0x0146] Unknown tag (0x0146) = 4849664
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m3-299787ea764c0a88bc481364eded5556.tif
+[File - 0x0002] File Size = 310000 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Image
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,7 @@
+FILE: 1ae14e57b7062597279134ff2eeb39c0.png
+TYPE: PNG
+
+EXCEPTION: Observed multiple instances of PNG chunk 'tRNS', for which multiples are not allowed
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

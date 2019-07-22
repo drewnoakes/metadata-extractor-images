@@ -1,0 +1,7 @@
+FILE: ce380515a534e8226209daae00e7b4e8.jpg
+TYPE: JPEG
+
+EXCEPTION: JPEG segment size would be less than zero
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

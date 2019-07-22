@@ -1,0 +1,7 @@
+FILE: balloon.j2c
+TYPE: MP3
+
+EXCEPTION: 14
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

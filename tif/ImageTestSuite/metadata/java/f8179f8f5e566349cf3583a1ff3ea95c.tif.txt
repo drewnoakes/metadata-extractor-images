@@ -1,0 +1,271 @@
+FILE: f8179f8f5e566349cf3583a1ff3ea95c.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif IFD0 - 0x0100] Image Width = 1656 pixels
+[Exif IFD0 - 0x0101] Image Height = 2339 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = T4/Group 3 Fax
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x0107] Thresholding = No dithering or halftoning
+[Exif IFD0 - 0x010a] Fill Order = Reversed
+[Exif IFD0 - 0x010f] Make = RICOH
+[Exif IFD0 - 0x0111] Strip Offsets = 8
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 38835 bytes
+[Exif IFD0 - 0x0118] Minimum Sample Value = 0
+[Exif IFD0 - 0x0119] Maximum Sample Value = 1
+[Exif IFD0 - 0x011a] X Resolution = 200 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 200 dots per inch
+[Exif IFD0 - 0x0124] Unknown tag (0x0124) = 0
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0129] Page Number = 0 11
+[Exif IFD0 - 0x9330] Unknown tag (0x9330) = [5632 values]
+
+[Exif Image - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1656 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010a] Fill Order = Reversed
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 39136
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 81884 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 1 11
+
+[Exif Image - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1656 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010a] Fill Order = Reversed
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 121300
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 57984 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 2 11
+
+[Exif Image - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1656 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010a] Fill Order = Reversed
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 179564
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 59867 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 3 11
+
+[Exif Image - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1656 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010a] Fill Order = Reversed
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 239712
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 80053 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 4 11
+
+[Exif Image - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1656 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010a] Fill Order = Reversed
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 320046
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 70948 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 5 11
+
+[Exif Image - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1656 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010a] Fill Order = Reversed
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 391274
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 84996 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 6 11
+
+[Exif Image - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1656 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010a] Fill Order = Reversed
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 476550
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 87239 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 7 11
+
+[Exif Image - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1656 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010a] Fill Order = Reversed
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 564070
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 80289 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 8 11
+
+[Exif Image - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1656 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010a] Fill Order = Reversed
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 644640
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 52985 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 9 11
+
+[Exif Image - 0x00ff] Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1656 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T4/Group 3 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010a] Fill Order = Reversed
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 697906
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 31593 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 10 11
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = f8179f8f5e566349cf3583a1ff3ea95c.tif
+[File - 0x0002] File Size = 735412 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Image
+        - Exif Image
+            - Exif Image
+                - Exif Image
+                    - Exif Image
+                        - Exif Image
+                            - Exif Image
+                                - Exif Image
+                                    - Exif Image
+                                        - Exif Image
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

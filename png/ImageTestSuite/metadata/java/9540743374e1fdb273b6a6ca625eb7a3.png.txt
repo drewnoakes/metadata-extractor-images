@@ -1,0 +1,45 @@
+FILE: 9540743374e1fdb273b6a6ca625eb7a3.png
+TYPE: PNG
+
+[ERROR: ICC Profile] Exception reading ICC profile: Unexpected end of ZLIB input stream
+
+[PNG-IHDR - 0x0001] Image Width = 400
+[PNG-IHDR - 0x0002] Image Height = 528
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = Greyscale
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-iCCP - 0x000c] ICC Profile Name = Photoshop ICC profile
+
+[PNG-gAMA - 0x000b] Image Gamma = 0
+
+[PNG Chromaticities - 0x0001] White Point X = -1
+[PNG Chromaticities - 0x0002] White Point Y = -1
+[PNG Chromaticities - 0x0003] Red X = -1
+[PNG Chromaticities - 0x0004] Red Y = -1
+[PNG Chromaticities - 0x0005] Green X = -1
+[PNG Chromaticities - 0x0006] Green Y = -1
+[PNG Chromaticities - 0x0007] Blue X = -1
+[PNG Chromaticities - 0x0008] Blue Y = -1
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = 9540743374e1fdb273b6a6ca625eb7a3.png
+[File - 0x0002] File Size = 213108 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-iCCP
+    - ICC Profile
+- PNG-gAMA
+- PNG Chromaticities
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

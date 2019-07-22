@@ -1,0 +1,7 @@
+FILE: sample_mpeg2.m2v
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,147 @@
+FILE: Nikon E995 (iptc).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1536 pixels
+[JPEG - 0x0003] Image Width = 2048 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010e] Image Description =           
+[Exif IFD0 - 0x010f] Make = NIKON
+[Exif IFD0 - 0x0110] Model = E995
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = E995v1.6
+[Exif IFD0 - 0x0132] Date/Time = 2002:08:29 17:31:40
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x829a] Exposure Time = 152439/6250000 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.6
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2002:08:29 17:31:40
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2002:08:29 17:31:40
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/1.0
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash fired
+[Exif SubIFD - 0x920a] Focal Length = 8.2 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2048 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+
+[Nikon Makernote - 0x0001] Firmware Version = 1.00
+[Nikon Makernote - 0x0002] ISO = Unknown (0 0)
+[Nikon Makernote - 0x0003] Color Mode = COLOR
+[Nikon Makernote - 0x0004] Quality & File Format = NORMAL 
+[Nikon Makernote - 0x0005] White Balance = AUTO        
+[Nikon Makernote - 0x0006] Sharpening = AUTO  
+[Nikon Makernote - 0x0007] AF Type = AF-C  
+[Nikon Makernote - 0x0008] Flash Sync Mode = NORMAL      
+[Nikon Makernote - 0x000a] Unknown tag (0x000a) = 1104/125
+[Nikon Makernote - 0x000f] ISO Mode = AUTO  
+[Nikon Makernote - 0x0011] Preview IFD = 1300
+[Nikon Makernote - 0x0080] Image Adjustment = AUTO         
+[Nikon Makernote - 0x0082] Adapter = OFF         
+[Nikon Makernote - 0x0085] Manual Focus Distance = 0
+[Nikon Makernote - 0x0086] Digital Zoom = No digital zoom
+[Nikon Makernote - 0x0088] AF Focus Position = Top
+[Nikon Makernote - 0x008f] Scene Mode =                 
+[Nikon Makernote - 0x0094] Saturation = 0
+[Nikon Makernote - 0x0095] Noise Reduction = FPNR
+[Nikon Makernote - 0x0e10] Nikon Scan = 1394
+
+[PrintIM - 0x0000] PrintIM Version = 0100
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x0000005e
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x000000a6
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x000000be
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000005
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000001
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 1494 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 6077 bytes
+
+[IPTC - 0x0278] Caption/Abstract = Dateiname : DSCN1767.JPG
+Dateigröße : 668.1 KB (684158 Byte)
+Aufnahmedatum : 2002/08/29 17:31:40
+Bildgröße : 2048 x 1536 Pixel
+Auflösung : 300 x 300 dpi
+Farbtiefe : 8 Bit/Kanal
+Schützen : Aus
+Ausblenden : Aus
+Kamera-ID : N/A
+Kamera : E995
+Qualitätsmodus : NORMAL
+Messmethode : Mehrfeld
+Belichtungsbetriebsart : Programmautomatik
+Speedlight : Ja
+Brennweite : 8.2 mm
+Verschlusszeit : 1/41 Sekunde
+Blende : F2.6
+Belichtungskorrektur : 0 EV
+Fester Weißabgleich : Automatik
+Objektiv : Integriert
+Blitz-Synchronisierungsmodus : Erster Verschlussvorhang
+Belichtungsdifferenz : N/A
+Flexibles Programm : N/A
+Empfindlichkeit : Auto
+Schärfung : Automatik
+Farbmodus : Farbe
+Farbeinstellungen : N/A
+Farbsättigung : N/A
+Farbsättigung : 0 Normal
+Tonwertkorrektur : Automatik
+Breite (GPS) : N/A
+Länge (GPS) : N/A
+Höhe (GPS) : N/A
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Nikon E995 (iptc).jpg
+[File - 0x0002] File Size = 781204 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Nikon Makernote
+            - PrintIM
+    - GPS
+    - Exif Thumbnail
+- Photoshop
+    - IPTC
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

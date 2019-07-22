@@ -1,0 +1,96 @@
+FILE: Nikon E990.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1536 pixels
+[JPEG - 0x0003] Image Width = 2048 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010e] Image Description =           
+[Exif IFD0 - 0x010f] Make = NIKON
+[Exif IFD0 - 0x0110] Model = E990
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = E990v1.1
+[Exif IFD0 - 0x0132] Date/Time = 2000:12:30 10:18:16
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 10/3441 sec
+[Exif SubIFD - 0x829d] F-Number = f/7.0
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2000:12:30 10:18:16
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2000:12:30 10:18:16
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 3 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.4
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 8.2 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2048 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+
+[Nikon Makernote - 0x0001] Firmware Version = 1.00
+[Nikon Makernote - 0x0002] ISO = Unknown (0 0)
+[Nikon Makernote - 0x0003] Color Mode = COLOR
+[Nikon Makernote - 0x0004] Quality & File Format = FINE  
+[Nikon Makernote - 0x0005] White Balance = AUTO        
+[Nikon Makernote - 0x0006] Sharpening = AUTO  
+[Nikon Makernote - 0x0007] AF Type = AF-C  
+[Nikon Makernote - 0x0008] Flash Sync Mode = NORMAL 
+[Nikon Makernote - 0x000a] Unknown tag (0x000a) = 1104/125
+[Nikon Makernote - 0x000f] ISO Mode = AUTO  
+[Nikon Makernote - 0x0080] Image Adjustment = AUTO         
+[Nikon Makernote - 0x0082] Adapter = OFF         
+[Nikon Makernote - 0x0085] Manual Focus Distance = 0
+[Nikon Makernote - 0x0086] Digital Zoom = No digital zoom
+[Nikon Makernote - 0x0088] AF Focus Position = Centre
+[Nikon Makernote - 0x0010] Data Dump = [174 values]
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 4084 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 8680 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Nikon E990.jpg
+[File - 0x0002] File Size = 1065869 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Nikon Makernote
+        - Interoperability
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

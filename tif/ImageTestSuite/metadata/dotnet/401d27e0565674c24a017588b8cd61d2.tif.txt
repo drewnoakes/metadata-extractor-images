@@ -1,0 +1,178 @@
+FILE: 401d27e0565674c24a017588b8cd61d2.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 928 pixels
+[Exif IFD0 - 0x0101] Image Height = 1772 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0111] Strip Offsets = [886 values]
+[Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 2 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 404 971 1220 1502 1961 2047 1783 1682 1754 2025 2124 2220 2386 2478 2452 2490 2587 2599 2560 2461 2472 2428 2725 2727 2817 2757 2851 2842 2935 2859 2734 2638 2503 2306 2337 2283 2276 2294 2272 2293 2340 2356 2409 2392 2419 2309 2400 2406 2415 2377 2475 2593 2650 2568 2565 2521 2718 2755 2791 2673 2605 2643 2755 2674 2718 2692 2793 2686 2742 2670 2599 2580 2520 2556 2559 2551 2536 2574 2586 2584 2638 2584 2667 2619 2661 2617 2683 2683 2710 2742 2719 2884 3163 2989 2733 2599 2713 2868 3079 3126 3037 2922 2994 2959 3057 3028 3064 2991 2811 2665 2859 3027 2814 2824 2976 3253 3123 3138 3421 3402 3373 3453 3462 3508 3484 3441 3442 3534 3546 3540 3523 3543 3531 3445 3445 3405 3447 3510 3537 3510 3529 3516 3555 3558 3501 2671 2593 2688 3489 3216 3018 2778 1748 1938 2512 2590 2719 2704 2829 2833 3150 3298 3348 3259 3301 3139 3163 3123 3168 3078 3102 3259 3307 2728 2713 2665 2751 2653 2634 2538 2616 2647 3168 3429 3366 3250 3316 3187 3309 3333 3283 3211 3274 3334 3220 2932 2779 2731 2565 2521 2578 2571 2646 2950 3027 3033 3003 3049 3099 3081 3100 3045 3049 3028 2973 2943 2787 2610 2194 2100 2256 2265 2401 2946 2931 2956 2976 2961 3025 2982 2983 3025 3042 2992 3039 3169 3282 3297 3250 3276 3283 3280 3280 3321 3366 3325 3334 3330 3363 3316 3354 3399 3388 3412 3378 3417 3436 3483 3460 3457 3514 3501 3513 3526 3562 3552 3568 3619 3553 3535 3541 3562 3484 3495 3537 3553 3633 3574 3663 3723 3814 3816 3783 3757 3750 3657 3702 3630 3681 3631 3598 3616 3610 3580 3613 3585 3652 3622 3622 3613 3657 3664 3670 3633 3580 3549 3559 3510 3466 3483 3432 3463 3538 3513 3453 3468 3544 3558 3598 3606 3604 3646 3676 3657 3633 3649 3604 3628 3613 3649 3582 3643 3672 3658 3672 3732 3729 3706 3739 3721 3762 3753 3687 3702 3700 3688 3715 3645 3705 3637 3627 3610 3613 3618 3636 3621 3664 3625 3588 3561 3580 3511 3462 3459 3493 3480 3433 3414 3442 3426 3325 3261 3310 3345 3298 3336 3379 3378 3379 3373 3351 3412 3379 3406 3397 3310 3408 3378 3406 3388 3396 3474 3435 3492 3516 3466 3436 3477 3490 3478 3471 3510 3520 3493 3495 3445 3469 3426 3408 3414 3483 3382 3387 3372 3418 3369 3366 3396 3366 3394 3355 3316 3292 3316 3346 3352 3396 3400 3396 3333 3330 3345 3367 3324 3306 3274 3285 3250 3256 3178 3225 3277 3309 3276 3285 3313 3316 3303 3298 3243 1505 1454 1498 1598 1667 1722 1767 1953 2049 2212 2104 2069 2069 1996 2000 2159 2118 2148 2180 2144 2188 2278 1976 1824 1528 1510 1517 1523 1585 1487 1571 2469 2874 3094 3169 3204 3208 3204 3247 3684 3981 3708 3517 3405 3424 3388 3378 3441 3403 3385 3346 3315 3376 3358 3357 3282 3250 3186 3219 3172 3186 3205 3189 3169 3198 3147 3046 2940 3127 3276 3243 3232 3196 3150 2913 2826 2955 2769 3000 3028 3157 3094 3129 3072 3090 3174 3076 3064 3192 3280 3213 3214 3346 3396 3393 3295 3334 3292 3315 3241 3286 3280 3343 3160 3210 3193 3226 3156 3223 3187 3180 3181 3259 3234 3322 3283 3334 3439 3396 3351 3421 3376 3441 3402 3468 3331 3354 3315 3358 3321 3274 3253 3267 3265 3333 3285 3291 3337 3282 3415 3403 3352 3412 3346 3388 3337 3366 3276 3273 3177 3211 3261 3268 3205 3175 3175 3226 3195 3198 3243 3348 3277 3313 3399 3403 3424 3417 3384 3423 3379 3445 3495 3523 3438 3420 3427 3391 3334 3367 3441 3397 3403 3352 3316 3289 3235 3226 3243 3262 3279 3336 3315 3378 3312 3322 3303 3261 3156 3034 2896 2859 2916 2950 3019 3019 2982 3147 3111 3070 3150 3183 3130 2983 2979 3036 3043 3085 3177 3159 3201 3181 3304 3310 3373 3340 3292 3223 3255 3142 3129 3130 3162 3121 3102 3133 3078 3037 3018 2962 2974 2899 2764 2799 2815 2788 2811 2910 2929 2904 2848 2863 2814 2719 2722 2722 2791 2764 2934 2979 2980 2974 2971 3003 3085 3060 3051 2989 2857 2830 2776 2704 2650 2644 2658 2679 2692 2700 2785 2581 2604 2499 2391 2280 2304 2315 2343 2322 2407 2407 2430 2415 2425 2333 2273 2144 2168 2168 2207 2273 2335 2442 2511 2404 2574 2571 2581 2512 2454 2418 2264 2235 2212 2113 2152 2107 2207 2199 2187 2095 2071 1993 1979 1861 1798 1717 1677 1662 1637 1605 1674 1589 1487 1439 1359 1235 1179 1145 1189 1164 1216 1231 1248 1255 1237 1233 1224 1197 1230 1175 1266 1227 1227 1213 1180 1077 1054 962 914 854 769 677 530 195 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 144 176 384 395 424 417 699 655 752 682 701 670 686 685 672 694 605 416 144 144 144 144 144 144 144 144 bytes
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop Elements 2.0
+[Exif IFD0 - 0x0132] Date/Time = 2005:01:24 11:05:43
+[Exif IFD0 - 0x013d] Predictor = 2
+[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 0
+
+[XMP - 0xffff] XMP Value Count = 42
+
+[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 8/1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 20/1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureProgram = 1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2004-04-26T13:55:57+02:00
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = -196608/65536
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 565248/65536
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0/1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MeteringMode = 5
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalLength = 90/1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 4294967295
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 1854
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 3425
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalPlaneXResolution = 4064000/1408
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalPlaneYResolution = 2704000/937
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalPlaneResolutionUnit = 2
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CustomRendered = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureMode = 1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneCaptureType = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ISOSpeedRatings = 
+[XMPMeta - ] exif:ISOSpeedRatings[1] = 100
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Fired = False
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Return = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Mode = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Function = False
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:RedEyeMode = False
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
+[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 300/1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 300/1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2004-06-10T10:42:54+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2004-06-10T10:42:54+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2004-06-10T10:42:54+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop Elements for Windows, version 2.0
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = uuid:643b279c-b469-11d8-9564-ca6aa92d55f2
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = adobe:docid:photoshop:88c038fc-9b7a-11d8-b50b-8f93386cddec
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:88c038fc-9b7a-11d8-b50b-8f93386cddec
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:bbba279d-6dee-11d9-a00a-c8ccd4b9a28e
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
+
+[IPTC - 0x0200] Application Record Version = 2
+
+[Photoshop - 0x0425] Caption Digest = 70 12 242 137 38 184 86 218 176 156 1 161 176 167 144 119
+[Photoshop - 0x03e9] Mac Print Info = [120 values]
+[Photoshop - 0x03ed] Resolution Info = 300x300 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x03ee] Alpha Channels = 7 68 105 115 112 108 97 121
+[Photoshop - 0x0415] Unicode Alpha Names = [20 values]
+[Photoshop - 0x03ef] Display Info (Obsolete) = 0 0 255 255 0 0 0 0 0 0 0 50 1 0
+[Photoshop - 0x041d] Alpha Identifiers = 0 0 0 104
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0400] Layer State Information = 0 0
+[Photoshop - 0x0402] Layers Group Information = 0 0
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices =  (0,0,1772,928) 1 Slices
+[Photoshop - 0x0414] Seed Number = 112
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 67x128, Decomp 26112 bytes, 1572865 bpp, 4164 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop Elements, Adobe Photoshop Elements 2.0) 1
+[Photoshop - 0x07d0] Unknown tag (0x07d0) = [988 values]
+[Photoshop - 0x07d1] Unknown tag (0x07d1) = [338 values]
+[Photoshop - 0x07d2] Unknown tag (0x07d2) = [676 values]
+[Photoshop - 0x07d3] Unknown tag (0x07d3) = [4966 values]
+[Photoshop - 0x07d4] Unknown tag (0x07d4) = [286 values]
+[Photoshop - 0x07d5] Unknown tag (0x07d5) = [572 values]
+[Photoshop - 0x07d6] Unknown tag (0x07d6) = [1222 values]
+[Photoshop - 0x07d7] Unknown tag (0x07d7) = [286 values]
+[Photoshop - 0x07d8] Unknown tag (0x07d8) = [312 values]
+[Photoshop - 0x0bb7] Clipping Path Name = 6 80 97 116 104 32 49 0 0 0 0 0 1
+
+[IPTC - 0x0200] Application Record Version = 2
+
+[Exif SubIFD - 0x829a] Exposure Time = 8 sec
+[Exif SubIFD - 0x829d] F-Number = f/20.0
+[Exif SubIFD - 0x8822] Exposure Program = Manual control
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9003] Date/Time Original = 2004:04:26 13:55:57
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2004:04:26 13:55:57
+[Exif SubIFD - 0x9201] Shutter Speed Value = 8 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/19.9
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 90 mm
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 928 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1772 pixels
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 11/31750 inches
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 937/2704000 inches
+[Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+
+[ICC Profile - 0x0000] Profile Size = 560
+[ICC Profile - 0x0004] CMM Type = ADBE
+[ICC Profile - 0x0008] Version = 2.1.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 1999:06:03 00:00:00
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = none
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 10
+[ICC Profile - 0x63707274] Copyright = Copyright 1999 Adobe Systems Incorporated
+[ICC Profile - 0x64657363] Profile Description = Adobe RGB (1998)
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+[ICC Profile - 0x626b7074] Media Black Point = (0, 0, 0)
+[ICC Profile - 0x72545243] Red TRC = 0.0085908
+[ICC Profile - 0x67545243] Green TRC = 0.0085908
+[ICC Profile - 0x62545243] Blue TRC = 0.0085908
+[ICC Profile - 0x7258595a] Red Colorant = (0.6097, 0.3111, 0.0195)
+[ICC Profile - 0x6758595a] Green Colorant = (0.2053, 0.6257, 0.0609)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1492, 0.0632, 0.7446)
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = 401d27e0565674c24a017588b8cd61d2.tif
+[File - 0x0002] File Size = 2454468 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - IPTC
+    - Photoshop
+        - IPTC
+    - Exif SubIFD
+    - ICC Profile
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

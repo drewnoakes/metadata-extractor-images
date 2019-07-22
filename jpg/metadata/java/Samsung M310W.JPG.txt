@@ -1,0 +1,95 @@
+FILE: Samsung M310W.JPG
+TYPE: JPEG
+
+[ERROR: Samsung Makernote] Illegally sized IFD
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3168 pixels
+[JPEG - 0x0003] Image Width = 4224 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010e] Image Description = VLUU L310W L313 M310W / Samsung L310W L313 M310W
+[Exif IFD0 - 0x010f] Make = SAMSUNG
+[Exif IFD0 - 0x0110] Model = VLUU L310W L313 M310W / Samsung L310W L313 M310W
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 96 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 96 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 901211
+[Exif IFD0 - 0x0132] Date/Time = 2016:08:17 20:23:56
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x8298] Copyright = COPYRIGHT, 2008
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/750 sec
+[Exif SubIFD - 0x829d] F-Number = f/7.1
+[Exif SubIFD - 0x8822] Exposure Program = Manual control
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 800
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2016:08:17 20:23:56
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2016:08:17 20:23:56
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 1813849/553344 bits/pixel
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/724 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/7.1
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9207] Metering Mode = Spot
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash fired
+[Exif SubIFD - 0x920a] Focal Length = 6 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4224 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3168 pixels
+[Exif SubIFD - 0xa004] Related Sound File = RelatedSound
+[Exif SubIFD - 0xa215] Exposure Index = 1
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+[Exif SubIFD - 0xa405] Focal Length 35 = 28 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 1 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 1 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 29078 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 3526 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Samsung M310W.JPG
+[File - 0x0002] File Size = 5526947 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Samsung Makernote
+        - Interoperability
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

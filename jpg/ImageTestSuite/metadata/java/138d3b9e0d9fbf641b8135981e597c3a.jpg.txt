@@ -1,0 +1,7 @@
+FILE: 138d3b9e0d9fbf641b8135981e597c3a.jpg
+TYPE: JPEG
+
+EXCEPTION: End of data reached.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

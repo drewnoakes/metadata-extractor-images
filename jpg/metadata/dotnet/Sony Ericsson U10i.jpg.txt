@@ -1,0 +1,91 @@
+FILE: Sony Ericsson U10i.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1836 pixels
+[JPEG - 0x0003] Image Width = 3264 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = Sony Ericsson
+[Exif IFD0 - 0x0110] Model = U10i
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = R1CA008     prg1223-3004_GENERIC_RA d:179.1 f:53 h:50
+[Exif IFD0 - 0x0132] Date/Time = 2009:11:21 10:19:43
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/1000 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.8
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 50
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2009:11:21 10:19:41
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2009:11:21 10:19:43
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Center weighted average
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 4.7 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 3264 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1836 pixels
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+
+[Sony Makernote - 0x2000] Makernote Thumb Version = 2.00
+[Sony Makernote - 0x0201] Unknown tag (0x0201) = 62
+[Sony Makernote - 0x0202] Unknown tag (0x0202) = 51856
+[Sony Makernote - 0x0203] Unknown tag (0x0203) = 56
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 52672 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 7053 bytes
+
+[XMP - 0xffff] XMP Value Count = 6
+
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/]  = 
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:mcc = 460
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:mnc = 0
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:lac = 4236
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:cellid = 50280
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:r = 3
+[XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:cgi = 460-0-4236-50280
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Sony Ericsson U10i.jpg
+[File - 0x0002] File Size = 1522541 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Sony Makernote
+        - Interoperability
+    - Exif Thumbnail
+- XMP
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

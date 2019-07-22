@@ -1,0 +1,263 @@
+FILE: Panasonic DMC-GF7.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3448 pixels
+[JPEG - 0x0003] Image Width = 4592 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = Panasonic
+[Exif IFD0 - 0x0110] Model = DMC-GF7
+[Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
+[Exif IFD0 - 0x011a] X Resolution = 180 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 180 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver.0.2  
+[Exif IFD0 - 0x0132] Date/Time = 2015:01:18 15:23:17
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0xc6d2] Panasonic Title = [64 values]
+[Exif IFD0 - 0xc6d3] Panasonic Title (2) = [128 values]
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/1000 sec
+[Exif SubIFD - 0x829d] F-Number = f/5.6
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0x9003] Date/Time Original = 2015:01:18 15:23:17
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2015:01:18 15:23:17
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/5.6
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 32 mm
+[Exif SubIFD - 0x9290] Sub-Sec Time = 894
+[Exif SubIFD - 0x9291] Sub-Sec Time Original = 894
+[Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 894
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4592 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3448 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+[Exif SubIFD - 0xa405] Focal Length 35 = 64 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = Low gain up
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+[Panasonic Makernote - 0x0001] Quality Mode = Raw
+[Panasonic Makernote - 0x0002] Version = 0.20
+[Panasonic Makernote - 0x0003] White Balance = Auto
+[Panasonic Makernote - 0x0007] Focus Mode = Auto
+[Panasonic Makernote - 0x000f] AF Area Mode = 1-area
+[Panasonic Makernote - 0x001a] Image Stabilization = On, Mode 1
+[Panasonic Makernote - 0x001c] Macro Mode = On
+[Panasonic Makernote - 0x001f] Record Mode = Aperture Priority
+[Panasonic Makernote - 0x0020] Audio = On
+[Panasonic Makernote - 0x0021] Unknown Data Dump = (8200 bytes)
+[Panasonic Makernote - 0x0022] Easy Mode = 0
+[Panasonic Makernote - 0x0024] Flash Bias = 0
+[Panasonic Makernote - 0x0025] Internal Serial Number = X051412060005
+[Panasonic Makernote - 0x0026] Exif Version = 4.09
+[Panasonic Makernote - 0x0027] Unknown tag (0x0027) = 0
+[Panasonic Makernote - 0x0028] Color Effect = Off
+[Panasonic Makernote - 0x0029] Camera Uptime = 63.83 s
+[Panasonic Makernote - 0x002a] Burst Mode = Off
+[Panasonic Makernote - 0x002b] Sequence Number = 0
+[Panasonic Makernote - 0x002c] Contrast Mode = Low
+[Panasonic Makernote - 0x002d] Noise Reduction = Standard (0)
+[Panasonic Makernote - 0x002e] Self Timer = Off
+[Panasonic Makernote - 0x002f] Unknown tag (0x002f) = 1
+[Panasonic Makernote - 0x0030] Rotation = Rotate 270 CW
+[Panasonic Makernote - 0x0031] AF Assist Lamp = Disabled and not required
+[Panasonic Makernote - 0x0032] Color Mode = Normal
+[Panasonic Makernote - 0x0033] Baby Age = 
+[Panasonic Makernote - 0x0034] Optical Zoom Mode = Standard
+[Panasonic Makernote - 0x0035] Conversion Lens = Off
+[Panasonic Makernote - 0x0036] Travel Day = 65535
+[Panasonic Makernote - 0x0037] Unknown tag (0x0037) = 257
+[Panasonic Makernote - 0x0038] Unknown tag (0x0038) = 1
+[Panasonic Makernote - 0x0039] Contrast = Normal
+[Panasonic Makernote - 0x003a] World Time Location = Home
+[Panasonic Makernote - 0x003b] Text Stamp = Off
+[Panasonic Makernote - 0x003c] Program ISO = 65535
+[Panasonic Makernote - 0x003d] Advanced Scene Mode = Normal
+[Panasonic Makernote - 0x003e] Text Stamp 1 = Off
+[Panasonic Makernote - 0x003f] Number of Detected Faces = 0
+[Panasonic Makernote - 0x0040] Saturation = 0
+[Panasonic Makernote - 0x0041] Sharpness = 0
+[Panasonic Makernote - 0x0043] Unknown tag (0x0043) = 2
+[Panasonic Makernote - 0x0044] Color Temp Kelvin = 5300
+[Panasonic Makernote - 0x0045] Bracket Settings = No Bracket
+[Panasonic Makernote - 0x0046] White Balance Adjust (AB) = 0
+[Panasonic Makernote - 0x0047] White Balance Adjust (GM) = 0
+[Panasonic Makernote - 0x0048] Flash Curtain = n/a
+[Panasonic Makernote - 0x0049] Long Exposure Noise Reduction = Off
+[Panasonic Makernote - 0x004b] Panasonic Image Width = 4592
+[Panasonic Makernote - 0x004c] Panasonic Image Height = 3448
+[Panasonic Makernote - 0x004d] Af Point Position = 128/256 128/256
+[Panasonic Makernote - 0x004e] Face Detection Info = 
+[Panasonic Makernote - 0x004f] Unknown tag (0x004f) = 0
+[Panasonic Makernote - 0x0051] Lens Type = LUMIX G VARIO 12-32/F3.5-5.6  
+[Panasonic Makernote - 0x0052] Lens Serial Number = 04LX2032042B
+[Panasonic Makernote - 0x0053] Accessory Type = NO-ACCESSORY
+[Panasonic Makernote - 0x0054] Accessory Serial Number = 0000000
+[Panasonic Makernote - 0x0055] Unknown tag (0x0055) = 1
+[Panasonic Makernote - 0x0058] Unknown tag (0x0058) = 0 0 2 0
+[Panasonic Makernote - 0x005e] Unknown tag (0x005e) = 0 0 0 0
+[Panasonic Makernote - 0x005f] Unknown tag (0x005f) = 0 0 0 0
+[Panasonic Makernote - 0x0060] Lens Firmware Version = 0.1.0.0
+[Panasonic Makernote - 0x0061] Face Recognition Info = 
+[Panasonic Makernote - 0x0063] Recognized Face Flags = 0 0 0 0
+[Panasonic Makernote - 0x0065] Title = 
+[Panasonic Makernote - 0x0066] Baby Name = 
+[Panasonic Makernote - 0x0067] Location = 
+[Panasonic Makernote - 0x0068] Unknown tag (0x0068) = 0
+[Panasonic Makernote - 0x0069] Country = 
+[Panasonic Makernote - 0x006a] Unknown tag (0x006a) = 0
+[Panasonic Makernote - 0x006b] State = 
+[Panasonic Makernote - 0x006c] Unknown tag (0x006c) = 0
+[Panasonic Makernote - 0x006d] City = 
+[Panasonic Makernote - 0x006e] Unknown tag (0x006e) = 0
+[Panasonic Makernote - 0x006f] Landmark = 
+[Panasonic Makernote - 0x0070] Intelligent Resolution = Off
+[Panasonic Makernote - 0x0071] Unknown tag (0x0071) = [128 values]
+[Panasonic Makernote - 0x0072] Unknown tag (0x0072) = 0
+[Panasonic Makernote - 0x0073] Unknown tag (0x0073) = 0
+[Panasonic Makernote - 0x0074] Unknown tag (0x0074) = 0
+[Panasonic Makernote - 0x0075] Unknown tag (0x0075) = 0
+[Panasonic Makernote - 0x0076] Unknown tag (0x0076) = 0
+[Panasonic Makernote - 0x0077] Burst Speed = 0
+[Panasonic Makernote - 0x0078] Unknown tag (0x0078) = 0
+[Panasonic Makernote - 0x0079] Intelligent D-Range = Off
+[Panasonic Makernote - 0x007a] Unknown tag (0x007a) = 0
+[Panasonic Makernote - 0x007c] Clear Retouch = Off
+[Panasonic Makernote - 0x007f] Unknown tag (0x007f) = 0
+[Panasonic Makernote - 0x0080] City 2 = [72 values]
+[Panasonic Makernote - 0x0081] Unknown tag (0x0081) = [72 values]
+[Panasonic Makernote - 0x0082] Unknown tag (0x0082) = [72 values]
+[Panasonic Makernote - 0x0083] Unknown tag (0x0083) = [72 values]
+[Panasonic Makernote - 0x0084] Unknown tag (0x0084) = [72 values]
+[Panasonic Makernote - 0x0085] Unknown tag (0x0085) = [128 values]
+[Panasonic Makernote - 0x0087] Unknown tag (0x0087) = 65535
+[Panasonic Makernote - 0x0089] Photo Style = Standard or Custom
+[Panasonic Makernote - 0x008a] Shading Compensation = Off
+[Panasonic Makernote - 0x008b] Unknown tag (0x008b) = 0
+[Panasonic Makernote - 0x008c] Accelerometer Z = 6
+[Panasonic Makernote - 0x008d] Accelerometer X = -248
+[Panasonic Makernote - 0x008e] Accelerometer Y = 88
+[Panasonic Makernote - 0x008f] Camera Orientation = Rotate CCW
+[Panasonic Makernote - 0x0090] Roll Angle = -90.2
+[Panasonic Makernote - 0x0091] Pitch Angle = -18.7
+[Panasonic Makernote - 0x0092] Unknown tag (0x0092) = 0
+[Panasonic Makernote - 0x0093] Sweep Panorama Direction = Off
+[Panasonic Makernote - 0x0094] Sweep Panorama Field Of View = 0
+[Panasonic Makernote - 0x0096] Timer Recording = Off
+[Panasonic Makernote - 0x0097] Unknown tag (0x0097) = 0
+[Panasonic Makernote - 0x0099] Unknown tag (0x0099) = 0
+[Panasonic Makernote - 0x009a] Unknown tag (0x009a) = 1
+[Panasonic Makernote - 0x009b] Unknown tag (0x009b) = 1
+[Panasonic Makernote - 0x009d] Internal ND Filter = 0
+[Panasonic Makernote - 0x009e] HDR = Off
+[Panasonic Makernote - 0x009f] Shutter Type = Electronic
+[Panasonic Makernote - 0x00a0] Unknown tag (0x00a0) = [32 values]
+[Panasonic Makernote - 0x00a1] Unknown tag (0x00a1) = 0
+[Panasonic Makernote - 0x00a3] Clear Retouch Value = 0
+[Panasonic Makernote - 0x00a6] Unknown tag (0x00a6) = 0
+[Panasonic Makernote - 0x00a7] Unknown tag (0x00a7) = [864 values]
+[Panasonic Makernote - 0x00a8] Unknown tag (0x00a8) = 0
+[Panasonic Makernote - 0x00a9] Unknown tag (0x00a9) = 0
+[Panasonic Makernote - 0x00aa] Unknown tag (0x00aa) = 0
+[Panasonic Makernote - 0x00ab] Touch AE = Off
+[Panasonic Makernote - 0x00ac] Unknown tag (0x00ac) = 0
+[Panasonic Makernote - 0x00ad] Unknown tag (0x00ad) = 0 0
+[Panasonic Makernote - 0x00af] Unknown tag (0x00af) = 2015:01:18 15:23:17
+[Panasonic Makernote - 0x00b0] Unknown tag (0x00b0) = 50000
+[Panasonic Makernote - 0x00b3] Unknown tag (0x00b3) = 1
+[Panasonic Makernote - 0x00b4] Unknown tag (0x00b4) = 1
+[Panasonic Makernote - 0x00b5] Unknown tag (0x00b5) = 0
+[Panasonic Makernote - 0x00b6] Unknown tag (0x00b6) = 0 0 0 0
+[Panasonic Makernote - 0x00b7] Unknown tag (0x00b7) = 0
+[Panasonic Makernote - 0x00b8] Unknown tag (0x00b8) = 0 0 0 0 0 0 0 0
+[Panasonic Makernote - 0x00b9] Unknown tag (0x00b9) = 0
+[Panasonic Makernote - 0x00ba] Unknown tag (0x00ba) = 0
+[Panasonic Makernote - 0x00bb] Unknown tag (0x00bb) = 1
+[Panasonic Makernote - 0x2003] Unknown tag (0x2003) = [20 values]
+[Panasonic Makernote - 0x8000] Makernote Version = 1.49
+[Panasonic Makernote - 0x8001] Scene Mode = Unknown (0)
+[Panasonic Makernote - 0x8002] Unknown tag (0x8002) = 2
+[Panasonic Makernote - 0x8003] Unknown tag (0x8003) = 1
+[Panasonic Makernote - 0x8004] White Balance (Red) = 2414
+[Panasonic Makernote - 0x8005] White Balance (Green) = 1024
+[Panasonic Makernote - 0x8006] White Balance (Blue) = 1632
+[Panasonic Makernote - 0x8007] Flash Fired = Off
+[Panasonic Makernote - 0x8008] Text Stamp 2 = Off
+[Panasonic Makernote - 0x8009] Text Stamp 3 = Off
+[Panasonic Makernote - 0x8010] Baby Age 1 = 
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[PrintIM - 0x0000] PrintIM Version = 0250
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000000
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000064
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x000000ac
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x000000c4
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000005
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000001
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x00000080
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
+[Exif Thumbnail - 0x011a] X Resolution = 180 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 180 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 14836 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 6795 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Panasonic DMC-GF7.jpg
+[File - 0x0002] File Size = 9348608 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Panasonic Makernote
+        - Interoperability
+    - PrintIM
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,23 @@
+FILE: 5633ed9d0eb700d0093bf85d86a95ebf.jpg
+TYPE: JPEG
+
+[JFXX - 0x0005] Extension Code = Unknown extension code 1
+
+[Huffman - 0x0001] Number of Tables = 1 Huffman table
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = 5633ed9d0eb700d0093bf85d86a95ebf.jpg
+[File - 0x0002] File Size = 613 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JFXX
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,100 @@
+FILE: FujiFilm FinePix4900Zoom.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1800 pixels
+[JPEG - 0x0003] Image Width = 2400 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = FUJIFILM
+[Exif IFD0 - 0x0110] Model = FinePix4900ZOOM
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Digital Camera FinePix4900ZOOM Ver1.00
+[Exif IFD0 - 0x0132] Date/Time = 2003:03:22 16:16:16
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+[Exif IFD0 - 0x8298] Copyright =           
+
+[Exif SubIFD - 0x829d] F-Number = f/2.8
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original = 2003:03:22 16:16:16
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2003:03:22 16:16:16
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 1.5 bits/pixel
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/127 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/2.8
+[Exif SubIFD - 0x9203] Brightness Value = 2.8
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9207] Metering Mode = Spot
+[Exif SubIFD - 0x9209] Flash = Flash fired
+[Exif SubIFD - 0x920a] Focal Length = 46.8 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2400 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1800 pixels
+[Exif SubIFD - 0xa20e] Focal Plane X Resolution = 1/3125 cm
+[Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 1/3125 cm
+[Exif SubIFD - 0xa210] Focal Plane Resolution Unit = cm
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+
+[Fujifilm Makernote - 0x0000] Makernote Version = 1.30
+[Fujifilm Makernote - 0x1000] Quality = NORMAL 
+[Fujifilm Makernote - 0x1001] Sharpness = Normal
+[Fujifilm Makernote - 0x1002] White Balance = Auto
+[Fujifilm Makernote - 0x1010] Flash Mode = On
+[Fujifilm Makernote - 0x1011] Flash Strength = 0 EV (Apex)
+[Fujifilm Makernote - 0x1020] Macro = Off
+[Fujifilm Makernote - 0x1021] Focus Mode = Auto Focus
+[Fujifilm Makernote - 0x1030] Slow Sync = Off
+[Fujifilm Makernote - 0x1031] Picture Mode = Program AE
+[Fujifilm Makernote - 0x1100] Auto Bracketing = Off
+[Fujifilm Makernote - 0x1200] Unknown tag (0x1200) = 0
+[Fujifilm Makernote - 0x1300] Blur Warning = No Blur Warning
+[Fujifilm Makernote - 0x1301] Focus Warning = Good Focus
+[Fujifilm Makernote - 0x1302] AE Warning = AE Good
+
+[Interoperability - 0x0001] Interoperability Index = Unknown ()
+[Interoperability - 0x0002] Interoperability Version = A6.68
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 1077 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 2292 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = FujiFilm FinePix4900Zoom.jpg
+[File - 0x0002] File Size = 446464 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Fujifilm Makernote
+        - Interoperability
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

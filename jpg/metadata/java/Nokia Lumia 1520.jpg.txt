@@ -1,0 +1,83 @@
+FILE: Nokia Lumia 1520.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 4992 pixels
+[JPEG - 0x0003] Image Width = 3744 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = Nokia
+[Exif IFD0 - 0x0110] Model = Lumia 1520
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Windows Phone
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+[Exif IFD0 - 0xea1c] Padding = [2060 values]
+
+[Exif SubIFD - 0x829a] Exposure Time = 111/20000 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.4
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2014:04:17 16:43:51
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2014:04:17 16:43:51
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/180 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/2.4
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Average
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash fired, auto
+[Exif SubIFD - 0x927c] Makernote = [19401 values]
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 3744 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 4992 pixels
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xea1c] Padding = [2060 values]
+
+[GPS - 0xea1c] Padding = [2060 values]
+
+[XMP - 0xffff] XMP Value Count = 10
+
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:h = 4992
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:unit = pixel
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:w = 3744
+[XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Title = 
+[XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area/stArea:x = 0.5
+[XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area/stArea:y = 0.5
+[XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area/stArea:w = 1
+[XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area/stArea:h = 1
+[XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area/stArea:unit = normalized
+[XMPMeta - Nokia:ns:imaging/1.0/] Nokia:SharpeningStrength = 33555732
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Nokia Lumia 1520.jpg
+[File - 0x0002] File Size = 4837421 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+    - GPS
+- XMP
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

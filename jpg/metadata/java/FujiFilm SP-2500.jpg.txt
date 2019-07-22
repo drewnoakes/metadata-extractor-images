@@ -1,0 +1,82 @@
+FILE: FujiFilm SP-2500.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 121 pixels
+[JPEG - 0x0003] Image Width = 81 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 72 dots
+[JFIF - 0x000a] Y Resolution = 72 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif IFD0 - 0x010f] Make = FUJI PHOTO FILM CO., LTD.
+[Exif IFD0 - 0x0110] Model = SP-2500
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = FDi V4.5 / FRONTIER390-6.0-0F-265
+[Exif IFD0 - 0x0132] Date/Time = 2003:09:10 20:59:18
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9003] Date/Time Original =     :  :     :  :  
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2003:09:10 20:59:18
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x920c] Spatial Frequency Response = 856100
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 3360 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2240 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+
+[Fujifilm Makernote - 0x0000] Makernote Version = 1.30
+[Fujifilm Makernote - 0x8000] File Source = 135_C
+[Fujifilm Makernote - 0x8002] Order Number = 856100
+[Fujifilm Makernote - 0x8020] Unknown tag (0x8020) = 1
+[Fujifilm Makernote - 0x8021] Unknown tag (0x8021) = 3
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 666 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 9039 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = FujiFilm SP-2500.jpg
+[File - 0x0002] File Size = 57344 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+        - Fujifilm Makernote
+        - Interoperability
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

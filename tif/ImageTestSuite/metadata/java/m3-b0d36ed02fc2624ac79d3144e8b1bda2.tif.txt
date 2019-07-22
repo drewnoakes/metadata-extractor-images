@@ -1,0 +1,39 @@
+FILE: m3-b0d36ed02fc2624ac79d3144e8b1bda2.tif
+TYPE: TIFF
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 16 for tag 0x01FF
+
+[Exif IFD0 - 0xa000] FlashPix Version = Ѐ
+[Exif IFD0 - 0x0101] Image Height = 768 pixels
+[Exif IFD0 - 0x017d] Unknown tag (0x017d) = 5
+[Exif IFD0 - 0x013c] Host Computer = 2
+[Exif IFD0 - 0x0111] Strip Offsets = 8
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0140] Unknown tag (0x0140) = [46593 values]
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1376217078 bytes
+[Exif IFD0 - 0xfa1a] Unknown tag (0xfa1a) = 2
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x012d] Transfer Function = [256 values]
+[Exif IFD0 - 0x0131] Software = Composer
+[Exif IFD0 - 0x0132] Date/Time = Tue ay  7 21�48:30 2002
+[Exif IFD0 - 0x013b] Artist = maya
+[Exif IFD0 - 0xc83c] Unknown tag (0xc83c) = thor
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m3-b0d36ed02fc2624ac79d3144e8b1bda2.tif
+[File - 0x0002] File Size = 486219 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

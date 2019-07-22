@@ -1,0 +1,118 @@
+FILE: Ricoh WG20.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3216 pixels
+[JPEG - 0x0003] Image Width = 4288 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = RICOH IMAGING COMPANY, LTD.
+[Exif IFD0 - 0x0110] Model = RICOH WG-20
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = RICOH WG-20 Ver. 1.00
+[Exif IFD0 - 0x0132] Date/Time = 2014:09:28 17:25:35
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 0.02 sec
+[Exif SubIFD - 0x829d] F-Number = f/3.8
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 160
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0x9003] Date/Time Original = 2014:09:28 17:25:35
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2014:09:28 17:25:35
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.9
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 6.1 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4288 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3216 pixels
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 34 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Macro
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[PrintIM - 0x0000] PrintIM Version = 0300
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+[PrintIM - 0x0003] Unknown tag (0x0003) = 0x000000d6
+[PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+[PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+[PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+[PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+[PrintIM - 0x000b] Unknown tag (0x000b) = 0x0000011e
+[PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+[PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+[PrintIM - 0x000e] Unknown tag (0x000e) = 0x00000136
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000005
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x000000ff
+[PrintIM - 0x0102] Unknown tag (0x0102) = 0x00000083
+[PrintIM - 0x0103] Unknown tag (0x0103) = 0x00000083
+[PrintIM - 0x0104] Unknown tag (0x0104) = 0x00000083
+[PrintIM - 0x0105] Unknown tag (0x0105) = 0x00000083
+[PrintIM - 0x0106] Unknown tag (0x0106) = 0x00000083
+[PrintIM - 0x0107] Unknown tag (0x0107) = 0x00838383
+[PrintIM - 0x0110] Unknown tag (0x0110) = 0x00000080
+[PrintIM - 0x0200] Unknown tag (0x0200) = 0x00000000
+[PrintIM - 0x0207] Unknown tag (0x0207) = 0x00000000
+[PrintIM - 0x0208] Unknown tag (0x0208) = 0x00000000
+[PrintIM - 0x0209] Unknown tag (0x0209) = 0x00000000
+[PrintIM - 0x020a] Unknown tag (0x020a) = 0x00000000
+[PrintIM - 0x020b] Unknown tag (0x020b) = 0x00000146
+[PrintIM - 0x020d] Unknown tag (0x020d) = 0x00000000
+[PrintIM - 0x0300] Unknown tag (0x0300) = 0x00000005
+[PrintIM - 0x0301] Unknown tag (0x0301) = 0x000000ff
+[PrintIM - 0x0302] Unknown tag (0x0302) = 0x00000083
+[PrintIM - 0x0303] Unknown tag (0x0303) = 0x00000083
+[PrintIM - 0x0306] Unknown tag (0x0306) = 0x00000083
+[PrintIM - 0x0310] Unknown tag (0x0310) = 0x00000080
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 51452 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 5717 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Ricoh WG20.jpg
+[File - 0x0002] File Size = 4312554 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Interoperability
+    - PrintIM
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

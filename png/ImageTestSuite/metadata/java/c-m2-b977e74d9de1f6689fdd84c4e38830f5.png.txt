@@ -1,0 +1,53 @@
+FILE: c-m2-b977e74d9de1f6689fdd84c4e38830f5.png
+TYPE: PNG
+
+[ERROR: ICC Profile] Exception reading ICC profile: invalid code lengths set
+[ERROR: PNG-zTXt] Invalid compression method value
+[ERROR: PNG-zTXt] Exception decompressing PNG zTXt chunk with keyword "aw profil type xmp": invalid distance too far back
+[ERROR: PNG-zTXt] Exception decompressing PNG zTXt chunk with keyword "Software": invalid distance too far back
+
+[PNG-IHDR - 0x0001] Image Width = 230
+[PNG-IHDR - 0x0002] Image Height = 184
+[PNG-IHDR - 0x0003] Bits Per Sample = 16
+[PNG-IHDR - 0x0004] Color Type = True Color
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-iCCP - 0x000c] ICC Profile Name = icc
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 2841
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 2834
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[PNG-tEXt - 0x000d] Textual Data = Raw profile type ipac: 
+ipøc
+       8
+1c02000002000200
+
+
+[PNG-zTXt - 0x000d] Textual Data = Timestamp: 2007:04:04 14:47:26
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = c-m2-b977e74d9de1f6689fdd84c4e38830f5.png
+[File - 0x0002] File Size = 499681 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-iCCP
+    - ICC Profile
+- PNG-pHYs
+- PNG-zTXt
+- PNG-tEXt
+- PNG-zTXt
+- PNG-zTXt
+- PNG-zTXt
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

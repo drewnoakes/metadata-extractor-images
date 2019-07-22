@@ -1,0 +1,46 @@
+FILE: photoshop-8x12-rgb24-all-metadata.png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 8
+[PNG-IHDR - 0x0002] Image Height = 12
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
+
+[PNG-tEXt - 0x000d] Textual Data = Software: Adobe ImageReady
+
+[XMP - 0xffff] XMP Value Count = 10
+
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/png
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2012-12-31T04:35:10Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS6 (Windows)
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2013-01-01T02:13:24
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2013-01-01T02:13:24
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:D29DFE3053B811E2825EBCCBD63C7478
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:D29DFE2F53B811E2825EBCCBD63C7478
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = xmp.did:D29DFE2E53B811E2825EBCCBD63C7478
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:D29DFE2D53B811E2825EBCCBD63C7478
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = photoshop-8x12-rgb24-all-metadata.png
+[File - 0x0002] File Size = 1262 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-tEXt
+- XMP
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

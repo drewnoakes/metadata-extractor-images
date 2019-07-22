@@ -1,0 +1,125 @@
+FILE: Casio EX-S1.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 480 pixels
+[JPEG - 0x0003] Image Width = 640 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = CASIO COMPUTER CO.,LTD.
+[Exif IFD0 - 0x0110] Model = EX-S1  
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 1.00                 
+[Exif IFD0 - 0x0132] Date/Time = 2002:07:13 00:07:18
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.5
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2002:07:13 00:07:18
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2002:07:13 00:07:18
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 7/15 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.4
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash fired, auto
+[Exif SubIFD - 0x920a] Focal Length = 5.6 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 640 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 480 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+[Exif SubIFD - 0xa405] Focal Length 35 = 37 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = Low gain up
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+
+[Casio Makernote - 0x0002] Thumbnail Dimensions = 320 x 240 pixels
+[Casio Makernote - 0x0003] Thumbnail Size = 30518 bytes
+[Casio Makernote - 0x0004] Thumbnail Offset = 1224
+[Casio Makernote - 0x2000] Casio Preview Thumbnail = <30518 bytes of image data>
+[Casio Makernote - 0x2001] Unknown tag (0x2001) = 0205
+[Casio Makernote - 0x2002] Unknown tag (0x2002) = 
+[Casio Makernote - 0x2003] Unknown tag (0x2003) = 0 0 0 0 0 0 0 0
+[Casio Makernote - 0x2011] White Balance Bias = 132 76
+[Casio Makernote - 0x2012] White Balance = Flash
+[Casio Makernote - 0x2013] Unknown tag (0x2013) = 2
+[Casio Makernote - 0x2021] Unknown tag (0x2021) = 65535 65535 65535 65535
+[Casio Makernote - 0x2022] Object Distance = 536870912 mm
+[Casio Makernote - 0x2023] Unknown tag (0x2023) = 0
+[Casio Makernote - 0x2031] Unknown tag (0x2031) = 0 3
+[Casio Makernote - 0x2032] Unknown tag (0x2032) = 0 100
+[Casio Makernote - 0x2033] Unknown tag (0x2033) = 1
+[Casio Makernote - 0x2034] Flash Distance = Unknown (1000)
+[Casio Makernote - 0x3000] Record Mode = Normal
+[Casio Makernote - 0x3001] Self Timer = Off
+[Casio Makernote - 0x3002] Quality = Unknown (2)
+[Casio Makernote - 0x3003] Focus Mode = Fixation
+[Casio Makernote - 0x3005] Unknown tag (0x3005) = 0 0
+[Casio Makernote - 0x3006] Time Zone = 
+[Casio Makernote - 0x3007] BestShot Mode = 0
+[Casio Makernote - 0x3011] Unknown tag (0x3011) = 0 0
+[Casio Makernote - 0x3012] Unknown tag (0x3012) = 0 0
+[Casio Makernote - 0x3013] Unknown tag (0x3013) = 0 0
+[Casio Makernote - 0x3014] CCD ISO Sensitivity = Off
+[Casio Makernote - 0x3015] Colour Mode = Off
+[Casio Makernote - 0x3016] Enhancement = Off
+[Casio Makernote - 0x3017] Filter = Off
+[Casio Makernote - 0x3018] Unknown tag (0x3018) = 0
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[PrintIM - 0x0000] PrintIM Version = 0250
+[PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+[PrintIM - 0x0002] Unknown tag (0x0002) = 0x01000000
+[PrintIM - 0x0100] Unknown tag (0x0100) = 0x05000000
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x01000000
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 31866 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 6880 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Casio EX-S1.jpg
+[File - 0x0002] File Size = 126300 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Casio Makernote
+        - Interoperability
+    - PrintIM
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

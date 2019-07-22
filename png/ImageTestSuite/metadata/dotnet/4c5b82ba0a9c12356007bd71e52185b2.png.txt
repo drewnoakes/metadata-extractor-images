@@ -1,0 +1,7 @@
+FILE: 4c5b82ba0a9c12356007bd71e52185b2.png
+TYPE: PNG
+
+EXCEPTION: Index was outside the bounds of the array.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

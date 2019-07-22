@@ -1,0 +1,288 @@
+FILE: m8-42c19f8e79e582bef107f372f18a074b.tif
+TYPE: TIFF
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 134 for tag 0x0131
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+[ERROR: Photoshop] End of data reached.
+[ERROR: IPTC] Data for tag extends beyond end of IPTC segment
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 17 pixels
+[Exif IFD0 - 0x0101] Image Height = 17 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0111] Strip Offsets = 29048
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 17 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 546 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72009/1000 dots per unit
+[Exif IFD0 - 0x011b] Y Resolution = 1845542656/16777215 dots per unit
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0132] Date/Time = 2008W06:13 10:53:40
+[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x0873] Unknown tag (0x0873) = [4380 values]
+[Exif IFD0 - 0x935c] Unknown tag (0x935c) = [5628 values]
+
+[IPTC - 0x0200] Application Record Version = 0
+
+[Photoshop - 0x0425] Caption Digest = 232 241 92 243 47 193 24 161 162 123 103 173 197 100 213 186
+[Photoshop - 0x03ea] XML Data = <?xml versiRn="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//�pple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.print.PageFormat.PMHorizontalRes</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>�		<sting>com.apple.jobticket</striLg>
+		<key>com.apple.prin�.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>�om.apple.print.PageFormat.PM�orizontalRes</key>
+Z			<real>72</re��>
+				<key>com*apple.pr`nt.ticket.stateFl�g</key>
+		�	<integer>0</integer>
+			</dict>
+		</array
+	</diot>
+	<key>com.ap�le.print.PageFormat.PMOrientation</key?
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.jobticket</string>
+		<key>cDm.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PM�rientation</key>
+				<integer>1</integer>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<�nteger>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMScaling</ke�>
+	<dict>
+		<key>com.apple.prin�.ticket.creator</key>
+		<string>com�apple.jobticket</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMScaling</key>
+			�<eal>1</real>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>�</integer>
+	N	</�ict>
+		</array>
+	</dict>
+	vkey>com.apple.print.PageFormat.PMVerticalRes</key>
+	<dict>
+		<key>com.apple.p"int.tic�et.creauor</key>
+		<string>com.apple.jobticket</s�ring>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMVerticalRes</key>
+				<r|al>72</real>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<in�eger>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.p�int.PageFormat.PMVerticalScaling</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.jobticket</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.�MVerticalScaling</key>
+				<real>1</real>
+			<key>com.appl�.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>�om%apple.print.subTicket.paper_info_ticket</key>
+	dict>
+		<key>PMPPDPaperCodeName</key>
+		<dict>
+			<key>com.apple.print.ticket.cr5ator</key>
+			<string>com.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>PMPPDPaperCodeName</key>
+					<strin%>Lette|</string>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</di[t>
+		<key>PMTiogaPaperName</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.jobticket</�tring>
+			<key>com.apple.print.t�cket.itemArray</key>
+			<array>
+				<dict>
+				�<key>PMTiogaPaperName</key>
+					<string>na-letter</string>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<intege^>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PageFormat.PMAdjustedPageRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator�/ke�>
+	,	<string>co_.apple.jobticket</tring>
+			<ke;>com.apple.Frint.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.pr�nt.PageFormat.PMA�justedPageRect</key>
+					<array>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>734</r+al>
+						<real>576</real>
+					<�a�ray>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.prit.PageFormat.PMAdjustedPaperRect</key>
+		<dict>
+			<key>com.appl,.print.ticket.creator</key>
+			<string>com.apple.jobticket</string>
+	�	<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PageFormat.PMAdjustedPaperRect</key>
+					<array>
+						<real>-18</real>
+						<real>-18�/real>
+						<real>974</rea�>
+						<real>594</real>
+					</arra>
+					<ey>com.apple.print.ticket�stateFlag</key>
+					<integer>0</integer>
+				</dict>
+	�	</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PMPaperName</key>
+		<Uict>
+			<key>com.apple.print.ticket.cre�tor</key>
+			�string>c�m.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.PMPaperName</key>
+					<string>na-letter</string>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+	4	</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>�om.apple.jobtick2t</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array�
+				<dict>
+					<key>com.apple.print.Pape��nfo.PMUnadjusSedPageRect</key>
+					<array>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>734</real>
+						<real>576</real>
+					</array>
+					<key>com.apple.print.ticket.stateF�ag</key>
+				�<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PMUnadjustedPaperRect</key>
+		<dict>
+			<key>com�apple.print.ticket.creator</key>
+			<string>com.apple.�obticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.�MUnadjustedPaperRect</key>
+			C	�array>
+						<real>-18</real>
+						<real>-18</real>
+						<real>774</real>
+						<real>594</real>
+					</array>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+		p	</dict>
+			</array>
+		<dict>
+	e<key>com.ap�le.print.PaperIqfo.ppd.PMPaperName</key>
+		<dict(
+			<key>com.apple.print.ticket.c�eator</key>
+			<string>com.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperIno.ppd.PMPaperName</key>
+					<string>US Letter</stringH
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.ticket.APIVersion</key>
+		<string>00.20</string>
+		<key>com.apple.print.ticket.t�pe</key>
+		<string>com.apple.�r'nt.PaperInfoTicket</string>
+-</dict>
+	<key>com.apple.print.ticket.APIVersion</key>
+	<string>00.20</string>
+	<key>com.apple.print.ticket.type</key>
+	<string>com.apple.print.PageFormHtTicket</string>
+</dict>
+</plist>
+
+[Photoshop - 0x03ed] Resolution Info = 72.01x72.01 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x03ee] Alpha Channels = 12 84 114 97 110 115 112 97 114 101 110 99 121
+[Photoshop - 0x0415] Unicode Alpha Names = [30 values]
+[Photoshop - 0x03ef] Display Info (Obsolete) = 0 0 255 255 0 0 0 0 0 0 0 100 1 0
+[Photoshop - 0x041d] Alpha Identifiers = 0 0 0 0
+[Photoshop - 0x040d] Global Angle = 11862106
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 1
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0400] Layer State Information = 0 3
+[Photoshop - 0x0402] Layers Group Information = 0 0 0 0 0 0 0 0
+[Photoshop - 0x0430] Layer Groups Enabled ID = 1 1 1 1
+[Photoshop - 0x042d] Layer Selection IDs = 0 2 0 0 0 9 0 0 0 5
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m8-42c19f8e79e582bef107f372f18a074b.tif
+[File - 0x0002] File Size = 35272 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - IPTC
+    - Photoshop
+        - IPTC
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,78 @@
+FILE: Photoshop (1).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2315 pixels
+[JPEG - 0x0003] Image Width = 1576 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 72 dots
+[JFIF - 0x000a] Y Resolution = 72 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0131] Software = ACD Systems Digital Imaging
+[Exif IFD0 - 0x0132] Date/Time = 2003:05:19 14:18:48
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x9000] Exif Version = 2.10
+[Exif SubIFD - 0x9290] Sub-Sec Time = 889
+[Exif SubIFD - 0xa002] Exif Image Width = 2061 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2931 pixels
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Photoshop - 0x03ed] Resolution Info = 72x72 DPI
+[Photoshop - 0x040d] Global Angle = 30
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = jpij0238 (0,0,2781,1893) 1 Slices
+[Photoshop - 0x0411] ICC Untagged Profile = 1
+[Photoshop - 0x0414] Seed Number = 1
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 76x112, Decomp 25536 bytes, 1572865 bpp, 4771 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 6.0) 1
+[Photoshop - 0x0406] JPEG Quality = 8 (High), Standard format, 3 scans
+
+[Adobe JPEG - 0x0000] DCT Encode Version = 25600
+[Adobe JPEG - 0x0001] Flags 0 = 0
+[Adobe JPEG - 0x0002] Flags 1 = 0
+[Adobe JPEG - 0x0003] Color Transform = YCbCr
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Photoshop (1).jpg
+[File - 0x0002] File Size = 567767 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+        - Interoperability
+- Photoshop
+- Adobe JPEG
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

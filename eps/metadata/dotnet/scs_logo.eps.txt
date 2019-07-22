@@ -1,0 +1,7 @@
+FILE: scs_logo.eps
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

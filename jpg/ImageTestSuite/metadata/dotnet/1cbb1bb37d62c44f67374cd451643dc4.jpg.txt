@@ -1,0 +1,95 @@
+FILE: 1cbb1bb37d62c44f67374cd451643dc4.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 71 pixels
+[JPEG - 0x0003] Image Width = 194 pixels
+[JPEG - 0x0005] Number of Components = 4
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0009] Component 4 = I component: Quantization table 0, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Adobe Photoshop CS Windows
+[Exif IFD0 - 0x0132] Date/Time = 2006:03:13 14:13:41
+
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 194 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 71 pixels
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 302 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 2833 bytes
+
+[XMP - 0xffff] XMP Value Count = 15
+
+[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 4294967295
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 194
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 71
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
+[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 72/1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 72/1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2006-03-13T14:13:41+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2006-03-13T14:13:41+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2006-03-13T14:13:41+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS Windows
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:269e9ac6-b293-11da-939d-a2c4335d4ef2
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:269e9ac7-b293-11da-939d-a2c4335d4ef2
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
+
+[Photoshop - 0x0425] Caption Digest = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Photoshop - 0x03ed] Resolution Info = 72x72 DPI
+[Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+[Photoshop - 0x040d] Global Angle = 120
+[Photoshop - 0x0419] Global Altitude = 30
+[Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 2
+[Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+[Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+[Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+[Photoshop - 0x041e] URL List = 0
+[Photoshop - 0x041a] Slices = Untitled-1 (0,0,71,194) 1 Slices
+[Photoshop - 0x0428] Pixel Aspect Ratio = 1.0
+[Photoshop - 0x0411] ICC Untagged Profile = 1
+[Photoshop - 0x0414] Seed Number = 2
+[Photoshop - 0x040c] Thumbnail Data = JpegRGB, 160x59, Decomp 28320 bytes, 1572865 bpp, 2833 bytes
+[Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CS) 1
+[Photoshop - 0x0406] JPEG Quality = 10 (Maximum), Progressive format, 3 scans
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = 1cbb1bb37d62c44f67374cd451643dc4.jpg
+[File - 0x0002] File Size = 20731 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+    - Exif Thumbnail
+- XMP
+- Photoshop
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

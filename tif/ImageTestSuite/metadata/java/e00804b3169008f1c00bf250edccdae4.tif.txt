@@ -1,0 +1,88 @@
+FILE: e00804b3169008f1c00bf250edccdae4.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 1664 pixels
+[Exif IFD0 - 0x0101] Image Height = 2339 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
+[Exif IFD0 - 0x0107] Thresholding = No dithering or halftoning
+[Exif IFD0 - 0x010f] Make = RICOH
+[Exif IFD0 - 0x0111] Strip Offsets = [40 values]
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 59 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 229 829 1821 1327 1531 1755 1103 1957 642 1648 1971 731 1736 1927 882 2680 3919 3087 2614 884 4015 689 289 3223 2835 3114 3798 4327 4137 3666 974 3042 351 351 506 727 3474 3481 2551 357 bytes
+[Exif IFD0 - 0x0118] Minimum Sample Value = 0
+[Exif IFD0 - 0x0119] Maximum Sample Value = 1
+[Exif IFD0 - 0x011a] X Resolution = 200 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 200 dots per inch
+[Exif IFD0 - 0x0124] Unknown tag (0x0124) = 0
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0129] Page Number = 0 3
+[Exif IFD0 - 0x013d] Predictor = 1
+[Exif IFD0 - 0x9c9b] Windows XP Title = 衛署醫字第0970204746號
+[Exif IFD0 - 0x9c9c] Windows XP Comment = [醫療機構電子病歷製作及管理辦法]修正條文.
+[Exif IFD0 - 0x9c9d] Windows XP Author = 中央健康保險局北區分局
+[Exif IFD0 - 0x9c9e] Windows XP Keywords = 電子病歷
+[Exif IFD0 - 0x9c9f] Windows XP Subject = [醫療機構電子病歷製作及管理辦法]修正條文.
+
+[Exif Image - 0x00fe] New Subfile Type = Full-resolution image
+[Exif Image - 0x0100] Image Width = 1664 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 79996
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 42396 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 1 3
+
+[Exif Image - 0x00fe] New Subfile Type = Full-resolution image
+[Exif Image - 0x0100] Image Width = 1664 pixels
+[Exif Image - 0x0101] Image Height = 2339 pixels
+[Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x0107] Thresholding = No dithering or halftoning
+[Exif Image - 0x010f] Make = RICOH
+[Exif Image - 0x0111] Strip Offsets = 122660
+[Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2339 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 12132 bytes
+[Exif Image - 0x0118] Minimum Sample Value = 0
+[Exif Image - 0x0119] Maximum Sample Value = 1
+[Exif Image - 0x011a] X Resolution = 200 dots per inch
+[Exif Image - 0x011b] Y Resolution = 200 dots per inch
+[Exif Image - 0x0124] Unknown tag (0x0124) = 0
+[Exif Image - 0x0128] Resolution Unit = Inch
+[Exif Image - 0x0129] Page Number = 2 3
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = e00804b3169008f1c00bf250edccdae4.tif
+[File - 0x0002] File Size = 135060 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Image
+        - Exif Image
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

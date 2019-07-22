@@ -1,0 +1,21 @@
+FILE: Alpha Lossless (1).webp
+TYPE: WEBP
+
+[WebP - 0x0002] Image Width = 400
+[WebP - 0x0001] Image Height = 301
+
+[File Type - 0x0001] Detected File Type Name = WebP
+[File Type - 0x0002] Detected File Type Long Name = WebP
+[File Type - 0x0003] Detected MIME Type = image/webp
+[File Type - 0x0004] Expected File Name Extension = webp
+
+[File - 0x0001] File Name = Alpha Lossless (1).webp
+[File - 0x0002] File Size = 92312 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- WebP
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,7 @@
+FILE: m1-cb265e4ae8967567fca5b0ecd58b90cb.png
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

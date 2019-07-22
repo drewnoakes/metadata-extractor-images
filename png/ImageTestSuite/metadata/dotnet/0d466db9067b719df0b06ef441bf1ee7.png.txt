@@ -1,0 +1,7 @@
+FILE: 0d466db9067b719df0b06ef441bf1ee7.png
+TYPE: PNG
+
+EXCEPTION: Observed multiple instances of PNG chunk 'iCCP', for which multiples are not allowed
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

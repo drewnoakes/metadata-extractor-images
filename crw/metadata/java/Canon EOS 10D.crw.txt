@@ -1,0 +1,16 @@
+FILE: Canon EOS 10D.crw
+TYPE: CRW
+
+[File Type - 0x0001] Detected File Type Name = CRW
+[File Type - 0x0002] Detected File Type Long Name = Canon Camera Raw
+[File Type - 0x0004] Expected File Name Extension = crw
+
+[File - 0x0001] File Name = Canon EOS 10D.crw
+[File - 0x0002] File Size = 5789774 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

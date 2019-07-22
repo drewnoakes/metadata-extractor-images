@@ -1,0 +1,22 @@
+FILE: WHT.EPS
+TYPE: EPS
+
+[EPS - 0x0006] Creator = HiJaak 2.1
+[EPS - 0x0005] Creation Date = 12/29/93 13:51:44
+[EPS - 0x0003] Bounding Box = 126 267 486 526
+
+[File Type - 0x0001] Detected File Type Name = EPS
+[File Type - 0x0002] Detected File Type Long Name = Encapsulated PostScript
+[File Type - 0x0003] Detected MIME Type = application/postscript
+[File Type - 0x0004] Expected File Name Extension = eps
+
+[File - 0x0001] File Name = WHT.EPS
+[File - 0x0002] File Size = 58342 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- EPS
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

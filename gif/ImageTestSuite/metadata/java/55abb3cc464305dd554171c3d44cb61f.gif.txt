@@ -1,0 +1,45 @@
+FILE: 55abb3cc464305dd554171c3d44cb61f.gif
+TYPE: GIF
+
+[ERROR: Error] IOException processing GIF data
+
+[GIF Header - 0x0001] GIF Format Version = 89a
+[GIF Header - 0x0002] Image Width = 100
+[GIF Header - 0x0003] Image Height = 45
+[GIF Header - 0x0004] Color Table Size = 256
+[GIF Header - 0x0005] Is Color Table Sorted = false
+[GIF Header - 0x0006] Bits per Pixel = 1
+[GIF Header - 0x0007] Has Global Color Table = true
+[GIF Header - 0x0008] Background Color Index = 0
+
+[GIF Control - 0x0002] Disposal Method = Not Specified
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = false
+[GIF Control - 0x0001] Delay = 0
+[GIF Control - 0x0005] Transparent Color Index = 0
+
+[GIF Image - 0x0001] Left = 0
+[GIF Image - 0x0002] Top = 0
+[GIF Image - 0x0003] Width = 100
+[GIF Image - 0x0004] Height = 45
+[GIF Image - 0x0005] Has Local Colour Table = false
+[GIF Image - 0x0006] Is Interlaced = false
+
+[File Type - 0x0001] Detected File Type Name = GIF
+[File Type - 0x0002] Detected File Type Long Name = Graphics Interchange Format
+[File Type - 0x0003] Detected MIME Type = image/gif
+[File Type - 0x0004] Expected File Name Extension = gif
+
+[File - 0x0001] File Name = 55abb3cc464305dd554171c3d44cb61f.gif
+[File - 0x0002] File Size = 2172 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- GIF Header
+- GIF Control
+- GIF Image
+- Error
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,59 @@
+FILE: Issue 201.gif
+TYPE: GIF
+
+[GIF Header - 0x0001] GIF Format Version = 89a
+[GIF Header - 0x0002] Image Width = 500
+[GIF Header - 0x0003] Image Height = 375
+[GIF Header - 0x0004] Color Table Size = 256
+[GIF Header - 0x0005] Is Color Table Sorted = false
+[GIF Header - 0x0006] Bits per Pixel = 8
+[GIF Header - 0x0007] Has Global Color Table = true
+[GIF Header - 0x0008] Background Color Index = 0
+
+[XMP - 0xffff] XMP Value Count = 2
+
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:subject = 
+[XMPMeta - ] dc:subject[1] = foobarisawesome
+
+[XMP - 0xffff] XMP Value Count = 2
+
+[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:subject = 
+[XMPMeta - ] dc:subject[1] = foobarisawesome
+
+[GIF Control - 0x0002] Disposal Method = Restore to Background Color
+[GIF Control - 0x0003] User Input Flag = false
+[GIF Control - 0x0004] Transparent Color Flag = true
+[GIF Control - 0x0001] Delay = 10
+[GIF Control - 0x0005] Transparent Color Index = 255
+
+[GIF Comment - 0x0001] Comment = this is a comment
+
+[GIF Image - 0x0001] Left = 0
+[GIF Image - 0x0002] Top = 0
+[GIF Image - 0x0003] Width = 500
+[GIF Image - 0x0004] Height = 375
+[GIF Image - 0x0005] Has Local Colour Table = false
+[GIF Image - 0x0006] Is Interlaced = false
+
+[File Type - 0x0001] Detected File Type Name = GIF
+[File Type - 0x0002] Detected File Type Long Name = Graphics Interchange Format
+[File Type - 0x0003] Detected MIME Type = image/gif
+[File Type - 0x0004] Expected File Name Extension = gif
+
+[File - 0x0001] File Name = Issue 201.gif
+[File - 0x0002] File Size = 27402 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- GIF Header
+- XMP
+- XMP
+- GIF Control
+- GIF Comment
+- GIF Image
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

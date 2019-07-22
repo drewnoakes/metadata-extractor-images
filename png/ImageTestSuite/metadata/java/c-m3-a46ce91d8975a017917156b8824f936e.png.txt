@@ -1,0 +1,50 @@
+FILE: c-m3-a46ce91d8975a017917156b8824f936e.png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 120
+[PNG-IHDR - 0x0002] Image Height = 120
+[PNG-IHDR - 0x0003] Bits Per Sample = 4
+[PNG-IHDR - 0x0004] Color Type = Indexed Color
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = Adam7 Interlace
+
+[PNG-tIME - 0x000e] Last Modification Time = 2007:03:07 02:33:28
+
+[PNG-tEXt - 0x000d] Textual Data = Software: GLDPNG ver 3.4
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
+
+[PNG Chromaticities - 0x0001] White Point X = 31269
+[PNG Chromaticities - 0x0002] White Point Y = 872448131
+[PNG Chromaticities - 0x0003] Red X = 63999
+[PNG Chromaticities - 0x0004] Red Y = 33001
+[PNG Chromaticities - 0x0005] Green X = 30000
+[PNG Chromaticities - 0x0006] Green Y = 60000
+[PNG Chromaticities - 0x0007] Blue X = 15000
+[PNG Chromaticities - 0x0008] Blue Y = 5999
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 2835
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 2835
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = c-m3-a46ce91d8975a017917156b8824f936e.png
+[File - 0x0002] File Size = 5288 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-tIME
+- PNG-tEXt
+- PNG-gAMA
+- PNG Chromaticities
+- PNG-pHYs
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

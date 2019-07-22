@@ -1,0 +1,258 @@
+FILE: fa0aa927763ee4c7ebf43a5d05dfebc7.tif
+TYPE: ARW
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif IFD0 - 0x0100] Image Width = 1752 pixels
+[Exif IFD0 - 0x0101] Image Height = 2352 pixels
+[Exif IFD0 - 0x0103] Compression = T6/Group 4 Fax
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x010d] Document Name = DN0PUnknown serial  1222238320      350800000.----!--
+[Exif IFD0 - 0x010f] Make = Kodak
+[Exif IFD0 - 0x0110] Model = Kodak i200
+[Exif IFD0 - 0x0111] Strip Offsets = 372
+[Exif IFD0 - 0x0116] Rows Per Strip = 2352 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 13666 bytes
+[Exif IFD0 - 0x011a] X Resolution = 200 dots per unit
+[Exif IFD0 - 0x011b] Y Resolution = 200 dots per unit
+[Exif IFD0 - 0x0129] Page Number = 0 12
+[Exif IFD0 - 0x0131] Software = xVCS V3.5      
+[Exif IFD0 - 0x0132] Date/Time = 2008:09:24 10:19:01
+[Exif IFD0 - 0x013b] Artist = IRIS 2001          
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1752 pixels
+[Exif Image - 0x0101] Image Height = 2354 pixels
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      350900000.----!--
+[Exif Image - 0x010f] Make = Kodak
+[Exif Image - 0x0110] Model = Kodak i200
+[Exif Image - 0x0111] Strip Offsets = 14402
+[Exif Image - 0x0116] Rows Per Strip = 2354 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 23244 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 1 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:03
+[Exif Image - 0x013b] Artist = IRIS 2001          
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1750 pixels
+[Exif Image - 0x0101] Image Height = 2352 pixels
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      351000000.----!--
+[Exif Image - 0x010f] Make = Kodak
+[Exif Image - 0x0110] Model = Kodak i200
+[Exif Image - 0x0111] Strip Offsets = 38010
+[Exif Image - 0x0116] Rows Per Strip = 2352 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 46266 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 2 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:05
+[Exif Image - 0x013b] Artist = IRIS 2001          
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1748 pixels
+[Exif Image - 0x0101] Image Height = 2352 pixels
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      351100000.----!--
+[Exif Image - 0x010f] Make = Kodak
+[Exif Image - 0x0110] Model = Kodak i200
+[Exif Image - 0x0111] Strip Offsets = 84640
+[Exif Image - 0x0116] Rows Per Strip = 2352 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 31558 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 3 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:06
+[Exif Image - 0x013b] Artist = IRIS 2001          
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1750 pixels
+[Exif Image - 0x0101] Image Height = 2354 pixels
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      351200000.----!--
+[Exif Image - 0x010f] Make = Kodak
+[Exif Image - 0x0110] Model = Kodak i200
+[Exif Image - 0x0111] Strip Offsets = 116562
+[Exif Image - 0x0116] Rows Per Strip = 2354 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 33272 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 4 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:07
+[Exif Image - 0x013b] Artist = IRIS 2001          
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1752 pixels
+[Exif Image - 0x0101] Image Height = 2352 pixels
+[Exif Image - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif Image - 0x0103] Compression = JPEG (old-style)
+[Exif Image - 0x0106] Photometric Interpretation = YCbCr
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      351300000.----!--
+[Exif Image - 0x010f] Make = VendorID
+[Exif Image - 0x0110] Model = ProductID
+[Exif Image - 0x0111] Strip Offsets = 150933
+[Exif Image - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2352 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 457915 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 5 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = ******************=
+[Exif Image - 0x013b] Artist = IRIS 2001          
+[Exif Image - 0x0200] JPEG Proc = Baseline
+[Exif Image - 0x0201] Unknown tag (0x0201) = 150324
+[Exif Image - 0x0202] Unknown tag (0x0202) = 458524
+[Exif Image - 0x0203] JPEG Restart Interval = 0
+[Exif Image - 0x0212] YCbCr Sub-Sampling = (Unknown)
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1752 pixels
+[Exif Image - 0x0101] Image Height = 2354 pixels
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      351400000.----!--
+[Exif Image - 0x010f] Make = Kodak
+[Exif Image - 0x0110] Model = Kodak i200
+[Exif Image - 0x0111] Strip Offsets = 609212
+[Exif Image - 0x0116] Rows Per Strip = 2354 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 31524 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 6 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:13
+[Exif Image - 0x013b] Artist = IRIS 2001          
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1754 pixels
+[Exif Image - 0x0101] Image Height = 2356 pixels
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      351500000.----!--
+[Exif Image - 0x010f] Make = Kodak
+[Exif Image - 0x0110] Model = Kodak i200
+[Exif Image - 0x0111] Strip Offsets = 641100
+[Exif Image - 0x0116] Rows Per Strip = 2356 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 15206 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 7 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:17
+[Exif Image - 0x013b] Artist = IRIS 2001          
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1752 pixels
+[Exif Image - 0x0101] Image Height = 2348 pixels
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      351600000.----!--
+[Exif Image - 0x010f] Make = Kodak
+[Exif Image - 0x0110] Model = Kodak i200
+[Exif Image - 0x0111] Strip Offsets = 656670
+[Exif Image - 0x0116] Rows Per Strip = 2348 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 42746 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 8 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:18
+[Exif Image - 0x013b] Artist = IRIS 2001          
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 1754 pixels
+[Exif Image - 0x0101] Image Height = 2350 pixels
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      351700000.----!--
+[Exif Image - 0x010f] Make = Kodak
+[Exif Image - 0x0110] Model = Kodak i200
+[Exif Image - 0x0111] Strip Offsets = 699780
+[Exif Image - 0x0116] Rows Per Strip = 2350 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 39562 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 9 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:21
+[Exif Image - 0x013b] Artist = IRIS 2001          
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 3518 pixels
+[Exif Image - 0x0101] Image Height = 2358 pixels
+[Exif Image - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif Image - 0x0103] Compression = JPEG (old-style)
+[Exif Image - 0x0106] Photometric Interpretation = YCbCr
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      351800000.----!--
+[Exif Image - 0x010f] Make = VendorID
+[Exif Image - 0x0110] Model = ProductID
+[Exif Image - 0x0111] Strip Offsets = 740441
+[Exif Image - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 2358 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 759572 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 10 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = ******************=
+[Exif Image - 0x013b] Artist = IRIS 2001          
+[Exif Image - 0x0200] JPEG Proc = Baseline
+[Exif Image - 0x0201] Unknown tag (0x0201) = 739832
+[Exif Image - 0x0202] Unknown tag (0x0202) = 760181
+[Exif Image - 0x0203] JPEG Restart Interval = 0
+[Exif Image - 0x0212] YCbCr Sub-Sampling = (Unknown)
+
+[Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Image - 0x0100] Image Width = 3516 pixels
+[Exif Image - 0x0101] Image Height = 2360 pixels
+[Exif Image - 0x0103] Compression = T6/Group 4 Fax
+[Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Image - 0x010d] Document Name = DN0PUnknown serial  1222238320      351900000.----!--
+[Exif Image - 0x010f] Make = Kodak
+[Exif Image - 0x0110] Model = Kodak i200
+[Exif Image - 0x0111] Strip Offsets = 1500378
+[Exif Image - 0x0116] Rows Per Strip = 2360 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 51206 bytes
+[Exif Image - 0x011a] X Resolution = 200 dots per unit
+[Exif Image - 0x011b] Y Resolution = 200 dots per unit
+[Exif Image - 0x0129] Page Number = 11 12
+[Exif Image - 0x0131] Software = xVCS V3.5      
+[Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:37
+[Exif Image - 0x013b] Artist = IRIS 2001          
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = fa0aa927763ee4c7ebf43a5d05dfebc7.tif
+[File - 0x0002] File Size = 1551584 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Image
+        - Exif Image
+            - Exif Image
+                - Exif Image
+                    - Exif Image
+                        - Exif Image
+                            - Exif Image
+                                - Exif Image
+                                    - Exif Image
+                                        - Exif Image
+                                            - Exif Image
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

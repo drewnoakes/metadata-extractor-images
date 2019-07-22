@@ -1,0 +1,55 @@
+FILE: multipage.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 4670 pixels
+[Exif IFD0 - 0x0101] Image Height = 6170 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = T6/Group 4 Fax
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x0111] Strip Offsets = 16
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 6170 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 7803 bytes
+[Exif IFD0 - 0x011a] X Resolution = 600 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 600 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+
+[Exif Thumbnail - 0x0100] Image Width = 1700 pixels
+[Exif Thumbnail - 0x0101] Image Height = 2200 pixels
+[Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Thumbnail - 0x0103] Compression = T6/Group 4 Fax
+[Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Thumbnail - 0x0111] Strip Offsets = 1529066
+[Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Thumbnail - 0x0116] Rows Per Strip = 2200 rows/strip
+[Exif Thumbnail - 0x0117] Strip Byte Counts = 4002 bytes
+[Exif Thumbnail - 0x011a] X Resolution = 200 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 200 dots per inch
+[Exif Thumbnail - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0131] Software = IrfanView
+[Exif Thumbnail - 0x015b] JPEG Tables = [289 values]
+[Exif Thumbnail - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Thumbnail - 0x010a] Fill Order = Normal
+[Exif Thumbnail - 0x0124] Unknown tag (0x0124) = 0
+[Exif Thumbnail - 0x0125] Unknown tag (0x0125) = 0
+[Exif Thumbnail - 0x0129] Page Number = 0 0
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = multipage.tif
+[File - 0x0002] File Size = 1533068 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Thumbnail
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

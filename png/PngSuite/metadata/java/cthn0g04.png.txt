@@ -1,0 +1,47 @@
+FILE: cthn0g04.png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 32
+[PNG-IHDR - 0x0002] Image Height = 32
+[PNG-IHDR - 0x0003] Bits Per Sample = 4
+[PNG-IHDR - 0x0004] Color Type = Greyscale
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-gAMA - 0x000b] Image Gamma = 1
+
+[PNG-iTXt - 0x000d] Textual Data = Title: PngSuite
+
+[PNG-iTXt - 0x000d] Textual Data = Author: Willem van Schaik (willem@schaik.com)
+
+[PNG-iTXt - 0x000d] Textual Data = Copyright: à¤à¥à¤ªà¥à¤°à¤¾à¤à¤ Willem van Schaik, 2011 à¤à¤¨à¤¾à¤¡à¤¾
+
+[PNG-iTXt - 0x000d] Textual Data = Description: à¤à¤°à¤¨à¥ à¤à¥ à¤²à¤¿à¤ PNG à¤ªà¥à¤°à¤¾à¤°à¥à¤ª à¤à¥ à¤µà¤¿à¤­à¤¿à¤¨à¥à¤¨ à¤°à¤à¤ à¤ªà¥à¤°à¤à¤¾à¤° à¤ªà¤°à¥à¤à¥à¤·à¤£ à¤¬à¤¨à¤¾à¤¯à¤¾ à¤à¤µà¤¿à¤¯à¥à¤ à¤à¤¾ à¤à¤ à¤¸à¥à¤ à¤à¤¾ à¤à¤ à¤¸à¤à¤à¤²à¤¨. à¤¶à¤¾à¤®à¤¿à¤² à¤à¤¾à¤²à¥ à¤à¤° à¤¸à¤«à¥à¤¦, à¤°à¤à¤, à¤ªà¥à¤²à¥à¤à¥à¤¡ à¤¹à¥à¤, à¤à¤²à¥à¤«à¤¾ à¤à¥à¤¨à¤² à¤à¥ à¤¸à¤¾à¤¥ à¤ªà¤¾à¤°à¤¦à¤°à¥à¤¶à¤¿à¤¤à¤¾ à¤¸à¥à¤µà¤°à¥à¤ªà¥à¤ à¤à¥ à¤¸à¤¾à¤¥. à¤¸à¤­à¥ à¤¬à¤¿à¤ à¤à¤¹à¤°à¤¾à¤ à¤à¤²à¥à¤ªà¤¨à¤¾ à¤à¥ à¤à¤¨à¥à¤¸à¤¾à¤° à¤à¥ à¤à¤¨à¥à¤®à¤¤à¤¿ à¤¦à¥ à¤®à¥à¤à¥à¤¦ à¤¹à¥à¤.
+
+[PNG-iTXt - 0x000d] Textual Data = Software: à¤à¤ NeXTstation "pnmtopng 'à¤à¤¾ à¤à¤ªà¤¯à¥à¤ à¤à¤° à¤°à¤à¤ à¤ªà¤° à¤¬à¤¨à¤¾à¤¯à¤¾ à¤à¤¯à¤¾.
+
+[PNG-iTXt - 0x000d] Textual Data = Disclaimer: à¤«à¥à¤°à¥à¤µà¥à¤¯à¤°.
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = cthn0g04.png
+[File - 0x0002] File Size = 1269 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-gAMA
+- PNG-iTXt
+- PNG-iTXt
+- PNG-iTXt
+- PNG-iTXt
+- PNG-iTXt
+- PNG-iTXt
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

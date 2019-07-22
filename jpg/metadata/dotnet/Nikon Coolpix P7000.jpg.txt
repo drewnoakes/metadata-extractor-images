@@ -1,0 +1,197 @@
+FILE: Nikon Coolpix P7000.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2736 pixels
+[JPEG - 0x0003] Image Width = 3648 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010e] Image Description =                                
+[Exif IFD0 - 0x010f] Make = NIKON
+[Exif IFD0 - 0x0110] Model = COOLPIX P7000
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = COOLPIX P7000V1.0              
+[Exif IFD0 - 0x0132] Date/Time = 2010:10:21 11:22:48
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/811 sec
+[Exif SubIFD - 0x829d] F-Number = f/4.5
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2010:10:21 11:22:48
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2010:10:21 11:22:48
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 6 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 3648 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 2736 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+[Exif SubIFD - 0xa405] Focal Length 35 = 28 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = None
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+
+[Nikon Makernote - 0x0001] Firmware Version = 2.00
+[Nikon Makernote - 0x0002] ISO = Unknown (0 0)
+[Nikon Makernote - 0x0003] Color Mode = COLOR 
+[Nikon Makernote - 0x0004] Quality & File Format = FINE   
+[Nikon Makernote - 0x0005] White Balance = AUTO         
+[Nikon Makernote - 0x0006] Sharpening = NORMAL 
+[Nikon Makernote - 0x0007] AF Type = AF-S   
+[Nikon Makernote - 0x0008] Flash Sync Mode =        
+[Nikon Makernote - 0x000a] Unknown tag (0x000a) = 1541/200
+[Nikon Makernote - 0x000b] White Balance Fine = 0 0
+[Nikon Makernote - 0x000f] ISO Mode = AUTO   
+[Nikon Makernote - 0x0010] Data Dump = [3342 values]
+[Nikon Makernote - 0x0011] Preview IFD = 4632
+[Nikon Makernote - 0x001a] Flash Mode =                    
+[Nikon Makernote - 0x0021] Unknown 35 = [106 values]
+[Nikon Makernote - 0x0022] Active D-Lighting = Off
+[Nikon Makernote - 0x0026] Unknown 36 = [18 values]
+[Nikon Makernote - 0x0027] Unknown 37 = 256 320 240 0 0 0 0
+[Nikon Makernote - 0x0029] Unknown 39 = 0 0
+[Nikon Makernote - 0x002d] Unknown 42 = 256 0
+[Nikon Makernote - 0x002e] Unknown 43 = 0
+[Nikon Makernote - 0x002f] Unknown 44 = 0
+[Nikon Makernote - 0x0030] Unknown 45 = 0
+[Nikon Makernote - 0x0080] Image Adjustment = NORMAL       
+[Nikon Makernote - 0x0081] Tone Compensation = NORMAL  
+[Nikon Makernote - 0x0082] Adapter = OFF          
+[Nikon Makernote - 0x0085] Manual Focus Distance = 0
+[Nikon Makernote - 0x0086] Digital Zoom = No digital zoom
+[Nikon Makernote - 0x0088] AF Focus Position = Left
+[Nikon Makernote - 0x008f] Scene Mode =                
+[Nikon Makernote - 0x0091] Shot Info = [225 values]
+[Nikon Makernote - 0x0094] Saturation = 0
+[Nikon Makernote - 0x0095] Noise Reduction = OFF  
+[Nikon Makernote - 0x009b] Unknown 10 = 0 0
+[Nikon Makernote - 0x009c] Scene Assist =                    
+[Nikon Makernote - 0x009d] Unknown 11 = 0
+[Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x00a8] Flash Info = [46 values]
+[Nikon Makernote - 0x00aa] Saturation = NORMAL         
+[Nikon Makernote - 0x00ac] Image Stabilisation = VR-ON       
+[Nikon Makernote - 0x00b2] Unknown 31 = NORMAL  
+[Nikon Makernote - 0x00b3] Unknown 32 =        
+[Nikon Makernote - 0x00bd] Unknown 50 = [58 values]
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 8692 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 6044 bytes
+
+[XMP - 0xffff] XMP Value Count = 57
+
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:AlreadyApplied = True
+[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 433985/100000
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Contrast = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CustomRendered = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2010-10-21T11:22:48+01:00
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DigitalZoomRatio = 0/100
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0220
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0/10
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureMode = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureProgram = 2
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/800
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 45/10
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FileSource = 3
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalLength = 60/10
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalLengthIn35mmFilm = 28
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:GainControl = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:LightSource = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MaxApertureValue = 30/10
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MeteringMode = 5
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 3648
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 2736
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Saturation = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneCaptureType = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneType = 1
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Sharpness = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = 9643856/1000000
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SubjectDistanceRange = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 0
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ISOSpeedRatings = 
+[XMPMeta - ] exif:ISOSpeedRatings[1] = 100
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash = 
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Fired = False
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Function = False
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Mode = 2
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:RedEyeMode = False
+[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Return = 0
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = sRGB IEC61966-2.1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 2736
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 3648
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = NIKON
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Model = COOLPIX P7000
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 6
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:PhotometricInterpretation = 2
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:SamplesPerPixel = 3
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 300/1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 300/1
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:BitsPerSample = 
+[XMPMeta - ] tiff:BitsPerSample[1] = 8
+[XMPMeta - ] tiff:BitsPerSample[2] = 8
+[XMPMeta - ] tiff:BitsPerSample[3] = 8
+[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2010-10-21T11:22:48+01:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = COOLPIX P7000V1.0
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2010-11-17T14:52:46Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2010-10-21T11:22:48+01:00
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Nikon Coolpix P7000.jpg
+[File - 0x0002] File Size = 4234401 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Nikon Makernote
+        - Interoperability
+    - Exif Thumbnail
+- XMP
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

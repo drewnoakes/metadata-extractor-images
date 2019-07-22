@@ -1,0 +1,152 @@
+FILE: Nikon D3100.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3072 pixels
+[JPEG - 0x0003] Image Width = 4608 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010f] Make = NIKON CORPORATION
+[Exif IFD0 - 0x0110] Model = NIKON D3100
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Ver.1.00 
+[Exif IFD0 - 0x0132] Date/Time = 2010:12:02 13:18:23
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/200 sec
+[Exif SubIFD - 0x829d] F-Number = f/8.0
+[Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 400
+[Exif SubIFD - 0x9000] Exif Version = 2.21
+[Exif SubIFD - 0x9003] Date/Time Original = 2010:12:02 13:18:23
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2010:12:02 13:18:23
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 2/3 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/5.7
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 55 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0x9290] Sub-Sec Time = 90
+[Exif SubIFD - 0x9291] Sub-Sec Time Original = 90
+[Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 90
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4608 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3072 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa302] CFA Pattern = [Green,Blue][Red,Green]
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 82 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = Low gain up
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+
+[Nikon Makernote - 0x0001] Firmware Version = 2.10
+[Nikon Makernote - 0x0002] ISO = ISO 400
+[Nikon Makernote - 0x0004] Quality & File Format = FINE   
+[Nikon Makernote - 0x0005] White Balance = AUTO        
+[Nikon Makernote - 0x0007] AF Type = AF-A  
+[Nikon Makernote - 0x0008] Flash Sync Mode = SLOW        
+[Nikon Makernote - 0x0009] Auto Flash Mode =                    
+[Nikon Makernote - 0x000b] White Balance Fine = 0 0
+[Nikon Makernote - 0x000c] White Balance RB Coefficients = 537/256 300/256 256/256 256/256
+[Nikon Makernote - 0x000d] Program Shift = 0 EV
+[Nikon Makernote - 0x000e] Exposure Difference = 0 EV
+[Nikon Makernote - 0x0011] Preview IFD = 11290
+[Nikon Makernote - 0x0012] Auto Flash Compensation = 0 EV
+[Nikon Makernote - 0x0013] ISO = 0 400
+[Nikon Makernote - 0x0016] Image Boundary = 0 0 4608 3072
+[Nikon Makernote - 0x0017] Flash Exposure Compensation = 0 EV
+[Nikon Makernote - 0x0018] Flash Bracket Compensation = 
+[Nikon Makernote - 0x0019] AE Bracket Compensation = 648445973/4
+[Nikon Makernote - 0x001b] Crop High Speed = 0 4672 3084 4672 3084 0 0
+[Nikon Makernote - 0x001c] Exposure Tuning = 0 EV
+[Nikon Makernote - 0x001d] Camera Serial Number = 6107872
+[Nikon Makernote - 0x001e] Color Space = sRGB
+[Nikon Makernote - 0x001f] VR Info = 48 49 48 48 1 1 0 0
+[Nikon Makernote - 0x0022] Active D-Lighting = Auto
+[Nikon Makernote - 0x0023] Picture Control = [58 values]
+[Nikon Makernote - 0x0024] World Time = 0 0 0 2
+[Nikon Makernote - 0x0025] ISO Info = 84 1 12 0 0 0 84 1 12 0 0 0 0 0
+[Nikon Makernote - 0x002b] Unknown 40 = 48 49 48 48 0 4 1 2 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x002c] Unknown 41 = [574 values]
+[Nikon Makernote - 0x002d] Unknown 42 = 512 0 0
+[Nikon Makernote - 0x0083] Lens Type = AF, D, G, VR
+[Nikon Makernote - 0x0084] Lens = 18-55mm f/3.5-5.6
+[Nikon Makernote - 0x0087] Flash Used = Flash Not Used
+[Nikon Makernote - 0x0089] Shooting Mode = Single Frame
+[Nikon Makernote - 0x008a] Unknown 20 = 1
+[Nikon Makernote - 0x008b] Lens Stops = 5.33 EV
+[Nikon Makernote - 0x0091] Shot Info = [8817 values]
+[Nikon Makernote - 0x0095] Noise Reduction = OFF 
+[Nikon Makernote - 0x0097] Color Balance = [608 values]
+[Nikon Makernote - 0x0098] Lens Data = [33 values]
+[Nikon Makernote - 0x009d] Unknown 11 = 0
+[Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x00a2] Image Data Size = 3434276
+[Nikon Makernote - 0x00a3] Unknown 27 = 0
+[Nikon Makernote - 0x00a7] Exposure Sequence Number = 395
+[Nikon Makernote - 0x00a8] Flash Info = [46 values]
+[Nikon Makernote - 0x00ab] Digital Vari Program =                
+[Nikon Makernote - 0x00b0] Multi Exposure = 48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x00b1] High ISO Noise Reduction = Off
+[Nikon Makernote - 0x00b6] Power Up Time = 2010:12:02 12:34:55
+[Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
+[Nikon Makernote - 0x00b8] File Info = [172 values]
+[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 255 255 255 0
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[GPS - 0x0000] GPS Version ID = 2.200
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 36964 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 11912 bytes
+[Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Nikon D3100.jpg
+[File - 0x0002] File Size = 3500401 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Nikon Makernote
+        - Interoperability
+    - GPS
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

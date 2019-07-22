@@ -1,0 +1,132 @@
+FILE: Nikon Coolpix S3600.JPG
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 3864 pixels
+[JPEG - 0x0003] Image Width = 5152 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010e] Image Description =           
+[Exif IFD0 - 0x010f] Make = NIKON
+[Exif IFD0 - 0x0110] Model = COOLPIX S3600
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = COOLPIX S3600V1.0
+[Exif IFD0 - 0x0132] Date/Time = 2016:04:02 18:27:07
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 0.04 sec
+[Exif SubIFD - 0x829d] F-Number = f/3.7
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 80
+[Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0x9003] Date/Time Original = 2016:04:02 18:27:07
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2016:04:02 18:27:07
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/3.7
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash fired, auto, red-eye reduction
+[Exif SubIFD - 0x920a] Focal Length = 4.5 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 5152 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3864 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+[Exif SubIFD - 0xa405] Focal Length 35 = 25 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = None
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+
+[Nikon Makernote - 0x0001] Firmware Version = 2.00
+[Nikon Makernote - 0x0002] ISO = Unknown (0 0)
+[Nikon Makernote - 0x0003] Color Mode = COLOR 
+[Nikon Makernote - 0x0004] Quality & File Format = NORMAL
+[Nikon Makernote - 0x0005] White Balance = AUTO        
+[Nikon Makernote - 0x0007] AF Type = AF-F  
+[Nikon Makernote - 0x0008] Flash Sync Mode = RED-EYE     
+[Nikon Makernote - 0x000a] Unknown tag (0x000a) = 7763/1000
+[Nikon Makernote - 0x000b] White Balance Fine = 0
+[Nikon Makernote - 0x000f] ISO Mode = AUTO  
+[Nikon Makernote - 0x0010] Data Dump = 0
+[Nikon Makernote - 0x0011] Preview IFD = 2137
+[Nikon Makernote - 0x001a] Flash Mode = Red Eye Reduction                       
+[Nikon Makernote - 0x0021] Unknown 35 = [106 values]
+[Nikon Makernote - 0x0025] ISO Info = 56 1 12 0 0 0 56 1 12 0 0 0 2 0
+[Nikon Makernote - 0x0026] Unknown 36 = [18 values]
+[Nikon Makernote - 0x0027] Unknown 37 = 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x002b] Unknown 40 = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x002c] Unknown 41 = [206 values]
+[Nikon Makernote - 0x002d] Unknown 42 = 512 0 0
+[Nikon Makernote - 0x002e] Unknown 43 = 1
+[Nikon Makernote - 0x002f] Unknown 44 = 0
+[Nikon Makernote - 0x0030] Unknown 45 = 0
+[Nikon Makernote - 0x0080] Image Adjustment = NORMAL       
+[Nikon Makernote - 0x0085] Manual Focus Distance = 0
+[Nikon Makernote - 0x0086] Digital Zoom = No digital zoom
+[Nikon Makernote - 0x0088] AF Focus Position = Unknown (1 0 1 0)
+[Nikon Makernote - 0x008f] Scene Mode = PORTRAIT       
+[Nikon Makernote - 0x0091] Shot Info = [980 values]
+[Nikon Makernote - 0x0095] Noise Reduction = OFF 
+[Nikon Makernote - 0x009b] Unknown 10 = 0 0
+[Nikon Makernote - 0x009c] Scene Assist =                    
+[Nikon Makernote - 0x009d] Unknown 11 = 0
+[Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x009f] Unknown 12 = 0
+[Nikon Makernote - 0x00ac] Image Stabilisation = VR-ON     
+[Nikon Makernote - 0x00b2] Unknown 31 = NORMAL  
+[Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 56 1 12 0 120 1 12 0
+[Nikon Makernote - 0x00c1] Unknown tag (0x00c1) = 48 49 48 48 3 0
+[Nikon Makernote - 0x00c2] Unknown tag (0x00c2) = [24 values]
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 58364 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 3390 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Nikon Coolpix S3600.JPG
+[File - 0x0002] File Size = 4210716 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Nikon Makernote
+        - Interoperability
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

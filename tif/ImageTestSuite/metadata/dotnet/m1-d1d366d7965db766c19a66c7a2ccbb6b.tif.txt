@@ -1,0 +1,72 @@
+FILE: m1-d1d366d7965db766c19a66c7a2ccbb6b.tif
+TYPE: TIFF
+
+[ERROR: Exif IFD0] Invalid TIFF tag format code 57099 for tag 0x0001
+[ERROR: Exif IFD0] Invalid TIFF tag format code 51875 for tag 0x0000
+[ERROR: Exif IFD0] Invalid TIFF tag format code 8689 for tag 0x0000
+[ERROR: Exif IFD0] Invalid TIFF tag format code 12334 for tag 0x2031
+[ERROR: Exif IFD0] Invalid TIFF tag format code 13609 for tag 0x3136
+[ERROR: Exif IFD0] Invalid TIFF tag format code 12599 for tag 0x363A
+[ERROR: Exif IFD0] Stopping processing as too many errors seen in TIFF IFD
+[ERROR: ICC Profile] Exception reading ICC profile: Attempt to read from beyond end of underlying data source (requested index: 60216, requested count: 45, max index: 3175)
+
+[Exif IFD0 - 0x0100] Image Width = 324 pixels
+[Exif IFD0 - 0x0101] Image Height = 450 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = 
+[Exif IFD0 - 0x0111] Strip Offsets = 8 34168 86043 122635 170480
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 4 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 37477 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 34160 51875 36592 47845 8689 bytes
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0131] Software = Mac OS X 10.4.11 (8S165)
+[Exif IFD0 - 0x0132] Date/Time = 2008:06:17 10:03:36
+[Exif IFD0 - 0x013b] Artist = Matteo Della Torre
+[Exif IFD0 - 0x013d] Predictor = 2
+[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x0153] Unknown tag (0x0153) = 1 1 1 1
+[Exif IFD0 - 0x0000] Unknown tag (0x0000) = [34168 values]
+
+[ICC Profile - 0x0000] Profile Size = 3176
+[ICC Profile - 0x0004] CMM Type = appl
+[ICC Profile - 0x0008] Version = 2.0.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 2007:11:16 02:13:05
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 14
+[ICC Profile - 0x7258595a] Red Colorant = (0.384, 0.216, 16128.05)
+[ICC Profile - 0x6758595a] Green Colorant = (0.4384, 0.6899, 0.1312)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1418, 0.0945, 0.6409)
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+[ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
+[ICC Profile - 0x72545243] Red TRC = 0.0070344
+[ICC Profile - 0x67545243] Green TRC = 0.0070344
+[ICC Profile - 0x62545243] Blue TRC = 0.0070344
+[ICC Profile - 0x76636774] Unknown tag (0x76636774) = vc?t (0x76633F74): 1554 bytes
+[ICC Profile - 0x6e64696e] Unknown tag (0x6e64696e) = ndin (0x6E64696E): 446 bytes
+[ICC Profile - 0x64657363] Profile Description = Co�or LCD
+[ICC Profile - 0x6473636d] Apple Multi-language Profile Name = 15 itIT(LCD colori) frFR(Éran à crist{ux li뭱uides coule襵r) nbNO(Farge-LCD) esES(LCD colr) fiFI(Väri-LCD) ptWT(LC colorido) zhTW(彩色液晶顯示器) jaJP(カラー LCD) nlNL(Kleuren-LCD) deDE(Farb-LCD) koKR(컬러 LCD) enUS(Color LCD) svSE(Fä¾g-LCD) daDK(LCD-farveskæ m) zhCN(彩色 LCD)
+[ICC Profile - 0x6d6d6f64] Unknown tag (0x6d6d6f64) = mmod (0x6D6D6F64): 40 bytes
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m1-d1d366d7965db766c19a66c7a2ccbb6b.tif
+[File - 0x0002] File Size = 182690 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - ICC Profile
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

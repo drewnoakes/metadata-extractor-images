@@ -1,0 +1,25 @@
+FILE: 7e7cdf7f4ee50b308531313bbf43e0c3.jpg
+TYPE: JPEG
+
+[JFIF - 0x0005] Version = 148.195
+[JFIF - 0x0007] Resolution Units = unit
+[JFIF - 0x0008] X Resolution = 100 dots
+[JFIF - 0x000a] Y Resolution = 40075 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 109
+[JFIF - 0x000d] Thumbnail Height Pixels = 4
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = 7e7cdf7f4ee50b308531313bbf43e0c3.jpg
+[File - 0x0002] File Size = 357 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JFIF
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

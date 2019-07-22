@@ -1,0 +1,7 @@
+FILE: 743b8442c69efbc457af7376af71b44c.png
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

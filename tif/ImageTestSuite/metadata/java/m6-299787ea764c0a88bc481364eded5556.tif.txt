@@ -1,0 +1,86 @@
+FILE: m6-299787ea764c0a88bc481364eded5556.tif
+TYPE: TIFF
+
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+[ERROR: Exif Thumbnail] Invalid TIFF tag format code 13826 for tag 0x0132
+[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+[ERROR: Exif Thumbnail] Invalid TIFF tag format code 6147 for tag 0x0102
+[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+[ERROR: Exif Thumbnail] Invalid TIFF tag format code 26115 for tag 0x0128
+[ERROR: Exif Thumbnail] Invalid TIFF tag format code 47 for tag 0x0101
+[ERROR: Exif Thumbnail] Invalid TIFF tag format code 94 for tag 0x0129
+[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+[ERROR: Exif Thumbnail] Invalid TIFF tag format code 183 for tag 0x0129
+[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+[ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+
+[Exif IFD0 - 0x00a2] Unknown tag (0x00a2) = 2
+[Exif IFD0 - 0x0100] Image Width = 1728 pixels
+[Exif IFD0 - 0x0101] Image Height = 1087 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Unknown (28163)
+[Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif IFD0 - 0x010a] Fill Order = Normal
+[Exif IFD0 - 0x0111] Strip Offsets = 8
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 1087 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 40878 bytes
+[Exif IFD0 - 0x011a] X Resolution = 204 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 14/568028599 dots per inch
+[Exif IFD0 - 0x011e] Unknown tag (0x011e) = 5
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = NaturalFax
+[Exif IFD0 - 0x0132] Date/Time = 2008:09:08 09:42:29
+[Exif IFD0 - 0x0146] Unknown tag (0x0146) = 0
+[Exif IFD0 - 0x0147] Unknown tag (0x0147) = 0
+[Exif IFD0 - 0x0148] Unknown tag (0x0148) = 0
+
+[Exif Thumbnail - 0x00fe] New Subfile Type = Single page of multi-page image
+[Exif Thumbnail - 0x0100] Image Width = 1728 pixels
+[Exif Thumbnail - 0x0101] Image Height = 1086 pixels
+[Exif Thumbnail - 0x0103] Compression = Unknown (77)
+[Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
+[Exif Thumbnail - 0x010a] Fill Order = Normal
+[Exif Thumbnail - 0x0111] Strip Offsets = 264618
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif Thumbnail - 0x0116] Rows Per Strip = 1086 rows/strip
+[Exif Thumbnail - 0x0117] Strip Byte Counts = 41998 bytes
+[Exif Thumbnail - 0x011a] X Resolution = 204 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 2147483647 dots per inch
+[Exif Thumbnail - 0x0124] Unknown tag (0x0124) = 62981
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0129] Page Number = 8 9
+[Exif Thumbnail - 0x0131] Software = NaturalFax
+[Exif Thumbnail - 0x0146] Unknown tag (0x0146) = 0
+[Exif Thumbnail - 0x0147] Unknown tag (0x0147) = 0
+[Exif Thumbnail - 0x0148] Unknown tag (0x0148) = 0
+[Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
+[Exif Thumbnail - 0x0132] Date/Time = 0
+[Exif Thumbnail - 0x010c] Unknown tag (0x010c) = 1728
+[Exif Thumbnail - 0x01ce] Unknown tag (0x01ce) = 1089
+[Exif Thumbnail - 0x6731] Unknown tag (0x6731) = NaturalFax
+[Exif Thumbnail - 0xae0a] Unknown tag (0xae0a) = [98 values]
+[Exif Thumbnail - 0x01dd] Unknown tag (0x01dd) = 0
+[Exif Thumbnail - 0x00f8] Unknown tag (0x00f8) = 2
+[Exif Thumbnail - 0xa61b] Unknown tag (0xa61b) = 98
+[Exif Thumbnail - 0x1731] Unknown tag (0x1731) = NaturalFax
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = m6-299787ea764c0a88bc481364eded5556.tif
+[File - 0x0002] File Size = 310000 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif Thumbnail
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
