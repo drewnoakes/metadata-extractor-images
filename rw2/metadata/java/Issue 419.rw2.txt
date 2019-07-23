@@ -1,0 +1,53 @@
+FILE: Issue 419.rw2
+TYPE: RW2
+
+[ERROR: PanasonicRaw Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 59651 for tag 0x0027
+[ERROR: PanasonicRaw Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 0 for tag 0x4000
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 172 for tag 0x0100
+[ERROR: PanasonicRaw Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 0 for tag 0x4000
+[ERROR: PanasonicRaw Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: PanasonicRaw Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 4608 for tag 0xFE1B
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 0 for tag 0x2064
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0D00
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 256 for tag 0x0100
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 333 for tag 0x0000
+[ERROR: PanasonicRaw Exif IFD0] Illegal TIFF tag pointer offset
+
+[PanasonicRaw Exif IFD0 - 0x0117] Strip Byte Counts = 89
+[PanasonicRaw Exif IFD0 - 0x0005] Sensor Left Border = 
+
+[PanasonicRaw WbInfo2 - 0x0000] Num WB Entries = 333
+[PanasonicRaw WbInfo2 - 0x0001] WB Type 1 = Tungsten (Incandescent)
+[PanasonicRaw WbInfo2 - 0x0002] WB RGB Levels 1 = 1 0 296
+[PanasonicRaw WbInfo2 - 0x0005] WB Type 2 = Unknown (5)
+[PanasonicRaw WbInfo2 - 0x0006] WB RGB Levels 2 = 1 0 336
+[PanasonicRaw WbInfo2 - 0x0009] WB Type 3 = Unknown
+[PanasonicRaw WbInfo2 - 0x000a] WB RGB Levels 3 = 283 5 1
+[PanasonicRaw WbInfo2 - 0x000d] WB Type 4 = Unknown
+[PanasonicRaw WbInfo2 - 0x000e] WB RGB Levels 4 = 0 0 0
+[PanasonicRaw WbInfo2 - 0x0011] WB Type 5 = Unknown (354)
+[PanasonicRaw WbInfo2 - 0x0012] WB RGB Levels 5 = 0 28 32768
+[PanasonicRaw WbInfo2 - 0x0015] WB Type 6 = Unknown
+[PanasonicRaw WbInfo2 - 0x0016] WB RGB Levels 6 = 297 3 2
+[PanasonicRaw WbInfo2 - 0x0019] WB Type 7 = Unknown (-1536)
+[PanasonicRaw WbInfo2 - 0x001a] WB RGB Levels 7 = 0 0 768
+
+[File Type - 0x0001] Detected File Type Name = RW2
+[File Type - 0x0002] Detected File Type Long Name = Panasonic Camera Raw
+[File Type - 0x0004] Expected File Name Extension = rw2
+
+[File - 0x0001] File Name = Issue 419.rw2
+[File - 0x0002] File Size = 368 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PanasonicRaw Exif IFD0
+    - PanasonicRaw WbInfo2
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
