@@ -24,9 +24,8 @@ TYPE: TIFF
 [Exif IFD0 - 0x013b] Artist = Studio Mantyniemi
 [Exif IFD0 - 0x013d] Predictor = 2
 
-[XMP - 0xffff] XMP Value Count = 39
+[XMP - 0xffff] XMP Value Count = 36
 
-[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/60
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 18/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0220
@@ -46,30 +45,22 @@ TYPE: TIFF
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureMode = 1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneCaptureType = 0
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ISOSpeedRatings = 
 [XMPMeta - ] exif:ISOSpeedRatings[1] = 100
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
-[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = Canon
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Model = Canon EOS-1DS
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 720000/10000
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 720000/10000
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2004-06-13T17:44:48+02:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2004-06-13T17:44:48+02:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2004-06-13T17:44:48+02:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS Windows
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = uuid:d6e58659-6272-11d8-882d-de733b57fb5c
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = adobe:docid:photoshop:8a40317d-518f-11d8-a0e9-df2d7ed1ccbb
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:24eda082-bd48-11d8-949e-d7339cf0c1ee
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:24eda083-bd48-11d8-949e-d7339cf0c1ee
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
-[XMPMeta - http://purl.org/dc/elements/1.1/] dc:creator = 
 [XMPMeta - ] dc:creator[1] = Studio Mantyniemi
 
 [IPTC - 0x0200] Application Record Version = 2

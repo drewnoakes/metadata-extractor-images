@@ -20,9 +20,8 @@ TYPE: TIFF
 [Exif IFD0 - 0x013d] Predictor = 2
 [Exif IFD0 - 0x0152] Unknown tag (0x0152) = 0
 
-[XMP - 0xffff] XMP Value Count = 42
+[XMP - 0xffff] XMP Value Count = 39
 
-[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 8/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 20/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureProgram = 1
@@ -42,33 +41,25 @@ TYPE: TIFF
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureMode = 1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneCaptureType = 0
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ISOSpeedRatings = 
 [XMPMeta - ] exif:ISOSpeedRatings[1] = 100
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Fired = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Return = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Mode = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Function = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:RedEyeMode = False
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
-[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 300/1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 300/1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2004-06-10T10:42:54+02:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2004-06-10T10:42:54+02:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2004-06-10T10:42:54+02:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop Elements for Windows, version 2.0
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = uuid:643b279c-b469-11d8-9564-ca6aa92d55f2
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = adobe:docid:photoshop:88c038fc-9b7a-11d8-b50b-8f93386cddec
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:88c038fc-9b7a-11d8-b50b-8f93386cddec
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:bbba279d-6dee-11d9-a00a-c8ccd4b9a28e
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
 
 [IPTC - 0x0200] Application Record Version = 2

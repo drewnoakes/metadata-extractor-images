@@ -23,9 +23,8 @@ TYPE: TIFF
 [Exif IFD0 - 0x0212] YCbCr Sub-Sampling = (Unknown)
 [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
 
-[XMP - 0xffff] XMP Value Count = 51
+[XMP - 0xffff] XMP Value Count = 48
 
-[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0221
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FlashpixVersion = 0100
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 1
@@ -35,13 +34,11 @@ TYPE: TIFF
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/100
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 13/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureProgram = 1
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ISOSpeedRatings = 
 [XMPMeta - ] exif:ISOSpeedRatings[1] = 400
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = 434176/65536
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 483328/65536
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MeteringMode = 5
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Fired = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Return = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Mode = 2
@@ -56,11 +53,9 @@ TYPE: TIFF
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneCaptureType = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:NativeDigest = 36864,40960,40961,37121,37122,40962,40963,37510,40964,36867,36868,33434,33437,34850,34852,34855,34856,37377,37378,37379,37380,37381,37382,37383,37384,37385,37386,37396,41483,41484,41486,41487,41488,41492,41493,41495,41728,41729,41730,41985,41986,41987,41988,41989,41990,41991,41992,41993,41994,41995,41996,42016,0,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,30;7140F3FED5389D9C0AA52D9C8E5ED741
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = sRGB IEC61966-2.1
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
-[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YCbCrPositioning = 2
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 3000000/10000
@@ -69,18 +64,14 @@ TYPE: TIFF
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = Canon
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Model = Canon EOS 5D
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:NativeDigest = 256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;63AB34B778ED676F8A677625B655EEFB
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2008-07-14T17:25:02-04:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2008-07-14T17:24:11-04:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2008-07-14T17:25:02-04:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS2 Macintosh
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:c2a582ec-5369-11dd-b4e5-fb971f41b935
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:92dfdbac-5375-11dd-b4e5-fb971f41b935
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = uuid:53C20B85535A11DDB8A2D9058EED94C6
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = uuid:53C20B85535A11DDB8A2D9058EED94C6
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
 
 [Photoshop - 0x0425] Caption Digest = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

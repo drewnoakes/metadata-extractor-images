@@ -1,8 +1,6 @@
 FILE: fc3e2b992c559055267e26dc23e484c0.gif
 TYPE: GIF
 
-[ERROR: Error] IOException processing GIF data
-
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 100
 [GIF Header - 0x0003] Image Height = 45
@@ -22,10 +20,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 0
 [GIF Image - 0x0003] Width = 100
 [GIF Image - 0x0004] Height = 45
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [File Type - 0x0001] Detected File Type Name = GIF
 [File Type - 0x0002] Detected File Type Long Name = Graphics Interchange Format
@@ -39,7 +35,6 @@ TYPE: GIF
 - GIF Header
 - GIF Control
 - GIF Image
-- Error
 - File Type
 - File
 

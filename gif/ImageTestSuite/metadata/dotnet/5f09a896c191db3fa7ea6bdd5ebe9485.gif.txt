@@ -23,23 +23,10 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 0
 [GIF Image - 0x0003] Width = 0
 [GIF Image - 0x0004] Height = 43
-[GIF Image - 0x0005] Has Local Colour Table = false
-[GIF Image - 0x0006] Is Interlaced = false
-
-[GIF Control - 0x0002] Disposal Method = Restore to Background Color
-[GIF Control - 0x0003] User Input Flag = false
-[GIF Control - 0x0004] Transparent Color Flag = true
-[GIF Control - 0x0001] Delay = 1
-[GIF Control - 0x0005] Transparent Color Index = 255
-
-[GIF Image - 0x0001] Left = 0
-[GIF Image - 0x0002] Top = 0
-[GIF Image - 0x0003] Width = 43
-[GIF Image - 0x0004] Height = 43
 [GIF Image - 0x0005] Has Local Colour Table = true
 [GIF Image - 0x0006] Is Interlaced = false
 [GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
+[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 1
 
 [File Type - 0x0001] Detected File Type Name = GIF
 [File Type - 0x0002] Detected File Type Long Name = Graphics Interchange Format
@@ -52,8 +39,6 @@ TYPE: GIF
 
 - GIF Header
 - GIF Animation
-- GIF Control
-- GIF Image
 - GIF Control
 - GIF Image
 - File Type

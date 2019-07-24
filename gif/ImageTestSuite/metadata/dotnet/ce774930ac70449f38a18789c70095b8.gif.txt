@@ -1,6 +1,8 @@
 FILE: ce774930ac70449f38a18789c70095b8.gif
 TYPE: GIF
 
+[ERROR: Error] Unknown GIF block marker found.
+
 [GIF Header - 0x0001] GIF Format Version = 89a
 [GIF Header - 0x0002] Image Width = 120
 [GIF Header - 0x0003] Image Height = 124
@@ -37,10 +39,8 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 0
 [GIF Image - 0x0003] Width = 120
 [GIF Image - 0x0004] Height = 124
-[GIF Image - 0x0005] Has Local Colour Table = true
+[GIF Image - 0x0005] Has Local Colour Table = false
 [GIF Image - 0x0006] Is Interlaced = false
-[GIF Image - 0x0007] Is Local Colour Table Sorted = false
-[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 8
 
 [GIF Control - 0x0002] Disposal Method = Don't Dispose
 [GIF Control - 0x0003] User Input Flag = false
@@ -82,8 +82,10 @@ TYPE: GIF
 [GIF Image - 0x0002] Top = 0
 [GIF Image - 0x0003] Width = 120
 [GIF Image - 0x0004] Height = 124
-[GIF Image - 0x0005] Has Local Colour Table = false
+[GIF Image - 0x0005] Has Local Colour Table = true
 [GIF Image - 0x0006] Is Interlaced = false
+[GIF Image - 0x0007] Is Local Colour Table Sorted = false
+[GIF Image - 0x0008] Local Colour Table Bits Per Pixel = 1
 
 [File Type - 0x0001] Detected File Type Name = GIF
 [File Type - 0x0002] Detected File Type Long Name = Graphics Interchange Format
@@ -106,6 +108,7 @@ TYPE: GIF
 - GIF Image
 - GIF Control
 - GIF Image
+- Error
 - File Type
 - File
 

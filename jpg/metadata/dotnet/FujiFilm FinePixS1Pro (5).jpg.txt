@@ -73,9 +73,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 1074 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 4437 bytes
 
-[XMP - 0xffff] XMP Value Count = 32
+[XMP - 0xffff] XMP Value Count = 24
 
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:CaptionWriter = Ian Britton
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Headline = Wilts & Dorset Bus
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:AuthorsPosition = Photographer
@@ -86,31 +85,19 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Category = BUS
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2002-09-19
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Urgency = 5
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:SupplementalCategories = 
 [XMPMeta - ] photoshop:SupplementalCategories[1] = Wilts & Dorset Bus
-[XMPMeta - http://ns.adobe.com/xap/1.0/bj/]  = 
-[XMPMeta - http://ns.adobe.com/xap/1.0/bj/] xmpBJ:JobRef = 
-[XMPMeta - ] xmpBJ:JobRef[1] = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Job#] xmpBJ:JobRef[1]/stJob:name = Photographer
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:c3a34604-cc6c-11d6-87de-ce11a83e05d9
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:13309f67-cc72-11d6-87de-ce11a83e05d9
-[XMPMeta - http://ns.adobe.com/xap/1.0/rights/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/rights/] xmpRights:WebStatement = www.freefoto.com
 [XMPMeta - http://ns.adobe.com/xap/1.0/rights/] xmpRights:Marked = True
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
-[XMPMeta - http://purl.org/dc/elements/1.1/] dc:description = 
 [XMPMeta - ] dc:description[1] = Wilts & Dorset Bus
 [XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
-[XMPMeta - http://purl.org/dc/elements/1.1/] dc:creator = 
 [XMPMeta - ] dc:creator[1] = Ian Britton
-[XMPMeta - http://purl.org/dc/elements/1.1/] dc:title = 
 [XMPMeta - ] dc:title[1] = Wilts & Dorset Bus
 [XMPMeta - http://www.w3.org/XML/1998/namespace] dc:title[1]/xml:lang = x-default
-[XMPMeta - http://purl.org/dc/elements/1.1/] dc:rights = 
 [XMPMeta - ] dc:rights[1] = ian Britton - FreeFoto.com
 [XMPMeta - http://www.w3.org/XML/1998/namespace] dc:rights[1]/xml:lang = x-default
-[XMPMeta - http://purl.org/dc/elements/1.1/] dc:subject = 
 [XMPMeta - ] dc:subject[1] = Wilts & Dorset Bus
 
 [ICC Profile - 0x0000] Profile Size = 3144

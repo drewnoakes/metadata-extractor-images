@@ -57,11 +57,9 @@ TYPE: JPEG
 [GPS - 0x0012] GPS Map Datum = WGS 1984
 [GPS - 0x001d] GPS Date Stamp = 2008:12:07
 
-[XMP - 0xffff] XMP Value Count = 141
+[XMP - 0xffff] XMP Value Count = 136
 
-[XMPMeta - http://ns.adobe.com/exif/1.0/aux/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:SerialNumber = 000K79K13272
-[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:AlreadyApplied = True
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:BlueHue = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:BlueSaturation = 0
@@ -135,10 +133,8 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:Vibrance = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:VignetteAmount = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:WhiteBalance = As Shot
-[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ToneCurve = 
 [XMPMeta - ] crs:ToneCurve[1] = 0, 0
 [XMPMeta - ] crs:ToneCurve[2] = 255, 255
-[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 4403268/1000000
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Contrast = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CustomRendered = 0
@@ -169,17 +165,13 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Sharpness = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = 7321928/1000000
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 0
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ISOSpeedRatings = 
 [XMPMeta - ] exif:ISOSpeedRatings[1] = 50
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Fired = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Function = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Mode = 2
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:RedEyeMode = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Return = 0
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:LegacyIPTCDigest = 8E6A78FEC0D4224F105C27E2494E6E5C
-[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 3072
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 2304
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = OLYMPUS IMAGING CORP.
@@ -187,17 +179,13 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 72/1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 72/1
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop Lightroom
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2008-12-09T20:44:33.249-08:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2008-12-09T21:03:56-08:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 3
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2008-12-07T10:28:52-08:00
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
-[XMPMeta - http://purl.org/dc/elements/1.1/] dc:description = 
 [XMPMeta - ] dc:description[1] = OLYMPUS DIGITAL CAMERA
 [XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
-[XMPMeta - http://purl.org/dc/elements/1.1/] dc:subject = 
 [XMPMeta - ] dc:subject[1] = 2008
 [XMPMeta - ] dc:subject[2] = bc
 [XMPMeta - ] dc:subject[3] = british columbia

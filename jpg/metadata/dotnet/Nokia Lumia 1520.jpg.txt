@@ -46,24 +46,17 @@ TYPE: JPEG
 
 [GPS - 0xea1c] Padding = [2060 values]
 
-[XMP - 0xffff] XMP Value Count = 15
+[XMP - 0xffff] XMP Value Count = 10
 
-[XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/]  = 
-[XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/] mwg-rs:Regions = 
-[XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/] mwg-rs:Regions/mwg-rs:AppliedToDimensions = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:h = 4992
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:unit = pixel
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:w = 3744
-[XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/] mwg-rs:Regions/mwg-rs:RegionList = 
-[XMPMeta - ] mwg-rs:Regions/mwg-rs:RegionList[1] = 
 [XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Title = 
-[XMPMeta - http://www.metadataworkinggroup.com/schemas/regions/] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area = 
 [XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area/stArea:x = 0.5
 [XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area/stArea:y = 0.5
 [XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area/stArea:w = 1
 [XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area/stArea:h = 1
 [XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:RegionList[1]/mwg-rs:Area/stArea:unit = normalized
-[XMPMeta - Nokia:ns:imaging/1.0/]  = 
 [XMPMeta - Nokia:ns:imaging/1.0/] Nokia:SharpeningStrength = 33555732
 
 [File Type - 0x0001] Detected File Type Name = JPEG

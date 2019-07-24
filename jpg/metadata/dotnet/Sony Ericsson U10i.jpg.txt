@@ -60,7 +60,6 @@ TYPE: JPEG
 
 [XMP - 0xffff] XMP Value Count = 6
 
-[XMPMeta - http://developer.sonyericsson.com/cell/1.0/]  = 
 [XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:mcc = 460
 [XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:mnc = 0
 [XMPMeta - http://developer.sonyericsson.com/cell/1.0/] cell:lac = 4236

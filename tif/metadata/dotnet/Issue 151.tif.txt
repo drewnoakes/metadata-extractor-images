@@ -18,9 +18,8 @@ TYPE: TIFF
 [Exif IFD0 - 0xc62f] Unknown tag (0xc62f) = PI040378D25L000046
 [Exif IFD0 - 0xc68b] Unknown tag (0xc68b) = [31 values]
 
-[XMP - 0xffff] XMP Value Count = 21
+[XMP - 0xffff] XMP Value Count = 16
 
-[XMPMeta - http://pix4d.com/camera/1.0/]  = 
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:Irradiance = 530.000000
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradiancePitch = -48.406395
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradianceRoll = 35.940220
@@ -32,15 +31,10 @@ TYPE: TIFF
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:Roll = 0.172856
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:SensorTemperature = 36.250000
 [XMPMeta - http://pix4d.com/camera/1.0/] Camera:Yaw = -167.020798
-[XMPMeta - http://pix4d.com/camera/1.0/] Camera:BandName = 
 [XMPMeta - ] Camera:BandName[1] = Red edge
-[XMPMeta - http://pix4d.com/camera/1.0/] Camera:CentralWavelength = 
 [XMPMeta - ] Camera:CentralWavelength[1] = 735.000000
-[XMPMeta - http://pix4d.com/camera/1.0/] Camera:WavelengthFWHM = 
 [XMPMeta - ] Camera:WavelengthFWHM[1] = 15.000000
-[XMPMeta - http://pix4d.com/camera/1.0/] Camera:BandSensitivity = 
 [XMPMeta - ] Camera:BandSensitivity[1] = 0.140000
-[XMPMeta - http://pix4d.com/camera/1.0/] Camera:IrradianceSensitivity = 
 [XMPMeta - ] Camera:IrradianceSensitivity[1] = 0.240000
 
 [Exif SubIFD - 0x829a] Exposure Time = 3320340/2147483647 sec

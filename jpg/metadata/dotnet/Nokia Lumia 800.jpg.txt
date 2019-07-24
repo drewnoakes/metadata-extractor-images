@@ -45,9 +45,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 654 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5815 bytes
 
-[XMP - 0xffff] XMP Value Count = 117
+[XMP - 0xffff] XMP Value Count = 114
 
-[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:AlreadyApplied = True
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:BlueHue = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:BlueSaturation = 0
@@ -122,10 +121,8 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:Vibrance = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:VignetteAmount = 0
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:WhiteBalance = As Shot
-[XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:ToneCurve = 
 [XMPMeta - ] crs:ToneCurve[1] = 0, 0
 [XMPMeta - ] crs:ToneCurve[2] = 255, 255
-[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 2275007/1000000
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2012-06-09T21:23:38+01:00
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0220
@@ -142,15 +139,12 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 2448
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 3264
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = 9965784/1000000
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Fired = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Function = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Mode = 2
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:RedEyeMode = False
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Return = 0
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:LegacyIPTCDigest = 952A07D3DE9C4BFF82160A8E5AD8B682
-[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 3264
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 2448
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = Nokia
@@ -158,13 +152,10 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 240/1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 240/1
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2012-06-09T21:23:38+01:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop Lightroom
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2012-06-13T23:17:22+01:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 3
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
-[XMPMeta - http://purl.org/dc/elements/1.1/] dc:subject = 
 [XMPMeta - ] dc:subject[1] = 2012
 [XMPMeta - ] dc:subject[2] = dublin
 [XMPMeta - ] dc:subject[3] = ireland

@@ -17,31 +17,24 @@ TYPE: JPEG
 [JFIF - 0x000c] Thumbnail Width Pixels = 0
 [JFIF - 0x000d] Thumbnail Height Pixels = 0
 
-[XMP - 0xffff] XMP Value Count = 24
+[XMP - 0xffff] XMP Value Count = 21
 
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/jpeg
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2018-01-12T21:19:13
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = sRGB IEC61966-2.1
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2018-01-12T21:19:13
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS5 Macintosh
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2018-07-29T19:54:47+10:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2018-07-29T19:54:47+10:00
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = C7EE91DF85D86DA0552BEBD762A3753A
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:5AF24DF484206811999CEEA5B505DF26
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = C7EE91DF85D86DA0552BEBD762A3753A
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:History = 
-[XMPMeta - ] xmpMM:History[1] = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:59F24DF484206811999CEEA5B505DF26
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop CS5 Macintosh
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2018-07-29T19:54:47+10:00
-[XMPMeta - ] xmpMM:History[2] = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:5AF24DF484206811999CEEA5B505DF26

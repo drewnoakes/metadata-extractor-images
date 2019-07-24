@@ -22,12 +22,10 @@ TYPE: ARW
 [Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
 [Exif IFD0 - 0x935c] Unknown tag (0x935c) = [319320 values]
 
-[XMP - 0xffff] XMP Value Count = 30
+[XMP - 0xffff] XMP Value Count = 28
 
-[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 1700
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 2272
-[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:BitsPerSample = 
 [XMPMeta - ] tiff:BitsPerSample[1] = 8
 [XMPMeta - ] tiff:BitsPerSample[2] = 8
 [XMPMeta - ] tiff:BitsPerSample[3] = 8
@@ -39,23 +37,17 @@ TYPE: ARW
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 1181100/10000
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 3
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:NativeDigest = 256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;BCA95BB476FD1104338BFC38E915AF36
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = uuid:72CCE9B48EFCDA1182CAFF47B618F9F3
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:77CCE9B48EFCDA1182CAFF47B618F9F3
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DerivedFrom = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = uuid:79E7BD888DFCDA1182CAFF47B618F9F3
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = uuid:78E7BD888DFCDA1182CAFF47B618F9F3
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2006-06-15T20:49:16+04:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2006-06-15T20:50:55+04:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2006-06-15T20:50:55+04:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS2 Windows
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
-[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 600
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 802
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = -1

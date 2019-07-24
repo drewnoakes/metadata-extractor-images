@@ -22,26 +22,20 @@ TYPE: ARW
 
 [XMP - 0xffff] XMP Value Count = 15
 
-[XMPMeta - http://ns.adobe.com/exif/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 347
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 80
-[XMPMeta - http://ns.adobe.com/photoshop/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:History = 
-[XMPMeta - http://ns.adobe.com/tiff/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 72/1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 72/1
 [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
-[XMPMeta - http://ns.adobe.com/xap/1.0/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2008-08-05T12:42:28Z
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2008-08-06T15:31:22Z
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2008-08-06T15:31:22Z
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop CS Windows
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:3a3ad282-63c4-11dd-a56a-e9890ab5982b
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:46cfdb72-63c4-11dd-a56a-e9890ab5982b
-[XMPMeta - http://purl.org/dc/elements/1.1/]  = 
 [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = image/tiff
 
 [Photoshop - 0x0425] Caption Digest = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

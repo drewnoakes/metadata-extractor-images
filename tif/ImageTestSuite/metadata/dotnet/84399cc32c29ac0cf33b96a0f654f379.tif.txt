@@ -23,7 +23,6 @@ TYPE: ARW
 
 [XMP - 0xffff] XMP Value Count = 2
 
-[XMPMeta - http://ns.adobe.com/xap/1.0/mm/]  = 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:c2f73406-f6e7-11da-901f-d85e9854135a
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:e08f8924-f6e8-11da-901f-d85e9854135a
 
