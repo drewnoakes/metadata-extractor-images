@@ -522,7 +522,7 @@ TYPE: ARW
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2010:09:30 16:06:06
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/6 sec
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-[Exif SubIFD - 0x9208] White Balance = (Other)
+[Exif SubIFD - 0x9208] White Balance = Other
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 728 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 825 pixels
