@@ -1,0 +1,7 @@
+FILE: NegativeArraySizeException.DuckyReader.extract.mp3
+TYPE: JPEG
+
+EXCEPTION: Array dimensions exceeded supported range.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,7 @@
+FILE: ArrayIndexOutOfBoundsException.Mp3Reader.setBitrate.mp3
+TYPE: MP3
+
+EXCEPTION: -1
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

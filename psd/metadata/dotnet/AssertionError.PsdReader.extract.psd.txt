@@ -1,0 +1,25 @@
+FILE: AssertionError.PsdReader.extract.psd
+TYPE: PSD
+
+[PSD Header - 0x0001] Channel Count = 1 channel
+[PSD Header - 0x0002] Image Height = 4 pixels
+[PSD Header - 0x0003] Image Width = 8 pixels
+[PSD Header - 0x0004] Bits Per Channel = 8 bits per channel
+[PSD Header - 0x0005] Color Mode = Grayscale
+
+[File Type - 0x0001] Detected File Type Name = PSD
+[File Type - 0x0002] Detected File Type Long Name = Photoshop Document
+[File Type - 0x0003] Detected MIME Type = image/vnd.adobe.photoshop
+[File Type - 0x0004] Expected File Name Extension = psd
+
+[File - 0x0001] File Name = AssertionError.PsdReader.extract.psd
+[File - 0x0002] File Size = 161 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PSD Header
+- Photoshop
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,7 @@
+FILE: IllegalArgumentException.HeifReader.processBoxes.heif
+TYPE: HEIF
+
+EXCEPTION: n must be zero or greater.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

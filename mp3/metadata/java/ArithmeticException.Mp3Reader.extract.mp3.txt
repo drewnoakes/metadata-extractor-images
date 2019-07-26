@@ -1,0 +1,7 @@
+FILE: ArithmeticException.Mp3Reader.extract.mp3
+TYPE: MP3
+
+EXCEPTION: / by zero
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

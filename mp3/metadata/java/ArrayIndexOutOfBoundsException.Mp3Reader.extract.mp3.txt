@@ -1,0 +1,7 @@
+FILE: ArrayIndexOutOfBoundsException.Mp3Reader.extract.mp3
+TYPE: MP3
+
+EXCEPTION: 3
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

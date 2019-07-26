@@ -1,0 +1,7 @@
+FILE: NullPointerException.HeifPictureHandler.processBox.heif
+TYPE: HEIF
+
+EXCEPTION: null
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
