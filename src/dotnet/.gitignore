@@ -1,0 +1,12 @@
+Debug/
+Release/
+bin/
+obj/
+_ReSharper*/
+.idea/
+*.suo
+*.user
+*.ReSharper
+*.DotSettings.user
+packages/
+.vs
