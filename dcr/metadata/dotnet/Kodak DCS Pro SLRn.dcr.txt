@@ -1,0 +1,158 @@
+FILE: Kodak DCS Pro SLRn.dcr
+TYPE: TIFF
+
+[ERROR: IPTC] Invalid IPTC tag marker at offset 459. Expected '0x1c' but got '0x0'.
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif IFD0 - 0x0100] Image Width = 375 pixels
+[Exif IFD0 - 0x0101] Image Height = 250 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 12 12 12 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Kodak DCR Compressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = YCbCr
+[Exif IFD0 - 0x010e] Image Description = 
+[Exif IFD0 - 0x010f] Make = Kodak
+[Exif IFD0 - 0x0110] Model = DCS Pro SLR/n
+[Exif IFD0 - 0x0111] Strip Offsets = 199680
+[Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 250 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 128160 bytes
+[Exif IFD0 - 0x0118] Minimum Sample Value = 0
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per (no unit)
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per (no unit)
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = (No unit)
+[Exif IFD0 - 0x0131] Software = 4.5.0.121515
+[Exif IFD0 - 0x0132] Date/Time = 2003:12:30 16:32:59
+[Exif IFD0 - 0x013b] Artist = 
+[Exif IFD0 - 0x827d] Unknown tag (0x827d) = PSLRN-90001
+[Exif IFD0 - 0x828f] Battery Level = 1
+[Exif IFD0 - 0x8290] Unknown tag (0x8290) = 12
+[Exif IFD0 - 0x8298] Copyright = 
+[Exif IFD0 - 0x829a] Exposure Time = 1/125 sec
+[Exif IFD0 - 0x829d] F-Number = f/9.5
+[Exif IFD0 - 0x8822] Exposure Program = Manual control
+[Exif IFD0 - 0x882b] Self Timer Mode = 0
+[Exif IFD0 - 0x9003] Date/Time Original = 2003:12:30 16:32:59
+[Exif IFD0 - 0x9204] Exposure Bias Value = 0 EV
+[Exif IFD0 - 0x9205] Max Aperture Value = f/2.6
+[Exif IFD0 - 0x9207] Metering Mode = Spot
+[Exif IFD0 - 0x9208] White Balance = Unknown
+[Exif IFD0 - 0x920a] Focal Length = 70 mm
+[Exif IFD0 - 0x9211] Image Number = 3143
+[Exif IFD0 - 0x9215] Exposure Index = 160
+[Exif IFD0 - 0x9216] TIFF/EP Standard ID = 1 0 0 0
+[Exif IFD0 - 0x9217] Unknown tag (0x9217) = 2
+[Exif IFD0 - 0xfde8] Unknown tag (0xfde8) = 256
+[Exif IFD0 - 0xfde9] Unknown tag (0xfde9) = [375 values]
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif SubIFD - 0x0100] Image Width = 375 pixels
+[Exif SubIFD - 0x0101] Image Height = 250 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 12 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Kodak DCR Compressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = YCbCr
+[Exif SubIFD - 0x0111] Strip Offsets = 199680
+[Exif SubIFD - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 250 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 128160 bytes
+[Exif SubIFD - 0x0118] Minimum Sample Value = 0
+[Exif SubIFD - 0x011a] X Resolution = 72 dots per (no unit)
+[Exif SubIFD - 0x011b] Y Resolution = 72 dots per (no unit)
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x0128] Resolution Unit = (No unit)
+[Exif SubIFD - 0xfde8] Unknown tag (0xfde8) = 256
+[Exif SubIFD - 0xfde9] Unknown tag (0xfde9) = [375 values]
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+[Exif SubIFD - 0x0100] Image Width = 4516 pixels
+[Exif SubIFD - 0x0101] Image Height = 3012 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Kodak DCR Compressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+[Exif SubIFD - 0x0111] Strip Offsets = 559104
+[Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 3012 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 12244444 bytes
+[Exif SubIFD - 0x0118] Minimum Sample Value = 0
+[Exif SubIFD - 0x011a] X Resolution = 72 dots per (no unit)
+[Exif SubIFD - 0x011b] Y Resolution = 72 dots per (no unit)
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x0128] Resolution Unit = (No unit)
+[Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+[Exif SubIFD - 0x828e] CFA Pattern = [Green,Red][Blue,Green]
+[Exif SubIFD - 0x920e] Focal Plane X Resolution = 9
+[Exif SubIFD - 0x920f] Focal Plane Y Resolution = 9
+[Exif SubIFD - 0x9210] Unknown tag (0x9210) = 5
+[Exif SubIFD - 0xfde8] Unknown tag (0xfde8) = 256
+[Exif SubIFD - 0xfde9] Unknown tag (0xfde9) = [54216 values]
+[Exif SubIFD - 0xfdea] Lens = 0
+[Exif SubIFD - 0xfdeb] Unknown tag (0xfdeb) = 0
+
+[Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif SubIFD - 0x0100] Image Width = 1125 pixels
+[Exif SubIFD - 0x0101] Image Height = 750 pixels
+[Exif SubIFD - 0x0102] Bits Per Sample = 12 12 12 bits/component/pixel
+[Exif SubIFD - 0x0103] Compression = Kodak DCR Compressed
+[Exif SubIFD - 0x0106] Photometric Interpretation = YCbCr
+[Exif SubIFD - 0x0111] Strip Offsets = 12803584
+[Exif SubIFD - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif SubIFD - 0x0116] Rows Per Strip = 750 rows/strip
+[Exif SubIFD - 0x0117] Strip Byte Counts = 1068016 bytes
+[Exif SubIFD - 0x0118] Minimum Sample Value = 0
+[Exif SubIFD - 0x011a] X Resolution = 72 dots per (no unit)
+[Exif SubIFD - 0x011b] Y Resolution = 72 dots per (no unit)
+[Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif SubIFD - 0x0128] Resolution Unit = (No unit)
+[Exif SubIFD - 0xfde8] Unknown tag (0xfde8) = 256
+[Exif SubIFD - 0xfde9] Unknown tag (0xfde9) = [3375 values]
+[Exif SubIFD - 0xfdea] Lens = 0
+[Exif SubIFD - 0xfdeb] Unknown tag (0xfdeb) = 0
+
+[IPTC - 0x0200] Application Record Version = 3
+[IPTC - 0x0241] Originating Program = KODAK DCS Acquire Module
+[IPTC - 0x0246] Program Version = 2.2.2
+[IPTC - 0x0205] Object Name = Image from Kodak Professional DCS Pro SLRn Digital Camera
+[IPTC - 0x0219] Keywords = Image from Kodak Professional DCS Pro SLRn Digital Camera
+[IPTC - 0x0237] Date Created = 2004:01:27
+[IPTC - 0x0250] By-line = John W. Myers
+[IPTC - 0x0255] By-line Title = John W. Myers
+[IPTC - 0x025a] City = Rochester
+[IPTC - 0x025f] Province/State = NY
+[IPTC - 0x0265] Country/Primary Location Name = USA
+[IPTC - 0x0269] Headline = Image from Kodak Professional DCS Pro SLRn Digital Camera
+[IPTC - 0x026e] Credit = John W. Myers
+[IPTC - 0x0273] Source = John W. Myers
+[IPTC - 0x0278] Caption/Abstract = Image from Kodak Professional DCS Pro SLRn Digital Camera
+[IPTC - 0x027a] Caption Writer/Editor = Jay Kelbley
+[IPTC - 0x0274] Copyright Notice = 2003 John W. Myers Photography
+
+[GPS - 0x0000] GPS Version ID = 1.000
+[GPS - 0x0001] GPS Latitude Ref = 
+[GPS - 0x0002] GPS Latitude = 0° 0' 0"
+[GPS - 0x0003] GPS Longitude Ref = 
+[GPS - 0x0004] GPS Longitude = 0° 0' 0"
+[GPS - 0x0005] GPS Altitude Ref = Sea level
+[GPS - 0x0006] GPS Altitude = 0 metres
+[GPS - 0x0007] GPS Time-Stamp = 00:00:00.000 UTC
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = Kodak DCS Pro SLRn.dcr
+[File - 0x0002] File Size = 13956876 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - IPTC
+    - GPS
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
