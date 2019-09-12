@@ -39,10 +39,12 @@ TYPE: JPEG
 [GPS - 0x0005] GPS Altitude Ref = Sea level
 [GPS - 0x0006] GPS Altitude = 0 metres
 [GPS - 0x0007] GPS Time-Stamp = 15:29:41.000 UTC
-[GPS - 0x000c] GPS Speed Ref = kph
-[GPS - 0x000d] GPS Speed = 0
+[GPS - 0x000c] GPS Speed Ref = km/h
+[GPS - 0x000d] GPS Speed = 0 km/h
 [GPS - 0x000e] GPS Track Ref = True direction
 [GPS - 0x000f] GPS Track = 0 degrees
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
 
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
@@ -58,6 +60,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
     - GPS
+- Huffman
 - File Type
 - File
 

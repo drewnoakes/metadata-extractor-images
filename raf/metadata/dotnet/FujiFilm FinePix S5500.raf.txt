@@ -95,6 +95,8 @@ TYPE: RAF
 [Exif Thumbnail - 0x0202] Thumbnail Length = 9192 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = RAF
 [File Type - 0x0002] Detected File Type Long Name = FujiFilm Camera Raw
 [File Type - 0x0004] Expected File Name Extension = raf
@@ -110,6 +112,7 @@ TYPE: RAF
         - Interoperability
     - PrintIM
     - Exif Thumbnail
+- Huffman
 - File Type
 - File
 

@@ -52,7 +52,7 @@ TYPE: JPEG
 [GPS - 0x0003] GPS Longitude Ref = W
 [GPS - 0x0004] GPS Longitude = -118° 6' 26.19"
 [GPS - 0x0005] GPS Altitude Ref = Sea level
-[GPS - 0x0006] GPS Altitude = 1875 metres
+[GPS - 0x0006] GPS Altitude = 1875.26 metres
 [GPS - 0x0007] GPS Time-Stamp = 17:35:52.000 UTC
 [GPS - 0x0012] GPS Map Datum = WGS 1984
 [GPS - 0x001d] GPS Date Stamp = 2008:12:07
@@ -239,6 +239,8 @@ TYPE: JPEG
 [Adobe JPEG - 0x0002] Flags 1 = 0
 [Adobe JPEG - 0x0003] Color Transform = YCbCr
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -257,6 +259,7 @@ TYPE: JPEG
 - Photoshop
     - IPTC
 - Adobe JPEG
+- Huffman
 - File Type
 - File
 

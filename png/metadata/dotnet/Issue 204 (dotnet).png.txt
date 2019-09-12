@@ -1,0 +1,92 @@
+FILE: Issue 204 (dotnet).png
+TYPE: PNG
+
+[PNG-IHDR - 0x0001] Image Width = 500
+[PNG-IHDR - 0x0002] Image Height = 500
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-gAMA - 0x000b] Image Gamma = 0.455
+
+[PNG Chromaticities - 0x0001] White Point X = 31269
+[PNG Chromaticities - 0x0002] White Point Y = 32899
+[PNG Chromaticities - 0x0003] Red X = 63999
+[PNG Chromaticities - 0x0004] Red Y = 33001
+[PNG Chromaticities - 0x0005] Green X = 30000
+[PNG Chromaticities - 0x0006] Green Y = 60000
+[PNG Chromaticities - 0x0007] Blue X = 15000
+[PNG Chromaticities - 0x0008] Blue Y = 5999
+
+[PNG-bKGD - 0x000f] Background Color = R 255, G 255, B 255
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 11811
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 11811
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[XMP - 0xffff] XMP Value Count = 7
+
+[XMPMeta - ] dc:description[1] = Item: 07300021234228
+FunctionalName: Smörkex
+BrandName: livsmedelsVarumärke
+Supplier: 7300029000115 - GS1 Sweden AB
+DescriptiveSize: 300G
+TargetMarket: Sweden
+ImageQualityAssuranceDate: 2019-07-10
+ImageApprovalDate: 
+ImagePublicAccessDate: 2019-07-10
+MediaEndDate: 
+ImageSource: Other
+FieldOfApplication: Planogram
+Tag: 
+ImageType: 
+FacingIndicator: Front (1)
+AngleIdentifier: 
+State: 
+[XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
+[XMPMeta - ] dc:creator[1] = Trade Item Information by GS1
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2019-09-02
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = https://validoo.se
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2019-09-02
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2019-09-02
+
+[PNG-tEXt - 0x000d] Textual Data = date:create: 2019-09-02T14:45:37+00:00
+
+[PNG-tEXt - 0x000d] Textual Data = date:modify: 2019-09-02T14:45:37+00:00
+
+[PNG-tEXt - 0x000d] Textual Data = xmp:CreateDate: 2019-09-02
+
+[PNG-tEXt - 0x000d] Textual Data = xmp:CreatorTool: https://validoo.se
+
+[PNG-tEXt - 0x000d] Textual Data = xmp:MetadataDate: 2019-09-02
+
+[PNG-tEXt - 0x000d] Textual Data = xmp:ModifyDate: 2019-09-02
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = Issue 204 (dotnet).png
+[File - 0x0002] File Size = 37747 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- PNG-gAMA
+- PNG Chromaticities
+- PNG-bKGD
+- PNG-pHYs
+- XMP
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
+- PNG-tEXt
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

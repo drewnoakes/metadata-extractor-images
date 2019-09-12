@@ -142,7 +142,7 @@ TYPE: JPEG
 
 [IPTC - 0x0100] Enveloped Record Version = 4
 [IPTC - 0x0105] Destination = 
-[IPTC - 0x0114] File Format = 
+[IPTC - 0x0114] File Format = No ObjectData
 [IPTC - 0x0116] File Version = 0
 [IPTC - 0x011e] Service Identifier = 
 [IPTC - 0x0128] Envelope Number = 
@@ -177,6 +177,8 @@ TYPE: JPEG
 [IPTC - 0x027a] Caption Writer/Editor = 
 [IPTC - 0x0287] Language Identifier = 
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -195,6 +197,7 @@ TYPE: JPEG
 - ICC Profile
 - Photoshop
     - IPTC
+- Huffman
 - File Type
 - File
 

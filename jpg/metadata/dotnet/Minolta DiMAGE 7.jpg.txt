@@ -128,6 +128,8 @@ TYPE: JPEG
 [ICC Profile - 0x62545243] Blue TRC = 0.0085908
 [ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -145,6 +147,7 @@ TYPE: JPEG
             - PrintIM
     - Exif Thumbnail
 - ICC Profile
+- Huffman
 - File Type
 - File
 

@@ -83,7 +83,7 @@ TYPE: JPEG
 [GPS - 0x0003] GPS Longitude Ref = W
 [GPS - 0x0004] GPS Longitude = -90° 15' 36.01"
 [GPS - 0x0005] GPS Altitude Ref = Sea level
-[GPS - 0x0006] GPS Altitude = 109 metres
+[GPS - 0x0006] GPS Altitude = 109.79 metres
 
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
@@ -117,6 +117,8 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2017-01-26
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2017-01-26
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -134,6 +136,7 @@ TYPE: JPEG
     - GPS
     - Exif Thumbnail
 - XMP
+- Huffman
 - File Type
 - File
 

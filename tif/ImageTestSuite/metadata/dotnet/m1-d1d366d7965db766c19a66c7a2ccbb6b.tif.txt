@@ -48,11 +48,11 @@ TYPE: TIFF
 [ICC Profile - 0x72545243] Red TRC = 0.0070344
 [ICC Profile - 0x67545243] Green TRC = 0.0070344
 [ICC Profile - 0x62545243] Blue TRC = 0.0070344
-[ICC Profile - 0x76636774] Unknown tag (0x76636774) = vc?t (0x76633F74): 1554 bytes
-[ICC Profile - 0x6e64696e] Unknown tag (0x6e64696e) = ndin (0x6E64696E): 446 bytes
+[ICC Profile - 0x76636774] Video Card Gamma = vc?t (0x76633F74): 1554 bytes
+[ICC Profile - 0x6e64696e] Native Display Information = ndin (0x6E64696E): 446 bytes
 [ICC Profile - 0x64657363] Profile Description = Co�or LCD
 [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = 15 itIT(LCD colori) frFR(Éran à crist{ux li뭱uides coule襵r) nbNO(Farge-LCD) esES(LCD colr) fiFI(Väri-LCD) ptWT(LC colorido) zhTW(彩色液晶顯示器) jaJP(カラー LCD) nlNL(Kleuren-LCD) deDE(Farb-LCD) koKR(컬러 LCD) enUS(Color LCD) svSE(Fä¾g-LCD) daDK(LCD-farveskæ m) zhCN(彩色 LCD)
-[ICC Profile - 0x6d6d6f64] Unknown tag (0x6d6d6f64) = mmod (0x6D6D6F64): 40 bytes
+[ICC Profile - 0x6d6d6f64] Make And Model = mmod (0x6D6D6F64): 40 bytes
 
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format

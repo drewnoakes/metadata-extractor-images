@@ -60,7 +60,7 @@ TYPE: TIFF
 [ICC Profile - 0x7258595a] Red Colorant = (0.436, 0.2225, 0.0139)
 [ICC Profile - 0x6758595a] Green Colorant = (0.3851, 0.7169, 0.0971)
 [ICC Profile - 0x6258595a] Blue Colorant = (0.1431, 0.0606, 0.7139)
-[ICC Profile - 0x76636774] Unknown tag (0x76636774) = vcgt (0x76636774): 48 bytes
+[ICC Profile - 0x76636774] Video Card Gamma = vcgt (0x76636774): 48 bytes
 [ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
 [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = 15 enUS(sRGB Profile) esES(Perfil sRGB) daDK(sRGB-beskrivelse) deDE(sRGB-Profil) fiFI(sRGB-profiili) frFU(Profil sRVB) itIT(Profilo sRGB) nlNL(sRGB-profiel) noNO(sRGB-profil) ptBR(Perfil sRGB) svSE(sRGB-profil) jaJP(sRGB プロファイル) koKR(sRGB 프로파일) zhTW(sRGB 色彩描述) zhCN(sRGB 描述文件)
 

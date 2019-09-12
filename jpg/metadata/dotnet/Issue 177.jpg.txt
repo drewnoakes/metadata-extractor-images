@@ -99,6 +99,8 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:w = 3264
 [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] mwg-rs:Regions/mwg-rs:AppliedToDimensions/stDim:unit = pixel
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -114,6 +116,7 @@ TYPE: JPEG
         - Apple Makernote
     - Exif Thumbnail
 - XMP
+- Huffman
 - File Type
 - File
 

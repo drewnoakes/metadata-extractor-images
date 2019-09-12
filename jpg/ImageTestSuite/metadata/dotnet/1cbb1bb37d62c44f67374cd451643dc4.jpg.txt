@@ -67,6 +67,8 @@ TYPE: JPEG
 [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop CS) 1
 [Photoshop - 0x0406] JPEG Quality = 10 (Maximum), Progressive format, 3 scans
 
+[Huffman - 0x0001] Number of Tables = 5 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -82,6 +84,7 @@ TYPE: JPEG
     - Exif Thumbnail
 - XMP
 - Photoshop
+- Huffman
 - File Type
 - File
 

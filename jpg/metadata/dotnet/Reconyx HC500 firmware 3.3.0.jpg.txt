@@ -43,6 +43,8 @@ TYPE: JPEG
 [Reconyx HyperFire Makernote - 0x0054] Battery Voltage = 8.550
 [Reconyx HyperFire Makernote - 0x0056] User Label = CCPF DS02
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -56,6 +58,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
 - Reconyx HyperFire Makernote
+- Huffman
 - File Type
 - File
 

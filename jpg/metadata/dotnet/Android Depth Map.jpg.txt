@@ -37,6 +37,8 @@ TYPE: JPEG
 [XMPMeta - http://ns.google.com/photos/1.0/depthmap/] GDepth:Data = iVBORw0KGgoAAAANSUhEUgAAAwAAAAQACAYAAABWJj4AAAAABHNCSVQICAgIfAhkiAAAIABJREFUeJzsfely7DBuNdW77XtnJktV3v9d8jSpSubLzF3s3vT9uIF8BAMkuGnp5qlyubslkeAGHoAg1f3nf/5n754cfd8P/+mvYX50XTf80fc1ovWvhhqYeny08djwSHiU/jwXWv2tH7u5BZgDTeE3NDQ05IHr0UYAGhoaGtaDpzQAJDRvUENDQ4MO1I2N7Dc0NDSsG09tAOCE1oh/Q0PDWjAnAW+e/4aGhob146kNAOfG8aANDQ0NS8bc8baN/Dc0NDQ8Bp7CAAiR+0b+14FGPhoa3Gjj3Vzo+/6LDG18NjQ0NKwHT2EASGgx/8tHizluaPgEP3VjbrTx2dDQ0LBePJUB0GL+14lH8yx2Xdf6X0M2ljIOHm18NjQ0NDwDnsoAcK7F/K8Nj0YuQmETDQ1rwqONz4aGhoZnwUMaAC3m//EgxRyvDSQ/laX1 <truncated from 268496 characters>
 [XMPMeta - http://ns.google.com/photos/1.0/image/] GImage:Data = /9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAQAAwADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx <truncated from 252160 characters>
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -52,6 +54,7 @@ TYPE: JPEG
     - Exif SubIFD
 - XMP
 - XMP
+- Huffman
 - File Type
 - File
 

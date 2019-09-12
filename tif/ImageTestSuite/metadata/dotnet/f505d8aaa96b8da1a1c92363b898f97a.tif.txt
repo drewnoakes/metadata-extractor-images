@@ -121,7 +121,7 @@ TYPE: ARW
 [ICC Profile - 0x72545243] Red TRC = 0.0085908
 [ICC Profile - 0x67545243] Green TRC = 0.0085908
 [ICC Profile - 0x62545243] Blue TRC = 0.0085908
-[ICC Profile - 0x76636774] Unknown tag (0x76636774) = vcgt (0x76636774): 1584 bytes
+[ICC Profile - 0x76636774] Video Card Gamma = vcgt (0x76636774): 1584 bytes
 
 [Exif Thumbnail - 0x0100] Image Width = 160 pixels
 [Exif Thumbnail - 0x0101] Image Height = 106 pixels

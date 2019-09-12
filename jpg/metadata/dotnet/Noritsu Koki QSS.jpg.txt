@@ -40,6 +40,8 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -54,6 +56,7 @@ TYPE: JPEG
     - Exif SubIFD
         - Interoperability
     - Exif Thumbnail
+- Huffman
 - File Type
 - File
 

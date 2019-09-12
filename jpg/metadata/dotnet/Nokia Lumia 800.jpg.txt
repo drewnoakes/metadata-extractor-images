@@ -34,9 +34,9 @@ TYPE: JPEG
 [GPS - 0x0003] GPS Longitude Ref = W
 [GPS - 0x0004] GPS Longitude = -6° 15' 29.63"
 [GPS - 0x0005] GPS Altitude Ref = Sea level
-[GPS - 0x0006] GPS Altitude = 35 metres
+[GPS - 0x0006] GPS Altitude = 35.8 metres
 [GPS - 0x000a] GPS Measure Mode = 3-dimensional measurement
-[GPS - 0x000b] GPS DOP = 55579/1250
+[GPS - 0x000b] GPS DOP = 44.46
 
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
@@ -205,6 +205,8 @@ TYPE: JPEG
 [Adobe JPEG - 0x0002] Flags 1 = 0
 [Adobe JPEG - 0x0003] Color Transform = YCbCr
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -224,6 +226,7 @@ TYPE: JPEG
 - Photoshop
     - IPTC
 - Adobe JPEG
+- Huffman
 - File Type
 - File
 

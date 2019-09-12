@@ -49,8 +49,8 @@ TYPE: TIFF
 [ICC Profile - 0x72545243] Red TRC = 0.0070344
 [ICC Profile - 0x67545243] Green TRC = 0.0070344
 [ICC Profile - 0x62545243] Blue TRC = 0.0070344
-[ICC Profile - 0x76636774] Unknown tag (0x76636774) = vcgt (0x76636774): 1554 bytes
-[ICC Profile - 0x6e64696e] Unknown tag (0x6e64696e) = ndin (0x6E64696E): 1598 bytes
+[ICC Profile - 0x76636774] Video Card Gamma = vcgt (0x76636774): 1554 bytes
+[ICC Profile - 0x6e64696e] Native Display Information = ndin (0x6E64696E): 1598 bytes
 [ICC Profile - 0x64657363] Profile Description = Color LCD
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

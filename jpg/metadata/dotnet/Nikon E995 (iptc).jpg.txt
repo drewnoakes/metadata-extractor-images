@@ -119,6 +119,8 @@ Breite (GPS) : N/A
 Länge (GPS) : N/A
 Höhe (GPS) : N/A
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -137,6 +139,7 @@ Höhe (GPS) : N/A
     - Exif Thumbnail
 - Photoshop
     - IPTC
+- Huffman
 - File Type
 - File
 

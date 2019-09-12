@@ -354,6 +354,8 @@ Blumenfeldstrasse 37
 [Adobe JPEG - 0x0002] Flags 1 = 0
 [Adobe JPEG - 0x0003] Color Transform = YCbCr
 
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -372,6 +374,7 @@ Blumenfeldstrasse 37
 - Photoshop
     - IPTC
 - Adobe JPEG
+- Huffman
 - File Type
 - File
 
