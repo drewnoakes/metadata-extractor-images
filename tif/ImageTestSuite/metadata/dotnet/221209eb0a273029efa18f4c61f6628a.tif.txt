@@ -23,7 +23,7 @@ TYPE: TIFF
 
 [IPTC - 0x015a] Coded Character Set = UTF-8
 [IPTC - 0x0200] Application Record Version = 2
-[IPTC - 0x0246] Program Version = 20585
+[IPTC - 0x0246] Program Version = Pixelmator 1.1.4
 
 [Exif SubIFD - 0xa001] Color Space = sRGB
 [Exif SubIFD - 0xa002] Exif Image Width = 500 pixels
