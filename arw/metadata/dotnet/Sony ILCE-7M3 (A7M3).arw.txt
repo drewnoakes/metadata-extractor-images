@@ -71,9 +71,9 @@ TYPE: ARW
 [Exif SubIFD - 0x9000] Exif Version = 2.31
 [Exif SubIFD - 0x9003] Date/Time Original = 2019:04:24 22:14:20
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2019:04:24 22:14:20
-[Exif SubIFD - 0x9010] Unknown tag (0x9010) = +02:00
-[Exif SubIFD - 0x9011] Unknown tag (0x9011) = +02:00
-[Exif SubIFD - 0x9012] Unknown tag (0x9012) = +02:00
+[Exif SubIFD - 0x9010] Time Zone = +02:00
+[Exif SubIFD - 0x9011] Time Zone Original = +02:00
+[Exif SubIFD - 0x9012] Time Zone Digitized = +02:00
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 8 bits/pixel
 [Exif SubIFD - 0x9203] Brightness Value = 0.763
