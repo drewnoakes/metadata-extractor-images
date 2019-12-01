@@ -1,0 +1,29 @@
+FILE: simple_b_shell0_0.tga
+TYPE: TGA
+
+[TGA Header - 0x0001] Image ID Length = 0
+[TGA Header - 0x0002] Data Type = RLE true color
+[TGA Header - 0x0003] Color Map Type = No color map data included
+[TGA Header - 0x0007] X-Origin = 0
+[TGA Header - 0x0008] Y-Origin = 0
+[TGA Header - 0x0009] Image Width = 128
+[TGA Header - 0x000a] Image Height = 128
+[TGA Header - 0x000b] Image Depth = 32
+[TGA Header - 0x000d] Horizontal Order = Left to right
+[TGA Header - 0x000e] Vertical Order = Top to bottom
+
+[File Type - 0x0001] Detected File Type Name = TGA
+[File Type - 0x0002] Detected File Type Long Name = Truevision Graphics
+[File Type - 0x0003] Detected MIME Type = image/x-targa
+[File Type - 0x0004] Expected File Name Extension = tga
+
+[File - 0x0001] File Name = simple_b_shell0_0.tga
+[File - 0x0002] File Size = 12632 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- TGA Header
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
