@@ -1,7 +1,62 @@
 FILE: BlazRobar Thinking Head Icon Set.eps
-TYPE: UNKNOWN
+TYPE: EPS
 
-EXCEPTION: File format could not be determined
+[EPS - 0x0020] TIFF Preview Size = 1200717 bytes
+[EPS - 0x0021] TIFF Preview Offset = 590829 bytes
+[EPS - 0x000e] Title = thinking-head-icon-set.eps
+[EPS - 0x0006] Creator = Adobe Illustrator(R) 14.0
+[EPS - 0x0007] For = D.M. Duijverman
+[EPS - 0x0005] Creation Date = 12/09/14
+[EPS - 0x0003] Bounding Box = 0 0 507 1182
+[EPS - 0x0013] Language Level = 2
+[EPS - 0x0010] Document Data = Clean7Bit
+[EPS - 0x000b] Pages = 1
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 507 pixels
+[Exif IFD0 - 0x0101] Image Height = 1182 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB Palette
+[Exif IFD0 - 0x0115] Samples Per Pixel = 2 samples/pixel
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0111] Strip Offsets = 11
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1198548 bytes
+[Exif IFD0 - 0x0140] Unknown tag (0x0140) = [768 values]
+[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+
+[Photoshop - 0x07d0] Path Info 1 = "Path" having 1 subpath:
+- Closed Subpath with 1 knot:
+  - Unlinked (0,1) (0,1) (0.0562605261802673,1)
+  - Unlinked (0.112521111965179,1) (0.168781697750092,1) (0.225183248519897,1)
+  - Unlinked (0.281584858894348,1) (0.337986469268799,1) (0.394388020038605,1)
+  - Unlinked (0.450789570808411,1) (0.507191181182861,1) (0.563592791557312,1)
+  - Unlinked (0.619994342327118,1) (0.676395952701569,1) (0.732797503471375,1)
+  - Unlinked (0.78919905424118,1) (0.845600664615631,1) (0.897067129611969,1)
+  - Unlinked (0.948533475399017,1) (1,1) (1,1)
+  - Unlinked (1,0) (1,0) (0.943739414215088,0)
+  - Unlinked (0.887478828430176,0) (0.831218242645264,0) (0.774816632270813,0)
+  - Unlinked (0.718415141105652,0) (0.662013530731201,0) (0.60561192035675,0)
+  - Unlinked (0.549210369586945,0) (0.492808759212494,0) (0.436407148838043,0)
+  - Unlinked (0.380005598068237,0) (0.323604047298431,0) (0.267202496528625,0)
+  - Unlinked (0.210800886154175,0) (0.154399275779724,0) (0.102932870388031,0)
+  - Unlinked (0.0514664053916931,0) (0,0) (0,0)
+[Photoshop - 0x0bb7] Clipping Path Name = Path
+
+[File Type - 0x0001] Detected File Type Name = EPS
+[File Type - 0x0002] Detected File Type Long Name = Encapsulated PostScript
+[File Type - 0x0003] Detected MIME Type = application/postscript
+[File Type - 0x0004] Expected File Name Extension = eps
+
+[File - 0x0001] File Name = BlazRobar Thinking Head Icon Set.eps
+[File - 0x0002] File Size = 1791546 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- EPS
+- Exif IFD0
+- Photoshop
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
