@@ -1,6 +1,8 @@
 FILE: AssertionError.PsdReader.extract.psd
 TYPE: PSD
 
+[ERROR: PSD Header] Unable to read PSD image resources
+
 [PSD Header - 0x0001] Channel Count = 1 channel
 [PSD Header - 0x0002] Image Height = 4 pixels
 [PSD Header - 0x0003] Image Width = 8 pixels
@@ -17,7 +19,6 @@ TYPE: PSD
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - PSD Header
-- Photoshop
 - File Type
 - File
 

@@ -19,7 +19,7 @@ TYPE: TIFF
 
 [IPTC - 0x0200] Application Record Version = 0
 
-[Photoshop - 0x0a04] Unknown tag (0x0a04) = 28 2 0 82 2 0 0
+[Photoshop - 0x07d0] Path Info 1 = "" having 0 subpaths:
 [Photoshop - 0x0425] Caption Digest = 232 241 92 243 47 193 24 161 162 123 103 173 197 100 213 209
 
 [Exif SubIFD - 0xa001] Color Space = Undefined
