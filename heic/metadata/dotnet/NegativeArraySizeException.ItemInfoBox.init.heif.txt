@@ -3,7 +3,7 @@ TYPE: QUICKTIME
 
 [QuickTime File Type - 0x0001] Major Brand = mif1
 [QuickTime File Type - 0x0002] Minor Version = 0
-[QuickTime File Type - 0x0003] Compatible Brands = mif1 heic
+[QuickTime File Type - 0x0003] Compatible Brands = mif1, heic
 
 [File Type - 0x0001] Detected File Type Name = QuickTime
 [File Type - 0x0002] Detected File Type Long Name = QuickTime

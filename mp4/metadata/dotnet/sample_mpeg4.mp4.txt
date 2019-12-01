@@ -3,7 +3,7 @@ TYPE: QUICKTIME
 
 [QuickTime File Type - 0x0001] Major Brand = mp42
 [QuickTime File Type - 0x0002] Minor Version = 1
-[QuickTime File Type - 0x0003] Compatible Brands = mp42 mp41
+[QuickTime File Type - 0x0003] Compatible Brands = mp42, mp41
 
 [QuickTime Movie Header - 0x0001] Version = 0
 [QuickTime Movie Header - 0x0002] Flags = 0 0 0

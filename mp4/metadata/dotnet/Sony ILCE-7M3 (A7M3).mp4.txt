@@ -3,7 +3,7 @@ TYPE: QUICKTIME
 
 [QuickTime File Type - 0x0001] Major Brand = XAVC
 [QuickTime File Type - 0x0002] Minor Version = 16785407
-[QuickTime File Type - 0x0003] Compatible Brands = XAVC mp42 iso2
+[QuickTime File Type - 0x0003] Compatible Brands = XAVC, mp42, iso2
 
 [QuickTime Movie Header - 0x0001] Version = 0
 [QuickTime Movie Header - 0x0002] Flags = 0 0 0
