@@ -11,7 +11,7 @@ TYPE: MP3
 [MP3 - 0x0008] Frame Size = 626 bytes
 
 [File Type - 0x0001] Detected File Type Name = MP3
-[File Type - 0x0002] Detected File Type Long Name = MP3
+[File Type - 0x0002] Detected File Type Long Name = MPEG Audio Layer III
 [File Type - 0x0003] Detected MIME Type = audio/mpeg
 [File Type - 0x0004] Expected File Name Extension = mp3
 
