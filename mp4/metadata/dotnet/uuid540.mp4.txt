@@ -1,0 +1,79 @@
+FILE: uuid540.mp4
+TYPE: QUICKTIME
+
+[QuickTime File Type - 0x0001] Major Brand = mp42
+[QuickTime File Type - 0x0002] Minor Version = 1
+[QuickTime File Type - 0x0003] Compatible Brands = isom, mp41, mp42
+
+[QuickTime Movie Header - 0x0001] Version = 0
+[QuickTime Movie Header - 0x0002] Flags = 0 0 0
+[QuickTime Movie Header - 0x0003] Created = Sun Jan 05 15:04:00 2020
+[QuickTime Movie Header - 0x0004] Modified = Sun Jan 05 15:04:05 2020
+[QuickTime Movie Header - 0x0005] TrackId = 30000
+[QuickTime Movie Header - 0x0006] Duration = 00:00:01.0340000
+[QuickTime Movie Header - 0x0007] Preferred Rate = 1
+[QuickTime Movie Header - 0x0008] Preferred Volume = 1
+[QuickTime Movie Header - 0x0009] Matrix = [36 values]
+[QuickTime Movie Header - 0x000a] Preview Time = 0
+[QuickTime Movie Header - 0x000b] Preview Duration = 0
+[QuickTime Movie Header - 0x000c] Poster Time = 0
+[QuickTime Movie Header - 0x000d] Selection Time = 0
+[QuickTime Movie Header - 0x000e] Selection Duration = 0
+[QuickTime Movie Header - 0x000f] Current Time = 0
+[QuickTime Movie Header - 0x0010] Next Track Id = 2
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 1
+[QuickTime Track Header - 0x0003] Created = Sun Jan 05 15:04:00 2020
+[QuickTime Track Header - 0x0004] Modified = Sun Jan 05 15:04:05 2020
+[QuickTime Track Header - 0x0005] TrackId = 1
+[QuickTime Track Header - 0x0006] Duration = 31031
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 960
+[QuickTime Track Header - 0x000b] Height = 540
+[QuickTime Track Header - 0x000d] Rotation = 0
+
+[XMP - 0xffff] XMP Value Count = 20
+
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Headline = Title
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2020-01-05T15:04Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2020-01-05T17:05:16+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2020-01-05T15:04:05Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:a433ded3-c656-42e1-87cc-782330d95905
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:a433ded3-c656-42e1-87cc-782330d95905
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:a433ded3-c656-42e1-87cc-782330d95905
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /metadata
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:a433ded3-c656-42e1-87cc-782330d95905
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2020-01-05T17:05:16+02:00
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:duration/xmpDM:scale = 1/30000
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:duration/xmpDM:value = 31031
+[XMPMeta - ] dc:description[1] = Description
+[XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
+[XMPMeta - ] dc:subject[1] = keyword1
+[XMPMeta - ] dc:subject[2] = keyword2
+[XMPMeta - ] dc:subject[3] = keyword3
+
+[File Type - 0x0001] Detected File Type Name = QuickTime
+[File Type - 0x0002] Detected File Type Long Name = QuickTime
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = uuid540.mp4
+[File - 0x0002] File Size = 688780 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- QuickTime Movie Header
+- QuickTime Track Header
+- XMP
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

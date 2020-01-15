@@ -1,0 +1,124 @@
+FILE: Sanyo S1.JPG
+TYPE: JPEG
+
+[ERROR: Sanyo Makernote] Illegal TIFF tag pointer offset
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1536 pixels
+[JPEG - 0x0003] Image Width = 2048 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[Exif IFD0 - 0x010e] Image Description = SANYO DIGITAL CAMERA
+[Exif IFD0 - 0x010f] Make = SANYO Electric Co.,Ltd
+[Exif IFD0 - 0x0110] Model = S1  
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = V714-74
+[Exif IFD0 - 0x0132] Date/Time = 0000:00:00 00:00:00
+[Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/398 sec
+[Exif SubIFD - 0x829d] F-Number = f/4.8
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 71
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 0000:00:00 00:00:00
+[Exif SubIFD - 0x9004] Date/Time Digitized = 0000:00:00 00:00:00
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2 bits/pixel
+[Exif SubIFD - 0x9203] Brightness Value = -0.1
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash fired
+[Exif SubIFD - 0x920a] Focal Length = 5.6 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 2048 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+[Exif SubIFD - 0xa405] Focal Length 35 = 36 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = None
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa40c] Subject Distance Range = Distant view
+
+[Sanyo Makernote - 0x0200] Special Mode = 4294967295 4294967295 4294967295
+[Sanyo Makernote - 0x0201] Sanyo Quality = Unknown (17)
+[Sanyo Makernote - 0x0202] Macro = Normal
+[Sanyo Makernote - 0x0203] Unknown tag (0x0203) = 1
+[Sanyo Makernote - 0x0204] Digital Zoom = 1.000
+[Sanyo Makernote - 0x020e] Sequential Shot = Best
+[Sanyo Makernote - 0x020f] Wide Range = Off
+[Sanyo Makernote - 0x0210] Color Adjustment Node = Off
+[Sanyo Makernote - 0x0211] Unknown tag (0x0211) = 1
+[Sanyo Makernote - 0x0212] Unknown tag (0x0212) = 2
+[Sanyo Makernote - 0x0213] Quick Shot = Off
+[Sanyo Makernote - 0x0214] Self Timer = Unknown (2)
+[Sanyo Makernote - 0x0215] Unknown tag (0x0215) = 0
+[Sanyo Makernote - 0x0216] Voice Memo = Off
+[Sanyo Makernote - 0x0217] Record Shutter Release = Record while down
+[Sanyo Makernote - 0x0218] Flicker Reduce = Off
+[Sanyo Makernote - 0x0219] Optical Zoom On = On
+[Sanyo Makernote - 0x021a] Unknown tag (0x021a) = 0
+[Sanyo Makernote - 0x021b] Digital Zoom On = On
+[Sanyo Makernote - 0x021c] Unknown tag (0x021c) = 0
+[Sanyo Makernote - 0x021d] Light Source Special = Off
+[Sanyo Makernote - 0x021e] Resaved = No
+[Sanyo Makernote - 0x021f] Scene Select = Off
+[Sanyo Makernote - 0x0220] Unknown tag (0x0220) = 0
+[Sanyo Makernote - 0x0221] Unknown tag (0x0221) = 0
+[Sanyo Makernote - 0x0f00] Data Dump = [494 values]
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[PrintIM - 0x0000] PrintIM Version = 0250
+[PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000001
+
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+[Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+[Exif Thumbnail - 0x0128] Resolution Unit = Inch
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 4084 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 4874 bytes
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Sanyo S1.JPG
+[File - 0x0002] File Size = 738611 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- Exif IFD0
+    - Exif SubIFD
+        - Sanyo Makernote
+        - Interoperability
+    - PrintIM
+    - Exif Thumbnail
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
