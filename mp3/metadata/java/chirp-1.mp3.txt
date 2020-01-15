@@ -1,0 +1,27 @@
+FILE: chirp-1.mp3
+TYPE: MP3
+
+[MP3 - 0x0001] ID = MPEG-1
+[MP3 - 0x0002] Layer = Layer III
+[MP3 - 0x0003] Bitrate = 128
+[MP3 - 0x0004] Frequency = 44100
+[MP3 - 0x0005] Mode = Mono
+[MP3 - 0x0007] Copyright = False
+[MP3 - 0x0006] Emphasis Method = none
+[MP3 - 0x0008] Frame Size = 417 bytes
+
+[File Type - 0x0001] Detected File Type Name = MP3
+[File Type - 0x0002] Detected File Type Long Name = MP3
+[File Type - 0x0003] Detected MIME Type = audio/mpeg
+[File Type - 0x0004] Expected File Name Extension = mp3
+
+[File - 0x0001] File Name = chirp-1.mp3
+[File - 0x0002] File Size = 1851 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- MP3
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

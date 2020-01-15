@@ -1,0 +1,7 @@
+FILE: chirp-5-id3.mp3
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
