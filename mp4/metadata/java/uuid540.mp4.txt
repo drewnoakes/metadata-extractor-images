@@ -30,6 +30,29 @@ TYPE: MP4
 [MP4 Video - 0x00cf] Vertical Resolution = 72
 [MP4 Video - 0x00d6] Frame Rate = 29.97
 
+[XMP - 0xffff] XMP Value Count = 20
+
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Headline = Title
+[XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 1
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2020-01-05T15:04Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2020-01-05T17:05:16+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2020-01-05T15:04:05Z
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:a433ded3-c656-42e1-87cc-782330d95905
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:a433ded3-c656-42e1-87cc-782330d95905
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:a433ded3-c656-42e1-87cc-782330d95905
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /metadata
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:a433ded3-c656-42e1-87cc-782330d95905
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2020-01-05T17:05:16+02:00
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:duration/xmpDM:scale = 1/30000
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:duration/xmpDM:value = 31031
+[XMPMeta - ] dc:description[1] = Description
+[XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
+[XMPMeta - ] dc:subject[1] = keyword1
+[XMPMeta - ] dc:subject[2] = keyword2
+[XMPMeta - ] dc:subject[3] = keyword3
+
 [File Type - 0x0001] Detected File Type Name = MP4
 [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
 [File Type - 0x0003] Detected MIME Type = video/mp4
@@ -41,6 +64,8 @@ TYPE: MP4
 
 - MP4
 - MP4 Video
+- UUID
+    - XMP
 - File Type
 - File
 
