@@ -1,7 +1,7 @@
 FILE: ArrayIndexOutOfBoundsException.Mp3Reader.extract.mp3
-TYPE: MP3
+TYPE: UNKNOWN
 
-EXCEPTION: 3
+EXCEPTION: File format could not be determined
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

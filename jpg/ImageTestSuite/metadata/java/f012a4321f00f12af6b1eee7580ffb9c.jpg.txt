@@ -1,20 +1,7 @@
 FILE: f012a4321f00f12af6b1eee7580ffb9c.jpg
-TYPE: MP3
+TYPE: UNKNOWN
 
-[MP3 - 0x0001] ID = MPEG-2.5
-
-[File Type - 0x0001] Detected File Type Name = MP3
-[File Type - 0x0002] Detected File Type Long Name = MP3
-[File Type - 0x0003] Detected MIME Type = audio/mpeg
-[File Type - 0x0004] Expected File Name Extension = mp3
-
-[File - 0x0001] File Name = f012a4321f00f12af6b1eee7580ffb9c.jpg
-[File - 0x0002] File Size = 128 bytes
-[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-
-- MP3
-- File Type
-- File
+EXCEPTION: File format could not be determined
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

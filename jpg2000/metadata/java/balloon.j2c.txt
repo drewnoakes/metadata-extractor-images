@@ -1,7 +1,7 @@
 FILE: balloon.j2c
-TYPE: MP3
+TYPE: UNKNOWN
 
-EXCEPTION: 14
+EXCEPTION: File format could not be determined
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
