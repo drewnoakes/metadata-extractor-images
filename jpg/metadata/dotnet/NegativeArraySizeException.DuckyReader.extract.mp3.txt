@@ -1,7 +1,71 @@
 FILE: NegativeArraySizeException.DuckyReader.extract.mp3
 TYPE: JPEG
 
-EXCEPTION: Array dimensions exceeded supported range.
+[ERROR: Ducky] End of data reached.
+[ERROR: Ducky] End of data reached.
+[ERROR: Ducky] End of data reached.
+[ERROR: Ducky] End of data reached.
+[ERROR: Ducky] End of data reached.
+[ERROR: Ducky] End of data reached.
+[ERROR: Ducky] End of data reached.
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 36 pixels
+[JPEG - 0x0003] Image Width = 76 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Unknown (0) component: Quantization table 0, Sampling factors 6 horiz/4 vert
+[JPEG - 0x0008] Component 3 = Unknown (100) component: Quantization table 0, Sampling factors 0 horiz/0 vert
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 36 pixels
+[JPEG - 0x0003] Image Width = 76 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Unknown (0) component: Quantization table 0, Sampling factors 6 horiz/4 vert
+[JPEG - 0x0008] Component 3 = Unknown (100) component: Quantization table 0, Sampling factors 0 horiz/0 vert
+
+[JpegComment - 0x0000] JPEG Comment = taviso@google.com
+
+[Ducky - 0x0003] Copyright = ᨔ
+
+[Ducky - 0x0003] Copyright = ᨔ
+
+[Huffman - 0x0001] Number of Tables = 3 Huffman tables
+
+[JPEG DNL - 0x0001] Image Height = 2049 pixels
+
+[JPEG DNL - 0x0001] Image Height = 4096 pixels
+
+[JPEG DNL - 0x0001] Image Height = 4096 pixels
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = NegativeArraySizeException.DuckyReader.extract.mp3
+[File - 0x0002] File Size = 2343 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JPEG
+- JpegComment
+- Ducky
+- Ducky
+- Ducky
+- Ducky
+- Ducky
+- Ducky
+- Ducky
+- Huffman
+- JPEG DNL
+- JPEG DNL
+- JPEG DNL
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
