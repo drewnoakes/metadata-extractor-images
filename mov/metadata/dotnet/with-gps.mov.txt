@@ -75,6 +75,12 @@ TYPE: QUICKTIME
 [QuickTime Track Header - 0x000a] Width = 0
 [QuickTime Track Header - 0x000b] Height = 0
 
+[QuickTime Metadata Header - 0x000e] GPS Location = +32.0929+034.8620+028.516/
+[QuickTime Metadata Header - 0x0015] Make = Apple
+[QuickTime Metadata Header - 0x0016] Model = iPhone 6
+[QuickTime Metadata Header - 0x0011] Software = 12.3
+[QuickTime Metadata Header - 0x0007] Creation Date = 2019-07-24T11:25:40+0300
+
 [File Type - 0x0001] Detected File Type Name = QuickTime
 [File Type - 0x0002] Detected File Type Long Name = QuickTime
 [File Type - 0x0003] Detected MIME Type = video/quicktime
@@ -90,6 +96,7 @@ TYPE: QUICKTIME
 - QuickTime Track Header
 - QuickTime Track Header
 - QuickTime Track Header
+- QuickTime Metadata Header
 - File Type
 - File
 
