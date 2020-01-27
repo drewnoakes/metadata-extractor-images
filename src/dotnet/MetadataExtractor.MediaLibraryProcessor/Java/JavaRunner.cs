@@ -8,16 +8,13 @@ namespace MetadataExtractor.MediaLibraryProcessor
 {
     internal static class JavaRunner
     {
-        public static async Task RunAsync()
+        public static async Task RunAsync(string repoRoot)
         {
             // Get onto a worker thread
             await Task.Yield();
 
             var mavenRepo = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), ".m2\\repository");
             var xmpCoreLibraryPath = Path.Combine(mavenRepo, "com\\adobe\\xmp\\xmpcore\\6.0.6\\xmpcore-6.0.6.jar");
-
-            // TODO more robust way of finding repo root path
-            var repoRoot = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "..\\..\\..\\..\\..\\.."));
 
             var javaSrcRoot = Path.GetFullPath(Path.Combine(repoRoot, "..\\metadata-extractor\\Output\\maven\\classes"));
 

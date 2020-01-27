@@ -13,7 +13,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
     {
         // TODO port UnknownTagHandler from Java
 
-        public static async Task RunAsync()
+        public static async Task RunAsync(string repoRoot)
         {
             // Get onto a worker thread
             await Task.Yield();
@@ -30,9 +30,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
 
             var stopwatch = Stopwatch.StartNew();
 
-            var root = Path.GetFullPath(@"..\..\..\..\..\..\");
-
-            ProcessDirectory(root, handlers, "", log);
+            ProcessDirectory(repoRoot, handlers, "", log);
 
             foreach (var handler in handlers)
                 handler.OnScanCompleted(log);
