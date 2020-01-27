@@ -9,6 +9,8 @@ using MetadataExtractor.Formats.FileSystem;
 
 namespace MetadataExtractor.MediaLibraryProcessor
 {
+    using Directory = System.IO.Directory;
+
     internal static class DotNetRunner
     {
         // TODO port UnknownTagHandler from Java
@@ -42,7 +44,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
 
         private static void ProcessDirectory(string path, IReadOnlyList<IFileHandler> handlers, string relativePath, TextWriter log)
         {
-            var entries = System.IO.Directory.GetFileSystemEntries(path);
+            var entries = Directory.GetFileSystemEntries(path);
 
             // Order alphabetically so that output is stable across invocations
             Array.Sort(entries, string.CompareOrdinal);
@@ -51,7 +53,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
             {
                 var file = Path.Combine(path, entry);
 
-                if (System.IO.Directory.Exists(file))
+                if (Directory.Exists(file))
                 {
                     // this entry is a sub-directory
                     ProcessDirectory(file, handlers, relativePath.Length == 0 ? new DirectoryInfo(entry).Name : relativePath + "/" + new DirectoryInfo(entry).Name, log);
