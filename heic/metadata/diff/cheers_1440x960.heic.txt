@@ -1,0 +1,36 @@
+       FILE: cheers_1440x960.heic
+JAVA   TYPE: HEIF
+DOTNET TYPE: QUICKTIME
+       
+JAVA   [HEIF - 0x0001] Major Brand = mif1
+JAVA   [HEIF - 0x0002] Minor Version = 0
+JAVA   [HEIF - 0x0003] Compatible Brands = mif1 heic
+DOTNET [QuickTime File Type - 0x0001] Major Brand = mif1
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = mif1, heic
+       
+JAVA   [HEIF - 0x0004] Width = 1440 pixels
+JAVA   [HEIF - 0x0005] Height = 960 pixels
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
+DOTNET [File Type - 0x0004] Expected File Name Extension = mov
+JAVA   [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
+JAVA   [File Type - 0x0003] Detected MIME Type = image/heif
+JAVA   [File Type - 0x0004] Expected File Name Extension = heif
+       
+       [File - 0x0001] File Name = cheers_1440x960.heic
+       [File - 0x0002] File Size = 41389 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - HEIF
+DOTNET - QuickTime File Type
+JAVA   - HEIF
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

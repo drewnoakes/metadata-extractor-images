@@ -1,0 +1,136 @@
+       FILE: xmp480qt.mov
+JAVA   TYPE: MOV
+DOTNET TYPE: QUICKTIME
+       
+JAVA   [ERROR: QuickTime] End of data reached.
+DOTNET [QuickTime File Type - 0x0001] Major Brand = qt  
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = qt
+       
+JAVA   [QuickTime - 0x1000] Major Brand = Apple QuickTime (.MOV/QT)
+JAVA   [QuickTime - 0x1001] Minor Version = 0
+JAVA   [QuickTime - 0x1002] Compatible Brands = [Apple QuickTime (.MOV/QT)]
+JAVA   [QuickTime - 0x0100] Creation Time = Sun Jan 05 22:19:45 +11:00 2020
+JAVA   [QuickTime - 0x0101] Modification Time = Sun Jan 05 22:19:47 +11:00 2020
+JAVA   [QuickTime - 0x0103] Duration = 30030
+JAVA   [QuickTime - 0x0102] Media Time Scale = 30000
+JAVA   [QuickTime - 0x0104] Duration in Seconds = 00:00:02
+JAVA   [QuickTime - 0x0105] Preferred Rate = 1
+JAVA   [QuickTime - 0x0106] Preferred Volume = 1
+JAVA   [QuickTime - 0x0107] Preview Time = 0
+JAVA   [QuickTime - 0x0108] Preview Duration = 0
+JAVA   [QuickTime - 0x0109] Poster Time = 0
+JAVA   [QuickTime - 0x010a] Selection Time = 0
+JAVA   [QuickTime - 0x010b] Selection Duration = 0
+JAVA   [QuickTime - 0x010c] Current Time = 0
+DOTNET [QuickTime Movie Header - 0x0001] Version = 0
+DOTNET [QuickTime Movie Header - 0x0002] Flags = 0 0 0
+DOTNET [QuickTime Movie Header - 0x0003] Created = Sun Jan 05 11:19:45 2020
+DOTNET [QuickTime Movie Header - 0x0004] Modified = Sun Jan 05 11:19:47 2020
+DOTNET [QuickTime Movie Header - 0x0005] TrackId = 30000
+DOTNET [QuickTime Movie Header - 0x0006] Duration = 00:00:01.0010000
+DOTNET [QuickTime Movie Header - 0x0007] Preferred Rate = 1
+DOTNET [QuickTime Movie Header - 0x0008] Preferred Volume = 1
+DOTNET [QuickTime Movie Header - 0x0009] Matrix = [36 values]
+DOTNET [QuickTime Movie Header - 0x000a] Preview Time = 0
+DOTNET [QuickTime Movie Header - 0x000b] Preview Duration = 0
+DOTNET [QuickTime Movie Header - 0x000c] Poster Time = 0
+DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
+DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
+DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
+DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 2
+JAVA   [QuickTime - 0x010d] Next Track ID = 2
+       
+JAVA   [QuickTime Video - 0x5001] Creation Time = Sun Jan 05 22:19:45 +11:00 2020
+JAVA   [QuickTime Video - 0x5002] Modification Time = Sun Jan 05 22:19:47 +11:00 2020
+JAVA   [QuickTime Video - 0x000c] Opcolor = 32768 32768 32768
+JAVA   [QuickTime Video - 0x000b] Graphics Mode = Dither copy
+JAVA   [QuickTime Video - 0x0001] Vendor = Unknown
+JAVA   [QuickTime Video - 0x000a] Compression Type = H.264
+JAVA   [QuickTime Video - 0x0002] Temporal Quality = 512
+JAVA   [QuickTime Video - 0x0003] Spatial Quality = 512
+JAVA   [QuickTime Video - 0x0004] Width = 640 pixels
+JAVA   [QuickTime Video - 0x0005] Height = 360 pixels
+JAVA   [QuickTime Video - 0x0008] Compressor Name = H.264
+JAVA   [QuickTime Video - 0x0009] Depth = 24-bit color
+JAVA   [QuickTime Video - 0x000d] Color Table = None
+DOTNET [QuickTime Track Header - 0x0001] Version = 0
+DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 15
+DOTNET [QuickTime Track Header - 0x0003] Created = Sun Jan 05 11:19:45 2020
+DOTNET [QuickTime Track Header - 0x0004] Modified = Sun Jan 05 11:19:47 2020
+DOTNET [QuickTime Track Header - 0x0005] TrackId = 1
+DOTNET [QuickTime Track Header - 0x0006] Duration = 30030
+DOTNET [QuickTime Track Header - 0x0007] Layer = 0
+DOTNET [QuickTime Track Header - 0x0008] Alternate Group = 0
+DOTNET [QuickTime Track Header - 0x0009] Volume = 0
+DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+DOTNET [QuickTime Track Header - 0x000a] Width = 640
+DOTNET [QuickTime Track Header - 0x000b] Height = 360
+DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
+JAVA   [QuickTime Video - 0x0006] Horizontal Resolution = 72
+JAVA   [QuickTime Video - 0x0007] Vertical Resolution = 72
+JAVA   [QuickTime Video - 0x000e] Frame Rate = 29.97
+       
+JAVA   [XMP - 0xffff] XMP Value Count = 37
+JAVA   
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+JAVA   [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = QuickTime
+JAVA   [XMPMeta - ] dc:description[1] = Baltic sea timelapse description
+JAVA   [XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
+JAVA   [XMPMeta - ] dc:subject[1] = baltic
+JAVA   [XMPMeta - ] dc:subject[2] = sea
+JAVA   [XMPMeta - ] dc:subject[3] = timelapse
+JAVA   [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Headline = Baltic sea timelapse title
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe After Effects 2020 (Macintosh)
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2020-01-05T13:20:49+02:00
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2020-01-05T11:19:47Z
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:startTimeSampleSize = 100
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:startTimeScale = 2997
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:videoFieldOrder = Progressive
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:videoFrameRate = 29.970030
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:videoPixelAspectRatio = 1/1
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:altTimecode/xmpDM:timeFormat = 2997NonDropTimecode
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:altTimecode/xmpDM:timeValue = 12:59:21:18
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] xmpDM:videoFrameSize/stDim:h = 2160
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] xmpDM:videoFrameSize/stDim:unit = pixel
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] xmpDM:videoFrameSize/stDim:w = 3840
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:startTimecode/xmpDM:timeFormat = 2997NonDropTimecode
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:startTimecode/xmpDM:timeValue = 12:59:21:18
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:duration/xmpDM:scale = 1/30000
+JAVA   [XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:duration/xmpDM:value = 30030
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:7e43e7d4-867d-4c5b-8c8d-2c615b893b41
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:6eca81e8-329e-4cde-84ca-365b17410149
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:7e43e7d4-867d-4c5b-8c8d-2c615b893b41
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:29476fc4-c005-4db1-9c6c-b725b62f0e56
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe After Effects 2020 (Macintosh)
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2020-01-05T13:19:20+02:00
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /metadata
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:6eca81e8-329e-4cde-84ca-365b17410149
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:when = 2020-01-05T13:20:49+02:00
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = xmp480qt.mov
+       [File - 0x0002] File Size = 324431 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
+JAVA       - XMP
+JAVA   - QuickTime Video
+DOTNET - QuickTime File Type
+DOTNET - QuickTime Movie Header
+DOTNET - QuickTime Track Header
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

@@ -1,0 +1,30 @@
+DOTNET FILE: BUMPMAP1.TGA
+DOTNET TYPE: TGA
+DOTNET 
+DOTNET [TGA Header - 0x0001] Image ID Length = 0
+DOTNET [TGA Header - 0x0002] Data Type = Uncompressed true color
+DOTNET [TGA Header - 0x0003] Color Map Type = No color map data included
+DOTNET [TGA Header - 0x0007] X-Origin = 0
+DOTNET [TGA Header - 0x0008] Y-Origin = 0
+DOTNET [TGA Header - 0x0009] Image Width = 150
+DOTNET [TGA Header - 0x000a] Image Height = 150
+DOTNET [TGA Header - 0x000b] Image Depth = 24
+DOTNET [TGA Header - 0x000d] Horizontal Order = Left to right
+DOTNET [TGA Header - 0x000e] Vertical Order = Bottom to top
+DOTNET 
+DOTNET [File Type - 0x0001] Detected File Type Name = TGA
+DOTNET [File Type - 0x0002] Detected File Type Long Name = Truevision Graphics
+DOTNET [File Type - 0x0003] Detected MIME Type = image/x-targa
+DOTNET [File Type - 0x0004] Expected File Name Extension = tga
+DOTNET 
+DOTNET [File - 0x0001] File Name = BUMPMAP1.TGA
+DOTNET [File - 0x0002] File Size = 67518 bytes
+DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+DOTNET 
+DOTNET - TGA Header
+DOTNET - File Type
+DOTNET - File
+DOTNET 
+DOTNET Generated using metadata-extractor
+DOTNET https://drewnoakes.com/code/exif/
+DOTNET 

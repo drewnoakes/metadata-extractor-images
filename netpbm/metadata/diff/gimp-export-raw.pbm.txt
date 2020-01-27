@@ -1,0 +1,10 @@
+       FILE: gimp-export-raw.pbm
+JAVA   TYPE: UNKNOWN
+DOTNET TYPE: NETPBM
+       
+JAVA   EXCEPTION: File format could not be determined
+DOTNET EXCEPTION: MaxValue is not parseable as an integer.
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

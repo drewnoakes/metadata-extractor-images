@@ -1,0 +1,86 @@
+       FILE: IMG_1034.heic
+JAVA   TYPE: HEIF
+DOTNET TYPE: QUICKTIME
+       
+JAVA   [HEIF - 0x0001] Major Brand = heic
+JAVA   [HEIF - 0x0002] Minor Version = 0
+JAVA   [HEIF - 0x0003] Compatible Brands = mif1 heic
+DOTNET [QuickTime File Type - 0x0001] Major Brand = heic
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = mif1, heic
+       
+JAVA   [HEIF - 0x0004] Width = 512 pixels
+JAVA   [HEIF - 0x0005] Height = 512 pixels
+JAVA   [HEIF - 0x0006] Rotation = 0 degrees
+JAVA   [HEIF - 0x0007] Bits Per Channel = 8 8 8
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
+DOTNET [File Type - 0x0004] Expected File Name Extension = mov
+JAVA   
+JAVA   [ICC Profile - 0x0000] Profile Size = 548
+JAVA   [ICC Profile - 0x0004] CMM Type = appl
+JAVA   [ICC Profile - 0x0008] Version = 4.0.0
+JAVA   [ICC Profile - 0x000c] Class = Display Device
+JAVA   [ICC Profile - 0x0010] Color space = RGB 
+JAVA   [ICC Profile - 0x0014] Profile Connection Space = XYZ 
+JAVA   [ICC Profile - 0x0018] Profile Date/Time = 2017:07:07 13:22:32
+JAVA   [ICC Profile - 0x0024] Signature = acsp
+JAVA   [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+JAVA   [ICC Profile - 0x0030] Device manufacturer = APPL
+JAVA   [ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+JAVA   [ICC Profile - 0x0080] Tag Count = 10
+JAVA   [ICC Profile - 0x64657363] Profile Description = Display P3
+JAVA   [ICC Profile - 0x63707274] Copyright = Copyright Apple Inc., 2017
+JAVA   [ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+JAVA   [ICC Profile - 0x7258595a] Red Colorant = (0.5151, 0.2412, 65536)
+JAVA   [ICC Profile - 0x6758595a] Green Colorant = (0.292, 0.6922, 0.0419)
+JAVA   [ICC Profile - 0x6258595a] Blue Colorant = (0.1571, 0.0666, 0.7841)
+JAVA   [ICC Profile - 0x72545243] Red TRC = para (0x70617261): 32 bytes
+JAVA   [ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
+JAVA   [ICC Profile - 0x62545243] Blue TRC = para (0x70617261): 32 bytes
+JAVA   [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
+       
+JAVA   [ICC Profile - 0x0000] Profile Size = 548
+JAVA   [ICC Profile - 0x0004] CMM Type = appl
+JAVA   [ICC Profile - 0x0008] Version = 4.0.0
+JAVA   [ICC Profile - 0x000c] Class = Display Device
+JAVA   [ICC Profile - 0x0010] Color space = RGB 
+JAVA   [ICC Profile - 0x0014] Profile Connection Space = XYZ 
+JAVA   [ICC Profile - 0x0018] Profile Date/Time = 2017:07:07 13:22:32
+JAVA   [ICC Profile - 0x0024] Signature = acsp
+JAVA   [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+JAVA   [ICC Profile - 0x0030] Device manufacturer = APPL
+JAVA   [ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+JAVA   [ICC Profile - 0x0080] Tag Count = 10
+JAVA   [ICC Profile - 0x64657363] Profile Description = Display P3
+JAVA   [ICC Profile - 0x63707274] Copyright = Copyright Apple Inc., 2017
+JAVA   [ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+JAVA   [ICC Profile - 0x7258595a] Red Colorant = (0.5151, 0.2412, 65536)
+JAVA   [ICC Profile - 0x6758595a] Green Colorant = (0.292, 0.6922, 0.0419)
+JAVA   [ICC Profile - 0x6258595a] Blue Colorant = (0.1571, 0.0666, 0.7841)
+JAVA   [ICC Profile - 0x72545243] Red TRC = para (0x70617261): 32 bytes
+JAVA   [ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
+JAVA   [ICC Profile - 0x62545243] Blue TRC = para (0x70617261): 32 bytes
+JAVA   [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
+JAVA   [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
+JAVA   [File Type - 0x0003] Detected MIME Type = image/heif
+JAVA   [File Type - 0x0004] Expected File Name Extension = heif
+JAVA   
+       [File - 0x0001] File Name = IMG_1034.heic
+       [File - 0x0002] File Size = 1499892 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - HEIF
+DOTNET - QuickTime File Type
+JAVA   - HEIF
+JAVA   - ICC Profile
+JAVA   - ICC Profile
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

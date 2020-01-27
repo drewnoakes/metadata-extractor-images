@@ -1,0 +1,190 @@
+       FILE: Nikon Coolpix P7000.webp
+       TYPE: WEBP
+       
+       [WebP - 0x0002] Image Width = 3648
+       [WebP - 0x0001] Image Height = 2736
+       [WebP - 0x0003] Has Alpha = false
+       [WebP - 0x0004] Is Animation = false
+       
+       [WebP - 0x0002] Image Width = 3648
+       [WebP - 0x0001] Image Height = 2736
+       
+JAVA   [Exif IFD0 - 0x010e] Image Description =                                
+JAVA   [Exif IFD0 - 0x010f] Make = NIKON
+JAVA   [Exif IFD0 - 0x0110] Model = COOLPIX P7000
+JAVA   [Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+JAVA   [Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+JAVA   [Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+JAVA   [Exif IFD0 - 0x0128] Resolution Unit = Inch
+JAVA   [Exif IFD0 - 0x0131] Software = COOLPIX P7000V1.0              
+JAVA   [Exif IFD0 - 0x0132] Date/Time = 2010:10:21 11:22:48
+JAVA   [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+JAVA   
+JAVA   [Exif SubIFD - 0x829a] Exposure Time = 1/811 sec
+JAVA   [Exif SubIFD - 0x829d] F-Number = f/4.5
+JAVA   [Exif SubIFD - 0x8822] Exposure Program = Program normal
+JAVA   [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+JAVA   [Exif SubIFD - 0x9000] Exif Version = 2.20
+JAVA   [Exif SubIFD - 0x9003] Date/Time Original = 2010:10:21 11:22:48
+JAVA   [Exif SubIFD - 0x9004] Date/Time Digitized = 2010:10:21 11:22:48
+JAVA   [Exif SubIFD - 0x9101] Components Configuration = YCbCr
+JAVA   [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 4 bits/pixel
+JAVA   [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+JAVA   [Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+JAVA   [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+JAVA   [Exif SubIFD - 0x9208] White Balance = Unknown
+JAVA   [Exif SubIFD - 0x9209] Flash = Flash did not fire
+JAVA   [Exif SubIFD - 0x920a] Focal Length = 6 mm
+JAVA   [Exif SubIFD - 0x9286] User Comment = 
+JAVA   [Exif SubIFD - 0xa000] FlashPix Version = 1.00
+JAVA   [Exif SubIFD - 0xa001] Color Space = sRGB
+JAVA   [Exif SubIFD - 0xa002] Exif Image Width = 3648 pixels
+JAVA   [Exif SubIFD - 0xa003] Exif Image Height = 2736 pixels
+JAVA   [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+JAVA   [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+JAVA   [Exif SubIFD - 0xa401] Custom Rendered = Normal process
+JAVA   [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+JAVA   [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+JAVA   [Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+JAVA   [Exif SubIFD - 0xa405] Focal Length 35 = 28 mm
+JAVA   [Exif SubIFD - 0xa406] Scene Capture Type = Standard
+JAVA   [Exif SubIFD - 0xa407] Gain Control = None
+JAVA   [Exif SubIFD - 0xa408] Contrast = None
+JAVA   [Exif SubIFD - 0xa409] Saturation = None
+JAVA   [Exif SubIFD - 0xa40a] Sharpness = None
+JAVA   [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+JAVA   
+JAVA   [Nikon Makernote - 0x0001] Firmware Version = 2.00
+JAVA   [Nikon Makernote - 0x0002] ISO = Unknown (0 0)
+JAVA   [Nikon Makernote - 0x0003] Color Mode = COLOR 
+JAVA   [Nikon Makernote - 0x0004] Quality & File Format = FINE   
+JAVA   [Nikon Makernote - 0x0005] White Balance = AUTO         
+JAVA   [Nikon Makernote - 0x0006] Sharpening = NORMAL 
+JAVA   [Nikon Makernote - 0x0007] AF Type = AF-S   
+JAVA   [Nikon Makernote - 0x0008] Flash Sync Mode =        
+JAVA   [Nikon Makernote - 0x000a] Unknown tag (0x000a) = 1541/200
+JAVA   [Nikon Makernote - 0x000b] White Balance Fine = 0 0
+JAVA   [Nikon Makernote - 0x000f] ISO Mode = AUTO   
+JAVA   [Nikon Makernote - 0x0010] Data Dump = [3342 values]
+JAVA   [Nikon Makernote - 0x0011] Preview IFD = 4632
+JAVA   [Nikon Makernote - 0x001a] Flash Mode =                    
+JAVA   [Nikon Makernote - 0x0021] Unknown 35 = [106 values]
+JAVA   [Nikon Makernote - 0x0022] Active D-Lighting = Off
+JAVA   [Nikon Makernote - 0x0026] Unknown 36 = [18 values]
+JAVA   [Nikon Makernote - 0x0027] Unknown 37 = 256 320 240 0 0 0 0
+JAVA   [Nikon Makernote - 0x0029] Unknown 39 = 0 0
+JAVA   [Nikon Makernote - 0x002d] Unknown 42 = 256 0
+JAVA   [Nikon Makernote - 0x002e] Unknown 43 = 0
+JAVA   [Nikon Makernote - 0x002f] Unknown 44 = 0
+JAVA   [Nikon Makernote - 0x0030] Unknown 45 = 0
+JAVA   [Nikon Makernote - 0x0080] Image Adjustment = NORMAL       
+JAVA   [Nikon Makernote - 0x0081] Tone Compensation = NORMAL  
+JAVA   [Nikon Makernote - 0x0082] Adapter = OFF          
+JAVA   [Nikon Makernote - 0x0085] Manual Focus Distance = 0
+JAVA   [Nikon Makernote - 0x0086] Digital Zoom = No digital zoom
+JAVA   [Nikon Makernote - 0x0088] AF Focus Position = Left
+JAVA   [Nikon Makernote - 0x008f] Scene Mode =                
+JAVA   [Nikon Makernote - 0x0091] Shot Info = [225 values]
+JAVA   [Nikon Makernote - 0x0094] Saturation = 0
+JAVA   [Nikon Makernote - 0x0095] Noise Reduction = OFF  
+JAVA   [Nikon Makernote - 0x009b] Unknown 10 = 0 0
+JAVA   [Nikon Makernote - 0x009c] Scene Assist =                    
+JAVA   [Nikon Makernote - 0x009d] Unknown 11 = 0
+JAVA   [Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
+JAVA   [Nikon Makernote - 0x00a8] Flash Info = [46 values]
+JAVA   [Nikon Makernote - 0x00aa] Saturation = NORMAL         
+JAVA   [Nikon Makernote - 0x00ac] Image Stabilisation = VR-ON       
+JAVA   [Nikon Makernote - 0x00b2] Unknown 31 = NORMAL  
+JAVA   [Nikon Makernote - 0x00b3] Unknown 32 =        
+JAVA   [Nikon Makernote - 0x00bd] Unknown 50 = [58 values]
+JAVA   
+JAVA   [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+JAVA   [Interoperability - 0x0002] Interoperability Version = 1.00
+JAVA   
+JAVA   [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+JAVA   [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
+JAVA   [Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
+JAVA   [Exif Thumbnail - 0x0128] Resolution Unit = Inch
+JAVA   [Exif Thumbnail - 0x0201] Thumbnail Offset = 8692 bytes
+JAVA   [Exif Thumbnail - 0x0202] Thumbnail Length = 6044 bytes
+JAVA   
+JAVA   [XMP - 0xffff] XMP Value Count = 54
+JAVA   
+JAVA   [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:AlreadyApplied = True
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 433985/100000
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 1
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Contrast = 0
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CustomRendered = 0
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2010-10-21T11:22:48+01:00
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DigitalZoomRatio = 0/100
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0220
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0/10
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureMode = 0
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureProgram = 2
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/800
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 45/10
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FileSource = 3
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalLength = 60/10
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FocalLengthIn35mmFilm = 28
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:GainControl = 0
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:LightSource = 0
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MaxApertureValue = 30/10
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MeteringMode = 5
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 3648
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 2736
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Saturation = 0
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneCaptureType = 0
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneType = 1
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Sharpness = 0
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = 9643856/1000000
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SubjectDistanceRange = 0
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 0
+JAVA   [XMPMeta - ] exif:ISOSpeedRatings[1] = 100
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Fired = False
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Function = False
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Mode = 2
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:RedEyeMode = False
+JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Flash/exif:Return = 0
+JAVA   [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 3
+JAVA   [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = sRGB IEC61966-2.1
+JAVA   [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageLength = 2736
+JAVA   [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ImageWidth = 3648
+JAVA   [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Make = NIKON
+JAVA   [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Model = COOLPIX P7000
+JAVA   [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:Orientation = 6
+JAVA   [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:PhotometricInterpretation = 2
+JAVA   [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:ResolutionUnit = 2
+JAVA   [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:SamplesPerPixel = 3
+JAVA   [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:XResolution = 300/1
+JAVA   [XMPMeta - http://ns.adobe.com/tiff/1.0/] tiff:YResolution = 300/1
+JAVA   [XMPMeta - ] tiff:BitsPerSample[1] = 8
+JAVA   [XMPMeta - ] tiff:BitsPerSample[2] = 8
+JAVA   [XMPMeta - ] tiff:BitsPerSample[3] = 8
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2010-10-21T11:22:48+01:00
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = COOLPIX P7000V1.0
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2010-11-17T14:52:46Z
+JAVA   [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2010-10-21T11:22:48+01:00
+JAVA   
+       [File Type - 0x0001] Detected File Type Name = WebP
+       [File Type - 0x0002] Detected File Type Long Name = WebP
+       [File Type - 0x0003] Detected MIME Type = image/webp
+       [File Type - 0x0004] Expected File Name Extension = webp
+       
+       [File - 0x0001] File Name = Nikon Coolpix P7000.webp
+       [File - 0x0002] File Size = 474772 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - WebP
+       - WebP
+JAVA   - Exif IFD0
+JAVA       - Exif SubIFD
+JAVA           - Nikon Makernote
+JAVA           - Interoperability
+JAVA       - Exif Thumbnail
+JAVA   - XMP
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

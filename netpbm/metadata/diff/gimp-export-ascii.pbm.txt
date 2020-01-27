@@ -1,0 +1,25 @@
+       FILE: gimp-export-ascii.pbm
+JAVA   TYPE: UNKNOWN
+DOTNET TYPE: NETPBM
+DOTNET 
+DOTNET [Netpbm - 0x0001] Format Type = Portable BitMap (ASCII, B&W)
+DOTNET [Netpbm - 0x0002] Width = 32
+DOTNET [Netpbm - 0x0003] Height = 16
+DOTNET 
+DOTNET [File Type - 0x0001] Detected File Type Name = Netpbm
+DOTNET [File Type - 0x0002] Detected File Type Long Name = Netpbm
+DOTNET [File Type - 0x0003] Detected MIME Type = image/x-portable-graymap
+DOTNET [File Type - 0x0004] Expected File Name Extension = pbm
+       
+JAVA   EXCEPTION: File format could not be determined
+DOTNET [File - 0x0001] File Name = gimp-export-ascii.pbm
+DOTNET [File - 0x0002] File Size = 567 bytes
+DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+DOTNET 
+DOTNET - Netpbm
+DOTNET - File Type
+DOTNET - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

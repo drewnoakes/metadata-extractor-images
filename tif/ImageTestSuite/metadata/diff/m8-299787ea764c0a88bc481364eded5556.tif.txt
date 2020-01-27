@@ -1,0 +1,272 @@
+       FILE: m8-299787ea764c0a88bc481364eded5556.tif
+       TYPE: TIFF
+       
+DOTNET [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+DOTNET [ERROR: Exif Image] Invalid TIFF tag format code 155 for tag 0x0100
+DOTNET [ERROR: Exif Image] Invalid TIFF tag format code 66 for tag 0x0117
+DOTNET [ERROR: Exif Image] Invalid TIFF tag format code 76 for tag 0x011B
+DOTNET [ERROR: Exif Image] Illegal TIFF tag pointer offset
+DOTNET [ERROR: Exif Image] Illegal TIFF tag pointer offset
+DOTNET [ERROR: Exif Image] Illegal TIFF tag pointer offset
+DOTNET [ERROR: Exif Image] Invalid TIFF tag format code 189 for tag 0x011B
+DOTNET [ERROR: Exif Image] Invalid TIFF tag format code 45059 for tag 0x0128
+DOTNET [ERROR: Exif Image] Invalid TIFF tag format code 111 for tag 0x0132
+DOTNET [ERROR: Exif Image] Illegal TIFF tag pointer offset
+DOTNET [ERROR: Exif Image] Invalid TIFF tag format code 34308 for tag 0x0117
+DOTNET [ERROR: Exif Image] Invalid TIFF tag format code 18947 for tag 0x0128
+       [ERROR: Exif Image] Illegal TIFF tag pointer offset
+JAVA   [ERROR: Exif Thumbnail] Invalid TIFF tag format code 155 for tag 0x0100
+JAVA   [ERROR: Exif Thumbnail] Invalid TIFF tag format code 66 for tag 0x0117
+JAVA   [ERROR: Exif Thumbnail] Invalid TIFF tag format code 76 for tag 0x011B
+JAVA   [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+JAVA   [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+JAVA   [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+JAVA   [ERROR: Exif Thumbnail] Invalid TIFF tag format code 189 for tag 0x011B
+JAVA   [ERROR: Exif Thumbnail] Invalid TIFF tag format code 45059 for tag 0x0128
+JAVA   [ERROR: Exif Thumbnail] Invalid TIFF tag format code 111 for tag 0x0132
+JAVA   [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+JAVA   [ERROR: Exif Thumbnail] Invalid TIFF tag format code 34308 for tag 0x0117
+JAVA   [ERROR: Exif Thumbnail] Invalid TIFF tag format code 18947 for tag 0x0128
+JAVA   [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+       
+       [Exif IFD0 - 0x0073] Unknown tag (0x0073) = 2
+       [Exif IFD0 - 0x0100] Image Width = 1728 pixels
+       [Exif IFD0 - 0x0101] Image Height = 1087 pixels
+       [Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+       [Exif IFD0 - 0x0103] Compression = T4/Group 3 Fax
+       [Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+       [Exif IFD0 - 0x010a] Fill Order = Normal
+       [Exif IFD0 - 0x0111] Strip Offsets = 8
+       [Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+       [Exif IFD0 - 0x0116] Rows Per Strip = 1087 rows/strip
+       [Exif IFD0 - 0x0117] Strip Byte Counts = 40878 bytes
+       [Exif IFD0 - 0x011a] X Resolution = 204 dots per inch
+       [Exif IFD0 - 0x0b1b] Unknown tag (0x0b1b) = 98
+       [Exif IFD0 - 0x0124] Unknown tag (0x0124) = 5
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       [Exif IFD0 - 0x0129] Page Number = 0 9
+       [Exif IFD0 - 0x0131] Software = NaturalFax
+       [Exif IFD0 - 0x01c9] Unknown tag (0x01c9) = 2008:09:08 09:42:29
+       [Exif IFD0 - 0x0146] Unknown tag (0x0146) = 0
+       [Exif IFD0 - 0x0147] Unknown tag (0x0147) = 0
+       [Exif IFD0 - 0x0148] Unknown tag (0x0148) = 0
+       [Exif IFD0 - 0x9330] Unknown tag (0x9330) = [3072 values]
+DOTNET 
+DOTNET [Exif Thumbnail - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Thumbnail - 0x0100] Image Width = 1728 pixels
+DOTNET [Exif Thumbnail - 0x0101] Image Height = 1089 pixels
+DOTNET [Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Thumbnail - 0x0103] Compression = T4/Group 3 Fax
+DOTNET [Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
+DOTNET [Exif Thumbnail - 0x010a] Fill Order = Normal
+DOTNET [Exif Thumbnail - 0x0111] Strip Offsets = 41210
+DOTNET [Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+DOTNET [Exif Thumbnail - 0x0116] Rows Per Strip = 1089 rows/strip
+DOTNET [Exif Thumbnail - 0x0117] Strip Byte Counts = 24834 bytes
+DOTNET [Exif Thumbnail - 0x011a] X Resolution = 204 dots per inch
+DOTNET [Exif Thumbnail - 0x011b] Y Resolution = 98 dots per inch
+DOTNET [Exif Thumbnail - 0x0124] Unknown tag (0x0124) = 5
+DOTNET [Exif Thumbnail - 0x0128] Resolution Unit = Inch
+DOTNET [Exif Thumbnail - 0x01cf] Unknown tag (0x01cf) = 1 9
+DOTNET [Exif Thumbnail - 0x0132] Date/Time = 2008:09:08 09:42:29
+DOTNET [Exif Thumbnail - 0x0146] Unknown tag (0x0146) = 0
+DOTNET [Exif Thumbnail - 0x0147] Unknown tag (0x0147) = 0
+DOTNET [Exif Thumbnail - 0x0148] Unknown tag (0x0148) = 0
+       
+       [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Image - 0x0101] Image Height = 1090 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = T4/Group 3 Fax
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+DOTNET [Exif Image - 0x010a] Fill Order = Normal
+DOTNET [Exif Image - 0x0111] Strip Offsets = 66356
+DOTNET [Exif Image - 0x0199] Unknown tag (0x0199) = 1
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 1090 rows/strip
+DOTNET [Exif Image - 0x0117] Strip Byte Counts = 23664 bytes
+DOTNET [Exif Image - 0x011a] X Resolution = 132 dots per inch
+DOTNET [Exif Image - 0x011b] Y Resolution = 98 dots per inch
+DOTNET [Exif Image - 0x0124] Unknown tag (0x0124) = 5
+DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
+DOTNET [Exif Image - 0x0129] Page Number = 2 9
+DOTNET [Exif Image - 0x0131] Software = NaturalFax
+DOTNET [Exif Image - 0x0132] Date/Time = 2008:09:0X 09:42:29
+DOTNET [Exif Image - 0x0146] Unknown tag (0x0146) = 0
+DOTNET [Exif Image - 0x0147] Unknown tag (0x0147) = 0
+DOTNET [Exif Image - 0x0148] Unknown tag (0x0148) = 0
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+       [Exif Image - 0x0100] Image Width = 1728 pixels
+       [Exif Image - 0x0101] Image Height = 1089 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = T4/Group 3 Fax
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = 
+DOTNET [Exif Image - 0x010a] Fill Order = Normal
+DOTNET [Exif Image - 0x0111] Strip Offsets = 90332
+DOTNET [Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 1089 rows/strip
+DOTNET [Exif Image - 0x011a] X Resolution = 204 dots per inch
+DOTNET [Exif Image - 0x0124] Unknown tag (0x0124) = 2141257733
+DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
+DOTNET [Exif Image - 0x0129] Page Number = 3 9
+DOTNET [Exif Image - 0x0131] Software = NaturalFax
+DOTNET [Exif Image - 0x0146] Unknown tag (0x0146) = 0
+DOTNET [Exif Image - 0x0147] Unknown tag (0x0147) = 0
+DOTNET [Exif Image - 0x0148] Unknown tag (0x0148) = 0
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Image - 0x0123] Unknown tag (0x0123) = 1728
+DOTNET [Exif Image - 0x0101] Image Height = 1086 pixels
+       [Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+       [Exif Image - 0x0103] Compression = T4/Group 3 Fax
+       [Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+       [Exif Image - 0x010a] Fill Order = Normal
+JAVA   [Exif Image - 0x0111] Strip Offsets = 41210
+DOTNET [Exif Image - 0x0111] Strip Offsets = 127318
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 1086 rows/strip
+DOTNET [Exif Image - 0x0117] Strip Byte Counts = 40982 bytes
+DOTNET [Exif Image - 0x0124] Unknown tag (0x0124) = 5
+DOTNET [Exif Image - 0x0129] Page Number = 4 9
+DOTNET [Exif Image - 0x0131] Software = NaturalFax
+DOTNET [Exif Image - 0x0146] Unknown tag (0x0146) = 2684354560
+DOTNET [Exif Image - 0x0147] Unknown tag (0x0147) = 0
+DOTNET [Exif Image - 0x0148] Unknown tag (0x0148) = 0
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Image - 0x0100] Image Width = 1728 pixels
+DOTNET [Exif Image - 0x0101] Image Height = 3258025806 3639689656 1614290403 2401064048 1137166222 3750662129 1044280508 2095608890 3922782836 2429724375 2286944512 2290649224 2290649224 2290649224 2290649224 1199859858 1707886420 3827507153 1191724918 2442127560 2200124402 3903156313 3519611136 1349296818 8126720 3000092929 10541214 2732140801 3603497440 735576012 16812621 29369645 1600552904 2300197755 3334562240 25125395 3892791610 627068049 2143814016 242974313 1402259203 1292039529 16787510 3913906281 3229991684 1686095873 804626111 150602621 2980659860 73466176 760788753 3624583771 2219530706 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = T4/Group 3 Fax
+DOTNET [Exif Image - 0x010a] Fill Order = Normal
+DOTNET [Exif Image - 0x0111] Strip Offsets = 168612
+DOTNET [Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 1090 rows/strip
+DOTNET [Exif Image - 0x0117] Strip Byte Counts = 30368 bytes
+DOTNET [Exif Image - 0x011a] X Resolution = 204/9437185 dots per inch
+DOTNET [Exif Image - 0x011b] Y Resolution = 30817/942682162 dots per inch
+DOTNET [Exif Image - 0x0124] Unknown tag (0x0124) = 5
+DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
+DOTNET [Exif Image - 0x0129] Page Number = 5 9
+DOTNET [Exif Image - 0x0131] Software = Na7uralFax
+DOTNET [Exif Image - 0x0132] Date/Time = 2008:09:08 09:42:29
+DOTNET [Exif Image - 0x0146] Unknown tag (0x0146) = 0
+DOTNET [Exif Image - 0x0147] Unknown tag (0x0147) = 0
+DOTNET [Exif Image - 0x0148] Unknown tag (0x0148) = 0
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Image - 0x0100] Image Width = 1728 pixels
+DOTNET [Exif Image - 0x0101] Image Height = 1086 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = T4/Group 3 Fax
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+DOTNET [Exif Image - 0x010a] Fill Order = Normal
+DOTNET [Exif Image - 0x0111] Strip Offsets = 199292
+       [Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+JAVA   [Exif Image - 0x0116] Rows Per Strip = 1089 rows/strip
+JAVA   [Exif Image - 0x0117] Strip Byte Counts = 24834 bytes
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 1086 rows/strip
+DOTNET [Exif Image - 0x011a] X Resolution = 204 dots per unit
+DOTNET [Exif Image - 0x011b] Y Resolution = 98 dots per unit
+DOTNET [Exif Image - 0x0124] Unknown tag (0x0124) = 5
+DOTNET [Exif Image - 0x0129] Page Number = 6 9
+DOTNET [Exif Image - 0x0131] Software = NaturalFax
+DOTNET [Exif Image - 0x0132] Date/Time = 2008:09:08 09:42:29
+DOTNET [Exif Image - 0x0146] Unknown tag (0x0146) = 0
+DOTNET [Exif Image - 0x0147] Unknown tag (0x0147) = 0
+DOTNET [Exif Image - 0x0148] Unknown tag (0x0148) = 0
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Image - 0x0100] Image Width = 1728 pixels
+DOTNET [Exif Image - 0x0101] Image Height = 1086 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 0 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = T4/Group 3 Fax
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+DOTNET [Exif Image - 0x010a] Fill Order = Normal
+DOTNET [Exif Image - 0x0111] Strip Offsets = 229238
+DOTNET [Exif Image - 0x5415] Unknown tag (0x5415) = 1
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 1086 rows/strip
+DOTNET [Exif Image - 0x0117] Strip Byte Counts = 35068 bytes
+       [Exif Image - 0x011a] X Resolution = 204 dots per inch
+       [Exif Image - 0x011b] Y Resolution = 98 dots per inch
+DOTNET [Exif Image - 0xf324] Unknown tag (0xf324) = 5
+DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
+DOTNET [Exif Image - 0x0129] Page Number = 7 9
+DOTNET [Exif Image - 0x0131] Software = NaturalFax
+DOTNET [Exif Image - 0x0132] Date/Time = 2008:09D08 09:42:29
+DOTNET [Exif Image - 0x0146] Unknown tag (0x0146) = 0
+DOTNET [Exif Image - 0x0147] Unknown tag (0x0147) = 0
+DOTNET [Exif Image - 0x0148] Unknown tag (0x0148) = 0
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Image - 0x0100] Image Width = 1728 pixels
+DOTNET [Exif Image - 0x0101] Image Height = 1086 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = Unknown (16131)
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+DOTNET [Exif Image - 0x010a] Fill Order = Normal
+DOTNET [Exif Image - 0x0111] Strip Offsets = 264618
+DOTNET [Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 1086 rows/strip
+DOTNET [Exif Image - 0x0117] Strip Byte Counts = 41998 bytes
+DOTNET [Exif Image - 0x011a] X Resolution = 204 dots per inch
+       [Exif Image - 0x0124] Unknown tag (0x0124) = 5
+       [Exif Image - 0x0128] Resolution Unit = Inch
+JAVA   [Exif Image - 0x01cf] Unknown tag (0x01cf) = 1 9
+DOTNET [Exif Image - 0x0129] Page Number = 8 9
+DOTNET [Exif Image - 0x0131] Software = NaturalFax
+       [Exif Image - 0x0132] Date/Time = 2008:09:08 09:42:29
+       [Exif Image - 0x0146] Unknown tag (0x0146) = 0
+       [Exif Image - 0x0147] Unknown tag (0x0147) = 0
+       [Exif Image - 0x0148] Unknown tag (0x0148) = 0
+JAVA   
+JAVA   [Exif Thumbnail - 0x00fe] New Subfile Type = Single page of multi-page image
+JAVA   [Exif Thumbnail - 0x0101] Image Height = 1086 pixels
+JAVA   [Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
+JAVA   [Exif Thumbnail - 0x0103] Compression = Unknown (16131)
+JAVA   [Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
+JAVA   [Exif Thumbnail - 0x010a] Fill Order = Normal
+JAVA   [Exif Thumbnail - 0x0111] Strip Offsets = 264618
+JAVA   [Exif Thumbnail - 0x0199] Unknown tag (0x0199) = 1
+JAVA   [Exif Thumbnail - 0x0116] Rows Per Strip = 1086 rows/strip
+JAVA   [Exif Thumbnail - 0x0117] Strip Byte Counts = 41998 bytes
+JAVA   [Exif Thumbnail - 0x011a] X Resolution = 204 dots per inch
+JAVA   [Exif Thumbnail - 0x011b] Y Resolution = 98 dots per inch
+JAVA   [Exif Thumbnail - 0x0124] Unknown tag (0x0124) = 5
+JAVA   [Exif Thumbnail - 0x0128] Resolution Unit = Inch
+JAVA   [Exif Thumbnail - 0x0129] Page Number = 8 9
+JAVA   [Exif Thumbnail - 0x0131] Software = NaturalFax
+JAVA   [Exif Thumbnail - 0x0132] Date/Time = 2008:09:08 09:42:29
+JAVA   [Exif Thumbnail - 0x0146] Unknown tag (0x0146) = 0
+JAVA   [Exif Thumbnail - 0x0147] Unknown tag (0x0147) = 0
+JAVA   [Exif Thumbnail - 0x0148] Unknown tag (0x0148) = 0
+JAVA   [Exif Thumbnail - 0x0100] Image Width = 1728 pixels
+JAVA   [Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+JAVA   [Exif Thumbnail - 0x0123] Unknown tag (0x0123) = 1728
+JAVA   [Exif Thumbnail - 0x5415] Unknown tag (0x5415) = 1
+JAVA   [Exif Thumbnail - 0xf324] Unknown tag (0xf324) = 5
+       
+       [File Type - 0x0001] Detected File Type Name = TIFF
+       [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+       [File Type - 0x0003] Detected MIME Type = image/tiff
+       [File Type - 0x0004] Expected File Name Extension = tiff
+       
+       [File - 0x0001] File Name = m8-299787ea764c0a88bc481364eded5556.tif
+       [File - 0x0002] File Size = 310000 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
+JAVA       - Exif Image
+JAVA           - Exif Thumbnail
+DOTNET     - Exif Thumbnail
+DOTNET         - Exif Image
+DOTNET             - Exif Image
+DOTNET                 - Exif Image
+DOTNET                     - Exif Image
+DOTNET                         - Exif Image
+DOTNET                             - Exif Image
+DOTNET                                 - Exif Image
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

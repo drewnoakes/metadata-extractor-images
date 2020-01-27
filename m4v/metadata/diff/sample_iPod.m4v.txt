@@ -1,0 +1,112 @@
+       FILE: sample_iPod.m4v
+JAVA   TYPE: MP4
+DOTNET TYPE: QUICKTIME
+       
+JAVA   [ERROR: MP4] End of data reached.
+DOTNET [QuickTime File Type - 0x0001] Major Brand = M4V 
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 1
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = M4V, M4A, mp42, isom
+       
+JAVA   [MP4 - 0x0001] Major Brand = Apple iTunes Video (.M4V) Video
+JAVA   [MP4 - 0x0002] Minor Version = 1
+JAVA   [MP4 - 0x0003] Compatible Brands = [Apple iTunes Video (.M4V) Video, Apple iTunes AAC-LC (.M4A) Audio, MP4 v2 [ISO 14496-14], MP4  Base Media v1 [IS0 14496-12:2003]]
+JAVA   [MP4 - 0x0100] Creation Time = Wed Dec 21 07:20:15 AEDT 2005
+JAVA   [MP4 - 0x0101] Modification Time = Wed Dec 21 07:20:15 AEDT 2005
+JAVA   [MP4 - 0x0103] Duration = 85500
+JAVA   [MP4 - 0x0102] Media Time Scale = 1000
+JAVA   [MP4 - 0x0104] Duration in Seconds = 00:01:26
+JAVA   [MP4 - 0x010f] Transformation Matrix = 65536 0 0 0 65536 0 0 0 1073741824
+JAVA   [MP4 - 0x0105] Preferred Rate = 1
+JAVA   [MP4 - 0x0106] Preferred Volume = 1
+JAVA   [MP4 - 0x010e] Next Track ID = 3
+JAVA   [MP4 - 0x0200] Rotation = 0
+DOTNET [QuickTime Movie Header - 0x0001] Version = 0
+DOTNET [QuickTime Movie Header - 0x0002] Flags = 0 0 0
+DOTNET [QuickTime Movie Header - 0x0003] Created = Tue Dec 20 20:20:15 2005
+DOTNET [QuickTime Movie Header - 0x0004] Modified = Tue Dec 20 20:20:15 2005
+DOTNET [QuickTime Movie Header - 0x0005] TrackId = 1000
+DOTNET [QuickTime Movie Header - 0x0006] Duration = 00:01:25.5000000
+DOTNET [QuickTime Movie Header - 0x0007] Preferred Rate = 1
+DOTNET [QuickTime Movie Header - 0x0008] Preferred Volume = 1
+DOTNET [QuickTime Movie Header - 0x0009] Matrix = [36 values]
+DOTNET [QuickTime Movie Header - 0x000a] Preview Time = 0
+DOTNET [QuickTime Movie Header - 0x000b] Preview Duration = 0
+DOTNET [QuickTime Movie Header - 0x000c] Poster Time = 0
+DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
+DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
+DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
+DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 3
+       
+JAVA   [MP4 Sound - 0x0065] Creation Time = Wed Dec 21 07:20:15 +11:00 2005
+JAVA   [MP4 Sound - 0x0066] Modification Time = Wed Dec 21 07:20:15 +11:00 2005
+JAVA   [MP4 Sound - 0x0068] ISO 639-2 Language Code = eng
+JAVA   [MP4 Sound - 0x0131] Balance = 0
+JAVA   [MP4 Sound - 0x012d] Format = MPEG-4, Advanced Audio Coding (AAC)
+JAVA   [MP4 Sound - 0x012e] Number of Channels = 2
+JAVA   [MP4 Sound - 0x012f] Sample Size = 16
+JAVA   [MP4 Sound - 0x0130] Sample Rate = 44100
+DOTNET [QuickTime Track Header - 0x0001] Version = 0
+DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 1
+DOTNET [QuickTime Track Header - 0x0003] Created = Tue Dec 20 20:19:39 2005
+DOTNET [QuickTime Track Header - 0x0004] Modified = Tue Dec 20 20:20:15 2005
+DOTNET [QuickTime Track Header - 0x0005] TrackId = 1
+DOTNET [QuickTime Track Header - 0x0006] Duration = 85500
+DOTNET [QuickTime Track Header - 0x0007] Layer = 0
+DOTNET [QuickTime Track Header - 0x0008] Alternate Group = 0
+DOTNET [QuickTime Track Header - 0x0009] Volume = 1
+DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+DOTNET [QuickTime Track Header - 0x000a] Width = 0
+DOTNET [QuickTime Track Header - 0x000b] Height = 0
+       
+JAVA   [MP4 Video - 0x0065] Creation Time = Wed Dec 21 07:20:15 +11:00 2005
+JAVA   [MP4 Video - 0x0066] Modification Time = Wed Dec 21 07:20:15 +11:00 2005
+JAVA   [MP4 Video - 0x0068] ISO 639-2 Language Code = eng
+JAVA   [MP4 Video - 0x00d4] Opcolor = 0 0 0
+JAVA   [MP4 Video - 0x00d3] Graphics Mode = Copy
+JAVA   [MP4 Video - 0x00d2] Compression Type = H.264
+JAVA   [MP4 Video - 0x00cc] Width = 320 pixels
+JAVA   [MP4 Video - 0x00cd] Height = 240 pixels
+JAVA   [MP4 Video - 0x00d1] Depth = 24-bit color
+JAVA   [MP4 Video - 0x00ce] Horizontal Resolution = 72
+JAVA   [MP4 Video - 0x00cf] Vertical Resolution = 72
+JAVA   [MP4 Video - 0x00d6] Frame Rate = 10
+DOTNET [QuickTime Track Header - 0x0001] Version = 0
+DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 1
+DOTNET [QuickTime Track Header - 0x0003] Created = Tue Dec 20 20:19:39 2005
+DOTNET [QuickTime Track Header - 0x0004] Modified = Tue Dec 20 20:20:15 2005
+DOTNET [QuickTime Track Header - 0x0005] TrackId = 2
+DOTNET [QuickTime Track Header - 0x0006] Duration = 85500
+DOTNET [QuickTime Track Header - 0x0007] Layer = 0
+DOTNET [QuickTime Track Header - 0x0008] Alternate Group = 0
+DOTNET [QuickTime Track Header - 0x0009] Volume = 0
+DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+DOTNET [QuickTime Track Header - 0x000a] Width = 320
+DOTNET [QuickTime Track Header - 0x000b] Height = 240
+DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
+       
+JAVA   [File Type - 0x0001] Detected File Type Name = MP4
+JAVA   [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+JAVA   [File Type - 0x0003] Detected MIME Type = video/mp4
+JAVA   [File Type - 0x0004] Expected File Name Extension = mp4
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
+DOTNET [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = sample_iPod.m4v
+       [File - 0x0002] File Size = 2236480 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - MP4
+JAVA   - MP4 Sound
+JAVA   - MP4 Video
+DOTNET - QuickTime File Type
+DOTNET - QuickTime Movie Header
+DOTNET - QuickTime Track Header
+DOTNET - QuickTime Track Header
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

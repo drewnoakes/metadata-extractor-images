@@ -1,0 +1,113 @@
+       FILE: m2-f4830e8d4fa458f78a09fcaaf260569c.tif
+       TYPE: ARW
+       
+JAVA   [ERROR: XMP] Error processing XMP data: XML parsing failure
+DOTNET [ERROR: XMP] Error processing XMP data: Unsupported Encoding
+       [ERROR: IPTC] Invalid IPTC tag marker at offset 7. Expected '0x1c' but got '0x27'.
+       [ERROR: Photoshop] End of data reached.
+       [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
+       [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
+       [ERROR: Exif SubIFD] Illegal TIFF tag pointer offset
+       
+       [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+       [Exif IFD0 - 0x0100] Image Width = 2085 pixels
+       [Exif IFD0 - 0x0101] Image Height = 1536 pixels
+       [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+       [Exif IFD0 - 0x0103] Compression = JPEG
+       [Exif IFD0 - 0x0106] Photometric Interpretation = YCbCr
+       [Exif IFD0 - 0x010f] Make = FUJIFILM
+       [Exif IFD0 - 0x0110] Model = FinePixS2Pro
+       [Exif IFD0 - 0x0111] Strip Offsets = 25916 83564 137686 193992 253044 310368 366194 425738 476168 527370
+       [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+       [Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+       [Exif IFD0 - 0x0116] Rows Per Strip = 167 rows/strip
+       [Exif IFD0 - 0x0117] Strip Byte Counts = 57648 54121 56306 59052 57324 55825 59543 50430 51202 11708 bytes
+       [Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+       [Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+       [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       [Exif IFD0 - 0x0131] Software = Adobe Photoshop CS2 Windows
+       [Exif IFD0 - 0x0132] Date/Time = 2006:11:16 22:13:39
+       [Exif IFD0 - 0x015b] JPEG Tables = [558 values]
+       [Exif IFD0 - 0x0212] YCbCr Sub-Sampling = (Unknown)
+       [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+       [Exif IFD0 - 0x8298] Copyright =    �
+       
+       [IPTC - 0x0200] Application Record Version = 2
+       
+       [Photoshop - 0x0425] Caption Digest = 82 180 122 60 81 93 164 168 211 227 38 82 225 198 51 221
+       [Photoshop - 0x042f] Print Info = [74 values]
+       [Photoshop - 0x03e9] Mac Print Info = [120 values]
+       [Photoshop - 0x03ed] Resolution Info = 72x72 DPI
+       [Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+       [Photoshop - 0x040d] Global Angle = 30
+       [Photoshop - 0x0419] Global Altitude = 30
+       [Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+       [Photoshop - 0x040a] Copyright Flag = No
+       [Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 1
+       [Photoshop - 0x03f5] Color Halftoning Information = [72 values]
+       [Photoshop - 0x03f8] Color Transfer Functions = [112 values]
+       [Photoshop - 0x0400] Layer State Information = 0 1
+       [Photoshop - 0x0402] Layers Group Information = 0 0 0 0
+       [Photoshop - 0x0430] Layer Groups Enabled ID = 1 1
+       [Photoshop - 0x042d] Layer Selection IDs = 0 1 0 0 0 2
+       [Photoshop - 0x0408] Grid and Guides Information = 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+       [Photoshop - 0x041e] URL List = 0
+       
+       [IPTC - 0x0200] Application Record Version = 2
+       [IPTC - 0x0274] Copyright Notice =     
+       
+       [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
+       [Exif SubIFD - 0x829d] F-Number = f/4.8
+       [Exif SubIFD - 0x8822] Exposure Program = Manual control
+       [Exif SubIFD - 0x8827] ISO Speed Ratings = 1600
+       [Exif SubIFD - 0x9000] Exif Version = 2.20
+       [Exif SubIFD - 0x9003] Date/Time Original = 2005:0�:03 15:31:45
+       [Exif SubIFD - 0x9004] Date/Time Digitized = 2005:03:03 15:31:45
+       [Exif SubIFD - 0x9101] Components Configuration = YCbCr
+       [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 3.2 bits/pixel
+       [Exif SubIFD - 0x9201] Shutter Speed Value = 1/63 sec
+       [Exif SubIFD - 0x9202] Aperture Value = f/4.8
+       [Exif SubIFD - 0x9203] Brightness Value = 1.0
+       [Exif SubIFD - 0x9207] Metering Mode = 
+       [Exif SubIFD - 0x9208] White Balance = Unknown
+       [Exif SubIFD - 0x9209] Flash = Flash fired
+       [Exif SubIFD - 0xa000] FlashPix Version = 1.00
+       [Exif SubIFD - 0xa001] Color Space = Undefined
+       [Exif SubIFD - 0xa002] Exif Image Width = 2085 pixels
+       [Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
+       [Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 1/1007 cm
+       [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = cm
+       [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+       [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+       [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+       [Exif SubIFD - 0xa401] Custom Rendered = Normal process
+       [Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
+       [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+       [Exif SubIFD - 0xa405] Focal Length 35 = 51 mm
+       [Exif SubIFD - 0xa406] Scene Capture Type = Standard
+       [Exif SubIFD - 0xa408] Contrast = Hard
+       [Exif SubIFD - 0xa409] Saturation = 
+       [Exif SubIFD - 0xa40a] Sharpness = Hard
+       [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
+       
+       [File Type - 0x0001] Detected File Type Name = ARW
+       [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+       [File Type - 0x0004] Expected File Name Extension = arw
+       
+       [File - 0x0001] File Name = m2-f4830e8d4fa458f78a09fcaaf260569c.tif
+       [File - 0x0002] File Size = 539640 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
+           - XMP
+           - IPTC
+           - Photoshop
+               - IPTC
+           - Exif SubIFD
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

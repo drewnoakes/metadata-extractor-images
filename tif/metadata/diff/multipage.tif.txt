@@ -1,0 +1,130 @@
+       FILE: multipage.tif
+       TYPE: TIFF
+       
+       [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+       [Exif IFD0 - 0x0100] Image Width = 4670 pixels
+       [Exif IFD0 - 0x0101] Image Height = 6170 pixels
+       [Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+       [Exif IFD0 - 0x0103] Compression = T6/Group 4 Fax
+       [Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+       [Exif IFD0 - 0x0111] Strip Offsets = 16
+       [Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+       [Exif IFD0 - 0x0116] Rows Per Strip = 6170 rows/strip
+       [Exif IFD0 - 0x0117] Strip Byte Counts = 7803 bytes
+       [Exif IFD0 - 0x011a] X Resolution = 600 dots per inch
+       [Exif IFD0 - 0x011b] Y Resolution = 600 dots per inch
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       
+JAVA   [Exif Thumbnail - 0x0100] Image Width = 1700 pixels
+JAVA   [Exif Thumbnail - 0x0101] Image Height = 2200 pixels
+JAVA   [Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
+JAVA   [Exif Thumbnail - 0x0103] Compression = T6/Group 4 Fax
+JAVA   [Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
+JAVA   [Exif Thumbnail - 0x0111] Strip Offsets = 1529066
+DOTNET [Exif Thumbnail - 0x0100] Image Width = 4670 pixels
+DOTNET [Exif Thumbnail - 0x0101] Image Height = 6170 pixels
+DOTNET [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+DOTNET [Exif Thumbnail - 0x0103] Compression = JPEG
+DOTNET [Exif Thumbnail - 0x0106] Photometric Interpretation = RGB
+DOTNET [Exif Thumbnail - 0x0111] Strip Offsets = [386 values]
+       [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+JAVA   [Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+JAVA   [Exif Thumbnail - 0x0116] Rows Per Strip = 2200 rows/strip
+JAVA   [Exif Thumbnail - 0x0117] Strip Byte Counts = 4002 bytes
+JAVA   [Exif Thumbnail - 0x011a] X Resolution = 200 dots per inch
+JAVA   [Exif Thumbnail - 0x011b] Y Resolution = 200 dots per inch
+DOTNET [Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel
+DOTNET [Exif Thumbnail - 0x0116] Rows Per Strip = 16 rows/strip
+DOTNET [Exif Thumbnail - 0x0117] Strip Byte Counts = 27534 29215 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 8932 5687 8469 6519 6388 6100 5983 5845 7104 6472 7480 6295 5710 6301 6148 6571 8578 5952 9116 3545 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 11091 7393 11748 8624 7537 8222 6495 7055 7291 6684 7062 6991 6885 7249 7374 8259 11413 7024 11470 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 6304 4675 6118 5423 5099 5024 5231 5192 5756 6253 5747 5477 4199 5317 4968 5323 6872 5068 6831 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 3098 27572 26717 bytes
+DOTNET [Exif Thumbnail - 0x011a] X Resolution = 600 dots per inch
+DOTNET [Exif Thumbnail - 0x011b] Y Resolution = 600 dots per inch
+       [Exif Thumbnail - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+       [Exif Thumbnail - 0x0128] Resolution Unit = Inch
+       [Exif Thumbnail - 0x0131] Software = IrfanView
+       [Exif Thumbnail - 0x015b] JPEG Tables = [289 values]
+JAVA   [Exif Thumbnail - 0x00fe] New Subfile Type = Single page of multi-page image
+JAVA   [Exif Thumbnail - 0x010a] Fill Order = Normal
+JAVA   [Exif Thumbnail - 0x0124] Unknown tag (0x0124) = 0
+JAVA   [Exif Thumbnail - 0x0125] Unknown tag (0x0125) = 0
+JAVA   [Exif Thumbnail - 0x0129] Page Number = 0 0
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Image - 0x0100] Image Width = 1700 pixels
+DOTNET [Exif Image - 0x0101] Image Height = 2200 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = T6/Group 4 Fax
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+DOTNET [Exif Image - 0x010a] Fill Order = Normal
+DOTNET [Exif Image - 0x0111] Strip Offsets = 1520602
+DOTNET [Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+DOTNET [Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 2200 rows/strip
+DOTNET [Exif Image - 0x0117] Strip Byte Counts = 3968 bytes
+DOTNET [Exif Image - 0x011a] X Resolution = 200 dots per inch
+DOTNET [Exif Image - 0x011b] Y Resolution = 200 dots per inch
+DOTNET [Exif Image - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+DOTNET [Exif Image - 0x0124] Unknown tag (0x0124) = 0
+DOTNET [Exif Image - 0x0125] Unknown tag (0x0125) = 0
+DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
+DOTNET [Exif Image - 0x0129] Page Number = 0 0
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Image - 0x0100] Image Width = 1700 pixels
+DOTNET [Exif Image - 0x0101] Image Height = 2200 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = T6/Group 4 Fax
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+DOTNET [Exif Image - 0x010a] Fill Order = Normal
+DOTNET [Exif Image - 0x0111] Strip Offsets = 1524828
+DOTNET [Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+DOTNET [Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 2200 rows/strip
+DOTNET [Exif Image - 0x0117] Strip Byte Counts = 3980 bytes
+DOTNET [Exif Image - 0x011a] X Resolution = 200 dots per inch
+DOTNET [Exif Image - 0x011b] Y Resolution = 200 dots per inch
+DOTNET [Exif Image - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+DOTNET [Exif Image - 0x0124] Unknown tag (0x0124) = 0
+DOTNET [Exif Image - 0x0125] Unknown tag (0x0125) = 0
+DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
+DOTNET [Exif Image - 0x0129] Page Number = 0 0
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Image - 0x0100] Image Width = 1700 pixels
+DOTNET [Exif Image - 0x0101] Image Height = 2200 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = T6/Group 4 Fax
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+DOTNET [Exif Image - 0x010a] Fill Order = Normal
+DOTNET [Exif Image - 0x0111] Strip Offsets = 1529066
+DOTNET [Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+DOTNET [Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 2200 rows/strip
+DOTNET [Exif Image - 0x0117] Strip Byte Counts = 4002 bytes
+DOTNET [Exif Image - 0x011a] X Resolution = 200 dots per inch
+DOTNET [Exif Image - 0x011b] Y Resolution = 200 dots per inch
+DOTNET [Exif Image - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+DOTNET [Exif Image - 0x0124] Unknown tag (0x0124) = 0
+DOTNET [Exif Image - 0x0125] Unknown tag (0x0125) = 0
+DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
+DOTNET [Exif Image - 0x0129] Page Number = 0 0
+       
+       [File Type - 0x0001] Detected File Type Name = TIFF
+       [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+       [File Type - 0x0003] Detected MIME Type = image/tiff
+       [File Type - 0x0004] Expected File Name Extension = tiff
+       
+       [File - 0x0001] File Name = multipage.tif
+       [File - 0x0002] File Size = 1533068 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
+           - Exif Thumbnail
+DOTNET         - Exif Image
+DOTNET             - Exif Image
+DOTNET                 - Exif Image
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

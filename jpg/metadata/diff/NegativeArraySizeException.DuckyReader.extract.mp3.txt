@@ -1,0 +1,73 @@
+       FILE: NegativeArraySizeException.DuckyReader.extract.mp3
+       TYPE: JPEG
+       
+JAVA   EXCEPTION: null
+DOTNET [ERROR: Ducky] End of data reached.
+DOTNET [ERROR: Ducky] End of data reached.
+DOTNET [ERROR: Ducky] End of data reached.
+DOTNET [ERROR: Ducky] End of data reached.
+DOTNET [ERROR: Ducky] End of data reached.
+DOTNET [ERROR: Ducky] End of data reached.
+DOTNET [ERROR: Ducky] End of data reached.
+DOTNET 
+DOTNET [JPEG - 0xfffffffd] Compression Type = Baseline
+DOTNET [JPEG - 0x0000] Data Precision = 8 bits
+DOTNET [JPEG - 0x0001] Image Height = 36 pixels
+DOTNET [JPEG - 0x0003] Image Width = 76 pixels
+DOTNET [JPEG - 0x0005] Number of Components = 3
+DOTNET [JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+DOTNET [JPEG - 0x0007] Component 2 = Unknown (0) component: Quantization table 0, Sampling factors 6 horiz/4 vert
+DOTNET [JPEG - 0x0008] Component 3 = Unknown (100) component: Quantization table 0, Sampling factors 0 horiz/0 vert
+DOTNET 
+DOTNET [JPEG - 0xfffffffd] Compression Type = Baseline
+DOTNET [JPEG - 0x0000] Data Precision = 8 bits
+DOTNET [JPEG - 0x0001] Image Height = 36 pixels
+DOTNET [JPEG - 0x0003] Image Width = 76 pixels
+DOTNET [JPEG - 0x0005] Number of Components = 3
+DOTNET [JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+DOTNET [JPEG - 0x0007] Component 2 = Unknown (0) component: Quantization table 0, Sampling factors 6 horiz/4 vert
+DOTNET [JPEG - 0x0008] Component 3 = Unknown (100) component: Quantization table 0, Sampling factors 0 horiz/0 vert
+DOTNET 
+DOTNET [JpegComment - 0x0000] JPEG Comment = taviso@google.com
+DOTNET 
+DOTNET [Ducky - 0x0003] Copyright = ᨔ
+DOTNET 
+DOTNET [Ducky - 0x0003] Copyright = ᨔ
+DOTNET 
+DOTNET [Huffman - 0x0001] Number of Tables = 3 Huffman tables
+DOTNET 
+DOTNET [JPEG DNL - 0x0001] Image Height = 2049 pixels
+DOTNET 
+DOTNET [JPEG DNL - 0x0001] Image Height = 4096 pixels
+DOTNET 
+DOTNET [JPEG DNL - 0x0001] Image Height = 4096 pixels
+DOTNET 
+DOTNET [File Type - 0x0001] Detected File Type Name = JPEG
+DOTNET [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+DOTNET [File Type - 0x0003] Detected MIME Type = image/jpeg
+DOTNET [File Type - 0x0004] Expected File Name Extension = jpg
+DOTNET 
+DOTNET [File - 0x0001] File Name = NegativeArraySizeException.DuckyReader.extract.mp3
+DOTNET [File - 0x0002] File Size = 2343 bytes
+DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+DOTNET 
+DOTNET - JPEG
+DOTNET - JPEG
+DOTNET - JpegComment
+DOTNET - Ducky
+DOTNET - Ducky
+DOTNET - Ducky
+DOTNET - Ducky
+DOTNET - Ducky
+DOTNET - Ducky
+DOTNET - Ducky
+DOTNET - Huffman
+DOTNET - JPEG DNL
+DOTNET - JPEG DNL
+DOTNET - JPEG DNL
+DOTNET - File Type
+DOTNET - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

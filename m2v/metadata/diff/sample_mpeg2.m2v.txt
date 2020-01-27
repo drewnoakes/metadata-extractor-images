@@ -1,0 +1,20 @@
+       FILE: sample_mpeg2.m2v
+JAVA   TYPE: VOB
+DOTNET TYPE: UNKNOWN
+       
+JAVA   [File Type - 0x0001] Detected File Type Name = VOB
+DOTNET EXCEPTION: File format could not be determined
+JAVA   [File Type - 0x0002] Detected File Type Long Name = Video Object
+JAVA   [File Type - 0x0003] Detected MIME Type = video/dvd
+JAVA   [File Type - 0x0004] Expected File Name Extension = .vob
+JAVA   
+JAVA   [File - 0x0001] File Name = sample_mpeg2.m2v
+JAVA   [File - 0x0002] File Size = 1345348 bytes
+JAVA   [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+JAVA   
+JAVA   - File Type
+JAVA   - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

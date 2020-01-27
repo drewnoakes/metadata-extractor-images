@@ -1,0 +1,149 @@
+       FILE: 9b286add70871bbbef1601997b429344.tif
+       TYPE: TIFF
+       
+       [Exif IFD0 - 0x00fe] New Subfile Type = Single page of multi-page image
+       [Exif IFD0 - 0x0100] Image Width = 1646 pixels
+       [Exif IFD0 - 0x0101] Image Height = 2332 pixels
+       [Exif IFD0 - 0x0102] Bits Per Sample = 1 bits/component/pixel
+       [Exif IFD0 - 0x0103] Compression = T6/Group 4 Fax
+       [Exif IFD0 - 0x0106] Photometric Interpretation = WhiteIsZero
+       [Exif IFD0 - 0x010a] Fill Order = Normal
+       [Exif IFD0 - 0x010d] Document Name = DN0PUnknown serial  1179132224         811000.----!--
+       [Exif IFD0 - 0x010f] Make = Kodak
+       [Exif IFD0 - 0x0110] Model = ProductID
+       [Exif IFD0 - 0x0111] Strip Offsets = 8
+       [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+       [Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+       [Exif IFD0 - 0x0116] Rows Per Strip = 2332 rows/strip
+       [Exif IFD0 - 0x0117] Strip Byte Counts = 11758 bytes
+       [Exif IFD0 - 0x011a] X Resolution = 200 dots per inch
+       [Exif IFD0 - 0x011b] Y Resolution = 200 dots per inch
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       [Exif IFD0 - 0x0131] Software = xVCS V3.5      
+       [Exif IFD0 - 0x0132] Date/Time = 2007:05:14 16:44:35
+       [Exif IFD0 - 0x013b] Artist = IRIS 2001          
+       [Exif IFD0 - 0x82fe] Unknown tag (0x82fe) = [318 values]
+       [Exif IFD0 - 0x8300] Unknown tag (0x8300) = [68 values]
+       [Exif IFD0 - 0x9330] Unknown tag (0x9330) = [5632 values]
+       
+JAVA   [Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
+JAVA   [Exif Thumbnail - 0x0100] Image Width = 1641 pixels
+JAVA   [Exif Thumbnail - 0x0101] Image Height = 2317 pixels
+JAVA   [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+JAVA   [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+JAVA   [Exif Thumbnail - 0x0106] Photometric Interpretation = YCbCr
+DOTNET [Exif Thumbnail - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Thumbnail - 0x0100] Image Width = 1653 pixels
+DOTNET [Exif Thumbnail - 0x0101] Image Height = 2333 pixels
+DOTNET [Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Thumbnail - 0x0103] Compression = T6/Group 4 Fax
+DOTNET [Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
+       [Exif Thumbnail - 0x010a] Fill Order = Normal
+JAVA   [Exif Thumbnail - 0x010d] Document Name = DN0PUnknown serial  1179132224         911000.----!--
+DOTNET [Exif Thumbnail - 0x010d] Document Name = DN0PUnknown serial  1179132224         900000.----!--
+       [Exif Thumbnail - 0x010f] Make = Kodak
+       [Exif Thumbnail - 0x0110] Model = ProductID
+JAVA   [Exif Thumbnail - 0x0111] Strip Offsets = 66024
+DOTNET [Exif Thumbnail - 0x0111] Strip Offsets = 12600
+       [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+JAVA   [Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel
+JAVA   [Exif Thumbnail - 0x0116] Rows Per Strip = 2317 rows/strip
+JAVA   [Exif Thumbnail - 0x0117] Strip Byte Counts = 293443 bytes
+DOTNET [Exif Thumbnail - 0x0115] Samples Per Pixel = 1 samples/pixel
+DOTNET [Exif Thumbnail - 0x0116] Rows Per Strip = 2333 rows/strip
+DOTNET [Exif Thumbnail - 0x0117] Strip Byte Counts = 27064 bytes
+       [Exif Thumbnail - 0x011a] X Resolution = 200 dots per inch
+       [Exif Thumbnail - 0x011b] Y Resolution = 200 dots per inch
+       [Exif Thumbnail - 0x0128] Resolution Unit = Inch
+       [Exif Thumbnail - 0x0131] Software = xVCS V3.5      
+JAVA   [Exif Thumbnail - 0x0132] Date/Time = 2007:05:14 16:44:40
+DOTNET [Exif Thumbnail - 0x0132] Date/Time = 2007:05:14 16:44:37
+       [Exif Thumbnail - 0x013b] Artist = IRIS 2001          
+       [Exif Thumbnail - 0x82fe] Unknown tag (0x82fe) = [318 values]
+       [Exif Thumbnail - 0x8300] Unknown tag (0x8300) = [68 values]
+JAVA   [Exif Thumbnail - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+JAVA   [Exif Thumbnail - 0x0201] Thumbnail Offset = 66024 bytes
+JAVA   [Exif Thumbnail - 0x0202] Thumbnail Length = 293443 bytes
+JAVA   [Exif Thumbnail - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Single page of multi-page image
+DOTNET [Exif Image - 0x0100] Image Width = 1653 pixels
+DOTNET [Exif Image - 0x0101] Image Height = 2329 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 1 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = T6/Group 4 Fax
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = WhiteIsZero
+DOTNET [Exif Image - 0x010a] Fill Order = Normal
+DOTNET [Exif Image - 0x010d] Document Name = DN0PUnknown serial  1179132224         911000.----!--
+DOTNET [Exif Image - 0x010f] Make = Kodak
+DOTNET [Exif Image - 0x0110] Model = ProductID
+DOTNET [Exif Image - 0x0111] Strip Offsets = 40486
+DOTNET [Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+DOTNET [Exif Image - 0x0115] Samples Per Pixel = 1 samples/pixel
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 2329 rows/strip
+DOTNET [Exif Image - 0x0117] Strip Byte Counts = 24716 bytes
+DOTNET [Exif Image - 0x011a] X Resolution = 200 dots per inch
+DOTNET [Exif Image - 0x011b] Y Resolution = 200 dots per inch
+DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
+DOTNET [Exif Image - 0x0131] Software = xVCS V3.5      
+DOTNET [Exif Image - 0x0132] Date/Time = 2007:05:14 16:44:38
+DOTNET [Exif Image - 0x013b] Artist = IRIS 2001          
+DOTNET [Exif Image - 0x82fe] Unknown tag (0x82fe) = [318 values]
+DOTNET [Exif Image - 0x8300] Unknown tag (0x8300) = [68 values]
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Full-resolution image
+DOTNET [Exif Image - 0x0100] Image Width = 1641 pixels
+DOTNET [Exif Image - 0x0101] Image Height = 2317 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = JPEG (old-style)
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = YCbCr
+DOTNET [Exif Image - 0x0110] Model = ProductID
+DOTNET [Exif Image - 0x0111] Strip Offsets = 66024
+DOTNET [Exif Image - 0x0115] Samples Per Pixel = 3 samples/pixel
+DOTNET [Exif Image - 0x0116] Rows Per Strip = 2317 rows/strip
+DOTNET [Exif Image - 0x0117] Strip Byte Counts = 293443 bytes
+DOTNET [Exif Image - 0x011a] X Resolution = 200 dots per inch
+DOTNET [Exif Image - 0x011b] Y Resolution = 200 dots per inch
+DOTNET [Exif Image - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
+DOTNET [Exif Image - 0x0131] Software = xVCS V3.5      
+DOTNET [Exif Image - 0x0132] Date/Time = 2007:05:14 16:44:40
+DOTNET [Exif Image - 0x013b] Artist = IRIS 2001          
+DOTNET [Exif Image - 0x0201] Unknown tag (0x0201) = 66024
+DOTNET [Exif Image - 0x0202] Unknown tag (0x0202) = 293443
+DOTNET [Exif Image - 0x0214] Reference Black/White = [0,128,128] [255,255,255]
+       
+       [Exif SubIFD - 0x00fe] New Subfile Type = Reduced-resolution image
+       [Exif SubIFD - 0x0100] Image Width = 160 pixels
+       [Exif SubIFD - 0x0101] Image Height = 224 pixels
+       [Exif SubIFD - 0x0102] Bits Per Sample = 8 bits/component/pixel
+       [Exif SubIFD - 0x0103] Compression = JPEG
+       [Exif SubIFD - 0x0106] Photometric Interpretation = RGB
+       [Exif SubIFD - 0x0111] Strip Offsets = 359882
+       [Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+       [Exif SubIFD - 0x0116] Rows Per Strip = 224 rows/strip
+       [Exif SubIFD - 0x0117] Strip Byte Counts = 5818 bytes
+       [Exif SubIFD - 0x0200] JPEG Proc = Baseline
+       [Exif SubIFD - 0x0201] Unknown tag (0x0201) = 359882
+       [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 5818
+       
+       [File Type - 0x0001] Detected File Type Name = TIFF
+       [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+       [File Type - 0x0003] Detected MIME Type = image/tiff
+       [File Type - 0x0004] Expected File Name Extension = tiff
+       
+       [File - 0x0001] File Name = 9b286add70871bbbef1601997b429344.tif
+       [File - 0x0002] File Size = 371494 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
+           - Exif Thumbnail
+JAVA           - Exif SubIFD
+DOTNET         - Exif Image
+DOTNET             - Exif Image
+DOTNET                 - Exif SubIFD
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

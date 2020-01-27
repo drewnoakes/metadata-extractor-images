@@ -1,0 +1,86 @@
+       FILE: Sony ILCE-7M3 (A7M3).mp4
+JAVA   TYPE: UNKNOWN
+DOTNET TYPE: QUICKTIME
+DOTNET 
+DOTNET [QuickTime File Type - 0x0001] Major Brand = XAVC
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 16785407
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = XAVC, mp42, iso2
+DOTNET 
+DOTNET [QuickTime Movie Header - 0x0001] Version = 0
+DOTNET [QuickTime Movie Header - 0x0002] Flags = 0 0 0
+DOTNET [QuickTime Movie Header - 0x0003] Created = Wed Apr 24 20:23:16 2019
+DOTNET [QuickTime Movie Header - 0x0004] Modified = Wed Apr 24 20:23:16 2019
+DOTNET [QuickTime Movie Header - 0x0005] TrackId = 90000
+DOTNET [QuickTime Movie Header - 0x0006] Duration = 00:00:00.4800000
+DOTNET [QuickTime Movie Header - 0x0007] Preferred Rate = 1
+DOTNET [QuickTime Movie Header - 0x0008] Preferred Volume = 1
+DOTNET [QuickTime Movie Header - 0x0009] Matrix = [36 values]
+DOTNET [QuickTime Movie Header - 0x000a] Preview Time = 0
+DOTNET [QuickTime Movie Header - 0x000b] Preview Duration = 0
+DOTNET [QuickTime Movie Header - 0x000c] Poster Time = 0
+DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
+DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
+DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
+DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 4
+DOTNET 
+DOTNET [QuickTime Track Header - 0x0001] Version = 0
+DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 7
+DOTNET [QuickTime Track Header - 0x0003] Created = Wed Apr 24 20:23:16 2019
+DOTNET [QuickTime Track Header - 0x0004] Modified = Wed Apr 24 20:23:16 2019
+DOTNET [QuickTime Track Header - 0x0005] TrackId = 1
+DOTNET [QuickTime Track Header - 0x0006] Duration = 43200
+DOTNET [QuickTime Track Header - 0x0007] Layer = 0
+DOTNET [QuickTime Track Header - 0x0008] Alternate Group = 0
+DOTNET [QuickTime Track Header - 0x0009] Volume = 0
+DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+DOTNET [QuickTime Track Header - 0x000a] Width = 3840
+DOTNET [QuickTime Track Header - 0x000b] Height = 2160
+DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
+DOTNET 
+DOTNET [QuickTime Track Header - 0x0001] Version = 0
+DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 7
+DOTNET [QuickTime Track Header - 0x0003] Created = Wed Apr 24 20:23:16 2019
+DOTNET [QuickTime Track Header - 0x0004] Modified = Wed Apr 24 20:23:16 2019
+DOTNET [QuickTime Track Header - 0x0005] TrackId = 2
+DOTNET [QuickTime Track Header - 0x0006] Duration = 43200
+DOTNET [QuickTime Track Header - 0x0007] Layer = 0
+DOTNET [QuickTime Track Header - 0x0008] Alternate Group = 0
+DOTNET [QuickTime Track Header - 0x0009] Volume = 1
+DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+DOTNET [QuickTime Track Header - 0x000a] Width = 0
+DOTNET [QuickTime Track Header - 0x000b] Height = 0
+DOTNET 
+DOTNET [QuickTime Track Header - 0x0001] Version = 0
+DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 7
+DOTNET [QuickTime Track Header - 0x0003] Created = Wed Apr 24 20:23:16 2019
+DOTNET [QuickTime Track Header - 0x0004] Modified = Wed Apr 24 20:23:16 2019
+DOTNET [QuickTime Track Header - 0x0005] TrackId = 3
+DOTNET [QuickTime Track Header - 0x0006] Duration = 43200
+DOTNET [QuickTime Track Header - 0x0007] Layer = 0
+DOTNET [QuickTime Track Header - 0x0008] Alternate Group = 0
+DOTNET [QuickTime Track Header - 0x0009] Volume = 0
+DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+DOTNET [QuickTime Track Header - 0x000a] Width = 0
+DOTNET [QuickTime Track Header - 0x000b] Height = 0
+DOTNET 
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
+DOTNET [File Type - 0x0004] Expected File Name Extension = mov
+DOTNET 
+DOTNET [File - 0x0001] File Name = Sony ILCE-7M3 (A7M3).mp4
+DOTNET [File - 0x0002] File Size = 4197914 bytes
+DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   EXCEPTION: File format could not be determined
+DOTNET - QuickTime File Type
+DOTNET - QuickTime Movie Header
+DOTNET - QuickTime Track Header
+DOTNET - QuickTime Track Header
+DOTNET - QuickTime Track Header
+DOTNET - File Type
+DOTNET - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       
