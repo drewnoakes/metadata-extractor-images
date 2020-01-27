@@ -120,16 +120,10 @@ namespace MetadataExtractor.MediaLibraryProcessor
                 writer.Write("File|Manufacturer|Model|Dir Count|Exif?|Makernote|Thumbnail|All Data\n");
                 writer.Write("----|------------|-----|---------|-----|---------|---------|--------\n");
 
-                var rows = _rowsByExtension[extension];
-
                 // Order by manufacturer, then model
-                rows.Sort((o1, o2) =>
-                {
-                    var c1 = string.CompareOrdinal(o1.Manufacturer, o2.Manufacturer);
-                    return c1 != 0
-                        ? c1
-                        : string.CompareOrdinal(o1.Model, o2.Model);
-                });
+                var rows = _rowsByExtension[extension]
+                    .OrderBy(row => row.Manufacturer, StringComparer.Ordinal)
+                    .ThenBy(row => row.Model, StringComparer.Ordinal);
 
                 foreach (var row in rows)
                 {
