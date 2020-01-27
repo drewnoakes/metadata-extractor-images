@@ -17,6 +17,9 @@ namespace MetadataExtractor.MediaLibraryProcessor
             await Task.WhenAll(
                 DotNetRunner.RunAsync(repoRoot),
                 JavaRunner.RunAsync(repoRoot));
+
+            // Update comparisons between .NET and Java outputs
+            await DiffRunner.RunAsync(repoRoot);
         }
     }
 }

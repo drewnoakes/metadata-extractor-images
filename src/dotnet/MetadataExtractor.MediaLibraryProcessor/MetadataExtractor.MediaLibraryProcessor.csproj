@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="JetBrains.Annotations" Version="2019.1.3" PrivateAssets="All" />
+    <PackageReference Include="DiffPlex" Version="1.5.0" />
   </ItemGroup>
 
   <ItemGroup>
