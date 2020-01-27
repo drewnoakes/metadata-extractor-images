@@ -108,7 +108,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
                     // Write file structure
                     var tree = directories.ToLookup(d => d.Parent);
 
-                    void WriteLevel(Directory parent, int level)
+                    void WriteLevel(Directory? parent, int level)
                     {
                         const int indent = 4;
 

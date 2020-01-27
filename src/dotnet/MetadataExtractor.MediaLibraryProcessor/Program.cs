@@ -6,7 +6,6 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
-using JetBrains.Annotations;
 using MetadataExtractor.Formats.FileSystem;
 
 namespace MetadataExtractor.MediaLibraryProcessor
@@ -41,7 +40,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
             log.Dispose();
         }
 
-        private static void ProcessDirectory([NotNull] string path, [NotNull] IReadOnlyList<IFileHandler> handlers, [NotNull] string relativePath, [NotNull] TextWriter log)
+        private static void ProcessDirectory(string path, IReadOnlyList<IFileHandler> handlers, string relativePath, TextWriter log)
         {
             var entries = System.IO.Directory.GetFileSystemEntries(path);
 

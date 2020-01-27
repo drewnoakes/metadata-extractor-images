@@ -4,7 +4,6 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using JetBrains.Annotations;
 using MetadataExtractor.Formats.Exif;
 
 namespace MetadataExtractor.MediaLibraryProcessor
@@ -25,11 +24,11 @@ namespace MetadataExtractor.MediaLibraryProcessor
             public string FilePath { get; }
             public string RelativePath { get; }
             public int DirectoryCount { get; }
-            [CanBeNull] public string Manufacturer { get; }
-            [CanBeNull] public string Model { get; }
-            [CanBeNull] public string ExifVersion { get; }
-            [CanBeNull] public string Thumbnail { get; }
-            [CanBeNull] public string Makernote { get; }
+            public string? Manufacturer { get; }
+            public string? Model { get; }
+            public string? ExifVersion { get; }
+            public string? Thumbnail { get; }
+            public string? Makernote { get; }
 
             internal Row(string filePath, ICollection<Directory> directories, string relativePath)
             {
