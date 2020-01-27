@@ -33,6 +33,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
                         Arguments = string.Join(
                             " ",
                             "-classpath", $"\"{xmpCoreLibraryPath}\";{javaSrcRoot}",
+                            "-Dfile.encoding=UTF-8",
                             "com.drew.tools.ProcessAllImagesInFolderUtility",
                             "--text", $"\"{repoRoot}\""),
                         UseShellExecute = false,
