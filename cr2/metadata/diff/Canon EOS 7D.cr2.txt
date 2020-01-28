@@ -50,8 +50,7 @@
        [Canon Makernote - 0xc100] Unknown tag (0xc100) = 98
        [Canon Makernote - 0xc101] Macro Mode = Normal
        [Canon Makernote - 0xc102] Self Timer Delay = Self timer not used
-JAVA   [Canon Makernote - 0xc103] Quality = Unknown (4)
-DOTNET [Canon Makernote - 0xc103] Quality = RAW
+       [Canon Makernote - 0xc103] Quality = RAW
        [Canon Makernote - 0xc104] Flash Mode = No flash fired
        [Canon Makernote - 0xc105] Continuous Drive Mode = Unknown (5)
        [Canon Makernote - 0xc106] Unknown Camera Setting 2 = 0
