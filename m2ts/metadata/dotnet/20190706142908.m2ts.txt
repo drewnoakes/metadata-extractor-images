@@ -1,0 +1,7 @@
+FILE: 20190706142908.m2ts
+TYPE: UNKNOWN
+
+EXCEPTION: File format could not be determined
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
