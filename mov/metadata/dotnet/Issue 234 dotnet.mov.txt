@@ -1,0 +1,107 @@
+FILE: Issue 234 dotnet.mov
+TYPE: QUICKTIME
+
+[ERROR: QuickTime Metadata Header] Unsupported ilist key "com.apple.quicktime.content.identifier"
+[ERROR: QuickTime Metadata Header] Unsupported ilist key "com.apple.photos.originating.signature"
+
+[QuickTime File Type - 0x0001] Major Brand = qt  
+[QuickTime File Type - 0x0002] Minor Version = 0
+[QuickTime File Type - 0x0003] Compatible Brands = qt
+
+[QuickTime Movie Header - 0x0001] Version = 0
+[QuickTime Movie Header - 0x0002] Flags = 0 0 0
+[QuickTime Movie Header - 0x0003] Created = Sun Nov 03 18:07:30 2019
+[QuickTime Movie Header - 0x0004] Modified = Sun Nov 03 18:07:32 2019
+[QuickTime Movie Header - 0x0005] TrackId = 600
+[QuickTime Movie Header - 0x0006] Duration = 00:00:02.6330000
+[QuickTime Movie Header - 0x0007] Preferred Rate = 1
+[QuickTime Movie Header - 0x0008] Preferred Volume = 1
+[QuickTime Movie Header - 0x0009] Matrix = [36 values]
+[QuickTime Movie Header - 0x000a] Preview Time = 0
+[QuickTime Movie Header - 0x000b] Preview Duration = 0
+[QuickTime Movie Header - 0x000c] Poster Time = 0
+[QuickTime Movie Header - 0x000d] Selection Time = 0
+[QuickTime Movie Header - 0x000e] Selection Duration = 0
+[QuickTime Movie Header - 0x000f] Current Time = 0
+[QuickTime Movie Header - 0x0010] Next Track Id = 5
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Sun Nov 03 18:07:30 2019
+[QuickTime Track Header - 0x0004] Modified = Sun Nov 03 18:07:32 2019
+[QuickTime Track Header - 0x0005] TrackId = 1
+[QuickTime Track Header - 0x0006] Duration = 1580
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 0 1 0 -1 0 0 1080 0 1
+[QuickTime Track Header - 0x000a] Width = 1440
+[QuickTime Track Header - 0x000b] Height = 1080
+[QuickTime Track Header - 0x000d] Rotation = 90
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Sun Nov 03 18:07:30 2019
+[QuickTime Track Header - 0x0004] Modified = Sun Nov 03 18:07:32 2019
+[QuickTime Track Header - 0x0005] TrackId = 2
+[QuickTime Track Header - 0x0006] Duration = 1579
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 1
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Sun Nov 03 18:07:30 2019
+[QuickTime Track Header - 0x0004] Modified = Sun Nov 03 18:07:32 2019
+[QuickTime Track Header - 0x0005] TrackId = 3
+[QuickTime Track Header - 0x0006] Duration = 1580
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Sun Nov 03 18:07:30 2019
+[QuickTime Track Header - 0x0004] Modified = Sun Nov 03 18:07:32 2019
+[QuickTime Track Header - 0x0005] TrackId = 4
+[QuickTime Track Header - 0x0006] Duration = 648
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Metadata Header - 0x000e] GPS Location = +51.3766-001.0553+092.894/
+[QuickTime Metadata Header - 0x0015] Make = Apple
+[QuickTime Metadata Header - 0x0016] Model = iPhone X
+[QuickTime Metadata Header - 0x0011] Software = 11.3
+[QuickTime Metadata Header - 0x0007] Creation Date = 2018-04-06T17:26:41+0100
+
+[File Type - 0x0001] Detected File Type Name = QuickTime
+[File Type - 0x0002] Detected File Type Long Name = QuickTime
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = Issue 234 dotnet.mov
+[File - 0x0002] File Size = 5350573 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- QuickTime Movie Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Metadata Header
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

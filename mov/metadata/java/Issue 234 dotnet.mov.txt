@@ -1,0 +1,74 @@
+FILE: Issue 234 dotnet.mov
+TYPE: MOV
+
+[ERROR: QuickTime] End of data reached.
+
+[QuickTime - 0x1000] Major Brand = Apple QuickTime (.MOV/QT)
+[QuickTime - 0x1001] Minor Version = 0
+[QuickTime - 0x1002] Compatible Brands = [Apple QuickTime (.MOV/QT)]
+[QuickTime - 0x0100] Creation Time = Mon Nov 04 05:07:30 +11:00 2019
+[QuickTime - 0x0101] Modification Time = Mon Nov 04 05:07:32 +11:00 2019
+[QuickTime - 0x0103] Duration = 1580
+[QuickTime - 0x0102] Media Time Scale = 600
+[QuickTime - 0x0104] Duration in Seconds = 00:00:03
+[QuickTime - 0x0105] Preferred Rate = 1
+[QuickTime - 0x0106] Preferred Volume = 1
+[QuickTime - 0x0107] Preview Time = 0
+[QuickTime - 0x0108] Preview Duration = 0
+[QuickTime - 0x0109] Poster Time = 0
+[QuickTime - 0x010a] Selection Time = 0
+[QuickTime - 0x010b] Selection Duration = 0
+[QuickTime - 0x010c] Current Time = 0
+[QuickTime - 0x010d] Next Track ID = 5
+
+[QuickTime Video - 0x5001] Creation Time = Mon Nov 04 05:07:30 +11:00 2019
+[QuickTime Video - 0x5002] Modification Time = Mon Nov 04 05:07:32 +11:00 2019
+[QuickTime Video - 0x000c] Opcolor = 32768 32768 32768
+[QuickTime Video - 0x000b] Graphics Mode = Dither copy
+[QuickTime Video - 0x0001] Vendor = Unknown
+[QuickTime Video - 0x000a] Compression Type = H.264
+[QuickTime Video - 0x0002] Temporal Quality = 512
+[QuickTime Video - 0x0003] Spatial Quality = 512
+[QuickTime Video - 0x0004] Width = 1440 pixels
+[QuickTime Video - 0x0005] Height = 1080 pixels
+[QuickTime Video - 0x0008] Compressor Name = H.264
+[QuickTime Video - 0x0009] Depth = 24-bit color
+[QuickTime Video - 0x000d] Color Table = None
+[QuickTime Video - 0x0006] Horizontal Resolution = 72
+[QuickTime Video - 0x0007] Vertical Resolution = 72
+[QuickTime Video - 0x000e] Frame Rate = 30
+
+[QuickTime Sound - 0x5001] Creation Time = Mon Nov 04 05:07:30 +11:00 2019
+[QuickTime Sound - 0x5002] Modification Time = Mon Nov 04 05:07:32 +11:00 2019
+[QuickTime Sound - 0x0305] Balance = 0
+[QuickTime Sound - 0x0301] Format = Linear Pulse Code Modulation
+[QuickTime Sound - 0x0302] Number of Channels = 3
+[QuickTime Sound - 0x0303] Sample Size = 16
+[QuickTime Sound - 0x0304] Sample Rate = 44100
+
+[QuickTime Metadata - 0x051c] Content Identifier = C8197FD6-E2CA-4F4E-BCD2-8E18691D2CD6
+[QuickTime Metadata - 0x050d] ISO 6709 = +51.3766-001.0553+092.894/
+[QuickTime Metadata - 0x051d] Make = Apple
+[QuickTime Metadata - 0x051e] Model = iPhone X
+[QuickTime Metadata - 0x0510] Software = 11.3
+[QuickTime Metadata - 0x0506] Creation Date = 2018-04-06T17:26:41+0100
+[QuickTime Metadata - 0x051f] Originating Signature = AScYSr9sFsya/AOi7JlowFc9dMj+
+
+[File Type - 0x0001] Detected File Type Name = MOV
+[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = Issue 234 dotnet.mov
+[File - 0x0002] File Size = 5350573 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime
+- QuickTime Video
+- QuickTime Sound
+- QuickTime Metadata
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
