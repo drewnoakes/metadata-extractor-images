@@ -40,6 +40,7 @@ DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
 DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
 DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 2
 JAVA   [QuickTime - 0x010d] Next Track ID = 2
+JAVA   [QuickTime - 0x010e] Rotation = 0
        
 JAVA   [QuickTime Video - 0x5001] Creation Time = Sun Jan 05 22:19:45 +11:00 2020
 JAVA   [QuickTime Video - 0x5002] Modification Time = Sun Jan 05 22:19:47 +11:00 2020
@@ -70,13 +71,13 @@ DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
 JAVA   [QuickTime Video - 0x0006] Horizontal Resolution = 72
 JAVA   [QuickTime Video - 0x0007] Vertical Resolution = 72
 JAVA   [QuickTime Video - 0x000e] Frame Rate = 29.97
-       
-JAVA   [XMP - 0xffff] XMP Value Count = 37
 JAVA   
-DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
-DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+JAVA   [XMP - 0xffff] XMP Value Count = 37
+       
 JAVA   [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = QuickTime
 JAVA   [XMPMeta - ] dc:description[1] = Baltic sea timelapse description
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
 JAVA   [XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
 JAVA   [XMPMeta - ] dc:subject[1] = baltic
 JAVA   [XMPMeta - ] dc:subject[2] = sea
