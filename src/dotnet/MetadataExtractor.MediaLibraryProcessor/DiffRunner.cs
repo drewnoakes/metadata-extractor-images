@@ -1,4 +1,3 @@
-﻿using System;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -12,6 +11,9 @@ namespace MetadataExtractor.MediaLibraryProcessor
 {
     internal static class DiffRunner
     {
+        private static readonly Task CompletedTask = Task.FromResult<object?>(null);
+        private static readonly string[] EmptyStringArray = new string[0];
+
         public static Task RunAsync(string path)
         {
             var diffBuilder = new InlineDiffBuilder(new Differ());
@@ -72,7 +74,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
                 {
                     var languageOutputDir = Path.Combine(directory, "metadata", language);
                     if (!System.IO.Directory.Exists(languageOutputDir))
-                        return Array.Empty<string>();
+                        return EmptyStringArray;
                     return System.IO.Directory.GetFiles(languageOutputDir, "*.txt").Select(Path.GetFileName).ToArray();
                 }
 
@@ -86,7 +88,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
                 }
             }
 
-            return Task.CompletedTask;
+            return CompletedTask;
         }
     }
 }
