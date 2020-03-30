@@ -67,6 +67,7 @@ JAVA   [QuickTime - 0x010a] Selection Time = 0
 JAVA   [QuickTime - 0x010b] Selection Duration = 0
 JAVA   [QuickTime - 0x010c] Current Time = 0
 JAVA   [QuickTime - 0x010d] Next Track ID = 5
+JAVA   [QuickTime - 0x010e] Rotation = 90
        
 JAVA   [QuickTime Sound - 0x5001] Creation Time = Wed Jul 24 18:25:57 +10:00 2019
 JAVA   [QuickTime Sound - 0x5002] Modification Time = Wed Jul 24 18:25:58 +10:00 2019

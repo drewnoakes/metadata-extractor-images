@@ -20,6 +20,7 @@ TYPE: MOV
 [QuickTime - 0x010b] Selection Duration = 0
 [QuickTime - 0x010c] Current Time = 0
 [QuickTime - 0x010d] Next Track ID = 3
+[QuickTime - 0x010e] Rotation = 0
 
 [QuickTime Video - 0x5001] Creation Time = Tue Oct 18 08:54:33 +10:00 2005
 [QuickTime Video - 0x5002] Modification Time = Tue Oct 18 08:56:39 +10:00 2005
