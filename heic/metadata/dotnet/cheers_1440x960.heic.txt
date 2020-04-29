@@ -1,20 +1,61 @@
 FILE: cheers_1440x960.heic
-TYPE: QUICKTIME
+TYPE: HEIF
 
 [QuickTime File Type - 0x0001] Major Brand = mif1
-[QuickTime File Type - 0x0002] Minor Version = 0
 [QuickTime File Type - 0x0003] Compatible Brands = mif1, heic
 
-[File Type - 0x0001] Detected File Type Name = QuickTime
-[File Type - 0x0002] Detected File Type Long Name = QuickTime
-[File Type - 0x0003] Detected MIME Type = video/quicktime
-[File Type - 0x0004] Expected File Name Extension = mov
+[HEIC Primary Item Properties - 0x0005] HEVC Configuration Version = 1
+[HEIC Primary Item Properties - 0x0006] General Profile Space = 0
+[HEIC Primary Item Properties - 0x0007] General Tier Tag = 0
+[HEIC Primary Item Properties - 0x0008] General Profile = 1
+[HEIC Primary Item Properties - 0x0009] General Profile Compatibility = 1610612736
+[HEIC Primary Item Properties - 0x000a] General Level = 186
+[HEIC Primary Item Properties - 0x000b] Minimum Spacial Segmentation = 0
+[HEIC Primary Item Properties - 0x000c] Parallelism Type = 0
+[HEIC Primary Item Properties - 0x000d] Chroma Format = 1
+[HEIC Primary Item Properties - 0x000e] Luma Bit Depth = 8
+[HEIC Primary Item Properties - 0x000f] Chroma Bit Depth = 8
+[HEIC Primary Item Properties - 0x0010] Average Frame Rate = 0
+[HEIC Primary Item Properties - 0x0011] Constant Frame Rate = 0
+[HEIC Primary Item Properties - 0x0012] Number of Temporal Layers = 1
+[HEIC Primary Item Properties - 0x0013] Length or Size = 4
+[HEIC Primary Item Properties - 0x0001] Image Width = 1440
+[HEIC Primary Item Properties - 0x0002] Image Height = 960
+
+[HEIC Thumbnail Properties - 0x0005] HEVC Configuration Version = 1
+[HEIC Thumbnail Properties - 0x0006] General Profile Space = 0
+[HEIC Thumbnail Properties - 0x0007] General Tier Tag = 0
+[HEIC Thumbnail Properties - 0x0008] General Profile = 1
+[HEIC Thumbnail Properties - 0x0009] General Profile Compatibility = 1610612736
+[HEIC Thumbnail Properties - 0x000a] General Level = 186
+[HEIC Thumbnail Properties - 0x000b] Minimum Spacial Segmentation = 0
+[HEIC Thumbnail Properties - 0x000c] Parallelism Type = 0
+[HEIC Thumbnail Properties - 0x000d] Chroma Format = 1
+[HEIC Thumbnail Properties - 0x000e] Luma Bit Depth = 8
+[HEIC Thumbnail Properties - 0x000f] Chroma Bit Depth = 8
+[HEIC Thumbnail Properties - 0x0010] Average Frame Rate = 0
+[HEIC Thumbnail Properties - 0x0011] Constant Frame Rate = 0
+[HEIC Thumbnail Properties - 0x0012] Number of Temporal Layers = 1
+[HEIC Thumbnail Properties - 0x0013] Length or Size = 4
+[HEIC Thumbnail Properties - 0x0001] Image Width = 240
+[HEIC Thumbnail Properties - 0x0002] Image Height = 160
+
+[HEIC Thumbnail Data - 0x0001] Offset From Beginning of File = 38467
+[HEIC Thumbnail Data - 0x0002] Data Length = 2922
+
+[File Type - 0x0001] Detected File Type Name = HEIC
+[File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
+[File Type - 0x0003] Detected MIME Type = image/heic
+[File Type - 0x0004] Expected File Name Extension = heic
 
 [File - 0x0001] File Name = cheers_1440x960.heic
 [File - 0x0002] File Size = 41389 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - QuickTime File Type
+- HEIC Primary Item Properties
+- HEIC Thumbnail Properties
+- HEIC Thumbnail Data
 - File Type
 - File
 

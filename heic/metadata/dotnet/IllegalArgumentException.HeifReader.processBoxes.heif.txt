@@ -1,22 +1,7 @@
 FILE: IllegalArgumentException.HeifReader.processBoxes.heif
-TYPE: QUICKTIME
+TYPE: HEIF
 
-[QuickTime File Type - 0x0001] Major Brand = mif1
-[QuickTime File Type - 0x0002] Minor Version = 0
-[QuickTime File Type - 0x0003] Compatible Brands = mif1, heic
-
-[File Type - 0x0001] Detected File Type Name = QuickTime
-[File Type - 0x0002] Detected File Type Long Name = QuickTime
-[File Type - 0x0003] Detected MIME Type = video/quicktime
-[File Type - 0x0004] Expected File Name Extension = mov
-
-[File - 0x0001] File Name = IllegalArgumentException.HeifReader.processBoxes.heif
-[File - 0x0002] File Size = 8195 bytes
-[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-
-- QuickTime File Type
-- File Type
-- File
+EXCEPTION: Pointer size must be 0, 4, or 8 bytes
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

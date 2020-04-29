@@ -1,33 +1,71 @@
        FILE: cheers_1440x960.heic
-JAVA   TYPE: HEIF
-DOTNET TYPE: QUICKTIME
+       TYPE: HEIF
        
 JAVA   [HEIF - 0x0001] Major Brand = mif1
 JAVA   [HEIF - 0x0002] Minor Version = 0
 JAVA   [HEIF - 0x0003] Compatible Brands = mif1 heic
 DOTNET [QuickTime File Type - 0x0001] Major Brand = mif1
-DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = mif1, heic
+DOTNET 
+DOTNET [HEIC Primary Item Properties - 0x0005] HEVC Configuration Version = 1
+DOTNET [HEIC Primary Item Properties - 0x0006] General Profile Space = 0
+DOTNET [HEIC Primary Item Properties - 0x0007] General Tier Tag = 0
+DOTNET [HEIC Primary Item Properties - 0x0008] General Profile = 1
+DOTNET [HEIC Primary Item Properties - 0x0009] General Profile Compatibility = 1610612736
+DOTNET [HEIC Primary Item Properties - 0x000a] General Level = 186
+DOTNET [HEIC Primary Item Properties - 0x000b] Minimum Spacial Segmentation = 0
+DOTNET [HEIC Primary Item Properties - 0x000c] Parallelism Type = 0
+DOTNET [HEIC Primary Item Properties - 0x000d] Chroma Format = 1
+DOTNET [HEIC Primary Item Properties - 0x000e] Luma Bit Depth = 8
+DOTNET [HEIC Primary Item Properties - 0x000f] Chroma Bit Depth = 8
+DOTNET [HEIC Primary Item Properties - 0x0010] Average Frame Rate = 0
+DOTNET [HEIC Primary Item Properties - 0x0011] Constant Frame Rate = 0
+DOTNET [HEIC Primary Item Properties - 0x0012] Number of Temporal Layers = 1
+DOTNET [HEIC Primary Item Properties - 0x0013] Length or Size = 4
+DOTNET [HEIC Primary Item Properties - 0x0001] Image Width = 1440
+DOTNET [HEIC Primary Item Properties - 0x0002] Image Height = 960
+DOTNET 
+DOTNET [HEIC Thumbnail Properties - 0x0005] HEVC Configuration Version = 1
+DOTNET [HEIC Thumbnail Properties - 0x0006] General Profile Space = 0
+DOTNET [HEIC Thumbnail Properties - 0x0007] General Tier Tag = 0
+DOTNET [HEIC Thumbnail Properties - 0x0008] General Profile = 1
+DOTNET [HEIC Thumbnail Properties - 0x0009] General Profile Compatibility = 1610612736
+DOTNET [HEIC Thumbnail Properties - 0x000a] General Level = 186
+DOTNET [HEIC Thumbnail Properties - 0x000b] Minimum Spacial Segmentation = 0
+DOTNET [HEIC Thumbnail Properties - 0x000c] Parallelism Type = 0
+DOTNET [HEIC Thumbnail Properties - 0x000d] Chroma Format = 1
+DOTNET [HEIC Thumbnail Properties - 0x000e] Luma Bit Depth = 8
+DOTNET [HEIC Thumbnail Properties - 0x000f] Chroma Bit Depth = 8
+DOTNET [HEIC Thumbnail Properties - 0x0010] Average Frame Rate = 0
+DOTNET [HEIC Thumbnail Properties - 0x0011] Constant Frame Rate = 0
+DOTNET [HEIC Thumbnail Properties - 0x0012] Number of Temporal Layers = 1
+DOTNET [HEIC Thumbnail Properties - 0x0013] Length or Size = 4
+DOTNET [HEIC Thumbnail Properties - 0x0001] Image Width = 240
+DOTNET [HEIC Thumbnail Properties - 0x0002] Image Height = 160
        
 JAVA   [HEIF - 0x0004] Width = 1440 pixels
 JAVA   [HEIF - 0x0005] Height = 960 pixels
-JAVA   
+DOTNET [HEIC Thumbnail Data - 0x0001] Offset From Beginning of File = 38467
+DOTNET [HEIC Thumbnail Data - 0x0002] Data Length = 2922
+       
 JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
-DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
-DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
-JAVA   [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
+DOTNET [File Type - 0x0001] Detected File Type Name = HEIC
+       [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 JAVA   [File Type - 0x0003] Detected MIME Type = image/heif
 JAVA   [File Type - 0x0004] Expected File Name Extension = heif
+DOTNET [File Type - 0x0003] Detected MIME Type = image/heic
+DOTNET [File Type - 0x0004] Expected File Name Extension = heic
        
        [File - 0x0001] File Name = cheers_1440x960.heic
        [File - 0x0002] File Size = 41389 bytes
        [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
        
 JAVA   - HEIF
-DOTNET - QuickTime File Type
 JAVA   - HEIF
+DOTNET - QuickTime File Type
+DOTNET - HEIC Primary Item Properties
+DOTNET - HEIC Thumbnail Properties
+DOTNET - HEIC Thumbnail Data
        - File Type
        - File
        
