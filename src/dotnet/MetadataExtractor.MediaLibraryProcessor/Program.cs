@@ -8,6 +8,8 @@ namespace MetadataExtractor.MediaLibraryProcessor
 {
     internal static class Program
     {
+        // TODO support building libraries from source too
+
         private static async Task Main()
         {
             // TODO more robust way of finding repo root path

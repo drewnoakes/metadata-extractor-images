@@ -15,6 +15,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
 
     internal static class DotNetRunner
     {
+        // TODO we get different output for net45 / netcoreapp -- compare both?
         // TODO port UnknownTagHandler from Java
 
         public static async Task RunAsync(string repoRoot)
