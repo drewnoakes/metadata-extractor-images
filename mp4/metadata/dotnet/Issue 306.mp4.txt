@@ -1,5 +1,5 @@
 FILE: Issue 306.mp4
-TYPE: QUICKTIME
+TYPE: MP4
 
 [QuickTime File Type - 0x0001] Major Brand = MSNV
 [QuickTime File Type - 0x0002] Minor Version = 19595376
@@ -49,10 +49,10 @@ TYPE: QUICKTIME
 [QuickTime Track Header - 0x000a] Width = 0
 [QuickTime Track Header - 0x000b] Height = 0
 
-[File Type - 0x0001] Detected File Type Name = QuickTime
-[File Type - 0x0002] Detected File Type Long Name = QuickTime
-[File Type - 0x0003] Detected MIME Type = video/quicktime
-[File Type - 0x0004] Expected File Name Extension = mov
+[File Type - 0x0001] Detected File Type Name = MP4
+[File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+[File Type - 0x0003] Detected MIME Type = video/mp4
+[File Type - 0x0004] Expected File Name Extension = mp4
 
 [File - 0x0001] File Name = Issue 306.mp4
 [File - 0x0002] File Size = 4327588 bytes

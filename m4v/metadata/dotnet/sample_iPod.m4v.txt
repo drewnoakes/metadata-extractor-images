@@ -1,5 +1,5 @@
 FILE: sample_iPod.m4v
-TYPE: QUICKTIME
+TYPE: MP4
 
 [QuickTime File Type - 0x0001] Major Brand = M4V 
 [QuickTime File Type - 0x0002] Minor Version = 1
@@ -49,10 +49,10 @@ TYPE: QUICKTIME
 [QuickTime Track Header - 0x000b] Height = 240
 [QuickTime Track Header - 0x000d] Rotation = 0
 
-[File Type - 0x0001] Detected File Type Name = QuickTime
-[File Type - 0x0002] Detected File Type Long Name = QuickTime
-[File Type - 0x0003] Detected MIME Type = video/quicktime
-[File Type - 0x0004] Expected File Name Extension = mov
+[File Type - 0x0001] Detected File Type Name = MP4
+[File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+[File Type - 0x0003] Detected MIME Type = video/mp4
+[File Type - 0x0004] Expected File Name Extension = mp4
 
 [File - 0x0001] File Name = sample_iPod.m4v
 [File - 0x0002] File Size = 2236480 bytes

@@ -1,6 +1,5 @@
        FILE: Issue 306.mp4
-JAVA   TYPE: MP4
-DOTNET TYPE: QUICKTIME
+       TYPE: MP4
        
 JAVA   [ERROR: MP4] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = MSNV
@@ -78,13 +77,9 @@ DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
 DOTNET [QuickTime Track Header - 0x000a] Width = 0
 DOTNET [QuickTime Track Header - 0x000b] Height = 0
 JAVA   [MP4 Video - 0x00d6] Frame Rate = 25
-       
+JAVA   
 JAVA   [UUID - 0x0385] UUID = 55534d54-21d2-4fce-bb88-695cfac9c740
 JAVA   [UUID - 0x0386] Data = [28 values]
-DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
-DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
        
 JAVA   [MP4 Sound - 0x0065] Creation Time = Thu Nov 16 19:24:56 +11:00 2017
 JAVA   [MP4 Sound - 0x0066] Modification Time = Thu Nov 16 19:25:00 +11:00 2017
@@ -98,11 +93,11 @@ JAVA
 JAVA   [UUID - 0x0385] UUID = 55534d54-21d2-4fce-bb88-695cfac9c740
 JAVA   [UUID - 0x0386] Data = [28 values]
 JAVA   
-JAVA   [File Type - 0x0001] Detected File Type Name = MP4
-JAVA   [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
-JAVA   [File Type - 0x0003] Detected MIME Type = video/mp4
-JAVA   [File Type - 0x0004] Expected File Name Extension = mp4
-JAVA   
+       [File Type - 0x0001] Detected File Type Name = MP4
+       [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+       [File Type - 0x0003] Detected MIME Type = video/mp4
+       [File Type - 0x0004] Expected File Name Extension = mp4
+       
        [File - 0x0001] File Name = Issue 306.mp4
        [File - 0x0002] File Size = 4327588 bytes
        [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>

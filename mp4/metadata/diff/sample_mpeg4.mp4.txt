@@ -1,6 +1,5 @@
        FILE: sample_mpeg4.mp4
-JAVA   TYPE: MP4
-DOTNET TYPE: QUICKTIME
+       TYPE: MP4
        
 JAVA   [ERROR: MP4] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = mp42
@@ -84,14 +83,10 @@ DOTNET [QuickTime Track Header - 0x000a] Width = 190
 DOTNET [QuickTime Track Header - 0x000b] Height = 240
 DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
        
-JAVA   [File Type - 0x0001] Detected File Type Name = MP4
-JAVA   [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
-JAVA   [File Type - 0x0003] Detected MIME Type = video/mp4
-JAVA   [File Type - 0x0004] Expected File Name Extension = mp4
-DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
-DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
+       [File Type - 0x0001] Detected File Type Name = MP4
+       [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+       [File Type - 0x0003] Detected MIME Type = video/mp4
+       [File Type - 0x0004] Expected File Name Extension = mp4
        
        [File - 0x0001] File Name = sample_mpeg4.mp4
        [File - 0x0002] File Size = 245779 bytes
