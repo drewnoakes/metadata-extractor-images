@@ -46,6 +46,8 @@ namespace MetadataExtractor.MediaLibraryProcessor
                     EnableRaisingEvents = true
                 };
 
+                var stopwatch = Stopwatch.StartNew();
+
                 process.Exited += (s, e) => OnExit();
                 process.OutputDataReceived += (s, e) => log.WriteLine(e.Data);
                 process.ErrorDataReceived += (s, e) => log.WriteLine(e.Data);
@@ -62,9 +64,14 @@ namespace MetadataExtractor.MediaLibraryProcessor
                 void OnExit()
                 {
                     if (process.ExitCode == 0)
+                    {
+                        Console.Out.WriteLine($"Java complete in {stopwatch.Elapsed.TotalMilliseconds:#,##0.##} ms");
                         tcs.TrySetResult(null);
+                    }
                     else
+                    {
                         tcs.TrySetException(new Exception($"Java process exited with error code {process.ExitCode}"));
+                    }
                 }
             }
             catch (Exception e)

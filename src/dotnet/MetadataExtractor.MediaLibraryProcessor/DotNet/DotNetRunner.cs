@@ -39,7 +39,9 @@ namespace MetadataExtractor.MediaLibraryProcessor
             foreach (var handler in handlers)
                 handler.OnScanCompleted(log);
 
-            Console.Out.WriteLine("Completed in {0:#,##0.##} ms", stopwatch.Elapsed.TotalMilliseconds);
+            stopwatch.Stop();
+
+            await Console.Out.WriteLineAsync($".NET complete in {stopwatch.Elapsed.TotalMilliseconds:#,##0.##} ms");
         }
 
         private static void ProcessDirectory(string path, IReadOnlyList<IFileHandler> handlers, string relativePath, TextWriter log)
