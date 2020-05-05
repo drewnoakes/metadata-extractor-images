@@ -1,5 +1,5 @@
 FILE: Issue 234 dotnet.mov
-TYPE: MOV
+TYPE: QUICKTIME
 
 [ERROR: QuickTime] End of data reached.
 

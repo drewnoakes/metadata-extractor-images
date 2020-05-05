@@ -1,7 +1,7 @@
        FILE: Issue 234 dotnet.mov
-JAVA   TYPE: MOV
-DOTNET TYPE: QUICKTIME
-DOTNET 
+       TYPE: QUICKTIME
+       
+JAVA   [ERROR: QuickTime] End of data reached.
 DOTNET [ERROR: QuickTime Metadata Header] Unsupported ilist key "com.apple.quicktime.content.identifier"
 DOTNET [ERROR: QuickTime Metadata Header] Unsupported ilist key "com.apple.photos.originating.signature"
 DOTNET 
@@ -25,8 +25,7 @@ DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
 DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
 DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
 DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 5
-       
-JAVA   [ERROR: QuickTime] End of data reached.
+DOTNET 
 DOTNET [QuickTime Track Header - 0x0001] Version = 0
 DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 15
 DOTNET [QuickTime Track Header - 0x0003] Created = Sun Nov 03 18:07:30 2019

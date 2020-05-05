@@ -1,5 +1,5 @@
 FILE: xmp480qt.mov
-TYPE: MOV
+TYPE: QUICKTIME
 
 [ERROR: QuickTime] End of data reached.
 

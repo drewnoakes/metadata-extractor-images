@@ -1,7 +1,7 @@
        FILE: with-gps.mov
-JAVA   TYPE: MOV
-DOTNET TYPE: QUICKTIME
-DOTNET 
+       TYPE: QUICKTIME
+       
+JAVA   [ERROR: QuickTime] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = qt  
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = qt
@@ -22,8 +22,7 @@ DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
 DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
 DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
 DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 5
-       
-JAVA   [ERROR: QuickTime] End of data reached.
+DOTNET 
 DOTNET [QuickTime Track Header - 0x0001] Version = 0
 DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 15
 DOTNET [QuickTime Track Header - 0x0003] Created = Wed Jul 24 08:25:57 2019

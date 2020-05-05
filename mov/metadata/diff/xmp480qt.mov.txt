@@ -1,6 +1,5 @@
        FILE: xmp480qt.mov
-JAVA   TYPE: MOV
-DOTNET TYPE: QUICKTIME
+       TYPE: QUICKTIME
        
 JAVA   [ERROR: QuickTime] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = qt  
@@ -71,13 +70,13 @@ DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
 JAVA   [QuickTime Video - 0x0006] Horizontal Resolution = 72
 JAVA   [QuickTime Video - 0x0007] Vertical Resolution = 72
 JAVA   [QuickTime Video - 0x000e] Frame Rate = 29.97
-JAVA   
-JAVA   [XMP - 0xffff] XMP Value Count = 37
        
-JAVA   [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = QuickTime
-JAVA   [XMPMeta - ] dc:description[1] = Baltic sea timelapse description
+JAVA   [XMP - 0xffff] XMP Value Count = 37
+JAVA   
 DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
 DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+JAVA   [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = QuickTime
+JAVA   [XMPMeta - ] dc:description[1] = Baltic sea timelapse description
 JAVA   [XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
 JAVA   [XMPMeta - ] dc:subject[1] = baltic
 JAVA   [XMPMeta - ] dc:subject[2] = sea

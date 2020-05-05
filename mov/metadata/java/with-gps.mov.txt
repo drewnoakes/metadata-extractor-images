@@ -1,5 +1,5 @@
 FILE: with-gps.mov
-TYPE: MOV
+TYPE: QUICKTIME
 
 [ERROR: QuickTime] End of data reached.
 
