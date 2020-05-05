@@ -1,0 +1,175 @@
+FILE: exif-at-eof.heic
+TYPE: HEIF
+
+[QuickTime File Type - 0x0001] Major Brand = heic
+[QuickTime File Type - 0x0003] Compatible Brands = mif1, miaf, MiHB, heic
+
+[HEIC Primary Item Properties - 0x0018] Color Data Format = prof
+[HEIC Primary Item Properties - 0x0001] Image Width = 3024
+[HEIC Primary Item Properties - 0x0002] Image Height = 4032
+[HEIC Primary Item Properties - 0x0003] Default Rotation = 0 degrees
+[HEIC Primary Item Properties - 0x0004] Pixel Depth in Bits = 8 8 8
+[HEIC Primary Item Properties - 0x0005] HEVC Configuration Version = 1
+[HEIC Primary Item Properties - 0x0006] General Profile Space = 0
+[HEIC Primary Item Properties - 0x0007] General Tier Tag = 0
+[HEIC Primary Item Properties - 0x0008] General Profile = 1
+[HEIC Primary Item Properties - 0x0009] General Profile Compatibility = 1610612736
+[HEIC Primary Item Properties - 0x000a] General Level = 90
+[HEIC Primary Item Properties - 0x000b] Minimum Spacial Segmentation = 0
+[HEIC Primary Item Properties - 0x000c] Parallelism Type = 0
+[HEIC Primary Item Properties - 0x000d] Chroma Format = 1
+[HEIC Primary Item Properties - 0x000e] Luma Bit Depth = 8
+[HEIC Primary Item Properties - 0x000f] Chroma Bit Depth = 8
+[HEIC Primary Item Properties - 0x0010] Average Frame Rate = 0
+[HEIC Primary Item Properties - 0x0011] Constant Frame Rate = 0
+[HEIC Primary Item Properties - 0x0012] Number of Temporal Layers = 1
+[HEIC Primary Item Properties - 0x0013] Length or Size = 4
+
+[ICC Profile - 0x0000] Profile Size = 548
+[ICC Profile - 0x0004] CMM Type = appl
+[ICC Profile - 0x0008] Version = 4.0.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 2017:07:07 13:22:32
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = APPL
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 10
+[ICC Profile - 0x64657363] Profile Description = Display P3
+[ICC Profile - 0x63707274] Copyright = Copyright Apple Inc., 2017
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+[ICC Profile - 0x7258595a] Red Colorant = (0.5151, 0.2412, 65536)
+[ICC Profile - 0x6758595a] Green Colorant = (0.292, 0.6922, 0.0419)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1571, 0.0666, 0.7841)
+[ICC Profile - 0x72545243] Red TRC = para (0x70617261): 32 bytes
+[ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
+[ICC Profile - 0x62545243] Blue TRC = para (0x70617261): 32 bytes
+[ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
+
+[ICC Profile - 0x0000] Profile Size = 548
+[ICC Profile - 0x0004] CMM Type = appl
+[ICC Profile - 0x0008] Version = 4.0.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 2017:07:07 13:22:32
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0030] Device manufacturer = APPL
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 10
+[ICC Profile - 0x64657363] Profile Description = Display P3
+[ICC Profile - 0x63707274] Copyright = Copyright Apple Inc., 2017
+[ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
+[ICC Profile - 0x7258595a] Red Colorant = (0.5151, 0.2412, 65536)
+[ICC Profile - 0x6758595a] Green Colorant = (0.292, 0.6922, 0.0419)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1571, 0.0666, 0.7841)
+[ICC Profile - 0x72545243] Red TRC = para (0x70617261): 32 bytes
+[ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
+[ICC Profile - 0x62545243] Blue TRC = para (0x70617261): 32 bytes
+[ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
+
+[Exif IFD0 - 0x010f] Make = Apple
+[Exif IFD0 - 0x0110] Model = iPhone 11 Pro
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = 13.4.1
+[Exif IFD0 - 0x0132] Date/Time = 2020:05:04 18:39:11
+[Exif IFD0 - 0x0142] Tile Width = 512
+[Exif IFD0 - 0x0143] Tile Length = 512
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/493 sec
+[Exif SubIFD - 0x829d] F-Number = f/1.8
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 32
+[Exif SubIFD - 0x9000] Exif Version = 2.31
+[Exif SubIFD - 0x9003] Date/Time Original = 2020:05:04 18:39:11
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2020:05:04 18:39:11
+[Exif SubIFD - 0x9010] Time Zone = -04:00
+[Exif SubIFD - 0x9011] Time Zone Original = -04:00
+[Exif SubIFD - 0x9012] Time Zone Digitized = -04:00
+[Exif SubIFD - 0x9101] Components Configuration = YCbCr
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/493 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/1.8
+[Exif SubIFD - 0x9203] Brightness Value = 7.982
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 4.3 mm
+[Exif SubIFD - 0x9214] Subject Location = 2002 1505 2213 1324
+[Exif SubIFD - 0x9291] Sub-Sec Time Original = 644
+[Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 644
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = Undefined
+[Exif SubIFD - 0xa002] Exif Image Width = 4032 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3024 pixels
+[Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+[Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa405] Focal Length 35 = 26 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa432] Lens Specification = 807365/524263-6mm f/1.8-2.4
+[Exif SubIFD - 0xa433] Lens Make = Apple
+[Exif SubIFD - 0xa434] Lens Model = iPhone 11 Pro back triple camera 4.25mm f/1.8
+[Exif SubIFD - 0xa460] Unknown tag (0xa460) = 2
+[Exif SubIFD - 0xea1d] Unknown tag (0xea1d) = 0
+
+[Apple Makernote - 0x0001] Unknown tag (0x0001) = 11
+[Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
+[Apple Makernote - 0x0003] Run Time = [104 values]
+[Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
+[Apple Makernote - 0x0005] Unknown tag (0x0005) = 193
+[Apple Makernote - 0x0006] Unknown tag (0x0006) = 195
+[Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+[Apple Makernote - 0x0008] Unknown tag (0x0008) = -14825/148786 -92830/93937 -8373/128539
+[Apple Makernote - 0x000c] Unknown tag (0x000c) = 4665/256 1927/256
+[Apple Makernote - 0x000d] Unknown tag (0x000d) = 26
+[Apple Makernote - 0x000e] Unknown tag (0x000e) = 4
+[Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
+[Apple Makernote - 0x0011] Unknown tag (0x0011) = 1745E022-9712-43C7-B024-F308EC6413CB
+[Apple Makernote - 0x0014] Unknown tag (0x0014) = 10
+[Apple Makernote - 0x0017] Unknown tag (0x0017) = 38805504
+[Apple Makernote - 0x0019] Unknown tag (0x0019) = 2
+[Apple Makernote - 0x001a] Unknown tag (0x001a) = q900n
+[Apple Makernote - 0x001f] Unknown tag (0x001f) = 0
+[Apple Makernote - 0x0020] Unknown tag (0x0020) = F6794B1A-5861-4336-8B35-7FB58575EC05
+[Apple Makernote - 0x0021] Unknown tag (0x0021) = 26218/17989
+[Apple Makernote - 0x0023] Unknown tag (0x0023) = 37 268435513
+[Apple Makernote - 0x0025] Unknown tag (0x0025) = 134
+[Apple Makernote - 0x0026] Unknown tag (0x0026) = 3
+[Apple Makernote - 0x0027] Unknown tag (0x0027) = 290086/5525
+[Apple Makernote - 0x0028] Unknown tag (0x0028) = 1
+[Apple Makernote - 0x002b] Unknown tag (0x002b) = E47F1A3B-80BE-4D49-AE2B-9CD46066969A
+
+[GPS - 0x0001] GPS Latitude Ref = N
+[GPS - 0x0002] GPS Latitude = 47° 12' 25.65"
+[GPS - 0x0003] GPS Longitude Ref = E
+[GPS - 0x0004] GPS Longitude = 106° 14' 35.18"
+
+[File Type - 0x0001] Detected File Type Name = HEIC
+[File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
+[File Type - 0x0003] Detected MIME Type = image/heic
+[File Type - 0x0004] Expected File Name Extension = heic
+
+[File - 0x0001] File Name = exif-at-eof.heic
+[File - 0x0002] File Size = 719479 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- HEIC Primary Item Properties
+    - ICC Profile
+    - ICC Profile
+- Exif IFD0
+    - Exif SubIFD
+        - Apple Makernote
+    - GPS
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
