@@ -15,10 +15,10 @@ namespace MetadataExtractor.MediaLibraryProcessor
             // Get onto a worker thread
             await Task.Yield();
 
-            var mavenRepo = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), ".m2\\repository");
-            var xmpCoreLibraryPath = Path.Combine(mavenRepo, "com\\adobe\\xmp\\xmpcore\\6.0.6\\xmpcore-6.0.6.jar");
+            var mavenRepo = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), @".m2\repository");
+            var xmpCoreLibraryPath = Path.Combine(mavenRepo, @"com\adobe\xmp\xmpcore\6.0.6\xmpcore-6.0.6.jar");
 
-            var javaSrcRoot = Path.GetFullPath(Path.Combine(repoRoot, "..\\metadata-extractor\\Output\\maven\\classes"));
+            var javaSrcRoot = Path.GetFullPath(Path.Combine(repoRoot, @"..\metadata-extractor\Output\maven\classes"));
 
             // TODO write this somewhere sensible
             using var fileStream = File.Open("process-java.log", FileMode.Create);
