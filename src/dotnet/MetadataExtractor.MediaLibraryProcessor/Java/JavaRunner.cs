@@ -49,8 +49,8 @@ namespace MetadataExtractor.MediaLibraryProcessor
                 var stopwatch = Stopwatch.StartNew();
 
                 process.Exited += (s, e) => OnExit();
-                process.OutputDataReceived += (s, e) => log.WriteLine(e.Data);
-                process.ErrorDataReceived += (s, e) => log.WriteLine(e.Data);
+                process.OutputDataReceived += (s, e) => { lock (log) log.WriteLine(e.Data); };
+                process.ErrorDataReceived  += (s, e) => { lock (log) log.WriteLine(e.Data); };
 
                 process.Start();
                 process.BeginOutputReadLine();
