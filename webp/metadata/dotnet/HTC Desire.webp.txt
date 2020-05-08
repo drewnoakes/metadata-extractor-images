@@ -41,6 +41,33 @@ TYPE: WEBP
 [WebP - 0x0002] Image Width = 776
 [WebP - 0x0001] Image Height = 909
 
+[Exif IFD0 - 0x010f] Make = HTC
+[Exif IFD0 - 0x0110] Model = HTC Desire
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 53
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2011:05:06 09:59:48
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2011:05:06 09:59:48
+[Exif SubIFD - 0x920a] Focal Length = 4.3 mm
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 776 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 909 pixels
+
+[GPS - 0x0001] GPS Latitude Ref = N
+[GPS - 0x0002] GPS Latitude = 45° 30' 2.4"
+[GPS - 0x0003] GPS Longitude Ref = E
+[GPS - 0x0004] GPS Longitude = 9° 6' 37.2"
+[GPS - 0x0005] GPS Altitude Ref = Sea level
+[GPS - 0x0006] GPS Altitude = 217 metres
+[GPS - 0x0007] GPS Time-Stamp = 07:59:48.000 UTC
+[GPS - 0x0012] GPS Map Datum = WGS-84
+[GPS - 0x001d] GPS Date Stamp = 2011:05:06
+
 [File Type - 0x0001] Detected File Type Name = WebP
 [File Type - 0x0002] Detected File Type Long Name = WebP
 [File Type - 0x0003] Detected MIME Type = image/webp
@@ -53,6 +80,9 @@ TYPE: WEBP
 - WebP
 - ICC Profile
 - WebP
+- Exif IFD0
+    - Exif SubIFD
+    - GPS
 - File Type
 - File
 

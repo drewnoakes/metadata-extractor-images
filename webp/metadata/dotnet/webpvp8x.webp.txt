@@ -9,6 +9,8 @@ TYPE: WEBP
 [WebP - 0x0002] Image Width = 1440
 [WebP - 0x0001] Image Height = 900
 
+[Exif IFD0 - 0x0131] Software = Picasa
+
 [File Type - 0x0001] Detected File Type Name = WebP
 [File Type - 0x0002] Detected File Type Long Name = WebP
 [File Type - 0x0003] Detected MIME Type = image/webp
@@ -20,6 +22,7 @@ TYPE: WEBP
 
 - WebP
 - WebP
+- Exif IFD0
 - File Type
 - File
 
