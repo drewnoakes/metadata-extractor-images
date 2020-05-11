@@ -1,6 +1,8 @@
 FILE: c-m4-6bfb149151f58d124d6fa76eaad75520.png
 TYPE: PNG
 
+[ERROR: Error] Exception reading PNG chunk: End of data reached.
+
 [PNG-IHDR - 0x0001] Image Width = 16
 [PNG-IHDR - 0x0002] Image Height = 16
 [PNG-IHDR - 0x0003] Bits Per Sample = 1
@@ -30,6 +32,7 @@ TYPE: PNG
 - PNG-PLTE
 - PNG-pHYs
 - PNG-tEXt
+- Error
 - File Type
 - File
 

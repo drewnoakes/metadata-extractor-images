@@ -1,6 +1,8 @@
 FILE: 0b7d50ac449fd59eb3de00647636d0c9.png
 TYPE: PNG
 
+[ERROR: Error] Exception reading PNG chunk: Invalid number of bytes
+
 [PNG-IHDR - 0x0001] Image Width = 32
 [PNG-IHDR - 0x0002] Image Height = 32
 [PNG-IHDR - 0x0003] Bits Per Sample = 8
@@ -22,6 +24,7 @@ TYPE: PNG
 
 - PNG-IHDR
 - PNG-gAMA
+- Error
 - File Type
 - File
 

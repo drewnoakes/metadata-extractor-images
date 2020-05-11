@@ -3,6 +3,7 @@
        
 JAVA   [ERROR: PNG-zTXt] Exception decompressing PNG zTXt chunk with keyword "Software": incorrect data check
        [ERROR: PNG-zTXt] Invalid compression method value
+JAVA   [ERROR: Error] Exception reading PNG chunk: Unexpected end of ZLIB input stream
        
        [PNG-IHDR - 0x0001] Image Width = 55
        [PNG-IHDR - 0x0002] Image Height = 74
@@ -56,12 +57,13 @@ DOTNET [PNG-zTXt - 0x000d] Textual Data = Thumb::URI:
        - PNG Chromaticities
        - PNG-bKGD
        - PNG-pHYs
+       - PNG-zTXt
+       - PNG-zTXt
+       - PNG-zTXt
+       - PNG-zTXt
+       - PNG-zTXt
+JAVA   - Error
 DOTNET - PNG-zTXt
-       - PNG-zTXt
-       - PNG-zTXt
-       - PNG-zTXt
-       - PNG-zTXt
-       - PNG-zTXt
        - File Type
        - File
        

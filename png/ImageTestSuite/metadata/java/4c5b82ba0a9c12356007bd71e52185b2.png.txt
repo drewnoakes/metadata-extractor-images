@@ -1,6 +1,8 @@
 FILE: 4c5b82ba0a9c12356007bd71e52185b2.png
 TYPE: PNG
 
+[ERROR: Error] Exception reading PNG chunk: 0
+
 [PNG-IHDR - 0x0001] Image Width = 212
 [PNG-IHDR - 0x0002] Image Height = 141
 [PNG-IHDR - 0x0003] Bits Per Sample = 8
@@ -43,6 +45,7 @@ TYPE: PNG
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - PNG-IHDR
+- Error
 - XMP
 - PNG-pHYs
 - PNG-tEXt

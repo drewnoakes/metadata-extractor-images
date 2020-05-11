@@ -3,6 +3,7 @@ TYPE: PNG
 
 [ERROR: PNG-zTXt] Exception decompressing PNG zTXt chunk with keyword "Software": incorrect data check
 [ERROR: PNG-zTXt] Invalid compression method value
+[ERROR: Error] Exception reading PNG chunk: Unexpected end of ZLIB input stream
 
 [PNG-IHDR - 0x0001] Image Width = 55
 [PNG-IHDR - 0x0002] Image Height = 74
@@ -57,6 +58,7 @@ TYPE: PNG
 - PNG-zTXt
 - PNG-zTXt
 - PNG-zTXt
+- Error
 - File Type
 - File
 

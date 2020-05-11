@@ -1,6 +1,8 @@
 FILE: m1-814fcedc62fe4e43923c042ff1d6747f.png
 TYPE: PNG
 
+[ERROR: Error] Exception reading PNG chunk: End of data reached.
+
 [PNG-IHDR - 0x0001] Image Width = 81
 [PNG-IHDR - 0x0002] Image Height = 88
 [PNG-IHDR - 0x0003] Bits Per Sample = 16
@@ -24,6 +26,7 @@ TYPE: PNG
 
 - PNG-IHDR
 - PNG-pHYs
+- Error
 - File Type
 - File
 
