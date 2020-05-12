@@ -57,7 +57,7 @@ TYPE: WEBP
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 220
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 218
 [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
-[Apple Makernote - 0x0008] Unknown tag (0x0008) = 382/40773 -2603/3217 -2132/3681
+[Apple Makernote - 0x0008] Acceleration Vector = 0.01g left, 0.81g up, 0.58g backward
 [Apple Makernote - 0x000c] Unknown tag (0x000c) = 4203/256 2025/256
 [Apple Makernote - 0x000d] Unknown tag (0x000d) = 13
 [Apple Makernote - 0x000e] Unknown tag (0x000e) = 0

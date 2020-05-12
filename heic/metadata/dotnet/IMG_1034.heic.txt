@@ -144,7 +144,7 @@ TYPE: HEIF
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 172
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 170
 [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
-[Apple Makernote - 0x0008] Unknown tag (0x0008) = -1085/1163 524/48363 -9136/26097
+[Apple Makernote - 0x0008] Acceleration Vector = 0.93g right, 0.01g down, 0.35g backward
 [Apple Makernote - 0x000c] Unknown tag (0x000c) = 5817/256 2965/64
 [Apple Makernote - 0x000d] Unknown tag (0x000d) = 22
 [Apple Makernote - 0x000e] Unknown tag (0x000e) = 0

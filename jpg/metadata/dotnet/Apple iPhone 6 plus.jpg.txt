@@ -64,7 +64,7 @@ TYPE: JPEG
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 174
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 172
 [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
-[Apple Makernote - 0x0008] Unknown tag (0x0008) = -744/3779 -327/10511 -1928/1979
+[Apple Makernote - 0x0008] Acceleration Vector = 0.20g right, 0.03g up, 0.97g backward
 [Apple Makernote - 0x0009] Unknown tag (0x0009) = 531
 [Apple Makernote - 0x000c] Unknown tag (0x000c) = 39/128 99/256
 [Apple Makernote - 0x000d] Unknown tag (0x000d) = 3

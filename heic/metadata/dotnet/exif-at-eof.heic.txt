@@ -126,12 +126,12 @@ TYPE: HEIF
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 193
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 195
 [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
-[Apple Makernote - 0x0008] Unknown tag (0x0008) = -14825/148786 -92830/93937 -8373/128539
+[Apple Makernote - 0x0008] Acceleration Vector = 0.10g right, 0.99g up, 0.07g backward
 [Apple Makernote - 0x000c] Unknown tag (0x000c) = 4665/256 1927/256
 [Apple Makernote - 0x000d] Unknown tag (0x000d) = 26
 [Apple Makernote - 0x000e] Unknown tag (0x000e) = 4
 [Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
-[Apple Makernote - 0x0011] Unknown tag (0x0011) = 1745E022-9712-43C7-B024-F308EC6413CB
+[Apple Makernote - 0x0011] Burst UUID = 1745E022-9712-43C7-B024-F308EC6413CB
 [Apple Makernote - 0x0014] Unknown tag (0x0014) = 10
 [Apple Makernote - 0x0017] Unknown tag (0x0017) = 38805504
 [Apple Makernote - 0x0019] Unknown tag (0x0019) = 2
