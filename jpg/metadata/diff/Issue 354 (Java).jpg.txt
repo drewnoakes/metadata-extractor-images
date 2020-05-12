@@ -50,8 +50,8 @@ DOTNET [Exif SubIFD - 0x829d] F-Number = f/2.7
        
        [Samsung Makernote - 0x0001] Maker Note Version = 1.00
        [Samsung Makernote - 0x0002] Device Type = Cell Phone
-       [Samsung Makernote - 0x0040] Unknown tag (0x0040) = 0
-       [Samsung Makernote - 0x0050] Unknown tag (0x0050) = 1
+       [Samsung Makernote - 0x0040] Raw Data Byte Order = Little-endian (Intel)
+       [Samsung Makernote - 0x0050] Raw Data CFA Pattern = Swap
        [Samsung Makernote - 0x0100] Face Detect = Off
        
        [Exif Thumbnail - 0x0100] Image Width = 320 pixels

@@ -57,20 +57,20 @@ TYPE: JPEG
 [Samsung Makernote - 0x0003] Model Id = Various Models (0x5001038)
 [Samsung Makernote - 0x0004] Unknown tag (0x0004) = 0 7 0 0 0 4 48 49 48 48 160 1 0 3 0 0
 [Samsung Makernote - 0x000e] Unknown tag (0x000e) = 65537 40962
-[Samsung Makernote - 0x0020] Unknown tag (0x0020) = 0 0
-[Samsung Makernote - 0x0021] Unknown tag (0x0021) = 4 0 1 0 6480
+[Samsung Makernote - 0x0020] Smart Album Color = 0 0
+[Samsung Makernote - 0x0021] Picture Wizard = 4 0 1 0 6480
 [Samsung Makernote - 0x0022] Unknown tag (0x0022) = 65537
 [Samsung Makernote - 0x0023] Unknown tag (0x0023) = 
 [Samsung Makernote - 0x0025] Unknown tag (0x0025) = 0
 [Samsung Makernote - 0x002a] Unknown tag (0x002a) = 0 0 0 0
-[Samsung Makernote - 0x0035] Unknown tag (0x0035) = 1274346903
+[Samsung Makernote - 0x0035] Preview IFD = 1274346903
 [Samsung Makernote - 0x003a] Unknown tag (0x003a) = 0 0
 [Samsung Makernote - 0x003b] Unknown tag (0x003b) = 0 0
 [Samsung Makernote - 0x003c] Unknown tag (0x003c) = 0
 [Samsung Makernote - 0x003d] Unknown tag (0x003d) = 4 0 1 0 4320
 [Samsung Makernote - 0x003e] Unknown tag (0x003e) = 0
-[Samsung Makernote - 0x0041] Unknown tag (0x0041) = 0
-[Samsung Makernote - 0x0040] Unknown tag (0x0040) = 0
+[Samsung Makernote - 0x0041] White Balance Setup = Auto
+[Samsung Makernote - 0x0040] Raw Data Byte Order = Little-endian (Intel)
 [Samsung Makernote - 0x0043] Camera Temperature = -1610285052 C
 [Samsung Makernote - 0x004a] Unknown tag (0x004a) = 48822 2719416323 1 131072 2751594499 1 0
 [Samsung Makernote - 0x001f] Unknown tag (0x001f) = 1
@@ -87,7 +87,7 @@ TYPE: JPEG
 [Samsung Makernote - 0x0140] Unknown tag (0x0140) = 0 0
 [Samsung Makernote - 0xa000] Unknown tag (0xa000) = 0
 [Samsung Makernote - 0xa001] Firmware Name = 
-[Samsung Makernote - 0xa002] Unknown tag (0xa002) = 
+[Samsung Makernote - 0xa002] Serial Number = 
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00

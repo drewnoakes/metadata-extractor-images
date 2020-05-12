@@ -56,7 +56,7 @@ TYPE: JPEG
 [Samsung Makernote - 0x0002] Device Type = Compact Digital Camera
 [Samsung Makernote - 0x0003] Model Id = Various Models (0x3000000)
 [Samsung Makernote - 0x0022] Unknown tag (0x0022) = 65537
-[Samsung Makernote - 0x0030] Unknown tag (0x0030) = 0
+[Samsung Makernote - 0x0030] Local Location Name = 0
 [Samsung Makernote - 0x0031] Unknown tag (0x0031) = 0
 [Samsung Makernote - 0x003f] Unknown tag (0x003f) = 0 0
 [Samsung Makernote - 0x0060] Unknown tag (0x0060) = [6000 values]

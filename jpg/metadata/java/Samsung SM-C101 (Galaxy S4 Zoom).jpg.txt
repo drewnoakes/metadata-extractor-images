@@ -55,8 +55,8 @@ TYPE: JPEG
 [Samsung Makernote - 0x0002] Device Type = Cell Phone
 [Samsung Makernote - 0x000c] Unknown tag (0x000c) = 0
 [Samsung Makernote - 0x0010] Unknown tag (0x0010) = 2/131377
-[Samsung Makernote - 0x0040] Unknown tag (0x0040) = 0
-[Samsung Makernote - 0x0050] Unknown tag (0x0050) = 1
+[Samsung Makernote - 0x0040] Raw Data Byte Order = Little-endian (Intel)
+[Samsung Makernote - 0x0050] Raw Data CFA Pattern = Swap
 [Samsung Makernote - 0x0060] Unknown tag (0x0060) = [20476 values]
 [Samsung Makernote - 0x0100] Face Detect = Off
 
