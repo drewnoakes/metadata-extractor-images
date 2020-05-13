@@ -8,7 +8,7 @@ TYPE: AVI
 [AVI - 0x0003] Duration = 00:00:03
 [AVI - 0x0004] Video Codec = mjpg
 [AVI - 0x0002] Samples Per Second = 44100
-[AVI - 0x0140] Datetime Original = MON SEP 10 20:52:00 2012
+[AVI - 0x0140] Date/Time Original = MON SEP 10 20:52:00 2012
 
 [File Type - 0x0001] Detected File Type Name = AVI
 [File Type - 0x0002] Detected File Type Long Name = Audio Video Interleaved
