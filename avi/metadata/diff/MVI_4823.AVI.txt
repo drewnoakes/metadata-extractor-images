@@ -1,0 +1,29 @@
+       FILE: MVI_4823.AVI
+       TYPE: AVI
+       
+JAVA   [AVI - 0x0006] Width = 640 pixels
+DOTNET EXCEPTION: End of data reached.
+JAVA   [AVI - 0x0007] Height = 480 pixels
+JAVA   [AVI - 0x0008] Stream Count = 2
+JAVA   [AVI - 0x0001] Frames Per Second = 30
+JAVA   [AVI - 0x0003] Duration = 00:00:03
+JAVA   [AVI - 0x0004] Video Codec = mjpg
+JAVA   [AVI - 0x0002] Samples Per Second = 44100
+JAVA   [AVI - 0x0140] Datetime Original = MON SEP 10 20:52:00 2012
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = AVI
+JAVA   [File Type - 0x0002] Detected File Type Long Name = Audio Video Interleaved
+JAVA   [File Type - 0x0003] Detected MIME Type = video/vnd.avi
+JAVA   [File Type - 0x0004] Expected File Name Extension = avi
+JAVA   
+JAVA   [File - 0x0001] File Name = MVI_4823.AVI
+JAVA   [File - 0x0002] File Size = 3137404 bytes
+JAVA   [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+JAVA   
+JAVA   - AVI
+JAVA   - File Type
+JAVA   - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

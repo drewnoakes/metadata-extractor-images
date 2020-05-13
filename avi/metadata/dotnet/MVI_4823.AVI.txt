@@ -1,0 +1,7 @@
+FILE: MVI_4823.AVI
+TYPE: AVI
+
+EXCEPTION: End of data reached.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
