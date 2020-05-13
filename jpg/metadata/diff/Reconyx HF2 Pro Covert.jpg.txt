@@ -38,7 +38,7 @@ DOTNET
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0010] File Number = 1
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0012] Directory Number = 100
 DOTNET [Reconyx HyperFire 2 Makernote - 0x002a] Firmware Version = 1.4a
-DOTNET [Reconyx HyperFire 2 Makernote - 0x0030] Firmware Date = 08/24/2018
+DOTNET [Reconyx HyperFire 2 Makernote - 0x0030] Firmware Date = 24/08/2018
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0034] Trigger Mode = Motion Detection
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0036] Sequence = 1/5
 DOTNET [Reconyx HyperFire 2 Makernote - 0x003a] Event Number = 1

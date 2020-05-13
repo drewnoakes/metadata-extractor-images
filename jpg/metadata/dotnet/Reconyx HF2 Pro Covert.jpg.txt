@@ -37,7 +37,7 @@ TYPE: JPEG
 [Reconyx HyperFire 2 Makernote - 0x0010] File Number = 1
 [Reconyx HyperFire 2 Makernote - 0x0012] Directory Number = 100
 [Reconyx HyperFire 2 Makernote - 0x002a] Firmware Version = 1.4a
-[Reconyx HyperFire 2 Makernote - 0x0030] Firmware Date = 08/24/2018
+[Reconyx HyperFire 2 Makernote - 0x0030] Firmware Date = 24/08/2018
 [Reconyx HyperFire 2 Makernote - 0x0034] Trigger Mode = Motion Detection
 [Reconyx HyperFire 2 Makernote - 0x0036] Sequence = 1/5
 [Reconyx HyperFire 2 Makernote - 0x003a] Event Number = 1
