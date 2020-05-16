@@ -64,6 +64,11 @@ TYPE: JPEG
 [Apple Makernote - 0x000a] HDR Image Type = HDR Image
 [Apple Makernote - 0x000e] Unknown tag (0x000e) = 0
 
+[Apple Run Time - 0x0001] Flags = Valid
+[Apple Run Time - 0x0002] Epoch = 0
+[Apple Run Time - 0x0003] Scale = 1000000000
+[Apple Run Time - 0x0004] Value = 186585 seconds
+
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 51° 45' 44.67"
 [GPS - 0x0003] GPS Longitude Ref = W
@@ -101,6 +106,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
         - Apple Makernote
+            - Apple Run Time
     - GPS
     - Exif Thumbnail
 - Huffman
