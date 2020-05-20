@@ -77,82 +77,87 @@ DOTNET [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
        [ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
        [ICC Profile - 0x62545243] Blue TRC = para (0x70617261): 32 bytes
        [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
-DOTNET 
-DOTNET [Exif IFD0 - 0x010f] Make = Apple
-DOTNET [Exif IFD0 - 0x0110] Model = iPhone 11 Pro
-DOTNET [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-DOTNET [Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
-DOTNET [Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
-DOTNET [Exif IFD0 - 0x0128] Resolution Unit = Inch
-DOTNET [Exif IFD0 - 0x0131] Software = 13.4.1
-DOTNET [Exif IFD0 - 0x0132] Date/Time = 2020:05:04 18:44:06
-DOTNET [Exif IFD0 - 0x0142] Tile Width = 512
-DOTNET [Exif IFD0 - 0x0143] Tile Length = 512
        
-JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
-DOTNET [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
-DOTNET [Exif SubIFD - 0x829d] F-Number = f/1.8
-DOTNET [Exif SubIFD - 0x8822] Exposure Program = Program normal
-DOTNET [Exif SubIFD - 0x8827] ISO Speed Ratings = 80
-DOTNET [Exif SubIFD - 0x9000] Exif Version = 2.31
-DOTNET [Exif SubIFD - 0x9003] Date/Time Original = 2020:05:04 18:44:06
-DOTNET [Exif SubIFD - 0x9004] Date/Time Digitized = 2020:05:04 18:44:06
-DOTNET [Exif SubIFD - 0x9010] Time Zone = -04:00
-DOTNET [Exif SubIFD - 0x9011] Time Zone Original = -04:00
-DOTNET [Exif SubIFD - 0x9012] Time Zone Digitized = -04:00
-DOTNET [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-DOTNET [Exif SubIFD - 0x9201] Shutter Speed Value = 1/60 sec
-DOTNET [Exif SubIFD - 0x9202] Aperture Value = f/1.8
-DOTNET [Exif SubIFD - 0x9203] Brightness Value = 3.413
-DOTNET [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
-DOTNET [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
-DOTNET [Exif SubIFD - 0x9209] Flash = Flash did not fire
-DOTNET [Exif SubIFD - 0x920a] Focal Length = 4.3 mm
-DOTNET [Exif SubIFD - 0x9214] Subject Location = 2002 1505 2213 1324
-DOTNET [Exif SubIFD - 0x9291] Sub-Sec Time Original = 273
-DOTNET [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 273
-DOTNET [Exif SubIFD - 0xa000] FlashPix Version = 1.00
-DOTNET [Exif SubIFD - 0xa001] Color Space = Undefined
-DOTNET [Exif SubIFD - 0xa002] Exif Image Width = 4032 pixels
-DOTNET [Exif SubIFD - 0xa003] Exif Image Height = 3024 pixels
-DOTNET [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
-DOTNET [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
-DOTNET [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
-DOTNET [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
-DOTNET [Exif SubIFD - 0xa405] Focal Length 35 = 26 mm
-DOTNET [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-DOTNET [Exif SubIFD - 0xa432] Lens Specification = 807365/524263-6mm f/1.8-2.4
-DOTNET [Exif SubIFD - 0xa433] Lens Make = Apple
-DOTNET [Exif SubIFD - 0xa434] Lens Model = iPhone 11 Pro back triple camera 4.25mm f/1.8
-DOTNET [Exif SubIFD - 0xa460] Unknown tag (0xa460) = 2
-DOTNET 
-DOTNET [Apple Makernote - 0x0001] Unknown tag (0x0001) = 11
-DOTNET [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-DOTNET [Apple Makernote - 0x0003] Run Time = [104 values]
-DOTNET [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
-DOTNET [Apple Makernote - 0x0005] Unknown tag (0x0005) = 178
-DOTNET [Apple Makernote - 0x0006] Unknown tag (0x0006) = 172
-DOTNET [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
-DOTNET [Apple Makernote - 0x0008] Acceleration Vector = 0.03g right, 0.91g up, 0.41g backward
-DOTNET [Apple Makernote - 0x000c] Unknown tag (0x000c) = 3453/128 1429/256
-DOTNET [Apple Makernote - 0x000d] Unknown tag (0x000d) = 23
-DOTNET [Apple Makernote - 0x000e] Unknown tag (0x000e) = 4
-DOTNET [Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
-DOTNET [Apple Makernote - 0x0011] Burst UUID = ED69AFC7-A2EB-4FE9-88A0-54293FC2478F
-DOTNET [Apple Makernote - 0x0014] Unknown tag (0x0014) = 12
-DOTNET [Apple Makernote - 0x0017] Unknown tag (0x0017) = 38805504
-DOTNET [Apple Makernote - 0x0019] Unknown tag (0x0019) = 8192
-DOTNET [Apple Makernote - 0x001a] Unknown tag (0x001a) = q900n
-DOTNET [Apple Makernote - 0x001f] Unknown tag (0x001f) = 0
-DOTNET [Apple Makernote - 0x0020] Unknown tag (0x0020) = 916F3E80-9ED8-406A-87C2-A52CC826AD6F
-DOTNET [Apple Makernote - 0x0021] Unknown tag (0x0021) = 61663/70241
-DOTNET [Apple Makernote - 0x0023] Unknown tag (0x0023) = 53 268435505
-DOTNET [Apple Makernote - 0x0025] Unknown tag (0x0025) = 4238
-DOTNET [Apple Makernote - 0x0026] Unknown tag (0x0026) = 3
-DOTNET [Apple Makernote - 0x0027] Unknown tag (0x0027) = 264333/6823
-DOTNET [Apple Makernote - 0x002b] Unknown tag (0x002b) = E159E241-A940-41AD-9617-012B219E553F
-DOTNET 
+       [Exif IFD0 - 0x010f] Make = Apple
+       [Exif IFD0 - 0x0110] Model = iPhone 11 Pro
+       [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+       [Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+       [Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       [Exif IFD0 - 0x0131] Software = 13.4.1
+       [Exif IFD0 - 0x0132] Date/Time = 2020:05:04 18:44:06
+       [Exif IFD0 - 0x0142] Tile Width = 512
+       [Exif IFD0 - 0x0143] Tile Length = 512
+       
+       [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
+       [Exif SubIFD - 0x829d] F-Number = f/1.8
+       [Exif SubIFD - 0x8822] Exposure Program = Program normal
+       [Exif SubIFD - 0x8827] ISO Speed Ratings = 80
+       [Exif SubIFD - 0x9000] Exif Version = 2.31
+       [Exif SubIFD - 0x9003] Date/Time Original = 2020:05:04 18:44:06
+       [Exif SubIFD - 0x9004] Date/Time Digitized = 2020:05:04 18:44:06
+       [Exif SubIFD - 0x9010] Time Zone = -04:00
+       [Exif SubIFD - 0x9011] Time Zone Original = -04:00
+       [Exif SubIFD - 0x9012] Time Zone Digitized = -04:00
+       [Exif SubIFD - 0x9101] Components Configuration = YCbCr
+       [Exif SubIFD - 0x9201] Shutter Speed Value = 1/60 sec
+       [Exif SubIFD - 0x9202] Aperture Value = f/1.8
+       [Exif SubIFD - 0x9203] Brightness Value = 3.413
+       [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+       [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+       [Exif SubIFD - 0x9209] Flash = Flash did not fire
+       [Exif SubIFD - 0x920a] Focal Length = 4.3 mm
+       [Exif SubIFD - 0x9214] Subject Location = 2002 1505 2213 1324
+       [Exif SubIFD - 0x9291] Sub-Sec Time Original = 273
+       [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 273
+       [Exif SubIFD - 0xa000] FlashPix Version = 1.00
+       [Exif SubIFD - 0xa001] Color Space = Undefined
+       [Exif SubIFD - 0xa002] Exif Image Width = 4032 pixels
+       [Exif SubIFD - 0xa003] Exif Image Height = 3024 pixels
+       [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+       [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+       [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+       [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+       [Exif SubIFD - 0xa405] Focal Length 35 = 26 mm
+       [Exif SubIFD - 0xa406] Scene Capture Type = Standard
+       [Exif SubIFD - 0xa432] Lens Specification = 807365/524263-6mm f/1.8-2.4
+       [Exif SubIFD - 0xa433] Lens Make = Apple
+       [Exif SubIFD - 0xa434] Lens Model = iPhone 11 Pro back triple camera 4.25mm f/1.8
+       [Exif SubIFD - 0xa460] Unknown tag (0xa460) = 2
+       
+       [Apple Makernote - 0x0001] Unknown tag (0x0001) = 11
+       [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
+       [Apple Makernote - 0x0003] Run Time = [104 values]
+       [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
+       [Apple Makernote - 0x0005] Unknown tag (0x0005) = 178
+       [Apple Makernote - 0x0006] Unknown tag (0x0006) = 172
+       [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+       [Apple Makernote - 0x0008] Acceleration Vector = 0.03g right, 0.91g up, 0.41g backward
+       [Apple Makernote - 0x000c] Unknown tag (0x000c) = 3453/128 1429/256
+       [Apple Makernote - 0x000d] Unknown tag (0x000d) = 23
+       [Apple Makernote - 0x000e] Unknown tag (0x000e) = 4
+       [Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
+       [Apple Makernote - 0x0011] Content Identifier = ED69AFC7-A2EB-4FE9-88A0-54293FC2478F
+       [Apple Makernote - 0x0014] Unknown tag (0x0014) = 12
+       [Apple Makernote - 0x0017] Live Photo ID = 38805504
+       [Apple Makernote - 0x0019] Unknown tag (0x0019) = 8192
+       [Apple Makernote - 0x001a] Unknown tag (0x001a) = q900n
+       [Apple Makernote - 0x001f] Unknown tag (0x001f) = 0
+       [Apple Makernote - 0x0020] Unknown tag (0x0020) = 916F3E80-9ED8-406A-87C2-A52CC826AD6F
+       [Apple Makernote - 0x0021] Unknown tag (0x0021) = 61663/70241
+       [Apple Makernote - 0x0023] Unknown tag (0x0023) = 53 268435505
+       [Apple Makernote - 0x0025] Unknown tag (0x0025) = 4238
+       [Apple Makernote - 0x0026] Unknown tag (0x0026) = 3
+       [Apple Makernote - 0x0027] Unknown tag (0x0027) = 264333/6823
+       [Apple Makernote - 0x002b] Unknown tag (0x002b) = E159E241-A940-41AD-9617-012B219E553F
+       
+JAVA   [Apple Run Time - 0x0001] Flags = Valid
 DOTNET [File Type - 0x0001] Detected File Type Name = HEIC
+JAVA   [Apple Run Time - 0x0002] Epoch = 0
+JAVA   [Apple Run Time - 0x0003] Scale = 1000000000
+JAVA   [Apple Run Time - 0x0004] Value = 208800 seconds
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
        [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 JAVA   [File Type - 0x0003] Detected MIME Type = image/heif
 JAVA   [File Type - 0x0004] Expected File Name Extension = heif
@@ -170,9 +175,10 @@ DOTNET - QuickTime File Type
 DOTNET - HEIC Primary Item Properties
 DOTNET     - ICC Profile
 DOTNET     - ICC Profile
-DOTNET - Exif IFD0
-DOTNET     - Exif SubIFD
-DOTNET         - Apple Makernote
+       - Exif IFD0
+           - Exif SubIFD
+               - Apple Makernote
+JAVA               - Apple Run Time
        - File Type
        - File
        

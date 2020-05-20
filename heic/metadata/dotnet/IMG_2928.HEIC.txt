@@ -130,9 +130,9 @@ TYPE: HEIF
 [Apple Makernote - 0x000d] Unknown tag (0x000d) = 10
 [Apple Makernote - 0x000e] Unknown tag (0x000e) = 4
 [Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
-[Apple Makernote - 0x0011] Burst UUID = 56AA36A8-98DB-496E-B2D0-5749C32EC49B
+[Apple Makernote - 0x0011] Content Identifier = 56AA36A8-98DB-496E-B2D0-5749C32EC49B
 [Apple Makernote - 0x0014] Unknown tag (0x0014) = 10
-[Apple Makernote - 0x0017] Unknown tag (0x0017) = 38805504
+[Apple Makernote - 0x0017] Live Photo ID = 38805504
 [Apple Makernote - 0x0019] Unknown tag (0x0019) = 2
 [Apple Makernote - 0x001a] Unknown tag (0x001a) = q900n
 [Apple Makernote - 0x001f] Unknown tag (0x001f) = 0
