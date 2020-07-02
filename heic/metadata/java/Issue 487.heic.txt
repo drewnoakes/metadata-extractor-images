@@ -1,0 +1,27 @@
+FILE: Issue 487.heic
+TYPE: HEIF
+
+[HEIF - 0x0001] Major Brand = heic
+[HEIF - 0x0002] Minor Version = 0
+[HEIF - 0x0003] Compatible Brands = mif1 heic
+
+[HEIF - 0x0004] Width = 512 pixels
+[HEIF - 0x0005] Height = 512 pixels
+[HEIF - 0x0006] Rotation = 270 degrees
+
+[File Type - 0x0001] Detected File Type Name = HEIF
+[File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
+[File Type - 0x0003] Detected MIME Type = image/heif
+[File Type - 0x0004] Expected File Name Extension = heif
+
+[File - 0x0001] File Name = Issue 487.heic
+[File - 0x0002] File Size = 1622642 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- HEIF
+- HEIF
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

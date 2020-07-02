@@ -1,0 +1,7 @@
+FILE: Issue 487.heic
+TYPE: HEIF
+
+EXCEPTION: n must be zero or greater.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
