@@ -1,7 +1,110 @@
 FILE: Issue 487.heic
 TYPE: HEIF
 
-EXCEPTION: n must be zero or greater.
+[QuickTime File Type - 0x0001] Major Brand = heic
+[QuickTime File Type - 0x0003] Compatible Brands = mif1, heic
+
+[HEIC Primary Item Properties - 0x0001] Image Width = 4032
+[HEIC Primary Item Properties - 0x0002] Image Height = 3024
+[HEIC Primary Item Properties - 0x0003] Default Rotation = 270 degrees
+[HEIC Primary Item Properties - 0x0005] HEVC Configuration Version = 1
+[HEIC Primary Item Properties - 0x0006] General Profile Space = 0
+[HEIC Primary Item Properties - 0x0007] General Tier Tag = 0
+[HEIC Primary Item Properties - 0x0008] General Profile = 1
+[HEIC Primary Item Properties - 0x0009] General Profile Compatibility = 1610612736
+[HEIC Primary Item Properties - 0x000a] General Level = 120
+[HEIC Primary Item Properties - 0x000b] Minimum Spacial Segmentation = 0
+[HEIC Primary Item Properties - 0x000c] Parallelism Type = 0
+[HEIC Primary Item Properties - 0x000d] Chroma Format = 1
+[HEIC Primary Item Properties - 0x000e] Luma Bit Depth = 8
+[HEIC Primary Item Properties - 0x000f] Chroma Bit Depth = 8
+[HEIC Primary Item Properties - 0x0010] Average Frame Rate = 0
+[HEIC Primary Item Properties - 0x0011] Constant Frame Rate = 0
+[HEIC Primary Item Properties - 0x0012] Number of Temporal Layers = 0
+[HEIC Primary Item Properties - 0x0013] Length or Size = 4
+
+[HEIC Thumbnail Properties - 0x0005] HEVC Configuration Version = 1
+[HEIC Thumbnail Properties - 0x0006] General Profile Space = 0
+[HEIC Thumbnail Properties - 0x0007] General Tier Tag = 0
+[HEIC Thumbnail Properties - 0x0008] General Profile = 1
+[HEIC Thumbnail Properties - 0x0009] General Profile Compatibility = 1610612736
+[HEIC Thumbnail Properties - 0x000a] General Level = 120
+[HEIC Thumbnail Properties - 0x000b] Minimum Spacial Segmentation = 0
+[HEIC Thumbnail Properties - 0x000c] Parallelism Type = 0
+[HEIC Thumbnail Properties - 0x000d] Chroma Format = 1
+[HEIC Thumbnail Properties - 0x000e] Luma Bit Depth = 8
+[HEIC Thumbnail Properties - 0x000f] Chroma Bit Depth = 8
+[HEIC Thumbnail Properties - 0x0010] Average Frame Rate = 0
+[HEIC Thumbnail Properties - 0x0011] Constant Frame Rate = 0
+[HEIC Thumbnail Properties - 0x0012] Number of Temporal Layers = 0
+[HEIC Thumbnail Properties - 0x0013] Length or Size = 4
+[HEIC Thumbnail Properties - 0x0001] Image Width = 512
+[HEIC Thumbnail Properties - 0x0002] Image Height = 384
+[HEIC Thumbnail Properties - 0x0003] Default Rotation = 270 degrees
+
+[HEIC Thumbnail Data - 0x0001] Offset From Beginning of File = 1594261
+[HEIC Thumbnail Data - 0x0002] Data Length = 24777
+
+[Exif IFD0 - 0x0100] Image Width = 4032 pixels
+[Exif IFD0 - 0x0101] Image Height = 3024 pixels
+[Exif IFD0 - 0x010f] Make = samsung
+[Exif IFD0 - 0x0110] Model = SM-G975F
+[Exif IFD0 - 0x0112] Orientation = Right side, top (Rotate 90 CW)
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = G975FXXU7CTF1
+[Exif IFD0 - 0x0132] Date/Time = 2020:06:30 11:27:59
+[Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
+[Exif SubIFD - 0x829d] F-Number = f/2.4
+[Exif SubIFD - 0x8822] Exposure Program = Program normal
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 200
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9003] Date/Time Original = 2020:06:30 11:27:59
+[Exif SubIFD - 0x9004] Date/Time Digitized = 2020:06:30 11:27:59
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1 sec
+[Exif SubIFD - 0x9202] Aperture Value = f/2.4
+[Exif SubIFD - 0x9203] Brightness Value = 5.29
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/2.4
+[Exif SubIFD - 0x9207] Metering Mode = Center weighted average
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 4.3 mm
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 4032 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 3024 pixels
+[Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 26 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa420] Unique Image ID = L12XLLD01VM
+
+[GPS - 0x0001] GPS Latitude Ref = 
+[GPS - 0x0002] GPS Latitude = 0° 0' 0"
+[GPS - 0x0003] GPS Longitude Ref = 
+[GPS - 0x0004] GPS Longitude = 0° 0' 0"
+
+[File Type - 0x0001] Detected File Type Name = HEIC
+[File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
+[File Type - 0x0003] Detected MIME Type = image/heic
+[File Type - 0x0004] Expected File Name Extension = heic
+
+[File - 0x0001] File Name = Issue 487.heic
+[File - 0x0002] File Size = 1622642 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- HEIC Primary Item Properties
+- HEIC Thumbnail Properties
+- HEIC Thumbnail Data
+- Exif IFD0
+    - Exif SubIFD
+    - GPS
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

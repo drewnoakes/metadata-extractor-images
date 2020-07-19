@@ -77,6 +77,15 @@ DOTNET [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
        [ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
        [ICC Profile - 0x62545243] Blue TRC = para (0x70617261): 32 bytes
        [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
+DOTNET 
+DOTNET [XMP - 0xffff] XMP Value Count = 6
+DOTNET 
+DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2020-05-04T18:39:11.644
+DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2020-05-04T18:39:11
+DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = 13.4.1
+DOTNET [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CompositeImage = 2
+DOTNET [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2020-05-04T18:39:11.644
+DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b
        
        [Exif IFD0 - 0x010f] Make = Apple
        [Exif IFD0 - 0x0110] Model = iPhone 11 Pro
@@ -152,12 +161,12 @@ DOTNET [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
        [Apple Makernote - 0x0027] Unknown tag (0x0027) = 290086/5525
        [Apple Makernote - 0x0028] Unknown tag (0x0028) = 1
        [Apple Makernote - 0x002b] Unknown tag (0x002b) = E47F1A3B-80BE-4D49-AE2B-9CD46066969A
-       
+JAVA   
 JAVA   [Apple Run Time - 0x0001] Flags = Valid
 JAVA   [Apple Run Time - 0x0002] Epoch = 0
 JAVA   [Apple Run Time - 0x0003] Scale = 1000000000
 JAVA   [Apple Run Time - 0x0004] Value = 208733 seconds
-JAVA   
+       
        [GPS - 0x0001] GPS Latitude Ref = N
        [GPS - 0x0002] GPS Latitude = 47° 12' 25.65"
        [GPS - 0x0003] GPS Longitude Ref = E
@@ -182,6 +191,7 @@ DOTNET - QuickTime File Type
 DOTNET - HEIC Primary Item Properties
 DOTNET     - ICC Profile
 DOTNET     - ICC Profile
+DOTNET - XMP
        - Exif IFD0
            - Exif SubIFD
                - Apple Makernote
