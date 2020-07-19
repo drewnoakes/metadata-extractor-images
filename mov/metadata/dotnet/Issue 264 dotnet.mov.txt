@@ -1,0 +1,106 @@
+FILE: Issue 264 dotnet.mov
+TYPE: QUICKTIME
+
+[QuickTime File Type - 0x0001] Major Brand = qt  
+[QuickTime File Type - 0x0002] Minor Version = 0
+[QuickTime File Type - 0x0003] Compatible Brands = qt
+
+[QuickTime Movie Header - 0x0001] Version = 0
+[QuickTime Movie Header - 0x0002] Flags = 0 0 0
+[QuickTime Movie Header - 0x0003] Created = Sun Jul 05 18:50:12 2020
+[QuickTime Movie Header - 0x0004] Modified = Sun Jul 05 18:50:13 2020
+[QuickTime Movie Header - 0x0005] TrackId = 600
+[QuickTime Movie Header - 0x0006] Duration = 00:00:07.0650000
+[QuickTime Movie Header - 0x0007] Preferred Rate = 1
+[QuickTime Movie Header - 0x0008] Preferred Volume = 1
+[QuickTime Movie Header - 0x0009] Matrix = [36 values]
+[QuickTime Movie Header - 0x000a] Preview Time = 0
+[QuickTime Movie Header - 0x000b] Preview Duration = 0
+[QuickTime Movie Header - 0x000c] Poster Time = 0
+[QuickTime Movie Header - 0x000d] Selection Time = 0
+[QuickTime Movie Header - 0x000e] Selection Duration = 0
+[QuickTime Movie Header - 0x000f] Current Time = 0
+[QuickTime Movie Header - 0x0010] Next Track Id = 5
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Sun Jul 05 18:50:12 2020
+[QuickTime Track Header - 0x0004] Modified = Sun Jul 05 18:50:13 2020
+[QuickTime Track Header - 0x0005] TrackId = 1
+[QuickTime Track Header - 0x0006] Duration = 4239
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 1
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Sun Jul 05 18:50:12 2020
+[QuickTime Track Header - 0x0004] Modified = Sun Jul 05 18:50:13 2020
+[QuickTime Track Header - 0x0005] TrackId = 2
+[QuickTime Track Header - 0x0006] Duration = 4239
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 1920
+[QuickTime Track Header - 0x000b] Height = 1080
+[QuickTime Track Header - 0x000d] Rotation = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Sun Jul 05 18:50:12 2020
+[QuickTime Track Header - 0x0004] Modified = Sun Jul 05 18:50:13 2020
+[QuickTime Track Header - 0x0005] TrackId = 3
+[QuickTime Track Header - 0x0006] Duration = 4239
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 1
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Sun Jul 05 18:50:12 2020
+[QuickTime Track Header - 0x0004] Modified = Sun Jul 05 18:50:13 2020
+[QuickTime Track Header - 0x0005] TrackId = 4
+[QuickTime Track Header - 0x0006] Duration = 4239
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 1
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Metadata Header - 0x000e] GPS Location = +41.4208+002.1742+086.229/
+[QuickTime Metadata Header - 0x0015] Make = Apple
+[QuickTime Metadata Header - 0x0016] Model = iPhone 8
+[QuickTime Metadata Header - 0x0011] Software = 13.5.1
+[QuickTime Metadata Header - 0x0007] Creation Date = 2020-07-05T18:30:43+0200
+[QuickTime Metadata Header - 0x0020] Originating Signature = AZf9VMywQ8AqCEMhfhu4fPHQMmAs
+[QuickTime Metadata Header - 0x0008] Description = Juanjo dándole una patada a un muerto y cediéndole el mando a Núria.
+
+[File Type - 0x0001] Detected File Type Name = QuickTime
+[File Type - 0x0002] Detected File Type Long Name = QuickTime
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = Issue 264 dotnet.mov
+[File - 0x0002] File Size = 13788683 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- QuickTime Movie Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Metadata Header
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
