@@ -20,7 +20,7 @@ TYPE: QUICKTIME
 [QuickTime - 0x010b] Selection Duration = 0
 [QuickTime - 0x010c] Current Time = 0
 [QuickTime - 0x010d] Next Track ID = 5
-[QuickTime - 0x010e] Rotation = 90
+[QuickTime - 0x010e] Rotation = -90
 
 [QuickTime Video - 0x5001] Creation Time = Mon Nov 04 05:07:30 +11:00 2019
 [QuickTime Video - 0x5002] Modification Time = Mon Nov 04 05:07:32 +11:00 2019
