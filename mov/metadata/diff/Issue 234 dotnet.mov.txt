@@ -2,9 +2,6 @@
        TYPE: QUICKTIME
        
 JAVA   [ERROR: QuickTime] End of data reached.
-DOTNET [ERROR: QuickTime Metadata Header] Unsupported ilist key "com.apple.quicktime.content.identifier"
-DOTNET [ERROR: QuickTime Metadata Header] Unsupported ilist key "com.apple.photos.originating.signature"
-DOTNET 
 DOTNET [QuickTime File Type - 0x0001] Major Brand = qt  
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = qt
@@ -125,13 +122,15 @@ JAVA   [QuickTime Metadata - 0x050d] ISO 6709 = +51.3766-001.0553+092.894/
 JAVA   [QuickTime Metadata - 0x051d] Make = Apple
 JAVA   [QuickTime Metadata - 0x051e] Model = iPhone X
 JAVA   [QuickTime Metadata - 0x0510] Software = 11.3
+JAVA   [QuickTime Metadata - 0x0506] Creation Date = 2018-04-06T17:26:41+0100
+JAVA   [QuickTime Metadata - 0x051f] Originating Signature = AScYSr9sFsya/AOi7JlowFc9dMj+
+DOTNET [QuickTime Metadata Header - 0x001f] Content Identifier = C8197FD6-E2CA-4F4E-BCD2-8E18691D2CD6
 DOTNET [QuickTime Metadata Header - 0x000e] GPS Location = +51.3766-001.0553+092.894/
 DOTNET [QuickTime Metadata Header - 0x0015] Make = Apple
 DOTNET [QuickTime Metadata Header - 0x0016] Model = iPhone X
 DOTNET [QuickTime Metadata Header - 0x0011] Software = 11.3
 DOTNET [QuickTime Metadata Header - 0x0007] Creation Date = 2018-04-06T17:26:41+0100
-JAVA   [QuickTime Metadata - 0x0506] Creation Date = 2018-04-06T17:26:41+0100
-JAVA   [QuickTime Metadata - 0x051f] Originating Signature = AScYSr9sFsya/AOi7JlowFc9dMj+
+DOTNET [QuickTime Metadata Header - 0x0020] Originating Signature = AScYSr9sFsya/AOi7JlowFc9dMj+
        
 JAVA   [File Type - 0x0001] Detected File Type Name = MOV
 JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie

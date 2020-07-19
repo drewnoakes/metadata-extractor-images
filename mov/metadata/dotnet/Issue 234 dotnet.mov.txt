@@ -1,9 +1,6 @@
 FILE: Issue 234 dotnet.mov
 TYPE: QUICKTIME
 
-[ERROR: QuickTime Metadata Header] Unsupported ilist key "com.apple.quicktime.content.identifier"
-[ERROR: QuickTime Metadata Header] Unsupported ilist key "com.apple.photos.originating.signature"
-
 [QuickTime File Type - 0x0001] Major Brand = qt  
 [QuickTime File Type - 0x0002] Minor Version = 0
 [QuickTime File Type - 0x0003] Compatible Brands = qt
@@ -78,11 +75,13 @@ TYPE: QUICKTIME
 [QuickTime Track Header - 0x000a] Width = 0
 [QuickTime Track Header - 0x000b] Height = 0
 
+[QuickTime Metadata Header - 0x001f] Content Identifier = C8197FD6-E2CA-4F4E-BCD2-8E18691D2CD6
 [QuickTime Metadata Header - 0x000e] GPS Location = +51.3766-001.0553+092.894/
 [QuickTime Metadata Header - 0x0015] Make = Apple
 [QuickTime Metadata Header - 0x0016] Model = iPhone X
 [QuickTime Metadata Header - 0x0011] Software = 11.3
 [QuickTime Metadata Header - 0x0007] Creation Date = 2018-04-06T17:26:41+0100
+[QuickTime Metadata Header - 0x0020] Originating Signature = AScYSr9sFsya/AOi7JlowFc9dMj+
 
 [File Type - 0x0001] Detected File Type Name = QuickTime
 [File Type - 0x0002] Detected File Type Long Name = QuickTime
