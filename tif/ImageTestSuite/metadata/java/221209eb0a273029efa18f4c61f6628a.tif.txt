@@ -53,7 +53,7 @@ TYPE: TIFF
 [ICC Profile - 0x64657363] Profile Description = Color LCD
 [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = 2 enUS(Color LCD) esES(LCD color)
 [ICC Profile - 0x6d6d6f64] Make And Model = mmod (0x6D6D6F64): 40 bytes
-[ICC Profile - 0x63707274] Copyright = Copyright Apple, Inc., 2008
+[ICC Profile - 0x63707274] Profile Copyright = Copyright Apple, Inc., 2008
 
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format

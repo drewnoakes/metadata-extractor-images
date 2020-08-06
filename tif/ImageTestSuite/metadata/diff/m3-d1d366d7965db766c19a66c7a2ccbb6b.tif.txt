@@ -44,7 +44,7 @@
        [ICC Profile - 0x64657363] Profile Description = Color LCD
 JAVA   [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = ERROR: String index out of range: 8716646
 JAVA   [ICC Profile - 0x6d6d6f64] Make And Model = mmod (0x6D6D6F64): 40 bytes
-JAVA   [ICC Profile - 0x63707274] Copyright = Cop�right Apple Compu�er, Inc., 2005
+JAVA   [ICC Profile - 0x63707274] Profile Copyright = Cop�right Apple Compu�er, Inc., 2005
 JAVA   
 JAVA   [File Type - 0x0001] Detected File Type Name = TIFF
 JAVA   [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format

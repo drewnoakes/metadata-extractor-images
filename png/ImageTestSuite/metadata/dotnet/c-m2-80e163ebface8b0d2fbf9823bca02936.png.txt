@@ -26,7 +26,7 @@ TYPE: PNG
 [ICC Profile - 0x0040] Rendering Intent = Media-Relative Colorimetric
 [ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
 [ICC Profile - 0x0080] Tag Count = 5
-[ICC Profile - 0x63707274] Copyright = Copyright 1999 Adobe Systems Incorporated
+[ICC Profile - 0x63707274] Profile Copyright = Copyright 1999 Adobe Systems Incorporated
 [ICC Profile - 0x64657363] Profile Description = Dot Gain 20%
 [ICC Profile - 0x77747074] Media White Point = (0.9642, 1, 0.8249)
 [ICC Profile - 0x626b7074] Media Black Point = (0, 0, 0)

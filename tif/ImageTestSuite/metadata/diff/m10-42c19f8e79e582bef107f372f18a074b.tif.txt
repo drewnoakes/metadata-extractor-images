@@ -56,7 +56,7 @@ DOTNET [ICC Profile - 0x6758595a] Green Colorant = (0.4358, 52736.7, 0.0974)
        [ICC Profile - 0x64657363] Profile Description = Color LCD
 JAVA   [ICC Profile - 0x6473638d] Unknown tag (0x6473638d) = ERROR: String index out of range: 20380
 JAVA   [ICC Profile - 0x6d6d6f64] Make And Model = mmod (0x6D6D6F64): 40 bytes
-JAVA   [ICC Profile - 0x63707274] Copyright = Copyright Epple, Inc., 2008
+JAVA   [ICC Profile - 0x63707274] Profile Copyright = Copyright Epple, Inc., 2008
 JAVA   
 JAVA   [File Type - 0x0001] Detected File Type Name = TIFF
 JAVA   [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format

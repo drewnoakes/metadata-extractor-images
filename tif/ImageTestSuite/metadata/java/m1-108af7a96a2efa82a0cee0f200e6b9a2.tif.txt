@@ -46,7 +46,7 @@ TYPE: TIFF
 [ICC Profile - 0x67545243] Green TRC = 0.0085908
 [ICC Profile - 0x62545243] Blue TRC = 0.0085908
 [ICC Profile - 0x64657363] Profile Description = Camera RGB Profile
-[ICC Profile - 0x63707274] Copyright = Copyright 2003 Apple Computer Inc., all rights reserved.
+[ICC Profile - 0x63707274] Profile Copyright = Copyright 2003 Apple Computer Inc., all rights reserved.
 [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = 15 enUS(Camera RGB Pro呦ile) esES(Perfil RGB para Cámara) daDK(RGB-beskrivelse til Kamera) deDE(RGB-Profil für Kameras) fiFI(Kameran RGB-profiili) frFU(Profil RVB de l’appareil-photo) itIT(Profilo RGB Fotoc瑡mera) nlNL(RGB-profiel Camera) noNO(RGB-kameraprofil) ptBR(Perfil RGB de Câmera) svSE(RGB-profil för Kamera) jaJP(カメラ RGB プロファイル) koKR(카메라 RGB 프로파일) zhTW(數位相機 RGB 色彩描述) zhCN(相机 RGB 描述文件)
 
 [Exif SubIFD - 0x829a] Exposure Time = 5/26 sec

@@ -27,7 +27,7 @@ TYPE: PNG
 [ICC Profile - 0x42324130] BToA 0 = mft2 (0x6D667432): 291144 bytes
 [ICC Profile - 0x42324131] BToA 1 = mft2 (0x6D667432): 291144 bytes
 [ICC Profile - 0x42324132] BToA 2 = mft2 (0x6D667432): 291144 bytes
-[ICC Profile - 0x63707274] Copyright = Copyright 2005 Adobe Systems Incorporated
+[ICC Profile - 0x63707274] Profile Copyright = Copyright 2005 Adobe Systems Incorporated
 [ICC Profile - 0x64657363] Profile Description = SWOP (Newsprint), 30%, GCR, Medium
 [ICC Profile - 0x67616d74] Gamut = mft1 (0x6D667431): 37009 bytes
 [ICC Profile - 0x77747074] Media White Point = (0.9642, 1, 0.8249)

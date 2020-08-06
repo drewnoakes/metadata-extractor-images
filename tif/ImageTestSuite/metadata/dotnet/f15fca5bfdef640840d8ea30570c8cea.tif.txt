@@ -384,7 +384,7 @@ TYPE: TIFF
 [ICC Profile - 0x64657363] Profile Description = Color LCD
 [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = 16 itIT(LCD colori) frFR(Écran à cristaux liquides couleur) nbNO(Farge-LCD) esES(LCD color) fiFI(Väri-LCD) ptPT(LCD colorido) zhTW(彩色液晶顯示器) jaJP(カラー LCD) nlNL(Kleuren-LCD) deDE(Farb-LCD) ruRU(Цветной ЖК-дисплей) koKR(컬러 LCD) enUS(Color LCD) svSE(Färg-LCD) daDK(LCD-farveskærm) zhCN(彩色 LCD)
 [ICC Profile - 0x6d6d6f64] Make And Model = mmod (0x6D6D6F64): 40 bytes
-[ICC Profile - 0x63707274] Copyright = Copyright Apple Computer, Inc., 2005
+[ICC Profile - 0x63707274] Profile Copyright = Copyright Apple Computer, Inc., 2005
 
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format

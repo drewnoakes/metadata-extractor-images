@@ -38,7 +38,7 @@ TYPE: HEIF
 [ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
 [ICC Profile - 0x0080] Tag Count = 10
 [ICC Profile - 0x64657363] Profile Description = Display P3
-[ICC Profile - 0x63707274] Copyright = Copyright Apple Inc., 2017
+[ICC Profile - 0x63707274] Profile Copyright = Copyright Apple Inc., 2017
 [ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
 [ICC Profile - 0x7258595a] Red Colorant = (0.5151, 0.2412, 65536)
 [ICC Profile - 0x6758595a] Green Colorant = (0.292, 0.6922, 0.0419)
@@ -61,7 +61,7 @@ TYPE: HEIF
 [ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
 [ICC Profile - 0x0080] Tag Count = 10
 [ICC Profile - 0x64657363] Profile Description = Display P3
-[ICC Profile - 0x63707274] Copyright = Copyright Apple Inc., 2017
+[ICC Profile - 0x63707274] Profile Copyright = Copyright Apple Inc., 2017
 [ICC Profile - 0x77747074] Media White Point = (0.9505, 1, 1.0891)
 [ICC Profile - 0x7258595a] Red Colorant = (0.5151, 0.2412, 65536)
 [ICC Profile - 0x6758595a] Green Colorant = (0.292, 0.6922, 0.0419)

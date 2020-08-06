@@ -22,7 +22,7 @@ TYPE: PNG
 [ICC Profile - 0x0030] Device manufacturer = none
 [ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
 [ICC Profile - 0x0080] Tag Count = 10
-[ICC Profile - 0x63707274] Copyright = (c) 2000 Adobe Systems Inc.
+[ICC Profile - 0x63707274] Profile Copyright = (c) 2000 Adobe Systems Inc.
 [ICC Profile - 0x64657363] Profile Description = ntsc
 [ICC Profile - 0x77747074] Media White Point = (0.9807, 1, 1.1819)
 [ICC Profile - 0x626b7074] Media Black Point = (0, 0, 0)
