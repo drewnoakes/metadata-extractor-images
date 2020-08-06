@@ -1,7 +1,9 @@
        FILE: sample_3GPP2.3g2
-JAVA   TYPE: UNKNOWN
-DOTNET TYPE: QUICKTIME
-DOTNET 
+       TYPE: QUICKTIME
+       
+JAVA   [ERROR: QuickTime] End of data reached.
+JAVA   [ERROR: QuickTime] End of data reached.
+JAVA   [ERROR: QuickTime] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = 3g2a
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 65536
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = 3g2a, mp42
@@ -35,7 +37,20 @@ DOTNET [QuickTime Track Header - 0x0009] Volume = 1
 DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
 DOTNET [QuickTime Track Header - 0x000a] Width = 0
 DOTNET [QuickTime Track Header - 0x000b] Height = 0
-DOTNET 
+       
+JAVA   [QuickTime - 0x1000] Major Brand = 3GPP2 Media (.3G2) compliant with 3GPP2 C.S0050-0 V1.0
+JAVA   [QuickTime - 0x1001] Minor Version = 65536
+JAVA   [QuickTime - 0x1002] Compatible Brands = [3GPP2 Media (.3G2) compliant with 3GPP2 C.S0050-0 V1.0, MP4 v2 [ISO 14496-14]]
+JAVA   [QuickTime - 0x0100] Creation Time = Sat Oct 29 03:49:35 +10:00 2005
+JAVA   [QuickTime - 0x0101] Modification Time = Sat Oct 29 03:49:35 +10:00 2005
+JAVA   [QuickTime - 0x0103] Duration = 2960
+JAVA   [QuickTime - 0x0102] Media Time Scale = 600
+JAVA   [QuickTime - 0x0104] Duration in Seconds = 00:00:05
+JAVA   [QuickTime - 0x0105] Preferred Rate = 1
+JAVA   [QuickTime - 0x0106] Preferred Volume = 1
+JAVA   [QuickTime - 0x0107] Preview Time = 0
+JAVA   [QuickTime - 0x0108] Preview Duration = 0
+JAVA   [QuickTime - 0x0109] Poster Time = 0
 DOTNET [QuickTime Track Header - 0x0001] Version = 0
 DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 1
 DOTNET [QuickTime Track Header - 0x0003] Created = Fri Oct 28 17:49:35 2005
@@ -49,23 +64,30 @@ DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
 DOTNET [QuickTime Track Header - 0x000a] Width = 176
 DOTNET [QuickTime Track Header - 0x000b] Height = 144
 DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
-DOTNET 
+JAVA   [QuickTime - 0x010a] Selection Time = 0
+JAVA   [QuickTime - 0x010b] Selection Duration = 0
+JAVA   [QuickTime - 0x010c] Current Time = 0
+JAVA   [QuickTime - 0x010d] Next Track ID = 3
+JAVA   [QuickTime - 0x010e] Rotation = 0
+       
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
 DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
 DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
        
-JAVA   EXCEPTION: File format could not be determined
-DOTNET [File - 0x0001] File Name = sample_3GPP2.3g2
-DOTNET [File - 0x0002] File Size = 28561 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+       [File - 0x0001] File Name = sample_3GPP2.3g2
+       [File - 0x0002] File Size = 28561 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
 DOTNET - QuickTime File Type
 DOTNET - QuickTime Movie Header
 DOTNET - QuickTime Track Header
 DOTNET - QuickTime Track Header
-DOTNET - File Type
-DOTNET - File
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/
