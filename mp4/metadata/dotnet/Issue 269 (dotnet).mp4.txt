@@ -1,0 +1,69 @@
+FILE: Issue 269 (dotnet).mp4
+TYPE: MP4
+
+[QuickTime File Type - 0x0001] Major Brand = mp42
+[QuickTime File Type - 0x0002] Minor Version = 0
+[QuickTime File Type - 0x0003] Compatible Brands = isom, mp42
+
+[QuickTime Movie Header - 0x0001] Version = 1
+[QuickTime Movie Header - 0x0002] Flags = 0 0 0
+[QuickTime Movie Header - 0x0003] Created = Fri Jan 01 00:04:40 1904
+[QuickTime Movie Header - 0x0004] Modified = Thu Feb 18 15:58:04 1988
+[QuickTime Movie Header - 0x0005] TrackId = 0
+[QuickTime Movie Header - 0x0006] Duration = 41239.01:07:53
+[QuickTime Movie Header - 0x0007] Preferred Rate = 0.0091554131380178530556191348
+[QuickTime Movie Header - 0x0008] Preferred Volume = 0
+[QuickTime Movie Header - 0x0009] Matrix = [36 values]
+[QuickTime Movie Header - 0x000a] Preview Time = 0
+[QuickTime Movie Header - 0x000b] Preview Duration = 0
+[QuickTime Movie Header - 0x000c] Poster Time = 1073741824
+[QuickTime Movie Header - 0x000d] Selection Time = 0
+[QuickTime Movie Header - 0x000e] Selection Duration = 0
+[QuickTime Movie Header - 0x000f] Current Time = 0
+[QuickTime Movie Header - 0x0010] Next Track Id = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
+[QuickTime Track Header - 0x0004] Modified = Sun Nov 27 01:07:54 2016
+[QuickTime Track Header - 0x0005] TrackId = 1
+[QuickTime Track Header - 0x0006] Duration = 5600
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 1080
+[QuickTime Track Header - 0x000b] Height = 1920
+[QuickTime Track Header - 0x000d] Rotation = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 1
+[QuickTime Track Header - 0x0003] Created = Sun Nov 27 01:07:53 2016
+[QuickTime Track Header - 0x0004] Modified = Sun Nov 27 01:07:54 2016
+[QuickTime Track Header - 0x0005] TrackId = 2
+[QuickTime Track Header - 0x0006] Duration = 5628
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 1
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[File Type - 0x0001] Detected File Type Name = MP4
+[File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+[File Type - 0x0003] Detected MIME Type = video/mp4
+[File Type - 0x0004] Expected File Name Extension = mp4
+
+[File - 0x0001] File Name = Issue 269 (dotnet).mp4
+[File - 0x0002] File Size = 9574884 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- QuickTime Movie Header
+- QuickTime Track Header
+- QuickTime Track Header
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
