@@ -1,0 +1,40 @@
+FILE: VTech Kidizoom camera.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1920 pixels
+[JPEG - 0x0003] Image Width = 2560 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JpegComment - 0x0000] JPEG Comment = GPEncoder
+
+[Exif IFD0 - 0x010f] Make = VTech
+[Exif IFD0 - 0x0110] Model = Kidizoom camera
+
+[Exif SubIFD - 0x9003] Date/Time Original = 2020:08:27 11:57:26
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = VTech Kidizoom camera.jpg
+[File - 0x0002] File Size = 1624286 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JpegComment
+- Exif IFD0
+    - Exif SubIFD
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
