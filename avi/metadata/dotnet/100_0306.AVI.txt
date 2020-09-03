@@ -1,0 +1,26 @@
+FILE: 100_0306.AVI
+TYPE: AVI
+
+[AVI - 0x0006] Width = 320 pixels
+[AVI - 0x0007] Height = 240 pixels
+[AVI - 0x0008] Stream Count = 2
+[AVI - 0x0001] Frames Per Second = 15
+[AVI - 0x0003] Duration = 00:00:03
+[AVI - 0x0004] Video Codec = SPMP
+[AVI - 0x0002] Samples Per Second = 22050
+
+[File Type - 0x0001] Detected File Type Name = AVI
+[File Type - 0x0002] Detected File Type Long Name = Audio Video Interleaved
+[File Type - 0x0003] Detected MIME Type = video/vnd.avi
+[File Type - 0x0004] Expected File Name Extension = avi
+
+[File - 0x0001] File Name = 100_0306.AVI
+[File - 0x0002] File Size = 932454 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- AVI
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
