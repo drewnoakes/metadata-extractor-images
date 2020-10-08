@@ -36,7 +36,6 @@ TYPE: JPEG
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 4.3 mm
-[Exif SubIFD - 0x927c] Makernote = [98 values]
 [Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0x9290] Sub-Sec Time = 0474
 [Exif SubIFD - 0x9291] Sub-Sec Time Original = 0474
@@ -51,6 +50,14 @@ TYPE: JPEG
 [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 [Exif SubIFD - 0xa420] Unique Image ID = G12LLKA01VM G12LLKG06GM
 
+
+[Samsung Makernote - 0x0001] Maker Note Version = 1.00
+[Samsung Makernote - 0x0002] Device Type = Cell Phone
+[Samsung Makernote - 0x000c] Unknown tag (0x000c) = 0
+[Samsung Makernote - 0x0010] Unknown tag (0x0010) = 90/65689
+[Samsung Makernote - 0x0040] Raw Data Byte Order = Little-endian (Intel)
+[Samsung Makernote - 0x0050] Raw Data CFA Pattern = Swap
+[Samsung Makernote - 0x0100] Face Detect = Off
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -89,6 +96,7 @@ TYPE: JPEG
 - JPEG
 - Exif IFD0
     - Exif SubIFD
+        - Samsung Makernote
         - Interoperability
     - GPS
     - Exif Thumbnail
