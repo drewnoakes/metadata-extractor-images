@@ -1,63 +1,58 @@
 FILE: ftyp3gp5.mp4
-TYPE: QUICKTIME
+TYPE: MP4
 
-[ERROR: QuickTime] End of data reached.
+[ERROR: MP4] End of data reached.
 
-[QuickTime - 0x1000] Major Brand = 3GPP Media (.3GP) Release 5
-[QuickTime - 0x1001] Minor Version = 0
-[QuickTime - 0x1002] Compatible Brands = [3GPP Media (.3GP) Release 5, MP4  Base Media v1 [IS0 14496-12:2003]]
-[QuickTime - 0x0100] Creation Time = Sat Oct 24 07:27:29 +11:00 2020
-[QuickTime - 0x0101] Modification Time = Sat Oct 24 07:27:29 +11:00 2020
-[QuickTime - 0x0103] Duration = 1300
-[QuickTime - 0x0102] Media Time Scale = 1000
-[QuickTime - 0x0104] Duration in Seconds = 00:00:02
-[QuickTime - 0x0105] Preferred Rate = 1
-[QuickTime - 0x0106] Preferred Volume = 1
-[QuickTime - 0x0107] Preview Time = 0
-[QuickTime - 0x0108] Preview Duration = 0
-[QuickTime - 0x0109] Poster Time = 0
-[QuickTime - 0x010a] Selection Time = 0
-[QuickTime - 0x010b] Selection Duration = 0
-[QuickTime - 0x010c] Current Time = 0
-[QuickTime - 0x010d] Next Track ID = 65738
-[QuickTime - 0x010e] Rotation = -90
+[MP4 - 0x0001] Major Brand = 3GPP Media (.3GP) Release 5
+[MP4 - 0x0002] Minor Version = 0
+[MP4 - 0x0003] Compatible Brands = [3GPP Media (.3GP) Release 5, MP4  Base Media v1 [IS0 14496-12:2003]]
+[MP4 - 0x0100] Creation Time = Sat Oct 24 07:27:29 AEDT 2020
+[MP4 - 0x0101] Modification Time = Sat Oct 24 07:27:29 AEDT 2020
+[MP4 - 0x0103] Duration = 1300
+[MP4 - 0x0102] Media Time Scale = 1000
+[MP4 - 0x0104] Duration in Seconds = 00:00:02
+[MP4 - 0x010f] Transformation Matrix = 65536 0 0 0 65536 0 0 0 1073741824
+[MP4 - 0x0105] Preferred Rate = 1
+[MP4 - 0x0106] Preferred Volume = 1
+[MP4 - 0x010e] Next Track ID = 65738
+[MP4 - 0x0200] Rotation = 90
+[MP4 - 0x2001] Latitude = 0
+[MP4 - 0x2002] Longitude = 0
 
-[QuickTime Video - 0x5001] Creation Time = Sat Oct 24 07:27:29 +11:00 2020
-[QuickTime Video - 0x5002] Modification Time = Sat Oct 24 07:27:29 +11:00 2020
-[QuickTime Video - 0x000c] Opcolor = 0 0 0
-[QuickTime Video - 0x000b] Graphics Mode = Copy
-[QuickTime Video - 0x0001] Vendor = Unknown
-[QuickTime Video - 0x000a] Compression Type = H.264
-[QuickTime Video - 0x0002] Temporal Quality = 0
-[QuickTime Video - 0x0003] Spatial Quality = 0
-[QuickTime Video - 0x0004] Width = 1280 pixels
-[QuickTime Video - 0x0005] Height = 720 pixels
-[QuickTime Video - 0x0009] Depth = 24-bit color
-[QuickTime Video - 0x000d] Color Table = None
-[QuickTime Video - 0x0006] Horizontal Resolution = 72
-[QuickTime Video - 0x0007] Vertical Resolution = 72
-[QuickTime Video - 0x000e] Frame Rate = 30.303
+[MP4 Video - 0x0065] Creation Time = Sat Oct 24 07:27:29 +11:00 2020
+[MP4 Video - 0x0066] Modification Time = Sat Oct 24 07:27:29 +11:00 2020
+[MP4 Video - 0x0068] ISO 639-2 Language Code = und
+[MP4 Video - 0x00d4] Opcolor = 0 0 0
+[MP4 Video - 0x00d3] Graphics Mode = Copy
+[MP4 Video - 0x00d2] Compression Type = H.264
+[MP4 Video - 0x00cc] Width = 1280 pixels
+[MP4 Video - 0x00cd] Height = 720 pixels
+[MP4 Video - 0x00d1] Depth = 24-bit color
+[MP4 Video - 0x00ce] Horizontal Resolution = 72
+[MP4 Video - 0x00cf] Vertical Resolution = 72
+[MP4 Video - 0x00d6] Frame Rate = 30
 
-[QuickTime Sound - 0x5001] Creation Time = Sat Oct 24 07:27:29 +11:00 2020
-[QuickTime Sound - 0x5002] Modification Time = Sat Oct 24 07:27:29 +11:00 2020
-[QuickTime Sound - 0x0305] Balance = 0
-[QuickTime Sound - 0x0301] Format = MPEG-4, Advanced Audio Coding (AAC)
-[QuickTime Sound - 0x0302] Number of Channels = 2
-[QuickTime Sound - 0x0303] Sample Size = 16
-[QuickTime Sound - 0x0304] Sample Rate = 48000
+[MP4 Sound - 0x0065] Creation Time = Sat Oct 24 07:27:29 +11:00 2020
+[MP4 Sound - 0x0066] Modification Time = Sat Oct 24 07:27:29 +11:00 2020
+[MP4 Sound - 0x0068] ISO 639-2 Language Code = und
+[MP4 Sound - 0x0131] Balance = 0
+[MP4 Sound - 0x012d] Format = MPEG-4, Advanced Audio Coding (AAC)
+[MP4 Sound - 0x012e] Number of Channels = 2
+[MP4 Sound - 0x012f] Sample Size = 16
+[MP4 Sound - 0x0130] Sample Rate = 48000
 
-[File Type - 0x0001] Detected File Type Name = MOV
-[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
-[File Type - 0x0003] Detected MIME Type = video/quicktime
-[File Type - 0x0004] Expected File Name Extension = mov
+[File Type - 0x0001] Detected File Type Name = MP4
+[File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+[File Type - 0x0003] Detected MIME Type = video/mp4
+[File Type - 0x0004] Expected File Name Extension = mp4
 
 [File - 0x0001] File Name = ftyp3gp5.mp4
 [File - 0x0002] File Size = 1372726 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
-- QuickTime
-- QuickTime Video
-- QuickTime Sound
+- MP4
+- MP4 Video
+- MP4 Sound
 - File Type
 - File
 
