@@ -1,0 +1,69 @@
+FILE: Issue 173 (dotnet).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 2013 pixels
+[JPEG - 0x0003] Image Width = 1017 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 96 dots
+[JFIF - 0x000a] Y Resolution = 96 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif SubIFD - 0x9000] Exif Version = 2.20
+[Exif SubIFD - 0x9286] User Comment = Set: 1242 
+FrameID: 590 
+Route: US131OLD 
+Direction: INCREASING MILEAGE DIR. 
+Mile Point: 0.241 
+Latitude: 43.68739354 
+Longitude: -85.48351891 
+Date: 08/26/2018 
+Camera: D 
+CS: 54012 
+LOCID: 0054012NNN0�
+
+[GPS - 0x0000] GPS Version ID = 2.300
+[GPS - 0x0001] GPS Latitude Ref = N
+[GPS - 0x0002] GPS Latitude = 43° 41' 14.62"
+[GPS - 0x0003] GPS Longitude Ref = W
+[GPS - 0x0004] GPS Longitude = -85° 29' 0.67"
+[GPS - 0x0005] GPS Altitude Ref = Below sea level
+[GPS - 0x0006] GPS Altitude = 848 metres
+[GPS - 0x0007] GPS Time-Stamp = 00:00:00.000 UTC
+[GPS - 0x0008] GPS Satellites = 00
+[GPS - 0x000c] GPS Speed Ref = km/h
+[GPS - 0x000d] GPS Speed = 0 km/h
+[GPS - 0x000e] GPS Track Ref = True direction
+[GPS - 0x000f] GPS Track = 0 degrees
+[GPS - 0x001d] GPS Date Stamp = 0000:00:00
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Issue 173 (dotnet).jpg
+[File - 0x0002] File Size = 226393 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+    - GPS
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
