@@ -31,7 +31,7 @@ TYPE: JPEG
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x9211] Image Number = 1177
 [Exif SubIFD - 0x927c] Makernote = [1424 values]
-[Exif SubIFD - 0x9286] User Comment = ASCII
+[Exif SubIFD - 0x9286] User Comment = 
 [Exif SubIFD - 0xa002] Exif Image Width = 2048 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 1536 pixels
 

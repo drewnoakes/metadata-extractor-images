@@ -28,7 +28,7 @@ Longitude: -85.48351891
 Date: 08/26/2018 
 Camera: D 
 CS: 54012 
-LOCID: 0054012NNN0�
+LOCID: 0054012NNN01
 
 [GPS - 0x0000] GPS Version ID = 2.300
 [GPS - 0x0001] GPS Latitude Ref = N
