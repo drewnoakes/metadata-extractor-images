@@ -134,7 +134,7 @@ TYPE: ARW
 [Sony Makernote - 0x0104] Flash Exposure Compensation = 0 EV
 [Sony Makernote - 0x0112] White Balance Fine Tune Value = 0
 [Sony Makernote - 0x0115] White Balance = Auto
-[Sony Makernote - 0xb001] Sony Model ID = Unknown (363)
+[Sony Makernote - 0xb001] Sony Model ID = ILCE-7M3
 [Sony Makernote - 0x200b] Multi Frame Noise Reduction = 0
 [Sony Makernote - 0x200e] Picture Effect = Off
 [Sony Makernote - 0x200f] Soft Skin Effect = Off
