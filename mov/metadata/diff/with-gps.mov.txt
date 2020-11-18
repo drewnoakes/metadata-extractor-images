@@ -126,7 +126,7 @@ DOTNET [QuickTime Metadata Header - 0x000e] GPS Location = +32.0929+034.8620+028
 DOTNET [QuickTime Metadata Header - 0x0015] Make = Apple
 DOTNET [QuickTime Metadata Header - 0x0016] Model = iPhone 6
 DOTNET [QuickTime Metadata Header - 0x0011] Software = 12.3
-DOTNET [QuickTime Metadata Header - 0x0007] Creation Date = 2019-07-24T11:25:40+0300
+DOTNET [QuickTime Metadata Header - 0x0007] Creation Date = Wed Jul 24 18:25:40 +10:00 2019
        
 JAVA   [File Type - 0x0001] Detected File Type Name = MOV
 JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie

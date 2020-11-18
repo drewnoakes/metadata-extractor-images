@@ -128,7 +128,7 @@ DOTNET [QuickTime Metadata Header - 0x000e] GPS Location = +41.4208+002.1742+086
 DOTNET [QuickTime Metadata Header - 0x0015] Make = Apple
 DOTNET [QuickTime Metadata Header - 0x0016] Model = iPhone 8
 DOTNET [QuickTime Metadata Header - 0x0011] Software = 13.5.1
-DOTNET [QuickTime Metadata Header - 0x0007] Creation Date = 2020-07-05T18:30:43+0200
+DOTNET [QuickTime Metadata Header - 0x0007] Creation Date = Mon Jul 06 02:30:43 +10:00 2020
 DOTNET [QuickTime Metadata Header - 0x0020] Originating Signature = AZf9VMywQ8AqCEMhfhu4fPHQMmAs
 DOTNET [QuickTime Metadata Header - 0x0008] Description = Juanjo dándole una patada a un muerto y cediéndole el mando a Núria.
        

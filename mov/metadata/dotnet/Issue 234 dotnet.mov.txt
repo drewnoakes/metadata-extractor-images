@@ -80,7 +80,7 @@ TYPE: QUICKTIME
 [QuickTime Metadata Header - 0x0015] Make = Apple
 [QuickTime Metadata Header - 0x0016] Model = iPhone X
 [QuickTime Metadata Header - 0x0011] Software = 11.3
-[QuickTime Metadata Header - 0x0007] Creation Date = 2018-04-06T17:26:41+0100
+[QuickTime Metadata Header - 0x0007] Creation Date = Sat Apr 07 02:26:41 +10:00 2018
 [QuickTime Metadata Header - 0x0020] Originating Signature = AScYSr9sFsya/AOi7JlowFc9dMj+
 
 [File Type - 0x0001] Detected File Type Name = QuickTime

@@ -79,7 +79,7 @@ TYPE: QUICKTIME
 [QuickTime Metadata Header - 0x0015] Make = Apple
 [QuickTime Metadata Header - 0x0016] Model = iPhone 6
 [QuickTime Metadata Header - 0x0011] Software = 12.3
-[QuickTime Metadata Header - 0x0007] Creation Date = 2019-07-24T11:25:40+0300
+[QuickTime Metadata Header - 0x0007] Creation Date = Wed Jul 24 18:25:40 +10:00 2019
 
 [File Type - 0x0001] Detected File Type Name = QuickTime
 [File Type - 0x0002] Detected File Type Long Name = QuickTime
