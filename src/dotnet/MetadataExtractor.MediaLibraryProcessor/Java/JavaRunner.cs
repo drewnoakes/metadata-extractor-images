@@ -31,6 +31,9 @@ namespace MetadataExtractor.MediaLibraryProcessor
                 {
                     StartInfo =
                     {
+                        // Output will differ across different Java runtimes.
+                        // Output has historically been produced by:
+                        // C:\\Program Files\\Java\\jdk1.8.0_271\\bin\\java.exe
                         FileName = "java.exe",
                         Arguments = string.Join(
                             " ",
