@@ -1,0 +1,417 @@
+       FILE: Issue 524 (java).psd
+       TYPE: PSD
+       
+JAVA   [ERROR: Photoshop] End of data reached.
+JAVA   
+       [PSD Header - 0x0001] Channel Count = 2 channels
+       [PSD Header - 0x0002] Image Height = 1350 pixels
+       [PSD Header - 0x0003] Image Width = 1650 pixels
+       [PSD Header - 0x0004] Bits Per Channel = 8 bits per channel
+       [PSD Header - 0x0005] Color Mode = Grayscale
+       
+       [Photoshop - 0x0425] Caption Digest = 174 114 82 215 114 107 211 235 245 219 35 137 195 192 5 90
+       [Photoshop - 0x043a] Print Info 2 = [309 values]
+       [Photoshop - 0x043b] Print Style = [557 values]
+       [Photoshop - 0x03ed] Resolution Info = 300x300 DPI
+       [Photoshop - 0x0426] Print Scale = Centered, Scale 1.0
+       [Photoshop - 0x03ee] Alpha Channels = 12 84 114 97 110 115 112 97 114 101 110 99 121
+       [Photoshop - 0x0415] Unicode Alpha Names = [30 values]
+       [Photoshop - 0x0435] Display Info = [17 values]
+       [Photoshop - 0x041d] Alpha Identifiers = 0 0 0 0
+       [Photoshop - 0x040d] Global Angle = 30
+       [Photoshop - 0x0419] Global Altitude = 30
+       [Photoshop - 0x03f3] Print Flags = 0 0 0 0 0 0 0 0 1
+       [Photoshop - 0x2710] Print Flags Information = 0 1 0 0 0 0 0 0 0 1
+       [Photoshop - 0x03f4] Grayscale and Multichannel Halftoning Information = [18 values]
+       [Photoshop - 0x03f7] Grayscale and Multichannel Transfer Function = [28 values]
+       [Photoshop - 0x0400] Layer State Information = 0 0
+       [Photoshop - 0x0402] Layers Group Information = 0 0
+       [Photoshop - 0x0430] Layer Groups Enabled ID = 1
+       [Photoshop - 0x042d] Layer Selection IDs = 0 0
+       [Photoshop - 0x0408] Grid and Guides Information = [46 values]
+       [Photoshop - 0x041e] URL List = 0
+       [Photoshop - 0x041a] Slices = PP2300_PkgIngredient_ChknTmto_Shdw_UNLD_AT (0,0,1350,1650) 1 Slices
+       [Photoshop - 0x0428] Pixel Aspect Ratio = 1.0
+       [Photoshop - 0x0414] Seed Number = 131
+       [Photoshop - 0x040c] Thumbnail Data = JpegRGB, 160x131, Decomp 62880 bytes, 1572865 bpp, 4182 bytes
+       [Photoshop - 0x0421] Version Info = 1 (Adobe Photoshop, Adobe Photoshop 2021) 1
+DOTNET [Photoshop - 0x07d0] Path Info 1 = "Path 1" having initial fill rule "without all pixels" and 1 subpath:
+DOTNET - Closed Subpath with 1 knot:
+DOTNET   - Unlinked (0.536844193935394,0.739571273326874) (0.536844193935394,0.739571273326874) (0.536844193935394,0.739571273326874)
+DOTNET   - Linked (0.537726700305939,0.739628851413727) (0.545679450035095,0.743386328220367) (0.553632199764252,0.747143864631653)
+DOTNET   - Linked (0.567807614803314,0.753737688064575) (0.574271380901337,0.75613671541214) (0.58073502779007,0.758535742759705)
+DOTNET   - Linked (0.581685423851013,0.759239673614502) (0.590592086315155,0.763365209102631) (0.599498569965363,0.767490863800049)
+DOTNET   - Linked (0.600268244743347,0.767636477947235) (0.604090332984924,0.770091831684113) (0.607912421226501,0.772547125816345)
+DOTNET   - Linked (0.61052006483078,0.774029850959778) (0.61722058057785,0.7765172123909) (0.623920977115631,0.779004573822021)
+DOTNET   - Linked (0.62448388338089,0.779710114002228) (0.628632783889771,0.783042967319489) (0.632781505584717,0.786375820636749)
+DOTNET   - Linked (0.633679568767548,0.789092481136322) (0.641272068023682,0.792881846427917) (0.648864507675171,0.796671152114868)
+DOTNET   - Linked (0.658656418323517,0.801407814025879) (0.665078163146973,0.804126262664795) (0.671499907970428,0.806844711303711)
+DOTNET   - Linked (0.675543248653412,0.807045698165894) (0.677840173244476,0.80804169178009) (0.680137038230896,0.809037744998932)
+DOTNET   - Linked (0.69030088186264,0.814837753772736) (0.693670034408569,0.815471053123474) (0.697039186954498,0.816104471683502)
+DOTNET   - Linked (0.696929812431335,0.81610780954361) (0.699069321155548,0.816776216030121) (0.701208829879761,0.817444682121277)
+DOTNET   - Linked (0.703015625476837,0.816861271858215) (0.704345941543579,0.817579388618469) (0.705676376819611,0.818297505378723)
+DOTNET   - Linked (0.70882260799408,0.819336116313934) (0.710972428321838,0.819486975669861) (0.713122189044952,0.819637775421143)
+DOTNET   - Linked (0.72194504737854,0.823290646076202) (0.725575149059296,0.824205577373505) (0.729205310344696,0.825120449066162)
+DOTNET   - Linked (0.732500374317169,0.825449705123901) (0.73625111579895,0.8257115483284) (0.740001678466797,0.825973331928253)
+DOTNET   - Linked (0.741889357566833,0.825548708438873) (0.745822608470917,0.827619016170502) (0.749755680561066,0.82968944311142)
+DOTNET   - Linked (0.751063346862793,0.831845462322235) (0.755026042461395,0.83113294839859) (0.758988618850708,0.8304203748703)
+DOTNET   - Linked (0.757672786712646,0.830139696598053) (0.762388706207275,0.83113294839859) (0.767104625701904,0.832126200199127)
+DOTNET   - Linked (0.769767284393311,0.832098305225372) (0.770855844020844,0.829827845096588) (0.771944403648376,0.82755720615387)
+DOTNET   - Linked (0.770969390869141,0.825093865394592) (0.77257376909256,0.821695625782013) (0.774178147315979,0.818297505378723)
+DOTNET   - Linked (0.774659872055054,0.816977083683014) (0.774659872055054,0.816977083683014) (0.774659872055054,0.816977083683014)
+DOTNET   - Linked (0.781442046165466,0.817346632480621) (0.783617854118347,0.815872609615326) (0.785793662071228,0.814398646354675)
+DOTNET   - Linked (0.785561859607697,0.812972486019135) (0.785826742649078,0.810852766036987) (0.786091506481171,0.808733224868774)
+DOTNET   - Linked (0.787177920341492,0.798611521720886) (0.785703897476196,0.778725922107697) (0.78422999382019,0.758840322494507)
+DOTNET   - Linked (0.782606303691864,0.739557564258575) (0.779322922229767,0.722303092479706) (0.776039600372314,0.705048620700836)
+DOTNET   - Linked (0.773118257522583,0.695823848247528) (0.767542600631714,0.678931713104248) (0.76196700334549,0.662039577960968)
+DOTNET   - Linked (0.759364008903503,0.644234478473663) (0.755639553070068,0.631845772266388) (0.751915097236633,0.619457066059113)
+DOTNET   - Linked (0.744443416595459,0.593258202075958) (0.74263209104538,0.588173270225525) (0.740820705890656,0.583088278770447)
+DOTNET   - Linked (0.728422880172729,0.559340178966522) (0.725575149059296,0.554339587688446) (0.722727358341217,0.549339056015015)
+DOTNET   - Linked (0.719351291656494,0.547174334526062) (0.714040219783783,0.539179742336273) (0.708729147911072,0.53118509054184)
+DOTNET   - Linked (0.697490096092224,0.51345431804657) (0.695142567157745,0.509161114692688) (0.692794978618622,0.504867970943451)
+DOTNET   - Linked (0.693238019943237,0.499765515327454) (0.692197501659393,0.494001269340515) (0.691156983375549,0.488237023353577)
+DOTNET   - Linked (0.686113178730011,0.473953425884247) (0.682380557060242,0.466291844844818) (0.678647935390472,0.458630263805389)
+DOTNET   - Linked (0.673627197742462,0.452809989452362) (0.672563552856445,0.450328767299652) (0.671499907970428,0.447847545146942)
+DOTNET   - Linked (0.672910869121552,0.445278465747833) (0.666918873786926,0.435871660709381) (0.660926818847656,0.426464855670929)
+DOTNET   - Linked (0.651137888431549,0.415632426738739) (0.648512065410614,0.411575675010681) (0.645886182785034,0.407518982887268)
+DOTNET   - Linked (0.643241226673126,0.400156021118164) (0.634400188922882,0.384769856929779) (0.625559031963348,0.369383573532104)
+DOTNET   - Linked (0.615506589412689,0.359184205532074) (0.611821174621582,0.355755209922791) (0.60813570022583,0.352326095104218)
+DOTNET   - Linked (0.586573004722595,0.337551653385162) (0.57157164812088,0.33025449514389) (0.556570291519165,0.322957217693329)
+DOTNET   - Linked (0.537420153617859,0.31896698474884) (0.518805503845215,0.31700211763382) (0.50019097328186,0.315037310123444)
+DOTNET   - Linked (0.467895805835724,0.318489611148834) (0.454872667789459,0.32061642408371) (0.44184947013855,0.32274317741394)
+DOTNET   - Linked (0.423307597637177,0.327757179737091) (0.404192626476288,0.340394496917725) (0.385077655315399,0.353031814098358)
+DOTNET   - Unlinked (0.378487467765808,0.357389211654663) (0.364188492298126,0.373726189136505) (0.347796618938446,0.39027726650238)
+DOTNET   - Linked (0.344906806945801,0.394210994243622) (0.342100381851196,0.40043169260025) (0.339293956756592,0.406652390956879)
+DOTNET   - Linked (0.339815974235535,0.41020256280899) (0.339768886566162,0.413382768630981) (0.3397216796875,0.416563153266907)
+DOTNET   - Linked (0.338428020477295,0.421800017356873) (0.340995967388153,0.427639126777649) (0.343563914299011,0.433478355407715)
+DOTNET   - Linked (0.349708020687103,0.440607905387878) (0.350935637950897,0.444003760814667) (0.352163314819336,0.4473996758461)
+DOTNET   - Unlinked (0.354506731033325,0.453775584697723) (0.356948554515839,0.456051349639893) (0.359024465084076,0.461994588375092)
+DOTNET   - Linked (0.358453571796417,0.459818959236145) (0.358052968978882,0.462777972221375) (0.357652187347412,0.465736925601959)
+DOTNET   - Linked (0.358241617679596,0.468653321266174) (0.358175694942474,0.471311688423157) (0.358109652996063,0.473969995975494)
+DOTNET   - Unlinked (0.357130646705627,0.478351235389709) (0.357071220874786,0.479042172431946) (0.355273723602295,0.489013969898224)
+DOTNET   - Linked (0.352193832397461,0.499499976634979) (0.349708557128906,0.505446493625641) (0.347223281860352,0.511393010616302)
+DOTNET   - Linked (0.345108091831207,0.528675258159637) (0.343695640563965,0.533356726169586) (0.342283189296722,0.53803813457489)
+DOTNET   - Linked (0.339695513248444,0.548508763313293) (0.339891612529755,0.56658798456192) (0.339972734451294,0.574070870876312)
+DOTNET   - Linked (0.341210603713989,0.581592619419098) (0.342345893383026,0.589076817035675) (0.343953251838684,0.599674940109253)
+DOTNET   - Linked (0.345860719680786,0.609647870063782) (0.348358690738678,0.61457759141922) (0.352620720863342,0.622988402843475)
+DOTNET   - Linked (0.361097097396851,0.640663325786591) (0.362347841262817,0.643090188503265) (0.363598585128784,0.64551705121994)
+DOTNET   - Linked (0.365724205970764,0.64713054895401) (0.36676549911499,0.647708415985107) (0.367806732654572,0.64828634262085)
+DOTNET   - Linked (0.370270490646362,0.654584646224976) (0.374619007110596,0.657647728919983) (0.378967583179474,0.66071081161499)
+DOTNET   - Linked (0.385686695575714,0.664116263389587) (0.388730883598328,0.666080951690674) (0.391775131225586,0.668045699596405)
+DOTNET   - Linked (0.399060666561127,0.673828184604645) (0.407996654510498,0.679132521152496) (0.416932761669159,0.684436976909637)
+DOTNET   - Linked (0.425645112991333,0.690189898014069) (0.432907164096832,0.695396780967712) (0.440169155597687,0.700603663921356)
+DOTNET   - Linked (0.445092916488647,0.700769484043121) (0.450086891651154,0.703830122947693) (0.455080807209015,0.706890761852264)
+DOTNET   - Linked (0.460615694522858,0.711091458797455) (0.468002796173096,0.713668942451477) (0.475389838218689,0.716246485710144)
+DOTNET   - Linked (0.475878000259399,0.717490971088409) (0.481991946697235,0.718889594078064) (0.488105952739716,0.720288157463074)
+DOTNET   - Linked (0.492233037948608,0.722769379615784) (0.500644207000732,0.726318895816803) (0.509055376052856,0.729868471622467)
+DOTNET   - Linked (0.505373597145081,0.730176508426666) (0.513160824775696,0.732342660427094) (0.520948112010956,0.734508872032166)
+DOTNET   - Linked (0.525431990623474,0.735153794288635) (0.525431990623474,0.735153794288635) (0.525431990623474,0.735153794288635)
+DOTNET   - Unlinked (0.531967520713806,0.738489031791687) (0.533776462078094,0.738968908786774) (0.536317110061646,0.739748120307922)
+DOTNET [Photoshop - 0x0bb8] Origin Subpath Info = [182 values]
+       
+       [IPTC - 0x015a] Coded Character Set = UTF-8
+       [IPTC - 0x0200] Application Record Version = 4
+       [IPTC - 0x0237] Date Created = 2020:06:30
+       [IPTC - 0x023c] Time Created = 04:27:20
+       
+       [XMP - 0xffff] XMP Value Count = 208
+       
+       [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2020-06-30T04:27:20
+       [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 5
+       [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2021-01-13T13:19:05-06:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2021-01-13T13:19:05-06:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Label = Approved
+       [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:SerialNumber = IG011666
+       [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensInfo = 120/1 120/1 32/1 4/1
+       [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Lens = Schneider Kreuznach Macro LS 120mm f/4.0
+       [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:LensSerialNumber = TD002801
+       [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:ImageNumber = 23170
+       [XMPMeta - http://ns.adobe.com/exif/1.0/aux/] aux:Firmware = IQ3 100MP, User Firmware: 5.09.49
+       [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2020-06-30T04:27:20
+       [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:LegacyIPTCDigest = 552E81891C0160EAAA0BE5379C57EB04
+       [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ColorMode = 1
+       [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:ICCProfile = Dot Gain 20%
+       [XMPMeta - ] photoshop:DocumentAncestors[1] = 080DA032A4BE83C10189B89BE84CC6D0
+       [XMPMeta - ] photoshop:DocumentAncestors[2] = 092F40DA7739913BBA1348FED3BE7E8A
+       [XMPMeta - ] photoshop:DocumentAncestors[3] = 14817B0E95AFAC2E2CBED12A5CC75218
+       [XMPMeta - ] photoshop:DocumentAncestors[4] = 16A30D42A96DA35D694EEDE0EBF00D2B
+       [XMPMeta - ] photoshop:DocumentAncestors[5] = 1D73574EFFCB1415A931A6D3C7B1C16E
+       [XMPMeta - ] photoshop:DocumentAncestors[6] = 1DBA1BD1075EEA6330E7003B4E1B5EE6
+       [XMPMeta - ] photoshop:DocumentAncestors[7] = 1EFF149147E273A279166512B9283B2B
+       [XMPMeta - ] photoshop:DocumentAncestors[8] = 22F6CEE476C20F2B8D4B52FB6AE8F7AE
+       [XMPMeta - ] photoshop:DocumentAncestors[9] = 263386B028E6DDAF513B37470ABAF6BA
+       [XMPMeta - ] photoshop:DocumentAncestors[10] = 2917F69CF2FD5223AD8DE9A867AB7973
+       [XMPMeta - ] photoshop:DocumentAncestors[11] = 2B97C553C72BB717611D06BD865B7B3F
+       [XMPMeta - ] photoshop:DocumentAncestors[12] = 2C075063E604A37B3B6D4443A01F7B30
+       [XMPMeta - ] photoshop:DocumentAncestors[13] = 34AA4748DF44EC71916B19851FA83D63
+       [XMPMeta - ] photoshop:DocumentAncestors[14] = 34C4514492A441C4D9C19C94C06024EF
+       [XMPMeta - ] photoshop:DocumentAncestors[15] = 3BDA7310422D386E919A80DA22A3BB42
+       [XMPMeta - ] photoshop:DocumentAncestors[16] = 3DA2D6F458B6C682A048A5846BA83590
+       [XMPMeta - ] photoshop:DocumentAncestors[17] = 4262D383BE98D6C47945E81595B90E34
+       [XMPMeta - ] photoshop:DocumentAncestors[18] = 437972D6CAF8C0D6D8A651B34D21C722
+       [XMPMeta - ] photoshop:DocumentAncestors[19] = 47ADA5A32BD8280CFF0A212432291189
+       [XMPMeta - ] photoshop:DocumentAncestors[20] = 483845495C6ED1AE692248759917C642
+       [XMPMeta - ] photoshop:DocumentAncestors[21] = 5003BD9ADE44CE170EC5D554F1977772
+       [XMPMeta - ] photoshop:DocumentAncestors[22] = 52D38472DAE31A87ACDB839BEDB747E4
+       [XMPMeta - ] photoshop:DocumentAncestors[23] = 63E61EB6BC374CCD5C12F057AF37E6BC
+       [XMPMeta - ] photoshop:DocumentAncestors[24] = 6461618D6EEB50AB5A5F7A5A87EB46DB
+       [XMPMeta - ] photoshop:DocumentAncestors[25] = 671642CAEC70BFC272F831014D2C7A82
+       [XMPMeta - ] photoshop:DocumentAncestors[26] = 6A6B1C37FA5C7F6F64BD4B56F5B604BB
+       [XMPMeta - ] photoshop:DocumentAncestors[27] = 6A94595E4055F7995FC0EE3DD6BD68CD
+       [XMPMeta - ] photoshop:DocumentAncestors[28] = 6EC734D554ADD5EEF06BE047510BE681
+       [XMPMeta - ] photoshop:DocumentAncestors[29] = 717C53C2F993A49869F03FF9C9A91DFA
+       [XMPMeta - ] photoshop:DocumentAncestors[30] = 739716435B297D1B12786A198A2C8B35
+       [XMPMeta - ] photoshop:DocumentAncestors[31] = 7573DA877455520C757E71EAA91081BA
+       [XMPMeta - ] photoshop:DocumentAncestors[32] = 78ACE342672070B529B4EF2662A5077F
+       [XMPMeta - ] photoshop:DocumentAncestors[33] = 83903EC2C5547559C2EEC5976722C511
+       [XMPMeta - ] photoshop:DocumentAncestors[34] = 857361BC0EE8B12700287517A47DC09B
+       [XMPMeta - ] photoshop:DocumentAncestors[35] = 8D75BC4934455E7C7FB771E0A7B6FE77
+       [XMPMeta - ] photoshop:DocumentAncestors[36] = 8DE05F5294BDC4ECD649ECDA424E14C9
+       [XMPMeta - ] photoshop:DocumentAncestors[37] = 97868B854782F841FFFC0F8129B706A5
+       [XMPMeta - ] photoshop:DocumentAncestors[38] = 97DE3FB864731774A24F4C3862FBFE01
+       [XMPMeta - ] photoshop:DocumentAncestors[39] = 9E612A939EC729D4AFF9BBA746A52E66
+       [XMPMeta - ] photoshop:DocumentAncestors[40] = A006CEB9DB734AC00F540181DF100368
+       [XMPMeta - ] photoshop:DocumentAncestors[41] = A08AF8A9647D4C150E42A7B4D76CAB74
+       [XMPMeta - ] photoshop:DocumentAncestors[42] = A1A5B291A132BCD71572962AD562328E
+       [XMPMeta - ] photoshop:DocumentAncestors[43] = A1D0E2ADB91819CCC91383E19C04BB94
+       [XMPMeta - ] photoshop:DocumentAncestors[44] = A20E698BA0E9ACE0531D0B09B22C6A06
+       [XMPMeta - ] photoshop:DocumentAncestors[45] = A388A9D215F56BD5008AC10F60C12F81
+       [XMPMeta - ] photoshop:DocumentAncestors[46] = A76F6DB8C7562FA57C3D2FBB77DB6BD8
+       [XMPMeta - ] photoshop:DocumentAncestors[47] = A992E0C6F466BAE12DE9709EBF072895
+       [XMPMeta - ] photoshop:DocumentAncestors[48] = ABC7FF38E94106670495D903316CA812
+       [XMPMeta - ] photoshop:DocumentAncestors[49] = AE50A815806ED4D5E82299C4039E79A2
+       [XMPMeta - ] photoshop:DocumentAncestors[50] = B74E5C5023D36F35799CF03706BD02CA
+       [XMPMeta - ] photoshop:DocumentAncestors[51] = BB66CD042F22AF1FA9854E72A610B648
+       [XMPMeta - ] photoshop:DocumentAncestors[52] = BC9A5551F0DC840C013BB3BC61EF7A10
+       [XMPMeta - ] photoshop:DocumentAncestors[53] = BDC79E4BF2D72CE7283269F42BDFC651
+       [XMPMeta - ] photoshop:DocumentAncestors[54] = BEE715C2FDEE66D04E242214E5F6C775
+       [XMPMeta - ] photoshop:DocumentAncestors[55] = C15CA39C744A479C350FB7E3FF93DF3D
+       [XMPMeta - ] photoshop:DocumentAncestors[56] = C3B5686D7E508D12C33922948F8CA158
+       [XMPMeta - ] photoshop:DocumentAncestors[57] = C492ABE85E104F4921C81383CB7AE416
+       [XMPMeta - ] photoshop:DocumentAncestors[58] = C8F89C3881D7ADD7649D040FD77F4793
+       [XMPMeta - ] photoshop:DocumentAncestors[59] = CCFBE5915D77CF9EB880B02AD1435C48
+       [XMPMeta - ] photoshop:DocumentAncestors[60] = CFD80AC12B6104C44F42AA760472B777
+       [XMPMeta - ] photoshop:DocumentAncestors[61] = D009D02322B186D5C0335A96F10852B7
+       [XMPMeta - ] photoshop:DocumentAncestors[62] = D2D55A008537BE3A949801D6E5E12607
+       [XMPMeta - ] photoshop:DocumentAncestors[63] = D3F848CFD86DC4F756446B4B5CC34C0F
+       [XMPMeta - ] photoshop:DocumentAncestors[64] = DBEAD8EAEE14846AFEB685EB716BBA97
+       [XMPMeta - ] photoshop:DocumentAncestors[65] = DC50584B3CFC18532AE5ADA5CB8C9D38
+       [XMPMeta - ] photoshop:DocumentAncestors[66] = DF879E02DDD617E35BED669A3531F0AB
+       [XMPMeta - ] photoshop:DocumentAncestors[67] = E037262AE8EC36CA723E3A113B50A531
+       [XMPMeta - ] photoshop:DocumentAncestors[68] = EFAD794939DF814619B981C887E55C56
+       [XMPMeta - ] photoshop:DocumentAncestors[69] = F84263CCB348D94A4218777B7944A20E
+       [XMPMeta - ] photoshop:DocumentAncestors[70] = F98FCEB8421D827D9A6D52B65106588F
+       [XMPMeta - ] photoshop:DocumentAncestors[71] = FD043DFCC1CE7203FACF7E3D39FA577A
+       [XMPMeta - ] photoshop:DocumentAncestors[72] = FEB59F650EBE091A60C661DFFB5F1BA8
+       [XMPMeta - ] photoshop:DocumentAncestors[73] = FF9CAF3A949C24B7EA378DEF046AC9B3
+       [XMPMeta - ] photoshop:DocumentAncestors[74] = FFFDF93FFA8E305BEA658198C8583784
+       [XMPMeta - ] photoshop:DocumentAncestors[75] = adobe:docid:photoshop:0bad2fb9-f1fb-0642-b75b-a93157f67bf2
+       [XMPMeta - ] photoshop:DocumentAncestors[76] = adobe:docid:photoshop:1010de67-4a75-ea41-baeb-90f9898ad6e0
+       [XMPMeta - ] photoshop:DocumentAncestors[77] = adobe:docid:photoshop:1eb01f89-85e1-844c-89d6-22c880ce17c2
+       [XMPMeta - ] photoshop:DocumentAncestors[78] = adobe:docid:photoshop:655fc9dd-ba0e-0042-a131-3ab34239cebe
+       [XMPMeta - ] photoshop:DocumentAncestors[79] = adobe:docid:photoshop:7596a6c4-6c64-ca44-81a8-a6bdbaa51829
+       [XMPMeta - ] photoshop:DocumentAncestors[80] = adobe:docid:photoshop:8b979134-af31-c24f-be6e-7b4e18ca4e53
+       [XMPMeta - ] photoshop:DocumentAncestors[81] = adobe:docid:photoshop:9722245d-16f0-1a4d-9549-8945d772593a
+       [XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = application/vnd.adobe.photoshop
+       [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:f7af5792-2816-4175-ae68-5dcd415cdf44
+       [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = adobe:docid:photoshop:ad7fa0c8-cd39-f14a-93bb-535b2ab4a2df
+       [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:f0e2bfc5-954e-4b16-ac6e-476d2595e203
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:f0e2bfc5-954e-4b16-ac6e-476d2595e203
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2020-07-08T16:15-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = converted
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:parameters = from image/tiff to application/vnd.adobe.photoshop
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[3]/stEvt:action = derived
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[3]/stEvt:parameters = converted from image/tiff to application/vnd.adobe.photoshop
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[4]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[4]/stEvt:instanceID = xmp.iid:cb1cb202-b1e1-43a8-a1d7-1c04316b79a8
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[4]/stEvt:when = 2020-07-08T16:15-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[4]/stEvt:softwareAgent = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[4]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[5]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[5]/stEvt:instanceID = xmp.iid:059a9680-6ef8-4fb2-92e8-e0b25f0e3e47
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[5]/stEvt:when = 2020-07-13T15:50:41-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[5]/stEvt:softwareAgent = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[5]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[6]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[6]/stEvt:instanceID = xmp.iid:ff87e101-f52c-46ea-ba86-a0da14785e53
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[6]/stEvt:when = 2020-07-13T15:51:04-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[6]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[6]/stEvt:changed = /metadata
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[7]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[7]/stEvt:instanceID = xmp.iid:9edc8689-a775-47ea-96cb-c24179c5a25d
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[7]/stEvt:when = 2020-07-24T12:59:43-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[7]/stEvt:softwareAgent = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[7]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[8]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[8]/stEvt:instanceID = xmp.iid:f4701000-4814-4885-841e-7bf3b24840fe
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[8]/stEvt:when = 2020-07-24T13:20:58-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[8]/stEvt:softwareAgent = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[8]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[9]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[9]/stEvt:instanceID = xmp.iid:9063a639-37e1-418c-8d4c-d686f201f112
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[9]/stEvt:when = 2020-07-27T08:18:09-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[9]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[9]/stEvt:changed = /metadata
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[10]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[10]/stEvt:instanceID = xmp.iid:8abe2636-25ed-4a36-b446-6720a622f3e9
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[10]/stEvt:when = 2020-07-27T15:39:16-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[10]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[10]/stEvt:changed = /metadata
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[11]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[11]/stEvt:instanceID = xmp.iid:04042a15-2f55-432c-9802-bc0846193bf1
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[11]/stEvt:when = 2020-07-29T11:01:53-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[11]/stEvt:softwareAgent = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[11]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[12]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[12]/stEvt:instanceID = xmp.iid:7fb81221-914c-4cf4-839a-465a5037f439
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[12]/stEvt:when = 2020-08-04T15:55:26-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[12]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[12]/stEvt:changed = /metadata
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[13]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[13]/stEvt:instanceID = xmp.iid:b3459b84-9adf-405f-ba21-e6221113c1c6
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[13]/stEvt:when = 2020-08-04T16:05:07-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[13]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[13]/stEvt:changed = /metadata
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[14]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[14]/stEvt:instanceID = xmp.iid:b5026dfc-2cc1-432f-9644-a549a02d1784
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[14]/stEvt:when = 2020-08-04T17:48:04-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[14]/stEvt:softwareAgent = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[14]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[15]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[15]/stEvt:instanceID = xmp.iid:0ee9e843-8862-4eed-8f74-51a39e0f72ac
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[15]/stEvt:when = 2020-08-04T17:49:54-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[15]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[15]/stEvt:changed = /metadata
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[16]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[16]/stEvt:instanceID = xmp.iid:a76832ae-7038-46e4-bc91-a9956e64ae39
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[16]/stEvt:when = 2020-08-04T20:43:47-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[16]/stEvt:softwareAgent = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[16]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[17]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[17]/stEvt:instanceID = xmp.iid:0915c53f-e593-4d87-b727-614b15876a7e
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[17]/stEvt:when = 2020-08-04T22:34:19-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[17]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[17]/stEvt:changed = /metadata
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[18]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[18]/stEvt:instanceID = xmp.iid:9edafa25-4352-4bbf-936d-35a12690f9a7
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[18]/stEvt:when = 2020-08-05T10:07-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[18]/stEvt:softwareAgent = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[18]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[19]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[19]/stEvt:instanceID = xmp.iid:0a557419-bff8-4ccf-99a5-0f1fbe432d33
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[19]/stEvt:when = 2020-08-12T09:19:22-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[19]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[19]/stEvt:changed = /metadata
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[20]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[20]/stEvt:instanceID = xmp.iid:8cc53197-a03a-499f-9fd7-785d3ad60199
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[20]/stEvt:when = 2020-08-12T10:21:49-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[20]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[20]/stEvt:changed = /metadata
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[21]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[21]/stEvt:instanceID = xmp.iid:05973050-5a42-47f1-9b80-86121d909f69
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[21]/stEvt:when = 2020-08-28T17:42:52-05:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[21]/stEvt:softwareAgent = Adobe Photoshop 21.2 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[21]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[22]/stEvt:action = saved
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[22]/stEvt:instanceID = xmp.iid:f7af5792-2816-4175-ae68-5dcd415cdf44
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[22]/stEvt:when = 2021-01-13T13:19:05-06:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[22]/stEvt:softwareAgent = Adobe Photoshop 22.1 (Macintosh)
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[22]/stEvt:changed = /
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:instanceID = xmp.iid:f0e2bfc5-954e-4b16-ac6e-476d2595e203
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:documentID = xmp.did:f0e2bfc5-954e-4b16-ac6e-476d2595e203
+       [XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceRef#] xmpMM:DerivedFrom/stRef:originalDocumentID = xmp.did:f0e2bfc5-954e-4b16-ac6e-476d2595e203
+       
+       [ICC Profile - 0x0000] Profile Size = 912
+       [ICC Profile - 0x0004] CMM Type = ADBE
+       [ICC Profile - 0x0008] Version = 2.1.0
+       [ICC Profile - 0x000c] Class = Output Device
+       [ICC Profile - 0x0010] Color space = GRAY
+       [ICC Profile - 0x0014] Profile Connection Space = XYZ 
+       [ICC Profile - 0x0018] Profile Date/Time = 1999:06:03 00:00:00
+       [ICC Profile - 0x0024] Signature = acsp
+       [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+       [ICC Profile - 0x0030] Device manufacturer = none
+       [ICC Profile - 0x0040] Rendering Intent = Media-Relative Colorimetric
+       [ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+       [ICC Profile - 0x0080] Tag Count = 5
+       [ICC Profile - 0x63707274] Profile Copyright = Copyright 1999 Adobe Systems Incorporated
+       [ICC Profile - 0x64657363] Profile Description = Dot Gain 20%
+       [ICC Profile - 0x77747074] Media White Point = (0.9642, 1, 0.8249)
+       [ICC Profile - 0x626b7074] Media Black Point = (0, 0, 0)
+       [ICC Profile - 0x6b545243] Gray TRC = 0.0, 0.0002441, 0.0004883, 0.0007324, 0.0009766, 0.0012207, 0.0014801, 0.0019379, 0.0024414, 0.003006, 0.0036011, 0.0042573, 0.0049439, 0.0056916, 0.0064698, 0.0072938, 0.0081483, 0.0090639, 0.0100099, 0.0109865, 0.0120089, 0.013077, 0.0141756, 0.0153201, 0.016495, 0.0177005, 0.0189517, 0.0202335, 0.021561, 0.0229191, 0.0243076, 0.0257267, 0.0271916, 0.0286717, 0.0301976, 0.0317693, 0.0333562, 0.0349737, 0.0366369, 0.0383307, 0.0400549, 0.0418097, 0.043595, 0.0454108, 0.0472724, 0.0491493, 0.0510567, 0.0530098, 0.0549783, 0.0569772, 0.0590219, 0.0610819, 0.0631724, 0.0653086, 0.0674601, 0.0696422, 0.0718547, 0.0740978, 0.0763714, 0.0786755, 0.0810101, 0.08336, 0.0857557, 0.0881666, 0.0906081, 0.09308, 0.0955825, 0.0981155, 0.100679, 0.1032578, 0.1058824, 0.1085222, 0.1111772, 0.1138781, 0.1166094, 0.1193561, 0.1221332, 0.1249409, 0.1277638, 0.1306325, 0.1335164, 0.1364309, 0.1393606, 0.1423362, 0.1453269, 0.148333, 0.1513848, 0.1544518, 0.1575494, 0.1606775, 0.1638209, 0.1669947, 0.1701991, 0.1734188, 0.176669, 0.1799496, 0.1832609, 0.1865873, 0.1899443, 0.1933165, 0.1967193, 0.2001526, 0.2036011, 0.2070802, 0.2105898, 0.2141146, 0.2176699, 0.2212558, 0.2248569, 0.2284886, 0.2321355, 0.2358129, 0.2395209, 0.2432441, 0.2469978, 0.250782, 0.2545815, 0.2583963, 0.2622416, 0.2661173, 0.2700084, 0.27393, 0.277882, 0.2818494, 0.2858473, 0.2898604, 0.2938888, 0.2979629, 0.3020523, 0.306157, 0.3102922, 0.3144427, 0.3186236, 0.3228351, 0.3270619, 0.3313191, 0.3355917, 0.3398795, 0.344213, 0.3485466, 0.3529107, 0.3573053, 0.3617151, 0.3661555, 0.3706111, 0.3750973, 0.3795987, 0.3841306, 0.3886778, 0.3932555, 0.3978485, 0.402472, 0.4071107, 0.4117647, 0.4164645, 0.4211643, 0.4258946, 0.4306554, 0.4354314, 0.4402228, 0.4450446, 0.4498817, 0.4547494, 0.4596323, 0.4645457, 0.4694743, 0.4744335, 0.4794079, 0.4843977, 0.4894179, 0.4944686, 0.4995346, 0.5046159, 0.5097124, 0.5148547, 0.5199969, 0.5251698, 0.5303578, 0.5355764, 0.5408103, 0.5460746, 0.5513542, 0.5566644, 0.5619745, 0.5673304, 0.5726864, 0.578088, 0.5834897, 0.588922, 0.5943694, 0.5998474, 0.6053407, 0.6108492, 0.6163882, 0.6219425, 0.6275273, 0.6331273, 0.6387579, 0.6443885, 0.6500496, 0.6557412, 0.6614481, 0.6671702, 0.6729229, 0.6786908, 0.6844739, 0.6902876, 0.6961166, 0.701976, 0.7078355, 0.7137407, 0.719646, 0.7255818, 0.7315328, 0.7375143, 0.7435111, 0.7495232, 0.7555657, 0.7616236, 0.7676967, 0.7738003, 0.7799191, 0.7860685, 0.7922179, 0.7983978, 0.8046082, 0.8108339, 0.8170748, 0.823331, 0.8296178, 0.8359197, 0.842237, 0.8485847, 0.8549477, 0.861326, 0.8677348, 0.8741588, 0.8805982, 0.887068, 0.8935531, 0.9000534, 0.906569, 0.9131151, 0.9196765, 0.9262684, 0.9328756, 0.939498, 0.9461357, 0.9528038, 0.9594873, 0.966186, 0.9729152, 0.9796597, 0.9864195, 0.9931945, 1.0
+       
+       [Exif IFD0 - 0x0100] Image Width = 11606 pixels
+       [Exif IFD0 - 0x0101] Image Height = 8706 pixels
+       [Exif IFD0 - 0x0102] Bits Per Sample = 16 16 16 bits/component/pixel
+       [Exif IFD0 - 0x0103] Compression = Uncompressed
+       [Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+       [Exif IFD0 - 0x010f] Make = Phase One
+       [Exif IFD0 - 0x0110] Model = IQ3 100MP
+       [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+       [Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+       [Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+       [Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+       [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       [Exif IFD0 - 0x0131] Software = Adobe Photoshop 22.1 (Macintosh)
+       [Exif IFD0 - 0x0132] Date/Time = 2021:01:13 13:19:05
+       
+       [Exif SubIFD - 0x829a] Exposure Time = 1/160 sec
+       [Exif SubIFD - 0x829d] F-Number = f/22.0
+       [Exif SubIFD - 0x8822] Exposure Program = Manual control
+       [Exif SubIFD - 0x8827] ISO Speed Ratings = 50
+       [Exif SubIFD - 0x9000] Exif Version = 2.30
+       [Exif SubIFD - 0x9003] Date/Time Original = 2020:06:30 04:27:20
+       [Exif SubIFD - 0x9004] Date/Time Digitized = 2020:06:30 04:27:20
+       [Exif SubIFD - 0x9201] Shutter Speed Value = 1/159 sec
+       [Exif SubIFD - 0x9202] Aperture Value = f/22.0
+       [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+       [Exif SubIFD - 0x9207] Metering Mode = Average
+       [Exif SubIFD - 0x9208] White Balance = Flash
+       [Exif SubIFD - 0x920a] Focal Length = 120 mm
+       [Exif SubIFD - 0xa001] Color Space = Undefined
+       [Exif SubIFD - 0xa002] Exif Image Width = 1650 pixels
+       [Exif SubIFD - 0xa003] Exif Image Height = 1350 pixels
+       [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
+       [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+       [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+       [Exif SubIFD - 0xa403] White Balance Mode = Unknown (4)
+       [Exif SubIFD - 0xa431] Body Serial Number = IG011666
+       [Exif SubIFD - 0xa432] Lens Specification = 120mm f/32.0-4.0
+       [Exif SubIFD - 0xa434] Lens Model = Schneider Kreuznach Macro LS 120mm f/4.0
+       [Exif SubIFD - 0xa435] Lens Serial Number = TD002801
+       
+       [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+       [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+       [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+       [Exif Thumbnail - 0x0128] Resolution Unit = Inch
+       [Exif Thumbnail - 0x0201] Thumbnail Offset = 874 bytes
+       [Exif Thumbnail - 0x0202] Thumbnail Length = 0 bytes
+       
+       [File Type - 0x0001] Detected File Type Name = PSD
+       [File Type - 0x0002] Detected File Type Long Name = Photoshop Document
+       [File Type - 0x0003] Detected MIME Type = image/vnd.adobe.photoshop
+       [File Type - 0x0004] Expected File Name Extension = psd
+       
+       [File - 0x0001] File Name = Issue 524 (java).psd
+       [File - 0x0002] File Size = 2421546 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - PSD Header
+       - Photoshop
+           - IPTC
+           - XMP
+           - ICC Profile
+           - Exif IFD0
+               - Exif SubIFD
+               - Exif Thumbnail
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       
