@@ -17,7 +17,7 @@ TYPE: MP4
 [MP4 - 0x010e] Next Track ID = 3
 [MP4 - 0x2001] Latitude = 53.405
 [MP4 - 0x2002] Longitude = -2.991
-[MP4 - 0x0200] Rotation = 90
+[MP4 - 0x0200] Rotation = -90
 
 [MP4 Video - 0x0065] Creation Time = Wed Mar 27 23:15:58 +11:00 2019
 [MP4 Video - 0x0066] Modification Time = Wed Mar 27 23:15:58 +11:00 2019

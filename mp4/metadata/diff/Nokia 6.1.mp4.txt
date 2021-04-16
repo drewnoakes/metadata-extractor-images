@@ -39,7 +39,7 @@ JAVA   [MP4 - 0x0106] Preferred Volume = 1
 JAVA   [MP4 - 0x010e] Next Track ID = 3
 JAVA   [MP4 - 0x2001] Latitude = 53.405
 JAVA   [MP4 - 0x2002] Longitude = -2.991
-JAVA   [MP4 - 0x0200] Rotation = 90
+JAVA   [MP4 - 0x0200] Rotation = -90
        
 JAVA   [MP4 Video - 0x0065] Creation Time = Wed Mar 27 23:15:58 +11:00 2019
 JAVA   [MP4 Video - 0x0066] Modification Time = Wed Mar 27 23:15:58 +11:00 2019

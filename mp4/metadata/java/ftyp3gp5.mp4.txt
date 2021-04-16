@@ -15,7 +15,7 @@ TYPE: MP4
 [MP4 - 0x0105] Preferred Rate = 1
 [MP4 - 0x0106] Preferred Volume = 1
 [MP4 - 0x010e] Next Track ID = 65738
-[MP4 - 0x0200] Rotation = 90
+[MP4 - 0x0200] Rotation = -90
 [MP4 - 0x2001] Latitude = 0
 [MP4 - 0x2002] Longitude = 0
 
