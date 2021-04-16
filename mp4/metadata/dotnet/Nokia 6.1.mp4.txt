@@ -37,7 +37,7 @@ TYPE: MP4
 [QuickTime Track Header - 0x000c] Matrix = 0 1 0 -1 0 0 0 0 1
 [QuickTime Track Header - 0x000a] Width = 1920
 [QuickTime Track Header - 0x000b] Height = 1080
-[QuickTime Track Header - 0x000d] Rotation = 90
+[QuickTime Track Header - 0x000d] Rotation = -90
 
 [QuickTime Track Header - 0x0001] Version = 0
 [QuickTime Track Header - 0x0002] Flags = 0 0 7

@@ -35,7 +35,7 @@ DOTNET [QuickTime Track Header - 0x0009] Volume = 0
 DOTNET [QuickTime Track Header - 0x000c] Matrix = 0 1 0 -1 0 0 1080 0 1
 DOTNET [QuickTime Track Header - 0x000a] Width = 1440
 DOTNET [QuickTime Track Header - 0x000b] Height = 1080
-DOTNET [QuickTime Track Header - 0x000d] Rotation = 90
+DOTNET [QuickTime Track Header - 0x000d] Rotation = -90
        
 JAVA   [QuickTime - 0x1000] Major Brand = Apple QuickTime (.MOV/QT)
 JAVA   [QuickTime - 0x1001] Minor Version = 0
