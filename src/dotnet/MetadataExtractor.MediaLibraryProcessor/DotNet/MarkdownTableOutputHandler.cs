@@ -16,8 +16,8 @@ namespace MetadataExtractor.MediaLibraryProcessor
     internal class MarkdownTableOutputHandler : FileHandlerBase
     {
         // TODO this should be modelled centrally
-        private readonly Dictionary<string, string> _extensionEquivalence = new Dictionary<string, string> { { "jpeg", "jpg" }, { "tiff", "tif" } };
-        private readonly Dictionary<string, List<Row>> _rowsByExtension = new Dictionary<string, List<Row>>();
+        private readonly Dictionary<string, string> _extensionEquivalence = new() { { "jpeg", "jpg" }, { "tiff", "tif" } };
+        private readonly Dictionary<string, List<Row>> _rowsByExtension = new();
 
         private class Row
         {
