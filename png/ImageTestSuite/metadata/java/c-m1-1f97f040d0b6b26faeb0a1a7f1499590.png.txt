@@ -1,7 +1,7 @@
 FILE: c-m1-1f97f040d0b6b26faeb0a1a7f1499590.png
 TYPE: PNG
 
-EXCEPTION: End of data reached.
+EXCEPTION: Unable to skip. Requested 1853095968 bytes but only 63 remained.
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
