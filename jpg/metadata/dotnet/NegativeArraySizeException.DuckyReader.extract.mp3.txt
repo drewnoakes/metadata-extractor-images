@@ -4,7 +4,7 @@ TYPE: JPEG
 [ERROR: Ducky] End of data reached.
 [ERROR: Ducky] End of data reached.
 [ERROR: Ducky] End of data reached.
-[ERROR: Ducky] End of data reached.
+[ERROR: Ducky] Unexpected length for a text tag
 [ERROR: Ducky] End of data reached.
 [ERROR: Ducky] End of data reached.
 [ERROR: Ducky] End of data reached.

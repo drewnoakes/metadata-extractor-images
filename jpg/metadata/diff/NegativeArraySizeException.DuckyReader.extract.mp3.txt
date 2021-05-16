@@ -5,7 +5,7 @@ JAVA   EXCEPTION: null
 DOTNET [ERROR: Ducky] End of data reached.
 DOTNET [ERROR: Ducky] End of data reached.
 DOTNET [ERROR: Ducky] End of data reached.
-DOTNET [ERROR: Ducky] End of data reached.
+DOTNET [ERROR: Ducky] Unexpected length for a text tag
 DOTNET [ERROR: Ducky] End of data reached.
 DOTNET [ERROR: Ducky] End of data reached.
 DOTNET [ERROR: Ducky] End of data reached.
