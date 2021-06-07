@@ -1,0 +1,7 @@
+FILE: Issue 508.jpg
+TYPE: JPEG
+
+EXCEPTION: Input is not a bplist
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
