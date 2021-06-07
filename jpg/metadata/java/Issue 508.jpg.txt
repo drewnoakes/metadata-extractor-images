@@ -102,7 +102,7 @@ TYPE: JPEG
 [GPS - 0x0017] GPS Dest Bearing Ref = True direction
 [GPS - 0x0018] GPS Dest Bearing = 174.07 degrees
 [GPS - 0x001d] GPS Date Stamp = 2020:09:02
-[GPS - 0x001f] GPS H Positioning Error = 4.79 metres
+[GPS - 0x001f] GPS Horizontal Positioning Error = 4.79 metres
 
 [Huffman - 0x0001] Number of Tables = 4 Huffman tables
 

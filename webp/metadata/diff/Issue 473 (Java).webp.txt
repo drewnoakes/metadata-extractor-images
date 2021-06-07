@@ -89,8 +89,7 @@ JAVA
        [GPS - 0x0017] GPS Dest Bearing Ref = True direction
        [GPS - 0x0018] GPS Dest Bearing = 241.22 degrees
        [GPS - 0x001d] GPS Date Stamp = 2018:08:27
-JAVA   [GPS - 0x001f] GPS H Positioning Error = 65 metres
-DOTNET [GPS - 0x001f] GPS Horizontal Positioning Error = 65 metres
+       [GPS - 0x001f] GPS Horizontal Positioning Error = 65 metres
        
        [File Type - 0x0001] Detected File Type Name = WebP
        [File Type - 0x0002] Detected File Type Long Name = WebP

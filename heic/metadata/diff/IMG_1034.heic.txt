@@ -162,12 +162,12 @@ DOTNET [HEIC Thumbnail Data - 0x0002] Data Length = 14957
        [Apple Makernote - 0x0019] Unknown tag (0x0019) = 0
        [Apple Makernote - 0x001a] Unknown tag (0x001a) = q825s
        [Apple Makernote - 0x001f] Unknown tag (0x001f) = 0
-JAVA   
+       
 JAVA   [Apple Run Time - 0x0001] Flags = Valid
 JAVA   [Apple Run Time - 0x0002] Epoch = 0
 JAVA   [Apple Run Time - 0x0003] Scale = 1000000000
 JAVA   [Apple Run Time - 0x0004] Value = 595778 seconds
-       
+JAVA   
        [GPS - 0x0001] GPS Latitude Ref = N
        [GPS - 0x0002] GPS Latitude = 23° 10' 40.5"
        [GPS - 0x0003] GPS Longitude Ref = E
@@ -182,8 +182,7 @@ JAVA   [Apple Run Time - 0x0004] Value = 595778 seconds
        [GPS - 0x0017] GPS Dest Bearing Ref = True direction
        [GPS - 0x0018] GPS Dest Bearing = 25.27 degrees
        [GPS - 0x001d] GPS Date Stamp = 2018:02:05
-JAVA   [GPS - 0x001f] GPS H Positioning Error = 65 metres
-DOTNET [GPS - 0x001f] GPS Horizontal Positioning Error = 65 metres
+       [GPS - 0x001f] GPS Horizontal Positioning Error = 65 metres
        
 JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
 DOTNET [File Type - 0x0001] Detected File Type Name = HEIC

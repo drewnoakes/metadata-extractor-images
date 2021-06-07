@@ -146,12 +146,12 @@ DOTNET [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
        [Apple Makernote - 0x0026] Unknown tag (0x0026) = 3
        [Apple Makernote - 0x0027] Unknown tag (0x0027) = 36835/1271
        [Apple Makernote - 0x0028] Unknown tag (0x0028) = 2
-JAVA   
+       
 JAVA   [Apple Run Time - 0x0001] Flags = Valid
 JAVA   [Apple Run Time - 0x0002] Epoch = 0
 JAVA   [Apple Run Time - 0x0003] Scale = 1000000000
 JAVA   [Apple Run Time - 0x0004] Value = 250308 seconds
-       
+JAVA   
        [GPS - 0x0001] GPS Latitude Ref = N
        [GPS - 0x0002] GPS Latitude = 38° 41' 58.34"
        [GPS - 0x0003] GPS Longitude Ref = W
@@ -165,18 +165,17 @@ JAVA   [Apple Run Time - 0x0004] Value = 250308 seconds
        [GPS - 0x0017] GPS Dest Bearing Ref = True direction
        [GPS - 0x0018] GPS Dest Bearing = 79.49 degrees
        [GPS - 0x001d] GPS Date Stamp = 2019:08:21
-JAVA   [GPS - 0x001f] GPS H Positioning Error = 2000 metres
-DOTNET [GPS - 0x001f] GPS Horizontal Positioning Error = 2000 metres
+       [GPS - 0x001f] GPS Horizontal Positioning Error = 2000 metres
 DOTNET 
 DOTNET [XMP - 0xffff] XMP Value Count = 5
-DOTNET 
+       
+JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
 DOTNET [XMPMeta - http://iptc.org/std/Iptc4xmpExt/2008-02-29/] Iptc4xmpExt:ArtworkContentDescription = Dins el monestir es veuen 3 de les 8 columnes que el suporten.
 DOTNET [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2019-08-21T11:21:36
 DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2019-08-21T11:21:36
 DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = 12.4
 DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2019-08-21T11:21:36
-       
-JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
+DOTNET 
 DOTNET [File Type - 0x0001] Detected File Type Name = HEIC
        [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 JAVA   [File Type - 0x0003] Detected MIME Type = image/heif

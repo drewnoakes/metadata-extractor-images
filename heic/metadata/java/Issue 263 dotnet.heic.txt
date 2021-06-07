@@ -120,7 +120,7 @@ TYPE: HEIF
 [GPS - 0x0017] GPS Dest Bearing Ref = True direction
 [GPS - 0x0018] GPS Dest Bearing = 79.49 degrees
 [GPS - 0x001d] GPS Date Stamp = 2019:08:21
-[GPS - 0x001f] GPS H Positioning Error = 2000 metres
+[GPS - 0x001f] GPS Horizontal Positioning Error = 2000 metres
 
 [File Type - 0x0001] Detected File Type Name = HEIF
 [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
