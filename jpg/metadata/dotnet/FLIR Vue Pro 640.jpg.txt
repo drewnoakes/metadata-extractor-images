@@ -46,6 +46,57 @@ TYPE: JPEG
 
 [Huffman - 0x0001] Number of Tables = 4 Huffman tables
 
+[FLIR Header - 0x0000] Creator Software = FLIR
+
+[FLIR Raw Data - 0x0002] Raw Thermal Image Width = 640
+[FLIR Raw Data - 0x0004] Raw Thermal Image Height = 512
+[FLIR Raw Data - 0x0022] Raw Thermal Image Type = 7856
+
+[FLIR Camera Info - 0x0020] Emissivity = 1
+[FLIR Camera Info - 0x0024] Object Distance = 1
+[FLIR Camera Info - 0x0028] Reflected Apparent Temperature = 22.0 C
+[FLIR Camera Info - 0x002c] Atmospheric Temperature = 22.0 C
+[FLIR Camera Info - 0x0030] IR Window Temperature = 22.0 C
+[FLIR Camera Info - 0x0034] IR Window Transmission = 1
+[FLIR Camera Info - 0x003c] Relative Humidity = 30.0 %
+[FLIR Camera Info - 0x0058] Planck R1 = 366545
+[FLIR Camera Info - 0x005c] Planck B = 1428
+[FLIR Camera Info - 0x0060] Planck F = 1
+[FLIR Camera Info - 0x0070] Atmospheric Trans Alpha1 = 0.007
+[FLIR Camera Info - 0x0074] Atmospheric Trans Alpha2 = 0.013
+[FLIR Camera Info - 0x0078] Atmospheric Trans Beta1 = -0.002
+[FLIR Camera Info - 0x007c] Atmospheric Trans Beta2 = -0.007
+[FLIR Camera Info - 0x0080] Atmospheric Trans X = 1.9
+[FLIR Camera Info - 0x0090] Camera Temperature Range Max = 135.0 C
+[FLIR Camera Info - 0x0094] Camera Temperature Range Min = -25.0 C
+[FLIR Camera Info - 0x0098] Camera Temperature Max Clip = 150.0 C
+[FLIR Camera Info - 0x009c] Camera Temperature Min Clip = -60.0 C
+[FLIR Camera Info - 0x00a0] Camera Temperature Max Warn = 135.0 C
+[FLIR Camera Info - 0x00a4] Camera Temperature Min Warn = -25.0 C
+[FLIR Camera Info - 0x00a8] Camera Temperature Max Saturated = 150.0 C
+[FLIR Camera Info - 0x00ac] Camera Temperature Min Saturated = -60.0 C
+[FLIR Camera Info - 0x00d4] Camera Model = Vue Pro 640 13mm
+[FLIR Camera Info - 0x00f4] Camera Part Number = 436-0017-00
+[FLIR Camera Info - 0x0104] Camera Serial Number = 162682
+[FLIR Camera Info - 0x0114] Camera Software = 22.20.16.1
+[FLIR Camera Info - 0x0170] Lens Model = FOL13
+[FLIR Camera Info - 0x0190] Lens Part Number = T197089
+[FLIR Camera Info - 0x01a0] Lens Serial Number = 1175627
+[FLIR Camera Info - 0x01b4] Field Of View = 45
+[FLIR Camera Info - 0x01ec] Filter Model = FOL13
+[FLIR Camera Info - 0x01fc] Filter Part Number = 
+[FLIR Camera Info - 0x021c] Filter Serial Number = 1175627
+[FLIR Camera Info - 0x0308] Planck O = 342
+[FLIR Camera Info - 0x030c] Planck R2 = 1
+[FLIR Camera Info - 0x0310] Raw Value Range Min = 7742
+[FLIR Camera Info - 0x0312] Raw Value Range Max = 8432
+[FLIR Camera Info - 0x0338] Raw Value Median = 8137
+[FLIR Camera Info - 0x033c] Raw Value Range = 345
+[FLIR Camera Info - 0x0384] Date Time Original = 27/06/2016 3:29:42 PM +04:00
+[FLIR Camera Info - 0x0390] Focus Step Count = 0
+[FLIR Camera Info - 0x045c] Focus Distance = 0
+[FLIR Camera Info - 0x0464] Frame Rate = 30
+
 [File Type - 0x0001] Detected File Type Name = JPEG
 [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
 [File Type - 0x0003] Detected MIME Type = image/jpeg
@@ -61,6 +112,9 @@ TYPE: JPEG
     - Exif SubIFD
     - GPS
 - Huffman
+- FLIR Header
+- FLIR Raw Data
+- FLIR Camera Info
 - File Type
 - File
 
