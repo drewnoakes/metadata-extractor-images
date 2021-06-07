@@ -1,0 +1,123 @@
+       FILE: FLIR iPhone device.jpg
+       TYPE: JPEG
+       
+       [JPEG - 0xfffffffd] Compression Type = Baseline
+       [JPEG - 0x0000] Data Precision = 8 bits
+       [JPEG - 0x0001] Image Height = 640 pixels
+       [JPEG - 0x0003] Image Width = 480 pixels
+       [JPEG - 0x0005] Number of Components = 3
+       [JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+       [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+       [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+       
+       [JFIF - 0x0005] Version = 1.1
+       [JFIF - 0x0007] Resolution Units = none
+       [JFIF - 0x0008] X Resolution = 1 dot
+       [JFIF - 0x000a] Y Resolution = 1 dot
+       [JFIF - 0x000c] Thumbnail Width Pixels = 0
+       [JFIF - 0x000d] Thumbnail Height Pixels = 0
+       
+       [Exif IFD0 - 0x010f] Make = FLIR Systems AB
+       [Exif IFD0 - 0x0110] Model = 
+       [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+       [Exif IFD0 - 0x011a] X Resolution = 72 dots per inch
+       [Exif IFD0 - 0x011b] Y Resolution = 72 dots per inch
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       [Exif IFD0 - 0x0131] Software = Common_fileformat
+       [Exif IFD0 - 0x0213] YCbCr Positioning = Center of pixel array
+       
+       [Exif SubIFD - 0x9000] Exif Version = 
+       [Exif SubIFD - 0x9101] Components Configuration = CrCbY
+       [Exif SubIFD - 0x927c] Makernote = [66 values]
+       [Exif SubIFD - 0xa000] FlashPix Version = 
+       [Exif SubIFD - 0xa001] Color Space = sRGB
+       [Exif SubIFD - 0xa002] Exif Image Width = 480 pixels
+       [Exif SubIFD - 0xa003] Exif Image Height = 640 pixels
+       [Exif SubIFD - 0xa404] Digital Zoom Ratio = Digital zoom not used
+       [Exif SubIFD - 0xa420] Unique Image ID = h
+       
+       [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+       [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+       [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+       [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+       [Exif Thumbnail - 0x0128] Resolution Unit = Inch
+       [Exif Thumbnail - 0x0201] Thumbnail Offset = 468 bytes
+       [Exif Thumbnail - 0x0202] Thumbnail Length = 1760 bytes
+       
+       [Huffman - 0x0001] Number of Tables = 4 Huffman tables
+       
+DOTNET [FLIR Header - 0x0000] Creator Software = 
+DOTNET 
+DOTNET [FLIR Camera Info - 0x0020] Emissivity = 0.95
+DOTNET [FLIR Camera Info - 0x0024] Object Distance = 1
+DOTNET [FLIR Camera Info - 0x0028] Reflected Apparent Temperature = 22.0 C
+DOTNET [FLIR Camera Info - 0x002c] Atmospheric Temperature = 20.0 C
+DOTNET [FLIR Camera Info - 0x0030] IR Window Temperature = 25.0 C
+DOTNET [FLIR Camera Info - 0x0034] IR Window Transmission = 1
+DOTNET [FLIR Camera Info - 0x003c] Relative Humidity = 50.0 %
+DOTNET [FLIR Camera Info - 0x0058] Planck R1 = 16738.6
+DOTNET [FLIR Camera Info - 0x005c] Planck B = 1435
+DOTNET [FLIR Camera Info - 0x0060] Planck F = 1
+DOTNET [FLIR Camera Info - 0x0070] Atmospheric Trans Alpha1 = 0.007
+DOTNET [FLIR Camera Info - 0x0074] Atmospheric Trans Alpha2 = 0.013
+DOTNET [FLIR Camera Info - 0x0078] Atmospheric Trans Beta1 = -0.002
+DOTNET [FLIR Camera Info - 0x007c] Atmospheric Trans Beta2 = -0.007
+DOTNET [FLIR Camera Info - 0x0080] Atmospheric Trans X = 1.9
+DOTNET [FLIR Camera Info - 0x0090] Camera Temperature Range Max = 120.0 C
+DOTNET [FLIR Camera Info - 0x0094] Camera Temperature Range Min = -40.0 C
+DOTNET [FLIR Camera Info - 0x0098] Camera Temperature Max Clip = 150.0 C
+DOTNET [FLIR Camera Info - 0x009c] Camera Temperature Min Clip = -60.0 C
+DOTNET [FLIR Camera Info - 0x00a0] Camera Temperature Max Warn = 120.0 C
+DOTNET [FLIR Camera Info - 0x00a4] Camera Temperature Min Warn = -40.0 C
+DOTNET [FLIR Camera Info - 0x00a8] Camera Temperature Max Saturated = 150.0 C
+DOTNET [FLIR Camera Info - 0x00ac] Camera Temperature Min Saturated = -60.0 C
+DOTNET [FLIR Camera Info - 0x00d4] Camera Model = FLIR ONE Pro (gen 3)
+DOTNET [FLIR Camera Info - 0x00f4] Camera Part Number = 
+DOTNET [FLIR Camera Info - 0x0104] Camera Serial Number = T06L1T00177
+DOTNET [FLIR Camera Info - 0x0114] Camera Software = 
+DOTNET [FLIR Camera Info - 0x0170] Lens Model = 
+DOTNET [FLIR Camera Info - 0x0190] Lens Part Number = 
+DOTNET [FLIR Camera Info - 0x01a0] Lens Serial Number = No Lens
+DOTNET [FLIR Camera Info - 0x01b4] Field Of View = 0
+DOTNET [FLIR Camera Info - 0x01ec] Filter Model = 
+DOTNET [FLIR Camera Info - 0x01fc] Filter Part Number = 
+DOTNET [FLIR Camera Info - 0x021c] Filter Serial Number = 
+DOTNET [FLIR Camera Info - 0x0308] Planck O = -3422
+DOTNET [FLIR Camera Info - 0x030c] Planck R2 = 0.013
+DOTNET [FLIR Camera Info - 0x0310] Raw Value Range Min = 4
+DOTNET [FLIR Camera Info - 0x0312] Raw Value Range Max = 65535
+DOTNET [FLIR Camera Info - 0x0338] Raw Value Median = 14200
+DOTNET [FLIR Camera Info - 0x033c] Raw Value Range = 2736
+DOTNET [FLIR Camera Info - 0x0384] Date Time Original = 16/05/2021 12:27:36 PM +07:00
+DOTNET [FLIR Camera Info - 0x0390] Focus Step Count = 0
+DOTNET [FLIR Camera Info - 0x045c] Focus Distance = 2
+DOTNET [FLIR Camera Info - 0x0464] Frame Rate = 9
+DOTNET 
+DOTNET [FLIR Raw Data - 0x0002] Raw Thermal Image Width = 480
+DOTNET [FLIR Raw Data - 0x0004] Raw Thermal Image Height = 640
+DOTNET [FLIR Raw Data - 0x0022] Raw Thermal Image Type = 18254
+DOTNET 
+       [File Type - 0x0001] Detected File Type Name = JPEG
+       [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+       [File Type - 0x0003] Detected MIME Type = image/jpeg
+       [File Type - 0x0004] Expected File Name Extension = jpg
+       
+       [File - 0x0001] File Name = FLIR iPhone device.jpg
+       [File - 0x0002] File Size = 494393 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - JPEG
+       - JFIF
+       - Exif IFD0
+           - Exif SubIFD
+           - Exif Thumbnail
+       - Huffman
+DOTNET - FLIR Header
+DOTNET - FLIR Camera Info
+DOTNET - FLIR Raw Data
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       
