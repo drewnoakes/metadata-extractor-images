@@ -18,8 +18,8 @@ TYPE: ARW
 [Exif IFD0 - 0x0144] Tile Offsets = 483
 [Exif IFD0 - 0x0145] Tile Byte Counts = 30874
 [Exif IFD0 - 0x0153] Unknown tag (0x0153) = 1 1 1
-[Exif IFD0 - 0x830e] Unknown tag (0x830e) = 100.105 0 100.49
-[Exif IFD0 - 0x8482] Unknown tag (0x8482) = 0 0 0 0 0 0
+[Exif IFD0 - 0x830e] Unknown tag (0x830e) = 100.105 100.49 0
+[Exif IFD0 - 0x8482] Unknown tag (0x8482) = 0 0 0 589980 4928040 0
 [Exif IFD0 - 0x87af] Unknown tag (0x87af) = [32 values]
 [Exif IFD0 - 0x87b1] Unknown tag (0x87b1) = ETRS89 / Poland CS92|ETRS89|
 
