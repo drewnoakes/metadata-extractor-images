@@ -23,7 +23,7 @@ TYPE: EPS
 [Exif IFD0 - 0x0111] Strip Offsets = 11
 [Exif IFD0 - 0x0117] Strip Byte Counts = 1198548 bytes
 [Exif IFD0 - 0x0140] Unknown tag (0x0140) = [768 values]
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x0152] Extra Samples = Associated alpha
 
 [Photoshop - 0x07d0] Path Info 1 = "Path" having 1 subpath:
 - Closed Subpath with 1 knot:

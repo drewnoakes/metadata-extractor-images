@@ -17,7 +17,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x013d] Predictor = 2
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 999
+[Exif IFD0 - 0x0152] Extra Samples = Unknown (999)
 [Exif IFD0 - 0x84e0] Unknown tag (0x84e0) = 
 [Exif IFD0 - 0x84e1] Unknown tag (0x84e1) = 
 [Exif IFD0 - 0x84e2] Unknown tag (0x84e2) = 

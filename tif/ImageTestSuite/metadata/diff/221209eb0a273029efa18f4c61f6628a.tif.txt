@@ -18,8 +18,8 @@
        [Exif IFD0 - 0x0131] Software = Pixelmator 1.1.4
        [Exif IFD0 - 0x0132] Date/Time = 2008-06-16 16:39:39 
        [Exif IFD0 - 0x013d] Predictor = 2
-       [Exif IFD0 - 0x0152] Unknown tag (0x0152) = 2
-       [Exif IFD0 - 0x0153] Unknown tag (0x0153) = 1 1 1 1
+       [Exif IFD0 - 0x0152] Extra Samples = Unassociated alpha
+       [Exif IFD0 - 0x0153] Sample Format = Unsigned, Unsigned, Unsigned, Unsigned
        
        [IPTC - 0x015a] Coded Character Set = UTF-8
        [IPTC - 0x0200] Application Record Version = 2

@@ -19,7 +19,7 @@ TYPE: ARW
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop CS2 Windows
 [Exif IFD0 - 0x0132] Date/Time = 2006:06:15 20:50:55
 [Exif IFD0 - 0x013d] Predictor = 2
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x0152] Extra Samples = Associated alpha
 [Exif IFD0 - 0x935c] Unknown tag (0x935c) = [319320 values]
 
 [XMP - 0xffff] XMP Value Count = 28

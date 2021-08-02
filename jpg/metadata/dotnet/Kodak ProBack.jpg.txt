@@ -40,6 +40,36 @@ TYPE: JPEG
 [Exif SubIFD - 0xa002] Exif Image Width = 4062 pixels
 [Exif SubIFD - 0xa003] Exif Image Height = 2902 pixels
 
+[Interoperability - 0x00fe] New Subfile Type = Full-resolution image
+[Interoperability - 0x010e] Image Description = 
+[Interoperability - 0x010f] Make = Kodak
+[Interoperability - 0x0110] Model = ProBack
+[Interoperability - 0x011a] X Resolution = 300 dots per inch
+[Interoperability - 0x011b] Y Resolution = 300 dots per inch
+[Interoperability - 0x0128] Resolution Unit = Inch
+[Interoperability - 0x0131] Software = KODAK PROFESSIONAL DCS Photo Desk JPEG Export v3.2 W
+[Interoperability - 0x0132] Date/Time = 2004:03:13 12:33:04
+[Interoperability - 0x0213] YCbCr Positioning = Datum point
+[Interoperability - 0x8290] Unknown tag (0x8290) = 356
+[Interoperability - 0x83bb] IPTC/NAA = [1024 values]
+[Interoperability - 0x8769] Unknown tag (0x8769) = 410
+[Interoperability - 0x9003] Date/Time Original = 2004:03:13 12:33:04
+
+[Exif Image - 0x00fe] New Subfile Type = Full-resolution image
+[Exif Image - 0x0100] Image Width = 156 pixels
+[Exif Image - 0x0101] Image Height = 111 pixels
+[Exif Image - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif Image - 0x0103] Compression = Uncompressed
+[Exif Image - 0x0106] Photometric Interpretation = RGB
+[Exif Image - 0x0111] Strip Offsets = 4944
+[Exif Image - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif Image - 0x0116] Rows Per Strip = 111 rows/strip
+[Exif Image - 0x0117] Strip Byte Counts = 51948 bytes
+[Exif Image - 0x011a] X Resolution = 300 dots per inch
+[Exif Image - 0x011b] Y Resolution = 300 dots per inch
+[Exif Image - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif Image - 0x0128] Resolution Unit = Inch
+
 [Exif Thumbnail - 0x00fe] New Subfile Type = Full-resolution image
 [Exif Thumbnail - 0x0100] Image Width = 156 pixels
 [Exif Thumbnail - 0x0101] Image Height = 111 pixels
@@ -71,6 +101,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
         - Interoperability
+            - Exif Image
     - Exif Thumbnail
 - Huffman
 - File Type

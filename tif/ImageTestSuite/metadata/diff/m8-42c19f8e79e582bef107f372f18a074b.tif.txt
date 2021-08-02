@@ -24,7 +24,7 @@ DOTNET [ERROR: XMP] Error processing XMP data: Unsupported Encoding
        [Exif IFD0 - 0x011b] Y Resolution = 1845542656/16777215 dots per unit
        [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
        [Exif IFD0 - 0x0132] Date/Time = 2008W06:13 10:53:40
-       [Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+       [Exif IFD0 - 0x0152] Extra Samples = Associated alpha
        [Exif IFD0 - 0x0873] Unknown tag (0x0873) = [4380 values]
        [Exif IFD0 - 0x935c] Unknown tag (0x935c) = [5628 values]
        

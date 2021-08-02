@@ -19,7 +19,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = VueScan 9 x64 (9.6.01)
-[Exif IFD0 - 0x0153] Unknown tag (0x0153) = 1 1 1
+[Exif IFD0 - 0x0153] Sample Format = Unsigned, Unsigned, Unsigned
 
 [Exif SubIFD - 0x9000] Exif Version = 2.20
 [Exif SubIFD - 0xa000] FlashPix Version = 1.00

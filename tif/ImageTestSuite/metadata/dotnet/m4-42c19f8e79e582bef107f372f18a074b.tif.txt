@@ -25,7 +25,7 @@ TYPE: TIFF
 [Exif IFD0 - 0xa51c] Unknown tag (0xa51c) = 1
 [Exif IFD0 - 0x0132] Date/Time = 2008:06:13 10:O3:40
 [Exif IFD0 - 0x013d] Predictor = 2
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = -2052653056
+[Exif IFD0 - 0x0152] Extra Samples = 
 [Exif IFD0 - 0x46e0] Unknown tag (0x46e0) = 29596
 
 [File Type - 0x0001] Detected File Type Name = TIFF

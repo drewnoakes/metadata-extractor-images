@@ -17,11 +17,17 @@ TYPE: ARW
 [Exif IFD0 - 0x0143] Tile Length = 256
 [Exif IFD0 - 0x0144] Tile Offsets = 483
 [Exif IFD0 - 0x0145] Tile Byte Counts = 30874
-[Exif IFD0 - 0x0153] Unknown tag (0x0153) = 1 1 1
-[Exif IFD0 - 0x830e] Unknown tag (0x830e) = 100.105 100.49 0
-[Exif IFD0 - 0x8482] Unknown tag (0x8482) = 0 0 0 589980 4928040 0
-[Exif IFD0 - 0x87af] Unknown tag (0x87af) = [32 values]
-[Exif IFD0 - 0x87b1] Unknown tag (0x87b1) = ETRS89 / Poland CS92|ETRS89|
+[Exif IFD0 - 0x0153] Sample Format = Unsigned, Unsigned, Unsigned
+[Exif IFD0 - 0x830e] Pixel Scale = 100.105 100.49 0
+[Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 589980 4928040 0
+
+[GeoTIFF - 0x0400] Model Type = Projected
+[GeoTIFF - 0x0401] Raster Type = Projected
+[GeoTIFF - 0x0402] Citation = ETRS89 / Poland CS92
+[GeoTIFF - 0x0801] Geographic Citation = ETRS89
+[GeoTIFF - 0x0806] Geographic Angular Units = Angular Degree
+[GeoTIFF - 0x0c00] Projected Coordinate System Type = ETRS89 Poland CS92
+[GeoTIFF - 0x0c04] Projection Linear Units = Linear Meter
 
 [File Type - 0x0001] Detected File Type Name = ARW
 [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
@@ -32,6 +38,7 @@ TYPE: ARW
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+    - GeoTIFF
 - File Type
 - File
 

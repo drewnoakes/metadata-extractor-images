@@ -27,7 +27,7 @@ TYPE: TIFF
 [Exif IFD0 - 0xa51c] Unknown tag (0xa51c) = 1
 [Exif IFD0 - 0x0132] Date/Time = 200|:06:13 10:O3:Q0
 [Exif IFD0 - 0x0142] Tile Width = 2
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 10944512
+[Exif IFD0 - 0x0152] Extra Samples = Unknown (10944512)
 [Exif IFD0 - 0x4659] Unknown tag (0x4659) = 29596
 
 [File Type - 0x0001] Detected File Type Name = TIFF

@@ -18,8 +18,8 @@ TYPE: TIFF
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0132] Date/Time = 208:06:17 10:03:36
 [Exif IFD0 - 0x0187] Unknown tag (0x0187) = 72
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 31489
-[Exif IFD0 - 0x0153] Unknown tag (0x0153) = 1 137 1 1
+[Exif IFD0 - 0x0152] Extra Samples = Unknown (31489)
+[Exif IFD0 - 0x0153] Sample Format = Unsigned, Unknown (137), Unsigned, Unsigned
 
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format

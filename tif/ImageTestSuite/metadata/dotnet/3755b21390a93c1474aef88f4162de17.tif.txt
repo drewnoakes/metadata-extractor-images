@@ -21,7 +21,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x0132] Date/Time = 2003:06:16 13:16:16
 [Exif IFD0 - 0x013d] Predictor = 1
 [Exif IFD0 - 0x0150] Unknown tag (0x0150) = 0 255
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 2
+[Exif IFD0 - 0x0152] Extra Samples = Unassociated alpha
 [Exif IFD0 - 0x935c] Unknown tag (0x935c) = [49032 values]
 
 [XMP - 0xffff] XMP Value Count = 2

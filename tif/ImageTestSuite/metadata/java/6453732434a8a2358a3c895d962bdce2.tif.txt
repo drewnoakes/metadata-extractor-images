@@ -18,7 +18,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x0143] Tile Length = 128
 [Exif IFD0 - 0x0144] Tile Offsets = 8946 69536 100654 132657
 [Exif IFD0 - 0x0145] Tile Byte Counts = 60590 31118 32003 14936
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x0152] Extra Samples = Associated alpha
 
 [XMP - 0xffff] XMP Value Count = 2
 

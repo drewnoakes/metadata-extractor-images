@@ -26,7 +26,8 @@ DOTNET [ERROR: Exif Image] Illegal TIFF tag pointer offset
        [Exif Thumbnail - 0x0100] Image Width = 3307 pixels
        [Exif Thumbnail - 0x0101] Image Height = 4704 pixels
        [Exif Thumbnail - 0x0102] Bits Per Sample = 1 bits/component/pixel
-       [Exif Thumbnail - 0x0153] Unknown tag (0x0153) = 4
+JAVA   [Exif Thumbnail - 0x0153] Sample Format = Undefined
+DOTNET [Exif Thumbnail - 0x0153] Sample Format = 
        [Exif Thumbnail - 0x0106] Photometric Interpretation = WhiteIsZero
        [Exif Thumbnail - 0x010a] Fill Order = Normal
 JAVA   [Exif Thumbnail - 0x0111] Strip Offsets = 992074

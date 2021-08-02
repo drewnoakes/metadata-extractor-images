@@ -28,7 +28,7 @@ TYPE: TIFF
 [Exif IFD0 - 0xa51c] Unknown tag (0xa51c) = 1
 [Exif IFD0 - 0x0132] Date/Time = 2008:06:13 10:O3:40
 [Exif IFD0 - 0x013d] Predictor = 2
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 10944512
+[Exif IFD0 - 0x0152] Extra Samples = Unknown (10944512)
 [Exif IFD0 - 0x462a] Unknown tag (0x462a) = 29596
 
 [ICC Profile - 0x0000] Profile Size = 4380

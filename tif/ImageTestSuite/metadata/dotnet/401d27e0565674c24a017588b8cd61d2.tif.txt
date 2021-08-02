@@ -18,7 +18,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop Elements 2.0
 [Exif IFD0 - 0x0132] Date/Time = 2005:01:24 11:05:43
 [Exif IFD0 - 0x013d] Predictor = 2
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 0
+[Exif IFD0 - 0x0152] Extra Samples = Unspecified
 
 [XMP - 0xffff] XMP Value Count = 39
 

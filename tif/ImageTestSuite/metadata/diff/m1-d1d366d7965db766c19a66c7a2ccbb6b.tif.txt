@@ -25,8 +25,8 @@
        [Exif IFD0 - 0x0132] Date/Time = 2008:06:17 10:03:36
        [Exif IFD0 - 0x013b] Artist = Matteo Della Torre
        [Exif IFD0 - 0x013d] Predictor = 2
-       [Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
-       [Exif IFD0 - 0x0153] Unknown tag (0x0153) = 1 1 1 1
+       [Exif IFD0 - 0x0152] Extra Samples = Associated alpha
+       [Exif IFD0 - 0x0153] Sample Format = Unsigned, Unsigned, Unsigned, Unsigned
        [Exif IFD0 - 0x0000] Unknown tag (0x0000) = [34168 values]
        
        [ICC Profile - 0x0000] Profile Size = 3176

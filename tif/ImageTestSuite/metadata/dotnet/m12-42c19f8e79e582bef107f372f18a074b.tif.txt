@@ -22,7 +22,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop CS3 Macintosh
 [Exif IFD0 - 0x0132] Date/Time = 2008:06:13 10:53:40
 [Exif IFD0 - 0x013d] Predictor = 2
-[Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+[Exif IFD0 - 0x0152] Extra Samples = Associated alpha
 
 [IPTC - 0x0200] Application Record Version = 0
 

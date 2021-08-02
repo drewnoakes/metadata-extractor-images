@@ -23,7 +23,7 @@ DOTNET [ERROR: XMP] Error processing XMP data: Unsupported Encoding
        [Exif IFD0 - 0x0131] Software = Adobe Pho�oshop CS3 Macintosh
        [Exif IFD0 - 0x0132] Date/Time = 
        [Exif IFD0 - 0x013d] Predictor = 2
-       [Exif IFD0 - 0x0152] Unknown tag (0x0152) = 1
+       [Exif IFD0 - 0x0152] Extra Samples = Associated alpha
        [Exif IFD0 - 0x83bb] IPTC/NAA = 570556416 33554432
        [Exif IFD0 - 0x935c] Unknown tag (0x935c) = [5628 values]
        

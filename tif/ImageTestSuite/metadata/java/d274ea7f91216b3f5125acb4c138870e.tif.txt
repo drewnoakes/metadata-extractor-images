@@ -20,7 +20,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x0131] Software = ActivR
 [Exif IFD0 - 0x0141] Unknown tag (0x0141) = 0 0
 [Exif IFD0 - 0x014d] Unknown tag (0x014d) = BSC1.000000,1.000000,0,0,1,
-[Exif IFD0 - 0x0153] Unknown tag (0x0153) = 4 4 4
+[Exif IFD0 - 0x0153] Sample Format = Undefined, Undefined, Undefined
 
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
