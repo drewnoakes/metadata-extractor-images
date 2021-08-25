@@ -26,7 +26,6 @@
        [Exif SubIFD - 0x882a] Time Zone Offset = -6
        [Exif SubIFD - 0x9101] Components Configuration = YCbCr
        [Exif SubIFD - 0x9209] Flash = Flash did not fire, auto
-JAVA   [Exif SubIFD - 0x927c] Makernote = [837 values]
        [Exif SubIFD - 0xa000] FlashPix Version = 1.00
        [Exif SubIFD - 0xa001] Color Space = sRGB
        [Exif SubIFD - 0xa002] Exif Image Width = 2048 pixels
@@ -34,32 +33,35 @@ JAVA   [Exif SubIFD - 0x927c] Makernote = [837 values]
        [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
        [Exif SubIFD - 0xa403] White Balance Mode = Manual white balance
        [Exif SubIFD - 0xa406] Scene Capture Type = Standard
-DOTNET 
+       
+JAVA   [Reconyx HyperFire 2 Makernote - 0x002a] Firmware Version = 1.4.18520.20180824
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0010] File Number = 1
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0012] Directory Number = 100
 DOTNET [Reconyx HyperFire 2 Makernote - 0x002a] Firmware Version = 1.4a
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0030] Firmware Date = 24/08/2018
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0034] Trigger Mode = Motion Detection
-DOTNET [Reconyx HyperFire 2 Makernote - 0x0036] Sequence = 1/5
-DOTNET [Reconyx HyperFire 2 Makernote - 0x003a] Event Number = 1
-DOTNET [Reconyx HyperFire 2 Makernote - 0x003e] Date/Time Original = 2019:04:04 10:04:12
+       [Reconyx HyperFire 2 Makernote - 0x0036] Sequence = 1/5
+       [Reconyx HyperFire 2 Makernote - 0x003a] Event Number = 1
+       [Reconyx HyperFire 2 Makernote - 0x003e] Date/Time Original = 2019:04:04 10:04:12
 DOTNET [Reconyx HyperFire 2 Makernote - 0x004a] Day Of Week = Friday
-DOTNET [Reconyx HyperFire 2 Makernote - 0x004c] Moon Phase = New
+       [Reconyx HyperFire 2 Makernote - 0x004c] Moon Phase = New
+JAVA   [Reconyx HyperFire 2 Makernote - 0x004e] Ambient Temperature Fahrenheit = 41
+JAVA   [Reconyx HyperFire 2 Makernote - 0x0050] Ambient Temperature = 5
 DOTNET [Reconyx HyperFire 2 Makernote - 0x004e] Ambient Temperature Fahrenheit = 41°F
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0050] Ambient Temperature Celcius = 5°C
-DOTNET [Reconyx HyperFire 2 Makernote - 0x0052] Contrast = 128
-DOTNET [Reconyx HyperFire 2 Makernote - 0x0054] Brightness = 0
-DOTNET [Reconyx HyperFire 2 Makernote - 0x0056] Sharpness = 64
-DOTNET [Reconyx HyperFire 2 Makernote - 0x0058] Saturation = 128
-DOTNET [Reconyx HyperFire 2 Makernote - 0x005a] Flash = Off
-DOTNET [Reconyx HyperFire 2 Makernote - 0x005c] Ambient Infrared = 3227
-DOTNET [Reconyx HyperFire 2 Makernote - 0x005e] Ambient Light = 10240
-DOTNET [Reconyx HyperFire 2 Makernote - 0x0060] Motion Sensitivity = 90
-DOTNET [Reconyx HyperFire 2 Makernote - 0x0062] Battery Voltage = 10.005
-DOTNET [Reconyx HyperFire 2 Makernote - 0x0064] Battery Voltage Average = 10.073
+       [Reconyx HyperFire 2 Makernote - 0x0052] Contrast = 128
+       [Reconyx HyperFire 2 Makernote - 0x0054] Brightness = 0
+       [Reconyx HyperFire 2 Makernote - 0x0056] Sharpness = 64
+       [Reconyx HyperFire 2 Makernote - 0x0058] Saturation = 128
+       [Reconyx HyperFire 2 Makernote - 0x005a] Flash = Off
+       [Reconyx HyperFire 2 Makernote - 0x005c] Ambient Infrared = 3227
+       [Reconyx HyperFire 2 Makernote - 0x005e] Ambient Light = 10240
+       [Reconyx HyperFire 2 Makernote - 0x0060] Motion Sensitivity = 90
+       [Reconyx HyperFire 2 Makernote - 0x0062] Battery Voltage = 10.005
+       [Reconyx HyperFire 2 Makernote - 0x0064] Battery Voltage Average = 10.073
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0066] Battery Type = 1
 DOTNET [Reconyx HyperFire 2 Makernote - 0x0068] User Label = HF2 PRO COVERT
-DOTNET [Reconyx HyperFire 2 Makernote - 0x007e] Serial Number = HLPXEL09018779
+       [Reconyx HyperFire 2 Makernote - 0x007e] Serial Number = HLPXEL09018779
        
        [Huffman - 0x0001] Number of Tables = 4 Huffman tables
        
@@ -75,7 +77,7 @@ DOTNET [Reconyx HyperFire 2 Makernote - 0x007e] Serial Number = HLPXEL09018779
        - JPEG
        - Exif IFD0
            - Exif SubIFD
-DOTNET - Reconyx HyperFire 2 Makernote
+       - Reconyx HyperFire 2 Makernote
        - Huffman
        - File Type
        - File
