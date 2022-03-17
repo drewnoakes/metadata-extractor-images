@@ -1,8 +1,6 @@
        FILE: Issue 316 (dotnet).png
        TYPE: PNG
        
-DOTNET [ERROR: Error] Exception processing TIFF data: Unclear distinction between Motorola/Intel byte ordering: 17784
-DOTNET 
        [PNG-IHDR - 0x0001] Image Width = 5202
        [PNG-IHDR - 0x0002] Image Height = 3465
        [PNG-IHDR - 0x0003] Bits Per Sample = 8
@@ -15,10 +13,6 @@ JAVA   [PNG-zTXt - 0x000d] Textual Data = Raw profile type exif:
 JAVA   exif
 JAVA      17068
 JAVA   45786966000049492a000800000012000b0002000e000000e60000000001040001000000
-DOTNET [IPTC - 0x0237] Date Created = 2022-03-16
-DOTNET [IPTC - 0x0241] Originating Program = digiKam
-DOTNET [IPTC - 0x0246] Program Version = 2.5.0
-DOTNET [IPTC - 0x023c] Time Created = 08:48:38-08:48
 JAVA   521400000101040001000000890d00000201030003000000f40000000301030001000000
 JAVA   060000000d0102000d000000fa0000000e01020001000000000000000f01020006000000
 JAVA   08010000100102000f0000000e0100001201030001000000010000001a01050001000000
@@ -61,6 +55,52 @@ JAVA   302030203020302030203020302030203020302030203020302030203020302030203020
 JAVA   302030203020302030203020302030203020302030203020302030203020302030203020
 JAVA   302030203020302030203020302030203020302030203020302030203020302030203020
 JAVA   302030203020302030203020302030203020302030203020302030203020302030203020
+DOTNET [Exif IFD0 - 0x000b] Unknown tag (0x000b) = digiKam-2.5.0
+DOTNET [Exif IFD0 - 0x0100] Image Width = 5202 pixels
+DOTNET [Exif IFD0 - 0x0101] Image Height = 3465 pixels
+DOTNET [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+DOTNET [Exif IFD0 - 0x0103] Compression = JPEG (old-style)
+DOTNET [Exif IFD0 - 0x010d] Document Name = IMG_2240.CR2
+DOTNET [Exif IFD0 - 0x010e] Image Description = 
+DOTNET [Exif IFD0 - 0x010f] Make = Canon
+DOTNET [Exif IFD0 - 0x0110] Model = Canon EOS 550D
+DOTNET [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+DOTNET [Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+DOTNET [Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+DOTNET [Exif IFD0 - 0x0128] Resolution Unit = Inch
+DOTNET [Exif IFD0 - 0x0131] Software = GIMP 2.10.30
+DOTNET [Exif IFD0 - 0x0132] Date/Time = 2022:03:16 08:48:38
+DOTNET [Exif IFD0 - 0x013b] Artist = L-O.Bergfeldt.
+DOTNET [Exif IFD0 - 0x8298] Copyright = 
+DOTNET 
+DOTNET [Exif SubIFD - 0x829a] Exposure Time = 1/800 sec
+DOTNET [Exif SubIFD - 0x829d] F-Number = f/5.6
+DOTNET [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+DOTNET [Exif SubIFD - 0x8827] ISO Speed Ratings = 400
+DOTNET [Exif SubIFD - 0x9000] Exif Version = 2.21
+DOTNET [Exif SubIFD - 0x9003] Date/Time Original = 2012:08:23 17:42:23
+DOTNET [Exif SubIFD - 0x9004] Date/Time Digitized = 2012:08:23 17:42:23
+DOTNET [Exif SubIFD - 0x9101] Components Configuration = YCbCr
+DOTNET [Exif SubIFD - 0x9201] Shutter Speed Value = 1/789 sec
+DOTNET [Exif SubIFD - 0x9202] Aperture Value = f/5.7
+DOTNET [Exif SubIFD - 0x9204] Exposure Bias Value = 1/-3 EV
+DOTNET [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
+DOTNET [Exif SubIFD - 0x9209] Flash = Flash did not fire
+DOTNET [Exif SubIFD - 0x920a] Focal Length = 55 mm
+DOTNET [Exif SubIFD - 0x9286] User Comment = 
+DOTNET [Exif SubIFD - 0x9290] Sub-Sec Time = 61
+DOTNET [Exif SubIFD - 0x9291] Sub-Sec Time Original = 61
+DOTNET [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 61
+DOTNET [Exif SubIFD - 0xa000] FlashPix Version = 1.00
+DOTNET [Exif SubIFD - 0xa002] Exif Image Width = 5202 pixels
+DOTNET [Exif SubIFD - 0xa003] Exif Image Height = 3465 pixels
+DOTNET [Exif SubIFD - 0xa20e] Focal Plane X Resolution = 181/1036800 inches
+DOTNET [Exif SubIFD - 0xa20f] Focal Plane Y Resolution = 119/691200 inches
+DOTNET [Exif SubIFD - 0xa210] Focal Plane Resolution Unit = Inches
+DOTNET [Exif SubIFD - 0xa401] Custom Rendered = Normal process
+DOTNET [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+DOTNET [Exif SubIFD - 0xa403] White Balance Mode = Manual white balance
+DOTNET [Exif SubIFD - 0xa406] Scene Capture Type = Standard
 JAVA   302030203020302030203020302030203020302030203020302030203020302030203020
 JAVA   302030203020302030203020302030203020302030203020302030203020302030203020
 JAVA   302030203020302030203020302030203020302030203020302030203020302030203020
@@ -493,15 +533,146 @@ JAVA   601849eac734d2e73f771522f415267f76d4ae8441e6e7b31fc290cf2e070d8fa538124f
 JAVA   5a01e453d0761bbddb1cb67e948c581c6de7deaca805ba54640c9e0521116e61dc0a5f31
 JAVA   b190a33f5a5603078a6a0e0fe3468034c8e780ab93d693791f793f0153530f239f4a2ebb
 JAVA   0cffd900
-JAVA   
-JAVA   
+       
+DOTNET [Canon Makernote - 0x0003] Unknown tag (0x0003) = 0 0 0 0
+DOTNET [Canon Makernote - 0x0019] Unknown tag (0x0019) = 1
+DOTNET [Canon Makernote - 0x0098] Crop Info = 0 0 0 0
+DOTNET [Canon Makernote - 0x4009] Unknown tag (0x4009) = 0 0 0
+DOTNET [Canon Makernote - 0x4011] Unknown tag (0x4011) = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+DOTNET [Canon Makernote - 0x4012] Unknown tag (0x4012) = 
+DOTNET [Canon Makernote - 0x4017] Unknown tag (0x4017) = 262918 1409286145
+DOTNET [Canon Makernote - 0x4019] Lens Info Array = 0 0 0 0 3 0 0 0 62 0 0 0 62 0 3 128 0 0 0 0 4 0 0 0 0 0 0 0 0 0
+DOTNET [Canon Makernote - 0x0026] AF Info Array 2 = [48 values]
+DOTNET [Canon Makernote - 0x000d] Camera Info Array = [1536 values]
+DOTNET [Canon Makernote - 0x4001] Color Data Array 1 = [1338 values]
+DOTNET [Canon Makernote - 0x000f] Custom Functions = [50 values]
+DOTNET [Canon Makernote - 0x0097] Dust Removal Data = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+DOTNET [Canon Makernote - 0x0007] Firmware Version = Firmware Version 1.0.9
+DOTNET [Canon Makernote - 0xc200] Unknown tag (0xc200) = 0
+DOTNET [Canon Makernote - 0xc201] Unknown tag (0xc201) = 55
+DOTNET [Canon Makernote - 0xc202] Unknown tag (0xc202) = 8902
+DOTNET [Canon Makernote - 0xc203] Unknown tag (0xc203) = 19690
+DOTNET [Canon Makernote - 0x0006] Image Type = Canon EOS 550D
+DOTNET [Canon Makernote - 0x0096] Serial Info Array = VA0008582
+DOTNET [Canon Makernote - 0x0095] Lens Model = EF-S18-55mm f/3.5-5.6 IS
+DOTNET [Canon Makernote - 0x4018] Lighting Optimizer Array = 12 0 3
+DOTNET [Canon Makernote - 0x00aa] Measured Color Array = 12 440 1024 1024 806 0
+DOTNET [Canon Makernote - 0x0010] Canon Model ID = 2147484272
+DOTNET [Canon Makernote - 0x0083] Original Decision Data Offset = 3272
+DOTNET [Canon Makernote - 0x0009] Owner Name = 
+DOTNET [Canon Makernote - 0x4008] Black Level = 129 129 129
+DOTNET [Canon Makernote - 0x00e0] Sensor Information Array = [17 values]
+DOTNET [Canon Makernote - 0x000c] Camera Serial Number = 006400253
+DOTNET [Canon Makernote - 0x0015] Serial Number Format = 2684354560
+DOTNET [Canon Makernote - 0x0013] Thumbnail Image Valid Area = 0 159 7 112
+DOTNET [Canon Makernote - 0x00d0] VRD Offset = 0
+DOTNET [Canon Makernote - 0x4015] Vignetting Correction Array 1 = [116 values]
+DOTNET [Canon Makernote - 0x4016] Vignetting Correction Array 2 = 24 0 1 0 0 1
+DOTNET [Canon Makernote - 0xc100] Unknown tag (0xc100) = 96
+DOTNET [Canon Makernote - 0xc101] Macro Mode = Normal
+DOTNET [Canon Makernote - 0xc102] Self Timer Delay = Self timer not used
+DOTNET [Canon Makernote - 0xc103] Quality = RAW
+DOTNET [Canon Makernote - 0xc104] Flash Mode = No flash fired
+DOTNET [Canon Makernote - 0xc105] Continuous Drive Mode = Continuous
+DOTNET [Canon Makernote - 0xc106] Unknown Camera Setting 2 = 0
+DOTNET [Canon Makernote - 0xc107] Focus Mode = One-shot
+DOTNET [Canon Makernote - 0xc108] Unknown Camera Setting 3 = 0
+DOTNET [Canon Makernote - 0xc109] Record Mode = CR2
+DOTNET [Canon Makernote - 0xc10a] Image Size = Large
+DOTNET [Canon Makernote - 0xc10b] Easy Shooting Mode = Manual
+DOTNET [Canon Makernote - 0xc10c] Digital Zoom = No digital zoom
+DOTNET [Canon Makernote - 0xc10d] Contrast = Normal
+DOTNET [Canon Makernote - 0xc10e] Saturation = Normal
+DOTNET [Canon Makernote - 0xc10f] Sharpness = Unknown (32767)
+DOTNET [Canon Makernote - 0xc110] Iso = 16383
+DOTNET [Canon Makernote - 0xc111] Metering Mode = Centre weighted
+DOTNET [Canon Makernote - 0xc112] Focus Type = Unknown (2)
+DOTNET [Canon Makernote - 0xc113] AF Point Selected = Unknown (0)
+DOTNET [Canon Makernote - 0xc114] Exposure Mode = Av-priority
+DOTNET [Canon Makernote - 0xc115] Unknown Camera Setting 7 = 0
+DOTNET [Canon Makernote - 0xc116] Lens Type = Canon EF-S 18-55mm f/3.5-5.6 IS
+DOTNET [Canon Makernote - 0xc117] Long Focal Length = 55 1
+DOTNET [Canon Makernote - 0xc118] Short Focal Length = 18 1
+DOTNET [Canon Makernote - 0xc119] Focal Units per mm = 1
+DOTNET [Canon Makernote - 0xc11a] Max Aperture = f/5.7
+DOTNET [Canon Makernote - 0xc11b] Min Aperture = f/35.7
+DOTNET [Canon Makernote - 0xc11c] Flash Activity = Flash did not fire
+DOTNET [Canon Makernote - 0xc11d] Flash Details = Unknown (0)
+DOTNET [Canon Makernote - 0xc11e] Focus Continuous = Single
+DOTNET [Canon Makernote - 0xc11f] AE Setting = Normal AE
+DOTNET [Canon Makernote - 0xc120] Focus Mode = Single
+DOTNET [Canon Makernote - 0xc121] Display Aperture = f/0.0
+DOTNET [Canon Makernote - 0xc122] Zoom Source Width = 0
+DOTNET [Canon Makernote - 0xc123] Zoom Target Width = 0
+DOTNET [Canon Makernote - 0xc124] Unknown tag (0xc124) = 0
+DOTNET [Canon Makernote - 0xc125] Spot Metering Mode = Center
+DOTNET [Canon Makernote - 0xc126] Photo Effect = Off
+DOTNET [Canon Makernote - 0xc127] Manual Flash Output = n/a
+DOTNET [Canon Makernote - 0xc128] Unknown tag (0xc128) = 0
+DOTNET [Canon Makernote - 0xc129] Color Tone = 0
+DOTNET [Canon Makernote - 0xc12a] Unknown tag (0xc12a) = 0
+DOTNET [Canon Makernote - 0xc12b] Unknown tag (0xc12b) = 32767
+DOTNET [Canon Makernote - 0xc12c] Unknown tag (0xc12c) = 0
+DOTNET [Canon Makernote - 0xc12d] SRAW Quality = n/a
+DOTNET [Canon Makernote - 0xc12e] Unknown tag (0xc12e) = 0
+DOTNET [Canon Makernote - 0xc12f] Unknown tag (0xc12f) = 0
+DOTNET [Canon Makernote - 0x0093] File Info Array = [26 values]
+DOTNET [Canon Makernote - 0x00a0] Processing Information Array = 28 0 0 0 0 0 0 0 65535 5200 132 0 0 0
+DOTNET [Canon Makernote - 0xc400] Unknown tag (0xc400) = 68
+DOTNET [Canon Makernote - 0xc401] Auto ISO = 0
+DOTNET [Canon Makernote - 0xc402] Base ISO = 224
+DOTNET [Canon Makernote - 0xc403] Measured EV = 228
+DOTNET [Canon Makernote - 0xc404] Target Aperture = 160
+DOTNET [Canon Makernote - 0xc405] Target Exposure Time = 308
+DOTNET [Canon Makernote - 0xc406] Exposure Compensation = 65524
+DOTNET [Canon Makernote - 0xc407] White Balance = 2
+DOTNET [Canon Makernote - 0xc408] Slow Shutter = 3
+DOTNET [Canon Makernote - 0xc409] Sequence Number = 0
+DOTNET [Canon Makernote - 0xc40a] Optical Zoom Code = 8
+DOTNET [Canon Makernote - 0xc40b] Unknown tag (0xc40b) = 8
+DOTNET [Canon Makernote - 0xc40c] Camera Temperature = 154
+DOTNET [Canon Makernote - 0xc40d] Flash Guide Number = 0
+DOTNET [Canon Makernote - 0xc40e] AF Points in Focus = 0
+DOTNET [Canon Makernote - 0xc40f] Flash Exposure Compensation = 0
+DOTNET [Canon Makernote - 0xc410] Auto Exposure Bracketing = 0
+DOTNET [Canon Makernote - 0xc411] AEB Bracket Value = 0
+DOTNET [Canon Makernote - 0xc412] Control Mode = 1
+DOTNET [Canon Makernote - 0xc413] Focus Distance Upper = 0
+DOTNET [Canon Makernote - 0xc414] Focus Distance Lower = 0
+DOTNET [Canon Makernote - 0xc415] F Number = 160
+DOTNET [Canon Makernote - 0xc416] Exposure Time = 304
+DOTNET [Canon Makernote - 0xc417] Measured EV 2 = 144
+DOTNET [Canon Makernote - 0xc418] Bulb Duration = 0
+DOTNET [Canon Makernote - 0xc419] Unknown tag (0xc419) = 0
+DOTNET [Canon Makernote - 0xc41a] Camera Type = 248
+DOTNET [Canon Makernote - 0xc41b] Auto Rotate = 0
+DOTNET [Canon Makernote - 0xc41c] ND Filter = 65535
+DOTNET [Canon Makernote - 0xc41d] Self Timer 2 = 65535
+DOTNET [Canon Makernote - 0xc41e] Unknown tag (0xc41e) = 65535
+DOTNET [Canon Makernote - 0xc41f] Unknown tag (0xc41f) = 0
+DOTNET [Canon Makernote - 0xc420] Unknown tag (0xc420) = 0
+DOTNET [Canon Makernote - 0xc421] Flash Output = 0
+       
 JAVA   [PNG-zTXt - 0x000d] Textual Data = Raw profile type iptc: 
 JAVA   iptc
 JAVA         68
 JAVA   3842494d04040000000000381c0237000a323032322d30332d31361c0241000764696769
 JAVA   4b616d1c02460005322e352e301c023c000e30383a34383a33382d30383a3438
+DOTNET [Exif Thumbnail - 0x00fe] New Subfile Type = Reduced-resolution image
+DOTNET [Exif Thumbnail - 0x0100] Image Width = 256 pixels
+DOTNET [Exif Thumbnail - 0x0101] Image Height = 170 pixels
+DOTNET [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+DOTNET [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+DOTNET [Exif Thumbnail - 0x0106] Photometric Interpretation = YCbCr
+DOTNET [Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel
+DOTNET [Exif Thumbnail - 0x0201] Thumbnail Offset = 10602 bytes
+DOTNET [Exif Thumbnail - 0x0202] Thumbnail Length = 6459 bytes
        
-JAVA   
+DOTNET [IPTC - 0x0237] Date Created = 2022-03-16
+DOTNET [IPTC - 0x0241] Originating Program = digiKam
+DOTNET [IPTC - 0x0246] Program Version = 2.5.0
+DOTNET [IPTC - 0x023c] Time Created = 08:48:38-08:48
+       
        [ICC Profile - 0x0000] Profile Size = 3144
        [ICC Profile - 0x0004] CMM Type = Lino
        [ICC Profile - 0x0008] Version = 2.1.0
@@ -585,7 +756,10 @@ JAVA
        - PNG-IHDR
 JAVA   - PNG-zTXt
 JAVA   - PNG-zTXt
-DOTNET - Error
+DOTNET - Exif IFD0
+DOTNET     - Exif SubIFD
+DOTNET         - Canon Makernote
+DOTNET     - Exif Thumbnail
 DOTNET - Photoshop
 DOTNET     - IPTC
        - PNG-iCCP
