@@ -2,7 +2,6 @@
        TYPE: PNG
        
        [ERROR: ICC Profile] Exception reading ICC profile: Attempt to read from beyond end of underlying data source (requested index: 432, requested count: 41478, max index: 31999)
-DOTNET [ERROR: Error] Exception processing TIFF data: Unclear distinction between Motorola/Intel byte ordering: 17784
        
        [PNG-IHDR - 0x0001] Image Width = 110
        [PNG-IHDR - 0x0002] Image Height = 110
@@ -37,14 +36,19 @@ DOTNET [ERROR: Error] Exception processing TIFF data: Unclear distinction betwee
        
 JAVA   [PNG-zTXt - 0x000d] Textual Data = Raw profile type exif: 
 JAVA   exif
+DOTNET [Exif IFD0 - 0x0131] Software = Adobe Photoshop CS2 Macintosh
+DOTNET [Exif IFD0 - 0x0132] Date/Time = 2007:04:25 15:46:33
 JAVA        148
 JAVA   45786966000049492a00080000000300310102001e000000320000003201020014000000
 JAVA   500000006987040001000000640000000000000041646f62652050686f746f73686f7020
 JAVA   435332204d6163696e746f736800323030373a30343a32352031353a34363a3333000300
 JAVA   01a0030001000000ffff0d0002a00400010000004902000003a004000100000020030000
 JAVA   00000000
-JAVA   
-JAVA   
+       
+DOTNET [Exif SubIFD - 0xa001] Color Space = Undefined
+DOTNET [Exif SubIFD - 0xa002] Exif Image Width = 585 pixels
+DOTNET [Exif SubIFD - 0xa003] Exif Image Height = 800 pixels
+       
        [PNG-zTXt - 0x000d] Textual Data = JPEG-Colorspace: 2
        
        [PNG-zTXt - 0x000d] Textual Data = JPEG-Sampling-factors: 2x2,1x1,1x1
@@ -63,7 +67,8 @@ JAVA
            - ICC Profile
        - PNG-pHYs
 JAVA   - PNG-zTXt
-DOTNET - Error
+DOTNET - Exif IFD0
+DOTNET     - Exif SubIFD
        - PNG-zTXt
        - PNG-zTXt
        - File Type
