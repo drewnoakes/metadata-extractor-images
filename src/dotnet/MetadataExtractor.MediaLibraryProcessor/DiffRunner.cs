@@ -38,6 +38,9 @@ namespace MetadataExtractor.MediaLibraryProcessor
 
                 foreach (var file in allFiles)
                 {
+                    if (file is null)
+                        continue;
+
                     var dotNetMetadata = GetFileContent("dotnet", file);
                     var javaMetadata = GetFileContent("java", file);
 
@@ -72,7 +75,7 @@ namespace MetadataExtractor.MediaLibraryProcessor
                     }
                 }
 
-                string[] GetFiles(string language)
+                string?[] GetFiles(string language)
                 {
                     var languageOutputDir = Path.Combine(directory, "metadata", language);
                     if (!System.IO.Directory.Exists(languageOutputDir))
