@@ -1,0 +1,7 @@
+FILE: crash-433fb2c24a278dbed63a4c99d004e952ce4b3d38.fuzzed
+TYPE: WAV
+
+EXCEPTION: null
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

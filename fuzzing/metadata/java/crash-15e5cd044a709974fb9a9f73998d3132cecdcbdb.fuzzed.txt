@@ -1,0 +1,29 @@
+FILE: crash-15e5cd044a709974fb9a9f73998d3132cecdcbdb.fuzzed
+TYPE: TIFF
+
+[ERROR: Exif IFD0] First IFD offset is beyond the end of the TIFF data segment -- trying default offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 21760 for tag 0x0200
+[ERROR: Exif IFD0] Invalid TIFF tag format code 254 for tag 0x0008
+[ERROR: Exif IFD0] Invalid TIFF tag format code 18761 for tag 0x0000
+[ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 9758 for tag 0xD0DF
+[ERROR: Exif IFD0] Invalid TIFF tag format code 12084 for tag 0x21F9
+
+[Exif IFD0 - 0xa302] CFA Pattern = ERROR: -1
+[Exif IFD0 - 0x0000] Unknown tag (0x0000) = [18 values]
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = crash-15e5cd044a709974fb9a9f73998d3132cecdcbdb.fuzzed
+[File - 0x0002] File Size = 293 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

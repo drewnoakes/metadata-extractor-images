@@ -1,0 +1,7 @@
+FILE: crash-824dc868159f3eb43c96582729145c1e017a5c60.fuzzed
+TYPE: PNG
+
+EXCEPTION: End of data reached.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

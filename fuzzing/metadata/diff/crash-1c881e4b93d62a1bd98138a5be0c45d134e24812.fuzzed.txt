@@ -1,0 +1,9 @@
+       FILE: crash-1c881e4b93d62a1bd98138a5be0c45d134e24812.fuzzed
+       TYPE: WEBP
+       
+JAVA   EXCEPTION: null
+DOTNET EXCEPTION: Invalid RIFF chunk size
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

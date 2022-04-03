@@ -1,0 +1,7 @@
+FILE: crash-5694c3cf175f7c173948ca158a9dafa96c07b621.fuzzed
+TYPE: WEBP
+
+EXCEPTION: null
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

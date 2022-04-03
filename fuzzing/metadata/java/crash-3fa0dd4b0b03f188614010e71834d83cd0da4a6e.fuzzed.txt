@@ -1,0 +1,7 @@
+FILE: crash-3fa0dd4b0b03f188614010e71834d83cd0da4a6e.fuzzed
+TYPE: AVI
+
+EXCEPTION: End of data reached.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

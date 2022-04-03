@@ -1,0 +1,7 @@
+FILE: crash-f3d18fdc0bafc676803dc8b309fc1a1b7109c101.fuzzed
+TYPE: AVI
+
+EXCEPTION: Invalid RIFF chunk size
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

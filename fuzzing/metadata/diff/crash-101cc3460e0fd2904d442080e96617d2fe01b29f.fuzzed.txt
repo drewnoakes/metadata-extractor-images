@@ -1,0 +1,42 @@
+       FILE: crash-101cc3460e0fd2904d442080e96617d2fe01b29f.fuzzed
+       TYPE: TIFF
+       
+       [ERROR: Exif IFD0] First IFD offset is beyond the end of the TIFF data segment -- trying default offset
+       [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0xB82C
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 1024 for tag 0x4946
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 65281 for tag 0x6F61
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 178 for tag 0x0065
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x3A00
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 11008 for tag 0x0000
+       [ERROR: Exif Thumbnail] Invalid TIFF tag format code 17152 for tag 0x0200
+       [ERROR: Exif Thumbnail] Invalid TIFF tag format code 104 for tag 0xEA00
+       [ERROR: Exif Thumbnail] Invalid TIFF tag format code 18761 for tag 0xFF2C
+       [ERROR: Exif Thumbnail] Invalid TIFF tag format code 0 for tag 0x0201
+       [ERROR: Exif Thumbnail] Invalid TIFF tag format code 14380 for tag 0x0049
+       [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+       [ERROR: Exif Thumbnail] Invalid TIFF tag format code 18761 for tag 0xCE00
+       [ERROR: Exif Thumbnail] Invalid TIFF tag format code 18 for tag 0x0000
+       [ERROR: Exif Thumbnail] Stopping processing as too many errors seen in TIFF IFD
+       
+       [Exif Thumbnail - 0x0000] Unknown tag (0x0000) = [198 values]
+JAVA   [Exif Thumbnail - 0xa302] CFA Pattern = ERROR: -1
+DOTNET [Exif Thumbnail - 0xa302] CFA Pattern = [Unknown,Unknown][Unknown][Unknown][Red][Unknown][Unknown][Unknown][Unknown][Unknown][Red][Unknown][Red,Red][Unknown][Unknown][Green][Red][Red][Red][Red][Unknown][Unknown][Unknown][Red,Red][Red][Red][Red][Red][Red][Unknown][Green][Red][Red][Red][Unknown,Unknown][Unknown][Red][Red][Red][Red][Red][Red][Red][Unknown][Red][Red,Unknown][Unknown][Unknown][Unknown][Unknown][Unknown][Unknown][Unknown][Unknown][Red][Red][Unknown,Red][Red][Red][Red][Magenta][Red][Blue][Red][Red][Red][Red][Red,Red][White][Red][Unknown][Red][Red][Unknown][Unknown][Red][Unknown][Unknown][Unknown,Unknown][Unknown][Red][Blue][Red][Red][Red][Unknown][Unknown][Red][Unknown]
+       
+       [File Type - 0x0001] Detected File Type Name = TIFF
+       [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+       [File Type - 0x0003] Detected MIME Type = image/tiff
+       [File Type - 0x0004] Expected File Name Extension = tiff
+       
+       [File - 0x0001] File Name = crash-101cc3460e0fd2904d442080e96617d2fe01b29f.fuzzed
+       [File - 0x0002] File Size = 1222 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
+           - Exif Thumbnail
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

@@ -1,0 +1,9 @@
+       FILE: crash-25db9e8dfa7b468b865eadca136e555a59c8c8d7.fuzzed
+       TYPE: BMP
+       
+JAVA   EXCEPTION: Requested array size exceeds VM limit
+DOTNET EXCEPTION: Exception of type 'System.OutOfMemoryException' was thrown.
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

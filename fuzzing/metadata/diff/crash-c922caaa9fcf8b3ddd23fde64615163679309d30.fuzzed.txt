@@ -1,0 +1,9 @@
+       FILE: crash-c922caaa9fcf8b3ddd23fde64615163679309d30.fuzzed
+       TYPE: WAV
+       
+JAVA   EXCEPTION: n must be zero or greater.
+DOTNET EXCEPTION: Invalid RIFF chunk size
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

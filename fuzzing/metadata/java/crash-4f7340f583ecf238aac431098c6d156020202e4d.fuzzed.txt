@@ -1,0 +1,7 @@
+FILE: crash-4f7340f583ecf238aac431098c6d156020202e4d.fuzzed
+TYPE: WAV
+
+EXCEPTION: n must be zero or greater.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

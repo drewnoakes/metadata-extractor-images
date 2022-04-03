@@ -1,0 +1,9 @@
+       FILE: crash-84f9a443092f0b7ab576df33d7bcf033901b1608.fuzzed
+       TYPE: AVI
+       
+JAVA   EXCEPTION: n must be zero or greater.
+DOTNET EXCEPTION: Invalid RIFF chunk size
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

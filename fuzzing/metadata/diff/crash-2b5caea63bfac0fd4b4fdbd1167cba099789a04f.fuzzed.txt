@@ -1,0 +1,42 @@
+       FILE: crash-2b5caea63bfac0fd4b4fdbd1167cba099789a04f.fuzzed
+       TYPE: MP4
+       
+JAVA   EXCEPTION: null
+DOTNET [QuickTime File Type - 0x0001] Major Brand = isom
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 512
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = isom, iso2, avc1, mp41
+DOTNET 
+DOTNET [QuickTime Movie Header - 0x0001] Version = 0
+DOTNET [QuickTime Movie Header - 0x0002] Flags = 0 0 0
+DOTNET [QuickTime Movie Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
+DOTNET [QuickTime Movie Header - 0x0004] Modified = Fri Jan 01 00:00:00 1904
+DOTNET [QuickTime Movie Header - 0x0005] TrackId = 1000
+DOTNET [QuickTime Movie Header - 0x0006] Duration = 00:01:05.5350000
+DOTNET [QuickTime Movie Header - 0x0007] Preferred Rate = 65288
+DOTNET [QuickTime Movie Header - 0x0008] Preferred Volume = 1
+DOTNET [QuickTime Movie Header - 0x0009] Matrix = [36 values]
+DOTNET [QuickTime Movie Header - 0x000a] Preview Time = 28
+DOTNET [QuickTime Movie Header - 0x000b] Preview Duration = 1701606260
+DOTNET [QuickTime Movie Header - 0x000c] Poster Time = 0
+DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 1
+DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 1854
+DOTNET [QuickTime Movie Header - 0x000f] Current Time = 1024
+DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 65536
+DOTNET 
+DOTNET [File Type - 0x0001] Detected File Type Name = MP4
+DOTNET [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+DOTNET [File Type - 0x0003] Detected MIME Type = video/mp4
+DOTNET [File Type - 0x0004] Expected File Name Extension = mp4
+DOTNET 
+DOTNET [File - 0x0001] File Name = crash-2b5caea63bfac0fd4b4fdbd1167cba099789a04f.fuzzed
+DOTNET [File - 0x0002] File Size = 1055 bytes
+DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+DOTNET 
+DOTNET - QuickTime File Type
+DOTNET - QuickTime Movie Header
+DOTNET - File Type
+DOTNET - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

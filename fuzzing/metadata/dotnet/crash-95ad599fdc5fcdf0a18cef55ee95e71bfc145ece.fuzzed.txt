@@ -1,0 +1,7 @@
+FILE: crash-95ad599fdc5fcdf0a18cef55ee95e71bfc145ece.fuzzed
+TYPE: QUICKTIME
+
+EXCEPTION: Handler moved stream beyond end of atom
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

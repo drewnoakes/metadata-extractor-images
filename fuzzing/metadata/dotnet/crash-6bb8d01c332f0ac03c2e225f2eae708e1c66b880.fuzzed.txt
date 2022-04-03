@@ -1,0 +1,22 @@
+FILE: crash-6bb8d01c332f0ac03c2e225f2eae708e1c66b880.fuzzed
+TYPE: MP4
+
+[QuickTime File Type - 0x0001] Major Brand = isom
+[QuickTime File Type - 0x0002] Minor Version = 0
+[QuickTime File Type - 0x0003] Compatible Brands = mp41
+
+[File Type - 0x0001] Detected File Type Name = MP4
+[File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+[File Type - 0x0003] Detected MIME Type = video/mp4
+[File Type - 0x0004] Expected File Name Extension = mp4
+
+[File - 0x0001] File Name = crash-6bb8d01c332f0ac03c2e225f2eae708e1c66b880.fuzzed
+[File - 0x0002] File Size = 6758 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

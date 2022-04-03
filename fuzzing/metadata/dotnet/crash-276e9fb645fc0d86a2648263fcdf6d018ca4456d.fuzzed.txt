@@ -1,0 +1,7 @@
+FILE: crash-276e9fb645fc0d86a2648263fcdf6d018ca4456d.fuzzed
+TYPE: WEBP
+
+EXCEPTION: Invalid RIFF chunk size
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

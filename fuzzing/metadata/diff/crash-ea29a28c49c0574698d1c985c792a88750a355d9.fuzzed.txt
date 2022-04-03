@@ -1,0 +1,57 @@
+       FILE: crash-ea29a28c49c0574698d1c985c792a88750a355d9.fuzzed
+       TYPE: QUICKTIME
+       
+JAVA   EXCEPTION: cannot set a null String
+DOTNET [QuickTime File Type - 0x0001] Major Brand = iso5
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 1
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = avc1, iso5, dash
+DOTNET 
+DOTNET [QuickTime Movie Header - 0x0001] Version = 0
+DOTNET [QuickTime Movie Header - 0x0002] Flags = 0 0 0
+DOTNET [QuickTime Movie Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
+DOTNET [QuickTime Movie Header - 0x0004] Modified = Fri Jan 01 00:00:00 1904
+DOTNET [QuickTime Movie Header - 0x0005] TrackId = 1000
+DOTNET [QuickTime Movie Header - 0x0006] Duration = 00:00:00
+DOTNET [QuickTime Movie Header - 0x0007] Preferred Rate = 1
+DOTNET [QuickTime Movie Header - 0x0008] Preferred Volume = 1
+DOTNET [QuickTime Movie Header - 0x0009] Matrix = [36 values]
+DOTNET [QuickTime Movie Header - 0x000a] Preview Time = 0
+DOTNET [QuickTime Movie Header - 0x000b] Preview Duration = 0
+DOTNET [QuickTime Movie Header - 0x000c] Poster Time = 0
+DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
+DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
+DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
+DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 2
+DOTNET 
+DOTNET [QuickTime Track Header - 0x0001] Version = 0
+DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 3
+DOTNET [QuickTime Track Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
+DOTNET [QuickTime Track Header - 0x0004] Modified = Tue Nov 25 01:05:20 2014
+DOTNET [QuickTime Track Header - 0x0005] TrackId = 1
+DOTNET [QuickTime Track Header - 0x0006] Duration = 0
+DOTNET [QuickTime Track Header - 0x0007] Layer = 0
+DOTNET [QuickTime Track Header - 0x0008] Alternate Group = 0
+DOTNET [QuickTime Track Header - 0x0009] Volume = 0
+DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+DOTNET [QuickTime Track Header - 0x000a] Width = 320
+DOTNET [QuickTime Track Header - 0x000b] Height = 240
+DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
+DOTNET 
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
+DOTNET [File Type - 0x0004] Expected File Name Extension = mov
+DOTNET 
+DOTNET [File - 0x0001] File Name = crash-ea29a28c49c0574698d1c985c792a88750a355d9.fuzzed
+DOTNET [File - 0x0002] File Size = 39559 bytes
+DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+DOTNET 
+DOTNET - QuickTime File Type
+DOTNET - QuickTime Movie Header
+DOTNET - QuickTime Track Header
+DOTNET - File Type
+DOTNET - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

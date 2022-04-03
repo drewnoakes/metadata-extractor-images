@@ -1,0 +1,7 @@
+FILE: crash-2860a9417dcbf334edc7985e9e13f17271e36ad7.fuzzed
+TYPE: BMP
+
+EXCEPTION: null
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

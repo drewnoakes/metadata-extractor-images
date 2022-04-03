@@ -1,0 +1,7 @@
+FILE: crash-8ec55ff0455451a68dc20a29604a286d646b2f2a.fuzzed
+TYPE: MP4
+
+EXCEPTION: Handler moved stream beyond end of atom
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

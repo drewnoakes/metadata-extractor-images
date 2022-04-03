@@ -1,0 +1,24 @@
+       FILE: crash-3b246f46eed45a678b9a982460eca1c575f5323e.fuzzed
+       TYPE: QUICKTIME
+       
+JAVA   EXCEPTION: null
+DOTNET [QuickTime File Type - 0x0001] Major Brand = iso5
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 1
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = dash, iso5
+DOTNET 
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
+DOTNET [File Type - 0x0004] Expected File Name Extension = mov
+DOTNET 
+DOTNET [File - 0x0001] File Name = crash-3b246f46eed45a678b9a982460eca1c575f5323e.fuzzed
+DOTNET [File - 0x0002] File Size = 16203 bytes
+DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+DOTNET 
+DOTNET - QuickTime File Type
+DOTNET - File Type
+DOTNET - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

@@ -1,0 +1,7 @@
+FILE: crash-80d7a82ca8a9e1a5d0c3c3e91e7036cc574b3d98.fuzzed
+TYPE: TIFF
+
+EXCEPTION: String index out of range: 12
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,24 @@
+       FILE: crash-f8c429ee8aad4fb826bef1c34251deeb23274d29.fuzzed
+       TYPE: MP4
+       
+JAVA   EXCEPTION: null
+DOTNET [QuickTime File Type - 0x0001] Major Brand = isom
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = mp41
+DOTNET 
+DOTNET [File Type - 0x0001] Detected File Type Name = MP4
+DOTNET [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+DOTNET [File Type - 0x0003] Detected MIME Type = video/mp4
+DOTNET [File Type - 0x0004] Expected File Name Extension = mp4
+DOTNET 
+DOTNET [File - 0x0001] File Name = crash-f8c429ee8aad4fb826bef1c34251deeb23274d29.fuzzed
+DOTNET [File - 0x0002] File Size = 8552 bytes
+DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+DOTNET 
+DOTNET - QuickTime File Type
+DOTNET - File Type
+DOTNET - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

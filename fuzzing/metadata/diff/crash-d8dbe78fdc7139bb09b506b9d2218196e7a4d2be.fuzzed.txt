@@ -1,0 +1,9 @@
+       FILE: crash-d8dbe78fdc7139bb09b506b9d2218196e7a4d2be.fuzzed
+       TYPE: BMP
+       
+JAVA   EXCEPTION: null
+DOTNET EXCEPTION: Array dimensions exceeded supported range.
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

@@ -1,0 +1,9 @@
+       FILE: crash-bf9b6d7a8cc7ba85c9ad110950d02f1eca6c7349.fuzzed
+       TYPE: QUICKTIME
+       
+JAVA   EXCEPTION: Index: 0, Size: 0
+DOTNET EXCEPTION: Handler moved stream beyond end of atom
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

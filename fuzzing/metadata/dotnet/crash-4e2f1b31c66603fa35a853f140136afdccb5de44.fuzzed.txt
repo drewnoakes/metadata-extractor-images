@@ -1,0 +1,7 @@
+FILE: crash-4e2f1b31c66603fa35a853f140136afdccb5de44.fuzzed
+TYPE: WAV
+
+EXCEPTION: Invalid RIFF chunk size
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

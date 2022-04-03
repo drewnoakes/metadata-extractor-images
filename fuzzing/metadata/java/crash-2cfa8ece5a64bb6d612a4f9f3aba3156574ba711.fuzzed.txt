@@ -1,0 +1,7 @@
+FILE: crash-2cfa8ece5a64bb6d612a4f9f3aba3156574ba711.fuzzed
+TYPE: QUICKTIME
+
+EXCEPTION: cannot set a null String
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

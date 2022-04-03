@@ -1,0 +1,7 @@
+FILE: crash-13e6128b8d6406d239d51a64a3f7a91d24c54b77.fuzzed
+TYPE: QUICKTIME
+
+EXCEPTION: Illegal Capacity: -1
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

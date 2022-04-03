@@ -1,0 +1,10 @@
+       FILE: crash-0086106bc19982dbfeebff8046917a454d8ee8f0.fuzzed
+JAVA   TYPE: MP3
+DOTNET TYPE: UNKNOWN
+       
+JAVA   EXCEPTION: 3
+DOTNET EXCEPTION: File format could not be determined
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

@@ -1,0 +1,55 @@
+FILE: crash-bd663fee52be0be7a529ecfca3aecec50e803773.fuzzed
+TYPE: QUICKTIME
+
+[QuickTime File Type - 0x0001] Major Brand = iso5
+[QuickTime File Type - 0x0002] Minor Version = 1
+[QuickTime File Type - 0x0003] Compatible Brands = avc1, iso5, dash
+
+[QuickTime Movie Header - 0x0001] Version = 0
+[QuickTime Movie Header - 0x0002] Flags = 0 0 0
+[QuickTime Movie Header - 0x0003] Created = Wed Mar 26 00:20:53 2014
+[QuickTime Movie Header - 0x0004] Modified = Wed Mar 26 00:20:54 2014
+[QuickTime Movie Header - 0x0005] TrackId = 90000
+[QuickTime Movie Header - 0x0006] Duration = 00:00:00
+[QuickTime Movie Header - 0x0007] Preferred Rate = 1
+[QuickTime Movie Header - 0x0008] Preferred Volume = 1
+[QuickTime Movie Header - 0x0009] Matrix = [36 values]
+[QuickTime Movie Header - 0x000a] Preview Time = 0
+[QuickTime Movie Header - 0x000b] Preview Duration = 0
+[QuickTime Movie Header - 0x000c] Poster Time = 0
+[QuickTime Movie Header - 0x000d] Selection Time = 0
+[QuickTime Movie Header - 0x000e] Selection Duration = 0
+[QuickTime Movie Header - 0x000f] Current Time = 29543
+[QuickTime Movie Header - 0x0010] Next Track Id = 1885601795
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 1
+[QuickTime Track Header - 0x0003] Created = Wed Mar 26 00:20:53 2014
+[QuickTime Track Header - 0x0004] Modified = Thu Oct 09 03:56:24 2014
+[QuickTime Track Header - 0x0005] TrackId = 1
+[QuickTime Track Header - 0x0006] Duration = 0
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 561
+[QuickTime Track Header - 0x000b] Height = 320
+[QuickTime Track Header - 0x000d] Rotation = 0
+
+[File Type - 0x0001] Detected File Type Name = QuickTime
+[File Type - 0x0002] Detected File Type Long Name = QuickTime
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-bd663fee52be0be7a529ecfca3aecec50e803773.fuzzed
+[File - 0x0002] File Size = 6186 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- QuickTime Movie Header
+- QuickTime Track Header
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,7 @@
+FILE: crash-9ab814ac217297ab296f0901633821cc0b1b1bd3.fuzzed
+TYPE: MP4
+
+EXCEPTION: cannot set a null String
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

@@ -1,0 +1,7 @@
+FILE: crash-e09e640ef70fe38a26e5d1cd43d001914ae520cb.fuzzed
+TYPE: WAV
+
+EXCEPTION: End of data reached.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

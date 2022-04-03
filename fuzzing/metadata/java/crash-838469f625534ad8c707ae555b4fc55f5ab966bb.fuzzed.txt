@@ -1,0 +1,7 @@
+FILE: crash-838469f625534ad8c707ae555b4fc55f5ab966bb.fuzzed
+TYPE: AVI
+
+EXCEPTION: n must be zero or greater.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

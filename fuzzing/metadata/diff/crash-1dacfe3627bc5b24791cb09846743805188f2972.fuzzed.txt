@@ -1,0 +1,9 @@
+       FILE: crash-1dacfe3627bc5b24791cb09846743805188f2972.fuzzed
+       TYPE: MP4
+       
+JAVA   EXCEPTION: n must be zero or greater.
+DOTNET EXCEPTION: Handler moved stream beyond end of atom
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

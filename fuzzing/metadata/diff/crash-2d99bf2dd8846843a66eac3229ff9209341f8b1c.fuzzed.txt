@@ -1,0 +1,9 @@
+       FILE: crash-2d99bf2dd8846843a66eac3229ff9209341f8b1c.fuzzed
+       TYPE: QUICKTIME
+       
+JAVA   EXCEPTION: cannot set a null String
+DOTNET EXCEPTION: Handler moved stream beyond end of atom
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

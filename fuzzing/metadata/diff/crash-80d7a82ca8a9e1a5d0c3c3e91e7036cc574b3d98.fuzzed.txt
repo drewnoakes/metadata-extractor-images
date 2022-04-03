@@ -1,0 +1,10 @@
+       FILE: crash-80d7a82ca8a9e1a5d0c3c3e91e7036cc574b3d98.fuzzed
+       TYPE: TIFF
+       
+JAVA   EXCEPTION: String index out of range: 12
+DOTNET EXCEPTION: Index and length must refer to a location within the string.
+DOTNET Parameter name: length
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

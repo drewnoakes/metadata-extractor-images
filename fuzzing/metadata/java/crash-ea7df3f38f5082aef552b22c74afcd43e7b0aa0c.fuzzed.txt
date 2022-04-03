@@ -1,0 +1,7 @@
+FILE: crash-ea7df3f38f5082aef552b22c74afcd43e7b0aa0c.fuzzed
+TYPE: QUICKTIME
+
+EXCEPTION: n must be zero or greater.
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

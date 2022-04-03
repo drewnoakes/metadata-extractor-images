@@ -1,0 +1,7 @@
+FILE: crash-0086106bc19982dbfeebff8046917a454d8ee8f0.fuzzed
+TYPE: MP3
+
+EXCEPTION: 3
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

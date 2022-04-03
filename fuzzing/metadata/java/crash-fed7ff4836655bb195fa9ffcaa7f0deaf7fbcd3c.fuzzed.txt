@@ -1,0 +1,7 @@
+FILE: crash-fed7ff4836655bb195fa9ffcaa7f0deaf7fbcd3c.fuzzed
+TYPE: MP4
+
+EXCEPTION: null
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

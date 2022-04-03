@@ -1,0 +1,37 @@
+       FILE: crash-2b10c2047f37254a2b7928f9af4a7bfac23507ae.fuzzed
+       TYPE: TIFF
+       
+       [ERROR: Exif IFD0] First IFD offset is beyond the end of the TIFF data segment -- trying default offset
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 242 for tag 0x3B01
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0000
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0xFF00
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 33024 for tag 0x005A
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0000
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 42 for tag 0x0000
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 36237 for tag 0x8D8D
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 36237 for tag 0x8D8D
+       [ERROR: Exif IFD0] Invalid TIFF tag format code 36237 for tag 0x8D8D
+       [ERROR: Exif IFD0] Stopping processing as too many errors seen in TIFF IFD
+JAVA   [ERROR: Photoshop] End of data reached.
+DOTNET [ERROR: Photoshop] Exception of type 'System.OutOfMemoryException' was thrown.
+       
+       [Exif IFD0 - 0x0000] Unknown tag (0x0000) = -1
+       [Exif IFD0 - 0x0019] Unknown tag (0x0019) = 
+       
+       [File Type - 0x0001] Detected File Type Name = TIFF
+       [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+       [File Type - 0x0003] Detected MIME Type = image/tiff
+       [File Type - 0x0004] Expected File Name Extension = tiff
+       
+       [File - 0x0001] File Name = crash-2b10c2047f37254a2b7928f9af4a7bfac23507ae.fuzzed
+       [File - 0x0002] File Size = 8729 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
+           - Photoshop
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

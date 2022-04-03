@@ -1,0 +1,19 @@
+       FILE: crash-4c160f4263f8511f532bb22f967bfe166d5eae12.fuzzed
+       TYPE: QUICKTIME
+       
+JAVA   EXCEPTION: Illegal Capacity: -2147483647
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
+DOTNET [File Type - 0x0004] Expected File Name Extension = mov
+DOTNET 
+DOTNET [File - 0x0001] File Name = crash-4c160f4263f8511f532bb22f967bfe166d5eae12.fuzzed
+DOTNET [File - 0x0002] File Size = 121 bytes
+DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+DOTNET 
+DOTNET - File Type
+DOTNET - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

@@ -1,0 +1,18 @@
+FILE: crash-d6ab491f969c191eda117ceef7e0b3280f7c1a0b.fuzzed
+TYPE: RW2
+
+[ERROR: PanasonicRaw Exif IFD0] First IFD offset is beyond the end of the TIFF data segment -- trying default offset
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 242 for tag 0x3B01
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 74 for tag 0x0102
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 0 for tag 0x00FF
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 65280 for tag 0x4404
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 31748 for tag 0x0000
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 259 for tag 0x0200
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 0 for tag 0x0099
+[ERROR: PanasonicRaw Exif IFD0] Invalid TIFF tag format code 26220 for tag 0x0434
+[ERROR: PanasonicRaw Exif IFD0] Stopping processing as too many errors seen in TIFF IFD
+
+[PanasonicRaw DistortionInfo - 0x0002] Distortion Param 2 = 11568/32678
+[PanasonicRaw DistortionInfo - 0x0004] Distortion Param 4 = -257/32678
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
