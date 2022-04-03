@@ -51,9 +51,9 @@ namespace MetadataExtractor.MediaLibraryProcessor
                     var diff = diffBuilder.BuildDiffModel(javaMetadata, dotNetMetadata, false, false, chunker);
 
                     var diffOutputPath = Path.Combine(directory, "metadata", "diff");
-                    if (!System.IO.Directory.Exists(diffOutputPath))
-                        System.IO.Directory.CreateDirectory(diffOutputPath);
                     var diffFilePath = Path.Combine(diffOutputPath, file);
+
+                    System.IO.Directory.CreateDirectory(diffOutputPath);
 
                     if (diff.Lines.All(line => line.Type == ChangeType.Unchanged))
                     {
