@@ -1,0 +1,30 @@
+       FILE: Issue 285 (dotnet).mp3
+JAVA   TYPE: UNKNOWN
+DOTNET TYPE: MP3
+DOTNET 
+DOTNET [MP3 - 0x0001] ID = MPEG-1
+DOTNET [MP3 - 0x0002] Layer = Layer III
+DOTNET [MP3 - 0x0003] Bitrate = 320
+DOTNET [MP3 - 0x0004] Frequency = 44100
+DOTNET [MP3 - 0x0005] Mode = Stereo
+DOTNET [MP3 - 0x0007] Copyright = False
+DOTNET [MP3 - 0x0006] Emphasis Method = none
+DOTNET [MP3 - 0x0008] Frame Size = 1044 bytes
+DOTNET 
+DOTNET [File Type - 0x0001] Detected File Type Name = MP3
+DOTNET [File Type - 0x0002] Detected File Type Long Name = MPEG Audio Layer III
+DOTNET [File Type - 0x0003] Detected MIME Type = audio/mpeg
+DOTNET [File Type - 0x0004] Expected File Name Extension = mp3
+DOTNET 
+DOTNET [File - 0x0001] File Name = Issue 285 (dotnet).mp3
+DOTNET [File - 0x0002] File Size = 5289384 bytes
+DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   EXCEPTION: File format could not be determined
+DOTNET - MP3
+DOTNET - File Type
+DOTNET - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       
