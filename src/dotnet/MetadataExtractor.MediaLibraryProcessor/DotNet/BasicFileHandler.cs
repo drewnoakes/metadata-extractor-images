@@ -3,8 +3,6 @@
 using System.Collections.Generic;
 using System.IO;
 
-// ReSharper disable ReturnValueOfPureMethodIsNotUsed
-
 namespace MetadataExtractor.MediaLibraryProcessor;
 
 /// <summary>
@@ -20,12 +18,12 @@ internal class BasicFileHandler : FileHandlerBase
         // Iterate through all values, calling toString to flush out any formatting exceptions
         foreach (var directory in directories)
         {
-            directory.Name.ToString();
+            _ = directory.Name.ToString();
 
             foreach (var tag in directory.Tags)
             {
-                tag.Name.ToString();
-                (tag.Description ?? "").ToString();
+                _ = tag.Name.ToString();
+                _ = (tag.Description ?? "").ToString();
             }
         }
     }
