@@ -11,6 +11,10 @@ using DiffPlex.DiffBuilder.Model;
 
 namespace MetadataExtractor.MediaLibraryProcessor
 {
+    /// <summary>
+    /// Produces diff files, comparing output from different versions of the library with the goal
+    /// of aligning for parity across them.
+    /// </summary>
     internal static class DiffRunner
     {
         private static readonly Task CompletedTask = Task.FromResult<object?>(null);
