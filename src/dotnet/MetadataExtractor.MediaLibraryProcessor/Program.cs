@@ -4,24 +4,23 @@ using System;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace MetadataExtractor.MediaLibraryProcessor
+namespace MetadataExtractor.MediaLibraryProcessor;
+
+internal static class Program
 {
-    internal static class Program
+    // TODO support building libraries from source too
+
+    private static async Task Main()
     {
-        // TODO support building libraries from source too
+        // TODO more robust way of finding repo root path
+        var repoRoot = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "..\\..\\..\\..\\..\\.."));
 
-        private static async Task Main()
-        {
-            // TODO more robust way of finding repo root path
-            var repoRoot = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "..\\..\\..\\..\\..\\.."));
+        // Update all .NET and Java metadata files
+        await Task.WhenAll(
+            DotNetRunner.RunAsync(repoRoot),
+            JavaRunner.RunAsync(repoRoot));
 
-            // Update all .NET and Java metadata files
-            await Task.WhenAll(
-                DotNetRunner.RunAsync(repoRoot),
-                JavaRunner.RunAsync(repoRoot));
-
-            // Update comparisons between .NET and Java outputs
-            await DiffRunner.RunAsync(repoRoot);
-        }
+        // Update comparisons between .NET and Java outputs
+        await DiffRunner.RunAsync(repoRoot);
     }
 }

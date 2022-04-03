@@ -9,87 +9,86 @@ using System.Text;
 using System.Threading.Tasks;
 using MetadataExtractor.Formats.FileSystem;
 
-namespace MetadataExtractor.MediaLibraryProcessor
+namespace MetadataExtractor.MediaLibraryProcessor;
+
+using Directory = System.IO.Directory;
+
+internal static class DotNetRunner
 {
-    using Directory = System.IO.Directory;
+    // TODO we get different output for different .NET target frameworks -- compare across those too?
+    // TODO port UnknownTagHandler from Java
 
-    internal static class DotNetRunner
+    public static async Task RunAsync(string repoRoot)
     {
-        // TODO we get different output for different .NET target frameworks -- compare across those too?
-        // TODO port UnknownTagHandler from Java
+        // Get onto a worker thread
+        await Task.Yield();
 
-        public static async Task RunAsync(string repoRoot)
+        var handlers = new IFileHandler[]
         {
-            // Get onto a worker thread
-            await Task.Yield();
+//            new BasicFileHandler(),
+            new TextFileOutputHandler(),
+            new MarkdownTableOutputHandler()
+        };
 
-            var handlers = new IFileHandler[]
-            {
-//                new BasicFileHandler(),
-                new TextFileOutputHandler(),
-                new MarkdownTableOutputHandler()
-            };
+        using var fileStream = File.Open("process-dotnet.log", FileMode.Create);
+        using var log = new StreamWriter(fileStream, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false));
 
-            using var fileStream = File.Open("process-dotnet.log", FileMode.Create);
-            using var log = new StreamWriter(fileStream, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false));
+        var stopwatch = Stopwatch.StartNew();
 
-            var stopwatch = Stopwatch.StartNew();
+        ProcessDirectory(repoRoot, handlers, "", log);
 
-            ProcessDirectory(repoRoot, handlers, "", log);
+        foreach (var handler in handlers)
+            handler.OnScanCompleted(log);
 
-            foreach (var handler in handlers)
-                handler.OnScanCompleted(log);
+        stopwatch.Stop();
 
-            stopwatch.Stop();
+        await Console.Out.WriteLineAsync($".NET complete in {stopwatch.Elapsed.TotalMilliseconds:#,##0.##} ms");
+    }
 
-            await Console.Out.WriteLineAsync($".NET complete in {stopwatch.Elapsed.TotalMilliseconds:#,##0.##} ms");
-        }
+    private static void ProcessDirectory(string path, IReadOnlyList<IFileHandler> handlers, string relativePath, TextWriter log)
+    {
+        var entries = Directory.GetFileSystemEntries(path);
 
-        private static void ProcessDirectory(string path, IReadOnlyList<IFileHandler> handlers, string relativePath, TextWriter log)
+        // Order alphabetically so that output is stable across invocations
+        Array.Sort(entries, string.CompareOrdinal);
+
+        foreach (var entry in entries)
         {
-            var entries = Directory.GetFileSystemEntries(path);
+            var file = Path.Combine(path, entry);
 
-            // Order alphabetically so that output is stable across invocations
-            Array.Sort(entries, string.CompareOrdinal);
-
-            foreach (var entry in entries)
+            if (Directory.Exists(file))
             {
-                var file = Path.Combine(path, entry);
+                // this entry is a sub-directory
+                ProcessDirectory(file, handlers, relativePath.Length == 0 ? new DirectoryInfo(entry).Name : relativePath + "/" + new DirectoryInfo(entry).Name, log);
+                continue;
+            }
 
-                if (Directory.Exists(file))
+            // this entry is a file
+            var interestedHandlers = handlers.Where(h => h.ShouldProcess(file)).ToList();
+
+            if (interestedHandlers.Count != 0)
+            {
+                foreach (var handler in interestedHandlers)
+                    handler.OnBeforeExtraction(file, relativePath, log);
+
+                // Read metadata
+                using var stream = new FileStream(file, FileMode.Open, FileAccess.Read, FileShare.Read);
+
+                try
                 {
-                    // this entry is a sub-directory
-                    ProcessDirectory(file, handlers, relativePath.Length == 0 ? new DirectoryInfo(entry).Name : relativePath + "/" + new DirectoryInfo(entry).Name, log);
-                    continue;
+                    var directories = ImageMetadataReader.ReadMetadata(stream).ToList();
+
+                    // ImageMetadataReader.ReadMetadata(Stream) doesn't add a FileMetadataReader directory.
+                    // Add it manually
+                    directories.Add(new FileMetadataReader().Read(file));
+
+                    foreach (var handler in interestedHandlers)
+                        handler.OnExtractionSuccess(file, directories, relativePath, log, stream.Position);
                 }
-
-                // this entry is a file
-                var interestedHandlers = handlers.Where(h => h.ShouldProcess(file)).ToList();
-
-                if (interestedHandlers.Count != 0)
+                catch (Exception e)
                 {
                     foreach (var handler in interestedHandlers)
-                        handler.OnBeforeExtraction(file, relativePath, log);
-
-                    // Read metadata
-                    using var stream = new FileStream(file, FileMode.Open, FileAccess.Read, FileShare.Read);
-
-                    try
-                    {
-                        var directories = ImageMetadataReader.ReadMetadata(stream).ToList();
-
-                        // ImageMetadataReader.ReadMetadata(Stream) doesn't add a FileMetadataReader directory.
-                        // Add it manually
-                        directories.Add(new FileMetadataReader().Read(file));
-
-                        foreach (var handler in interestedHandlers)
-                            handler.OnExtractionSuccess(file, directories, relativePath, log, stream.Position);
-                    }
-                    catch (Exception e)
-                    {
-                        foreach (var handler in interestedHandlers)
-                            handler.OnExtractionError(file, e, log, stream.Position);
-                    }
+                        handler.OnExtractionError(file, e, log, stream.Position);
                 }
             }
         }

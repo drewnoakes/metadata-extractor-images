@@ -9,95 +9,94 @@ using DiffPlex.Chunkers;
 using DiffPlex.DiffBuilder;
 using DiffPlex.DiffBuilder.Model;
 
-namespace MetadataExtractor.MediaLibraryProcessor
+namespace MetadataExtractor.MediaLibraryProcessor;
+
+/// <summary>
+/// Produces diff files, comparing output from different versions of the library with the goal
+/// of aligning for parity across them.
+/// </summary>
+internal static class DiffRunner
 {
-    /// <summary>
-    /// Produces diff files, comparing output from different versions of the library with the goal
-    /// of aligning for parity across them.
-    /// </summary>
-    internal static class DiffRunner
+    private static readonly Task CompletedTask = Task.FromResult<object?>(null);
+    private static readonly string[] EmptyStringArray = new string[0];
+
+    public static Task RunAsync(string path)
     {
-        private static readonly Task CompletedTask = Task.FromResult<object?>(null);
-        private static readonly string[] EmptyStringArray = new string[0];
+        var diffBuilder = new InlineDiffBuilder(new Differ());
+        var chunker = new LineChunker();
 
-        public static Task RunAsync(string path)
+        // Top level folders are file types (except "src" folder)
+        foreach (var directory in System.IO.Directory.GetDirectories(path, "*", SearchOption.AllDirectories))
         {
-            var diffBuilder = new InlineDiffBuilder(new Differ());
-            var chunker = new LineChunker();
+            // TODO more robust filtering
+            if (directory.Contains(".git") || directory.Contains("src"))
+                continue;
 
-            // Top level folders are file types (except "src" folder)
-            foreach (var directory in System.IO.Directory.GetDirectories(path, "*", SearchOption.AllDirectories))
+            var dotNetFiles = GetFiles("dotnet");
+            var javaFiles = GetFiles("java");
+
+            var allFiles = dotNetFiles.Union(javaFiles).ToList();
+
+            if (allFiles.Count == 0)
+                continue;
+
+            foreach (var file in allFiles)
             {
-                // TODO more robust filtering
-                if (directory.Contains(".git") || directory.Contains("src"))
+                if (file is null)
                     continue;
 
-                var dotNetFiles = GetFiles("dotnet");
-                var javaFiles = GetFiles("java");
+                var dotNetMetadata = GetFileContent("dotnet", file);
+                var javaMetadata = GetFileContent("java", file);
 
-                var allFiles = dotNetFiles.Union(javaFiles).ToList();
+                var diff = diffBuilder.BuildDiffModel(javaMetadata, dotNetMetadata, false, false, chunker);
 
-                if (allFiles.Count == 0)
+                var diffOutputPath = Path.Combine(directory, "metadata", "diff");
+                var diffFilePath = Path.Combine(diffOutputPath, file);
+
+                System.IO.Directory.CreateDirectory(diffOutputPath);
+
+                if (diff.Lines.All(line => line.Type == ChangeType.Unchanged))
+                {
+                    // No difference
+                    if (File.Exists(diffFilePath))
+                        File.Delete(diffFilePath);
                     continue;
-
-                foreach (var file in allFiles)
-                {
-                    if (file is null)
-                        continue;
-
-                    var dotNetMetadata = GetFileContent("dotnet", file);
-                    var javaMetadata = GetFileContent("java", file);
-
-                    var diff = diffBuilder.BuildDiffModel(javaMetadata, dotNetMetadata, false, false, chunker);
-
-                    var diffOutputPath = Path.Combine(directory, "metadata", "diff");
-                    var diffFilePath = Path.Combine(diffOutputPath, file);
-
-                    System.IO.Directory.CreateDirectory(diffOutputPath);
-
-                    if (diff.Lines.All(line => line.Type == ChangeType.Unchanged))
-                    {
-                        // No difference
-                        if (File.Exists(diffFilePath))
-                            File.Delete(diffFilePath);
-                        continue;
-                    }
-
-                    // A difference exists
-                    using var fileStream = File.Open(diffFilePath, FileMode.Create);
-                    using var log = new StreamWriter(fileStream, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false));
-
-                    foreach (var line in diff.Lines)
-                    {
-                        log.Write(line.Type switch
-                        {
-                            ChangeType.Inserted => "DOTNET ",
-                            ChangeType.Deleted => "JAVA   ",
-                            _ => "       "
-                        });
-                        log.WriteLine(line.Text);
-                    }
                 }
 
-                string?[] GetFiles(string language)
-                {
-                    var languageOutputDir = Path.Combine(directory, "metadata", language);
-                    if (!System.IO.Directory.Exists(languageOutputDir))
-                        return EmptyStringArray;
-                    return System.IO.Directory.GetFiles(languageOutputDir, "*.txt").Select(Path.GetFileName).ToArray();
-                }
+                // A difference exists
+                using var fileStream = File.Open(diffFilePath, FileMode.Create);
+                using var log = new StreamWriter(fileStream, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false));
 
-                string GetFileContent(string language, string fileName)
+                foreach (var line in diff.Lines)
                 {
-                    var path = Path.Combine(directory, "metadata", language, fileName);
-
-                    if (File.Exists(path))
-                        return File.ReadAllText(path);
-                    return "";
+                    log.Write(line.Type switch
+                    {
+                        ChangeType.Inserted => "DOTNET ",
+                        ChangeType.Deleted => "JAVA   ",
+                        _ => "       "
+                    });
+                    log.WriteLine(line.Text);
                 }
             }
 
-            return CompletedTask;
+            string?[] GetFiles(string language)
+            {
+                var languageOutputDir = Path.Combine(directory, "metadata", language);
+                if (!System.IO.Directory.Exists(languageOutputDir))
+                    return EmptyStringArray;
+                return System.IO.Directory.GetFiles(languageOutputDir, "*.txt").Select(Path.GetFileName).ToArray();
+            }
+
+            string GetFileContent(string language, string fileName)
+            {
+                var path = Path.Combine(directory, "metadata", language, fileName);
+
+                if (File.Exists(path))
+                    return File.ReadAllText(path);
+                return "";
+            }
         }
+
+        return CompletedTask;
     }
 }
