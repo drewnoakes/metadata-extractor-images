@@ -1,23 +1,36 @@
        FILE: crash-02439afa46472b7987844f0709c56fb99634e925.fuzzed
        TYPE: QUICKTIME
        
-JAVA   EXCEPTION: Illegal Capacity: -1065323660
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = iso5
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 1
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = avc1, iso5, dash
-DOTNET 
+       
+JAVA   [QuickTime - 0x1000] Major Brand = Unknown
+JAVA   [QuickTime - 0x1001] Minor Version = 1
 DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
 DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-02439afa46472b7987844f0709c56fb99634e925.fuzzed
-DOTNET [File - 0x0002] File Size = 9364 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+JAVA   [QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
+JAVA   [QuickTime - 0x010e] Rotation = 0
+JAVA   
+JAVA   [QuickTime Timecode - 0x5001] Creation Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   [QuickTime Timecode - 0x5002] Modification Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = crash-02439afa46472b7987844f0709c56fb99634e925.fuzzed
+       [File - 0x0002] File Size = 9364 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
 DOTNET - QuickTime File Type
-DOTNET - File Type
-DOTNET - File
+JAVA   - QuickTime Timecode
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

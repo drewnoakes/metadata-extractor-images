@@ -1,7 +1,20 @@
 FILE: crash-e75650df80a6e0eed5cd1d9ef92122153d4a13f5.fuzzed
 TYPE: AVI
 
-EXCEPTION: n must be zero or greater.
+[ERROR: AVI] Invalid chunk size: -165
+
+[File Type - 0x0001] Detected File Type Name = AVI
+[File Type - 0x0002] Detected File Type Long Name = Audio Video Interleaved
+[File Type - 0x0003] Detected MIME Type = video/vnd.avi
+[File Type - 0x0004] Expected File Name Extension = avi
+
+[File - 0x0001] File Name = crash-e75650df80a6e0eed5cd1d9ef92122153d4a13f5.fuzzed
+[File - 0x0002] File Size = 31879 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- AVI
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

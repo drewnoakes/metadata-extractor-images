@@ -1,7 +1,40 @@
 FILE: crash-d99934fbb44d83d9422570d5c4ae847cf16b87a8.fuzzed
 TYPE: MP4
 
-EXCEPTION: Handler moved stream beyond end of atom
+[QuickTime File Type - 0x0001] Major Brand = isom
+[QuickTime File Type - 0x0002] Minor Version = 512
+[QuickTime File Type - 0x0003] Compatible Brands = isom, iso2, avc1, mp41
+
+[QuickTime Movie Header - 0x0001] Version = 0
+[QuickTime Movie Header - 0x0002] Flags = 0 0 0
+[QuickTime Movie Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
+[QuickTime Movie Header - 0x0004] Modified = Fri Jan 01 00:00:00 1904
+[QuickTime Movie Header - 0x0005] TrackId = 1000
+[QuickTime Movie Header - 0x0006] Duration = 00:00:00.4410000
+[QuickTime Movie Header - 0x0007] Preferred Rate = 1
+[QuickTime Movie Header - 0x0008] Preferred Volume = 1
+[QuickTime Movie Header - 0x0009] Matrix = [36 values]
+[QuickTime Movie Header - 0x000a] Preview Time = 0
+[QuickTime Movie Header - 0x000b] Preview Duration = 0
+[QuickTime Movie Header - 0x000c] Poster Time = 0
+[QuickTime Movie Header - 0x000d] Selection Time = 0
+[QuickTime Movie Header - 0x000e] Selection Duration = 0
+[QuickTime Movie Header - 0x000f] Current Time = 0
+[QuickTime Movie Header - 0x0010] Next Track Id = 3
+
+[File Type - 0x0001] Detected File Type Name = MP4
+[File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+[File Type - 0x0003] Detected MIME Type = video/mp4
+[File Type - 0x0004] Expected File Name Extension = mp4
+
+[File - 0x0001] File Name = crash-d99934fbb44d83d9422570d5c4ae847cf16b87a8.fuzzed
+[File - 0x0002] File Size = 35097 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- QuickTime Movie Header
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

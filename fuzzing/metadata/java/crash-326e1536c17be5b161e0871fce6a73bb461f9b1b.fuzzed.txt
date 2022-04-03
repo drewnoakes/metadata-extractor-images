@@ -1,7 +1,40 @@
 FILE: crash-326e1536c17be5b161e0871fce6a73bb461f9b1b.fuzzed
 TYPE: AVI
 
-EXCEPTION: n must be zero or greater.
+[ERROR: AVI] Invalid chunk size: 0
+[ERROR: AVI] Invalid chunk size: 0
+[ERROR: AVI] Invalid chunk size: 0
+[ERROR: AVI] Invalid chunk size: 0
+[ERROR: AVI] Invalid chunk size: 0
+[ERROR: AVI] Invalid chunk size: 0
+[ERROR: AVI] Invalid chunk size: -234872829
+[ERROR: AVI] Invalid chunk size: -2818049
+[ERROR: AVI] Invalid chunk size: 0
+[ERROR: AVI] Invalid chunk size: 0
+[ERROR: AVI] Invalid chunk size: 0
+[ERROR: AVI] Invalid chunk size: 0
+[ERROR: AVI] Unable to skip. Requested 150994944 bytes but only 1472 remained.
+[ERROR: AVI] End of data reached.
+[ERROR: AVI] End of data reached.
+[ERROR: AVI] End of data reached.
+[ERROR: AVI] End of data reached.
+[ERROR: AVI] End of data reached.
+[ERROR: AVI] End of data reached.
+[ERROR: AVI] End of data reached.
+[ERROR: AVI] End of data reached.
+
+[File Type - 0x0001] Detected File Type Name = AVI
+[File Type - 0x0002] Detected File Type Long Name = Audio Video Interleaved
+[File Type - 0x0003] Detected MIME Type = video/vnd.avi
+[File Type - 0x0004] Expected File Name Extension = avi
+
+[File - 0x0001] File Name = crash-326e1536c17be5b161e0871fce6a73bb461f9b1b.fuzzed
+[File - 0x0002] File Size = 1828 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- AVI
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

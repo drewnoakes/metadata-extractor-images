@@ -1,23 +1,65 @@
        FILE: crash-23412ec7e12e8168fd69bccf49a85d4642b97dcb.fuzzed
        TYPE: QUICKTIME
        
-JAVA   EXCEPTION: Index: 0, Size: 0
+JAVA   [ERROR: QuickTime] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = iso5
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 1
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = avc1, iso5, dash
-DOTNET 
+       
+JAVA   [QuickTime - 0x1000] Major Brand = Unknown
+JAVA   [QuickTime - 0x1001] Minor Version = 1
 DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
 DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-23412ec7e12e8168fd69bccf49a85d4642b97dcb.fuzzed
-DOTNET [File - 0x0002] File Size = 33518 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+JAVA   [QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
+JAVA   [QuickTime - 0x010e] Rotation = 0
+JAVA   
+JAVA   [QuickTime Text - 0x5001] Creation Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   [QuickTime Text - 0x5002] Modification Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   [QuickTime Text - 0x0001] Auto Scale = false
+JAVA   [QuickTime Text - 0x0002] Use Background Color = false
+JAVA   [QuickTime Text - 0x0003] Scroll In = false
+JAVA   [QuickTime Text - 0x0004] Scroll Out = false
+JAVA   [QuickTime Text - 0x0005] Scroll Orientation = Vertical
+JAVA   [QuickTime Text - 0x0006] Scroll Direction = Normal
+JAVA   [QuickTime Text - 0x0007] Continuous Scroll = false
+JAVA   [QuickTime Text - 0x0008] Drop Shadow = false
+JAVA   [QuickTime Text - 0x0009] Anti-aliasing = false
+JAVA   [QuickTime Text - 0x000a] Display Text Background Color = false
+JAVA   [QuickTime Text - 0x000b] Alignment = Left
+JAVA   [QuickTime Text - 0x000c] Background Color = 0 0 0
+JAVA   [QuickTime Text - 0x000d] Default Text Box = 755923681352
+JAVA   [QuickTime Text - 0x000e] Font Number = 0
+JAVA   [QuickTime Text - 0x000f] Font Face = Bold
+JAVA   [QuickTime Text - 0x0010] Foreground Color = 0 0 0
+JAVA   [QuickTime Text - 0x0011] Font Name = 
+JAVA   
+JAVA   [QuickTime Sound - 0x5001] Creation Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   [QuickTime Sound - 0x5002] Modification Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   [QuickTime Sound - 0x0305] Balance = 0
+JAVA   [QuickTime Sound - 0x0301] Format = MPEG-4, Advanced Audio Coding (AAC)
+JAVA   [QuickTime Sound - 0x0302] Number of Channels = 2
+JAVA   [QuickTime Sound - 0x0303] Sample Size = 16
+JAVA   [QuickTime Sound - 0x0304] Sample Rate = 11025
+JAVA   
+JAVA   [QuickTime Subtitle - 0x5001] Creation Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   [QuickTime Subtitle - 0x5002] Modification Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = crash-23412ec7e12e8168fd69bccf49a85d4642b97dcb.fuzzed
+       [File - 0x0002] File Size = 33518 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
 DOTNET - QuickTime File Type
-DOTNET - File Type
-DOTNET - File
+JAVA   - QuickTime Text
+JAVA   - QuickTime Sound
+JAVA   - QuickTime Subtitle
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

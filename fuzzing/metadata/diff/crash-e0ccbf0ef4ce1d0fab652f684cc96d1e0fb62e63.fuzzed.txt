@@ -1,8 +1,22 @@
        FILE: crash-e0ccbf0ef4ce1d0fab652f684cc96d1e0fb62e63.fuzzed
        TYPE: WEBP
        
-JAVA   EXCEPTION: End of data reached.
-DOTNET EXCEPTION: Invalid RIFF chunk size
+JAVA   [ERROR: WebP] End of data reached.
+DOTNET [ERROR: Error] Invalid RIFF chunk size
+       
+       [File Type - 0x0001] Detected File Type Name = WebP
+       [File Type - 0x0002] Detected File Type Long Name = WebP
+       [File Type - 0x0003] Detected MIME Type = image/webp
+       [File Type - 0x0004] Expected File Name Extension = webp
+       
+       [File - 0x0001] File Name = crash-e0ccbf0ef4ce1d0fab652f684cc96d1e0fb62e63.fuzzed
+       [File - 0x0002] File Size = 52 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - WebP
+DOTNET - Error
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

@@ -1,7 +1,20 @@
 FILE: crash-276e9fb645fc0d86a2648263fcdf6d018ca4456d.fuzzed
 TYPE: WEBP
 
-EXCEPTION: null
+[ERROR: WebP] Invalid chunk size: -604045312
+
+[File Type - 0x0001] Detected File Type Name = WebP
+[File Type - 0x0002] Detected File Type Long Name = WebP
+[File Type - 0x0003] Detected MIME Type = image/webp
+[File Type - 0x0004] Expected File Name Extension = webp
+
+[File - 0x0001] File Name = crash-276e9fb645fc0d86a2648263fcdf6d018ca4456d.fuzzed
+[File - 0x0002] File Size = 53 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- WebP
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

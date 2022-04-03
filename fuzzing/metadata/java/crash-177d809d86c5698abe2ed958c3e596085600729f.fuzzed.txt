@@ -1,7 +1,28 @@
 FILE: crash-177d809d86c5698abe2ed958c3e596085600729f.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: null
+[ERROR: QuickTime Sound] End of data reached.
+[ERROR: QuickTime Sound] Atom size too small.
+
+[QuickTime - 0x1000] Major Brand = Unknown
+[QuickTime - 0x1001] Minor Version = 1
+[QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
+
+[QuickTime Sound - 0x0305] Balance = 0
+
+[File Type - 0x0001] Detected File Type Name = MOV
+[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-177d809d86c5698abe2ed958c3e596085600729f.fuzzed
+[File - 0x0002] File Size = 5569 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime
+- QuickTime Sound
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

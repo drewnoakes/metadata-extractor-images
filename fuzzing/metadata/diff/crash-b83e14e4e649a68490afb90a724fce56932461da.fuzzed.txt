@@ -1,11 +1,34 @@
        FILE: crash-b83e14e4e649a68490afb90a724fce56932461da.fuzzed
        TYPE: MP4
        
-JAVA   EXCEPTION: null
+JAVA   [ERROR: MP4] Box size too small.
+JAVA   [ERROR: MP4] End of data reached.
+JAVA   [ERROR: MP4 Video] Box size too small.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = isom
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 512
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = isom, iso2, avc1, mp41
-DOTNET 
+JAVA   [ERROR: MP4 Video] Box size too small.
+JAVA   [ERROR: MP4 Video] Box size too large.
+JAVA   [ERROR: MP4 Video] Box size too large.
+JAVA   [ERROR: MP4 Video] Box size too large.
+JAVA   [ERROR: MP4 Video] Unable to skip. Requested 504 bytes but only 271 remained.
+       
+JAVA   [MP4 - 0x0001] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
+JAVA   [MP4 - 0x0002] Minor Version = 512
+JAVA   [MP4 - 0x0003] Compatible Brands = [MP4  Base Media v1 [IS0 14496-12:2003], MP4 Base Media v2 [ISO 14496-12:2005], MP4 Base w/ AVC ext [ISO 14496-12:2005], MP4 v1 [ISO 14496-1:ch13]]
+JAVA   [MP4 - 0x0100] Creation Time = Fri Jan 01 10:00:00 AEST 1904
+JAVA   [MP4 - 0x0101] Modification Time = Fri Jan 01 10:00:00 AEST 1904
+JAVA   [MP4 - 0x0103] Duration = 0
+JAVA   [MP4 - 0x0102] Media Time Scale = 0
+JAVA   [MP4 - 0x0104] Duration in Seconds = 00:00:00
+JAVA   [MP4 - 0x010f] Transformation Matrix = 0 0 65536 0 0 0 65536 0 0
+JAVA   [MP4 - 0x0105] Preferred Rate = 62.5
+JAVA   [MP4 - 0x0106] Preferred Volume = 0
+JAVA   [MP4 - 0x010e] Next Track ID = 0
+JAVA   [MP4 - 0x0200] Rotation = 0
+JAVA   
+JAVA   [MP4 Video - 0x00d4] Opcolor = 0 0 0
+JAVA   [MP4 Video - 0x00d3] Graphics Mode = Unknown (93)
 DOTNET [QuickTime Movie Header - 0x0001] Version = 203
 DOTNET [QuickTime Movie Header - 0x0002] Flags = 201 201 201
 DOTNET [QuickTime Movie Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
@@ -22,20 +45,32 @@ DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
 DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
 DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
 DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 0
-DOTNET 
-DOTNET [File Type - 0x0001] Detected File Type Name = MP4
-DOTNET [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
-DOTNET [File Type - 0x0003] Detected MIME Type = video/mp4
-DOTNET [File Type - 0x0004] Expected File Name Extension = mp4
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-b83e14e4e649a68490afb90a724fce56932461da.fuzzed
-DOTNET [File - 0x0002] File Size = 1665 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+JAVA   
+JAVA   [MP4 Video - 0x00d4] Opcolor = 0 0 0
+JAVA   [MP4 Video - 0x00d3] Graphics Mode = Unknown (93)
+JAVA   [MP4 Video - 0x00d2] Compression Type = Unknown
+JAVA   [MP4 Video - 0x00cc] Width = 320 pixels
+JAVA   [MP4 Video - 0x00cd] Height = 240 pixels
+JAVA   [MP4 Video - 0x00d1] Depth = 24-bit color
+JAVA   [MP4 Video - 0x00ce] Horizontal Resolution = 72
+JAVA   [MP4 Video - 0x00cf] Vertical Resolution = 72
+       
+       [File Type - 0x0001] Detected File Type Name = MP4
+       [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+       [File Type - 0x0003] Detected MIME Type = video/mp4
+       [File Type - 0x0004] Expected File Name Extension = mp4
+       
+       [File - 0x0001] File Name = crash-b83e14e4e649a68490afb90a724fce56932461da.fuzzed
+       [File - 0x0002] File Size = 1665 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - MP4
+JAVA   - MP4 Video
 DOTNET - QuickTime File Type
 DOTNET - QuickTime Movie Header
-DOTNET - File Type
-DOTNET - File
+JAVA   - MP4 Video
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

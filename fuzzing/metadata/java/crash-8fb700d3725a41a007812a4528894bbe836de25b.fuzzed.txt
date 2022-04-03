@@ -1,7 +1,33 @@
 FILE: crash-8fb700d3725a41a007812a4528894bbe836de25b.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: Index: 0, Size: 0
+[ERROR: QuickTime Timecode] Atom size too small.
+[ERROR: QuickTime Timecode] End of data reached.
+[ERROR: QuickTime Timecode] Atom size too large.
+[ERROR: QuickTime Timecode] End of data reached.
+
+[QuickTime - 0x1000] Major Brand = Unknown
+[QuickTime - 0x1001] Minor Version = 1
+[QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
+
+[QuickTime Timecode - 0x0001] Drop Frame = false
+[QuickTime Timecode - 0x0002] 24 Hour Max = false
+[QuickTime Timecode - 0x0003] Negative Times OK = false
+[QuickTime Timecode - 0x0004] Counter = false
+
+[File Type - 0x0001] Detected File Type Name = MOV
+[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-8fb700d3725a41a007812a4528894bbe836de25b.fuzzed
+[File - 0x0002] File Size = 26646 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime
+- QuickTime Timecode
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

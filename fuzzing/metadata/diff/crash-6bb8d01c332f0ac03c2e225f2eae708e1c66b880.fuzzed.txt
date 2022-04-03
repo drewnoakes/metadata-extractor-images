@@ -1,23 +1,46 @@
        FILE: crash-6bb8d01c332f0ac03c2e225f2eae708e1c66b880.fuzzed
        TYPE: MP4
        
-JAVA   EXCEPTION: null
+JAVA   [ERROR: MP4] Box size too small.
+JAVA   [ERROR: MP4] End of data reached.
+JAVA   [ERROR: MP4 Video] Box size too large.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = isom
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = mp41
-DOTNET 
-DOTNET [File Type - 0x0001] Detected File Type Name = MP4
-DOTNET [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
-DOTNET [File Type - 0x0003] Detected MIME Type = video/mp4
-DOTNET [File Type - 0x0004] Expected File Name Extension = mp4
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-6bb8d01c332f0ac03c2e225f2eae708e1c66b880.fuzzed
-DOTNET [File - 0x0002] File Size = 6758 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+JAVA   [ERROR: MP4 Video] Box size too small.
+JAVA   [ERROR: MP4 Video] Unable to skip. Requested 121044984 bytes but only 5779 remained.
+JAVA   
+JAVA   [MP4 - 0x0001] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
+JAVA   [MP4 - 0x0002] Minor Version = 0
+JAVA   [MP4 - 0x0003] Compatible Brands = [MP4 v1 [ISO 14496-1:ch13]]
+JAVA   [MP4 - 0x0200] Rotation = 0
+JAVA   
+JAVA   [MP4 Video - 0x0065] Creation Time = Sun Aug 09 09:40:15 +10:00 1942
+JAVA   [MP4 Video - 0x0066] Modification Time = Sun Aug 09 09:40:15 +10:00 1942
+JAVA   [MP4 Video - 0x0068] ISO 639-2 Language Code = ```
+JAVA   [MP4 Video - 0x00d4] Opcolor = 0 0 0
+JAVA   [MP4 Video - 0x00d3] Graphics Mode = Copy
+JAVA   [MP4 Video - 0x00d2] Compression Type = MPEG-4
+JAVA   [MP4 Video - 0x00cc] Width = 176 pixels
+JAVA   [MP4 Video - 0x00cd] Height = 144 pixels
+JAVA   [MP4 Video - 0x00d1] Depth = 24-bit color
+JAVA   [MP4 Video - 0x00ce] Horizontal Resolution = 72
+JAVA   [MP4 Video - 0x00cf] Vertical Resolution = 72
+       
+       [File Type - 0x0001] Detected File Type Name = MP4
+       [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+       [File Type - 0x0003] Detected MIME Type = video/mp4
+       [File Type - 0x0004] Expected File Name Extension = mp4
+       
+       [File - 0x0001] File Name = crash-6bb8d01c332f0ac03c2e225f2eae708e1c66b880.fuzzed
+       [File - 0x0002] File Size = 6758 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - MP4
 DOTNET - QuickTime File Type
-DOTNET - File Type
-DOTNET - File
+JAVA   - MP4 Video
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

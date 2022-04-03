@@ -1,23 +1,48 @@
        FILE: crash-63fe39cbd4d13206c6858d59c115533f73db9638.fuzzed
        TYPE: QUICKTIME
        
-JAVA   EXCEPTION: Index: 0, Size: 0
+JAVA   [ERROR: QuickTime Video] End of data reached.
+JAVA   [ERROR: QuickTime Video] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = iso5
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 1
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = avc1, iso5, dash
-DOTNET 
+       
+JAVA   [QuickTime - 0x1000] Major Brand = Unknown
+JAVA   [QuickTime - 0x1001] Minor Version = 1
 DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
 DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-63fe39cbd4d13206c6858d59c115533f73db9638.fuzzed
-DOTNET [File - 0x0002] File Size = 1329 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+JAVA   [QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
+JAVA   
+JAVA   [QuickTime Video - 0x5001] Creation Time = Wed Mar 26 11:20:53 +11:00 2014
+JAVA   [QuickTime Video - 0x5002] Modification Time = Thu Oct 09 14:56:24 +11:00 2014
+JAVA   [QuickTime Video - 0x000c] Opcolor = 0 0 0
+JAVA   [QuickTime Video - 0x000b] Graphics Mode = Copy
+JAVA   [QuickTime Video - 0x0001] Vendor = Unknown
+JAVA   [QuickTime Video - 0x000a] Compression Type = Unknown
+JAVA   [QuickTime Video - 0x0002] Temporal Quality = 131072
+JAVA   [QuickTime Video - 0x0003] Spatial Quality = 0
+JAVA   [QuickTime Video - 0x0004] Width = 560 pixels
+JAVA   [QuickTime Video - 0x0005] Height = 320 pixels
+JAVA   [QuickTime Video - 0x0008] Compressor Name = JVT/AVC Coding
+JAVA   [QuickTime Video - 0x0009] Depth = 24-bit color
+JAVA   [QuickTime Video - 0x000d] Color Table = None
+JAVA   [QuickTime Video - 0x0006] Horizontal Resolution = 72
+JAVA   [QuickTime Video - 0x0007] Vertical Resolution = 1608
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = crash-63fe39cbd4d13206c6858d59c115533f73db9638.fuzzed
+       [File - 0x0002] File Size = 1329 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
 DOTNET - QuickTime File Type
-DOTNET - File Type
-DOTNET - File
+JAVA   - QuickTime Video
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

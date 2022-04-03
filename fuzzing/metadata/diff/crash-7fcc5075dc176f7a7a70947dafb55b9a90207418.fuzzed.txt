@@ -1,8 +1,22 @@
        FILE: crash-7fcc5075dc176f7a7a70947dafb55b9a90207418.fuzzed
        TYPE: WAV
        
-JAVA   EXCEPTION: n must be zero or greater.
-DOTNET EXCEPTION: Invalid RIFF chunk size
+JAVA   [ERROR: WAV] Invalid chunk size: 0
+DOTNET [ERROR: Error] Invalid RIFF chunk size
+       
+       [File Type - 0x0001] Detected File Type Name = WAV
+       [File Type - 0x0002] Detected File Type Long Name = Waveform Audio File Format
+       [File Type - 0x0003] Detected MIME Type = audio/vnd.wave
+       [File Type - 0x0004] Expected File Name Extension = wav
+       
+       [File - 0x0001] File Name = crash-7fcc5075dc176f7a7a70947dafb55b9a90207418.fuzzed
+       [File - 0x0002] File Size = 1994 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - WAV
+DOTNET - Error
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

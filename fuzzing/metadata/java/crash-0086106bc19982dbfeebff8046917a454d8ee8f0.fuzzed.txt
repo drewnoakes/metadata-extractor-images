@@ -1,7 +1,26 @@
 FILE: crash-0086106bc19982dbfeebff8046917a454d8ee8f0.fuzzed
 TYPE: MP3
 
-EXCEPTION: 3
+[ERROR: MP3] Invalid frequency index.
+
+[MP3 - 0x0001] ID = MPEG-2
+[MP3 - 0x0002] Layer = Layer I
+[MP3 - 0x0005] Mode = Mono
+[MP3 - 0x0007] Copyright = True
+[MP3 - 0x0006] Emphasis Method = CCITT j.17
+
+[File Type - 0x0001] Detected File Type Name = MP3
+[File Type - 0x0002] Detected File Type Long Name = MPEG Audio Layer III
+[File Type - 0x0003] Detected MIME Type = audio/mpeg
+[File Type - 0x0004] Expected File Name Extension = mp3
+
+[File - 0x0001] File Name = crash-0086106bc19982dbfeebff8046917a454d8ee8f0.fuzzed
+[File - 0x0002] File Size = 51 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- MP3
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

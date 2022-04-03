@@ -1,7 +1,30 @@
 FILE: crash-54f3d8d685de3f0130a91cc88882c9a0a8f61ce3.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: Index: 0, Size: 0
+[ERROR: QuickTime Video] Atom size too small.
+[ERROR: QuickTime Video] Unable to skip. Requested 5709051 bytes but only 20 remained.
+[ERROR: QuickTime Video] End of data reached.
+
+[QuickTime - 0x1000] Major Brand = Unknown
+[QuickTime - 0x1001] Minor Version = 1
+[QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
+
+[QuickTime Video - 0x000c] Opcolor = 0 0 0
+[QuickTime Video - 0x000b] Graphics Mode = Copy
+
+[File Type - 0x0001] Detected File Type Name = MOV
+[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-54f3d8d685de3f0130a91cc88882c9a0a8f61ce3.fuzzed
+[File - 0x0002] File Size = 570 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime
+- QuickTime Video
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

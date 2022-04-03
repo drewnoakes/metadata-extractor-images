@@ -1,8 +1,42 @@
        FILE: crash-d8dbe78fdc7139bb09b506b9d2218196e7a4d2be.fuzzed
        TYPE: BMP
        
-JAVA   EXCEPTION: null
+JAVA   [ERROR: BMP Header] Invalid profile size -6022598
 DOTNET EXCEPTION: Array dimensions exceeded supported range.
+JAVA   
+JAVA   [BMP Header - 0xfffffffe] Bitmap type = Standard
+JAVA   [BMP Header - 0xffffffff] Header Size = 124
+JAVA   [BMP Header - 0x0002] Image Width = 1970602016
+JAVA   [BMP Header - 0x0001] Image Height = 1970637448
+JAVA   [BMP Header - 0x0003] Planes = 30197
+JAVA   [BMP Header - 0x0004] Bits Per Pixel = 30069
+JAVA   [BMP Header - 0x0005] Compression = Illegal value 0x75757575
+JAVA   [BMP Header - 0x0006] X Pixels per Meter = 1970632053
+JAVA   [BMP Header - 0x0007] Y Pixels per Meter = 1124073473
+JAVA   [BMP Header - 0x0008] Palette Colour Count = 16387657
+JAVA   [BMP Header - 0x0009] Important Colour Count = 0
+JAVA   [BMP Header - 0x000c] Red Mask = 0x00000000
+JAVA   [BMP Header - 0x000d] Green Mask = 0x00000000
+JAVA   [BMP Header - 0x000e] Blue Mask = 0x69570000
+JAVA   [BMP Header - 0x000f] Alpha Mask = 0x4752736E
+JAVA   [BMP Header - 0x0010] Color Space Type = Embedded Profile
+JAVA   [BMP Header - 0x0011] Red Gamma Curve = 16973.258
+JAVA   [BMP Header - 0x0012] Green Gamma Curve = 68.272
+JAVA   [BMP Header - 0x0013] Blue Gamma Curve = 0.164
+JAVA   [BMP Header - 0x0014] Rendering Intent = 
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = BMP
+JAVA   [File Type - 0x0002] Detected File Type Long Name = Device Independent Bitmap
+JAVA   [File Type - 0x0003] Detected MIME Type = image/bmp
+JAVA   [File Type - 0x0004] Expected File Name Extension = bmp
+JAVA   
+JAVA   [File - 0x0001] File Name = crash-d8dbe78fdc7139bb09b506b9d2218196e7a4d2be.fuzzed
+JAVA   [File - 0x0002] File Size = 151 bytes
+JAVA   [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+JAVA   
+JAVA   - BMP Header
+JAVA   - File Type
+JAVA   - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

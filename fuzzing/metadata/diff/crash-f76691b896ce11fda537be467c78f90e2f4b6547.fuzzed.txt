@@ -1,8 +1,44 @@
        FILE: crash-f76691b896ce11fda537be467c78f90e2f4b6547.fuzzed
        TYPE: BMP
        
-JAVA   EXCEPTION: null
+JAVA   [ERROR: BMP Header] Invalid profile size -2134900349
 DOTNET EXCEPTION: Array dimensions exceeded supported range.
+JAVA   [ERROR: Error] Invalid next header offset
+JAVA   
+JAVA   [BMP Header - 0xfffffffe] Bitmap type = Color Icon
+JAVA   [BMP Header - 0xffffffff] Header Size = 124
+JAVA   [BMP Header - 0x0002] Image Width = 1895825413
+JAVA   [BMP Header - 0x0001] Image Height = 108
+JAVA   [BMP Header - 0x0003] Planes = 25965
+JAVA   [BMP Header - 0x0004] Bits Per Pixel = 24948
+JAVA   [BMP Header - 0x0005] Compression = None
+JAVA   [BMP Header - 0x0006] X Pixels per Meter = 1718878208
+JAVA   [BMP Header - 0x0007] Y Pixels per Meter = 25704
+JAVA   [BMP Header - 0x0008] Palette Colour Count = 2080374784
+JAVA   [BMP Header - 0x0009] Important Colour Count = 83886080
+JAVA   [BMP Header - 0x000c] Red Mask = 0x6C710000
+JAVA   [BMP Header - 0x000d] Green Mask = 0x6D000000
+JAVA   [BMP Header - 0x000e] Blue Mask = 0xFFFFFF65
+JAVA   [BMP Header - 0x000f] Alpha Mask = 0xFFFFFFFF
+JAVA   [BMP Header - 0x0010] Color Space Type = Embedded Profile
+JAVA   [BMP Header - 0x0011] Red Gamma Curve = 47219.392
+JAVA   [BMP Header - 0x0012] Green Gamma Curve = 45088.955
+JAVA   [BMP Header - 0x0013] Blue Gamma Curve = 1923.26
+JAVA   [BMP Header - 0x0014] Rendering Intent = 
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = BMP
+JAVA   [File Type - 0x0002] Detected File Type Long Name = Device Independent Bitmap
+JAVA   [File Type - 0x0003] Detected MIME Type = image/bmp
+JAVA   [File Type - 0x0004] Expected File Name Extension = bmp
+JAVA   
+JAVA   [File - 0x0001] File Name = crash-f76691b896ce11fda537be467c78f90e2f4b6547.fuzzed
+JAVA   [File - 0x0002] File Size = 1025 bytes
+JAVA   [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+JAVA   
+JAVA   - BMP Header
+JAVA   - Error
+JAVA   - File Type
+JAVA   - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

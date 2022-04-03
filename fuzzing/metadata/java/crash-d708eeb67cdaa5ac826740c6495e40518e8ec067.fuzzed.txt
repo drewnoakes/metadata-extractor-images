@@ -1,7 +1,20 @@
 FILE: crash-d708eeb67cdaa5ac826740c6495e40518e8ec067.fuzzed
 TYPE: MP4
 
-EXCEPTION: null
+[ERROR: MP4] Box size too large.
+
+[File Type - 0x0001] Detected File Type Name = MP4
+[File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+[File Type - 0x0003] Detected MIME Type = video/mp4
+[File Type - 0x0004] Expected File Name Extension = mp4
+
+[File - 0x0001] File Name = crash-d708eeb67cdaa5ac826740c6495e40518e8ec067.fuzzed
+[File - 0x0002] File Size = 586018 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- MP4
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

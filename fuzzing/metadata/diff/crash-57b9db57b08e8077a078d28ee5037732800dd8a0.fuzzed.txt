@@ -1,23 +1,34 @@
        FILE: crash-57b9db57b08e8077a078d28ee5037732800dd8a0.fuzzed
        TYPE: MP4
        
-JAVA   EXCEPTION: null
+JAVA   [ERROR: MP4 Sound] End of data reached.
+JAVA   
+JAVA   [MP4 - 0x0001] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
 DOTNET [QuickTime File Type - 0x0001] Major Brand = isom
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 512
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = isom, iso2, mp41
-DOTNET 
-DOTNET [File Type - 0x0001] Detected File Type Name = MP4
-DOTNET [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
-DOTNET [File Type - 0x0003] Detected MIME Type = video/mp4
-DOTNET [File Type - 0x0004] Expected File Name Extension = mp4
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-57b9db57b08e8077a078d28ee5037732800dd8a0.fuzzed
-DOTNET [File - 0x0002] File Size = 15674 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+JAVA   [MP4 - 0x0002] Minor Version = 512
+JAVA   [MP4 - 0x0003] Compatible Brands = [MP4  Base Media v1 [IS0 14496-12:2003], MP4 Base Media v2 [ISO 14496-12:2005], MP4 v1 [ISO 14496-1:ch13]]
+JAVA   
+JAVA   [MP4 Sound - 0x0131] Balance = 0
+JAVA   [MP4 Sound - 0x012d] Format = MPEG-4, Advanced Audio Coding (AAC)
+JAVA   [MP4 Sound - 0x012e] Number of Channels = 2
+JAVA   [MP4 Sound - 0x012f] Sample Size = 16
+       
+       [File Type - 0x0001] Detected File Type Name = MP4
+       [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+       [File Type - 0x0003] Detected MIME Type = video/mp4
+       [File Type - 0x0004] Expected File Name Extension = mp4
+       
+       [File - 0x0001] File Name = crash-57b9db57b08e8077a078d28ee5037732800dd8a0.fuzzed
+       [File - 0x0002] File Size = 15674 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - MP4
 DOTNET - QuickTime File Type
-DOTNET - File Type
-DOTNET - File
+JAVA   - MP4 Sound
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

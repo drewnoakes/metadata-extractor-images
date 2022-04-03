@@ -1,9 +1,144 @@
        FILE: crash-80d7a82ca8a9e1a5d0c3c3e91e7036cc574b3d98.fuzzed
        TYPE: TIFF
        
-JAVA   EXCEPTION: String index out of range: 12
+JAVA   [ERROR: Exif IFD0] First IFD offset is beyond the end of the TIFF data segment -- trying default offset
+JAVA   [ERROR: Exif IFD0] Invalid TIFF tag format code 14689 for tag 0xFF38
 DOTNET EXCEPTION: Index and length must refer to a location within the string.
 DOTNET Parameter name: length
+JAVA   [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0xFF6E
+JAVA   [ERROR: Exif IFD0] Invalid TIFF tag format code 91 for tag 0x0000
+JAVA   [ERROR: Exif IFD0] Invalid TIFF tag format code 31092 for tag 0x0062
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x6604
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 28265 for tag 0x7250
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Illegally sized IFD
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x002F
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x6604
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 28265 for tag 0x7250
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x4100
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x04F9
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 65532 for tag 0x0000
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 70 for tag 0x4947
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 35840 for tag 0x003B
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 65535 for tag 0xFFFF
+JAVA   [ERROR: Exif SubIFD] Invalid TIFF tag format code 65535 for tag 0xFFFF
+JAVA   [ERROR: Exif SubIFD] Stopping processing as too many errors seen in TIFF IFD
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Illegally sized IFD
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   [ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+JAVA   
+JAVA   [Exif SubIFD - 0x0004] Unknown tag (0x0004) = 
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = TIFF
+JAVA   [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+JAVA   [File Type - 0x0003] Detected MIME Type = image/tiff
+JAVA   [File Type - 0x0004] Expected File Name Extension = tiff
+JAVA   
+JAVA   [File - 0x0001] File Name = crash-80d7a82ca8a9e1a5d0c3c3e91e7036cc574b3d98.fuzzed
+JAVA   [File - 0x0002] File Size = 742 bytes
+JAVA   [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+JAVA   
+JAVA   - Exif IFD0
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA           - PrintIM
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA           - PrintIM
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA       - Exif SubIFD
+JAVA   - File Type
+JAVA   - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

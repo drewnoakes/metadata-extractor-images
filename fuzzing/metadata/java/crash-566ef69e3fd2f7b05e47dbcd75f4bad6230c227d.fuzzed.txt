@@ -1,7 +1,44 @@
 FILE: crash-566ef69e3fd2f7b05e47dbcd75f4bad6230c227d.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: n must be zero or greater.
+[ERROR: QuickTime] Atom size too small.
+[ERROR: QuickTime] Atom size too small.
+[ERROR: QuickTime] Atom size too small.
+[ERROR: QuickTime] Atom size too small.
+[ERROR: QuickTime] Atom size too small.
+[ERROR: QuickTime] End of data reached.
+
+[QuickTime - 0x1000] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
+[QuickTime - 0x1001] Minor Version = 512
+[QuickTime - 0x1002] Compatible Brands = [MP4  Base Media v1 [IS0 14496-12:2003], MP4 Base Media v2 [ISO 14496-12:2005], MP4 Base w/ AVC ext [ISO 14496-12:2005], MP4 v1 [ISO 14496-1:ch13]]
+[QuickTime - 0x0100] Creation Time = Fri Jan 01 10:00:00 +10:00 1904
+[QuickTime - 0x0101] Modification Time = Fri Jan 01 10:00:00 +10:00 1904
+[QuickTime - 0x0103] Duration = 441
+[QuickTime - 0x0102] Media Time Scale = 1000
+[QuickTime - 0x0104] Duration in Seconds = 00:00:01
+[QuickTime - 0x0105] Preferred Rate = 16.938
+[QuickTime - 0x0106] Preferred Volume = 286.875
+[QuickTime - 0x0107] Preview Time = 1073741824
+[QuickTime - 0x0108] Preview Duration = 0
+[QuickTime - 0x0109] Poster Time = 0
+[QuickTime - 0x010a] Selection Time = 0
+[QuickTime - 0x010b] Selection Duration = 0
+[QuickTime - 0x010c] Current Time = 0
+[QuickTime - 0x010d] Next Track ID = 0
+[QuickTime - 0x010e] Rotation = 0
+
+[File Type - 0x0001] Detected File Type Name = MOV
+[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-566ef69e3fd2f7b05e47dbcd75f4bad6230c227d.fuzzed
+[File - 0x0002] File Size = 18058 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -1,7 +1,26 @@
 FILE: crash-be8afd4d4261d77f4d1ee4188aa7cd09722d1168.fuzzed
 TYPE: WEBP
 
-EXCEPTION: n must be zero or greater.
+[ERROR: WebP] Invalid chunk size: -1313754703
+
+[WebP - 0x0002] Image Width = 4544257
+[WebP - 0x0001] Image Height = 11600195
+[WebP - 0x0003] Has Alpha = true
+[WebP - 0x0004] Is Animation = false
+
+[File Type - 0x0001] Detected File Type Name = WebP
+[File Type - 0x0002] Detected File Type Long Name = WebP
+[File Type - 0x0003] Detected MIME Type = image/webp
+[File Type - 0x0004] Expected File Name Extension = webp
+
+[File - 0x0001] File Name = crash-be8afd4d4261d77f4d1ee4188aa7cd09722d1168.fuzzed
+[File - 0x0002] File Size = 216 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- WebP
+- WebP
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

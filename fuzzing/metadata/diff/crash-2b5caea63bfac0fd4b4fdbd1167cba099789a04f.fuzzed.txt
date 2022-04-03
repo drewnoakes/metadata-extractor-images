@@ -1,11 +1,25 @@
        FILE: crash-2b5caea63bfac0fd4b4fdbd1167cba099789a04f.fuzzed
        TYPE: MP4
        
-JAVA   EXCEPTION: null
+JAVA   [ERROR: MP4] End of data reached.
+JAVA   [ERROR: MP4] End of data reached.
+JAVA   [ERROR: MP4 Sound] Unable to skip. Requested 539 bytes but only 528 remained.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = isom
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 512
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = isom, iso2, avc1, mp41
-DOTNET 
+       
+JAVA   [MP4 - 0x0001] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
+JAVA   [MP4 - 0x0002] Minor Version = 512
+JAVA   [MP4 - 0x0003] Compatible Brands = [MP4  Base Media v1 [IS0 14496-12:2003], MP4 Base Media v2 [ISO 14496-12:2005], MP4 Base w/ AVC ext [ISO 14496-12:2005], MP4 v1 [ISO 14496-1:ch13]]
+JAVA   [MP4 - 0x0100] Creation Time = Fri Jan 01 10:00:00 AEST 1904
+JAVA   [MP4 - 0x0101] Modification Time = Fri Jan 01 10:00:00 AEST 1904
+JAVA   [MP4 - 0x0103] Duration = 65535
+JAVA   [MP4 - 0x0102] Media Time Scale = 1000
+JAVA   [MP4 - 0x0104] Duration in Seconds = 00:01:06
+JAVA   [MP4 - 0x010f] Transformation Matrix = 65536 0 0 0 65536 0 0 36 1701082227
+JAVA   [MP4 - 0x0105] Preferred Rate = -248
+JAVA   [MP4 - 0x0106] Preferred Volume = 1
+JAVA   [MP4 - 0x010e] Next Track ID = 65536
 DOTNET [QuickTime Movie Header - 0x0001] Version = 0
 DOTNET [QuickTime Movie Header - 0x0002] Flags = 0 0 0
 DOTNET [QuickTime Movie Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
@@ -22,20 +36,24 @@ DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 1
 DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 1854
 DOTNET [QuickTime Movie Header - 0x000f] Current Time = 1024
 DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 65536
-DOTNET 
-DOTNET [File Type - 0x0001] Detected File Type Name = MP4
-DOTNET [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
-DOTNET [File Type - 0x0003] Detected MIME Type = video/mp4
-DOTNET [File Type - 0x0004] Expected File Name Extension = mp4
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-2b5caea63bfac0fd4b4fdbd1167cba099789a04f.fuzzed
-DOTNET [File - 0x0002] File Size = 1055 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+       
+JAVA   [MP4 Sound - 0x0131] Balance = 0
+JAVA   
+       [File Type - 0x0001] Detected File Type Name = MP4
+       [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+       [File Type - 0x0003] Detected MIME Type = video/mp4
+       [File Type - 0x0004] Expected File Name Extension = mp4
+       
+       [File - 0x0001] File Name = crash-2b5caea63bfac0fd4b4fdbd1167cba099789a04f.fuzzed
+       [File - 0x0002] File Size = 1055 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - MP4
+JAVA   - MP4 Sound
 DOTNET - QuickTime File Type
 DOTNET - QuickTime Movie Header
-DOTNET - File Type
-DOTNET - File
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

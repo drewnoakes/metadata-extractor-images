@@ -1,11 +1,34 @@
        FILE: crash-2a65b435b93192f7943304b9d8b5fb59862038e8.fuzzed
        TYPE: QUICKTIME
        
-JAVA   EXCEPTION: null
+JAVA   [ERROR: QuickTime] End of data reached.
+JAVA   [ERROR: QuickTime] End of data reached.
+JAVA   [ERROR: QuickTime] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = iso5
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 1
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = dash, iso5
-DOTNET 
+JAVA   [ERROR: QuickTime] End of data reached.
+JAVA   [ERROR: QuickTime Video] End of data reached.
+JAVA   [ERROR: QuickTime Video] Unable to skip. Requested 1380 bytes but only 339 remained.
+JAVA   [ERROR: QuickTime Video] End of data reached.
+JAVA   [ERROR: QuickTime Video] End of data reached.
+       
+JAVA   [QuickTime - 0x1000] Major Brand = Unknown
+JAVA   [QuickTime - 0x1001] Minor Version = 1
+JAVA   [QuickTime - 0x1002] Compatible Brands = [Unknown, Unknown]
+JAVA   [QuickTime - 0x0100] Creation Time = Sun Aug 09 09:40:15 +10:00 1942
+JAVA   [QuickTime - 0x0101] Modification Time = Sun Aug 09 09:40:17 +10:00 1942
+JAVA   [QuickTime - 0x0103] Duration = 2055576
+JAVA   [QuickTime - 0x0102] Media Time Scale = 90000
+JAVA   [QuickTime - 0x0104] Duration in Seconds = 00:00:23
+JAVA   [QuickTime - 0x0105] Preferred Rate = 1
+JAVA   [QuickTime - 0x0106] Preferred Volume = 1
+JAVA   [QuickTime - 0x0107] Preview Time = 0
+JAVA   [QuickTime - 0x0108] Preview Duration = 0
+JAVA   [QuickTime - 0x0109] Poster Time = 0
+JAVA   [QuickTime - 0x010a] Selection Time = 0
+JAVA   [QuickTime - 0x010b] Selection Duration = 0
+JAVA   [QuickTime - 0x010c] Current Time = 0
 DOTNET [QuickTime Movie Header - 0x0001] Version = 0
 DOTNET [QuickTime Movie Header - 0x0002] Flags = 0 0 0
 DOTNET [QuickTime Movie Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
@@ -22,7 +45,11 @@ DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
 DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
 DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
 DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 2
-DOTNET 
+JAVA   [QuickTime - 0x010d] Next Track ID = 9
+JAVA   [QuickTime - 0x010e] Rotation = 0
+       
+JAVA   [QuickTime Video - 0x000c] Opcolor = 0 0 0
+JAVA   [QuickTime Video - 0x000b] Graphics Mode = Copy
 DOTNET [QuickTime Track Header - 0x0001] Version = 0
 DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 15
 DOTNET [QuickTime Track Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
@@ -35,21 +62,25 @@ DOTNET [QuickTime Track Header - 0x0009] Volume = 1
 DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
 DOTNET [QuickTime Track Header - 0x000a] Width = 0
 DOTNET [QuickTime Track Header - 0x000b] Height = 0
-DOTNET 
+       
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
 DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
 DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-2a65b435b93192f7943304b9d8b5fb59862038e8.fuzzed
-DOTNET [File - 0x0002] File Size = 1403 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = crash-2a65b435b93192f7943304b9d8b5fb59862038e8.fuzzed
+       [File - 0x0002] File Size = 1403 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
+JAVA   - QuickTime Video
 DOTNET - QuickTime File Type
 DOTNET - QuickTime Movie Header
 DOTNET - QuickTime Track Header
-DOTNET - File Type
-DOTNET - File
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

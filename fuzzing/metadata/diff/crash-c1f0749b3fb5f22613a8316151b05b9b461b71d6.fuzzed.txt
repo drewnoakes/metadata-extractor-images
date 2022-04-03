@@ -1,23 +1,35 @@
        FILE: crash-c1f0749b3fb5f22613a8316151b05b9b461b71d6.fuzzed
        TYPE: QUICKTIME
        
-JAVA   EXCEPTION: Illegal Capacity: -147
+JAVA   [ERROR: QuickTime] Atom size too small.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = iso5
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 1
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = avc1, iso5, dash
-DOTNET 
+       
+JAVA   [QuickTime - 0x1000] Major Brand = Unknown
+JAVA   [QuickTime - 0x1001] Minor Version = 1
 DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
 DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-c1f0749b3fb5f22613a8316151b05b9b461b71d6.fuzzed
-DOTNET [File - 0x0002] File Size = 34733 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+JAVA   [QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
+JAVA   [QuickTime - 0x010e] Rotation = 0
+JAVA   
+JAVA   [QuickTime Text - 0x5001] Creation Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   [QuickTime Text - 0x5002] Modification Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = crash-c1f0749b3fb5f22613a8316151b05b9b461b71d6.fuzzed
+       [File - 0x0002] File Size = 34733 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
 DOTNET - QuickTime File Type
-DOTNET - File Type
-DOTNET - File
+JAVA   - QuickTime Text
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

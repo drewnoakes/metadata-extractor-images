@@ -1,7 +1,49 @@
 FILE: crash-c769eb6c4e22e021ad4af410ead4ffc9d3ac2fed.fuzzed
 TYPE: MP4
 
-EXCEPTION: null
+[ERROR: MP4] End of data reached.
+[ERROR: MP4 Video] Box size too large.
+[ERROR: MP4 Video] Box size too small.
+
+[MP4 - 0x0001] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
+[MP4 - 0x0002] Minor Version = 0
+[MP4 - 0x0003] Compatible Brands = [MP4 v1 [ISO 14496-1:ch13]]
+[MP4 - 0x0100] Creation Time = Sun Aug 09 09:40:15 AEST 1942
+[MP4 - 0x0101] Modification Time = Sun Aug 09 09:40:17 AEST 1942
+[MP4 - 0x0103] Duration = 2055576
+[MP4 - 0x0102] Media Time Scale = 90000
+[MP4 - 0x0104] Duration in Seconds = 00:00:23
+[MP4 - 0x010f] Transformation Matrix = 65536 0 0 0 65536 0 0 0 1073741824
+[MP4 - 0x0105] Preferred Rate = 1
+[MP4 - 0x0106] Preferred Volume = 1
+[MP4 - 0x010e] Next Track ID = 9
+[MP4 - 0x0200] Rotation = 0
+
+[MP4 Video - 0x0065] Creation Time = Sun Aug 09 09:40:15 +10:00 1942
+[MP4 Video - 0x0066] Modification Time = Sun Aug 09 09:40:15 +10:00 1942
+[MP4 Video - 0x0068] ISO 639-2 Language Code = ```
+[MP4 Video - 0x00d4] Opcolor = 0 0 0
+[MP4 Video - 0x00d3] Graphics Mode = Copy
+[MP4 Video - 0x00d2] Compression Type = MPEG-4
+[MP4 Video - 0x00cc] Width = 176 pixels
+[MP4 Video - 0x00cd] Height = 144 pixels
+[MP4 Video - 0x00d1] Depth = 24-bit color
+[MP4 Video - 0x00ce] Horizontal Resolution = 72
+[MP4 Video - 0x00cf] Vertical Resolution = 72
+
+[File Type - 0x0001] Detected File Type Name = MP4
+[File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+[File Type - 0x0003] Detected MIME Type = video/mp4
+[File Type - 0x0004] Expected File Name Extension = mp4
+
+[File - 0x0001] File Name = crash-c769eb6c4e22e021ad4af410ead4ffc9d3ac2fed.fuzzed
+[File - 0x0002] File Size = 13013 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- MP4
+- MP4 Video
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

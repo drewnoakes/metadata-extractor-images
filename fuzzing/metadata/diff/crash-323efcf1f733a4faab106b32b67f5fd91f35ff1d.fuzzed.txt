@@ -1,7 +1,7 @@
        FILE: crash-323efcf1f733a4faab106b32b67f5fd91f35ff1d.fuzzed
        TYPE: QUICKTIME
        
-JAVA   EXCEPTION: null
+JAVA   [ERROR: QuickTime Sound] Atom size too small.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = iso5
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 1
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = avc1, iso5, dash
@@ -26,7 +26,10 @@ DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
 DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
 DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
 DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 3
-DOTNET 
+       
+JAVA   [QuickTime - 0x1000] Major Brand = Unknown
+JAVA   [QuickTime - 0x1001] Minor Version = 1
+JAVA   [QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
 DOTNET [QuickTime Track Header - 0x0001] Version = 0
 DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 1
 DOTNET [QuickTime Track Header - 0x0003] Created = Wed Mar 26 00:20:53 2014
@@ -40,7 +43,11 @@ DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
 DOTNET [QuickTime Track Header - 0x000a] Width = 561
 DOTNET [QuickTime Track Header - 0x000b] Height = 320
 DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
-DOTNET 
+       
+JAVA   [QuickTime Sound - 0x0305] Balance = 0
+JAVA   [QuickTime Sound - 0x0301] Format = Unknown
+JAVA   [QuickTime Sound - 0x0302] Number of Channels = 1
+JAVA   [QuickTime Sound - 0x0303] Sample Size = 16
 DOTNET [QuickTime Track Header - 0x0001] Version = 0
 DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 3
 DOTNET [QuickTime Track Header - 0x0003] Created = Wed Mar 26 00:20:53 2014
@@ -53,23 +60,27 @@ DOTNET [QuickTime Track Header - 0x0009] Volume = 1
 DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
 DOTNET [QuickTime Track Header - 0x000a] Width = 0
 DOTNET [QuickTime Track Header - 0x000b] Height = 0
-DOTNET 
+       
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
 DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
 DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-323efcf1f733a4faab106b32b67f5fd91f35ff1d.fuzzed
-DOTNET [File - 0x0002] File Size = 5958 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = crash-323efcf1f733a4faab106b32b67f5fd91f35ff1d.fuzzed
+       [File - 0x0002] File Size = 5958 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
+JAVA   - QuickTime Sound
 DOTNET - QuickTime File Type
 DOTNET - QuickTime File Type
 DOTNET - QuickTime Movie Header
 DOTNET - QuickTime Track Header
 DOTNET - QuickTime Track Header
-DOTNET - File Type
-DOTNET - File
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

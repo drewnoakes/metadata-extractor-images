@@ -1,7 +1,26 @@
 FILE: crash-0f603dda47737e419fb55702c1b3499c8ae9e525.fuzzed
 TYPE: AVI
 
-EXCEPTION: n must be zero or greater.
+[ERROR: AVI] Invalid chunk size: -1541438940
+[ERROR: AVI] Unable to skip. Requested 356017209 bytes but only 5198 remained.
+[ERROR: AVI] End of data reached.
+
+[AVI - 0x0006] Width = -267971520 pixels
+[AVI - 0x0007] Height = -687675905 pixels
+[AVI - 0x0008] Stream Count = -1919125504
+
+[File Type - 0x0001] Detected File Type Name = AVI
+[File Type - 0x0002] Detected File Type Long Name = Audio Video Interleaved
+[File Type - 0x0003] Detected MIME Type = video/vnd.avi
+[File Type - 0x0004] Expected File Name Extension = avi
+
+[File - 0x0001] File Name = crash-0f603dda47737e419fb55702c1b3499c8ae9e525.fuzzed
+[File - 0x0002] File Size = 5418 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- AVI
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

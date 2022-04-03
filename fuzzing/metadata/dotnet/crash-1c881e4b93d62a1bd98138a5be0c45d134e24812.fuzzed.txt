@@ -1,7 +1,20 @@
 FILE: crash-1c881e4b93d62a1bd98138a5be0c45d134e24812.fuzzed
 TYPE: WEBP
 
-EXCEPTION: Invalid RIFF chunk size
+[ERROR: Error] Invalid RIFF chunk size
+
+[File Type - 0x0001] Detected File Type Name = WebP
+[File Type - 0x0002] Detected File Type Long Name = WebP
+[File Type - 0x0003] Detected MIME Type = image/webp
+[File Type - 0x0004] Expected File Name Extension = webp
+
+[File - 0x0001] File Name = crash-1c881e4b93d62a1bd98138a5be0c45d134e24812.fuzzed
+[File - 0x0002] File Size = 20 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Error
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

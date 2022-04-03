@@ -1,8 +1,28 @@
        FILE: crash-937f60e53d90d75c0820083519674a4b9e52c807.fuzzed
        TYPE: WEBP
        
-JAVA   EXCEPTION: n must be zero or greater.
-DOTNET EXCEPTION: Invalid RIFF chunk size
+JAVA   [ERROR: WebP] Invalid chunk size: -16711666
+DOTNET [ERROR: Error] Invalid RIFF chunk size
+       
+       [WebP - 0x0002] Image Width = 400
+       [WebP - 0x0001] Image Height = 301
+       [WebP - 0x0003] Has Alpha = true
+       [WebP - 0x0004] Is Animation = false
+       
+       [File Type - 0x0001] Detected File Type Name = WebP
+       [File Type - 0x0002] Detected File Type Long Name = WebP
+       [File Type - 0x0003] Detected MIME Type = image/webp
+       [File Type - 0x0004] Expected File Name Extension = webp
+       
+       [File - 0x0001] File Name = crash-937f60e53d90d75c0820083519674a4b9e52c807.fuzzed
+       [File - 0x0002] File Size = 38 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - WebP
+       - WebP
+DOTNET - Error
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

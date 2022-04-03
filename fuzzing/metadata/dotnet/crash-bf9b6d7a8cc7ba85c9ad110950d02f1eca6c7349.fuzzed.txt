@@ -1,7 +1,54 @@
 FILE: crash-bf9b6d7a8cc7ba85c9ad110950d02f1eca6c7349.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: Handler moved stream beyond end of atom
+[QuickTime File Type - 0x0001] Major Brand = iso5
+[QuickTime File Type - 0x0002] Minor Version = 1
+[QuickTime File Type - 0x0003] Compatible Brands = dash, iso5
+
+[QuickTime Movie Header - 0x0001] Version = 0
+[QuickTime Movie Header - 0x0002] Flags = 0 0 0
+[QuickTime Movie Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
+[QuickTime Movie Header - 0x0004] Modified = Fri Jan 01 00:00:00 1904
+[QuickTime Movie Header - 0x0005] TrackId = 1000
+[QuickTime Movie Header - 0x0006] Duration = 00:00:00
+[QuickTime Movie Header - 0x0007] Preferred Rate = 1.0038910505836575875486381323
+[QuickTime Movie Header - 0x0008] Preferred Volume = 1
+[QuickTime Movie Header - 0x0009] Matrix = [36 values]
+[QuickTime Movie Header - 0x000a] Preview Time = 0
+[QuickTime Movie Header - 0x000b] Preview Duration = 0
+[QuickTime Movie Header - 0x000c] Poster Time = 0
+[QuickTime Movie Header - 0x000d] Selection Time = 0
+[QuickTime Movie Header - 0x000e] Selection Duration = 0
+[QuickTime Movie Header - 0x000f] Current Time = 0
+[QuickTime Movie Header - 0x0010] Next Track Id = 2
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
+[QuickTime Track Header - 0x0004] Modified = Mon Aug 04 22:09:29 2014
+[QuickTime Track Header - 0x0005] TrackId = 1
+[QuickTime Track Header - 0x0006] Duration = 0
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 1
+[QuickTime Track Header - 0x0009] Volume = 1
+[QuickTime Track Header - 0x000c] Matrix = 1 0 1.601 26995.44 0.008 1.648 26995.43 24950.39 1.71
+[QuickTime Track Header - 0x000a] Width = 0.0417334248874647135118638895
+[QuickTime Track Header - 0x000b] Height = 28015.435400930800335698481727
+
+[File Type - 0x0001] Detected File Type Name = QuickTime
+[File Type - 0x0002] Detected File Type Long Name = QuickTime
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-bf9b6d7a8cc7ba85c9ad110950d02f1eca6c7349.fuzzed
+[File - 0x0002] File Size = 42293 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- QuickTime Movie Header
+- QuickTime Track Header
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

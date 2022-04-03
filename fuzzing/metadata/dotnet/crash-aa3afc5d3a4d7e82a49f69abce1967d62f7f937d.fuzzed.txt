@@ -1,7 +1,20 @@
 FILE: crash-aa3afc5d3a4d7e82a49f69abce1967d62f7f937d.fuzzed
 TYPE: WAV
 
-EXCEPTION: Invalid RIFF chunk size
+[ERROR: Error] Invalid RIFF chunk size
+
+[File Type - 0x0001] Detected File Type Name = WAV
+[File Type - 0x0002] Detected File Type Long Name = Waveform Audio File Format
+[File Type - 0x0003] Detected MIME Type = audio/vnd.wave
+[File Type - 0x0004] Expected File Name Extension = wav
+
+[File - 0x0001] File Name = crash-aa3afc5d3a4d7e82a49f69abce1967d62f7f937d.fuzzed
+[File - 0x0002] File Size = 406 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Error
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -1,7 +1,50 @@
 FILE: crash-464835073b696acfb3e7b0f0ada6067a7aab8c17.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: Illegal Capacity: -1
+[ERROR: QuickTime] End of data reached.
+
+[QuickTime - 0x1000] Major Brand = Unknown
+[QuickTime - 0x1001] Minor Version = 1
+[QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
+[QuickTime - 0x010e] Rotation = 0
+
+[QuickTime Text - 0x5001] Creation Time = Mon Jun 16 02:10:54 +10:00 2003
+[QuickTime Text - 0x5002] Modification Time = Mon Jun 16 02:10:54 +10:00 2003
+[QuickTime Text - 0x0001] Auto Scale = false
+[QuickTime Text - 0x0002] Use Background Color = false
+[QuickTime Text - 0x0003] Scroll In = false
+[QuickTime Text - 0x0004] Scroll Out = false
+[QuickTime Text - 0x0005] Scroll Orientation = Vertical
+[QuickTime Text - 0x0006] Scroll Direction = Normal
+[QuickTime Text - 0x0007] Continuous Scroll = false
+[QuickTime Text - 0x0008] Drop Shadow = false
+[QuickTime Text - 0x0009] Anti-aliasing = false
+[QuickTime Text - 0x000a] Display Text Background Color = false
+[QuickTime Text - 0x000b] Alignment = Left
+[QuickTime Text - 0x000c] Background Color = 2 16 0
+[QuickTime Text - 0x000d] Default Text Box = 47352014438400
+[QuickTime Text - 0x000e] Font Number = 0
+[QuickTime Text - 0x000f] Font Face = Bold
+[QuickTime Text - 0x0010] Foreground Color = 1041 16405 3
+[QuickTime Text - 0x0011] Font Name = 
+
+[QuickTime Text - 0x5001] Creation Time = Mon Jun 16 02:10:54 +10:00 2003
+[QuickTime Text - 0x5002] Modification Time = Mon Jun 16 02:10:54 +10:00 2003
+
+[File Type - 0x0001] Detected File Type Name = MOV
+[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-464835073b696acfb3e7b0f0ada6067a7aab8c17.fuzzed
+[File - 0x0002] File Size = 20113 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime
+- QuickTime Text
+- QuickTime Text
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

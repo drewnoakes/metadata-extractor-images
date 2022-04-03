@@ -1,7 +1,22 @@
 FILE: crash-71798c76cdb01c676dbcdceebbe0b166a2173b51.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: Handler moved stream beyond end of atom
+[QuickTime File Type - 0x0001] Major Brand = iso1
+[QuickTime File Type - 0x0002] Minor Version = 0
+[QuickTime File Type - 0x0003] Compatible Brands = isom, iso2, avc1, mp41
+
+[File Type - 0x0001] Detected File Type Name = QuickTime
+[File Type - 0x0002] Detected File Type Long Name = QuickTime
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-71798c76cdb01c676dbcdceebbe0b166a2173b51.fuzzed
+[File - 0x0002] File Size = 29078 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

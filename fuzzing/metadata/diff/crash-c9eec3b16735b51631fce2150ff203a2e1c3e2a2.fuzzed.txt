@@ -1,8 +1,75 @@
        FILE: crash-c9eec3b16735b51631fce2150ff203a2e1c3e2a2.fuzzed
        TYPE: QUICKTIME
        
-JAVA   EXCEPTION: n must be zero or greater.
-DOTNET EXCEPTION: Handler moved stream beyond end of atom
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+DOTNET [QuickTime File Type - 0x0001] Major Brand = iso1
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = isom, iso2, avc1, mp41
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] Atom size too small.
+JAVA   [ERROR: QuickTime] End of data reached.
+       
+JAVA   [QuickTime - 0x1000] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
+JAVA   [QuickTime - 0x1001] Minor Version = 512
+JAVA   [QuickTime - 0x1002] Compatible Brands = [MP4  Base Media v1 [IS0 14496-12:2003], MP4 Base Media v2 [ISO 14496-12:2005], MP4 Base w/ AVC ext [ISO 14496-12:2005], MP4 v1 [ISO 14496-1:ch13]]
+JAVA   [QuickTime - 0x0100] Creation Time = Fri Jan 01 10:00:00 +10:00 1904
+JAVA   [QuickTime - 0x0101] Modification Time = Fri Jan 01 10:00:00 +10:00 1904
+JAVA   [QuickTime - 0x0103] Duration = 441
+JAVA   [QuickTime - 0x0102] Media Time Scale = 1000
+JAVA   [QuickTime - 0x0104] Duration in Seconds = 00:00:01
+JAVA   [QuickTime - 0x0105] Preferred Rate = 1
+JAVA   [QuickTime - 0x0106] Preferred Volume = 1
+JAVA   [QuickTime - 0x0107] Preview Time = 1073741824
+JAVA   [QuickTime - 0x0108] Preview Duration = 0
+JAVA   [QuickTime - 0x0109] Poster Time = 0
+JAVA   [QuickTime - 0x010a] Selection Time = 0
+JAVA   [QuickTime - 0x010b] Selection Duration = 0
+JAVA   [QuickTime - 0x010c] Current Time = 0
+DOTNET [QuickTime Movie Header - 0x0001] Version = 0
+DOTNET [QuickTime Movie Header - 0x0002] Flags = 0 0 0
+DOTNET [QuickTime Movie Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
+DOTNET [QuickTime Movie Header - 0x0004] Modified = Fri Jan 01 00:00:00 1904
+DOTNET [QuickTime Movie Header - 0x0005] TrackId = 1000
+DOTNET [QuickTime Movie Header - 0x0006] Duration = 00:00:00.4410000
+DOTNET [QuickTime Movie Header - 0x0007] Preferred Rate = 1
+DOTNET [QuickTime Movie Header - 0x0008] Preferred Volume = 1
+DOTNET [QuickTime Movie Header - 0x0009] Matrix = [36 values]
+DOTNET [QuickTime Movie Header - 0x000a] Preview Time = 0
+DOTNET [QuickTime Movie Header - 0x000b] Preview Duration = 0
+DOTNET [QuickTime Movie Header - 0x000c] Poster Time = 0
+DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
+DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
+DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
+DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 3
+JAVA   [QuickTime - 0x010d] Next Track ID = 0
+JAVA   [QuickTime - 0x010e] Rotation = 0
+       
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = crash-c9eec3b16735b51631fce2150ff203a2e1c3e2a2.fuzzed
+       [File - 0x0002] File Size = 30270 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
+DOTNET - QuickTime File Type
+DOTNET - QuickTime Movie Header
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

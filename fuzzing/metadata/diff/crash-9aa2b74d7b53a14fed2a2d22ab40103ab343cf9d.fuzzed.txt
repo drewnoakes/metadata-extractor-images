@@ -1,0 +1,21 @@
+       FILE: crash-9aa2b74d7b53a14fed2a2d22ab40103ab343cf9d.fuzzed
+       TYPE: AVI
+       
+JAVA   [ERROR: AVI] Invalid chunk size: 0
+JAVA   
+       [File Type - 0x0001] Detected File Type Name = AVI
+       [File Type - 0x0002] Detected File Type Long Name = Audio Video Interleaved
+       [File Type - 0x0003] Detected MIME Type = video/vnd.avi
+       [File Type - 0x0004] Expected File Name Extension = avi
+       
+       [File - 0x0001] File Name = crash-9aa2b74d7b53a14fed2a2d22ab40103ab343cf9d.fuzzed
+       [File - 0x0002] File Size = 735 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - AVI
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

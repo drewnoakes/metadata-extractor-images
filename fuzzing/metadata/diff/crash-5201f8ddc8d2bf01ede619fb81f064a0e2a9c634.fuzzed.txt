@@ -1,8 +1,75 @@
        FILE: crash-5201f8ddc8d2bf01ede619fb81f064a0e2a9c634.fuzzed
        TYPE: MP4
        
-JAVA   EXCEPTION: null
-DOTNET EXCEPTION: Handler moved stream beyond end of atom
+JAVA   [ERROR: MP4] End of data reached.
+JAVA   [ERROR: MP4 Text] Box size too large.
+DOTNET [QuickTime File Type - 0x0001] Major Brand = isom
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 512
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = isom, iso2, avc1, mp41
+       
+JAVA   [MP4 - 0x0001] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
+JAVA   [MP4 - 0x0002] Minor Version = 512
+JAVA   [MP4 - 0x0003] Compatible Brands = [MP4  Base Media v1 [IS0 14496-12:2003], MP4 Base Media v2 [ISO 14496-12:2005], MP4 Base w/ AVC ext [ISO 14496-12:2005], MP4 v1 [ISO 14496-1:ch13]]
+JAVA   [MP4 - 0x0100] Creation Time = Mon Jun 16 02:10:54 AEST 2003
+JAVA   [MP4 - 0x0101] Modification Time = Mon Jun 16 02:10:54 AEST 2003
+JAVA   [MP4 - 0x0103] Duration = 2703000
+JAVA   [MP4 - 0x0102] Media Time Scale = 90000
+JAVA   [MP4 - 0x0104] Duration in Seconds = 00:00:31
+JAVA   [MP4 - 0x010f] Transformation Matrix = 65536 0 0 0 65536 0 0 0 1073741824
+JAVA   [MP4 - 0x0105] Preferred Rate = 1
+JAVA   [MP4 - 0x0106] Preferred Volume = 1
+JAVA   [MP4 - 0x010e] Next Track ID = 65738
+JAVA   [MP4 - 0x0200] Rotation = -45
+DOTNET [QuickTime Movie Header - 0x0001] Version = 0
+DOTNET [QuickTime Movie Header - 0x0002] Flags = 0 0 0
+DOTNET [QuickTime Movie Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
+DOTNET [QuickTime Movie Header - 0x0004] Modified = Fri Jan 01 00:00:00 1904
+DOTNET [QuickTime Movie Header - 0x0005] TrackId = 1000
+DOTNET [QuickTime Movie Header - 0x0006] Duration = 00:00:00.4410000
+DOTNET [QuickTime Movie Header - 0x0007] Preferred Rate = 1
+DOTNET [QuickTime Movie Header - 0x0008] Preferred Volume = 1
+DOTNET [QuickTime Movie Header - 0x0009] Matrix = [36 values]
+DOTNET [QuickTime Movie Header - 0x000a] Preview Time = 0
+DOTNET [QuickTime Movie Header - 0x000b] Preview Duration = 0
+DOTNET [QuickTime Movie Header - 0x000c] Poster Time = 0
+DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
+DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
+DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
+DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 3
+       
+JAVA   [MP4 Text - 0x0065] Creation Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   [MP4 Text - 0x0066] Modification Time = Mon Jun 16 02:10:54 +10:00 2003
+JAVA   [MP4 Text - 0x0068] ISO 639-2 Language Code = und
+DOTNET [QuickTime Track Header - 0x0001] Version = 0
+DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 0
+DOTNET [QuickTime Track Header - 0x0003] Created = Wed Feb 05 18:35:37 1919
+DOTNET [QuickTime Track Header - 0x0004] Modified = Sun Oct 06 05:30:23 1963
+DOTNET [QuickTime Track Header - 0x0005] TrackId = 889192448
+DOTNET [QuickTime Track Header - 0x0006] Duration = 828994415
+DOTNET [QuickTime Track Header - 0x0007] Layer = 33894
+DOTNET [QuickTime Track Header - 0x0008] Alternate Group = 29285
+DOTNET [QuickTime Track Header - 0x0009] Volume = 101.08235294117647058823529412
+DOTNET [QuickTime Track Header - 0x000c] Matrix = 0 0 0 0 0 0 26228.47 28016.2 0
+DOTNET [QuickTime Track Header - 0x000a] Width = 28016.203875791561760891126879
+DOTNET [QuickTime Track Header - 0x000b] Height = 26995.435263599603265430685893
+DOTNET [QuickTime Track Header - 0x000d] Rotation = -45
+       
+       [File Type - 0x0001] Detected File Type Name = MP4
+       [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+       [File Type - 0x0003] Detected MIME Type = video/mp4
+       [File Type - 0x0004] Expected File Name Extension = mp4
+       
+       [File - 0x0001] File Name = crash-5201f8ddc8d2bf01ede619fb81f064a0e2a9c634.fuzzed
+       [File - 0x0002] File Size = 32168 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - MP4
+JAVA   - MP4 Text
+DOTNET - QuickTime File Type
+DOTNET - QuickTime Movie Header
+DOTNET - QuickTime Track Header
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

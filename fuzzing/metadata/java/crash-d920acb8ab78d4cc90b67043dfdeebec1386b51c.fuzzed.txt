@@ -1,7 +1,26 @@
 FILE: crash-d920acb8ab78d4cc90b67043dfdeebec1386b51c.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: null
+[ERROR: QuickTime Metadata] Key size too small: -1
+[ERROR: QuickTime Metadata] Atom size too small.
+
+[QuickTime - 0x1000] Major Brand = Unknown
+[QuickTime - 0x1001] Minor Version = 2588948512
+[QuickTime - 0x1002] Compatible Brands = [Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown]
+
+[File Type - 0x0001] Detected File Type Name = MOV
+[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-d920acb8ab78d4cc90b67043dfdeebec1386b51c.fuzzed
+[File - 0x0002] File Size = 1373 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime
+- QuickTime Metadata
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

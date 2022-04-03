@@ -1,7 +1,81 @@
 FILE: crash-64a1d9d0e56c69be51f34ff13046c8e9e2294319.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: Illegal Capacity: -1
+[ERROR: QuickTime] End of data reached.
+[ERROR: QuickTime] Atom size too large.
+[ERROR: QuickTime] Atom size too small.
+[ERROR: QuickTime] End of data reached.
+
+[QuickTime - 0x1000] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
+[QuickTime - 0x1001] Minor Version = 512
+[QuickTime - 0x1002] Compatible Brands = [MP4  Base Media v1 [IS0 14496-12:2003], MP4 Base Media v2 [ISO 14496-12:2005], MP4 Base w/ AVC ext [ISO 14496-12:2005], MP4 v1 [ISO 14496-1:ch13]]
+[QuickTime - 0x0100] Creation Time = Sun Aug 09 09:40:15 +10:00 1942
+[QuickTime - 0x0101] Modification Time = Sun Aug 09 09:40:17 +10:00 1942
+[QuickTime - 0x0103] Duration = 2055576
+[QuickTime - 0x0102] Media Time Scale = 90000
+[QuickTime - 0x0104] Duration in Seconds = 00:00:23
+[QuickTime - 0x0105] Preferred Rate = 1
+[QuickTime - 0x0106] Preferred Volume = 1
+[QuickTime - 0x0107] Preview Time = 0
+[QuickTime - 0x0108] Preview Duration = 0
+[QuickTime - 0x0109] Poster Time = 0
+[QuickTime - 0x010a] Selection Time = 0
+[QuickTime - 0x010b] Selection Duration = 0
+[QuickTime - 0x010c] Current Time = 0
+[QuickTime - 0x010d] Next Track ID = 9
+[QuickTime - 0x010e] Rotation = 0
+
+[QuickTime Metadata - 0x044f] Encoder = Lavf55.8.100
+
+[QuickTime Video - 0x5001] Creation Time = Sun Aug 09 09:40:15 +10:00 1942
+[QuickTime Video - 0x5002] Modification Time = Sun Aug 09 09:40:15 +10:00 1942
+[QuickTime Video - 0x000c] Opcolor = 0 0 0
+[QuickTime Video - 0x000b] Graphics Mode = Copy
+[QuickTime Video - 0x0001] Vendor = Unknown
+[QuickTime Video - 0x000a] Compression Type = MPEG-4
+[QuickTime Video - 0x0002] Temporal Quality = 0
+[QuickTime Video - 0x0003] Spatial Quality = 0
+[QuickTime Video - 0x0004] Width = 64432 pixels
+[QuickTime Video - 0x0005] Height = 144 pixels
+[QuickTime Video - 0x0009] Depth = 24-bit color
+[QuickTime Video - 0x000d] Color Table = None
+[QuickTime Video - 0x0006] Horizontal Resolution = 72
+[QuickTime Video - 0x0007] Vertical Resolution = 72
+
+[QuickTime Timecode - 0x5001] Creation Time = Sun Aug 09 09:40:15 +10:00 1942
+[QuickTime Timecode - 0x5002] Modification Time = Sun Aug 09 09:40:15 +10:00 1942
+[QuickTime Timecode - 0x0001] Drop Frame = false
+[QuickTime Timecode - 0x0002] 24 Hour Max = false
+[QuickTime Timecode - 0x0003] Negative Times OK = false
+[QuickTime Timecode - 0x0004] Counter = false
+
+[QuickTime Timecode - 0x5001] Creation Time = Sun Aug 09 09:40:15 +10:00 1942
+[QuickTime Timecode - 0x5002] Modification Time = Sun Aug 09 09:40:15 +10:00 1942
+[QuickTime Timecode - 0x0001] Drop Frame = false
+[QuickTime Timecode - 0x0002] 24 Hour Max = false
+[QuickTime Timecode - 0x0003] Negative Times OK = false
+[QuickTime Timecode - 0x0004] Counter = false
+
+[QuickTime Timecode - 0x5001] Creation Time = Sun Aug 09 09:40:15 +10:00 1942
+[QuickTime Timecode - 0x5002] Modification Time = Sun Aug 09 09:40:15 +10:00 1942
+
+[File Type - 0x0001] Detected File Type Name = MOV
+[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-64a1d9d0e56c69be51f34ff13046c8e9e2294319.fuzzed
+[File - 0x0002] File Size = 16406 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime
+- QuickTime Metadata
+- QuickTime Video
+- QuickTime Timecode
+- QuickTime Timecode
+- QuickTime Timecode
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

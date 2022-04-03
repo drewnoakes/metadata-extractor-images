@@ -1,7 +1,37 @@
 FILE: crash-0b5d5aef16a7101582c3e237a3b4d2a4504c6f72.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: Illegal Capacity: -816329243
+[ERROR: QuickTime Timecode] Atom size too small.
+[ERROR: QuickTime Timecode] End of data reached.
+
+[QuickTime - 0x1000] Major Brand = Unknown
+[QuickTime - 0x1001] Minor Version = 1
+[QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
+
+[QuickTime Timecode - 0x0001] Drop Frame = true
+[QuickTime Timecode - 0x0002] 24 Hour Max = false
+[QuickTime Timecode - 0x0003] Negative Times OK = false
+[QuickTime Timecode - 0x0004] Counter = true
+[QuickTime Timecode - 0x0005] Text Font = 256
+[QuickTime Timecode - 0x0006] Text Face = Underline
+[QuickTime Timecode - 0x0007] Text Size = 0
+[QuickTime Timecode - 0x0008] Text Color = 0 0 0
+[QuickTime Timecode - 0x0009] Background Color = 0 0 0
+[QuickTime Timecode - 0x000a] Font Name = 
+
+[File Type - 0x0001] Detected File Type Name = MOV
+[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-0b5d5aef16a7101582c3e237a3b4d2a4504c6f72.fuzzed
+[File - 0x0002] File Size = 20504 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime
+- QuickTime Timecode
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

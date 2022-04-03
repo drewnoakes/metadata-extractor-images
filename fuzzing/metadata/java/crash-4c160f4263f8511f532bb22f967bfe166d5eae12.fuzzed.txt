@@ -1,7 +1,20 @@
 FILE: crash-4c160f4263f8511f532bb22f967bfe166d5eae12.fuzzed
 TYPE: QUICKTIME
 
-EXCEPTION: Illegal Capacity: -2147483647
+[ERROR: QuickTime] Atom size too large.
+
+[File Type - 0x0001] Detected File Type Name = MOV
+[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = crash-4c160f4263f8511f532bb22f967bfe166d5eae12.fuzzed
+[File - 0x0002] File Size = 121 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

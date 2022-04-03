@@ -1,8 +1,23 @@
        FILE: crash-17c7eb148bd0bf63ab9b3a2c448c6485aafe9f46.fuzzed
        TYPE: AVI
        
-JAVA   EXCEPTION: null
-DOTNET EXCEPTION: Invalid RIFF chunk size
+JAVA   [ERROR: AVI] Invalid chunk size: 0
+DOTNET [ERROR: AVI] Invalid RIFF chunk size
+JAVA   [ERROR: AVI] Invalid chunk size: 0
+JAVA   [ERROR: AVI] Invalid chunk size: 0
+       
+       [File Type - 0x0001] Detected File Type Name = AVI
+       [File Type - 0x0002] Detected File Type Long Name = Audio Video Interleaved
+       [File Type - 0x0003] Detected MIME Type = video/vnd.avi
+       [File Type - 0x0004] Expected File Name Extension = avi
+       
+       [File - 0x0001] File Name = crash-17c7eb148bd0bf63ab9b3a2c448c6485aafe9f46.fuzzed
+       [File - 0x0002] File Size = 102 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - AVI
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

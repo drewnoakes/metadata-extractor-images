@@ -1,7 +1,8 @@
        FILE: crash-ea29a28c49c0574698d1c985c792a88750a355d9.fuzzed
        TYPE: QUICKTIME
        
-JAVA   EXCEPTION: cannot set a null String
+JAVA   [ERROR: QuickTime] End of data reached.
+JAVA   [ERROR: QuickTime] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = iso5
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 1
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = avc1, iso5, dash
@@ -22,7 +23,20 @@ DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
 DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
 DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
 DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 2
-DOTNET 
+       
+JAVA   [QuickTime - 0x1000] Major Brand = Unknown
+JAVA   [QuickTime - 0x1001] Minor Version = 1
+JAVA   [QuickTime - 0x1002] Compatible Brands = [MP4 Base w/ AVC ext [ISO 14496-12:2005], Unknown, Unknown]
+JAVA   [QuickTime - 0x0100] Creation Time = Fri Jan 01 10:00:00 +10:00 1904
+JAVA   [QuickTime - 0x0101] Modification Time = Fri Jan 01 10:00:00 +10:00 1904
+JAVA   [QuickTime - 0x0103] Duration = 0
+JAVA   [QuickTime - 0x0102] Media Time Scale = 1000
+JAVA   [QuickTime - 0x0104] Duration in Seconds = 00:00:00
+JAVA   [QuickTime - 0x0105] Preferred Rate = 1
+JAVA   [QuickTime - 0x0106] Preferred Volume = 1
+JAVA   [QuickTime - 0x0107] Preview Time = 0
+JAVA   [QuickTime - 0x0108] Preview Duration = 0
+JAVA   [QuickTime - 0x0109] Poster Time = 0
 DOTNET [QuickTime Track Header - 0x0001] Version = 0
 DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 3
 DOTNET [QuickTime Track Header - 0x0003] Created = Fri Jan 01 00:00:00 1904
@@ -36,21 +50,30 @@ DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
 DOTNET [QuickTime Track Header - 0x000a] Width = 320
 DOTNET [QuickTime Track Header - 0x000b] Height = 240
 DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
-DOTNET 
+JAVA   [QuickTime - 0x010a] Selection Time = 0
+JAVA   [QuickTime - 0x010b] Selection Duration = 0
+JAVA   [QuickTime - 0x010c] Current Time = 0
+JAVA   [QuickTime - 0x010d] Next Track ID = 2
+JAVA   [QuickTime - 0x010e] Rotation = 0
+       
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
 DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
 DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-ea29a28c49c0574698d1c985c792a88750a355d9.fuzzed
-DOTNET [File - 0x0002] File Size = 39559 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = crash-ea29a28c49c0574698d1c985c792a88750a355d9.fuzzed
+       [File - 0x0002] File Size = 39559 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
+JAVA   - QuickTime Metadata
 DOTNET - QuickTime File Type
 DOTNET - QuickTime Movie Header
 DOTNET - QuickTime Track Header
-DOTNET - File Type
-DOTNET - File
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

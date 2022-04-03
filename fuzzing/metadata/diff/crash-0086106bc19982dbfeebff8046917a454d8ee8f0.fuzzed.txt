@@ -2,8 +2,27 @@
 JAVA   TYPE: MP3
 DOTNET TYPE: UNKNOWN
        
-JAVA   EXCEPTION: 3
+JAVA   [ERROR: MP3] Invalid frequency index.
 DOTNET EXCEPTION: File format could not be determined
+JAVA   
+JAVA   [MP3 - 0x0001] ID = MPEG-2
+JAVA   [MP3 - 0x0002] Layer = Layer I
+JAVA   [MP3 - 0x0005] Mode = Mono
+JAVA   [MP3 - 0x0007] Copyright = True
+JAVA   [MP3 - 0x0006] Emphasis Method = CCITT j.17
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = MP3
+JAVA   [File Type - 0x0002] Detected File Type Long Name = MPEG Audio Layer III
+JAVA   [File Type - 0x0003] Detected MIME Type = audio/mpeg
+JAVA   [File Type - 0x0004] Expected File Name Extension = mp3
+JAVA   
+JAVA   [File - 0x0001] File Name = crash-0086106bc19982dbfeebff8046917a454d8ee8f0.fuzzed
+JAVA   [File - 0x0002] File Size = 51 bytes
+JAVA   [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+JAVA   
+JAVA   - MP3
+JAVA   - File Type
+JAVA   - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/

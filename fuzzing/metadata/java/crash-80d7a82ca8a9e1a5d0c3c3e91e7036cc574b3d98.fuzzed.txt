@@ -1,7 +1,142 @@
 FILE: crash-80d7a82ca8a9e1a5d0c3c3e91e7036cc574b3d98.fuzzed
 TYPE: TIFF
 
-EXCEPTION: String index out of range: 12
+[ERROR: Exif IFD0] First IFD offset is beyond the end of the TIFF data segment -- trying default offset
+[ERROR: Exif IFD0] Invalid TIFF tag format code 14689 for tag 0xFF38
+[ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0xFF6E
+[ERROR: Exif IFD0] Invalid TIFF tag format code 91 for tag 0x0000
+[ERROR: Exif IFD0] Invalid TIFF tag format code 31092 for tag 0x0062
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x6604
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 28265 for tag 0x7250
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Illegally sized IFD
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x002F
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x6604
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 28265 for tag 0x7250
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x4100
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 0 for tag 0x04F9
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 65532 for tag 0x0000
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 70 for tag 0x4947
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 35840 for tag 0x003B
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 65535 for tag 0xFFFF
+[ERROR: Exif SubIFD] Invalid TIFF tag format code 65535 for tag 0xFFFF
+[ERROR: Exif SubIFD] Stopping processing as too many errors seen in TIFF IFD
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Illegally sized IFD
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+[ERROR: Exif SubIFD] Ignored IFD marked to start outside data segment
+
+[Exif SubIFD - 0x0004] Unknown tag (0x0004) = 
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = crash-80d7a82ca8a9e1a5d0c3c3e91e7036cc574b3d98.fuzzed
+[File - 0x0002] File Size = 742 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+        - PrintIM
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+        - PrintIM
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+    - Exif SubIFD
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -1,7 +1,32 @@
 FILE: crash-15656f4658138ca9bbd0c43bd13dc65e86c4c886.fuzzed
 TYPE: MP4
 
-EXCEPTION: cannot set a null String
+[ERROR: MP4] End of data reached.
+[ERROR: MP4] End of data reached.
+[ERROR: MP4] End of data reached.
+[ERROR: MP4 Text] Unable to skip. Requested 1684825450 bytes but only 1661 remained.
+
+[MP4 - 0x0001] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
+[MP4 - 0x0002] Minor Version = 512
+[MP4 - 0x0003] Compatible Brands = [MP4  Base Media v1 [IS0 14496-12:2003], Unknown, Unknown, MP4 v1 [ISO 14496-1:ch13]]
+[MP4 - 0x0200] Rotation = 0
+
+[MP4 Text - 0x0065] Creation Time = Fri Sep 19 11:31:53 +10:00 2014
+[MP4 Text - 0x0066] Modification Time = Tue Jul 20 16:26:08 +10:00 1674326
+
+[File Type - 0x0001] Detected File Type Name = MP4
+[File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+[File Type - 0x0003] Detected MIME Type = video/mp4
+[File Type - 0x0004] Expected File Name Extension = mp4
+
+[File - 0x0001] File Name = crash-15656f4658138ca9bbd0c43bd13dc65e86c4c886.fuzzed
+[File - 0x0002] File Size = 2038 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- MP4
+- MP4 Text
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

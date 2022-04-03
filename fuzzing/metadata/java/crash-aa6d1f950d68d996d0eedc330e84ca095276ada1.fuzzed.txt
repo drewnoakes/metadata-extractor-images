@@ -1,7 +1,20 @@
 FILE: crash-aa6d1f950d68d996d0eedc330e84ca095276ada1.fuzzed
 TYPE: WAV
 
-EXCEPTION: n must be zero or greater.
+[ERROR: WAV] Invalid chunk size: 0
+
+[File Type - 0x0001] Detected File Type Name = WAV
+[File Type - 0x0002] Detected File Type Long Name = Waveform Audio File Format
+[File Type - 0x0003] Detected MIME Type = audio/vnd.wave
+[File Type - 0x0004] Expected File Name Extension = wav
+
+[File - 0x0001] File Name = crash-aa6d1f950d68d996d0eedc330e84ca095276ada1.fuzzed
+[File - 0x0002] File Size = 1891 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- WAV
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

@@ -1,11 +1,25 @@
        FILE: crash-c85bfb393e34303d62fa14e70dc3ddbd7926d63a.fuzzed
        TYPE: MP4
        
-JAVA   EXCEPTION: cannot set a null String
+JAVA   [ERROR: MP4] End of data reached.
+JAVA   [ERROR: MP4] End of data reached.
 DOTNET [QuickTime File Type - 0x0001] Major Brand = isom
 DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = mp41
-DOTNET 
+       
+JAVA   [MP4 - 0x0001] Major Brand = MP4  Base Media v1 [IS0 14496-12:2003]
+JAVA   [MP4 - 0x0002] Minor Version = 0
+JAVA   [MP4 - 0x0003] Compatible Brands = [MP4 v1 [ISO 14496-1:ch13]]
+JAVA   [MP4 - 0x0100] Creation Time = Sun Aug 09 09:40:15 AEST 1942
+JAVA   [MP4 - 0x0101] Modification Time = Sun Aug 09 09:40:17 AEST 1942
+JAVA   [MP4 - 0x0103] Duration = 2055576
+JAVA   [MP4 - 0x0102] Media Time Scale = 90000
+JAVA   [MP4 - 0x0104] Duration in Seconds = 00:00:23
+JAVA   [MP4 - 0x010f] Transformation Matrix = 65536 0 0 0 65536 0 0 0 1073741824
+JAVA   [MP4 - 0x0105] Preferred Rate = 1
+JAVA   [MP4 - 0x0106] Preferred Volume = 1
+JAVA   [MP4 - 0x010e] Next Track ID = 9
+JAVA   [MP4 - 0x0200] Rotation = 0
 DOTNET [QuickTime Movie Header - 0x0001] Version = 0
 DOTNET [QuickTime Movie Header - 0x0002] Flags = 0 0 0
 DOTNET [QuickTime Movie Header - 0x0003] Created = Sat Aug 08 23:40:15 1942
@@ -22,7 +36,17 @@ DOTNET [QuickTime Movie Header - 0x000d] Selection Time = 0
 DOTNET [QuickTime Movie Header - 0x000e] Selection Duration = 0
 DOTNET [QuickTime Movie Header - 0x000f] Current Time = 0
 DOTNET [QuickTime Movie Header - 0x0010] Next Track Id = 9
-DOTNET 
+       
+JAVA   [MP4 Video - 0x0065] Creation Time = Wed Feb 06 12:14:07 +11:00 378537
+JAVA   [MP4 Video - 0x0066] Modification Time = Mon Aug 29 20:00:00 +10:00 12251092
+JAVA   [MP4 Video - 0x00d4] Opcolor = 0 0 0
+JAVA   [MP4 Video - 0x00d3] Graphics Mode = Copy
+JAVA   [MP4 Video - 0x00d2] Compression Type = MPEG-4
+JAVA   [MP4 Video - 0x00cc] Width = 176 pixels
+JAVA   [MP4 Video - 0x00cd] Height = 144 pixels
+JAVA   [MP4 Video - 0x00d1] Depth = 24-bit color
+JAVA   [MP4 Video - 0x00ce] Horizontal Resolution = 72
+JAVA   [MP4 Video - 0x00cf] Vertical Resolution = 72
 DOTNET [QuickTime Track Header - 0x0001] Version = 0
 DOTNET [QuickTime Track Header - 0x0002] Flags = 0 0 1
 DOTNET [QuickTime Track Header - 0x0003] Created = Sat Aug 08 23:40:15 1942
@@ -36,21 +60,23 @@ DOTNET [QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
 DOTNET [QuickTime Track Header - 0x000a] Width = 176
 DOTNET [QuickTime Track Header - 0x000b] Height = 144
 DOTNET [QuickTime Track Header - 0x000d] Rotation = 0
-DOTNET 
-DOTNET [File Type - 0x0001] Detected File Type Name = MP4
-DOTNET [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
-DOTNET [File Type - 0x0003] Detected MIME Type = video/mp4
-DOTNET [File Type - 0x0004] Expected File Name Extension = mp4
-DOTNET 
-DOTNET [File - 0x0001] File Name = crash-c85bfb393e34303d62fa14e70dc3ddbd7926d63a.fuzzed
-DOTNET [File - 0x0002] File Size = 29842 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
-DOTNET 
+       
+       [File Type - 0x0001] Detected File Type Name = MP4
+       [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
+       [File Type - 0x0003] Detected MIME Type = video/mp4
+       [File Type - 0x0004] Expected File Name Extension = mp4
+       
+       [File - 0x0001] File Name = crash-c85bfb393e34303d62fa14e70dc3ddbd7926d63a.fuzzed
+       [File - 0x0002] File Size = 29842 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - MP4
+JAVA   - MP4 Video
 DOTNET - QuickTime File Type
 DOTNET - QuickTime Movie Header
 DOTNET - QuickTime Track Header
-DOTNET - File Type
-DOTNET - File
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/
