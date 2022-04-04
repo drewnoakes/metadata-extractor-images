@@ -90,7 +90,7 @@ TYPE: JPEG
 [Sony Makernote - 0x0104] Flash Exposure Compensation = 0 EV
 [Sony Makernote - 0x0112] White Balance Fine Tune Value = 0
 [Sony Makernote - 0x0115] White Balance = Auto
-[Sony Makernote - 0xb001] Sony Model ID = Unknown (313)
+[Sony Makernote - 0xb001] Sony Model ID = ILCE-5000
 [Sony Makernote - 0x0105] Teleconverter Model = None
 [Sony Makernote - 0x200b] Multi Frame Noise Reduction = 0
 [Sony Makernote - 0x200e] Picture Effect = Off
