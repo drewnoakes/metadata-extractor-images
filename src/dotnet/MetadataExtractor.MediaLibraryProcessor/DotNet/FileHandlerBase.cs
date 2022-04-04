@@ -12,7 +12,7 @@ internal abstract class FileHandlerBase : IFileHandler
     private static readonly ICollection<string> _supportedExtensions = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
     {
         "jpg", "jpeg", "png", "gif", "bmp", "heic", "heif", "ico", "webp", "pcx", "ai", "eps",
-        "nef", "crw", "cr2", "orf", "arw", "raf", "srw", "x3f", "rw2", "rwl", "dcr",
+        "nef", "crw", "cr2", "orf", "arw", "raf", "srw", "x3f", "rw2", "rwl", "dcr", "pef",
         "tif", "tiff", "psd", "dng",
         "j2c", "jp2", "jpf", "jpm", "mj2",
         "mp3", "wav",
