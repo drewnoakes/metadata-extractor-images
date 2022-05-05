@@ -189,7 +189,7 @@ TYPE: TIFF
 [Exif Image - 0x0116] Rows Per Strip = 1086 rows/strip
 [Exif Image - 0x0117] Strip Byte Counts = 41998 bytes
 [Exif Image - 0x011a] X Resolution = 204 dots per inch
-[Exif Image - 0x011b] Y Resolution = -2147483648 dots per inch
+[Exif Image - 0x011b] Y Resolution = 4244635746 dots per inch
 [Exif Image - 0x0124] Unknown tag (0x0124) = 62981
 [Exif Image - 0x0128] Resolution Unit = Inch
 [Exif Image - 0x0129] Page Number = 8 9

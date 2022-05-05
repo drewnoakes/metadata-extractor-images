@@ -37,7 +37,7 @@ TYPE: PNG
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1/789 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/5.7
-[Exif SubIFD - 0x9204] Exposure Bias Value = 1/-3 EV
+[Exif SubIFD - 0x9204] Exposure Bias Value = -1/3 EV
 [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 55 mm
