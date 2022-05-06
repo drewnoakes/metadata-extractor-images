@@ -1,45 +1,52 @@
-       FILE: Pentax K-1 Mark II.pef
-       TYPE: ARW
+       FILE: Pentax K-1 Mark II.jpg
+       TYPE: JPEG
        
-       [Exif IFD0 - 0x0100] Image Width = 7392 pixels
-       [Exif IFD0 - 0x0101] Image Height = 4950 pixels
-       [Exif IFD0 - 0x0102] Bits Per Sample = 14 bits/component/pixel
-       [Exif IFD0 - 0x0103] Compression = Pentax PEF Compressed
-       [Exif IFD0 - 0x0106] Photometric Interpretation = Color Filter Array
+       [JPEG - 0xfffffffd] Compression Type = Baseline
+       [JPEG - 0x0000] Data Precision = 8 bits
+       [JPEG - 0x0001] Image Height = 4352 pixels
+       [JPEG - 0x0003] Image Width = 6528 pixels
+       [JPEG - 0x0005] Number of Components = 3
+       [JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+       [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+       [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+       
        [Exif IFD0 - 0x010f] Make = RICOH IMAGING COMPANY, LTD.  
        [Exif IFD0 - 0x0110] Model = PENTAX K-1 Mark II 
-       [Exif IFD0 - 0x0111] Strip Offsets = 169568
        [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-       [Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
-       [Exif IFD0 - 0x0116] Rows Per Strip = 4950 rows/strip
-       [Exif IFD0 - 0x0117] Strip Byte Counts = 39118125 bytes
        [Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
        [Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
-       [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
        [Exif IFD0 - 0x0128] Resolution Unit = Inch
        [Exif IFD0 - 0x0131] Software = PENTAX K-1 Mark II Ver. 1.04 
-       [Exif IFD0 - 0x0132] Date/Time = 2020:07:25 22:48:40
+       [Exif IFD0 - 0x0132] Date/Time = 2020:07:11 10:38:10
        [Exif IFD0 - 0x013b] Artist = Andrea Benedetti
+       [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
        [Exif IFD0 - 0x8298] Copyright = Andrea Benedetti
        
-       [Exif SubIFD - 0x829a] Exposure Time = 30 sec
-       [Exif SubIFD - 0x829d] F-Number = f/5.0
+       [Exif SubIFD - 0x829a] Exposure Time = 1/30 sec
+       [Exif SubIFD - 0x829d] F-Number = f/7.1
        [Exif SubIFD - 0x8822] Exposure Program = Manual control
-       [Exif SubIFD - 0x8827] ISO Speed Ratings = 1600
+       [Exif SubIFD - 0x8827] ISO Speed Ratings = 6400
        [Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity
-       [Exif SubIFD - 0x8831] Standard Output Sensitivity = 1600
-       [Exif SubIFD - 0x9003] Date/Time Original = 2020:07:25 22:48:40
-       [Exif SubIFD - 0x9004] Date/Time Digitized = 2020:07:25 22:48:40
+       [Exif SubIFD - 0x8831] Standard Output Sensitivity = 6400
+       [Exif SubIFD - 0x9000] Exif Version = 2.30
+       [Exif SubIFD - 0x9003] Date/Time Original = 2020:07:11 04:58:13
+       [Exif SubIFD - 0x9004] Date/Time Digitized = 2020:07:11 04:58:13
+       [Exif SubIFD - 0x9101] Components Configuration = YCbCr
        [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
        [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
        [Exif SubIFD - 0x9209] Flash = Flash did not fire
-       [Exif SubIFD - 0x920a] Focal Length = 170 mm
+       [Exif SubIFD - 0x920a] Focal Length = 60 mm
+       [Exif SubIFD - 0xa000] FlashPix Version = 1.00
+       [Exif SubIFD - 0xa001] Color Space = sRGB
+       [Exif SubIFD - 0xa002] Exif Image Width = 6528 pixels
+       [Exif SubIFD - 0xa003] Exif Image Height = 4352 pixels
        [Exif SubIFD - 0xa217] Sensing Method = One-chip color area sensor
-       [Exif SubIFD - 0xa302] CFA Pattern = [Red,Green][Green,Blue]
+       [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+       [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
        [Exif SubIFD - 0xa401] Custom Rendered = Normal process
        [Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
-       [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
-       [Exif SubIFD - 0xa405] Focal Length 35 = 170 mm
+       [Exif SubIFD - 0xa403] White Balance Mode = Manual white balance
+       [Exif SubIFD - 0xa405] Focal Length 35 = 60 mm
        [Exif SubIFD - 0xa406] Scene Capture Type = Standard
        [Exif SubIFD - 0xa408] Contrast = Hard
        [Exif SubIFD - 0xa409] Saturation = None
@@ -48,43 +55,42 @@
        
 DOTNET [Pentax Makernote - 0x0000] PentaxVersion = 12 3 2 0
 DOTNET [Pentax Makernote - 0x0001] PentaxModelType = 0
-DOTNET [Pentax Makernote - 0x0002] PreviewImageSize = 720 480
-DOTNET [Pentax Makernote - 0x0003] PreviewImageLength = 54768
-DOTNET [Pentax Makernote - 0x0004] PreviewImageStart = 76926
 DOTNET [Pentax Makernote - 0x0005] PentaxModelId = 78400
-DOTNET [Pentax Makernote - 0x0006] Date = 7 228 7 25
-DOTNET [Pentax Makernote - 0x0007] Time = 22 48 40
-DOTNET [Pentax Makernote - 0x0008] Quality = 4
+DOTNET [Pentax Makernote - 0x0006] Date = 7 228 7 11
+DOTNET [Pentax Makernote - 0x0007] Time = 4 58 13
+DOTNET [Pentax Makernote - 0x0008] Quality = 2
 DOTNET [Pentax Makernote - 0x000c] FlashMode = 1 63
 DOTNET [Pentax Makernote - 0x000d] FocusMode = 3
 DOTNET [Pentax Makernote - 0x000e] AFPointSelected = 0 0
-DOTNET [Pentax Makernote - 0x0012] ExposureTime = 3000000
-DOTNET [Pentax Makernote - 0x0013] FNumber = 50
-DOTNET [Pentax Makernote - 0x0014] Iso = 18
-DOTNET [Pentax Makernote - 0x0016] ExposureCompensation = 50 1
+DOTNET [Pentax Makernote - 0x0012] ExposureTime = 3333
+DOTNET [Pentax Makernote - 0x0013] FNumber = 71
+DOTNET [Pentax Makernote - 0x0014] Iso = 24
+DOTNET [Pentax Makernote - 0x0016] ExposureCompensation = 50 0
 DOTNET [Pentax Makernote - 0x0017] MeteringMode = 0
 DOTNET [Pentax Makernote - 0x0018] AutoBracketing = 0 0
-DOTNET [Pentax Makernote - 0x0019] WhiteBalance = 14
-DOTNET [Pentax Makernote - 0x001d] FocalLength = 17000
+DOTNET [Pentax Makernote - 0x0019] WhiteBalance = 1
+DOTNET [Pentax Makernote - 0x001d] FocalLength = 6000
 DOTNET [Pentax Makernote - 0x001f] Saturation = 1
 DOTNET [Pentax Makernote - 0x0020] Contrast = 4
 DOTNET [Pentax Makernote - 0x0021] Sharpness = 1
 DOTNET [Pentax Makernote - 0x0027] DSPFirmwareVersion = 254 251 255 248
-DOTNET [Pentax Makernote - 0x002d] EffectiveLV = 6784
-DOTNET [Pentax Makernote - 0x0033] PictureMode2 = 19 0 1
-DOTNET [Pentax Makernote - 0x0034] DriveMode = 0 2 0 0
+DOTNET [Pentax Makernote - 0x002d] EffectiveLV = 4736
+DOTNET [Pentax Makernote - 0x0032] ImageEditing = 2 0 0 0
+DOTNET [Pentax Makernote - 0x0033] PictureMode2 = 8 0 1
+DOTNET [Pentax Makernote - 0x0034] DriveMode = 0 0 1 0
 DOTNET [Pentax Makernote - 0x0037] ColorSpace = 0
-DOTNET [Pentax Makernote - 0x003d] DataScaling = 7674
-DOTNET [Pentax Makernote - 0x003e] PreviewImageBorders = 0 0 0 0
+DOTNET [Pentax Makernote - 0x003d] DataScaling = 7679
 DOTNET [Pentax Makernote - 0x003f] LensRec = 8 227 0 0
-DOTNET [Pentax Makernote - 0x0047] CameraTemperature = 22
+DOTNET [Pentax Makernote - 0x0040] SensitivityAdjust = 50
+DOTNET [Pentax Makernote - 0x0041] ImageEditCount = 1
+DOTNET [Pentax Makernote - 0x0047] CameraTemperature = 25
 DOTNET [Pentax Makernote - 0x0048] AELock = 0
-DOTNET [Pentax Makernote - 0x0049] NoiseReduction = 1
+DOTNET [Pentax Makernote - 0x0049] NoiseReduction = 0
 DOTNET [Pentax Makernote - 0x004d] FlashExposureComp = 0 0
 DOTNET [Pentax Makernote - 0x004f] ImageTone = 1
 DOTNET [Pentax Makernote - 0x0050] ColorTemperature = 0
 DOTNET [Pentax Makernote - 0x005c] ShakeReductionInfo = 64 0
-DOTNET [Pentax Makernote - 0x005d] ShutterCount = 238 43 197 30
+DOTNET [Pentax Makernote - 0x005d] ShutterCount = 252 33 224 54
 DOTNET [Pentax Makernote - 0x0060] FaceInfo = 0 0 0 0
 DOTNET [Pentax Makernote - 0x0062] RawDevelopmentProcess = 16
 DOTNET [Pentax Makernote - 0x0067] Hue = 1
@@ -100,26 +106,25 @@ DOTNET [Pentax Makernote - 0x0071] HighISONoiseReduction = 0 0
 DOTNET [Pentax Makernote - 0x0072] AFAdjustment = 3
 DOTNET [Pentax Makernote - 0x0073] MonochromeFilterEffect = 65535
 DOTNET [Pentax Makernote - 0x0074] MonochromeToning = 65535
-DOTNET [Pentax Makernote - 0x0076] FaceDetect = 16 0 0
+DOTNET [Pentax Makernote - 0x0076] FaceDetect = 0 0 0
 DOTNET [Pentax Makernote - 0x0077] FaceDetectFrameSize = 720 480
 DOTNET [Pentax Makernote - 0x0078] Unknown tag (0x0078) = 0 0
 DOTNET [Pentax Makernote - 0x0079] ShadowCorrection = 2 4
 DOTNET [Pentax Makernote - 0x007a] ISOAutoParameters = 1 0
 DOTNET [Pentax Makernote - 0x007b] CrossProcess = 0
 DOTNET [Pentax Makernote - 0x007d] LensCorr = 0 0 0 0
-DOTNET [Pentax Makernote - 0x007e] WhiteLevel = 15349
 DOTNET [Pentax Makernote - 0x007f] BleachBypassToning = 65535
 DOTNET [Pentax Makernote - 0x0080] AspectRatio = 1
-DOTNET [Pentax Makernote - 0x0083] Unknown tag (0x0083) = 0
 DOTNET [Pentax Makernote - 0x0085] HDR = 0 0 0 0
 DOTNET [Pentax Makernote - 0x0086] Unknown tag (0x0086) = 0
 DOTNET [Pentax Makernote - 0x0087] ShutterType = 0
 DOTNET [Pentax Makernote - 0x0092] IntervalShooting = 0 0
+DOTNET [Pentax Makernote - 0x0093] Unknown tag (0x0093) = 0
 DOTNET [Pentax Makernote - 0x0095] SkinToneCorrection = 0 0
 DOTNET [Pentax Makernote - 0x0096] ClarityControl = 0 0
 DOTNET [Pentax Makernote - 0x0098] Unknown tag (0x0098) = 1 1 0
 DOTNET [Pentax Makernote - 0x0200] BlackPoint = 1024 1024 1024 1024
-DOTNET [Pentax Makernote - 0x0201] WhitePoint = 16672 8192 8192 13824
+DOTNET [Pentax Makernote - 0x0201] WhitePoint = 17472 8192 8192 13408
 DOTNET [Pentax Makernote - 0x0205] CameraSettings = [40 values]
 DOTNET [Pentax Makernote - 0x0206] AEInfo = [64 values]
 DOTNET [Pentax Makernote - 0x0207] LensInfo = [128 values]
@@ -135,7 +140,6 @@ DOTNET [Pentax Makernote - 0x021c] ColorMatrixA2 = [18 values]
 DOTNET [Pentax Makernote - 0x021d] ColorMatrixB2 = [18 values]
 DOTNET [Pentax Makernote - 0x021e] Unknown tag (0x021e) = 0 32 0 32 0 32 0 32
 DOTNET [Pentax Makernote - 0x021f] AFInfo = [2048 values]
-DOTNET [Pentax Makernote - 0x0220] HuffmanTable = [59 values]
 DOTNET [Pentax Makernote - 0x0221] KelvinWB = [138 values]
 DOTNET [Pentax Makernote - 0x0222] ColorInfo = [18 values]
 DOTNET [Pentax Makernote - 0x0224] EVStepInfo = [64 values]
@@ -147,9 +151,8 @@ DOTNET [Pentax Makernote - 0x022a] FilterInfo = [345 values]
 DOTNET [Pentax Makernote - 0x022b] LevelInfo = [18 values]
 DOTNET [Pentax Makernote - 0x022c] Unknown tag (0x022c) = [46 values]
 DOTNET [Pentax Makernote - 0x022d] WBLevels = [109 values]
-DOTNET [Pentax Makernote - 0x0231] ContrastDetectAFArea = 196 105 48 48
+DOTNET [Pentax Makernote - 0x0231] ContrastDetectAFArea = 404 216 48 48
 DOTNET [Pentax Makernote - 0x0234] Unknown tag (0x0234) = [161 values]
-DOTNET [Pentax Makernote - 0x0236] Unknown tag (0x0236) = [107 values]
 DOTNET [Pentax Makernote - 0x0238] Unknown tag (0x0238) = 0 0 0 0 0 0 0 0 0 0 0
 DOTNET [Pentax Makernote - 0x023b] Unknown tag (0x023b) = [32 values]
 DOTNET [Pentax Makernote - 0x023c] Unknown tag (0x023c) = [1024 values]
@@ -163,68 +166,94 @@ DOTNET [Pentax Makernote - 0x0244] Unknown tag (0x0244) = [52 values]
 DOTNET [Pentax Makernote - 0x0245] AFPointInfo = 1 0 33 0 0 0 0 0 64 0 0 0 0
 DOTNET [Pentax Makernote - 0x03ff] TempInfo = [768 values]
 DOTNET [Pentax Makernote - 0x0404] Unknown tag (0x0404) = [2086 values]
-DOTNET [Pentax Makernote - 0x0405] UnknownBlock = [49160 values]
 DOTNET [Pentax Makernote - 0x0406] Unknown tag (0x0406) = [4116 values]
-DOTNET [Pentax Makernote - 0x0407] Unknown tag (0x0407) = [3072 values]
-DOTNET [Pentax Makernote - 0x0408] Unknown tag (0x0408) = [1024 values]
 DOTNET 
+       [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+       [Interoperability - 0x0002] Interoperability Version = 1.00
+       
        [GPS - 0x0000] GPS Version ID = 2.300
        [GPS - 0x0001] GPS Latitude Ref = N
-       [GPS - 0x0002] GPS Latitude = 42° 44' 42.39"
+       [GPS - 0x0002] GPS Latitude = 42° 44' 42.37"
        [GPS - 0x0003] GPS Longitude Ref = E
-       [GPS - 0x0004] GPS Longitude = 12° 55' 6.82"
+       [GPS - 0x0004] GPS Longitude = 12° 55' 6.92"
        [GPS - 0x0005] GPS Altitude Ref = Sea level
-       [GPS - 0x0006] GPS Altitude = 1125.8 metres
-       [GPS - 0x0007] GPS Time-Stamp = 20:48:37.000 UTC
+       [GPS - 0x0006] GPS Altitude = 1113.7 metres
+       [GPS - 0x0007] GPS Time-Stamp = 02:58:13.000 UTC
        [GPS - 0x0008] GPS Satellites = 10
        [GPS - 0x0009] GPS Status = Active (Measurement in progress)
        [GPS - 0x000a] GPS Measure Mode = 3-dimensional measurement
        [GPS - 0x000c] GPS Speed Ref = km/h
-       [GPS - 0x000d] GPS Speed = 0 km/h
+       [GPS - 0x000d] GPS Speed = 0.04 km/h
        [GPS - 0x000e] GPS Track Ref = True direction
-       [GPS - 0x000f] GPS Track = 129.61 degrees
+       [GPS - 0x000f] GPS Track = 297.25 degrees
        [GPS - 0x0010] GPS Img Direction Ref = True direction
-       [GPS - 0x0011] GPS Img Direction = 297.38 degrees
+       [GPS - 0x0011] GPS Img Direction = 49.3 degrees
        [GPS - 0x0012] GPS Map Datum = WGS-84
        [GPS - 0x001b] GPS Processing Method = GPS
-       [GPS - 0x001d] GPS Date Stamp = 2020:07:25
+       [GPS - 0x001d] GPS Date Stamp = 2020:07:11
        
-JAVA   [Exif Thumbnail - 0x0100] Image Width = 7360 pixels
-JAVA   [Exif Thumbnail - 0x0101] Image Height = 4912 pixels
-DOTNET [Exif Thumbnail - 0x0100] Image Width = 160 pixels
-DOTNET [Exif Thumbnail - 0x0101] Image Height = 120 pixels
+       [PrintIM - 0x0000] PrintIM Version = 0300
+       [PrintIM - 0x0001] Unknown tag (0x0001) = 0x00160016
+       [PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+       [PrintIM - 0x0003] Unknown tag (0x0003) = 0x000000d6
+       [PrintIM - 0x0007] Unknown tag (0x0007) = 0x00000000
+       [PrintIM - 0x0008] Unknown tag (0x0008) = 0x00000000
+       [PrintIM - 0x0009] Unknown tag (0x0009) = 0x00000000
+       [PrintIM - 0x000a] Unknown tag (0x000a) = 0x00000000
+       [PrintIM - 0x000b] Unknown tag (0x000b) = 0x0000011e
+       [PrintIM - 0x000c] Unknown tag (0x000c) = 0x00000000
+       [PrintIM - 0x000d] Unknown tag (0x000d) = 0x00000000
+       [PrintIM - 0x000e] Unknown tag (0x000e) = 0x00000134
+       [PrintIM - 0x0100] Unknown tag (0x0100) = 0x00000005
+       [PrintIM - 0x0101] Unknown tag (0x0101) = 0x000000ff
+       [PrintIM - 0x0102] Unknown tag (0x0102) = 0x00000083
+       [PrintIM - 0x0103] Unknown tag (0x0103) = 0x00000083
+       [PrintIM - 0x0104] Unknown tag (0x0104) = 0x00000083
+       [PrintIM - 0x0105] Unknown tag (0x0105) = 0x00000083
+       [PrintIM - 0x0106] Unknown tag (0x0106) = 0x00000083
+       [PrintIM - 0x0107] Unknown tag (0x0107) = 0x00808080
+       [PrintIM - 0x0110] Unknown tag (0x0110) = 0x00000080
+       [PrintIM - 0x0200] Unknown tag (0x0200) = 0x00000000
+       [PrintIM - 0x0207] Unknown tag (0x0207) = 0x00000000
+       [PrintIM - 0x0208] Unknown tag (0x0208) = 0x00000000
+       [PrintIM - 0x0209] Unknown tag (0x0209) = 0x00000000
+       [PrintIM - 0x020a] Unknown tag (0x020a) = 0x00000000
+       [PrintIM - 0x020b] Unknown tag (0x020b) = 0x00000144
+       [PrintIM - 0x020d] Unknown tag (0x020d) = 0x00000000
+       [PrintIM - 0x0300] Unknown tag (0x0300) = 0x00000005
+       [PrintIM - 0x0301] Unknown tag (0x0301) = 0x000000ff
+       [PrintIM - 0x0302] Unknown tag (0x0302) = 0x00000083
+       [PrintIM - 0x0303] Unknown tag (0x0303) = 0x00000083
+       [PrintIM - 0x0306] Unknown tag (0x0306) = 0x00000083
+       [PrintIM - 0x0310] Unknown tag (0x0310) = 0x00000080
+       
        [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
        [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
        [Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
        [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-JAVA   [Exif Thumbnail - 0x0201] Thumbnail Offset = 39287712 bytes
-JAVA   [Exif Thumbnail - 0x0202] Thumbnail Length = 4609539 bytes
-DOTNET [Exif Thumbnail - 0x0201] Thumbnail Offset = 161920 bytes
-DOTNET [Exif Thumbnail - 0x0202] Thumbnail Length = 7623 bytes
-DOTNET 
-DOTNET [Exif Image - 0x0100] Image Width = 7360 pixels
-DOTNET [Exif Image - 0x0101] Image Height = 4912 pixels
-DOTNET [Exif Image - 0x0103] Compression = JPEG (old-style)
-DOTNET [Exif Image - 0x011a] X Resolution = 300 dots per inch
-DOTNET [Exif Image - 0x011b] Y Resolution = 300 dots per inch
-DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
-DOTNET [Exif Image - 0x0201] Unknown tag (0x0201) = 39287712
-DOTNET [Exif Image - 0x0202] Unknown tag (0x0202) = 4609539
+       [Exif Thumbnail - 0x0201] Thumbnail Offset = 32458 bytes
+       [Exif Thumbnail - 0x0202] Thumbnail Length = 7296 bytes
        
-       [File Type - 0x0001] Detected File Type Name = ARW
-       [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-       [File Type - 0x0004] Expected File Name Extension = arw
+       [Huffman - 0x0001] Number of Tables = 4 Huffman tables
        
-       [File - 0x0001] File Name = Pentax K-1 Mark II.pef
-       [File - 0x0002] File Size = 43897251 bytes
+       [File Type - 0x0001] Detected File Type Name = JPEG
+       [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+       [File Type - 0x0003] Detected MIME Type = image/jpeg
+       [File Type - 0x0004] Expected File Name Extension = jpg
+       
+       [File - 0x0001] File Name = Pentax K-1 Mark II.jpg
+       [File - 0x0002] File Size = 16073030 bytes
        [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
        
+       - JPEG
        - Exif IFD0
            - Exif SubIFD
 DOTNET         - Pentax Makernote
+               - Interoperability
            - GPS
+           - PrintIM
            - Exif Thumbnail
-DOTNET         - Exif Image
+       - Huffman
        - File Type
        - File
        

@@ -46,6 +46,79 @@ TYPE: JPEG
 [Exif SubIFD - 0xa40a] Sharpness = None
 [Exif SubIFD - 0xa40c] Subject Distance Range = Macro
 
+[Pentax Makernote - 0x0000] PentaxVersion = 10 4 1 0
+[Pentax Makernote - 0x0001] PentaxModelType = 2
+[Pentax Makernote - 0x0002] PreviewImageSize = 640 480
+[Pentax Makernote - 0x0003] PreviewImageLength = 37588
+[Pentax Makernote - 0x0004] PreviewImageStart = 9768
+[Pentax Makernote - 0x0005] PentaxModelId = 77790
+[Pentax Makernote - 0x0006] Date = 7 222 4 11
+[Pentax Makernote - 0x0007] Time = 8 52 59
+[Pentax Makernote - 0x0008] Quality = 2
+[Pentax Makernote - 0x0009] PentaxImageSize = 31
+[Pentax Makernote - 0x000b] PictureMode = 0 2
+[Pentax Makernote - 0x000c] FlashMode = 1
+[Pentax Makernote - 0x000d] FocusMode = 4
+[Pentax Makernote - 0x000e] AFPointSelected = 65535
+[Pentax Makernote - 0x000f] AFPointsInFocus = 8
+[Pentax Makernote - 0x0010] FocusPosition = 383
+[Pentax Makernote - 0x0012] ExposureTime = 50
+[Pentax Makernote - 0x0013] FNumber = 31
+[Pentax Makernote - 0x0014] Iso = 7
+[Pentax Makernote - 0x0015] LightReading = 24
+[Pentax Makernote - 0x0016] ExposureCompensation = 50
+[Pentax Makernote - 0x0017] MeteringMode = 0
+[Pentax Makernote - 0x0018] AutoBracketing = 0
+[Pentax Makernote - 0x0019] WhiteBalance = 0
+[Pentax Makernote - 0x001a] WhiteBalanceMode = 1
+[Pentax Makernote - 0x001b] BlueBalance = 468
+[Pentax Makernote - 0x001c] RedBalance = 447
+[Pentax Makernote - 0x001d] FocalLength = 550
+[Pentax Makernote - 0x001e] DigitalZoom = 100
+[Pentax Makernote - 0x001f] Saturation = 1
+[Pentax Makernote - 0x0020] Contrast = 1
+[Pentax Makernote - 0x0021] Sharpness = 1
+[Pentax Makernote - 0x0022] WorldTimeLocation = 0
+[Pentax Makernote - 0x0023] HometownCity = 20
+[Pentax Makernote - 0x0024] DestinationCity = 20
+[Pentax Makernote - 0x0025] HometownDST = 0
+[Pentax Makernote - 0x0026] DestinationDST = 0
+[Pentax Makernote - 0x0027] DSPFirmwareVersion = 254 255 255 255
+[Pentax Makernote - 0x0032] ImageEditing = 0 0 0 0
+[Pentax Makernote - 0x0041] ImageEditCount = 0
+[Pentax Makernote - 0x004f] ImageTone = 1
+[Pentax Makernote - 0x005d] ShutterCount = 240 21 192 207
+[Pentax Makernote - 0x005e] Unknown tag (0x005e) = 102 200 1 0
+[Pentax Makernote - 0x005f] Unknown tag (0x005f) = 0 0
+[Pentax Makernote - 0x0060] FaceInfo = 0 0 0 0
+[Pentax Makernote - 0x0061] Unknown tag (0x0061) = 0 0 0 0
+[Pentax Makernote - 0x0066] Unknown tag (0x0066) = 0
+[Pentax Makernote - 0x0069] DynamicRangeExpansion = 0 0
+[Pentax Makernote - 0x006a] Unknown tag (0x006a) = 255 0
+[Pentax Makernote - 0x0074] MonochromeToning = 65535
+[Pentax Makernote - 0x0075] Unknown tag (0x0075) = 0 0 0 0
+[Pentax Makernote - 0x0076] FaceDetect = 32 0
+[Pentax Makernote - 0x0077] FaceDetectFrameSize = 4608 3456
+[Pentax Makernote - 0x0079] ShadowCorrection = 0
+[Pentax Makernote - 0x007c] Unknown tag (0x007c) = 0 0 0 0
+[Pentax Makernote - 0x0089] Unknown tag (0x0089) = 52
+[Pentax Makernote - 0x008a] Unknown tag (0x008a) = 3201
+[Pentax Makernote - 0x008b] ISO = 125
+[Pentax Makernote - 0x008f] Unknown tag (0x008f) = 0 0 0 0
+[Pentax Makernote - 0x0090] Unknown tag (0x0090) = 0 0
+[Pentax Makernote - 0x01f9] Unknown tag (0x01f9) = 1 2
+[Pentax Makernote - 0x01fa] Unknown tag (0x01fa) = 0
+[Pentax Makernote - 0x01fb] Unknown tag (0x01fb) = 0
+[Pentax Makernote - 0x01fc] Unknown tag (0x01fc) = 0 0
+[Pentax Makernote - 0x01fd] Unknown tag (0x01fd) = 0 0
+[Pentax Makernote - 0x01fe] Unknown tag (0x01fe) = 0
+[Pentax Makernote - 0x0227] FacePos = [128 values]
+[Pentax Makernote - 0x0228] FaceSize = [128 values]
+[Pentax Makernote - 0x0232] Unknown tag (0x0232) = [128 values]
+[Pentax Makernote - 0x0233] Unknown tag (0x0233) = [128 values]
+[Pentax Makernote - 0x03fe] Unknown tag (0x03fe) = [4316 values]
+[Pentax Makernote - 0x05fe] Unknown tag (0x05fe) = [4048 values]
+
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
 
@@ -109,6 +182,7 @@ TYPE: JPEG
 - JPEG
 - Exif IFD0
     - Exif SubIFD
+        - Pentax Makernote
         - Interoperability
     - GPS
     - PrintIM
