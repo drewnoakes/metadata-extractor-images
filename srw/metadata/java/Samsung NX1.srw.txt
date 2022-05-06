@@ -112,7 +112,7 @@ TYPE: TIFF
 [Samsung Makernote - 0xa055] Unknown tag (0xa055) = 11 -305 -8 -609 -200 230 717 1529
 [Samsung Makernote - 0xa056] Unknown tag (0xa056) = 3372 8179 11783 16190 305 79 751 483
 [Samsung Makernote - 0xa057] Unknown tag (0xa057) = 333 395 657 913 242 750 448 11
-[Samsung Makernote - 0xa060] Unknown tag (0xa060) = -305/-8
+[Samsung Makernote - 0xa060] Unknown tag (0xa060) = 305/8
 
 [Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
 [Exif SubIFD - 0x011a] X Resolution = 477064448/1278066747 dots per inch

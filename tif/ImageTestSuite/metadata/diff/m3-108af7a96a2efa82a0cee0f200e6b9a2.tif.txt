@@ -54,7 +54,7 @@ DOTNET [ERROR: XMP] Error processing XMP data: Unsupported Encoding
        [Exif SubIFD - 0x9004] Date/Time Digitized = 2006:11:23 14:46:39
        [Exif SubIFD - 0x9101] Components Configuration = YCbCr
        [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 1/816491179 bits/pixel
-       [Exif SubIFD - 0x9204] Exposure Bias Value = -1347907665/-1483690586 EV
+       [Exif SubIFD - 0x9204] Exposure Bias Value = 1347907665/1483690586 EV
        [Exif SubIFD - 0x9205] Max Aperture Value = f/1.0
        [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
        [Exif SubIFD - 0x9208] White Balance = Unknown
