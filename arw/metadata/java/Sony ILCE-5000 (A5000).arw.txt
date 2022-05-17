@@ -173,8 +173,19 @@ TYPE: ARW
 [Sony Makernote - 0xa100] Unknown tag (0xa100) = [64 values]
 [Sony Makernote - 0x2010] Unknown tag (0x2010) = [6556 values]
 [Sony Makernote - 0x940f] Unknown tag (0x940f) = [2048 values]
-[Sony Makernote - 0x9050] Unknown tag (0x9050) = [944 values]
 [Sony Makernote - 0x9412] Unknown tag (0x9412) = [160 values]
+
+[Sony 9050B - 0x0026] Shutter = 0 0 0
+[Sony 9050B - 0x0039] Flash Status = Flash inhibited
+[Sony 9050B - 0x003a] Shutter Count = 369105062
+[Sony 9050B - 0x0046] Sony Exposure Time = 1/0
+[Sony 9050B - 0x0048] Sony F Number = 0
+[Sony 9050B - 0x0088] Internal Serial Number = 000000000000
+[Sony 9050B - 0x0105] Lens Mount = 2
+[Sony 9050B - 0x0106] Lens Format = 1
+[Sony 9050B - 0x0107] Lens Type 2 = 32793
+[Sony 9050B - 0x010b] Distortion Corr Params Present = 1
+[Sony 9050B - 0x0114] APS-C Size Capture = 195 0
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
@@ -211,6 +222,7 @@ TYPE: ARW
     - Exif SubIFD
     - Exif SubIFD
         - Sony Makernote
+            - Sony 9050B
         - Interoperability
     - PrintIM
     - Exif Thumbnail

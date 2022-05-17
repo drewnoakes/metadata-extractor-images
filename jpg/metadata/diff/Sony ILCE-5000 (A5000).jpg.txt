@@ -1,0 +1,216 @@
+       FILE: Sony ILCE-5000 (A5000).jpg
+       TYPE: JPEG
+       
+       [ERROR: Sony Makernote] Illegal TIFF tag pointer offset
+       
+       [JPEG - 0xfffffffd] Compression Type = Baseline
+       [JPEG - 0x0000] Data Precision = 8 bits
+       [JPEG - 0x0001] Image Height = 3632 pixels
+       [JPEG - 0x0003] Image Width = 5456 pixels
+       [JPEG - 0x0005] Number of Components = 3
+       [JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 2 horiz/1 vert
+       [JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+       [JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+       
+       [Exif IFD0 - 0x010e] Image Description =                                
+       [Exif IFD0 - 0x010f] Make = SONY
+       [Exif IFD0 - 0x0110] Model = ILCE-5000
+       [Exif IFD0 - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
+       [Exif IFD0 - 0x011a] X Resolution = 350 dots per inch
+       [Exif IFD0 - 0x011b] Y Resolution = 350 dots per inch
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       [Exif IFD0 - 0x0131] Software = ILCE-5000 v1.00
+       [Exif IFD0 - 0x0132] Date/Time = 2014:03:14 15:00:43
+       [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+       
+       [Exif SubIFD - 0x829a] Exposure Time = 1/60 sec
+       [Exif SubIFD - 0x829d] F-Number = f/11.0
+       [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+       [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+       [Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
+       [Exif SubIFD - 0x8832] Recommended Exposure Index = 100
+       [Exif SubIFD - 0x9000] Exif Version = 2.30
+       [Exif SubIFD - 0x9003] Date/Time Original = 2014:03:14 15:00:43
+       [Exif SubIFD - 0x9004] Date/Time Digitized = 2014:03:14 15:00:43
+       [Exif SubIFD - 0x9101] Components Configuration = YCbCr
+       [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 2 bits/pixel
+       [Exif SubIFD - 0x9203] Brightness Value = 7.56
+       [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+       [Exif SubIFD - 0x9205] Max Aperture Value = f/3.5
+       [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+       [Exif SubIFD - 0x9208] White Balance = Unknown
+       [Exif SubIFD - 0x9209] Flash = Flash did not fire
+       [Exif SubIFD - 0x920a] Focal Length = 16 mm
+       [Exif SubIFD - 0x9286] User Comment = 
+       [Exif SubIFD - 0xa000] FlashPix Version = 1.00
+       [Exif SubIFD - 0xa001] Color Space = sRGB
+       [Exif SubIFD - 0xa002] Exif Image Width = 5456 pixels
+       [Exif SubIFD - 0xa003] Exif Image Height = 3632 pixels
+       [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+       [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+       [Exif SubIFD - 0xa401] Custom Rendered = Normal process
+       [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+       [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+       [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+       [Exif SubIFD - 0xa405] Focal Length 35 = 24 mm
+       [Exif SubIFD - 0xa406] Scene Capture Type = Standard
+       [Exif SubIFD - 0xa408] Contrast = None
+       [Exif SubIFD - 0xa409] Saturation = None
+       [Exif SubIFD - 0xa40a] Sharpness = None
+       [Exif SubIFD - 0xa432] Lens Specification = 16-50mm f/3.5-5.6
+       [Exif SubIFD - 0xa434] Lens Model = E PZ 16-50mm F3.5-5.6 OSS
+       
+       [Sony Makernote - 0x1003] Panorama = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+       [Sony Makernote - 0x2000] Unknown tag (0x2000) = 0
+       [Sony Makernote - 0x2002] Rating = 0
+       [Sony Makernote - 0x2003] Unknown tag (0x2003) = 
+       [Sony Makernote - 0x2004] Contrast = 0
+       [Sony Makernote - 0x2005] Saturation = 0
+       [Sony Makernote - 0x2006] Sharpness = 0
+       [Sony Makernote - 0x2007] Brightness = 0
+       [Sony Makernote - 0x2008] Long Exposure Noise Reduction = 1
+       [Sony Makernote - 0x2009] High ISO Noise Reduction = Normal
+       [Sony Makernote - 0x200a] HDR = 0
+       [Sony Makernote - 0x200c] Unknown tag (0x200c) = 0 0 0
+       [Sony Makernote - 0x200d] Unknown tag (0x200d) = 1
+       [Sony Makernote - 0x2014] WB Shift Amber/Magenta = 0 0
+       [Sony Makernote - 0x3000] Shot Info = [390 values]
+       [Sony Makernote - 0xb020] Color Mode Setting = Standard
+       [Sony Makernote - 0xb021] Color Temperature = Auto
+       [Sony Makernote - 0xb022] Color Compensation Filter = 0
+       [Sony Makernote - 0xb023] Scene Mode = Standard
+       [Sony Makernote - 0xb024] Zone Matching = ISO Setting Used
+       [Sony Makernote - 0xb025] Dynamic Range Optimizer = Auto
+       [Sony Makernote - 0xb026] Image Stabilisation = On
+       [Sony Makernote - 0xb029] Color Mode = Standard
+       [Sony Makernote - 0xb02b] Full Image Size = 3632 5456
+       [Sony Makernote - 0xb02c] Preview Image Size = 1080 1616
+       [Sony Makernote - 0xb000] File Format = 3 3 1 0
+       [Sony Makernote - 0x0102] Image Quality = RAW + JPEG
+       [Sony Makernote - 0x0104] Flash Exposure Compensation = 0 EV
+       [Sony Makernote - 0x0112] White Balance Fine Tune Value = 0
+       [Sony Makernote - 0x0115] White Balance = Auto
+       [Sony Makernote - 0xb001] Sony Model ID = ILCE-5000
+       [Sony Makernote - 0x0105] Teleconverter Model = None
+       [Sony Makernote - 0x200b] Multi Frame Noise Reduction = 0
+       [Sony Makernote - 0x200e] Picture Effect = Off
+       [Sony Makernote - 0x200f] Soft Skin Effect = Off
+       [Sony Makernote - 0x2011] Vignetting Correction = Auto
+       [Sony Makernote - 0x2012] Lateral Chromatic Aberration = Auto
+       [Sony Makernote - 0x2013] Distortion Correction = Auto
+       [Sony Makernote - 0x2015] Unknown tag (0x2015) = 65535
+       [Sony Makernote - 0xb027] Lens ID = 65535
+       [Sony Makernote - 0xb02a] Lens Spec = 195 0 22 0 80 53 86 0
+       [Sony Makernote - 0x2016] Auto Portrait Framing = No
+       [Sony Makernote - 0x2017] Unknown tag (0x2017) = 0
+       [Sony Makernote - 0x2018] Unknown tag (0x2018) = 0
+       [Sony Makernote - 0x2019] Unknown tag (0x2019) = 0
+       [Sony Makernote - 0x201a] Unknown tag (0x201a) = 1
+       [Sony Makernote - 0x201b] Focus Mode = AF-A
+       [Sony Makernote - 0x201c] Unknown tag (0x201c) = 1
+       [Sony Makernote - 0x201d] Unknown tag (0x201d) = 0 0
+       [Sony Makernote - 0x201e] AF Point Selected = Auto
+       [Sony Makernote - 0x201f] Unknown tag (0x201f) = 128 8 0 0
+       [Sony Makernote - 0x2020] Unknown tag (0x2020) = 0 0 0 0 0 0 0 0 0 0
+       [Sony Makernote - 0x2021] Unknown tag (0x2021) = 0
+       [Sony Makernote - 0x2022] Unknown tag (0x2022) = 0 0 0 0 0 0 0 0 0 0 0 0 0
+       [Sony Makernote - 0x2023] Unknown tag (0x2023) = 0
+       [Sony Makernote - 0x5001] Unknown tag (0x5001) = 0
+       [Sony Makernote - 0x5002] Unknown tag (0x5002) = 128
+       [Sony Makernote - 0xb041] Exposure Mode = Aperture Priority
+       [Sony Makernote - 0xb045] Unknown tag (0xb045) = 0
+       [Sony Makernote - 0xb046] Unknown tag (0xb046) = 0
+       [Sony Makernote - 0xb047] Quality = N/A
+       [Sony Makernote - 0xb048] Flash Level = Normal
+       [Sony Makernote - 0xb049] Release Mode = Normal
+       [Sony Makernote - 0xb04a] Sequence Number = Single
+       [Sony Makernote - 0xb04b] Anti Blur = On (Shooting)
+       [Sony Makernote - 0xb04c] Unknown tag (0xb04c) = 1
+       [Sony Makernote - 0xb04d] Unknown tag (0xb04d) = 0
+       [Sony Makernote - 0xb04f] Dynamic Range Optimizer = 1
+       [Sony Makernote - 0xb050] High ISO Noise Reduction = 65535
+       [Sony Makernote - 0xb051] Unknown tag (0xb051) = 0
+       [Sony Makernote - 0xb052] Intelligent Auto = 0
+       [Sony Makernote - 0xb053] Unknown tag (0xb053) = 0
+       [Sony Makernote - 0xb054] White Balance 2 = 0
+       [Sony Makernote - 0x9400] Unknown tag (0x9400) = [556 values]
+       [Sony Makernote - 0x9401] Unknown tag (0x9401) = [4096 values]
+       [Sony Makernote - 0x9402] Unknown tag (0x9402) = [400 values]
+       [Sony Makernote - 0x9403] Unknown tag (0x9403) = [1000 values]
+       [Sony Makernote - 0x9404] Unknown tag (0x9404) = [556 values]
+       [Sony Makernote - 0x9405] Unknown tag (0x9405) = [1992 values]
+       [Sony Makernote - 0x9406] Unknown tag (0x9406) = [64 values]
+       [Sony Makernote - 0x9407] Unknown tag (0x9407) = [64 values]
+       [Sony Makernote - 0x9408] Unknown tag (0x9408) = [1000 values]
+       [Sony Makernote - 0x9409] Unknown tag (0x9409) = [1344 values]
+       [Sony Makernote - 0x940a] Unknown tag (0x940a) = [272 values]
+       [Sony Makernote - 0x940b] Unknown tag (0x940b) = [400 values]
+       [Sony Makernote - 0x940c] Unknown tag (0x940c) = [64 values]
+       [Sony Makernote - 0x940d] Unknown tag (0x940d) = [1260 values]
+       [Sony Makernote - 0x940e] Unknown tag (0x940e) = [12288 values]
+       [Sony Makernote - 0xa100] Unknown tag (0xa100) = [64 values]
+       [Sony Makernote - 0x2010] Unknown tag (0x2010) = [6556 values]
+       [Sony Makernote - 0x940f] Unknown tag (0x940f) = [2048 values]
+DOTNET [Sony Makernote - 0x9050] Unknown tag (0x9050) = [944 values]
+       [Sony Makernote - 0x9412] Unknown tag (0x9412) = [160 values]
+JAVA   
+JAVA   [Sony 9050B - 0x0026] Shutter = 0 0 0
+JAVA   [Sony 9050B - 0x0039] Flash Status = Flash inhibited
+JAVA   [Sony 9050B - 0x003a] Shutter Count = 385881642
+JAVA   [Sony 9050B - 0x0046] Sony Exposure Time = 1/0
+JAVA   [Sony 9050B - 0x0048] Sony F Number = 0
+JAVA   [Sony 9050B - 0x0088] Internal Serial Number = 000000000000
+JAVA   [Sony 9050B - 0x0105] Lens Mount = 2
+JAVA   [Sony 9050B - 0x0106] Lens Format = 1
+JAVA   [Sony 9050B - 0x0107] Lens Type 2 = 32793
+JAVA   [Sony 9050B - 0x010b] Distortion Corr Params Present = 1
+JAVA   [Sony 9050B - 0x0114] APS-C Size Capture = 195 0
+       
+       [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+       [Interoperability - 0x0002] Interoperability Version = 1.00
+       
+       [PrintIM - 0x0000] PrintIM Version = 0300
+       [PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+       [PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000022
+       [PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
+       
+       [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+       [Exif Thumbnail - 0x010e] Image Description =                                
+       [Exif Thumbnail - 0x010f] Make = SONY
+       [Exif Thumbnail - 0x0110] Model = ILCE-5000
+       [Exif Thumbnail - 0x0112] Orientation = Left side, bottom (Rotate 270 CW)
+       [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+       [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+       [Exif Thumbnail - 0x0128] Resolution Unit = Inch
+       [Exif Thumbnail - 0x0131] Software = ILCE-5000 v1.00
+       [Exif Thumbnail - 0x0132] Date/Time = 2014:03:14 15:00:43
+       [Exif Thumbnail - 0x0201] Thumbnail Offset = 38448 bytes
+       [Exif Thumbnail - 0x0202] Thumbnail Length = 7575 bytes
+       [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+       
+       [Huffman - 0x0001] Number of Tables = 4 Huffman tables
+       
+       [File Type - 0x0001] Detected File Type Name = JPEG
+       [File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+       [File Type - 0x0003] Detected MIME Type = image/jpeg
+       [File Type - 0x0004] Expected File Name Extension = jpg
+       
+       [File - 0x0001] File Name = Sony ILCE-5000 (A5000).jpg
+       [File - 0x0002] File Size = 5570560 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - JPEG
+       - Exif IFD0
+           - Exif SubIFD
+               - Sony Makernote
+JAVA               - Sony 9050B
+               - Interoperability
+           - PrintIM
+           - Exif Thumbnail
+       - Huffman
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       
