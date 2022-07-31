@@ -1,0 +1,53 @@
+FILE: Issue 587 (dotnet).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 601 pixels
+[JPEG - 0x0003] Image Width = 900 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 180 dots
+[JFIF - 0x000a] Y Resolution = 180 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif IFD0 - 0x4746] Rating = 3
+[Exif IFD0 - 0x4749] Rating Percent = 50
+[Exif IFD0 - 0xea1c] Padding = [2060 values]
+
+[Exif SubIFD - 0xea1c] Padding = [2060 values]
+
+[XMP - 0xffff] XMP Value Count = 3
+
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 3
+[XMPMeta - http://ns.microsoft.com/photo/1.0/] MicrosoftPhoto:Rating = 50
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b
+
+[Huffman - 0x0001] Number of Tables = 2 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Issue 587 (dotnet).jpg
+[File - 0x0002] File Size = 165081 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+- XMP
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
