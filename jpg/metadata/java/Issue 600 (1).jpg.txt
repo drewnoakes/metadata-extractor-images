@@ -1,0 +1,107 @@
+FILE: Issue 600 (1).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Baseline
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1024 pixels
+[JPEG - 0x0003] Image Width = 1280 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = none
+[JFIF - 0x0008] X Resolution = 100 dots
+[JFIF - 0x000a] Y Resolution = 100 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[XMP - 0xffff] XMP Value Count = 47
+
+[XMPMeta - http://www.communicatingastronomy.org/avm/1.0/] avm:ID = heic0910q
+[XMPMeta - http://www.communicatingastronomy.org/avm/1.0/] avm:MetadataDate = 2015-10-02T14:25:57.328191
+[XMPMeta - http://www.communicatingastronomy.org/avm/1.0/] avm:MetadataVersion = 1.1
+[XMPMeta - http://www.communicatingastronomy.org/avm/1.0/] avm:Publisher = ESA/Hubble
+[XMPMeta - http://www.communicatingastronomy.org/avm/1.0/] avm:PublisherID = esahubble
+[XMPMeta - http://www.communicatingastronomy.org/avm/1.0/] avm:ReferenceURL = http://www.spacetelescope.org/images/heic0910q/
+[XMPMeta - http://www.communicatingastronomy.org/avm/1.0/] avm:ResourceID = heic0910q
+[XMPMeta - http://www.communicatingastronomy.org/avm/1.0/] avm:ResourceURL = http://www.spacetelescope.org/static/archives/images/original/heic0910q.tif
+[XMPMeta - http://www.communicatingastronomy.org/avm/1.0/] avm:Type = Observation
+[XMPMeta - ] avm:Spectral.CentralWavelength[1] = 437
+[XMPMeta - ] avm:Spectral.CentralWavelength[2] = 508
+[XMPMeta - ] avm:Spectral.CentralWavelength[3] = 634
+[XMPMeta - ] avm:Instrument[1] = WFC3
+[XMPMeta - ] avm:Instrument[2] = WFC3
+[XMPMeta - ] avm:Instrument[3] = WFC3
+[XMPMeta - ] avm:Spectral.Band[1] = Optical
+[XMPMeta - ] avm:Spectral.Band[2] = Optical
+[XMPMeta - ] avm:Spectral.Band[3] = Optical
+[XMPMeta - ] avm:Subject.Category[1] = A.1.1.2
+[XMPMeta - ] avm:Spectral.ColorAssignment[1] = Blue
+[XMPMeta - ] avm:Spectral.ColorAssignment[2] = Green
+[XMPMeta - ] avm:Spectral.ColorAssignment[3] = Red
+[XMPMeta - ] avm:Spectral.Bandpass[1] = B
+[XMPMeta - ] avm:Spectral.Bandpass[2] = V
+[XMPMeta - ] avm:Spectral.Bandpass[3] = R
+[XMPMeta - ] avm:Spatial.Notes[1] = 
+[XMPMeta - http://www.w3.org/XML/1998/namespace] avm:Spatial.Notes[1]/xml:lang = x-default
+[XMPMeta - ] avm:Spectral.Notes[1] = 
+[XMPMeta - http://www.w3.org/XML/1998/namespace] avm:Spectral.Notes[1]/xml:lang = x-default
+[XMPMeta - ] avm:Facility[1] = Hubble Space Telescope
+[XMPMeta - ] avm:Facility[2] = Hubble Space Telescope
+[XMPMeta - ] avm:Facility[3] = Hubble Space Telescope
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Credit = NASA, ESA, Michael Wong (Space Telescope Science Institute, Baltimore, MD), H. B. Hammel (Space Science Institute, Boulder, CO) and the Jupiter Impact Team
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2009-09-09T17:00:00
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Source = ESA/Hubble
+[XMPMeta - ] dc:title[1] = Collision leaves giant Jupiter bruised
+[XMPMeta - http://www.w3.org/XML/1998/namespace] dc:title[1]/xml:lang = x-default
+[XMPMeta - ] dc:description[1] = This Hubble picture, taken on 23 July, is the first full-disc, natural-colour image of Jupiter made with Hubble's new camera, the Wide Field Camera 3 (WFC3). It is the sharpest visible-light picture of Jupiter since the New Horizons spacecraft flew by that planet in 2007. Each pixel in this high-resolution image spans about 119 kilometres in Jupiter's atmosphere. Jupiter was more than 600 million kilometres from Earth when the images were taken. The dark smudge at bottom right is debris from a comet or aste <truncated from 1557 characters>
+[XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
+[XMPMeta - ] dc:subject[1] = Jupiter
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrCity = Garching bei München
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrCtry = Germany
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrExtadr = Karl-Schwarzschild-Strasse 2
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrPcode = D-85748
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiUrlWork = http://www.spacetelescope.org/
+[XMPMeta - ] xmpRights:UsageTerms[1] = Creative Commons Attribution 4.0 International License
+[XMPMeta - http://www.w3.org/XML/1998/namespace] xmpRights:UsageTerms[1]/xml:lang = x-default
+
+[Photoshop - 0x040a] Copyright Flag = No
+[Photoshop - 0x0425] Caption Digest = 125 180 241 164 87 138 23 48 103 123 245 214 25 134 129 48
+
+[IPTC - 0x015a] Coded Character Set = UTF-8
+[IPTC - 0x0200] Application Record Version = 4
+[IPTC - 0x0205] Object Name = Collision leaves giant Jupiter bruised
+[IPTC - 0x0219] Keywords = Jupiter
+[IPTC - 0x0237] Date Created = 2009:09:09
+[IPTC - 0x023c] Time Created = 17:00:00
+[IPTC - 0x026e] Credit = NASA, ESA, Michael Wong (Space T
+[IPTC - 0x0273] Source = ESA/Hubble
+[IPTC - 0x0278] Caption/Abstract = This Hubble picture, taken on 23 July, is the first full-disc, natural-colour image of Jupiter made with Hubble's new camera, the Wide Field Camera 3 (WFC3). It is the sharpest visible-light picture of Jupiter since the New Horizons spacecraft flew by that planet in 2007. Each pixel in this high-resolution image spans about 119 kilometres in Jupiter's atmosphere. Jupiter was more than 600 million kilometres from Earth when the images were taken. The dark smudge at bottom right is debris from a comet or asteroid that plunged into Jupiter's atmosphere and disintegrated. In addition to the fresh impact, the image reveals a spectacular variety of shapes in the swirling atmosphere of Jupiter. The planet is wrapped in bands of yellow, brown and white clouds. These bands are produced by the atmosphere flowing in different directions at various places. When these opposing flows interact, turbulence appears. Such data complement the images taken from other telescopes and spacecraft by providing exquisite details of atmospheric phenomena. For example, the image suggests that dark "barges" — tracked by amateur astronomers on a nightly basis — may differ both in form and colour from barge features identified by the Voyager spacecraft. (The Great Red Spot and the smaller Red Oval are both out of view on the other side of the planet.) This colour image is a composite of three separate colour exposures (red, blue and green) made by WFC3. Additional processing was done to compensate for asynchronous imaging in the colour filters and other effects.
+
+[Ducky - 0x0001] Quality = 80
+
+[Huffman - 0x0001] Number of Tables = 4 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Issue 600 (1).jpg
+[File - 0x0002] File Size = 217728 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- XMP
+- Photoshop
+    - IPTC
+- Ducky
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

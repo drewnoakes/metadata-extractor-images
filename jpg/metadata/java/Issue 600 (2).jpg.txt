@@ -1,0 +1,146 @@
+FILE: Issue 600 (2).jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 1024 pixels
+[JPEG - 0x0003] Image Width = 1280 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 300 dots
+[JFIF - 0x000a] Y Resolution = 300 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 300 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 300 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = GIMP 2.10.32
+[Exif IFD0 - 0x0132] Date/Time = 2023:01:04 12:40:17
+
+[Exif SubIFD - 0xa001] Color Space = sRGB
+
+[GPS - 0x0006] GPS Altitude = 0 metres
+
+[Exif Thumbnail - 0x00fe] New Subfile Type = Reduced-resolution image
+[Exif Thumbnail - 0x0100] Image Width = 256 pixels
+[Exif Thumbnail - 0x0101] Image Height = 204 pixels
+[Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+[Exif Thumbnail - 0x0106] Photometric Interpretation = YCbCr
+[Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 324 bytes
+[Exif Thumbnail - 0x0202] Thumbnail Length = 5578 bytes
+
+[XMP - 0xffff] XMP Value Count = 41
+
+[XMPMeta - http://www.gimp.org/xmp/] GIMP:API = 2.0
+[XMPMeta - http://www.gimp.org/xmp/] GIMP:Platform = Mac OS
+[XMPMeta - http://www.gimp.org/xmp/] GIMP:TimeStamp = 1672854019862958
+[XMPMeta - http://www.gimp.org/xmp/] GIMP:Version = 2.10.32
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CiAdrCity = Garching bei München
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CiAdrCtry = Germany
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CiAdrExtadr = Karl-Schwarzschild-Strasse 2
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CiAdrPcode = D-85748
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CiUrlWork = http://www.spacetelescope.org/
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrCity = Garching bei München
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrCtry = Germany
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrExtadr = Karl-Schwarzschild-Strasse 2
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiAdrPcode = D-85748
+[XMPMeta - http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/] Iptc4xmpCore:CreatorContactInfo/Iptc4xmpCore:CiUrlWork = http://www.spacetelescope.org/
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:Format = image/jpeg
+[XMPMeta - ] dc:description[1] = This Hubble picture, taken on 23 July, is the first full-disc, natural-colour image of Jupiter made with Hubble's new camera, the Wide Field Camera 3 (WFC3). It is the sharpest visible-light picture of Jupiter since the New Horizons spacecraft flew by that planet in 2007. Each pixel in this high-resolution image spans about 119 kilometres in Jupiter's atmosphere. Jupiter was more than 600 million kilometres from Earth when the images were taken. The dark smudge at bottom right is debris from a comet or aste <truncated from 1557 characters>
+[XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
+[XMPMeta - ] dc:subject[1] = Jupiter
+[XMPMeta - ] dc:title[1] = Collision leaves giant Jupiter bruised
+[XMPMeta - http://www.w3.org/XML/1998/namespace] dc:title[1]/xml:lang = x-default
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Credit = NASA, ESA, Michael Wong (Space Telescope Science Institute, Baltimore, MD), H. B. Hammel (Space Science Institute, Boulder, CO) and the Jupiter Impact Team
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2009-09-09T17:00:00, 2009-09-09
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Source = ESA/Hubble
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = GIMP 2.10
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2023:01:04T12:40:17-05:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2023:01:04T12:40:17-05:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = gimp:docid:gimp:74935e54-241f-4aaa-9fa4-11a52e78cf90
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:30938214-5b13-4750-9636-83150009864e
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:41b0b3e7-5134-403b-aa04-de5a0240fe6c
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /metadata
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:0069e577-b234-470b-bfa1-66c045c60560
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Gimp 2.10 (Mac OS)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2023-01-04T12:40:04-05:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:f3823eff-681c-459b-b2b0-3f2f592b028a
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:softwareAgent = Gimp 2.10 (Mac OS)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:when = 2023-01-04T12:40:19-05:00
+[XMPMeta - ] xmpRights:UsageTerms[1] = Creative Commons Attribution 4.0 International License
+[XMPMeta - http://www.w3.org/XML/1998/namespace] xmpRights:UsageTerms[1]/xml:lang = x-default
+
+[ICC Profile - 0x0000] Profile Size = 672
+[ICC Profile - 0x0004] CMM Type = lcms
+[ICC Profile - 0x0008] Version = 4.3.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 2023:01:04 17:39:13
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 13
+[ICC Profile - 0x64657363] Profile Description = 1 enUS(GIMP built-in sRGB)
+[ICC Profile - 0x63707274] Profile Copyright = 1 enUS(Public Domain)
+[ICC Profile - 0x77747074] Media White Point = (0.9642, 1, 0.8249)
+[ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
+[ICC Profile - 0x7258595a] Red Colorant = (0.436, 0.2225, 0.0139)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1431, 0.0606, 0.7139)
+[ICC Profile - 0x6758595a] Green Colorant = (0.3851, 0.7169, 0.0971)
+[ICC Profile - 0x72545243] Red TRC = para (0x70617261): 32 bytes
+[ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
+[ICC Profile - 0x62545243] Blue TRC = para (0x70617261): 32 bytes
+[ICC Profile - 0x6368726d] Chromaticity = chrm (0x6368726D): 36 bytes
+[ICC Profile - 0x646d6e64] Device Mfg Description = 1 enUS(GIMP)
+[ICC Profile - 0x646d6464] Device Model Description = 1 enUS(sRGB)
+
+[IPTC - 0x015a] Coded Character Set = UTF-8
+[IPTC - 0x0278] Caption/Abstract = This Hubble picture, taken on 23 July, is the first full-disc, natural-colour image of Jupiter made with Hubble's new camera, the Wide Field Camera 3 (WFC3). It is the sharpest visible-light picture of Jupiter since the New Horizons spacecraft flew by that planet in 2007. Each pixel in this high-resolution image spans about 119 kilometres in Jupiter's atmosphere. Jupiter was more than 600 million kilometres from Earth when the images were taken. The dark smudge at bottom right is debris from a comet or asteroid that plunged into Jupiter's atmosphere and disintegrated. In addition to the fresh impact, the image reveals a spectacular variety of shapes in the swirling atmosphere of Jupiter. The planet is wrapped in bands of yellow, brown and white clouds. These bands are produced by the atmosphere flowing in different directions at various places. When these opposing flows interact, turbulence appears. Such data complement the images taken from other telescopes and spacecraft by providing exquisite details of atmospheric phenomena. For example, the image suggests that dark "barges" — tracked by amateur astronomers on a nightly basis — may differ both in form and colour from barge features identified by the Voyager spacecraft. (The Great Red Spot and the smaller Red Oval are both out of view on the other side of the planet.) This colour image is a composite of three separate colour exposures (red, blue and green) made by WFC3. Additional processing was done to compensate for asynchronous imaging in the colour filters and other effects.
+[IPTC - 0x026e] Credit = NASA, ESA, Michael Wong (Space Telescope Science Institute, Baltimore, MD), H. B. Hammel (Space Science Institute, Boulder, CO) and the Jupiter Impact Team
+[IPTC - 0x0237] Date Created = 2009:09:09
+[IPTC - 0x0219] Keywords = Jupiter
+[IPTC - 0x0205] Object Name = Collision leaves giant Jupiter bruised
+[IPTC - 0x0200] Application Record Version = 4
+[IPTC - 0x0273] Source = ESA/Hubble
+[IPTC - 0x023c] Time Created = 17:00:00+0000
+
+[Huffman - 0x0001] Number of Tables = 2 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Issue 600 (2).jpg
+[File - 0x0002] File Size = 218349 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JFIF
+- Exif IFD0
+    - Exif SubIFD
+    - GPS
+    - Exif Thumbnail
+- XMP
+- ICC Profile
+- Photoshop
+    - IPTC
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
