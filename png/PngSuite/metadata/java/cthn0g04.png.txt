@@ -15,13 +15,13 @@ TYPE: PNG
 
 [PNG-iTXt - 0x000d] Textual Data = Author: Willem van Schaik (willem@schaik.com)
 
-[PNG-iTXt - 0x000d] Textual Data = Copyright: à¤à¥à¤ªà¥à¤°à¤¾à¤à¤ Willem van Schaik, 2011 à¤à¤¨à¤¾à¤¡à¤¾
+[PNG-iTXt - 0x000d] Textual Data = Copyright: कॉपीराइट Willem van Schaik, 2011 कनाडा
 
-[PNG-iTXt - 0x000d] Textual Data = Description: à¤à¤°à¤¨à¥ à¤à¥ à¤²à¤¿à¤ PNG à¤ªà¥à¤°à¤¾à¤°à¥à¤ª à¤à¥ à¤µà¤¿à¤­à¤¿à¤¨à¥à¤¨ à¤°à¤à¤ à¤ªà¥à¤°à¤à¤¾à¤° à¤ªà¤°à¥à¤à¥à¤·à¤£ à¤¬à¤¨à¤¾à¤¯à¤¾ à¤à¤µà¤¿à¤¯à¥à¤ à¤à¤¾ à¤à¤ à¤¸à¥à¤ à¤à¤¾ à¤à¤ à¤¸à¤à¤à¤²à¤¨. à¤¶à¤¾à¤®à¤¿à¤² à¤à¤¾à¤²à¥ à¤à¤° à¤¸à¤«à¥à¤¦, à¤°à¤à¤, à¤ªà¥à¤²à¥à¤à¥à¤¡ à¤¹à¥à¤, à¤à¤²à¥à¤«à¤¾ à¤à¥à¤¨à¤² à¤à¥ à¤¸à¤¾à¤¥ à¤ªà¤¾à¤°à¤¦à¤°à¥à¤¶à¤¿à¤¤à¤¾ à¤¸à¥à¤µà¤°à¥à¤ªà¥à¤ à¤à¥ à¤¸à¤¾à¤¥. à¤¸à¤­à¥ à¤¬à¤¿à¤ à¤à¤¹à¤°à¤¾à¤ à¤à¤²à¥à¤ªà¤¨à¤¾ à¤à¥ à¤à¤¨à¥à¤¸à¤¾à¤° à¤à¥ à¤à¤¨à¥à¤®à¤¤à¤¿ à¤¦à¥ à¤®à¥à¤à¥à¤¦ à¤¹à¥à¤.
+[PNG-iTXt - 0x000d] Textual Data = Description: करने के लिए PNG प्रारूप के विभिन्न रंग प्रकार परीक्षण बनाया छवियों का एक सेट का एक संकलन. शामिल काले और सफेद, रंग, पैलेटेड हैं, अल्फा चैनल के साथ पारदर्शिता स्वरूपों के साथ. सभी बिट गहराई कल्पना के अनुसार की अनुमति दी मौजूद हैं.
 
-[PNG-iTXt - 0x000d] Textual Data = Software: à¤à¤ NeXTstation "pnmtopng 'à¤à¤¾ à¤à¤ªà¤¯à¥à¤ à¤à¤° à¤°à¤à¤ à¤ªà¤° à¤¬à¤¨à¤¾à¤¯à¤¾ à¤à¤¯à¤¾.
+[PNG-iTXt - 0x000d] Textual Data = Software: एक NeXTstation "pnmtopng 'का उपयोग कर रंग पर बनाया गया.
 
-[PNG-iTXt - 0x000d] Textual Data = Disclaimer: à¤«à¥à¤°à¥à¤µà¥à¤¯à¤°.
+[PNG-iTXt - 0x000d] Textual Data = Disclaimer: फ्रीवेयर.
 
 [File Type - 0x0001] Detected File Type Name = PNG
 [File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics

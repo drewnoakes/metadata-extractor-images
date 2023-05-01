@@ -15,13 +15,13 @@ TYPE: PNG
 
 [PNG-iTXt - 0x000d] Textual Data = Author: Willem van Schaik (willem@schaik.com)
 
-[PNG-iTXt - 0x000d] Textual Data = Copyright: èä½æ¨©ã¦ã£ã¬ã ã´ã¡ã³ã·ã£ã¤ã¯ãã«ãã2011
+[PNG-iTXt - 0x000d] Textual Data = Copyright: 著作権ウィレムヴァンシャイク、カナダ2011
 
-[PNG-iTXt - 0x000d] Textual Data = Description: PNGå½¢å¼ã®æ§ããªè²ã®ç¨®é¡ããã¹ãããããã«ä½æãããã¤ã¡ã¼ã¸ã®ã»ããã®ã³ã³ãã¤ã«ãå«ã¾ãã¦ããã®ã¯éæåº¦ã®ãã©ã¼ãããã§ãã¢ã«ãã¡ãã£ãã«ãæã¤ãç½é»ãã«ã©ã¼ããã¬ããã§ãããã¹ã¦ã®ãããæ·±åº¦ãå­å¨ãã¦ããä»æ§ã«å¾ã£ããã¨ãã§ãã¾ããã
+[PNG-iTXt - 0x000d] Textual Data = Description: PNG形式の様々な色の種類をテストするために作成されたイメージのセットのコンパイル。含まれているのは透明度のフォーマットで、アルファチャネルを持つ、白黒、カラー、パレットです。すべてのビット深度が存在している仕様に従ったことができました。
 
-[PNG-iTXt - 0x000d] Textual Data = Software: "pnmtopng"ãä½¿ç¨ãã¦NeXTstationè²ä¸ã«ä½æããã¾ãã
+[PNG-iTXt - 0x000d] Textual Data = Software: "pnmtopng"を使用してNeXTstation色上に作成されます。
 
-[PNG-iTXt - 0x000d] Textual Data = Disclaimer: ããªã¼ã¦ã§ã¢ã
+[PNG-iTXt - 0x000d] Textual Data = Disclaimer: フリーウェア。
 
 [File Type - 0x0001] Detected File Type Name = PNG
 [File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics

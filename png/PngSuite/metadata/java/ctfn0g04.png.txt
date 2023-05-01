@@ -17,9 +17,9 @@ TYPE: PNG
 
 [PNG-iTXt - 0x000d] Textual Data = Copyright: Copyright Willem van Schaik, Kanada 2011
 
-[PNG-iTXt - 0x000d] Textual Data = Description: kokoelma joukon kuvia luotu testata eri vÃ¤ri-tyyppisiÃ¤ PNG-muodossa. Mukana on mustavalkoinen, vÃ¤ri, paletted, alpha-kanava, avoimuuden muodossa. Kaikki bit-syvyydessÃ¤ mukaan sallittua spec on ââlÃ¤snÃ¤.
+[PNG-iTXt - 0x000d] Textual Data = Description: kokoelma joukon kuvia luotu testata eri väri-tyyppisiä PNG-muodossa. Mukana on mustavalkoinen, väri, paletted, alpha-kanava, avoimuuden muodossa. Kaikki bit-syvyydessä mukaan sallittua spec on ​​läsnä.
 
-[PNG-iTXt - 0x000d] Textual Data = Software: Luotu NeXTstation vÃ¤riÃ¤ "pnmtopng".
+[PNG-iTXt - 0x000d] Textual Data = Software: Luotu NeXTstation väriä "pnmtopng".
 
 [PNG-iTXt - 0x000d] Textual Data = Disclaimer: Freeware.
 

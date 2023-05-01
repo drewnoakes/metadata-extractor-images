@@ -15,13 +15,13 @@ TYPE: PNG
 
 [PNG-iTXt - 0x000d] Textual Data = Author: Willem van Schaik (willem@schaik.com)
 
-[PNG-iTXt - 0x000d] Textual Data = Copyright: Î Î½ÎµÏÎ¼Î±ÏÎ¹ÎºÎ¬ Î´Î¹ÎºÎ±Î¹ÏÎ¼Î±ÏÎ± Schaik van Willem, ÎÎ±Î½Î±Î´Î¬Ï 2011
+[PNG-iTXt - 0x000d] Textual Data = Copyright: Πνευματικά δικαιώματα Schaik van Willem, Καναδάς 2011
 
-[PNG-iTXt - 0x000d] Textual Data = Description: ÎÎ¹Î± ÏÏÎ»Î»Î¿Î³Î® Î±ÏÏ Î­Î½Î± ÏÏÎ½Î¿Î»Î¿ ÎµÎ¹ÎºÏÎ½ÏÎ½ ÏÎ¿Ï Î´Î·Î¼Î¹Î¿ÏÏÎ³Î®Î¸Î·ÎºÎ±Î½ Î³Î¹Î± ÏÎ· Î´Î¿ÎºÎ¹Î¼Î® ÏÏÎ½ Î´Î¹Î±ÏÏÏÏÎ½ ÏÏÏÎ¼Î¬ÏÏÎ½-ÏÏÏÏÎ½ ÏÎ¿Ï Î¼Î¿ÏÏÎ® PNG. Î ÎµÏÎ¹Î»Î±Î¼Î²Î¬Î½Î¿Î½ÏÎ±Î¹ Î¿Î¹ Î±ÏÏÏÏÎ¼Î±ÏÏÎµÏ, ÏÏÏÎ¼Î±, paletted, Î¼Îµ Î¬Î»ÏÎ± ÎºÎ±Î½Î¬Î»Î¹, Î¼Îµ Î¼Î¿ÏÏÎ­Ï ÏÎ·Ï Î´Î¹Î±ÏÎ¬Î½ÎµÎ¹Î±Ï. ÎÎ»Î¿Î¹ Î»Î¯Î³Î¿-Î²Î¬Î¸Î· ÎµÏÎ¹ÏÏÎ­ÏÎµÏÎ±Î¹ ÏÏÎ¼ÏÏÎ½Î± Î¼Îµ ÏÎ¿ spec ÎµÎ¯Î½Î±Î¹ ÏÎ±ÏÏÎ½ÏÎµÏ.
+[PNG-iTXt - 0x000d] Textual Data = Description: Μια συλλογή από ένα σύνολο εικόνων που δημιουργήθηκαν για τη δοκιμή των διαφόρων χρωμάτων-τύπων του μορφή PNG. Περιλαμβάνονται οι ασπρόμαυρες, χρώμα, paletted, με άλφα κανάλι, με μορφές της διαφάνειας. Όλοι λίγο-βάθη επιτρέπεται σύμφωνα με το spec είναι παρόντες.
 
-[PNG-iTXt - 0x000d] Textual Data = Software: ÎÎ·Î¼Î¹Î¿ÏÏÎ³Î®Î¸Î·ÎºÎµ ÏÎµ Î­Î½Î± ÏÏÏÎ¼Î± NeXTstation ÏÏÎ·ÏÎ¹Î¼Î¿ÏÎ¿Î¹ÏÎ½ÏÎ±Ï "pnmtopng".
+[PNG-iTXt - 0x000d] Textual Data = Software: Δημιουργήθηκε σε ένα χρώμα NeXTstation χρησιμοποιώντας "pnmtopng".
 
-[PNG-iTXt - 0x000d] Textual Data = Disclaimer: ÎÏÏÎµÎ¬Î½ Î»Î¿Î³Î¹ÏÎ¼Î¹ÎºÏ.
+[PNG-iTXt - 0x000d] Textual Data = Disclaimer: Δωρεάν λογισμικό.
 
 [File Type - 0x0001] Detected File Type Name = PNG
 [File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
