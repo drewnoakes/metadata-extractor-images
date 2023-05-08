@@ -184,7 +184,7 @@ JAVA   [Sony 9050B - 0x0114] APS-C Size Capture = 195 0
        [Exif Thumbnail - 0x0128] Resolution Unit = Inch
        [Exif Thumbnail - 0x0131] Software = ILCE-5000 v1.00
        [Exif Thumbnail - 0x0132] Date/Time = 2014:03:14 15:00:43
-       [Exif Thumbnail - 0x0201] Thumbnail Offset = 38448 bytes
+       [Exif Thumbnail - 0x0201] Thumbnail Offset = 38454 bytes
        [Exif Thumbnail - 0x0202] Thumbnail Length = 7575 bytes
        [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
        

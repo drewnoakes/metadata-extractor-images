@@ -114,7 +114,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 6708 bytes
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 6714 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 1358 bytes
 
 [ICC Profile - 0x0000] Profile Size = 8636

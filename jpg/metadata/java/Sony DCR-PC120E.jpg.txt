@@ -51,7 +51,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 [Exif Thumbnail - 0x0132] Date/Time = 2002:12:14 10:31:31
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 751 bytes
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 757 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5827 bytes
 
 [Huffman - 0x0001] Number of Tables = 4 Huffman tables

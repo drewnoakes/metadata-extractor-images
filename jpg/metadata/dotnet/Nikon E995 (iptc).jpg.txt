@@ -82,7 +82,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 1494 bytes
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 1500 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6077 bytes
 
 [IPTC - 0x0278] Caption/Abstract = Dateiname : DSCN1767.JPG

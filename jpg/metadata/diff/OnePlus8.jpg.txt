@@ -77,7 +77,7 @@ DOTNET [Exif SubIFD - 0x920a] Focal Length = 3.1 mm
        
        [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
        [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
-       [Exif Thumbnail - 0x0201] Thumbnail Offset = 1635 bytes
+       [Exif Thumbnail - 0x0201] Thumbnail Offset = 1641 bytes
        [Exif Thumbnail - 0x0202] Thumbnail Length = 40833 bytes
        [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
        [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)

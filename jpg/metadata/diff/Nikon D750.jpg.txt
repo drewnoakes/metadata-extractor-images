@@ -132,7 +132,7 @@ DOTNET [Nikon Makernote - 0x00b6] Power Up Time = 0:00:00 00:00:00
        [Exif Thumbnail - 0x011a] X Resolution = 300 dots per inch
        [Exif Thumbnail - 0x011b] Y Resolution = 300 dots per inch
        [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-       [Exif Thumbnail - 0x0201] Thumbnail Offset = 19864 bytes
+       [Exif Thumbnail - 0x0201] Thumbnail Offset = 19870 bytes
        [Exif Thumbnail - 0x0202] Thumbnail Length = 10105 bytes
        [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
        

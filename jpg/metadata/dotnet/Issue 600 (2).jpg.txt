@@ -35,7 +35,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
 [Exif Thumbnail - 0x0106] Photometric Interpretation = YCbCr
 [Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 324 bytes
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 330 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5578 bytes
 
 [XMP - 0xffff] XMP Value Count = 41

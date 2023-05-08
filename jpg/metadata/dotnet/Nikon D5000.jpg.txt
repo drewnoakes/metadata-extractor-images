@@ -70,7 +70,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 [Exif Thumbnail - 0x0132] Date/Time = 2011:03:20 11:23:01
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 932 bytes
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 938 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6035 bytes
 
 [XMP - 0xffff] XMP Value Count = 18

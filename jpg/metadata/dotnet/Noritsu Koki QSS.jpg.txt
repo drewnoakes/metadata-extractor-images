@@ -35,7 +35,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 504 bytes
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 510 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 14727 bytes
 [Exif Thumbnail - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Center of pixel array

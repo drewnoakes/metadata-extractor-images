@@ -58,7 +58,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x011a] X Resolution = 72 dots per unknown (0)
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per unknown (0)
 [Exif Thumbnail - 0x0128] Resolution Unit = Unknown (0)
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 21621 bytes
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 21627 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5305 bytes
 
 [Huffman - 0x0001] Number of Tables = 4 Huffman tables

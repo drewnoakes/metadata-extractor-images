@@ -60,7 +60,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 [Exif Thumbnail - 0x0132] Date/Time = 2002:04:26 12:42:41
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 797 bytes
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 803 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 7736 bytes
 
 [Photoshop - 0x03e9] Mac Print Info = [120 values]

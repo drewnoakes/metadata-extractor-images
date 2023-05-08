@@ -98,7 +98,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 [Exif Thumbnail - 0x0132] Date/Time = 2007:07:07 12:46:32
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 6228 bytes
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 6234 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 6048 bytes
 [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
 

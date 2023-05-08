@@ -60,7 +60,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
 [Exif Thumbnail - 0x0128] Resolution Unit = Inch
 [Exif Thumbnail - 0x0132] Date/Time = 2001:01:28 13:59:33
-[Exif Thumbnail - 0x0201] Thumbnail Offset = 797 bytes
+[Exif Thumbnail - 0x0201] Thumbnail Offset = 803 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 2685 bytes
 
 [Photoshop - 0x03ed] Resolution Info = 72x72 DPI

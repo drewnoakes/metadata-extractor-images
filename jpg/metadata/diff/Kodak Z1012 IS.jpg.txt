@@ -68,7 +68,7 @@ DOTNET [Exif SubIFD - 0x920a] Focal Length = 5.9 mm
        [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
        [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
        [Exif Thumbnail - 0x0128] Resolution Unit = Inch
-       [Exif Thumbnail - 0x0201] Thumbnail Offset = 14284 bytes
+       [Exif Thumbnail - 0x0201] Thumbnail Offset = 14290 bytes
        [Exif Thumbnail - 0x0202] Thumbnail Length = 10775 bytes
        
        [Huffman - 0x0001] Number of Tables = 4 Huffman tables
