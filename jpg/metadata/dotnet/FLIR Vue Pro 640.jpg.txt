@@ -92,7 +92,7 @@ TYPE: JPEG
 [FLIR Camera Info - 0x0312] Raw Value Range Max = 8432
 [FLIR Camera Info - 0x0338] Raw Value Median = 8137
 [FLIR Camera Info - 0x033c] Raw Value Range = 345
-[FLIR Camera Info - 0x0384] Date Time Original = 27/06/2016 15:29:42 +04:00
+[FLIR Camera Info - 0x0384] Date Time Original = 27/06/2016 3:29:42 PM +04:00
 [FLIR Camera Info - 0x0390] Focus Step Count = 0
 [FLIR Camera Info - 0x045c] Focus Distance = 0
 [FLIR Camera Info - 0x0464] Frame Rate = 30
