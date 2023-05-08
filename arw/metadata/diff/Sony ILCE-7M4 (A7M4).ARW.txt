@@ -1,0 +1,310 @@
+       FILE: Sony ILCE-7M4 (A7M4).ARW
+       TYPE: ARW
+       
+JAVA   [ERROR: Sony 9050B] Attempt to read from beyond end of underlying data source (requested index: 261, requested count: 1, max index: 255)
+JAVA   
+       [Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
+       [Exif IFD0 - 0x0103] Compression = JPEG (old-style)
+       [Exif IFD0 - 0x010e] Image Description =                                
+       [Exif IFD0 - 0x010f] Make = SONY
+       [Exif IFD0 - 0x0110] Model = ILCE-7M4
+       [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+       [Exif IFD0 - 0x011a] X Resolution = 350 dots per inch
+       [Exif IFD0 - 0x011b] Y Resolution = 350 dots per inch
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       [Exif IFD0 - 0x0131] Software = ILCE-7M4 v1.01
+       [Exif IFD0 - 0x0132] Date/Time = 2022:10:02 17:37:26
+       [Exif IFD0 - 0x013b] Artist = blank yi
+       [Exif IFD0 - 0x0201] Unknown tag (0x0201) = 143522
+       [Exif IFD0 - 0x0202] Unknown tag (0x0202) = 128847
+       [Exif IFD0 - 0x0213] YCbCr Positioning = Datum point
+       [Exif IFD0 - 0x8298] Copyright = life is short
+       [Exif IFD0 - 0xc634] Unknown tag (0xc634) = 252 0 1 0
+       
+       [Exif SubIFD - 0x00fe] New Subfile Type = Full-resolution image
+       [Exif SubIFD - 0x0100] Image Width = 7168 pixels
+       [Exif SubIFD - 0x0101] Image Height = 5120 pixels
+       [Exif SubIFD - 0x0103] Compression = JPEG
+       [Exif SubIFD - 0x0106] Photometric Interpretation = Color Filter Array
+       [Exif SubIFD - 0x0115] Samples Per Pixel = 1 samples/pixel
+       [Exif SubIFD - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+       [Exif SubIFD - 0x011a] X Resolution = 350 dots per inch
+       [Exif SubIFD - 0x011b] Y Resolution = 350 dots per inch
+       [Exif SubIFD - 0x0128] Resolution Unit = Inch
+       [Exif SubIFD - 0x828d] CFA Repeat Pattern Dim = 2 2
+       [Exif SubIFD - 0x828e] CFA Pattern = [Red,Green][Green,Blue]
+       [Exif SubIFD - 0x7000] Unknown tag (0x7000) = 4
+       [Exif SubIFD - 0x7001] Unknown tag (0x7001) = 1
+       [Exif SubIFD - 0x7010] Unknown tag (0x7010) = 0 0 0 0
+       [Exif SubIFD - 0x7011] Unknown tag (0x7011) = 0 0 0 0
+       [Exif SubIFD - 0x7020] Unknown tag (0x7020) = 0
+       [Exif SubIFD - 0x0111] Strip Offsets = 2039808
+       [Exif SubIFD - 0x0116] Rows Per Strip = 5120 rows/strip
+       [Exif SubIFD - 0x0117] Strip Byte Counts = 36304000 bytes
+       [Exif SubIFD - 0x7031] Unknown tag (0x7031) = 272
+       [Exif SubIFD - 0x7032] Unknown tag (0x7032) = [17 values]
+       [Exif SubIFD - 0x7034] Unknown tag (0x7034) = 1
+       [Exif SubIFD - 0x7035] Unknown tag (0x7035) = [33 values]
+       [Exif SubIFD - 0x7036] Unknown tag (0x7036) = 0
+       [Exif SubIFD - 0x7037] Unknown tag (0x7037) = [17 values]
+       [Exif SubIFD - 0x7310] Unknown tag (0x7310) = 512 512 512 512
+       [Exif SubIFD - 0x7313] Unknown tag (0x7313) = 2414 1024 1024 1721
+       [Exif SubIFD - 0x7316] Unknown tag (0x7316) = 128
+       [Exif SubIFD - 0xc61f] Unknown tag (0xc61f) = 12 8
+       [Exif SubIFD - 0xc620] Unknown tag (0xc620) = 7008 4672
+       [Exif SubIFD - 0x74c7] Unknown tag (0x74c7) = 12 8
+       [Exif SubIFD - 0x74c8] Unknown tag (0x74c8) = 7008 4672
+       [Exif SubIFD - 0xc61d] Unknown tag (0xc61d) = 16383
+       [Exif SubIFD - 0x0102] Bits Per Sample = 14 bits/component/pixel
+       [Exif SubIFD - 0x7038] Unknown tag (0x7038) = 7032 4688
+       [Exif SubIFD - 0x0142] Tile Width = 512
+       [Exif SubIFD - 0x0143] Tile Length = 512
+       [Exif SubIFD - 0x0144] Tile Offsets = [140 values]
+       [Exif SubIFD - 0x0145] Tile Byte Counts = [140 values]
+       
+       [XMP - 0xffff] XMP Value Count = 1
+       
+       [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 0
+       
+       [Exif SubIFD - 0x829a] Exposure Time = 1/2500 sec
+       [Exif SubIFD - 0x829d] F-Number = f/2.8
+       [Exif SubIFD - 0x8822] Exposure Program = Aperture priority
+       [Exif SubIFD - 0x8827] ISO Speed Ratings = 100
+       [Exif SubIFD - 0x8830] Sensitivity Type = Recommended Exposure Index
+       [Exif SubIFD - 0x8832] Recommended Exposure Index = 100
+       [Exif SubIFD - 0x9000] Exif Version = 2.32
+       [Exif SubIFD - 0x9003] Date/Time Original = 2022:10:02 17:37:26
+       [Exif SubIFD - 0x9004] Date/Time Digitized = 2022:10:02 17:37:26
+       [Exif SubIFD - 0x9010] Time Zone = +08:00
+       [Exif SubIFD - 0x9011] Time Zone Original = +08:00
+       [Exif SubIFD - 0x9012] Time Zone Digitized = +08:00
+       [Exif SubIFD - 0x9101] Components Configuration = YCbCr
+       [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 9 bits/pixel
+       [Exif SubIFD - 0x9203] Brightness Value = 10.205
+       [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+       [Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
+       [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+       [Exif SubIFD - 0x9208] White Balance = Unknown
+       [Exif SubIFD - 0x9209] Flash = Flash did not fire
+       [Exif SubIFD - 0x920a] Focal Length = 42 mm
+       [Exif SubIFD - 0x9286] User Comment = 
+       [Exif SubIFD - 0x9290] Sub-Sec Time = 888
+       [Exif SubIFD - 0x9291] Sub-Sec Time Original = 888
+       [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 888
+       [Exif SubIFD - 0xa000] FlashPix Version = 1.00
+       [Exif SubIFD - 0xa001] Color Space = sRGB
+       [Exif SubIFD - 0xa002] Exif Image Width = 7008 pixels
+       [Exif SubIFD - 0xa003] Exif Image Height = 4672 pixels
+       [Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+       [Exif SubIFD - 0xa301] Scene Type = Directly photographed image
+       [Exif SubIFD - 0xa401] Custom Rendered = Normal process
+       [Exif SubIFD - 0xa402] Exposure Mode = Auto exposure
+       [Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+       [Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+       [Exif SubIFD - 0xa405] Focal Length 35 = 42 mm
+       [Exif SubIFD - 0xa406] Scene Capture Type = Standard
+       [Exif SubIFD - 0xa408] Contrast = None
+       [Exif SubIFD - 0xa409] Saturation = None
+       [Exif SubIFD - 0xa40a] Sharpness = None
+       [Exif SubIFD - 0xa431] Body Serial Number = 05104310
+       [Exif SubIFD - 0xa432] Lens Specification = 24-70mm f/2.8
+       [Exif SubIFD - 0xa434] Lens Model = FE 24-70mm F2.8 GM II
+       [Exif SubIFD - 0xa460] Unknown tag (0xa460) = 0
+       
+       [Sony Makernote - 0x1003] Panorama = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+       [Sony Makernote - 0x2000] Unknown tag (0x2000) = 0
+       [Sony Makernote - 0x2002] Rating = 0
+       [Sony Makernote - 0x2003] Unknown tag (0x2003) = 
+       [Sony Makernote - 0x2004] Contrast = 0
+       [Sony Makernote - 0x2005] Saturation = 0
+       [Sony Makernote - 0x2006] Sharpness = 4
+       [Sony Makernote - 0x2007] Brightness = 0
+       [Sony Makernote - 0x2008] Long Exposure Noise Reduction = 0
+       [Sony Makernote - 0x2009] High ISO Noise Reduction = Off
+       [Sony Makernote - 0x200a] HDR = 0
+       [Sony Makernote - 0x200d] Unknown tag (0x200d) = 1
+       [Sony Makernote - 0x2014] WB Shift Amber/Magenta = 0 0
+       [Sony Makernote - 0x2026] Unknown tag (0x2026) = 0 0
+       [Sony Makernote - 0xb020] Color Mode Setting = Standard
+       [Sony Makernote - 0xb021] Color Temperature = Auto
+       [Sony Makernote - 0xb022] Color Compensation Filter = 0
+       [Sony Makernote - 0xb023] Scene Mode = Standard
+       [Sony Makernote - 0xb024] Zone Matching = ISO Setting Used
+       [Sony Makernote - 0xb025] Dynamic Range Optimizer = Off
+       [Sony Makernote - 0xb026] Image Stabilisation = On
+       [Sony Makernote - 0xb029] Color Mode = Standard
+       [Sony Makernote - 0xb02b] Full Image Size = 4672 7008
+       [Sony Makernote - 0xb02c] Preview Image Size = 1080 1616
+       [Sony Makernote - 0xb000] File Format = 4 0 0 0
+       [Sony Makernote - 0x0102] Image Quality = RAW + JPEG
+       [Sony Makernote - 0x0104] Flash Exposure Compensation = 0 EV
+       [Sony Makernote - 0x0112] White Balance Fine Tune Value = 0
+       [Sony Makernote - 0x0115] White Balance = Auto
+       [Sony Makernote - 0xb001] Sony Model ID = Unknown (388)
+       [Sony Makernote - 0x200b] Multi Frame Noise Reduction = 0
+       [Sony Makernote - 0x200e] Picture Effect = Off
+       [Sony Makernote - 0x200f] Soft Skin Effect = Off
+       [Sony Makernote - 0x2011] Vignetting Correction = Auto
+       [Sony Makernote - 0x2012] Lateral Chromatic Aberration = Auto
+       [Sony Makernote - 0x2013] Distortion Correction = Off
+       [Sony Makernote - 0x2015] Unknown tag (0x2015) = 65535
+       [Sony Makernote - 0xb027] Lens ID = 65535
+       [Sony Makernote - 0xb02a] Lens Spec = 10 0 36 0 112 40 0 0
+       [Sony Makernote - 0x2016] Auto Portrait Framing = No
+       [Sony Makernote - 0x2017] Unknown tag (0x2017) = 0
+       [Sony Makernote - 0x2018] Unknown tag (0x2018) = 0
+       [Sony Makernote - 0x2019] Unknown tag (0x2019) = 0
+       [Sony Makernote - 0x201a] Unknown tag (0x201a) = 1
+       [Sony Makernote - 0x201b] Focus Mode = AF-S
+       [Sony Makernote - 0x201c] Unknown tag (0x201c) = 0
+       [Sony Makernote - 0x201d] Unknown tag (0x201d) = 0 0
+       [Sony Makernote - 0x201e] AF Point Selected = Auto
+       [Sony Makernote - 0x201f] Unknown tag (0x201f) = 0 0 0 0
+       [Sony Makernote - 0x2020] Unknown tag (0x2020) = 0 0 0 0 0 0 0 0 0 0
+       [Sony Makernote - 0x2021] Unknown tag (0x2021) = 0
+       [Sony Makernote - 0x202a] Unknown tag (0x202a) = [66 values]
+       [Sony Makernote - 0x2023] Unknown tag (0x2023) = 0
+       [Sony Makernote - 0x2025] Unknown tag (0x2025) = 7 3 0 0
+       [Sony Makernote - 0x5001] Unknown tag (0x5001) = 0
+       [Sony Makernote - 0x5002] Unknown tag (0x5002) = 128
+       [Sony Makernote - 0x2027] Unknown tag (0x2027) = 7008 4672 3306 3124
+       [Sony Makernote - 0x2028] Unknown tag (0x2028) = 65535 65535
+       [Sony Makernote - 0x202b] Unknown tag (0x202b) = 0
+       [Sony Makernote - 0x202c] Unknown tag (0x202c) = 256
+       [Sony Makernote - 0x202d] Unknown tag (0x202d) = 0
+       [Sony Makernote - 0x2029] Unknown tag (0x2029) = 2
+       [Sony Makernote - 0x202e] Unknown tag (0x202e) = 1 3
+       [Sony Makernote - 0x202f] Unknown tag (0x202f) = 0 0 0 0 0 0
+       [Sony Makernote - 0x2032] Unknown tag (0x2032) = 0
+       [Sony Makernote - 0x2033] Unknown tag (0x2033) = 0
+       [Sony Makernote - 0x2034] Unknown tag (0x2034) = 0
+       [Sony Makernote - 0x2035] Unknown tag (0x2035) = 3
+       [Sony Makernote - 0x2036] Unknown tag (0x2036) = 1
+       [Sony Makernote - 0x2037] Unknown tag (0x2037) = 153 0 156 0 1 1
+       [Sony Makernote - 0x2038] Unknown tag (0x2038) = 0
+       [Sony Makernote - 0x2039] Unknown tag (0x2039) = 1
+       [Sony Makernote - 0x203d] Unknown tag (0x203d) = 1
+       [Sony Makernote - 0x203e] Unknown tag (0x203e) = 0
+       [Sony Makernote - 0x203f] Unknown tag (0x203f) = 11871
+       [Sony Makernote - 0x203a] Unknown tag (0x203a) = [32 values]
+       [Sony Makernote - 0x203c] Unknown tag (0x203c) = [26 values]
+       [Sony Makernote - 0x2041] Unknown tag (0x2041) = 0
+       [Sony Makernote - 0xb041] Exposure Mode = Aperture Priority
+       [Sony Makernote - 0xb045] Unknown tag (0xb045) = 0
+       [Sony Makernote - 0xb046] Unknown tag (0xb046) = 0
+       [Sony Makernote - 0xb048] Flash Level = Normal
+       [Sony Makernote - 0xb049] Release Mode = Normal
+       [Sony Makernote - 0xb04a] Sequence Number = Single
+       [Sony Makernote - 0xb04b] Anti Blur = On (Shooting)
+       [Sony Makernote - 0xb04c] Unknown tag (0xb04c) = 1
+       [Sony Makernote - 0xb04d] Unknown tag (0xb04d) = 0
+       [Sony Makernote - 0xb04f] Dynamic Range Optimizer = 0
+       [Sony Makernote - 0xb050] High ISO Noise Reduction = 65535
+       [Sony Makernote - 0xb051] Unknown tag (0xb051) = 0
+       [Sony Makernote - 0xb052] Intelligent Auto = 0
+       [Sony Makernote - 0xb053] Unknown tag (0xb053) = 0
+       [Sony Makernote - 0xb054] White Balance 2 = 0
+       [Sony Makernote - 0x9400] Unknown tag (0x9400) = [456 values]
+       [Sony Makernote - 0x9401] Unknown tag (0x9401) = [7840 values]
+       [Sony Makernote - 0x9414] Unknown tag (0x9414) = [1024 values]
+       [Sony Makernote - 0x9402] Unknown tag (0x9402) = [400 values]
+       [Sony Makernote - 0x9403] Unknown tag (0x9403) = 152 35 0 0
+       [Sony Makernote - 0x9404] Unknown tag (0x9404) = [100 values]
+       [Sony Makernote - 0x9416] Unknown tag (0x9416) = [4416 values]
+       [Sony Makernote - 0x9406] Unknown tag (0x9406) = [64 values]
+       [Sony Makernote - 0x9408] Unknown tag (0x9408) = [2780 values]
+       [Sony Makernote - 0x940a] Unknown tag (0x940a) = [2176 values]
+       [Sony Makernote - 0x940b] Unknown tag (0x940b) = [400 values]
+       [Sony Makernote - 0x940c] Unknown tag (0x940c) = [64 values]
+       [Sony Makernote - 0x940d] Unknown tag (0x940d) = 172 74 0 0
+       [Sony Makernote - 0x940e] Unknown tag (0x940e) = [10752 values]
+       [Sony Makernote - 0x9413] Unknown tag (0x9413) = [1024 values]
+       [Sony Makernote - 0x940f] Unknown tag (0x940f) = [4464 values]
+DOTNET [Sony Makernote - 0x9050] Unknown tag (0x9050) = [256 values]
+       [Sony Makernote - 0x9412] Unknown tag (0x9412) = [160 values]
+       
+JAVA   [Sony 9050B - 0x0026] Shutter = 2826 5242 6589
+JAVA   [Sony 9050B - 0x0039] Flash Status = No flash present
+JAVA   [Sony 9050B - 0x003a] Shutter Count = 678
+JAVA   [Sony 9050B - 0x0046] Sony Exposure Time = 1/2048
+JAVA   [Sony 9050B - 0x0048] Sony F Number = 4877
+JAVA   [Sony 9050B - 0x0088] Internal Serial Number = 42ff00002009
+JAVA   
+       [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+       [Interoperability - 0x0002] Interoperability Version = 1.00
+       
+       [PrintIM - 0x0000] PrintIM Version = 0300
+       [PrintIM - 0x0002] Unknown tag (0x0002) = 0x00000001
+       [PrintIM - 0x0003] Unknown tag (0x0003) = 0x00000022
+       [PrintIM - 0x0101] Unknown tag (0x0101) = 0x00000000
+       
+       [Exif Thumbnail - 0x00fe] New Subfile Type = Reduced-resolution image
+JAVA   [Exif Thumbnail - 0x0103] Compression = JPEG
+DOTNET [Exif Thumbnail - 0x0103] Compression = JPEG (old-style)
+       [Exif Thumbnail - 0x010e] Image Description =                                
+       [Exif Thumbnail - 0x010f] Make = SONY
+       [Exif Thumbnail - 0x0110] Model = ILCE-7M4
+       [Exif Thumbnail - 0x0112] Orientation = Top, left side (Horizontal / normal)
+       [Exif Thumbnail - 0x011a] X Resolution = 72 dots per inch
+       [Exif Thumbnail - 0x011b] Y Resolution = 72 dots per inch
+       [Exif Thumbnail - 0x0128] Resolution Unit = Inch
+       [Exif Thumbnail - 0x0131] Software = ILCE-7M4 v1.01
+       [Exif Thumbnail - 0x0132] Date/Time = 2022:10:02 17:37:26
+       [Exif Thumbnail - 0x013b] Artist = blank yi
+JAVA   [Exif Thumbnail - 0x0201] Thumbnail Offset = 274432 bytes
+JAVA   [Exif Thumbnail - 0x0202] Thumbnail Length = 1764795 bytes
+DOTNET [Exif Thumbnail - 0x0201] Thumbnail Offset = 44050 bytes
+DOTNET [Exif Thumbnail - 0x0202] Thumbnail Length = 3954 bytes
+       [Exif Thumbnail - 0x0213] YCbCr Positioning = Datum point
+       [Exif Thumbnail - 0x8298] Copyright = life is short
+JAVA   [Exif Thumbnail - 0x0100] Image Width = 7008 pixels
+JAVA   [Exif Thumbnail - 0x0101] Image Height = 4672 pixels
+JAVA   [Exif Thumbnail - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+JAVA   [Exif Thumbnail - 0x0106] Photometric Interpretation = YCbCr
+JAVA   [Exif Thumbnail - 0x0115] Samples Per Pixel = 3 samples/pixel
+JAVA   [Exif Thumbnail - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+JAVA   [Exif Thumbnail - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
+JAVA   [Exif Thumbnail - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:2
+JAVA   [Exif Thumbnail - 0x0214] Reference Black/White = [0,128,128] [255,128,128]
+DOTNET 
+DOTNET [Exif Image - 0x00fe] New Subfile Type = Reduced-resolution image
+DOTNET [Exif Image - 0x0100] Image Width = 7008 pixels
+DOTNET [Exif Image - 0x0101] Image Height = 4672 pixels
+DOTNET [Exif Image - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+DOTNET [Exif Image - 0x0103] Compression = JPEG
+DOTNET [Exif Image - 0x0106] Photometric Interpretation = YCbCr
+DOTNET [Exif Image - 0x010e] Image Description =                                
+DOTNET [Exif Image - 0x0112] Orientation = Top, left side (Horizontal / normal)
+DOTNET [Exif Image - 0x0115] Samples Per Pixel = 3 samples/pixel
+DOTNET [Exif Image - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+DOTNET [Exif Image - 0x0201] Unknown tag (0x0201) = 274432
+DOTNET [Exif Image - 0x0202] Unknown tag (0x0202) = 1764795
+DOTNET [Exif Image - 0x0211] YCbCr Coefficients = 299/1000 587/1000 114/1000
+DOTNET [Exif Image - 0x0212] YCbCr Sub-Sampling = YCbCr4:2:2
+DOTNET [Exif Image - 0x0213] YCbCr Positioning = Datum point
+DOTNET [Exif Image - 0x0214] Reference Black/White = [0,128,128] [255,128,128]
+       
+       [File Type - 0x0001] Detected File Type Name = ARW
+       [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+       [File Type - 0x0004] Expected File Name Extension = arw
+       
+       [File - 0x0001] File Name = Sony ILCE-7M4 (A7M4).ARW
+       [File - 0x0002] File Size = 38346752 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
+           - Exif SubIFD
+           - XMP
+           - Exif SubIFD
+               - Sony Makernote
+JAVA               - Sony 9050B
+               - Interoperability
+           - PrintIM
+           - Exif Thumbnail
+DOTNET         - Exif Image
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       
