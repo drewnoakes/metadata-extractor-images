@@ -1,0 +1,74 @@
+FILE: Issue 614.jpg
+TYPE: JPEG
+
+[JPEG - 0xfffffffd] Compression Type = Progressive, Huffman
+[JPEG - 0x0000] Data Precision = 8 bits
+[JPEG - 0x0001] Image Height = 100 pixels
+[JPEG - 0x0003] Image Width = 100 pixels
+[JPEG - 0x0005] Number of Components = 3
+[JPEG - 0x0006] Component 1 = Y component: Quantization table 0, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0007] Component 2 = Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JPEG - 0x0008] Component 3 = Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+
+[JpegComment - 0x0000] JPEG Comment = Created with GIMP
+
+[JFIF - 0x0005] Version = 1.1
+[JFIF - 0x0007] Resolution Units = inch
+[JFIF - 0x0008] X Resolution = 300 dots
+[JFIF - 0x000a] Y Resolution = 300 dots
+[JFIF - 0x000c] Thumbnail Width Pixels = 0
+[JFIF - 0x000d] Thumbnail Height Pixels = 0
+
+[ICC Profile - 0x0000] Profile Size = 672
+[ICC Profile - 0x0004] CMM Type = lcms
+[ICC Profile - 0x0008] Version = 4.3.0
+[ICC Profile - 0x000c] Class = Display Device
+[ICC Profile - 0x0010] Color space = RGB 
+[ICC Profile - 0x0014] Profile Connection Space = XYZ 
+[ICC Profile - 0x0018] Profile Date/Time = 2023:05:12 04:48:56
+[ICC Profile - 0x0024] Signature = acsp
+[ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
+[ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
+[ICC Profile - 0x0080] Tag Count = 13
+[ICC Profile - 0x64657363] Profile Description = 1 enUS(GIMP built-in sRGB)
+[ICC Profile - 0x63707274] Profile Copyright = 1 enUS(Public Domain)
+[ICC Profile - 0x77747074] Media White Point = (0.9642, 1, 0.8249)
+[ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
+[ICC Profile - 0x7258595a] Red Colorant = (0.436, 0.2225, 0.0139)
+[ICC Profile - 0x6258595a] Blue Colorant = (0.1431, 0.0606, 0.7139)
+[ICC Profile - 0x6758595a] Green Colorant = (0.3851, 0.7169, 0.0971)
+[ICC Profile - 0x72545243] Red TRC = para (0x70617261): 32 bytes
+[ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
+[ICC Profile - 0x62545243] Blue TRC = para (0x70617261): 32 bytes
+[ICC Profile - 0x6368726d] Chromaticity = chrm (0x6368726D): 36 bytes
+[ICC Profile - 0x646d6e64] Device Mfg Description = 1 enUS(GIMP)
+[ICC Profile - 0x646d6464] Device Model Description = 1 enUS(sRGB)
+
+[IPTC - 0x015a] Coded Character Set = ISO-8859-1
+[IPTC - 0x0100] Enveloped Record Version = 4
+[IPTC - 0x0269] Headline = l'Affiche présentait étaient
+[IPTC - 0x0200] Application Record Version = 4
+
+[Huffman - 0x0001] Number of Tables = 2 Huffman tables
+
+[File Type - 0x0001] Detected File Type Name = JPEG
+[File Type - 0x0002] Detected File Type Long Name = Joint Photographic Experts Group
+[File Type - 0x0003] Detected MIME Type = image/jpeg
+[File Type - 0x0004] Expected File Name Extension = jpg
+
+[File - 0x0001] File Name = Issue 614.jpg
+[File - 0x0002] File Size = 1445 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- JPEG
+- JpegComment
+- JFIF
+- ICC Profile
+- Photoshop
+    - IPTC
+- Huffman
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
