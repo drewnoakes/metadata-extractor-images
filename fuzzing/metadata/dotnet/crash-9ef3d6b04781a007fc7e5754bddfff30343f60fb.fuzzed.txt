@@ -1,6 +1,7 @@
 FILE: crash-9ef3d6b04781a007fc7e5754bddfff30343f60fb.fuzzed
 TYPE: PNG
 
+[ERROR: ICC Profile] Exception reading ICC profile: Found invalid data while decoding.
 [ERROR: Error] Exception reading PNG chunk: Invalid number of bytes
 
 [PNG-IHDR - 0x0001] Image Width = 862

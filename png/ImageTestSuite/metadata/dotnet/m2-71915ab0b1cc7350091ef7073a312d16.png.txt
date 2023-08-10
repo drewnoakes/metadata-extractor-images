@@ -1,6 +1,8 @@
 FILE: m2-71915ab0b1cc7350091ef7073a312d16.png
 TYPE: PNG
 
+[ERROR: PNG-zTXt] Exception decompressing PNG zTXt chunk with keyword "Tumb::URï": Found invalid data while decoding.
+
 [PNG-IHDR - 0x0001] Image Width = 60
 [PNG-IHDR - 0x0002] Image Height = 34
 [PNG-IHDR - 0x0003] Bits Per Sample = 8
@@ -33,8 +35,6 @@ TYPE: PNG
 [PNG-zTXt - 0x000d] Textual Data = Thumb::MTime: 117026m915
 
 [PNG-zTXt - 0x000d] Textual Data = Thumb::Size: 10.9355kb
-
-[PNG-zTXt - 0x000d] Textual Data = Tumb::URï: 
 
 [File Type - 0x0001] Detected File Type Name = PNG
 [File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics

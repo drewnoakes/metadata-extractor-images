@@ -40,7 +40,7 @@ DOTNET [PNG-zTXt - 0x000d] Textual Data = Software: ImageMagick 6.2.8 06/16/06 Q
        
        [PNG-zTXt - 0x000d] Textual Data = Thumb::Image::Width: 373
 DOTNET 
-DOTNET [PNG-zTXt - 0x000d] Textual Data = Thumb::URI: 
+DOTNET [PNG-zTXt - 0x000d] Textual Data = Thumb::URI: file:////mnt/upload./wikipedia/commons/0/01/Provincia_di_Teramo-Stemma.p.Twavcra/
        
        [File Type - 0x0001] Detected File Type Name = PNG
        [File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
