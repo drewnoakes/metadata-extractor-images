@@ -110,7 +110,7 @@ TYPE: TIFF
 [Nikon Makernote - 0x0023] Picture Control = [58 values]
 [Nikon Makernote - 0x0024] World Time = 0 120 1 2
 [Nikon Makernote - 0x0025] ISO Info = 72 1 12 0 0 0 72 1 12 0 0 0 0 2
-[Nikon Makernote - 0x002b] Unknown 40 = 48 49 48 48 1 4 1 9 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x002b] Distort Info = 48 49 48 48 1 4 1 9 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x002c] Unknown 41 = [574 values]
 [Nikon Makernote - 0x002d] Unknown 42 = 512 0 0
 [Nikon Makernote - 0x0032] Unknown tag (0x0032) = 48 49 48 48 0 0 0 1
@@ -128,7 +128,7 @@ TYPE: TIFF
 [Nikon Makernote - 0x0097] Color Balance = [608 values]
 [Nikon Makernote - 0x0098] Lens Data = [33 values]
 [Nikon Makernote - 0x0099] NEF Thumbnail Size = 2496 1640
-[Nikon Makernote - 0x009d] Unknown 11 = 0
+[Nikon Makernote - 0x009d] Date Stamp Mode = 0
 [Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00a3] Unknown 27 = 0
 [Nikon Makernote - 0x00a4] Unknown 28 = 48 50 48 48
@@ -140,7 +140,7 @@ TYPE: TIFF
 [Nikon Makernote - 0x00b6] Power Up Time = 2014:08:12 09:30:43
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
-[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 255 255 255 0
+[Nikon Makernote - 0x00bb] Retouch Info = 48 50 48 48 255 255 255 0
 [Nikon Makernote - 0x00bc] Unknown tag (0x00bc) = [3480 values]
 
 [GPS - 0x0000] GPS Version ID = 2.300

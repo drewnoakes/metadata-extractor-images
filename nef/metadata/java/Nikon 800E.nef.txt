@@ -124,7 +124,7 @@ TYPE: TIFF
 [Nikon Makernote - 0x0024] World Time = 254 212 0 2
 [Nikon Makernote - 0x0025] ISO Info = 84 1 12 0 0 0 84 1 12 0 0 0 0 0
 [Nikon Makernote - 0x002a] Vignette Control = Off
-[Nikon Makernote - 0x002b] Unknown 40 = 48 49 48 48 0 0 1 4 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x002b] Distort Info = 48 49 48 48 0 0 1 4 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x002c] Unknown 41 = [574 values]
 [Nikon Makernote - 0x0032] Unknown tag (0x0032) = 48 49 48 48 0 0 0 1
 [Nikon Makernote - 0x0083] Lens Type = AF, D, G, VR
@@ -153,7 +153,7 @@ TYPE: TIFF
 [Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
 [Nikon Makernote - 0x00ba] Unknown tag (0x00ba) = [1546 values]
-[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 255 255 255 0
+[Nikon Makernote - 0x00bb] Retouch Info = 48 50 48 48 255 255 255 0
 [Nikon Makernote - 0x00bc] Unknown tag (0x00bc) = [7692 values]
 
 [GPS - 0x0000] GPS Version ID = 2.300

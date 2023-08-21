@@ -91,7 +91,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x0095] Noise Reduction = OFF 
 [Nikon Makernote - 0x009b] Unknown 10 = 0 0
 [Nikon Makernote - 0x009c] Scene Assist =                    
-[Nikon Makernote - 0x009d] Unknown 11 = 0
+[Nikon Makernote - 0x009d] Date Stamp Mode = 0
 [Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00ac] Image Stabilisation = VR-ON     
 [Nikon Makernote - 0x00b2] Unknown 31 = NORMAL  

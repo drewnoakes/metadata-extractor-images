@@ -69,11 +69,11 @@ TYPE: JPEG
 [Nikon Makernote - 0x0010] Data Dump = 0
 [Nikon Makernote - 0x0011] Preview IFD = 2137
 [Nikon Makernote - 0x001a] Flash Mode = Red Eye Reduction                       
-[Nikon Makernote - 0x0021] Unknown 35 = [106 values]
+[Nikon Makernote - 0x0021] Face Detect = [106 values]
 [Nikon Makernote - 0x0025] ISO Info = 56 1 12 0 0 0 56 1 12 0 0 0 2 0
 [Nikon Makernote - 0x0026] Unknown 36 = [18 values]
 [Nikon Makernote - 0x0027] Unknown 37 = 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-[Nikon Makernote - 0x002b] Unknown 40 = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x002b] Distort Info = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x002c] Unknown 41 = [206 values]
 [Nikon Makernote - 0x002d] Unknown 42 = 512 0 0
 [Nikon Makernote - 0x002e] Unknown 43 = 1
@@ -88,7 +88,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x0095] Noise Reduction = OFF 
 [Nikon Makernote - 0x009b] Unknown 10 = 0 0
 [Nikon Makernote - 0x009c] Scene Assist =                    
-[Nikon Makernote - 0x009d] Unknown 11 = 0
+[Nikon Makernote - 0x009d] Date Stamp Mode = 0
 [Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x009f] Unknown 12 = 0
 [Nikon Makernote - 0x00ac] Image Stabilisation = VR-ON     

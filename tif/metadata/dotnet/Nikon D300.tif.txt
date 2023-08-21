@@ -85,7 +85,6 @@ TYPE: TIFF
 [Nikon Makernote - 0x001f] VR Info = 48 49 48 48 1 1 0 0
 [Nikon Makernote - 0x0020] Image Authentication = 0
 [Nikon Makernote - 0x0022] Active D-Lighting = Normal
-[Nikon Makernote - 0x0023] Picture Control = [58 values]
 [Nikon Makernote - 0x0024] World Time = 2 88 0 0
 [Nikon Makernote - 0x0025] ISO Info = 104 1 12 0 0 0 104 1 12 0 0 0 0 0
 [Nikon Makernote - 0x0083] Lens Type = AF, D, G, VR
@@ -109,6 +108,20 @@ TYPE: TIFF
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
+
+[Nikon PictureControl 1 - 0x0000] Picture Control Version = 0100
+[Nikon PictureControl 1 - 0x0004] Picture Control Name = VIVID               
+[Nikon PictureControl 1 - 0x0018] Picture Control Base = VIVID               
+[Nikon PictureControl 1 - 0x0030] Picture Control Adjust = Default Settings
+[Nikon PictureControl 1 - 0x0031] Picture Control Quick Adjust = 128
+[Nikon PictureControl 1 - 0x0032] Sharpness = 132
+[Nikon PictureControl 1 - 0x0033] Contrast = 128
+[Nikon PictureControl 1 - 0x0034] Brightness = 128
+[Nikon PictureControl 1 - 0x0035] Saturation = 128
+[Nikon PictureControl 1 - 0x0036] Hue Adjustment = 128
+[Nikon PictureControl 1 - 0x0037] Filter Effect = N/A
+[Nikon PictureControl 1 - 0x0038] Toning Effect = N/A
+[Nikon PictureControl 1 - 0x0039] Toning Saturation = 255
 
 [ICC Profile - 0x0000] Profile Size = 492
 [ICC Profile - 0x0004] CMM Type = NKON
@@ -161,6 +174,7 @@ TYPE: TIFF
 - Exif IFD0
     - Exif SubIFD
         - Nikon Makernote
+            - Nikon PictureControl 1
     - ICC Profile
     - GPS
     - Exif Thumbnail

@@ -111,7 +111,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x0097] Color Balance = [572 values]
 [Nikon Makernote - 0x0098] Lens Data = [32 values]
 [Nikon Makernote - 0x009a] Sensor Pixel Size = 605/100 605/100
-[Nikon Makernote - 0x009d] Unknown 11 = 0
+[Nikon Makernote - 0x009d] Date Stamp Mode = 0
 [Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00a2] Image Data Size = 1185059
 [Nikon Makernote - 0x00a3] Unknown 27 = 0
@@ -124,7 +124,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x00b1] High ISO Noise Reduction = Off
 [Nikon Makernote - 0x00b6] Power Up Time = 2019:06:09 21:47:49
 [Nikon Makernote - 0x00b8] File Info = [172 values]
-[Nikon Makernote - 0x00bb] Unknown 49 = 48 49 48 48 255 0
+[Nikon Makernote - 0x00bb] Retouch Info = 48 49 48 48 255 0
 
 [Interoperability - 0x0002] Interoperability Version = 1.00
 

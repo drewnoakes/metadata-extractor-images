@@ -87,7 +87,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x0024] World Time = 32 254 1 1
 [Nikon Makernote - 0x0025] ISO Info = 60 1 12 0 0 0 60 1 12 0 0 0 0 0
 [Nikon Makernote - 0x002a] Vignette Control = Normal
-[Nikon Makernote - 0x002b] Unknown 40 = 48 49 48 48 0 4 2 5 0 0 0 0 0 0 0 0
+[Nikon Makernote - 0x002b] Distort Info = 48 49 48 48 0 4 2 5 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x002c] Unknown 41 = [574 values]
 [Nikon Makernote - 0x0035] Unknown tag (0x0035) = 48 50 48 48 0 0
 [Nikon Makernote - 0x003b] Unknown tag (0x003b) = 256/256 256/256 256/256 256/256
@@ -118,7 +118,7 @@ TYPE: JPEG
 [Nikon Makernote - 0x00b7] AF Info 2 = [30 values]
 [Nikon Makernote - 0x00b8] File Info = [172 values]
 [Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
-[Nikon Makernote - 0x00bb] Unknown 49 = 48 50 48 48 255 255 255 0
+[Nikon Makernote - 0x00bb] Retouch Info = 48 50 48 48 255 255 255 0
 [Nikon Makernote - 0x00bf] Unknown tag (0x00bf) = 0
 [Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 60 1 12 0 144 1 12 0
 

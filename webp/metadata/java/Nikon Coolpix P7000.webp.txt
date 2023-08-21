@@ -68,7 +68,7 @@ TYPE: WEBP
 [Nikon Makernote - 0x0010] Data Dump = [3342 values]
 [Nikon Makernote - 0x0011] Preview IFD = 4632
 [Nikon Makernote - 0x001a] Flash Mode =                    
-[Nikon Makernote - 0x0021] Unknown 35 = [106 values]
+[Nikon Makernote - 0x0021] Face Detect = [106 values]
 [Nikon Makernote - 0x0022] Active D-Lighting = Off
 [Nikon Makernote - 0x0026] Unknown 36 = [18 values]
 [Nikon Makernote - 0x0027] Unknown 37 = 256 320 240 0 0 0 0
@@ -89,14 +89,14 @@ TYPE: WEBP
 [Nikon Makernote - 0x0095] Noise Reduction = OFF  
 [Nikon Makernote - 0x009b] Unknown 10 = 0 0
 [Nikon Makernote - 0x009c] Scene Assist =                    
-[Nikon Makernote - 0x009d] Unknown 11 = 0
+[Nikon Makernote - 0x009d] Date Stamp Mode = 0
 [Nikon Makernote - 0x009e] Retouch History = 0 0 0 0 0 0 0 0 0 0
 [Nikon Makernote - 0x00a8] Flash Info = [46 values]
 [Nikon Makernote - 0x00aa] Saturation = NORMAL         
 [Nikon Makernote - 0x00ac] Image Stabilisation = VR-ON       
 [Nikon Makernote - 0x00b2] Unknown 31 = NORMAL  
-[Nikon Makernote - 0x00b3] Unknown 32 =        
-[Nikon Makernote - 0x00bd] Unknown 50 = [58 values]
+[Nikon Makernote - 0x00b3] Toning Effect =        
+[Nikon Makernote - 0x00bd] Picture Control 2 = [58 values]
 
 [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
 [Interoperability - 0x0002] Interoperability Version = 1.00
