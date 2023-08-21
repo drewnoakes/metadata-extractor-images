@@ -7,6 +7,7 @@
 
 *.cs text=auto diff
 *.csproj text=auto diff
+*.sln text=auto diff
 
 # Enable diff for files known to contain text-like content, though still treat
 # as binary to disable all line ending normalisation.
