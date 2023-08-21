@@ -59,7 +59,7 @@ internal static class DotNetRunner
             if (Directory.Exists(file))
             {
                 // this entry is a sub-directory
-                ProcessDirectory(file, handlers, relativePath.Length == 0 ? new DirectoryInfo(entry).Name : relativePath + "/" + new DirectoryInfo(entry).Name, log);
+                ProcessDirectory(file, handlers, Path.Combine(relativePath, new DirectoryInfo(entry).Name), log);
                 continue;
             }
 
