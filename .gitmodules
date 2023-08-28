@@ -1,0 +1,3 @@
+[submodule "digicam_corpus"]
+	path = digicam_corpus
+	url = git@github.com:drewnoakes/digicam_corpus.git
