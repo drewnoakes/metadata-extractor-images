@@ -9,17 +9,64 @@ namespace MetadataExtractor.MediaLibraryProcessor;
 
 internal abstract class FileHandlerBase : IFileHandler
 {
-    private static readonly ICollection<string> _supportedExtensions = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
+    private static readonly HashSet<string> _supportedExtensions = new(StringComparer.OrdinalIgnoreCase)
     {
-        "jpg", "jpeg", "png", "gif", "bmp", "heic", "heif", "ico", "webp", "pcx", "ai", "eps",
-        "nef", "crw", "cr2", "orf", "arw", "raf", "srw", "x3f", "rw2", "rwl", "dcr", "pef",
-        "tif", "tiff", "psd", "dng",
-        "j2c", "jp2", "jpf", "jpm", "mj2",
-        "mp3", "wav", "m4a",
-        "3g2", "3gp", "m4v", "mov", "mp4", "m2v", "m2ts", "mts",
-        "pbm", "pnm", "pgm", "ppm",
-        "avi",
-        "fuzzed"
+        ".3fr",
+        ".3g2",
+        ".3gp",
+        ".ai",
+        ".arw",
+        ".avi",
+        ".bmp",
+        ".cam",
+        ".cr2",
+        ".cr3",
+        ".crw",
+        ".dcr",
+        ".dng",
+        ".eps",
+        ".fuzzed",
+        ".gif",
+        ".gpr",
+        ".heic",
+        ".heif",
+        ".ico",
+        ".j2c",
+        ".jp2",
+        ".jpeg",
+        ".jpf",
+        ".jpg",
+        ".jpm",
+        ".kdc",
+        ".m2ts",
+        ".m2v",
+        ".m4a",
+        ".m4v",
+        ".mj2",
+        ".mov",
+        ".mp3",
+        ".mp4",
+        ".mpg",
+        ".mts",
+        ".nef",
+        ".orf",
+        ".pbm",
+        ".pcx",
+        ".pef",
+        ".pgm",
+        ".png",
+        ".pnm",
+        ".ppm",
+        ".psd",
+        ".raf",
+        ".rw2",
+        ".rwl",
+        ".srw",
+        ".tif",
+        ".tiff",
+        ".wav",
+        ".webp",
+        ".x3f"
     };
 
     private int _processedFileCount;
@@ -34,7 +81,7 @@ internal abstract class FileHandlerBase : IFileHandler
     public bool ShouldProcess(string filePath)
     {
         var extension = Path.GetExtension(filePath);
-        return extension.Length > 1 && _supportedExtensions.Contains(extension.Substring(1));
+        return extension.Length > 1 && _supportedExtensions.Contains(extension);
     }
 
     public virtual void OnBeforeExtraction(string filePath, string relativePath, TextWriter log)
