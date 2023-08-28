@@ -59,7 +59,6 @@ TYPE: JPEG
 
 [Apple Makernote - 0x0001] Unknown tag (0x0001) = 2
 [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-[Apple Makernote - 0x0003] Run Time = [104 values]
 [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 174
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 172
@@ -71,6 +70,11 @@ TYPE: JPEG
 [Apple Makernote - 0x000e] Unknown tag (0x000e) = 0
 [Apple Makernote - 0x000f] Unknown tag (0x000f) = 2
 [Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
+
+[Apple Run Time - 0x0001] Flags = Valid
+[Apple Run Time - 0x0002] Epoch = 0
+[Apple Run Time - 0x0003] Scale = 1000000000
+[Apple Run Time - 0x0004] Value = 1535 seconds
 
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 51° 28' 58.78"
@@ -172,6 +176,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
         - Apple Makernote
+            - Apple Run Time
     - GPS
 - XMP
 - ICC Profile

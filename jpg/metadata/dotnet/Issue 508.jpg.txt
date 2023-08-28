@@ -1,6 +1,8 @@
 FILE: Issue 508.jpg
 TYPE: JPEG
 
+[ERROR: Apple Run Time] Input array is not a bplist.
+
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 1 pixels
@@ -62,7 +64,6 @@ TYPE: JPEG
 
 [Apple Makernote - 0x0001] Unknown tag (0x0001) = 11
 [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-[Apple Makernote - 0x0003] Run Time = [104 values]
 [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 200
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 197
@@ -118,6 +119,7 @@ TYPE: JPEG
 - Exif IFD0
     - Exif SubIFD
         - Apple Makernote
+            - Apple Run Time
     - GPS
 - Huffman
 - File Type

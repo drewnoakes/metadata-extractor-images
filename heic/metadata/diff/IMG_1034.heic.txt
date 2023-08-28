@@ -98,10 +98,10 @@ DOTNET
        [ICC Profile - 0x63686164] Chromatic Adaptation = sf32 (0x73663332): 44 bytes
        [ICC Profile - 0x62545243] Blue TRC = para (0x70617261): 32 bytes
        [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
-DOTNET 
+       
 DOTNET [HEIC Thumbnail Data - 0x0001] Offset From Beginning of File = 3996
 DOTNET [HEIC Thumbnail Data - 0x0002] Data Length = 14957
-       
+DOTNET 
        [Exif IFD0 - 0x010f] Make = Apple
        [Exif IFD0 - 0x0110] Model = iPhone 8
        [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
@@ -146,7 +146,6 @@ DOTNET [HEIC Thumbnail Data - 0x0002] Data Length = 14957
        
        [Apple Makernote - 0x0001] Unknown tag (0x0001) = 9
        [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-       [Apple Makernote - 0x0003] Run Time = [104 values]
        [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
        [Apple Makernote - 0x0005] Unknown tag (0x0005) = 172
        [Apple Makernote - 0x0006] Unknown tag (0x0006) = 170
@@ -163,11 +162,11 @@ DOTNET [HEIC Thumbnail Data - 0x0002] Data Length = 14957
        [Apple Makernote - 0x001a] Unknown tag (0x001a) = q825s
        [Apple Makernote - 0x001f] Unknown tag (0x001f) = 0
        
-JAVA   [Apple Run Time - 0x0001] Flags = Valid
-JAVA   [Apple Run Time - 0x0002] Epoch = 0
-JAVA   [Apple Run Time - 0x0003] Scale = 1000000000
-JAVA   [Apple Run Time - 0x0004] Value = 595778 seconds
-JAVA   
+       [Apple Run Time - 0x0001] Flags = Valid
+       [Apple Run Time - 0x0002] Epoch = 0
+       [Apple Run Time - 0x0003] Scale = 1000000000
+       [Apple Run Time - 0x0004] Value = 595778 seconds
+       
        [GPS - 0x0001] GPS Latitude Ref = N
        [GPS - 0x0002] GPS Latitude = 23° 10' 40.5"
        [GPS - 0x0003] GPS Longitude Ref = E
@@ -184,8 +183,7 @@ JAVA
        [GPS - 0x001d] GPS Date Stamp = 2018:02:05
        [GPS - 0x001f] GPS Horizontal Positioning Error = 65 metres
        
-JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
-DOTNET [File Type - 0x0001] Detected File Type Name = HEIC
+       [File Type - 0x0001] Detected File Type Name = HEIF
        [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 JAVA   [File Type - 0x0003] Detected MIME Type = image/heif
 JAVA   [File Type - 0x0004] Expected File Name Extension = heif
@@ -209,7 +207,7 @@ DOTNET - HEIC Thumbnail Data
        - Exif IFD0
            - Exif SubIFD
                - Apple Makernote
-JAVA               - Apple Run Time
+                   - Apple Run Time
            - GPS
        - File Type
        - File

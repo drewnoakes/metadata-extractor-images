@@ -83,7 +83,6 @@ TYPE: HEIF
 
 [Apple Makernote - 0x0001] Unknown tag (0x0001) = 11
 [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-[Apple Makernote - 0x0003] Run Time = [104 values]
 [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 193
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 195

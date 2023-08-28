@@ -48,8 +48,7 @@ JAVA   [HEIF - 0x0005] Height = 960 pixels
 DOTNET [HEIC Thumbnail Data - 0x0001] Offset From Beginning of File = 38467
 DOTNET [HEIC Thumbnail Data - 0x0002] Data Length = 2922
        
-JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
-DOTNET [File Type - 0x0001] Detected File Type Name = HEIC
+       [File Type - 0x0001] Detected File Type Name = HEIF
        [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 JAVA   [File Type - 0x0003] Detected MIME Type = image/heif
 JAVA   [File Type - 0x0004] Expected File Name Extension = heif

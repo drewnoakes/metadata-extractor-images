@@ -120,7 +120,6 @@ TYPE: HEIF
 
 [Apple Makernote - 0x0001] Unknown tag (0x0001) = 11
 [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-[Apple Makernote - 0x0003] Run Time = [104 values]
 [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 194
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 197
@@ -145,6 +144,11 @@ TYPE: HEIF
 [Apple Makernote - 0x0028] Unknown tag (0x0028) = 1
 [Apple Makernote - 0x002b] Unknown tag (0x002b) = E0A9DE96-97DD-497D-9F6A-13CC2C21513B
 
+[Apple Run Time - 0x0001] Flags = Valid
+[Apple Run Time - 0x0002] Epoch = 0
+[Apple Run Time - 0x0003] Scale = 1000000000
+[Apple Run Time - 0x0004] Value = 208765 seconds
+
 [XMP - 0xffff] XMP Value Count = 5
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CompositeImage = 2
@@ -153,7 +157,7 @@ TYPE: HEIF
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = 13.4.1
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2020-05-04T18:43:31
 
-[File Type - 0x0001] Detected File Type Name = HEIC
+[File Type - 0x0001] Detected File Type Name = HEIF
 [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 [File Type - 0x0003] Detected MIME Type = image/heic
 [File Type - 0x0004] Expected File Name Extension = heic
@@ -169,6 +173,7 @@ TYPE: HEIF
 - Exif IFD0
     - Exif SubIFD
         - Apple Makernote
+            - Apple Run Time
 - XMP
 - File Type
 - File

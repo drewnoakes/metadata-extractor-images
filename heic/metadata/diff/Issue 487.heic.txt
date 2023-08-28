@@ -93,8 +93,7 @@ JAVA   [HEIF - 0x0006] Rotation = 270 degrees
        [GPS - 0x0003] GPS Longitude Ref = 
        [GPS - 0x0004] GPS Longitude = 0° 0' 0"
        
-JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
-DOTNET [File Type - 0x0001] Detected File Type Name = HEIC
+       [File Type - 0x0001] Detected File Type Name = HEIF
        [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 JAVA   [File Type - 0x0003] Detected MIME Type = image/heif
 JAVA   [File Type - 0x0004] Expected File Name Extension = heif

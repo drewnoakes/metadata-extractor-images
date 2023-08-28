@@ -43,7 +43,7 @@ TYPE: HEIF
 [HEIC Thumbnail Data - 0x0001] Offset From Beginning of File = 38467
 [HEIC Thumbnail Data - 0x0002] Data Length = 2922
 
-[File Type - 0x0001] Detected File Type Name = HEIC
+[File Type - 0x0001] Detected File Type Name = HEIF
 [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 [File Type - 0x0003] Detected MIME Type = image/heic
 [File Type - 0x0004] Expected File Name Extension = heic

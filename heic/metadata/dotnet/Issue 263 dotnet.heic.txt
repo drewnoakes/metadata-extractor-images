@@ -117,7 +117,6 @@ TYPE: HEIF
 
 [Apple Makernote - 0x0001] Unknown tag (0x0001) = 10
 [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-[Apple Makernote - 0x0003] Run Time = [104 values]
 [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
 [Apple Makernote - 0x0005] Unknown tag (0x0005) = 173
 [Apple Makernote - 0x0006] Unknown tag (0x0006) = 167
@@ -139,6 +138,11 @@ TYPE: HEIF
 [Apple Makernote - 0x0026] Unknown tag (0x0026) = 3
 [Apple Makernote - 0x0027] Unknown tag (0x0027) = 36835/1271
 [Apple Makernote - 0x0028] Unknown tag (0x0028) = 2
+
+[Apple Run Time - 0x0001] Flags = Valid
+[Apple Run Time - 0x0002] Epoch = 0
+[Apple Run Time - 0x0003] Scale = 1000000000
+[Apple Run Time - 0x0004] Value = 250308 seconds
 
 [GPS - 0x0001] GPS Latitude Ref = N
 [GPS - 0x0002] GPS Latitude = 38° 41' 58.34"
@@ -163,7 +167,7 @@ TYPE: HEIF
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = 12.4
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2019-08-21T11:21:36
 
-[File Type - 0x0001] Detected File Type Name = HEIC
+[File Type - 0x0001] Detected File Type Name = HEIF
 [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 [File Type - 0x0003] Detected MIME Type = image/heic
 [File Type - 0x0004] Expected File Name Extension = heic
@@ -179,6 +183,7 @@ TYPE: HEIF
 - Exif IFD0
     - Exif SubIFD
         - Apple Makernote
+            - Apple Run Time
     - GPS
 - XMP
 - File Type

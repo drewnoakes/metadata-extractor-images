@@ -87,7 +87,7 @@ TYPE: HEIF
 [GPS - 0x0003] GPS Longitude Ref = 
 [GPS - 0x0004] GPS Longitude = 0° 0' 0"
 
-[File Type - 0x0001] Detected File Type Name = HEIC
+[File Type - 0x0001] Detected File Type Name = HEIF
 [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 [File Type - 0x0003] Detected MIME Type = image/heic
 [File Type - 0x0004] Expected File Name Extension = heic

@@ -127,7 +127,6 @@ DOTNET [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
        
        [Apple Makernote - 0x0001] Unknown tag (0x0001) = 11
        [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-       [Apple Makernote - 0x0003] Run Time = [104 values]
        [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
        [Apple Makernote - 0x0005] Unknown tag (0x0005) = 194
        [Apple Makernote - 0x0006] Unknown tag (0x0006) = 197
@@ -151,21 +150,21 @@ DOTNET [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
        [Apple Makernote - 0x0027] Unknown tag (0x0027) = 299250/6689
        [Apple Makernote - 0x0028] Unknown tag (0x0028) = 1
        [Apple Makernote - 0x002b] Unknown tag (0x002b) = E0A9DE96-97DD-497D-9F6A-13CC2C21513B
+       
+       [Apple Run Time - 0x0001] Flags = Valid
+       [Apple Run Time - 0x0002] Epoch = 0
+       [Apple Run Time - 0x0003] Scale = 1000000000
+       [Apple Run Time - 0x0004] Value = 208765 seconds
 DOTNET 
 DOTNET [XMP - 0xffff] XMP Value Count = 5
        
-JAVA   [Apple Run Time - 0x0001] Flags = Valid
-JAVA   [Apple Run Time - 0x0002] Epoch = 0
-JAVA   [Apple Run Time - 0x0003] Scale = 1000000000
-JAVA   [Apple Run Time - 0x0004] Value = 208765 seconds
 DOTNET [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CompositeImage = 2
 DOTNET [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2020-05-04T18:43:31.661
 DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2020-05-04T18:43:31.661
 DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = 13.4.1
 DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2020-05-04T18:43:31
-       
-JAVA   [File Type - 0x0001] Detected File Type Name = HEIF
-DOTNET [File Type - 0x0001] Detected File Type Name = HEIC
+DOTNET 
+       [File Type - 0x0001] Detected File Type Name = HEIF
        [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 JAVA   [File Type - 0x0003] Detected MIME Type = image/heif
 JAVA   [File Type - 0x0004] Expected File Name Extension = heif
@@ -186,7 +185,7 @@ DOTNET     - ICC Profile
        - Exif IFD0
            - Exif SubIFD
                - Apple Makernote
-JAVA               - Apple Run Time
+                   - Apple Run Time
 DOTNET - XMP
        - File Type
        - File
