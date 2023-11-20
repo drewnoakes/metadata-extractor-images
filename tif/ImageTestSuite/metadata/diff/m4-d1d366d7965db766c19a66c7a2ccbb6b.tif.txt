@@ -44,7 +44,7 @@ DOTNET [ICC Profile - 0x77747074] Media White Point = (8192.95, 1, 1.0891)
        [ICC Profile - 0xa7636774] Unknown tag (0xa7636774) = [1554 values]
        [ICC Profile - 0x6e64336e] Unknown tag (0x6e64336e) = ndin (0x6E64696E): 446 bytes
        [ICC Profile - 0x64657363] Profile Description = Color�LCD
-JAVA   [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = ERROR: String index out of range: 251658540
+JAVA   [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = ERROR: Range [282, 282 + 251658258) out of bounds for length 510
 JAVA   [ICC Profile - 0x6d6db664] Unknown tag (0x6d6db664) = mmod (0x6D6D6F64): 40 bytes
 JAVA   
 JAVA   [File Type - 0x0001] Detected File Type Name = TIFF

@@ -1,7 +1,7 @@
 FILE: NegativeArraySizeException.HeifReader.processBoxes.heif
 TYPE: HEIF
 
-EXCEPTION: null
+EXCEPTION: -2
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

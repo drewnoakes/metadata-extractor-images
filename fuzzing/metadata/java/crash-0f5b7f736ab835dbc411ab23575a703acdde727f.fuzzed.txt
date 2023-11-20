@@ -22,7 +22,7 @@ TYPE: PNG
 [ICC Profile - 0x0028] Primary Platform = Apple Computer, Inc.
 [ICC Profile - 0x0044] XYZ values = 0.964 1 0.825
 [ICC Profile - 0x0080] Tag Count = 17
-[ICC Profile - 0x64657363] Profile Description = ERROR: String index out of range: 291450
+[ICC Profile - 0x64657363] Profile Description = ERROR: Range [12, 12 + 291438) out of bounds for length 94
 [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = uesc (0x75657363): 34 bytes
 
 [PNG-iCCP - 0x000c] ICC Profile Name = ICC Profile

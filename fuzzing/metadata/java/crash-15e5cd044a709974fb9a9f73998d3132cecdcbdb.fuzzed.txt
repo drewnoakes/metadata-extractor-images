@@ -9,7 +9,7 @@ TYPE: TIFF
 [ERROR: Exif IFD0] Invalid TIFF tag format code 9758 for tag 0xD0DF
 [ERROR: Exif IFD0] Invalid TIFF tag format code 12084 for tag 0x21F9
 
-[Exif IFD0 - 0xa302] CFA Pattern = ERROR: -1
+[Exif IFD0 - 0xa302] CFA Pattern = ERROR: Index -1 out of bounds for length 7
 [Exif IFD0 - 0x0000] Unknown tag (0x0000) = [18 values]
 
 [File Type - 0x0001] Detected File Type Name = TIFF
