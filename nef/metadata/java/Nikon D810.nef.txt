@@ -121,7 +121,6 @@ TYPE: ARW
 [Nikon Makernote - 0x001e] Color Space = sRGB
 [Nikon Makernote - 0x001f] VR Info = 48 49 48 48 2 2 0 0
 [Nikon Makernote - 0x0022] Active D-Lighting = Normal
-[Nikon Makernote - 0x0023] Picture Control = [68 values]
 [Nikon Makernote - 0x0024] World Time = 0 0 1 0
 [Nikon Makernote - 0x0025] ISO Info = 60 1 12 0 0 0 60 1 12 0 0 0 0 0
 [Nikon Makernote - 0x002a] Vignette Control = Normal
@@ -166,6 +165,21 @@ TYPE: ARW
 [Nikon Makernote - 0x00bf] Unknown tag (0x00bf) = 0
 [Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 52 1 12 0 144 1 12 0
 
+[Nikon PictureControl 2 - 0x0000] Picture Control Version = 0200
+[Nikon PictureControl 2 - 0x0004] Picture Control Name = NEUTRAL             
+[Nikon PictureControl 2 - 0x0018] Picture Control Base = NEUTRAL             
+[Nikon PictureControl 2 - 0x0030] Picture Control Adjust = Default Settings
+[Nikon PictureControl 2 - 0x0031] Picture Control Quick Adjust = -1
+[Nikon PictureControl 2 - 0x0033] Sharpness = -120
+[Nikon PictureControl 2 - 0x0035] Clarity = -128
+[Nikon PictureControl 2 - 0x0037] Contrast = -128
+[Nikon PictureControl 2 - 0x0039] Brightness = -128
+[Nikon PictureControl 2 - 0x003b] Saturation = -128
+[Nikon PictureControl 2 - 0x003d] Hue = -128
+[Nikon PictureControl 2 - 0x003f] Filter Effect = 
+[Nikon PictureControl 2 - 0x0040] Toning Effect = 
+[Nikon PictureControl 2 - 0x0041] Toning Saturation = -1
+
 [GPS - 0x0000] GPS Version ID = 2.300
 
 [File Type - 0x0001] Detected File Type Name = ARW
@@ -183,6 +197,7 @@ TYPE: ARW
     - XMP
     - Exif SubIFD
         - Nikon Makernote
+            - Nikon PictureControl 2
     - GPS
 - File Type
 - File

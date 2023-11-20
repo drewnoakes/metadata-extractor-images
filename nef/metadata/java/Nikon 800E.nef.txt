@@ -120,7 +120,6 @@ TYPE: TIFF
 [Nikon Makernote - 0x001e] Color Space = sRGB
 [Nikon Makernote - 0x001f] VR Info = 48 49 48 48 1 1 0 0
 [Nikon Makernote - 0x0022] Active D-Lighting = Auto
-[Nikon Makernote - 0x0023] Picture Control = [58 values]
 [Nikon Makernote - 0x0024] World Time = 254 212 0 2
 [Nikon Makernote - 0x0025] ISO Info = 84 1 12 0 0 0 84 1 12 0 0 0 0 0
 [Nikon Makernote - 0x002a] Vignette Control = Off
@@ -156,6 +155,20 @@ TYPE: TIFF
 [Nikon Makernote - 0x00bb] Retouch Info = 48 50 48 48 255 255 255 0
 [Nikon Makernote - 0x00bc] Unknown tag (0x00bc) = [7692 values]
 
+[Nikon PictureControl 1 - 0x0000] Picture Control Version = 0100
+[Nikon PictureControl 1 - 0x0004] Picture Control Name = NEUTRAL             
+[Nikon PictureControl 1 - 0x0018] Picture Control Base = NEUTRAL             
+[Nikon PictureControl 1 - 0x0030] Picture Control Adjust = Default Settings
+[Nikon PictureControl 1 - 0x0031] Picture Control Quick Adjust = 255
+[Nikon PictureControl 1 - 0x0032] Sharpness = 130
+[Nikon PictureControl 1 - 0x0033] Contrast = 128
+[Nikon PictureControl 1 - 0x0034] Brightness = 128
+[Nikon PictureControl 1 - 0x0035] Saturation = 128
+[Nikon PictureControl 1 - 0x0036] Hue Adjustment = 128
+[Nikon PictureControl 1 - 0x0037] Filter Effect = N/A
+[Nikon PictureControl 1 - 0x0038] Toning Effect = N/A
+[Nikon PictureControl 1 - 0x0039] Toning Saturation = 255
+
 [GPS - 0x0000] GPS Version ID = 2.300
 
 [File Type - 0x0001] Detected File Type Name = TIFF
@@ -174,6 +187,7 @@ TYPE: TIFF
     - XMP
     - Exif SubIFD
         - Nikon Makernote
+            - Nikon PictureControl 1
     - GPS
 - File Type
 - File
