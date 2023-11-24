@@ -81,7 +81,7 @@ internal static class DiffRunner
             {
                 var languageOutputDir = Path.Combine(directory, "metadata", language);
                 if (!System.IO.Directory.Exists(languageOutputDir))
-                    return Array.Empty<string>();
+                    return Array.Empty<string?>();
                 return System.IO.Directory.GetFiles(languageOutputDir, "*.txt").Select(Path.GetFileName).ToArray();
             }
 
