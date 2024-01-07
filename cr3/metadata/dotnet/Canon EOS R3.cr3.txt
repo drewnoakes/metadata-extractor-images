@@ -1,0 +1,287 @@
+FILE: Canon EOS R3.cr3
+TYPE: CR3
+
+[QuickTime File Type] Major Brand - crx
+[QuickTime File Type] Minor Version - 1
+[QuickTime File Type] Compatible Brands - crx, isom
+
+[Exif IFD0] Image Width - 6000 pixels
+[Exif IFD0] Image Height - 4000 pixels
+[Exif IFD0] Bits Per Sample - 8 8 8 bits/component/pixel
+[Exif IFD0] Compression - JPEG (old-style)
+[Exif IFD0] Make - Canon
+[Exif IFD0] Model - Canon EOS R3
+[Exif IFD0] Orientation - Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution - 72 dots per inch
+[Exif IFD0] Y Resolution - 72 dots per inch
+[Exif IFD0] Resolution Unit - Inch
+[Exif IFD0] Date/Time - 2023:02:09 10:10:27
+[Exif IFD0] Artist -
+[Exif IFD0] Copyright -
+
+[Exif SubIFD] Exposure Time - 0.02 sec
+[Exif SubIFD] F-Number - f/4.0
+[Exif SubIFD] Exposure Program - Program normal
+[Exif SubIFD] ISO Speed Ratings - 1600
+[Exif SubIFD] Sensitivity Type - Recommended Exposure Index
+[Exif SubIFD] Recommended Exposure Index - 1600
+[Exif SubIFD] Exif Version - 2.31
+[Exif SubIFD] Date/Time Original - 2023:02:09 10:10:27
+[Exif SubIFD] Date/Time Digitized - 2023:02:09 10:10:27
+[Exif SubIFD] Time Zone - +10:00
+[Exif SubIFD] Time Zone Original - +10:00
+[Exif SubIFD] Time Zone Digitized - +10:00
+[Exif SubIFD] Components Configuration - YCbCr
+[Exif SubIFD] Shutter Speed Value - 1/49 sec
+[Exif SubIFD] Aperture Value - f/4.0
+[Exif SubIFD] Exposure Bias Value - -1/3 EV
+[Exif SubIFD] Metering Mode - Multi-segment
+[Exif SubIFD] Flash - Flash did not fire
+[Exif SubIFD] Focal Length - 85 mm
+[Exif SubIFD] User Comment -
+[Exif SubIFD] Sub-Sec Time - 79
+[Exif SubIFD] Sub-Sec Time Original - 79
+[Exif SubIFD] Sub-Sec Time Digitized - 79
+[Exif SubIFD] FlashPix Version - 1.00
+[Exif SubIFD] Color Space - sRGB
+[Exif SubIFD] Exif Image Width - 6000 pixels
+[Exif SubIFD] Exif Image Height - 4000 pixels
+[Exif SubIFD] Focal Plane X Resolution - 1417/6000000 inches
+[Exif SubIFD] Focal Plane Y Resolution - 189/800000 inches
+[Exif SubIFD] Focal Plane Resolution Unit - Inches
+[Exif SubIFD] Custom Rendered - Normal process
+[Exif SubIFD] Exposure Mode - Auto exposure
+[Exif SubIFD] White Balance Mode - Auto white balance
+[Exif SubIFD] Scene Capture Type - Standard
+[Exif SubIFD] Camera Owner Name -
+[Exif SubIFD] Body Serial Number - 000000000
+[Exif SubIFD] Lens Specification - 85mm
+[Exif SubIFD] Lens Model - CN-E85mm T1.3 L F
+[Exif SubIFD] Lens Serial Number - 000000000
+
+[Canon Makernote] Unknown tag (0xc100) - 112
+[Canon Makernote] Macro Mode - Normal
+[Canon Makernote] Self Timer Delay - Self timer not used
+[Canon Makernote] Quality - CRAW
+[Canon Makernote] Flash Mode - No flash fired
+[Canon Makernote] Continuous Drive Mode - Single shot
+[Canon Makernote] Unknown Camera Setting 2 - 0
+[Canon Makernote] Focus Mode - Manual Focus
+[Canon Makernote] Unknown Camera Setting 3 - 0
+[Canon Makernote] Record Mode - CR3+JPEG
+[Canon Makernote] Image Size - Large
+[Canon Makernote] Easy Shooting Mode - Manual
+[Canon Makernote] Digital Zoom - No digital zoom
+[Canon Makernote] Contrast - Normal
+[Canon Makernote] Saturation - Normal
+[Canon Makernote] Sharpness - Unknown (32767)
+[Canon Makernote] Iso - 16383
+[Canon Makernote] Metering Mode - Evaluative
+[Canon Makernote] Focus Type - Auto
+[Canon Makernote] AF Point Selected - Unknown (0)
+[Canon Makernote] Exposure Mode - Program
+[Canon Makernote] Unknown Camera Setting 7 - 32767
+[Canon Makernote] Lens Type - Unknown (61494)
+[Canon Makernote] Long Focal Length - 85 1
+[Canon Makernote] Short Focal Length - 85 1
+[Canon Makernote] Focal Units per mm - 1
+[Canon Makernote] Max Aperture - f/4.2
+[Canon Makernote] Min Aperture - f/4.2
+[Canon Makernote] Flash Activity - Flash did not fire
+[Canon Makernote] Flash Details - Unknown (8)
+[Canon Makernote] Focus Continuous - Single
+[Canon Makernote] AE Setting - Normal AE
+[Canon Makernote] Focus Mode - Single
+[Canon Makernote] Display Aperture - 65535
+[Canon Makernote] Zoom Source Width - 257
+[Canon Makernote] Zoom Target Width - 0
+[Canon Makernote] Unknown tag (0xc124) - 0
+[Canon Makernote] Spot Metering Mode - Center
+[Canon Makernote] Photo Effect - Off
+[Canon Makernote] Manual Flash Output - Unknown (65535)
+[Canon Makernote] Unknown tag (0xc128) - 65535
+[Canon Makernote] Color Tone - 0
+[Canon Makernote] Unknown tag (0xc12a) - 0
+[Canon Makernote] Unknown tag (0xc12b) - 32767
+[Canon Makernote] Unknown tag (0xc12c) - 0
+[Canon Makernote] SRAW Quality - Unknown (65535)
+[Canon Makernote] Unknown tag (0xc12e) - 0
+[Canon Makernote] Unknown tag (0xc12f) - 0
+[Canon Makernote] Unknown tag (0xc130) - 3
+[Canon Makernote] Unknown tag (0xc131) - 65535
+[Canon Makernote] Unknown tag (0xc132) - 0
+[Canon Makernote] Unknown tag (0xc133) - 0
+[Canon Makernote] Unknown tag (0xc134) - 0
+[Canon Makernote] Unknown tag (0xc135) - 0
+[Canon Makernote] Unknown tag (0xc136) - 65535
+[Canon Makernote] Unknown tag (0xc137) - 0
+[Canon Makernote] Unknown tag (0xc200) - 1
+[Canon Makernote] Unknown tag (0xc201) - 85
+[Canon Makernote] Unknown tag (0xc202) - 0
+[Canon Makernote] Unknown tag (0xc203) - 21286
+[Canon Makernote] Unknown tag (0x0003) - 0 0 0 0
+[Canon Makernote] Unknown tag (0xc400) - 68
+[Canon Makernote] Auto ISO - 0
+[Canon Makernote] Base ISO - 288
+[Canon Makernote] Measured EV - 16
+[Canon Makernote] Target Aperture - 128
+[Canon Makernote] Target Exposure Time - 180
+[Canon Makernote] Exposure Compensation - 65524
+[Canon Makernote] White Balance - 0
+[Canon Makernote] Slow Shutter - 3
+[Canon Makernote] Sequence Number - 0
+[Canon Makernote] Optical Zoom Code - 8
+[Canon Makernote] Unknown tag (0xc40b) - 8
+[Canon Makernote] Camera Temperature - 152
+[Canon Makernote] Flash Guide Number - 0
+[Canon Makernote] AF Points in Focus - 0
+[Canon Makernote] Flash Exposure Compensation - 0
+[Canon Makernote] Auto Exposure Bracketing - 0
+[Canon Makernote] AEB Bracket Value - 0
+[Canon Makernote] Control Mode - 1
+[Canon Makernote] Focus Distance Upper - 0
+[Canon Makernote] Focus Distance Lower - 0
+[Canon Makernote] F Number - 132
+[Canon Makernote] Exposure Time - 184
+[Canon Makernote] Measured EV 2 - 4
+[Canon Makernote] Bulb Duration - 0
+[Canon Makernote] Unknown tag (0xc419) - 0
+[Canon Makernote] Camera Type - 248
+[Canon Makernote] Auto Rotate - 0
+[Canon Makernote] ND Filter - 0
+[Canon Makernote] Self Timer 2 - 65535
+[Canon Makernote] Unknown tag (0xc41e) - 65535
+[Canon Makernote] Unknown tag (0xc41f) - 0
+[Canon Makernote] Unknown tag (0xc420) - 0
+[Canon Makernote] Flash Output - 0
+[Canon Makernote] Image Type - Canon EOS R3
+[Canon Makernote] Firmware Version - Firmware Version 1.1.1
+[Canon Makernote] Owner Name -
+[Canon Makernote] Canon Model ID - 2147484752
+[Canon Makernote] Thumbnail Image Valid Area - 0 159 6 113
+[Canon Makernote] Unknown tag (0x0019) - 1
+[Canon Makernote] AF Info Array 2 - [4419 values]
+[Canon Makernote] Image Unique ID - 246 145 249 240 73 156 74 23 169 1 119 11 217 93 32 140
+[Canon Makernote] Unknown tag (0x0032) - 44 1 5 4042887671 390765641 192348585 2350931417 0 0 0 0
+[Canon Makernote] Unknown tag (0x0033) - 2111804255 390749056 192348585 2350931417
+[Canon Makernote] Unknown tag (0x0035) - 16 600 4 0
+[Canon Makernote] Unknown tag (0x0038) - [76 values]
+[Canon Makernote] Unknown tag (0x003f) - 17
+[Canon Makernote] File Info Array - [84 values]
+[Canon Makernote] Lens Model - CN-E85mm T1.3 L F
+[Canon Makernote] Serial Info Array - HQ0025372
+[Canon Makernote] Dust Removal Data - [1024 values]
+[Canon Makernote] Crop Info - 0 0 0 0
+[Canon Makernote] Custom Functions Array 2 - [229 values]
+[Canon Makernote] Aspect Information Array - 0 6000 4000 0 0
+[Canon Makernote] Processing Information Array - [18 values]
+[Canon Makernote] Measured Color Array - 12 557 1024 1024 485 0
+[Canon Makernote] Color Space - 1
+[Canon Makernote] VRD Offset - 0
+[Canon Makernote] Sensor Information Array - [17 values]
+[Canon Makernote] Black Level - 129 129 129
+[Canon Makernote] Unknown tag (0x4009) - 0 0 0
+[Canon Makernote] Custom Picture Style File Name -
+[Canon Makernote] Unknown tag (0x4011) - [252 values]
+[Canon Makernote] Unknown tag (0x4012) -
+[Canon Makernote] Color Info Array - 44 0 0 10 4294967295 0 10 0 10 0 10
+[Canon Makernote] Vignetting Correction Array 2 - 40 0 1 0 1 0 0 0 1 0
+[Canon Makernote] Lighting Optimizer Array - 60 0 0 0 0 0 1 0 0 1 1 0 0 0 0
+[Canon Makernote] Lens Info Array - [30 values]
+[Canon Makernote] Ambiance Info Array - 32 0 0 0 2147483647 0 1 1
+[Canon Makernote] Unknown tag (0x4021) - 20 0 0 0 1
+[Canon Makernote] Unknown tag (0x4025) - 44 0 0 0 0 0 0 0 0 0 0
+[Canon Makernote] Unknown tag (0x4027) - 24 198149 1627389976 0 13684944 66304
+[Canon Makernote] Unknown tag (0x4028) - [27 values]
+[Canon Makernote] Unknown tag (0x402c) - 8 0
+[Canon Makernote] Unknown tag (0x4035) - [556 values]
+[Canon Makernote] Unknown tag (0x4037) - [24 values]
+[Canon Makernote] Unknown tag (0x4039) - 247 145 249 240 73 156 74 23 169 1 119 11 217 93 32 140
+[Canon Makernote] Unknown tag (0x403c) - 12 1 4294967295
+[Canon Makernote] Unknown tag (0x403f) - 12 0 0
+[Canon Makernote] Unknown tag (0x4040) - 40 0 0 0 0 0 0 0 0 0
+[Canon Makernote] Unknown tag (0x4049) - 8 0 0 0
+[Canon Makernote] Unknown tag (0x404b) - 65535 65535
+[Canon Makernote] Unknown tag (0x4054) - [128 values]
+[Canon Makernote] Unknown tag (0x4055) - 16 1 1 1 0 0 0 0
+
+[GPS] GPS Version ID - 2.300
+
+[QuickTime Movie Header] Version - 0
+[QuickTime Movie Header] Flags - 0 0 0
+[QuickTime Movie Header] Created - Thu Feb 09 00:10:27 2023
+[QuickTime Movie Header] Modified - Thu Feb 09 00:10:27 2023
+[QuickTime Movie Header] TrackId - 1
+[QuickTime Movie Header] Duration - 00:00:01
+[QuickTime Movie Header] Preferred Rate - 1
+[QuickTime Movie Header] Preferred Volume - 1
+[QuickTime Movie Header] Matrix - [36 values]
+[QuickTime Movie Header] Preview Time - 0
+[QuickTime Movie Header] Preview Duration - 0
+[QuickTime Movie Header] Poster Time - 0
+[QuickTime Movie Header] Selection Time - 0
+[QuickTime Movie Header] Selection Duration - 0
+[QuickTime Movie Header] Current Time - 0
+[QuickTime Movie Header] Next Track Id - 5
+[QuickTime Track Header] Version - 0
+[QuickTime Track Header] Flags - 0 0 7
+[QuickTime Track Header] Created - Thu Feb 09 00:10:27 2023
+[QuickTime Track Header] Modified - Thu Feb 09 00:10:27 2023
+[QuickTime Track Header] TrackId - 1
+[QuickTime Track Header] Duration - 1
+[QuickTime Track Header] Layer - 0
+[QuickTime Track Header] Alternate Group - 0
+[QuickTime Track Header] Volume - 0
+[QuickTime Track Header] Matrix - 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header] Width - 6000
+[QuickTime Track Header] Height - 4000
+[QuickTime Track Header] Rotation - 0
+[QuickTime Track Header] Version - 0
+[QuickTime Track Header] Flags - 0 0 7
+[QuickTime Track Header] Created - Thu Feb 09 00:10:27 2023
+[QuickTime Track Header] Modified - Thu Feb 09 00:10:27 2023
+[QuickTime Track Header] TrackId - 2
+[QuickTime Track Header] Duration - 1
+[QuickTime Track Header] Layer - 0
+[QuickTime Track Header] Alternate Group - 0
+[QuickTime Track Header] Volume - 0
+[QuickTime Track Header] Matrix - 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header] Width - 2004
+[QuickTime Track Header] Height - 1336
+[QuickTime Track Header] Rotation - 0
+[QuickTime Track Header] Version - 0
+[QuickTime Track Header] Flags - 0 0 7
+[QuickTime Track Header] Created - Thu Feb 09 00:10:27 2023
+[QuickTime Track Header] Modified - Thu Feb 09 00:10:27 2023
+[QuickTime Track Header] TrackId - 3
+[QuickTime Track Header] Duration - 1
+[QuickTime Track Header] Layer - 0
+[QuickTime Track Header] Alternate Group - 0
+[QuickTime Track Header] Volume - 0
+[QuickTime Track Header] Matrix - 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header] Width - 6000
+[QuickTime Track Header] Height - 4000
+[QuickTime Track Header] Rotation - 0
+[QuickTime Track Header] Version - 0
+[QuickTime Track Header] Flags - 0 0 7
+[QuickTime Track Header] Created - Thu Feb 09 00:10:27 2023
+[QuickTime Track Header] Modified - Thu Feb 09 00:10:27 2023
+[QuickTime Track Header] TrackId - 4
+[QuickTime Track Header] Duration - 1
+[QuickTime Track Header] Layer - 0
+[QuickTime Track Header] Alternate Group - 0
+[QuickTime Track Header] Volume - 0
+[QuickTime Track Header] Matrix - 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header] Width - 0
+[QuickTime Track Header] Height - 0
+
+[XMP] XMP Value Count - 1
+
+[File Type] Detected File Type Name - CRX
+[File Type] Detected File Type Long Name - Canon Camera Raw
+[File Type] Expected File Name Extension - cr3
+[File] File Name - 048A0131.CR3
+[File] File Size - 12277000 bytes
+[File] File Modified Date - Thu Feb 09 10:10:28 +11:00 2023
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
