@@ -1,0 +1,34 @@
+FILE: Issue 356 (dotnet).png
+TYPE: PNG
+
+[ERROR: XMP] Error processing XMP data: Unsupported Encoding
+
+[PNG-IHDR - 0x0001] Image Width = 1412
+[PNG-IHDR - 0x0002] Image Height = 2077
+[PNG-IHDR - 0x0003] Bits Per Sample = 8
+[PNG-IHDR - 0x0004] Color Type = True Color
+[PNG-IHDR - 0x0005] Compression Type = Deflate
+[PNG-IHDR - 0x0006] Filter Method = Adaptive
+[PNG-IHDR - 0x0007] Interlace Method = No Interlace
+
+[PNG-pHYs - 0x0010] Pixels Per Unit X = 23622
+[PNG-pHYs - 0x0011] Pixels Per Unit Y = 23622
+[PNG-pHYs - 0x0012] Unit Specifier = Metres
+
+[File Type - 0x0001] Detected File Type Name = PNG
+[File Type - 0x0002] Detected File Type Long Name = Portable Network Graphics
+[File Type - 0x0003] Detected MIME Type = image/png
+[File Type - 0x0004] Expected File Name Extension = png
+
+[File - 0x0001] File Name = Issue 356 (dotnet).png
+[File - 0x0002] File Size = 3461503 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- PNG-IHDR
+- XMP
+- PNG-pHYs
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
