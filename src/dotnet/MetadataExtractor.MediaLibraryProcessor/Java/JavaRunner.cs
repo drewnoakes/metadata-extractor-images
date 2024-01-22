@@ -16,7 +16,7 @@ internal static class JavaRunner
         await Task.Yield();
 
         var mavenRepo = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), @".m2\repository");
-        var xmpCoreLibraryPath = Path.Combine(mavenRepo, @"com\adobe\xmp\xmpcore\6.0.6\xmpcore-6.0.6.jar");
+        var xmpCoreLibraryPath = Path.Combine(mavenRepo, @"com\adobe\xmp\xmpcore\6.1.11\xmpcore-6.1.11.jar");
 
         var javaSrcRoot = Path.GetFullPath(Path.Combine(repoRoot, @"..\metadata-extractor\Output\maven\classes"));
 
@@ -39,6 +39,8 @@ internal static class JavaRunner
                         " ",
                         "-classpath", $"\"{xmpCoreLibraryPath}\";{javaSrcRoot}",
                         "-Dfile.encoding=UTF-8",
+                        "-Dsun.stdout.encoding=UTF-8",
+                        "-Dsun.stderr.encoding=UTF-8",
                         "com.drew.tools.ProcessAllImagesInFolderUtility",
                         "--text", $"\"{repoRoot}\""),
                     UseShellExecute = false,
