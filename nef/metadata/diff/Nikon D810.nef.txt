@@ -167,8 +167,8 @@ DOTNET [Nikon Makernote - 0x00b6] Power Up Time = 57095:03:06 22:31:59
        [Nikon Makernote - 0x00c0] Unknown tag (0x00c0) = 52 1 12 0 144 1 12 0
        
        [Nikon PictureControl 2 - 0x0000] Picture Control Version = 0200
-       [Nikon PictureControl 2 - 0x0004] Picture Control Name = NEUTRAL             
-       [Nikon PictureControl 2 - 0x0018] Picture Control Base = NEUTRAL             
+       [Nikon PictureControl 2 - 0x0004] Picture Control Name = NEUTRAL
+       [Nikon PictureControl 2 - 0x0018] Picture Control Base = NEUTRAL
        [Nikon PictureControl 2 - 0x0030] Picture Control Adjust = Default Settings
 JAVA   [Nikon PictureControl 2 - 0x0031] Picture Control Quick Adjust = -1
 JAVA   [Nikon PictureControl 2 - 0x0033] Sharpness = -120

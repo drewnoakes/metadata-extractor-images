@@ -138,8 +138,8 @@ DOTNET [Nikon Makernote - 0x00b6] Power Up Time = 0:00:00 00:00:00
        [Nikon Makernote - 0x00b9] AF Tune = 0 255 0 0
        
        [Nikon PictureControl 1 - 0x0000] Picture Control Version = 0100
-       [Nikon PictureControl 1 - 0x0004] Picture Control Name = STANDARD            
-       [Nikon PictureControl 1 - 0x0018] Picture Control Base = STANDARD            
+       [Nikon PictureControl 1 - 0x0004] Picture Control Name = STANDARD
+       [Nikon PictureControl 1 - 0x0018] Picture Control Base = STANDARD
        [Nikon PictureControl 1 - 0x0030] Picture Control Adjust = Default Settings
        [Nikon PictureControl 1 - 0x0031] Picture Control Quick Adjust = 128
        [Nikon PictureControl 1 - 0x0032] Sharpness = 131
