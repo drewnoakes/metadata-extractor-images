@@ -45,7 +45,7 @@ TYPE: JPEG
 [ICC Profile - 0x646d6464] Device Model Description = 1 enUS(sRGB)
 
 [IPTC - 0x015a] Coded Character Set = ISO-8859-1
-[IPTC - 0x0100] Enveloped Record Version = 4
+[IPTC - 0x0100] Envelope Record Version = 4
 [IPTC - 0x0269] Headline = l'Affiche présentait étaient
 [IPTC - 0x0200] Application Record Version = 4
 
