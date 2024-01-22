@@ -20,13 +20,12 @@ TYPE: TIFF
 [Exif IFD0 - 0x013d] Predictor = 2
 [Exif IFD0 - 0x0152] Extra Samples = Unspecified
 
-[XMP - 0xffff] XMP Value Count = 40
+[XMP - 0xffff] XMP Value Count = 39
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 8/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 20/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureProgram = 1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2004-04-26T13:55:57+02:00
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2004-04-26T13:55:57+02:00
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = -196608/65536
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 565248/65536
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0/1

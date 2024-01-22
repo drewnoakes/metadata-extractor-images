@@ -45,7 +45,7 @@ TYPE: JPEG
 [Exif Thumbnail - 0x0201] Thumbnail Offset = 660 bytes
 [Exif Thumbnail - 0x0202] Thumbnail Length = 5815 bytes
 
-[XMP - 0xffff] XMP Value Count = 115
+[XMP - 0xffff] XMP Value Count = 114
 
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:AlreadyApplied = True
 [XMPMeta - http://ns.adobe.com/camera-raw-settings/1.0/] crs:BlueHue = 0
@@ -124,7 +124,6 @@ TYPE: JPEG
 [XMPMeta - ] crs:ToneCurve[1] = 0, 0
 [XMPMeta - ] crs:ToneCurve[2] = 255, 255
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 2275007/1000000
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2012-06-09T21:23:38+01:00
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2012-06-09T21:23:38+01:00
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0220
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/1000

@@ -24,13 +24,12 @@ TYPE: TIFF
 [Exif IFD0 - 0x013b] Artist = Studio Mantyniemi
 [Exif IFD0 - 0x013d] Predictor = 2
 
-[XMP - 0xffff] XMP Value Count = 37
+[XMP - 0xffff] XMP Value Count = 36
 
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/60
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 18/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0220
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2003-11-25T16:05:53+02:00
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2003-11-25T16:05:53+02:00
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ShutterSpeedValue = 393216/65536
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 548864/65536
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0/1

@@ -23,7 +23,7 @@ TYPE: ARW
 [Exif IFD0 - 0x013b] Artist = Eric Piasecki Photography LLC
 [Exif IFD0 - 0x8298] Copyright = © 2010 Eric Piasecki
 
-[XMP - 0xffff] XMP Value Count = 209
+[XMP - 0xffff] XMP Value Count = 208
 
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2010-01-01
 [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Country = USA
@@ -35,7 +35,6 @@ TYPE: ARW
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ColorSpace = 1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0230
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2010-09-30T16:06:06-07:00
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2010-09-30T16:06:06-07:00
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/6
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureProgram = 1
 [XMPMeta - ] exif:ISOSpeedRatings[1] = 100

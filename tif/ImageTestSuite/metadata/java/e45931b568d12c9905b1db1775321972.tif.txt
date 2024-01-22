@@ -21,7 +21,7 @@ TYPE: ARW
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop CS2 Windows
 [Exif IFD0 - 0x0132] Date/Time = 2007:06:13 13:42:54
 
-[XMP - 0xffff] XMP Value Count = 49
+[XMP - 0xffff] XMP Value Count = 48
 
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = uuid:2F317654AB19DC119E42B2B60E1ED505
 [XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = uuid:30317654AB19DC119E42B2B60E1ED505
@@ -46,7 +46,6 @@ TYPE: ARW
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelXDimension = 2362
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:PixelYDimension = 1574
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2007-05-10T00:50:33+01:00
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2007-05-10T00:50:33+01:00
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 3/1
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 22/1
 [XMPMeta - ] exif:ISOSpeedRatings[1] = 100

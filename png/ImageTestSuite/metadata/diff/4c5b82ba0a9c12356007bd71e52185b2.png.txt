@@ -17,7 +17,6 @@ DOTNET [ERROR: Error] Exception reading PNG chunk: Index was outside the bounds 
        [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureTime = 1/180
        [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:FNumber = 56/10
        [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2003-06-23T11:32:37+00:00
-JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2003-06-23T11:32:37+00:00
        [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureBiasValue = 0/2
        [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MaxApertureValue = 262144/65536
        [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:MeteringMode = 5
@@ -29,7 +28,7 @@ JAVA   [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2003-0
        [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExposureMode = 0
        [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:WhiteBalance = 0
        [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:SceneCaptureType = 0
-DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2003-06-23T11:32:37+00:00
+       [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2003-06-23T11:32:37+00:00
        
        [PNG-pHYs - 0x0010] Pixels Per Unit X = 7087
        [PNG-pHYs - 0x0011] Pixels Per Unit Y = 7087

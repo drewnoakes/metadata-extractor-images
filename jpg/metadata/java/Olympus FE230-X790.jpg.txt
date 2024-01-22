@@ -138,7 +138,6 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ApertureValue = 4403268/1000000
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:Contrast = 0
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:CustomRendered = 0
-[XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeDigitized = 2008-12-07T10:28:52-08:00
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DateTimeOriginal = 2008-12-07T10:28:52-08:00
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:DigitalZoomRatio = 0/100
 [XMPMeta - http://ns.adobe.com/exif/1.0/] exif:ExifVersion = 0221
@@ -184,6 +183,7 @@ TYPE: JPEG
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2008-12-09T20:44:33.249-08:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2008-12-09T21:03:56-08:00
 [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 3
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2008-12-07T10:28:52-08:00
 [XMPMeta - ] dc:description[1] = OLYMPUS DIGITAL CAMERA
 [XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
 [XMPMeta - ] dc:subject[1] = 2008
