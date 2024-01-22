@@ -174,7 +174,7 @@
        [Sony Makernote - 0xb046] Unknown tag (0xb046) = 0
        [Sony Makernote - 0xb048] Flash Level = Normal
        [Sony Makernote - 0xb049] Release Mode = Continuous
-       [Sony Makernote - 0xb04a] Sequence Number = 2
+       [Sony Makernote - 0xb04a] Sequence Number = 1
        [Sony Makernote - 0xb04b] Anti Blur = On (Shooting)
        [Sony Makernote - 0xb04c] Unknown tag (0xb04c) = 1
        [Sony Makernote - 0xb04d] Unknown tag (0xb04d) = 0
