@@ -27,7 +27,7 @@ JAVA   [Exif IFD0 - 0x87b1] Unknown tag (0x87b1) = UTM Zone 14 N with NAD27|
 DOTNET [Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 682527.059 3168367.518 0
 DOTNET 
 DOTNET [GeoTIFF - 0x0400] Model Type = Projected
-DOTNET [GeoTIFF - 0x0401] Raster Type = Projected
+DOTNET [GeoTIFF - 0x0401] Raster Type = PixelIsArea
 DOTNET [GeoTIFF - 0x0c00] Projected Coordinate System Type = NAD27 UTM zone 14N
 DOTNET [GeoTIFF - 0x0c01] Projected Coordinate System Citation = UTM Zone 14 N with NAD27
        

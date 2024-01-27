@@ -24,7 +24,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 682527.059 3168367.518 0
 
 [GeoTIFF - 0x0400] Model Type = Projected
-[GeoTIFF - 0x0401] Raster Type = Projected
+[GeoTIFF - 0x0401] Raster Type = PixelIsArea
 [GeoTIFF - 0x0c00] Projected Coordinate System Type = NAD27 UTM zone 14N
 [GeoTIFF - 0x0c01] Projected Coordinate System Citation = UTM Zone 14 N with NAD27
 

@@ -26,7 +26,7 @@ DOTNET [Exif IFD0 - 0x830e] Pixel Scale = 100.105 100.49 0
 DOTNET [Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 589980 4928040 0
 DOTNET 
 DOTNET [GeoTIFF - 0x0400] Model Type = Projected
-DOTNET [GeoTIFF - 0x0401] Raster Type = Projected
+DOTNET [GeoTIFF - 0x0401] Raster Type = PixelIsArea
 DOTNET [GeoTIFF - 0x0402] Citation = ETRS89 / Poland CS92
 DOTNET [GeoTIFF - 0x0801] Geographic Citation = ETRS89
 DOTNET [GeoTIFF - 0x0806] Geographic Angular Units = Angular Degree

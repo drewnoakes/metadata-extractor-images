@@ -22,7 +22,7 @@ TYPE: ARW
 [Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 589980 4928040 0
 
 [GeoTIFF - 0x0400] Model Type = Projected
-[GeoTIFF - 0x0401] Raster Type = Projected
+[GeoTIFF - 0x0401] Raster Type = PixelIsArea
 [GeoTIFF - 0x0402] Citation = ETRS89 / Poland CS92
 [GeoTIFF - 0x0801] Geographic Citation = ETRS89
 [GeoTIFF - 0x0806] Geographic Angular Units = Angular Degree
