@@ -1,0 +1,94 @@
+FILE: OM Sytem OM-1.orf
+TYPE: ORF
+
+[ERROR: Olympus Makernote] Invalid TIFF tag format code 256 for tag 0x0008
+[ERROR: Olympus Makernote] Invalid TIFF tag format code 512 for tag 0x0000
+[ERROR: Olympus Makernote] Invalid TIFF tag format code 521 for tag 0x0000
+[ERROR: Olympus Makernote] Invalid TIFF tag format code 8208 for tag 0x0000
+
+[Exif IFD0 - 0x0100] Image Width = 5220 pixels
+[Exif IFD0 - 0x0101] Image Height = 3912 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 16 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
+[Exif IFD0 - 0x010e] Image Description = 
+[Exif IFD0 - 0x010f] Make = OM Digital Solutions   
+[Exif IFD0 - 0x0110] Model = OM-1            
+[Exif IFD0 - 0x0111] Strip Offsets = 1817600
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 3912 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 19175181 bytes
+[Exif IFD0 - 0x011a] X Resolution = 350 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 350 dots per inch
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = Version 1.4                    
+[Exif IFD0 - 0x0132] Date/Time = 0000:00:00 00:00:00
+[Exif IFD0 - 0x013b] Artist = Andrew Forget                                                  
+[Exif IFD0 - 0x4746] Rating = 0
+[Exif IFD0 - 0x8298] Copyright = Copyright 2023 AndyDragon Photography                          
+
+[XMP - 0xffff] XMP Value Count = 1
+
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:Rating = 0
+
+[Exif SubIFD - 0x829a] Exposure Time = 1/1250 sec
+[Exif SubIFD - 0x829d] F-Number = f/6.3
+[Exif SubIFD - 0x8822] Exposure Program = Manual control
+[Exif SubIFD - 0x8827] ISO Speed Ratings = 2000
+[Exif SubIFD - 0x8830] Sensitivity Type = Standard Output Sensitivity
+[Exif SubIFD - 0x8831] Standard Output Sensitivity = 2000
+[Exif SubIFD - 0x9000] Exif Version = 2.31
+[Exif SubIFD - 0x9003] Date/Time Original = 0000:00:00 00:00:00
+[Exif SubIFD - 0x9004] Date/Time Digitized = 0000:00:00 00:00:00
+[Exif SubIFD - 0x9010] Time Zone = -05:00
+[Exif SubIFD - 0x9011] Time Zone Original = -05:00
+[Exif SubIFD - 0x9012] Time Zone Digitized = -05:00
+[Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
+[Exif SubIFD - 0x9205] Max Aperture Value = f/5.0
+[Exif SubIFD - 0x9207] Metering Mode = Multi-segment
+[Exif SubIFD - 0x9208] White Balance = Unknown
+[Exif SubIFD - 0x9209] Flash = Flash did not fire
+[Exif SubIFD - 0x920a] Focal Length = 400 mm
+[Exif SubIFD - 0x9286] User Comment = 
+[Exif SubIFD - 0x9400] Temperature = 0.0 °C
+[Exif SubIFD - 0x9402] Pressure = Unknown
+[Exif SubIFD - 0x9403] Water Depth = 0.0 metres
+[Exif SubIFD - 0x9404] Acceleration = Unknown
+[Exif SubIFD - 0xa000] FlashPix Version = 1.00
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa300] File Source = Digital Still Camera (DSC)
+[Exif SubIFD - 0xa302] CFA Pattern = [Red,Green][Green,Blue]
+[Exif SubIFD - 0xa401] Custom Rendered = Normal process
+[Exif SubIFD - 0xa402] Exposure Mode = Manual exposure
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
+[Exif SubIFD - 0xa407] Gain Control = Low gain down
+[Exif SubIFD - 0xa408] Contrast = None
+[Exif SubIFD - 0xa409] Saturation = None
+[Exif SubIFD - 0xa40a] Sharpness = None
+[Exif SubIFD - 0xa432] Lens Specification = 100-400mm f/5.0-6.3
+[Exif SubIFD - 0xa434] Lens Model = OLYMPUS M.100-400mm F5.0-6.3
+
+[GPS - 0x0000] GPS Version ID = 2.300
+
+[File Type - 0x0001] Detected File Type Name = ORF
+[File Type - 0x0002] Detected File Type Long Name = Olympus Camera Raw
+[File Type - 0x0004] Expected File Name Extension = orf
+
+[File - 0x0001] File Name = OM Sytem OM-1.orf
+[File - 0x0002] File Size = 20992781 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - XMP
+    - Exif SubIFD
+        - Olympus Makernote
+    - GPS
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
