@@ -131,7 +131,7 @@ internal class MarkdownTableOutputHandler : FileHandlerBase
                 var urlEncodedFileName = Uri.EscapeDataString(fileName).Replace("%20", "+");
 
                 writer.WriteLine(
-                    "[{0}](https://raw.githubusercontent.com/drewnoakes/metadata-extractor-images/master/{1}/{2})|{3}|{4}|{5}|{6}|{7}|{8}|[metadata](https://raw.githubusercontent.com/drewnoakes/metadata-extractor-images/master/{9}/metadata/{10}.txt)",
+                    "[{0}](https://raw.githubusercontent.com/drewnoakes/metadata-extractor-images/main/{1}/{2})|{3}|{4}|{5}|{6}|{7}|{8}|[metadata](https://raw.githubusercontent.com/drewnoakes/metadata-extractor-images/main/{9}/metadata/{10}.txt)",
                     fileName,
                     row.RelativePath,
                     urlEncodedFileName,
