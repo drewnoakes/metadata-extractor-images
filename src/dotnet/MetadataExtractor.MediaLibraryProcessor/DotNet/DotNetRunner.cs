@@ -23,6 +23,8 @@ internal static class DotNetRunner
         // Get onto a worker thread
         await Task.Yield();
 
+        await Console.Out.WriteLineAsync(".NET starting...");
+
         var handlers = new IFileHandler[]
         {
 //            new BasicFileHandler(),

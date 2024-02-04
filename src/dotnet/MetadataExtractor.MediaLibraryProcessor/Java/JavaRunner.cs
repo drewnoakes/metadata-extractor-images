@@ -15,6 +15,8 @@ internal static class JavaRunner
         // Get onto a worker thread
         await Task.Yield();
 
+        await Console.Out.WriteLineAsync("Java starting...");
+
         var mavenRepo = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), @".m2\repository");
         var xmpCoreLibraryPath = Path.Combine(mavenRepo, @"com\adobe\xmp\xmpcore\6.1.11\xmpcore-6.1.11.jar");
 

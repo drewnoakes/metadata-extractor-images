@@ -4,22 +4,24 @@ using MetadataExtractor.MediaLibraryProcessor;
 
 using System;
 using System.IO;
-using System.Threading.Tasks;
 
 // TODO support building libraries from source too
 
 // TODO more robust way of finding repo root path
 string repoRoot = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, """..\..\..\..\..\.."""));
 
-// Update all .NET and Java metadata files
-await Console.Out.WriteLineAsync("Generating metadata files for both Java and .NET implementations...");
+// Update .NET and Java metadata files
+await Console.Out.WriteLineAsync("Updating metadata files...");
 
-await Task.WhenAll(
-    DotNetRunner.RunAsync(repoRoot),
-    JavaRunner.RunAsync(repoRoot));
+//await Task.WhenAll(
+//    DotNetRunner.RunAsync(repoRoot),
+//    JavaRunner.RunAsync(repoRoot));
+
+await DotNetRunner.RunAsync(repoRoot);
+await JavaRunner.RunAsync(repoRoot);
 
 // Update comparisons between .NET and Java outputs
-await Console.Out.WriteLineAsync("Generating metadata diff files...");
+await Console.Out.WriteLineAsync("Updating diff files...");
 
 await DiffRunner.RunAsync(repoRoot);
 
