@@ -6,6 +6,10 @@ using System;
 using System.IO;
 using System.Threading.Tasks;
 
+#if NET8_0_OR_GREATER
+System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
+#endif
+
 // TODO support building libraries from source too
 
 // TODO more robust way of finding repo root path
