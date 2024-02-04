@@ -1,22 +1,42 @@
 FILE: 32Bit-72dpi-sRGB-800x600.avif
-TYPE: QUICKTIME
+TYPE: AVIF
 
-[ERROR: QuickTime] End of data reached.
+[HEIF - 0x0001] Major Brand = avif
+[HEIF - 0x0002] Minor Version = 0
+[HEIF - 0x0003] Compatible Brands = avif mif1 miaf
 
-[QuickTime - 0x1000] Major Brand = Unknown
-[QuickTime - 0x1001] Minor Version = 0
-[QuickTime - 0x1002] Compatible Brands = [Unknown, Unknown, Unknown]
+[HEIF - 0x0004] Width = 400 pixels
+[HEIF - 0x0005] Height = 300 pixels
+[HEIF - 0x0007] Bits Per Channel = 8 8 8
 
-[File Type - 0x0001] Detected File Type Name = MOV
-[File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
-[File Type - 0x0003] Detected MIME Type = video/quicktime
-[File Type - 0x0004] Expected File Name Extension = mov
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 96 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 96 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = paint.net 5.0.11
+
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 800 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 600 pixels
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[File Type - 0x0001] Detected File Type Name = AVIF
+[File Type - 0x0002] Detected File Type Long Name = AV1 Image File Format
+[File Type - 0x0003] Detected MIME Type = image/avif
+[File Type - 0x0004] Expected File Name Extension = avif
 
 [File - 0x0001] File Name = 32Bit-72dpi-sRGB-800x600.avif
 [File - 0x0002] File Size = 880 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
-- QuickTime
+- HEIF
+- HEIF
+- Exif IFD0
+    - Exif SubIFD
+        - Interoperability
 - File Type
 - File
 
