@@ -1,20 +1,46 @@
 FILE: 32Bit-72dpi-sRGB-800x600.avif
-TYPE: QUICKTIME
+TYPE: AVIF
 
 [QuickTime File Type - 0x0001] Major Brand = avif
-[QuickTime File Type - 0x0002] Minor Version = 0
 [QuickTime File Type - 0x0003] Compatible Brands = avif, mif1, miaf
 
-[File Type - 0x0001] Detected File Type Name = QuickTime
-[File Type - 0x0002] Detected File Type Long Name = QuickTime
-[File Type - 0x0003] Detected MIME Type = video/quicktime
-[File Type - 0x0004] Expected File Name Extension = mov
+[HEIC Primary Item Properties - 0x0001] Image Width = 800
+[HEIC Primary Item Properties - 0x0002] Image Height = 600
+[HEIC Primary Item Properties - 0x0004] Pixel Depth in Bits = 8 8 8
+[HEIC Primary Item Properties - 0x0018] Color Data Format = nclx
+[HEIC Primary Item Properties - 0x0014] Primary Color Definitions = G(0.3, 0.6) B(0.15, 0.06) R(0.64, 0.33) W(.3127, .329)
+[HEIC Primary Item Properties - 0x0015] Optical Color Transfer Characteristic = vV - 1.055 * vLc^(1/2.4) - 0.055 for 1 >= vLc >= 0.031308 or vV = 12.92 * vLc otherwise.
+[HEIC Primary Item Properties - 0x0016] Color Deviation Matrix Characteristics = vKr = 0.2126 vKb = 0.0722
+[HEIC Primary Item Properties - 0x0017] Full-Range Color = true
+
+[Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+[Exif IFD0 - 0x011a] X Resolution = 96 dots per inch
+[Exif IFD0 - 0x011b] Y Resolution = 96 dots per inch
+[Exif IFD0 - 0x0128] Resolution Unit = Inch
+[Exif IFD0 - 0x0131] Software = paint.net 5.0.11
+
+[Exif SubIFD - 0x9000] Exif Version = 2.30
+[Exif SubIFD - 0xa001] Color Space = sRGB
+[Exif SubIFD - 0xa002] Exif Image Width = 800 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 600 pixels
+
+[Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability - 0x0002] Interoperability Version = 1.00
+
+[File Type - 0x0001] Detected File Type Name = AVIF
+[File Type - 0x0002] Detected File Type Long Name = AV1 Image File Format
+[File Type - 0x0003] Detected MIME Type = image/avif
+[File Type - 0x0004] Expected File Name Extension = avif
 
 [File - 0x0001] File Name = 32Bit-72dpi-sRGB-800x600.avif
 [File - 0x0002] File Size = 880 bytes
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - QuickTime File Type
+- HEIC Primary Item Properties
+- Exif IFD0
+    - Exif SubIFD
+        - Interoperability
 - File Type
 - File
 

@@ -1,51 +1,54 @@
        FILE: 32Bit-72dpi-sRGB-800x600.avif
-JAVA   TYPE: AVIF
-DOTNET TYPE: QUICKTIME
+       TYPE: AVIF
        
 JAVA   [HEIF - 0x0001] Major Brand = avif
 JAVA   [HEIF - 0x0002] Minor Version = 0
-JAVA   [HEIF - 0x0003] Compatible Brands = avif mif1 miaf
 DOTNET [QuickTime File Type - 0x0001] Major Brand = avif
-DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
 DOTNET [QuickTime File Type - 0x0003] Compatible Brands = avif, mif1, miaf
+JAVA   [HEIF - 0x0003] Compatible Brands = avif mif1 miaf
        
 JAVA   [HEIF - 0x0004] Width = 400 pixels
 JAVA   [HEIF - 0x0005] Height = 300 pixels
 JAVA   [HEIF - 0x0007] Bits Per Channel = 8 8 8
-JAVA   
-DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
-DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
-DOTNET [File Type - 0x0003] Detected MIME Type = video/quicktime
-DOTNET [File Type - 0x0004] Expected File Name Extension = mov
-JAVA   [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-JAVA   [Exif IFD0 - 0x011a] X Resolution = 96 dots per inch
-JAVA   [Exif IFD0 - 0x011b] Y Resolution = 96 dots per inch
-JAVA   [Exif IFD0 - 0x0128] Resolution Unit = Inch
-JAVA   [Exif IFD0 - 0x0131] Software = paint.net 5.0.11
+DOTNET [HEIC Primary Item Properties - 0x0001] Image Width = 800
+DOTNET [HEIC Primary Item Properties - 0x0002] Image Height = 600
+DOTNET [HEIC Primary Item Properties - 0x0004] Pixel Depth in Bits = 8 8 8
+DOTNET [HEIC Primary Item Properties - 0x0018] Color Data Format = nclx
+DOTNET [HEIC Primary Item Properties - 0x0014] Primary Color Definitions = G(0.3, 0.6) B(0.15, 0.06) R(0.64, 0.33) W(.3127, .329)
+DOTNET [HEIC Primary Item Properties - 0x0015] Optical Color Transfer Characteristic = vV - 1.055 * vLc^(1/2.4) - 0.055 for 1 >= vLc >= 0.031308 or vV = 12.92 * vLc otherwise.
+DOTNET [HEIC Primary Item Properties - 0x0016] Color Deviation Matrix Characteristics = vKr = 0.2126 vKb = 0.0722
+DOTNET [HEIC Primary Item Properties - 0x0017] Full-Range Color = true
        
-JAVA   [Exif SubIFD - 0x9000] Exif Version = 2.30
-JAVA   [Exif SubIFD - 0xa001] Color Space = sRGB
-JAVA   [Exif SubIFD - 0xa002] Exif Image Width = 800 pixels
-JAVA   [Exif SubIFD - 0xa003] Exif Image Height = 600 pixels
-JAVA   
-JAVA   [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
-JAVA   [Interoperability - 0x0002] Interoperability Version = 1.00
-JAVA   
-JAVA   [File Type - 0x0001] Detected File Type Name = AVIF
-JAVA   [File Type - 0x0002] Detected File Type Long Name = AV1 Image File Format
-JAVA   [File Type - 0x0003] Detected MIME Type = image/avif
-JAVA   [File Type - 0x0004] Expected File Name Extension = avif
-JAVA   
+       [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
+       [Exif IFD0 - 0x011a] X Resolution = 96 dots per inch
+       [Exif IFD0 - 0x011b] Y Resolution = 96 dots per inch
+       [Exif IFD0 - 0x0128] Resolution Unit = Inch
+       [Exif IFD0 - 0x0131] Software = paint.net 5.0.11
+       
+       [Exif SubIFD - 0x9000] Exif Version = 2.30
+       [Exif SubIFD - 0xa001] Color Space = sRGB
+       [Exif SubIFD - 0xa002] Exif Image Width = 800 pixels
+       [Exif SubIFD - 0xa003] Exif Image Height = 600 pixels
+       
+       [Interoperability - 0x0001] Interoperability Index = Recommended Exif Interoperability Rules (ExifR98)
+       [Interoperability - 0x0002] Interoperability Version = 1.00
+       
+       [File Type - 0x0001] Detected File Type Name = AVIF
+       [File Type - 0x0002] Detected File Type Long Name = AV1 Image File Format
+       [File Type - 0x0003] Detected MIME Type = image/avif
+       [File Type - 0x0004] Expected File Name Extension = avif
+       
        [File - 0x0001] File Name = 32Bit-72dpi-sRGB-800x600.avif
        [File - 0x0002] File Size = 880 bytes
        [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
        
 JAVA   - HEIF
-DOTNET - QuickTime File Type
 JAVA   - HEIF
-JAVA   - Exif IFD0
-JAVA       - Exif SubIFD
-JAVA           - Interoperability
+DOTNET - QuickTime File Type
+DOTNET - HEIC Primary Item Properties
+       - Exif IFD0
+           - Exif SubIFD
+               - Interoperability
        - File Type
        - File
        
