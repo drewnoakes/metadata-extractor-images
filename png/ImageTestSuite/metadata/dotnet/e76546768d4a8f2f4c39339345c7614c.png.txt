@@ -1,8 +1,6 @@
 FILE: e76546768d4a8f2f4c39339345c7614c.png
 TYPE: PNG
 
-[ERROR: Error] Exception reading PNG chunk: End of data reached.
-
 [PNG-IHDR - 0x0001] Image Width = 32
 [PNG-IHDR - 0x0002] Image Height = 32
 [PNG-IHDR - 0x0003] Bits Per Sample = 8
@@ -27,7 +25,6 @@ TYPE: PNG
 - PNG-IHDR
 - PNG-gAMA
 - PNG-sBIT
-- Error
 - File Type
 - File
 
