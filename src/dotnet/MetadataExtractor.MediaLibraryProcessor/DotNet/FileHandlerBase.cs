@@ -17,6 +17,7 @@ internal abstract class FileHandlerBase : IFileHandler
         ".ai",
         ".arw",
         ".avi",
+        ".avif",
         ".bmp",
         ".cam",
         ".cr2",

@@ -1,0 +1,22 @@
+FILE: Issue 649.avif
+TYPE: QUICKTIME
+
+[QuickTime File Type - 0x0001] Major Brand = avif
+[QuickTime File Type - 0x0002] Minor Version = 0
+[QuickTime File Type - 0x0003] Compatible Brands = avif, mif1, miaf
+
+[File Type - 0x0001] Detected File Type Name = QuickTime
+[File Type - 0x0002] Detected File Type Long Name = QuickTime
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = Issue 649.avif
+[File - 0x0002] File Size = 276794 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime File Type
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

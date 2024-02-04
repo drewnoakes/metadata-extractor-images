@@ -1,0 +1,31 @@
+       FILE: 32Bit-72dpi-sRGB-800x600.avif
+       TYPE: QUICKTIME
+       
+JAVA   [ERROR: QuickTime] End of data reached.
+DOTNET [QuickTime File Type - 0x0001] Major Brand = avif
+DOTNET [QuickTime File Type - 0x0002] Minor Version = 0
+DOTNET [QuickTime File Type - 0x0003] Compatible Brands = avif, mif1, miaf
+       
+JAVA   [QuickTime - 0x1000] Major Brand = Unknown
+JAVA   [QuickTime - 0x1001] Minor Version = 0
+DOTNET [File Type - 0x0001] Detected File Type Name = QuickTime
+DOTNET [File Type - 0x0002] Detected File Type Long Name = QuickTime
+JAVA   [QuickTime - 0x1002] Compatible Brands = [Unknown, Unknown, Unknown]
+JAVA   
+JAVA   [File Type - 0x0001] Detected File Type Name = MOV
+JAVA   [File Type - 0x0002] Detected File Type Long Name = QuickTime Movie
+       [File Type - 0x0003] Detected MIME Type = video/quicktime
+       [File Type - 0x0004] Expected File Name Extension = mov
+       
+       [File - 0x0001] File Name = 32Bit-72dpi-sRGB-800x600.avif
+       [File - 0x0002] File Size = 880 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+JAVA   - QuickTime
+DOTNET - QuickTime File Type
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       
