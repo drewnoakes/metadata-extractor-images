@@ -57,18 +57,18 @@ TYPE: JPEG
 [Exif SubIFD - 0xa433] Lens Make = Apple
 [Exif SubIFD - 0xa434] Lens Model = iPhone 6 Plus back camera 4.15mm f/2.2
 
-[Apple Makernote - 0x0001] Unknown tag (0x0001) = 2
-[Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-[Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
-[Apple Makernote - 0x0005] Unknown tag (0x0005) = 174
-[Apple Makernote - 0x0006] Unknown tag (0x0006) = 172
-[Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+[Apple Makernote - 0x0001] Makernote Version = 2
+[Apple Makernote - 0x0002] AE Matrix = [558 values]
+[Apple Makernote - 0x0004] AE Stable = Yes
+[Apple Makernote - 0x0005] AE Target = 174
+[Apple Makernote - 0x0006] AE Average = 172
+[Apple Makernote - 0x0007] AF Stable = Yes
 [Apple Makernote - 0x0008] Acceleration Vector = 0.20g right, 0.03g up, 0.97g backward
 [Apple Makernote - 0x0009] Unknown tag (0x0009) = 531
-[Apple Makernote - 0x000c] Unknown tag (0x000c) = 39/128 99/256
+[Apple Makernote - 0x000c] Focus Distance Range = 39/128 99/256
 [Apple Makernote - 0x000d] Unknown tag (0x000d) = 3
 [Apple Makernote - 0x000e] Unknown tag (0x000e) = 0
-[Apple Makernote - 0x000f] Unknown tag (0x000f) = 2
+[Apple Makernote - 0x000f] OIS Mode = 2
 [Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
 
 [Apple Run Time - 0x0001] Flags = Valid

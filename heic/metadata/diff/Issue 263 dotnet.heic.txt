@@ -122,28 +122,42 @@ DOTNET [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
        [Exif SubIFD - 0xa433] Lens Make = Apple
        [Exif SubIFD - 0xa434] Lens Model = iPhone XR back camera 4.25mm f/1.8
        
-       [Apple Makernote - 0x0001] Unknown tag (0x0001) = 10
-       [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-       [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
-       [Apple Makernote - 0x0005] Unknown tag (0x0005) = 173
-       [Apple Makernote - 0x0006] Unknown tag (0x0006) = 167
-       [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+JAVA   [Apple Makernote - 0x0001] Unknown tag (0x0001) = 10
+JAVA   [Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
+JAVA   [Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
+JAVA   [Apple Makernote - 0x0005] Unknown tag (0x0005) = 173
+JAVA   [Apple Makernote - 0x0006] Unknown tag (0x0006) = 167
+JAVA   [Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+DOTNET [Apple Makernote - 0x0001] Makernote Version = 10
+DOTNET [Apple Makernote - 0x0002] AE Matrix = [558 values]
+DOTNET [Apple Makernote - 0x0004] AE Stable = Yes
+DOTNET [Apple Makernote - 0x0005] AE Target = 173
+DOTNET [Apple Makernote - 0x0006] AE Average = 167
+DOTNET [Apple Makernote - 0x0007] AF Stable = Yes
        [Apple Makernote - 0x0008] Acceleration Vector = 0.02g right, 1.01g up, 0.07g backward
-       [Apple Makernote - 0x000c] Unknown tag (0x000c) = 5385/128 501/32
+JAVA   [Apple Makernote - 0x000c] Unknown tag (0x000c) = 5385/128 501/32
+DOTNET [Apple Makernote - 0x000c] Focus Distance Range = 5385/128 501/32
        [Apple Makernote - 0x000d] Unknown tag (0x000d) = 51
        [Apple Makernote - 0x000e] Unknown tag (0x000e) = 4
        [Apple Makernote - 0x0010] Unknown tag (0x0010) = 1
        [Apple Makernote - 0x0011] Content Identifier = 0FD24349-014A-423D-AE8D-35FCE43A24E7
-       [Apple Makernote - 0x0014] Unknown tag (0x0014) = 10
+JAVA   [Apple Makernote - 0x0014] Unknown tag (0x0014) = 10
+DOTNET [Apple Makernote - 0x0014] Image Capture Type = Photo
        [Apple Makernote - 0x0017] Live Photo ID = 13639680
-       [Apple Makernote - 0x0019] Unknown tag (0x0019) = 2
-       [Apple Makernote - 0x001a] Unknown tag (0x001a) = q825s
+JAVA   [Apple Makernote - 0x0019] Unknown tag (0x0019) = 2
+JAVA   [Apple Makernote - 0x001a] Unknown tag (0x001a) = q825s
+DOTNET [Apple Makernote - 0x0019] Image Processing Flags = 2
+DOTNET [Apple Makernote - 0x001a] Quality Hint = q825s
        [Apple Makernote - 0x001f] Unknown tag (0x001f) = 0
-       [Apple Makernote - 0x0021] Unknown tag (0x0021) = 63809/37837
+JAVA   [Apple Makernote - 0x0021] Unknown tag (0x0021) = 63809/37837
+DOTNET [Apple Makernote - 0x0021] HDR Headroom = 63809/37837
        [Apple Makernote - 0x0023] Unknown tag (0x0023) = 4374639 268435755
-       [Apple Makernote - 0x0025] Unknown tag (0x0025) = 398
-       [Apple Makernote - 0x0026] Unknown tag (0x0026) = 3
-       [Apple Makernote - 0x0027] Unknown tag (0x0027) = 36835/1271
+JAVA   [Apple Makernote - 0x0025] Unknown tag (0x0025) = 398
+JAVA   [Apple Makernote - 0x0026] Unknown tag (0x0026) = 3
+JAVA   [Apple Makernote - 0x0027] Unknown tag (0x0027) = 36835/1271
+DOTNET [Apple Makernote - 0x0025] Scene Flags = 398
+DOTNET [Apple Makernote - 0x0026] Signal-to-Noise Ratio Type = 3
+DOTNET [Apple Makernote - 0x0027] Signal-to-Noise Ratio = 36835/1271
        [Apple Makernote - 0x0028] Unknown tag (0x0028) = 2
        
        [Apple Run Time - 0x0001] Flags = Valid
@@ -167,13 +181,13 @@ DOTNET [ICC Profile - 0x67545243] Green TRC = para (0x70617261): 32 bytes
        [GPS - 0x001f] GPS Horizontal Positioning Error = 2000 metres
 DOTNET 
 DOTNET [XMP - 0xffff] XMP Value Count = 5
-       
+DOTNET 
 DOTNET [XMPMeta - http://iptc.org/std/Iptc4xmpExt/2008-02-29/] Iptc4xmpExt:ArtworkContentDescription = Dins el monestir es veuen 3 de les 8 columnes que el suporten.
 DOTNET [XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:DateCreated = 2019-08-21T11:21:36
 DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreateDate = 2019-08-21T11:21:36
 DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = 12.4
 DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2019-08-21T11:21:36
-DOTNET 
+       
        [File Type - 0x0001] Detected File Type Name = HEIF
        [File Type - 0x0002] Detected File Type Long Name = High Efficiency Image File Format
 JAVA   [File Type - 0x0003] Detected MIME Type = image/heif

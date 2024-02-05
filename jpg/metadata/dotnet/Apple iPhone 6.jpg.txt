@@ -53,12 +53,12 @@ TYPE: JPEG
 [Exif SubIFD - 0xa433] Lens Make = Apple
 [Exif SubIFD - 0xa434] Lens Model = iPhone 6 back camera 4.15mm f/2.2
 
-[Apple Makernote - 0x0001] Unknown tag (0x0001) = 2
-[Apple Makernote - 0x0002] Unknown tag (0x0002) = [558 values]
-[Apple Makernote - 0x0004] Unknown tag (0x0004) = 1
-[Apple Makernote - 0x0005] Unknown tag (0x0005) = 128
-[Apple Makernote - 0x0006] Unknown tag (0x0006) = 114
-[Apple Makernote - 0x0007] Unknown tag (0x0007) = 1
+[Apple Makernote - 0x0001] Makernote Version = 2
+[Apple Makernote - 0x0002] AE Matrix = [558 values]
+[Apple Makernote - 0x0004] AE Stable = Yes
+[Apple Makernote - 0x0005] AE Target = 128
+[Apple Makernote - 0x0006] AE Average = 114
+[Apple Makernote - 0x0007] AF Stable = Yes
 [Apple Makernote - 0x0008] Acceleration Vector = 0.99g right, 0.05g up, 0.13g forward
 [Apple Makernote - 0x000a] HDR Image Type = HDR Image
 [Apple Makernote - 0x000e] Unknown tag (0x000e) = 0
