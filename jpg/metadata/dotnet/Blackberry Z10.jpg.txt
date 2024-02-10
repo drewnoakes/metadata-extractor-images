@@ -1,8 +1,6 @@
 FILE: Blackberry Z10.jpg
 TYPE: JPEG
 
-[ERROR: Error] Exception processing TIFF data: Attempt to read from beyond end of underlying data source (requested index: 474, requested count: 12, max index: 483)
-
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
 [JPEG - 0x0001] Image Height = 1836 pixels
@@ -29,6 +27,13 @@ TYPE: JPEG
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
 [Exif SubIFD - 0x9209] Flash = Flash did not fire
 [Exif SubIFD - 0x920a] Focal Length = 4.1 mm
+[Exif SubIFD - 0x927c] Makernote = 82 73 77 48 82 68 48 48 10
+[Exif SubIFD - 0xa002] Exif Image Width = 3264 pixels
+[Exif SubIFD - 0xa003] Exif Image Height = 1836 pixels
+[Exif SubIFD - 0xa403] White Balance Mode = Auto white balance
+[Exif SubIFD - 0xa404] Digital Zoom Ratio = 1
+[Exif SubIFD - 0xa405] Focal Length 35 = 31 mm
+[Exif SubIFD - 0xa406] Scene Capture Type = Standard
 
 [Huffman - 0x0001] Number of Tables = 4 Huffman tables
 
@@ -44,7 +49,6 @@ TYPE: JPEG
 - JPEG
 - Exif IFD0
     - Exif SubIFD
-- Error
 - Huffman
 - File Type
 - File
