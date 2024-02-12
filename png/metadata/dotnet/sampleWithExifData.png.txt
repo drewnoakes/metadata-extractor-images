@@ -1,8 +1,6 @@
 FILE: sampleWithExifData.png
 TYPE: PNG
 
-[ERROR: Exif Thumbnail] Illegally sized IFD
-
 [PNG-IHDR - 0x0001] Image Width = 256
 [PNG-IHDR - 0x0002] Image Height = 256
 [PNG-IHDR - 0x0003] Bits Per Sample = 8
