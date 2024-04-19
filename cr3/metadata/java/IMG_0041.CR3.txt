@@ -1,0 +1,16 @@
+FILE: IMG_0041.CR3
+TYPE: CRX
+
+[File Type - 0x0001] Detected File Type Name = CRX
+[File Type - 0x0002] Detected File Type Long Name = Canon Camera Raw
+[File Type - 0x0004] Expected File Name Extension = cr3
+
+[File - 0x0001] File Name = IMG_0041.CR3
+[File - 0x0002] File Size = 16979090 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
