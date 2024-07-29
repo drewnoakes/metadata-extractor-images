@@ -1,0 +1,52 @@
+FILE: lcc2sp.tif
+TYPE: ARW
+
+[Exif IFD0 - 0x0100] Image Width = 1 pixels
+[Exif IFD0 - 0x0101] Image Height = 1 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
+[Exif IFD0 - 0x0111] Strip Offsets = 532
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 1 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1 bytes
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0153] Sample Format = Unsigned
+[Exif IFD0 - 0x830e] Pixel Scale = 60 60 0
+[Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 440720 3751320 0
+[Exif IFD0 - 0x87af] GeoTIFF Geo Keys = [76 values]
+
+[GeoTIFF - 0x0400] Model Type = Projected
+[GeoTIFF - 0x0401] Raster Type = PixelIsArea
+[GeoTIFF - 0x0402] Citation = ETRS89 / Belgian Lambert 2008
+[GeoTIFF - 0x0800] Geographic Type = EUREF89
+[GeoTIFF - 0x0801] Geographic Citation = ETRS89
+[GeoTIFF - 0x0806] Geographic Angular Units = Angular Degree
+[GeoTIFF - 0x0809] Semi-major axis = 6378137
+[GeoTIFF - 0x080b] Inv. Flattening = 298.257
+[GeoTIFF - 0x0c00] Projected Coordinate System Type = User Defined
+[GeoTIFF - 0x0c02] Projection = User Defined
+[GeoTIFF - 0x0c03] Projected Coordinate Transform = Lambert Conf Conic 2SP
+[GeoTIFF - 0x0c04] Projection Linear Units = Linear Meter
+[GeoTIFF - 0x0c06] Projection Standard Parallel 1 = 49.833
+[GeoTIFF - 0x0c07] Projection Standard Parallel 2 = 51.167
+[GeoTIFF - 0x0c0c] Projection False Origin Longitude = 4.359
+[GeoTIFF - 0x0c0d] Projection False Origin Latitude = 50.798
+[GeoTIFF - 0x0c0e] Projection False Origin Easting = 649328
+[GeoTIFF - 0x0c0f] Projection False Origin Northing = 665262
+
+[File Type - 0x0001] Detected File Type Name = ARW
+[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+[File Type - 0x0004] Expected File Name Extension = arw
+
+[File - 0x0001] File Name = lcc2sp.tif
+[File - 0x0002] File Size = 533 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - GeoTIFF
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

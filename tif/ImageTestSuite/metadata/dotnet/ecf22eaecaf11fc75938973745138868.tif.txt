@@ -1,5 +1,5 @@
 FILE: ecf22eaecaf11fc75938973745138868.tif
-TYPE: ARW
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 1696 pixels
@@ -21,9 +21,10 @@ TYPE: ARW
 [Exif IFD0 - 0x0132] Date/Time = 1997:08:25:13:12:50
 [Exif IFD0 - 0x013b] Artist = Library of Congress
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = ecf22eaecaf11fc75938973745138868.tif
 [File - 0x0002] File Size = 32483 bytes

@@ -1,0 +1,61 @@
+FILE: epsg_27563_allgeokeys.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x0100] Image Width = 10 pixels
+[Exif IFD0 - 0x0101] Image Height = 10 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = LZW
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0111] Strip Offsets = 8
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 32 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 36 bytes
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0153] Sample Format = Unsigned, Unsigned, Unsigned
+[Exif IFD0 - 0x830e] Pixel Scale = 0.501 0.501 0
+[Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 827294.141 523985.644 0
+[Exif IFD0 - 0x87af] GeoTIFF Geo Keys = [108 values]
+
+[GeoTIFF - 0x0400] Model Type = Projected
+[GeoTIFF - 0x0401] Raster Type = PixelIsArea
+[GeoTIFF - 0x0402] Citation = NTF (Paris) / Lambert Sud France
+[GeoTIFF - 0x0800] Geographic Type = NTF Paris
+[GeoTIFF - 0x0801] Geographic Citation = NTF (Paris)
+[GeoTIFF - 0x0802] Geodetic Datum = Unknown (6807)
+[GeoTIFF - 0x0803] Prime Meridian = Paris
+[GeoTIFF - 0x0806] Geographic Angular Units = Angular Grad
+[GeoTIFF - 0x0807] Geographic Angular Unit Size = 0.016
+[GeoTIFF - 0x0808] Geographic Ellipsoid = Clarke 1880 IGN
+[GeoTIFF - 0x0809] Semi-major axis = 6378249.2
+[GeoTIFF - 0x080b] Inv. Flattening = 293.466
+[GeoTIFF - 0x080d] To WGS84 = 2.597
+[GeoTIFF - 0x080e] To WGS84 = -168 -60 320 0 0 0 0
+[GeoTIFF - 0x0c00] Projected Coordinate System Type = Unknown (27563)
+[GeoTIFF - 0x0c01] Projected Coordinate System Citation = NTF (Paris) / Lambert Sud France
+[GeoTIFF - 0x0c02] Projection = Unknown (18093)
+[GeoTIFF - 0x0c03] Projected Coordinate Transform = Lambert Conf Conic 1SP
+[GeoTIFF - 0x0c04] Projection Linear Units = Linear Meter
+[GeoTIFF - 0x0c05] Projection Linear Unit Size = 1
+[GeoTIFF - 0x0c08] Projection Natural Origin Longitude = 0
+[GeoTIFF - 0x0c09] Projection Natural Origin Latitude = 49
+[GeoTIFF - 0x0c0a] Projection False Easting = 600000
+[GeoTIFF - 0x0c0b] Projection False Northing = 200000
+[GeoTIFF - 0x0c14] Projection Scale at Natural Origin = 1
+[GeoTIFF - 0x1003] Vertical Units = Linear Meter
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = epsg_27563_allgeokeys.tif
+[File - 0x0002] File Size = 757 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - GeoTIFF
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

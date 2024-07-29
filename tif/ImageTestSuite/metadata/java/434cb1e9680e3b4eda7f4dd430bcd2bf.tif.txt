@@ -19,7 +19,7 @@ TYPE: ARW
 [Exif IFD0 - 0x0131] Software = Adobe Photoshop 7.0
 [Exif IFD0 - 0x0132] Date/Time = 2004:05:25 11:58:16
 [Exif IFD0 - 0x013d] Predictor = 1
-[Exif IFD0 - 0x0140] Unknown tag (0x0140) = [768 values]
+[Exif IFD0 - 0x0140] Color Map = [768 values]
 
 [XMP - 0xffff] XMP Value Count = 2
 
