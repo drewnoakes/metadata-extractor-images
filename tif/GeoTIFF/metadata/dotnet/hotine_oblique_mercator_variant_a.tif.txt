@@ -1,0 +1,53 @@
+FILE: hotine_oblique_mercator_variant_a.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x0100] Image Width = 1 pixels
+[Exif IFD0 - 0x0101] Image Height = 1 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
+[Exif IFD0 - 0x0111] Strip Offsets = 577
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 1 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 1 bytes
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0153] Sample Format = 
+[Exif IFD0 - 0x830e] Pixel Scale = 60 60 0
+[Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 440720 3751320 0
+
+[GeoTIFF - 0x0400] Model Type = Projected
+[GeoTIFF - 0x0401] Raster Type = PixelIsArea
+[GeoTIFF - 0x0402] Citation = NAD83(CORS96) / Oregon Columbia River West zone (m)
+[GeoTIFF - 0x0800] Geographic Type = NAD83 CORS96
+[GeoTIFF - 0x0801] Geographic Citation = NAD83(CORS96)
+[GeoTIFF - 0x0806] Geographic Angular Units = Angular Degree
+[GeoTIFF - 0x0809] Semi-major axis = 6378137
+[GeoTIFF - 0x080b] Inv. Flattening = 298.257
+[GeoTIFF - 0x0c00] Projected Coordinate System Type = User Defined
+[GeoTIFF - 0x0c02] Projection = User Defined
+[GeoTIFF - 0x0c03] Projected Coordinate Transform = Oblique Mercator
+[GeoTIFF - 0x0c04] Projection Linear Units = Linear Meter
+[GeoTIFF - 0x0c0a] Projection False Easting = 7000000
+[GeoTIFF - 0x0c0b] Projection False Northing = -3000000
+[GeoTIFF - 0x0c10] Projection Center Longitude = -123
+[GeoTIFF - 0x0c11] Projection Center Latitude = 45.917
+[GeoTIFF - 0x0c15] Projection Scale at Center = 1
+[GeoTIFF - 0x0c16] Projection Azimuth Angle = 295
+[GeoTIFF - 0x0c18] Projection Straight Vertical Pole Latitude = 295
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = hotine_oblique_mercator_variant_a.tif
+[File - 0x0002] File Size = 578 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - GeoTIFF
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

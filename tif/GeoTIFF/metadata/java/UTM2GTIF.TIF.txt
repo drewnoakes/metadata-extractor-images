@@ -1,0 +1,43 @@
+FILE: UTM2GTIF.TIF
+TYPE: TIFF
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 699 pixels
+[Exif IFD0 - 0x0101] Image Height = 929 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
+[Exif IFD0 - 0x0111] Strip Offsets = [85 values]
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 11 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 7689 3495 bytes
+[Exif IFD0 - 0x011a] X Resolution = 72 dots per (no unit)
+[Exif IFD0 - 0x011b] Y Resolution = 72 dots per (no unit)
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x0128] Resolution Unit = (No unit)
+[Exif IFD0 - 0x830e] Pixel Scale = 10 10 0
+[Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 444650 4640510 0
+[Exif IFD0 - 0x87af] GeoTIFF Geo Keys = [24 values]
+
+[GeoTIFF - 0x0400] Model Type = Projected
+[GeoTIFF - 0x0401] Raster Type = PixelIsArea
+[GeoTIFF - 0x0402] Citation = UTM Zone 16N NAD27"
+[GeoTIFF - 0x0801] Geographic Citation = Clarke, 1866 by Default
+[GeoTIFF - 0x0c00] Projected Coordinate System Type = NAD27 UTM zone 16N
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = UTM2GTIF.TIF
+[File - 0x0002] File Size = 650463 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - GeoTIFF
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

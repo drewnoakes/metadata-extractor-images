@@ -1,5 +1,6 @@
        FILE: m1-f4830e8d4fa458f78a09fcaaf260569c.tif
-       TYPE: ARW
+JAVA   TYPE: ARW
+DOTNET TYPE: TIFF
        
        [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
 JAVA   [ERROR: XMP] Error processing XMP data: XML parsing failure
@@ -96,9 +97,13 @@ DOTNET [ERROR: XMP] Error processing XMP data: Unsupported Encoding
        [Exif SubIFD - 0xa40a] Sharpness = Hard
        [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
        
-       [File Type - 0x0001] Detected File Type Name = ARW
-       [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-       [File Type - 0x0004] Expected File Name Extension = arw
+JAVA   [File Type - 0x0001] Detected File Type Name = ARW
+JAVA   [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+JAVA   [File Type - 0x0004] Expected File Name Extension = arw
+DOTNET [File Type - 0x0001] Detected File Type Name = TIFF
+DOTNET [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+DOTNET [File Type - 0x0003] Detected MIME Type = image/tiff
+DOTNET [File Type - 0x0004] Expected File Name Extension = tiff
        
        [File - 0x0001] File Name = m1-f4830e8d4fa458f78a09fcaaf260569c.tif
        [File - 0x0002] File Size = 539640 bytes

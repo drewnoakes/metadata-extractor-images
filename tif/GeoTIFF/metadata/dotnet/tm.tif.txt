@@ -1,0 +1,48 @@
+FILE: tm.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x0100] Image Width = 515 pixels
+[Exif IFD0 - 0x0101] Image Height = 515 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
+[Exif IFD0 - 0x0111] Strip Offsets = [35 values]
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 15 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 7725 2575 bytes
+[Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+[Exif IFD0 - 0x830e] Pixel Scale = 60 60 0
+[Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 -15411.63 15448.774 0
+
+[GeoTIFF - 0x0400] Model Type = Projected
+[GeoTIFF - 0x0401] Raster Type = PixelIsArea
+[GeoTIFF - 0x0402] Citation = TM          E000
+[GeoTIFF - 0x0800] Geographic Type = NAD27
+[GeoTIFF - 0x0804] Geographic Linear Units = Linear Meter
+[GeoTIFF - 0x0806] Geographic Angular Units = Angular Degree
+[GeoTIFF - 0x0c00] Projected Coordinate System Type = User Defined
+[GeoTIFF - 0x0c02] Projection = User Defined
+[GeoTIFF - 0x0c03] Projected Coordinate Transform = Transverse Mercator
+[GeoTIFF - 0x0c04] Projection Linear Units = Linear Meter
+[GeoTIFF - 0x0c08] Projection Natural Origin Longitude = -117.475
+[GeoTIFF - 0x0c09] Projection Natural Origin Latitude = 33.764
+[GeoTIFF - 0x0c0a] Projection False Easting = 0
+[GeoTIFF - 0x0c0b] Projection False Northing = 0
+[GeoTIFF - 0x0c14] Projection Scale at Natural Origin = 1
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = tm.tif
+[File - 0x0002] File Size = 266452 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - GeoTIFF
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

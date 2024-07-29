@@ -12,7 +12,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x013c] Host Computer = 2
 [Exif IFD0 - 0x0111] Strip Offsets = 8
 [Exif IFD0 - 0x0112] Orientation = Top, left side (Horizontal / normal)
-[Exif IFD0 - 0x0140] Unknown tag (0x0140) = [46593 values]
+[Exif IFD0 - 0x0140] Color Map = [46593 values]
 [Exif IFD0 - 0x0117] Strip Byte Counts = 1376217078 bytes
 [Exif IFD0 - 0xfa1a] Unknown tag (0xfa1a) = 2
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)

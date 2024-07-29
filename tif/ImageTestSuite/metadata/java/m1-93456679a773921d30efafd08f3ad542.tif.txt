@@ -19,11 +19,15 @@ TYPE: TIFF
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0132] Date/Time = 1996:11:19 13:58:06
-[Exif IFD0 - 0x0140] Unknown tag (0x0140) = [768 values]
-[Exif IFD0 - 0x830e] Unknown tag (0x830e) = 2.438 2.438 0
-[Exif IFD0 - 0x8482] Unknown tag (0x8482) = 0 0 0 597533.364 4998317.104 0
-[Exif IFD0 - 0x87af] Unknown tag (0x87af) = [20 values]
-[Exif IFD0 - 0x87b1] Unknown tag (0x87b1) = UTM Zone 15 N with NAD27|
+[Exif IFD0 - 0x0140] Color Map = [768 values]
+[Exif IFD0 - 0x830e] Pixel Scale = 2.438 2.438 0
+[Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 597533.364 4998317.104 0
+[Exif IFD0 - 0x87af] GeoTIFF Geo Keys = [20 values]
+
+[GeoTIFF - 0x04a5] Unknown tag (0x04a5) = 1
+[GeoTIFF - 0x0401] Raster Type = PixelIsArea
+[GeoTIFF - 0x0c00] Projected Coordinate System Type = NAD27 UTM zone 15N
+[GeoTIFF - 0x0c01] Projected Coordinate System Citation = UTM Zone 15 N with NAD27
 
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
@@ -35,6 +39,7 @@ TYPE: TIFF
 [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
 
 - Exif IFD0
+    - GeoTIFF
 - File Type
 - File
 

@@ -1,5 +1,5 @@
 FILE: m1-4a7d8e5153957beadcd49c6f540aab78.tif
-TYPE: ARW
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 20995 for tag 0x0102
 [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
@@ -22,9 +22,10 @@ TYPE: ARW
 [Exif IFD0 - 0x0140] Unknown tag (0x0140) = [678 values]
 [Exif IFD0 - 0xc1a6] Unknown tag (0xc1a6) = 0
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = m1-4a7d8e5153957beadcd49c6f540aab78.tif
 [File - 0x0002] File Size = 969120 bytes

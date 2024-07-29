@@ -1,5 +1,5 @@
 FILE: m1-f228b1103fd7b629c08c1bbba94708e0.tif
-TYPE: ARW
+TYPE: TIFF
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 4680 pixels
@@ -25,9 +25,10 @@ TYPE: ARW
 
 [Exif SubIFD - 0xa001] Color Space = Undefined
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = m1-f228b1103fd7b629c08c1bbba94708e0.tif
 [File - 0x0002] File Size = 965322 bytes

@@ -1,0 +1,58 @@
+       FILE: lcc1sp.tif
+JAVA   TYPE: ARW
+DOTNET TYPE: TIFF
+       
+       [Exif IFD0 - 0x0100] Image Width = 1 pixels
+       [Exif IFD0 - 0x0101] Image Height = 1 pixels
+       [Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+       [Exif IFD0 - 0x0103] Compression = Uncompressed
+       [Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
+       [Exif IFD0 - 0x0111] Strip Offsets = 530
+       [Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+       [Exif IFD0 - 0x0116] Rows Per Strip = 1 rows/strip
+       [Exif IFD0 - 0x0117] Strip Byte Counts = 1 bytes
+       [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+JAVA   [Exif IFD0 - 0x0153] Sample Format = Unsigned
+DOTNET [Exif IFD0 - 0x0153] Sample Format = 
+       [Exif IFD0 - 0x830e] Pixel Scale = 60 60 0
+       [Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 440720 3751320 0
+JAVA   [Exif IFD0 - 0x87af] GeoTIFF Geo Keys = [72 values]
+       
+       [GeoTIFF - 0x0400] Model Type = Projected
+       [GeoTIFF - 0x0401] Raster Type = PixelIsArea
+       [GeoTIFF - 0x0402] Citation = Ocotepeque 1935 / Costa Rica Norte
+       [GeoTIFF - 0x0800] Geographic Type = Ocotepeque 1935
+       [GeoTIFF - 0x0801] Geographic Citation = Ocotepeque 1935
+       [GeoTIFF - 0x0806] Geographic Angular Units = Angular Degree
+       [GeoTIFF - 0x0809] Semi-major axis = 6378206.4
+       [GeoTIFF - 0x080b] Inv. Flattening = 294.979
+       [GeoTIFF - 0x0c00] Projected Coordinate System Type = User Defined
+       [GeoTIFF - 0x0c02] Projection = User Defined
+       [GeoTIFF - 0x0c03] Projected Coordinate Transform = Lambert Conf Conic 1SP
+       [GeoTIFF - 0x0c04] Projection Linear Units = Linear Meter
+       [GeoTIFF - 0x0c08] Projection Natural Origin Longitude = -84.333
+       [GeoTIFF - 0x0c09] Projection Natural Origin Latitude = 10.467
+       [GeoTIFF - 0x0c0a] Projection False Easting = 500000
+       [GeoTIFF - 0x0c0b] Projection False Northing = 271820.522
+       [GeoTIFF - 0x0c14] Projection Scale at Natural Origin = 1
+       
+JAVA   [File Type - 0x0001] Detected File Type Name = ARW
+JAVA   [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+JAVA   [File Type - 0x0004] Expected File Name Extension = arw
+DOTNET [File Type - 0x0001] Detected File Type Name = TIFF
+DOTNET [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+DOTNET [File Type - 0x0003] Detected MIME Type = image/tiff
+DOTNET [File Type - 0x0004] Expected File Name Extension = tiff
+       
+       [File - 0x0001] File Name = lcc1sp.tif
+       [File - 0x0002] File Size = 531 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
+           - GeoTIFF
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

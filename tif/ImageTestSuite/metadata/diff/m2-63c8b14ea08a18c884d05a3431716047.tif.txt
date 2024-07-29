@@ -1,11 +1,12 @@
        FILE: m2-63c8b14ea08a18c884d05a3431716047.tif
-       TYPE: ARW
+JAVA   TYPE: ARW
+DOTNET TYPE: TIFF
        
        [ERROR: Exif IFD0] Invalid TIFF tag format code 52739 for tag 0x0129
        [ERROR: Exif IFD0] Illegal TIFF tag pointer offset
        [ERROR: Exif Thumbnail] Invalid TIFF tag format code 69 for tag 0x0111
-       [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
 JAVA   [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
+       [ERROR: Exif Thumbnail] Illegal TIFF tag pointer offset
 DOTNET [ERROR: Exif Image] Illegal TIFF tag pointer offset
        
        [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
@@ -81,9 +82,13 @@ DOTNET [Exif Image - 0x0129] Page Number = 3 0
 DOTNET [Exif Image - 0x0131] Software = Fuji Xerox Co., Ltd. Raster Support Toolkit Version 2.3
 DOTNET [Exif Image - 0x0132] Date/Time = 2005.09.15 a6:28:54
        
-       [File Type - 0x0001] Detected File Type Name = ARW
-       [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-       [File Type - 0x0004] Expected File Name Extension = arw
+JAVA   [File Type - 0x0001] Detected File Type Name = ARW
+JAVA   [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+JAVA   [File Type - 0x0004] Expected File Name Extension = arw
+DOTNET [File Type - 0x0001] Detected File Type Name = TIFF
+DOTNET [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+DOTNET [File Type - 0x0003] Detected MIME Type = image/tiff
+DOTNET [File Type - 0x0004] Expected File Name Extension = tiff
        
        [File - 0x0001] File Name = m2-63c8b14ea08a18c884d05a3431716047.tif
        [File - 0x0002] File Size = 79179 bytes

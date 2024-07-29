@@ -20,16 +20,15 @@
        [Exif IFD0 - 0x0128] Resolution Unit = Inch
        [Exif IFD0 - 0x0131] Software = USGS CD Archiver program tif2usgsdrg v.1.0
        [Exif IFD0 - 0x0132] Date/Time = 1997:05:13 13:41:51
-       [Exif IFD0 - 0x0140] Unknown tag (0x0140) = [768 values]
-JAVA   [Exif IFD0 - 0x8482] Unknown tag (0x8482) = 0 0 0 682527.059 3168367.518 0
-JAVA   [Exif IFD0 - 0x87af] Unknown tag (0x87af) = [20 values]
-JAVA   [Exif IFD0 - 0x87b1] Unknown tag (0x87b1) = UTM Zone 14 N with NAD27|
-DOTNET [Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 682527.059 3168367.518 0
-DOTNET 
-DOTNET [GeoTIFF - 0x0400] Model Type = Projected
-DOTNET [GeoTIFF - 0x0401] Raster Type = PixelIsArea
-DOTNET [GeoTIFF - 0x0c00] Projected Coordinate System Type = NAD27 UTM zone 14N
-DOTNET [GeoTIFF - 0x0c01] Projected Coordinate System Citation = UTM Zone 14 N with NAD27
+JAVA   [Exif IFD0 - 0x0140] Color Map = [768 values]
+DOTNET [Exif IFD0 - 0x0140] Unknown tag (0x0140) = [768 values]
+       [Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 682527.059 3168367.518 0
+JAVA   [Exif IFD0 - 0x87af] GeoTIFF Geo Keys = [20 values]
+       
+       [GeoTIFF - 0x0400] Model Type = Projected
+       [GeoTIFF - 0x0401] Raster Type = PixelIsArea
+       [GeoTIFF - 0x0c00] Projected Coordinate System Type = NAD27 UTM zone 14N
+       [GeoTIFF - 0x0c01] Projected Coordinate System Citation = UTM Zone 14 N with NAD27
        
        [File Type - 0x0001] Detected File Type Name = TIFF
        [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
@@ -41,7 +40,7 @@ DOTNET [GeoTIFF - 0x0c01] Projected Coordinate System Citation = UTM Zone 14 N w
        [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
        
        - Exif IFD0
-DOTNET     - GeoTIFF
+           - GeoTIFF
        - File Type
        - File
        

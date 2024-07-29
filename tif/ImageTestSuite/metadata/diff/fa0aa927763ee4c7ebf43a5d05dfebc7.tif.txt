@@ -1,5 +1,6 @@
        FILE: fa0aa927763ee4c7ebf43a5d05dfebc7.tif
-       TYPE: ARW
+JAVA   TYPE: ARW
+DOTNET TYPE: TIFF
        
        [Exif IFD0 - 0x00fe] New Subfile Type = Single page of multi-page image
        [Exif IFD0 - 0x0100] Image Width = 1752 pixels
@@ -248,9 +249,13 @@ DOTNET [Exif Thumbnail - 0x013b] Artist = IRIS 2001
        [Exif Image - 0x0132] Date/Time = 2008:09:24 10:19:37
        [Exif Image - 0x013b] Artist = IRIS 2001          
        
-       [File Type - 0x0001] Detected File Type Name = ARW
-       [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-       [File Type - 0x0004] Expected File Name Extension = arw
+JAVA   [File Type - 0x0001] Detected File Type Name = ARW
+JAVA   [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+JAVA   [File Type - 0x0004] Expected File Name Extension = arw
+DOTNET [File Type - 0x0001] Detected File Type Name = TIFF
+DOTNET [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+DOTNET [File Type - 0x0003] Detected MIME Type = image/tiff
+DOTNET [File Type - 0x0004] Expected File Name Extension = tiff
        
        [File - 0x0001] File Name = fa0aa927763ee4c7ebf43a5d05dfebc7.tif
        [File - 0x0002] File Size = 1551584 bytes

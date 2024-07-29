@@ -1,0 +1,45 @@
+FILE: geoc.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 200 pixels
+[Exif IFD0 - 0x0101] Image Height = 200 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = Uncompressed
+[Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
+[Exif IFD0 - 0x0111] Strip Offsets = 374 8374 16374 24374 32374
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 40 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 8000 8000 8000 8000 8000 bytes
+[Exif IFD0 - 0x011a] X Resolution = 0 dots per (no unit)
+[Exif IFD0 - 0x011b] Y Resolution = 0 dots per (no unit)
+[Exif IFD0 - 0x0128] Resolution Unit = (No unit)
+[Exif IFD0 - 0x830e] Pixel Scale = 1.701 1.701 0
+[Exif IFD0 - 0x847e] Unknown tag (0x847e) = [872 values]
+[Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 -8048.726 10525.15 0
+[Exif IFD0 - 0x87af] GeoTIFF Geo Keys = [32 values]
+
+[GeoTIFF - 0x0400] Model Type = Geocentric
+[GeoTIFF - 0x0401] Raster Type = PixelIsArea
+[GeoTIFF - 0x0802] Geodetic Datum = WGS72
+[GeoTIFF - 0x0808] Geographic Ellipsoid = User Defined
+[GeoTIFF - 0x0801] Geographic Citation = Geocentric (USR) WGS72
+[GeoTIFF - 0x0800] Geographic Type = WGS 72
+[GeoTIFF - 0x0804] Geographic Linear Units = Linear Meter
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = geoc.tif
+[File - 0x0002] File Size = 46910 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - GeoTIFF
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

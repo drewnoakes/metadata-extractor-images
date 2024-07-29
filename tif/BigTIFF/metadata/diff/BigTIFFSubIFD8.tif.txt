@@ -1,7 +1,7 @@
        FILE: BigTIFFSubIFD8.tif
-JAVA   TYPE: UNKNOWN
-DOTNET TYPE: TIFF
-DOTNET 
+       TYPE: TIFF
+       
+JAVA   [ERROR: Exif IFD0] Ignored IFD marked to start outside data segment
 DOTNET [Exif IFD0 - 0x0100] Image Width = 64 pixels
 DOTNET [Exif IFD0 - 0x0101] Image Height = 64 pixels
 DOTNET [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
@@ -39,23 +39,22 @@ DOTNET [Exif SubIFD - 0x0111] Strip Offsets = 15768
 DOTNET [Exif SubIFD - 0x0115] Samples Per Pixel = 3 samples/pixel
 DOTNET [Exif SubIFD - 0x0116] Rows Per Strip = 32 rows/strip
 DOTNET [Exif SubIFD - 0x0117] Strip Byte Counts = 3072 bytes
-DOTNET 
-DOTNET [File Type - 0x0001] Detected File Type Name = TIFF
-DOTNET [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
-DOTNET [File Type - 0x0003] Detected MIME Type = image/tiff
-DOTNET [File Type - 0x0004] Expected File Name Extension = tiff
-DOTNET 
-DOTNET [File - 0x0001] File Name = BigTIFFSubIFD8.tif
-DOTNET [File - 0x0002] File Size = 31520 bytes
-DOTNET [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
        
-JAVA   EXCEPTION: File format could not be determined
-DOTNET - Exif IFD0
+       [File Type - 0x0001] Detected File Type Name = TIFF
+       [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+       [File Type - 0x0003] Detected MIME Type = image/tiff
+       [File Type - 0x0004] Expected File Name Extension = tiff
+       
+       [File - 0x0001] File Name = BigTIFFSubIFD8.tif
+       [File - 0x0002] File Size = 31520 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
 DOTNET     - Exif SubIFD
 DOTNET     - Exif Thumbnail
 DOTNET         - Exif SubIFD
-DOTNET - File Type
-DOTNET - File
+       - File Type
+       - File
        
        Generated using metadata-extractor
        https://drewnoakes.com/code/exif/
