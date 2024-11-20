@@ -17,7 +17,7 @@ TYPE: TIFF
 [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = @(#)ImageMagick 4.2.3 99/05/01 cristy@mystic.es.dupont.com
-[Exif IFD0 - 0x0140] Unknown tag (0x0140) = 64764 5140 64764 5140 64764 5140
+[Exif IFD0 - 0x0140] Color Map = 64764 5140 64764 5140 64764 5140
 
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format

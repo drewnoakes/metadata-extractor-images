@@ -1,0 +1,41 @@
+FILE: tp_image0.tif
+TYPE: TIFF
+
+[Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
+[Exif IFD0 - 0x0100] Image Width = 380 pixels
+[Exif IFD0 - 0x0101] Image Height = 765 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+[Exif IFD0 - 0x0103] Compression = PackBits
+[Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
+[Exif IFD0 - 0x0112] Orientation = Left side, top (Mirror horizontal and rotate 270 CW)
+[Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+[Exif IFD0 - 0x011a] X Resolution = 0 dots per (no unit)
+[Exif IFD0 - 0x011b] Y Resolution = 0 dots per (no unit)
+[Exif IFD0 - 0x0128] Resolution Unit = (No unit)
+[Exif IFD0 - 0x0142] Tile Width = 128
+[Exif IFD0 - 0x0143] Tile Length = 128
+[Exif IFD0 - 0x0144] Tile Offsets = [18 values]
+[Exif IFD0 - 0x0145] Tile Byte Counts = [18 values]
+[Exif IFD0 - 0x847e] Unknown tag (0x847e) = [912 values]
+[Exif IFD0 - 0x8482] Model Tie Point = [24 values]
+
+[GeoTIFF - 0x0400] Model Type = Undefined
+[GeoTIFF - 0x0401] Raster Type = PixelIsArea
+[GeoTIFF - 0x0c04] Projection Linear Units = Linear Meter
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = tp_image0.tif
+[File - 0x0002] File Size = 26206 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+    - GeoTIFF
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/

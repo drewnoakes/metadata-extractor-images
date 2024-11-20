@@ -1,0 +1,41 @@
+       FILE: spif83.tif
+       TYPE: TIFF
+       
+       [Exif IFD0 - 0x0100] Image Width = 519 pixels
+       [Exif IFD0 - 0x0101] Image Height = 512 pixels
+       [Exif IFD0 - 0x0102] Bits Per Sample = 8 bits/component/pixel
+       [Exif IFD0 - 0x0103] Compression = Uncompressed
+       [Exif IFD0 - 0x0106] Photometric Interpretation = BlackIsZero
+       [Exif IFD0 - 0x0111] Strip Offsets = [35 values]
+       [Exif IFD0 - 0x0115] Samples Per Pixel = 1 samples/pixel
+       [Exif IFD0 - 0x0116] Rows Per Strip = 15 rows/strip
+       [Exif IFD0 - 0x0117] Strip Byte Counts = 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 7785 1038 bytes
+       [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+       [Exif IFD0 - 0x830e] Pixel Scale = 195.512 198.324 0
+       [Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 6138559.558 2274798.784 0
+JAVA   [Exif IFD0 - 0x87af] GeoTIFF Geo Keys = [52 values]
+       
+       [GeoTIFF - 0x0400] Model Type = Projected
+       [GeoTIFF - 0x0401] Raster Type = PixelIsArea
+       [GeoTIFF - 0x0402] Citation = SPIF  406   D-02
+       [GeoTIFF - 0x0806] Geographic Angular Units = Angular Degree
+       [GeoTIFF - 0x0c00] Projected Coordinate System Type = NAD83 California 6
+       [GeoTIFF - 0x0c04] Projection Linear Units = Linear Foot
+       
+       [File Type - 0x0001] Detected File Type Name = TIFF
+       [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+       [File Type - 0x0003] Detected MIME Type = image/tiff
+       [File Type - 0x0004] Expected File Name Extension = tiff
+       
+       [File - 0x0001] File Name = spif83.tif
+       [File - 0x0002] File Size = 266905 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
+           - GeoTIFF
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       

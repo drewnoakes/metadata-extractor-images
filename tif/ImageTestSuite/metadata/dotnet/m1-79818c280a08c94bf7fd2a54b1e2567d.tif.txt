@@ -1,5 +1,5 @@
 FILE: m1-79818c280a08c94bf7fd2a54b1e2567d.tif
-TYPE: ARW
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0x4442
 [ERROR: Exif IFD0] Invalid TIFF tag format code 0 for tag 0xA3A0
@@ -85,9 +85,10 @@ TYPE: ARW
 [Exif IFD0 - 0xf8de] Unknown tag (0xf8de) = [465064 values]
 [Exif IFD0 - 0x583c] Unknown tag (0x583c) = [489478 values]
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = m1-79818c280a08c94bf7fd2a54b1e2567d.tif
 [File - 0x0002] File Size = 1010623 bytes

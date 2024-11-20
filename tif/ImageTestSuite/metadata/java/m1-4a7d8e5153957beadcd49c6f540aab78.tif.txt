@@ -19,7 +19,7 @@ TYPE: ARW
 [Exif IFD0 - 0x341c] Unknown tag (0x341c) = 1
 [Exif IFD0 - 0x0128] Resolution Unit = Inch
 [Exif IFD0 - 0x0131] Software = Oi/GFS writer v00.06.00P� (c) Wang Labs, Inc. 1990, 1991
-[Exif IFD0 - 0x0140] Unknown tag (0x0140) = [678 values]
+[Exif IFD0 - 0x0140] Color Map = [678 values]
 [Exif IFD0 - 0xc1a6] Unknown tag (0xc1a6) = 0
 
 [File Type - 0x0001] Detected File Type Name = ARW

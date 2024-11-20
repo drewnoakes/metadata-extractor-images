@@ -1,7 +1,27 @@
 FILE: BigTIFFLong8.tif
-TYPE: UNKNOWN
+TYPE: TIFF
 
-EXCEPTION: File format could not be determined
+[Exif IFD0 - 0x0100] Image Width = 64 pixels
+[Exif IFD0 - 0x0101] Image Height = 64 pixels
+[Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+[Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+[Exif IFD0 - 0x0111] Strip Offsets = 16
+[Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+[Exif IFD0 - 0x0116] Rows Per Strip = 64 rows/strip
+[Exif IFD0 - 0x0117] Strip Byte Counts = 12288 bytes
+
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
+
+[File - 0x0001] File Name = BigTIFFLong8.tif
+[File - 0x0002] File Size = 12480 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- Exif IFD0
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

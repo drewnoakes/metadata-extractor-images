@@ -1,0 +1,53 @@
+       FILE: epsg_27563_only_pcs_code.tif
+JAVA   TYPE: ARW
+DOTNET TYPE: TIFF
+       
+       [Exif IFD0 - 0x0100] Image Width = 10 pixels
+       [Exif IFD0 - 0x0101] Image Height = 10 pixels
+       [Exif IFD0 - 0x0102] Bits Per Sample = 8 8 8 bits/component/pixel
+       [Exif IFD0 - 0x0103] Compression = Uncompressed
+       [Exif IFD0 - 0x0106] Photometric Interpretation = RGB
+       [Exif IFD0 - 0x0111] Strip Offsets = 624
+       [Exif IFD0 - 0x0115] Samples Per Pixel = 3 samples/pixel
+       [Exif IFD0 - 0x0116] Rows Per Strip = 10 rows/strip
+       [Exif IFD0 - 0x0117] Strip Byte Counts = 300 bytes
+       [Exif IFD0 - 0x011c] Planar Configuration = Chunky (contiguous for each subsampling pixel)
+       [Exif IFD0 - 0x0153] Sample Format = Unsigned, Unsigned, Unsigned
+       [Exif IFD0 - 0x830e] Pixel Scale = 0.501 0.501 0
+       [Exif IFD0 - 0x8482] Model Tie Point = 0 0 0 827294.141 523985.644 0
+JAVA   [Exif IFD0 - 0x87af] GeoTIFF Geo Keys = [32 values]
+       [Exif IFD0 - 0xa480] GDAL Metadata = <GDALMetadata>
+         <Item name="UNITTYPE" sample="0" role="unittype">metre</Item>
+         <Item name="UNITTYPE" sample="1" role="unittype">metre</Item>
+         <Item name="UNITTYPE" sample="2" role="unittype">metre</Item>
+       </GDALMetadata>
+       
+       
+       [GeoTIFF - 0x0400] Model Type = Projected
+       [GeoTIFF - 0x0401] Raster Type = PixelIsArea
+       [GeoTIFF - 0x0402] Citation = NTF (Paris) / Lambert Sud France
+       [GeoTIFF - 0x0801] Geographic Citation = NTF (Paris)
+       [GeoTIFF - 0x0806] Geographic Angular Units = Angular Grad
+       [GeoTIFF - 0x0c00] Projected Coordinate System Type = Unknown (27563)
+       [GeoTIFF - 0x0c04] Projection Linear Units = Linear Meter
+       
+JAVA   [File Type - 0x0001] Detected File Type Name = ARW
+JAVA   [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
+JAVA   [File Type - 0x0004] Expected File Name Extension = arw
+DOTNET [File Type - 0x0001] Detected File Type Name = TIFF
+DOTNET [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+DOTNET [File Type - 0x0003] Detected MIME Type = image/tiff
+DOTNET [File Type - 0x0004] Expected File Name Extension = tiff
+       
+       [File - 0x0001] File Name = epsg_27563_only_pcs_code.tif
+       [File - 0x0002] File Size = 924 bytes
+       [File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+       
+       - Exif IFD0
+           - GeoTIFF
+       - File Type
+       - File
+       
+       Generated using metadata-extractor
+       https://drewnoakes.com/code/exif/
+       
