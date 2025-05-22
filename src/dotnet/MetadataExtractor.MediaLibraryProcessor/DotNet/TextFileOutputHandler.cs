@@ -175,7 +175,8 @@ internal sealed class TextFileOutputHandler : FileHandlerBase
         // Detect file type
         using (var fileTypeDetectStream = File.Open(filePath, FileMode.Open, FileAccess.Read, FileShare.Read))
         {
-            var fileType = FileTypeDetector.DetectFileType(fileTypeDetectStream);
+            var fileType = FileTypeDetector.DetectFileType(fileTypeDetectStream, filePath);
+
             writer.Write("TYPE: {0}\n\n", fileType.ToString().ToUpper());
         }
 

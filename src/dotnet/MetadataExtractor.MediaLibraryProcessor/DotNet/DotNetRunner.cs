@@ -78,7 +78,7 @@ internal static class DotNetRunner
 
                 try
                 {
-                    var directories = ImageMetadataReader.ReadMetadata(stream).ToList();
+                    var directories = ImageMetadataReader.ReadMetadata(stream, file).ToList();
 
                     // ImageMetadataReader.ReadMetadata(Stream) doesn't add a FileMetadataReader directory.
                     // Add it manually
