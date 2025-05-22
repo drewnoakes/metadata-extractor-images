@@ -1,7 +1,17 @@
 FILE: BlazRobar Thinking Head Icon Set.ai
-TYPE: UNKNOWN
+TYPE: PDF
 
-EXCEPTION: File format could not be determined
+[File Type - 0x0001] Detected File Type Name = PDF
+[File Type - 0x0002] Detected File Type Long Name = Portable Document Format
+[File Type - 0x0003] Detected MIME Type = application/pdf
+[File Type - 0x0004] Expected File Name Extension = pdf
+
+[File - 0x0001] File Name = BlazRobar Thinking Head Icon Set.ai
+[File - 0x0002] File Size = 242133 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/
