@@ -3,6 +3,7 @@ TYPE: CRW
 
 [File Type - 0x0001] Detected File Type Name = CRW
 [File Type - 0x0002] Detected File Type Long Name = Canon Camera Raw
+[File Type - 0x0003] Detected MIME Type = image/x-canon-crw
 [File Type - 0x0004] Expected File Name Extension = crw
 
 [File - 0x0001] File Name = Canon EOS 10D.crw

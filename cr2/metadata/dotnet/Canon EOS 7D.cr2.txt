@@ -205,6 +205,7 @@ TYPE: CR2
 
 [File Type - 0x0001] Detected File Type Name = CR2
 [File Type - 0x0002] Detected File Type Long Name = Canon Camera Raw
+[File Type - 0x0003] Detected MIME Type = image/x-canon-cr2
 [File Type - 0x0004] Expected File Name Extension = cr2
 
 [File - 0x0001] File Name = Canon EOS 7D.cr2
