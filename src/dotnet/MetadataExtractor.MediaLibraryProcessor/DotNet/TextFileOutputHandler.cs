@@ -24,7 +24,7 @@ internal sealed class TextFileOutputHandler : FileHandlerBase
     public override void OnStartingDirectory(string directoryPath)
     {
         base.OnStartingDirectory(directoryPath);
-        System.IO.Directory.Delete(Path.Combine(directoryPath, "metadata\\dotnet"), recursive: true);
+        System.IO.Directory.Delete(Path.Combine(directoryPath, "metadata", "dotnet"), recursive: true);
     }
 
     public override void OnBeforeExtraction(string filePath, string relativePath, TextWriter log)
@@ -158,7 +158,8 @@ internal sealed class TextFileOutputHandler : FileHandlerBase
         var directoryPath = Path.GetDirectoryName(filePath);
         Debug.Assert(directoryPath != null);
         var metadataPath = Path.Combine(
-            Path.Combine(directoryPath, "metadata"),
+            directoryPath,
+            "metadata",
             "dotnet");
         var fileName = Path.GetFileName(filePath);
 
