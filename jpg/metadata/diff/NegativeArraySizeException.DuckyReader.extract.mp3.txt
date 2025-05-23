@@ -1,7 +1,7 @@
        FILE: NegativeArraySizeException.DuckyReader.extract.mp3
        TYPE: JPEG
        
-JAVA   EXCEPTION: -4
+JAVA   EXCEPTION: null
 DOTNET [ERROR: Ducky] End of data reached.
 DOTNET [ERROR: Ducky] End of data reached.
 DOTNET [ERROR: Ducky] End of data reached.

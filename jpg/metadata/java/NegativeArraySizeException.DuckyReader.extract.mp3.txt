@@ -1,7 +1,7 @@
 FILE: NegativeArraySizeException.DuckyReader.extract.mp3
 TYPE: JPEG
 
-EXCEPTION: -4
+EXCEPTION: null
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

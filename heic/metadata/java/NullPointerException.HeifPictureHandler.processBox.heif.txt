@@ -1,7 +1,7 @@
 FILE: NullPointerException.HeifPictureHandler.processBox.heif
 TYPE: HEIF
 
-EXCEPTION: Cannot invoke "java.lang.Long.longValue()" because the return value of "com.drew.metadata.heif.boxes.ItemLocationBox.getIntFromUnknownByte(int, com.drew.lang.SequentialReader)" is null
+EXCEPTION: null
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

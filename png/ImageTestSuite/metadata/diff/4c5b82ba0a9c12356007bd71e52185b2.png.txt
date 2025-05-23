@@ -1,7 +1,7 @@
        FILE: 4c5b82ba0a9c12356007bd71e52185b2.png
        TYPE: PNG
        
-JAVA   [ERROR: Error] Exception reading PNG chunk: Index 0 out of bounds for length 0
+JAVA   [ERROR: Error] Exception reading PNG chunk: 0
 DOTNET [ERROR: Error] Exception reading PNG chunk: Index was outside the bounds of the array.
        
        [PNG-IHDR - 0x0001] Image Width = 212

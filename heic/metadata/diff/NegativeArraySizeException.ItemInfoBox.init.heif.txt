@@ -1,7 +1,7 @@
        FILE: NegativeArraySizeException.ItemInfoBox.init.heif
        TYPE: HEIF
        
-JAVA   EXCEPTION: -2147483625
+JAVA   EXCEPTION: null
 DOTNET EXCEPTION: Reader for box with type iinf read beyond end of allocated space.
        
        Generated using metadata-extractor

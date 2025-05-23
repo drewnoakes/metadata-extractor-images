@@ -20,7 +20,7 @@ TYPE: TIFF
 [ERROR: Exif Thumbnail] Stopping processing as too many errors seen in TIFF IFD
 
 [Exif Thumbnail - 0x0000] Unknown tag (0x0000) = [198 values]
-[Exif Thumbnail - 0xa302] CFA Pattern = ERROR: Index -1 out of bounds for length 7
+[Exif Thumbnail - 0xa302] CFA Pattern = ERROR: -1
 
 [File Type - 0x0001] Detected File Type Name = TIFF
 [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format

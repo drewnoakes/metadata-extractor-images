@@ -1,7 +1,41 @@
 FILE: crash-25db9e8dfa7b468b865eadca136e555a59c8c8d7.fuzzed
 TYPE: BMP
 
-EXCEPTION: Requested array size exceeds VM limit
+[ERROR: BMP Header] Unable to read BMP header
+
+[BMP Header - 0xfffffffe] Bitmap type = Monochrome Icon
+[BMP Header - 0xffffffff] Header Size = 124
+[BMP Header - 0x0002] Image Width = -654326784
+[BMP Header - 0x0001] Image Height = -2027618560
+[BMP Header - 0x0003] Planes = 63609
+[BMP Header - 0x0004] Bits Per Pixel = 63736
+[BMP Header - 0x0005] Compression = Illegal value 0xf8f8f8e8
+[BMP Header - 0x0006] X Pixels per Meter = -117903112
+[BMP Header - 0x0007] Y Pixels per Meter = -117901064
+[BMP Header - 0x0008] Palette Colour Count = -603981576
+[BMP Header - 0x0009] Important Colour Count = -117901064
+[BMP Header - 0x000c] Red Mask = 0x007C00F8
+[BMP Header - 0x000d] Green Mask = 0x08020000
+[BMP Header - 0x000e] Blue Mask = 0x0000002B
+[BMP Header - 0x000f] Alpha Mask = 0xFFC40000
+[BMP Header - 0x0010] Color Space Type = Linked Profile
+[BMP Header - 0x0011] Red Gamma Curve = 30720
+[BMP Header - 0x0012] Green Gamma Curve = 34695.527
+[BMP Header - 0x0013] Blue Gamma Curve = 34695.53
+[BMP Header - 0x0014] Rendering Intent = 
+
+[File Type - 0x0001] Detected File Type Name = BMP
+[File Type - 0x0002] Detected File Type Long Name = Device Independent Bitmap
+[File Type - 0x0003] Detected MIME Type = image/bmp
+[File Type - 0x0004] Expected File Name Extension = bmp
+
+[File - 0x0001] File Name = crash-25db9e8dfa7b468b865eadca136e555a59c8c8d7.fuzzed
+[File - 0x0002] File Size = 161 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- BMP Header
+- File Type
+- File
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

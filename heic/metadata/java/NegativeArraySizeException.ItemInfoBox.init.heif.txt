@@ -1,7 +1,7 @@
 FILE: NegativeArraySizeException.ItemInfoBox.init.heif
 TYPE: HEIF
 
-EXCEPTION: -2147483625
+EXCEPTION: null
 
 Generated using metadata-extractor
 https://drewnoakes.com/code/exif/

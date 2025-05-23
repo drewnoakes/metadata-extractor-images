@@ -1,7 +1,7 @@
        FILE: NegativeArraySizeException.HeifReader.processBoxes.heif
        TYPE: HEIF
        
-JAVA   EXCEPTION: -2
+JAVA   EXCEPTION: null
 DOTNET EXCEPTION: Reader for box with type pitm read beyond end of allocated space.
        
        Generated using metadata-extractor

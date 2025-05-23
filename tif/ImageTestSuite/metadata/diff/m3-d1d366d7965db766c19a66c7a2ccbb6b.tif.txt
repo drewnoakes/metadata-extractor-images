@@ -42,7 +42,7 @@
        [ICC Profile - 0x76636774] Video Card Gamma = vcgt (0x76636774): 1554 bytes
        [ICC Profile - 0x6e64696e] Native Display Information = ndin (0x6E64696E): 446 bytes
        [ICC Profile - 0x64657363] Profile Description = Color LCD
-JAVA   [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = ERROR: Range [8716622, 8716622 + 24) out of bounds for length 510
+JAVA   [ICC Profile - 0x6473636d] Apple Multi-language Profile Name = ERROR: String index out of range: 8716646
 JAVA   [ICC Profile - 0x6d6d6f64] Make And Model = mmod (0x6D6D6F64): 40 bytes
 JAVA   [ICC Profile - 0x63707274] Profile Copyright = Cop�right Apple Compu�er, Inc., 2005
 JAVA   

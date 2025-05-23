@@ -20,7 +20,7 @@
        [ERROR: Exif Thumbnail] Stopping processing as too many errors seen in TIFF IFD
        
        [Exif Thumbnail - 0x0000] Unknown tag (0x0000) = [198 values]
-JAVA   [Exif Thumbnail - 0xa302] CFA Pattern = ERROR: Index -1 out of bounds for length 7
+JAVA   [Exif Thumbnail - 0xa302] CFA Pattern = ERROR: -1
 DOTNET [Exif Thumbnail - 0xa302] CFA Pattern = [Unknown,Unknown][Unknown][Unknown][Red][Unknown][Unknown][Unknown][Unknown][Unknown][Red][Unknown][Red,Red][Unknown][Unknown][Green][Red][Red][Red][Red][Unknown][Unknown][Unknown][Red,Red][Red][Red][Red][Red][Red][Unknown][Green][Red][Red][Red][Unknown,Unknown][Unknown][Red][Red][Red][Red][Red][Red][Red][Unknown][Red][Red,Unknown][Unknown][Unknown][Unknown][Unknown][Unknown][Unknown][Unknown][Unknown][Red][Red][Unknown,Red][Red][Red][Red][Magenta][Red][Blue][Red][Red][Red][Red][Red,Red][White][Red][Unknown][Red][Red][Unknown][Unknown][Red][Unknown][Unknown][Unknown,Unknown][Unknown][Red][Blue][Red][Red][Red][Unknown][Unknown][Red][Unknown]
        
        [File Type - 0x0001] Detected File Type Name = TIFF
