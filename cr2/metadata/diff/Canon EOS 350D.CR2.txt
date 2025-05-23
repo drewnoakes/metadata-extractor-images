@@ -200,7 +200,7 @@ DOTNET [Exif Image - 0xc640] Unknown tag (0xc640) = 1 1758 1758
        
        [File Type - 0x0001] Detected File Type Name = CR2
        [File Type - 0x0002] Detected File Type Long Name = Canon Camera Raw
-DOTNET [File Type - 0x0003] Detected MIME Type = image/x-canon-cr2
+       [File Type - 0x0003] Detected MIME Type = image/x-canon-cr2
        [File Type - 0x0004] Expected File Name Extension = cr2
        
        [File - 0x0001] File Name = Canon EOS 350D.CR2

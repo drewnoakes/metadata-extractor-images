@@ -189,7 +189,7 @@ JAVA   [Sony 9050B - 0x0114] APS-C Size Capture = 4 21
        
        [File Type - 0x0001] Detected File Type Name = ARW
        [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-DOTNET [File Type - 0x0003] Detected MIME Type = image/x-sony-arw
+       [File Type - 0x0003] Detected MIME Type = image/x-sony-arw
        [File Type - 0x0004] Expected File Name Extension = arw
        
        [File - 0x0001] File Name = Sony NEX-7.arw

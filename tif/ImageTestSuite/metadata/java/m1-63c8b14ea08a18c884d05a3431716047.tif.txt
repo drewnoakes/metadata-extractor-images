@@ -1,5 +1,5 @@
 FILE: m1-63c8b14ea08a18c884d05a3431716047.tif
-TYPE: ARW
+TYPE: TIFF
 
 [ERROR: Exif IFD0] Invalid TIFF tag format code 52739 for tag 0x0129
 [ERROR: Exif Thumbnail] Illegally sized IFD
@@ -37,9 +37,10 @@ TYPE: ARW
 [Exif Thumbnail - 0x9431] Unknown tag (0x9431) = Fuji Xerox Co., Ltd. RasterNSupport Toolkit Version 2.3
 [Exif Thumbnail - 0x0132] Date/Time = 2005.09.15 16:28:54
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = m1-63c8b14ea08a18c884d05a3431716047.tif
 [File - 0x0002] File Size = 79179 bytes

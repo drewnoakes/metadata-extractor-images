@@ -1,5 +1,5 @@
 FILE: Samsung NX1.srw
-TYPE: TIFF
+TYPE: SRW
 
 [Exif IFD0 - 0x010f] Make = SAMSUNG
 [Exif IFD0 - 0x0110] Model = NX1
@@ -146,10 +146,10 @@ TYPE: TIFF
 [Exif SubIFD - 0x0202] Unknown tag (0x0202) = 14021
 [Exif SubIFD - 0x0213] YCbCr Positioning = Datum point
 
-[File Type - 0x0001] Detected File Type Name = TIFF
-[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
-[File Type - 0x0003] Detected MIME Type = image/tiff
-[File Type - 0x0004] Expected File Name Extension = tiff
+[File Type - 0x0001] Detected File Type Name = SRW
+[File Type - 0x0002] Detected File Type Long Name = Samsung Raw
+[File Type - 0x0003] Detected MIME Type = image/x-samsung-srw
+[File Type - 0x0004] Expected File Name Extension = srw
 
 [File - 0x0001] File Name = Samsung NX1.srw
 [File - 0x0002] File Size = 36239930 bytes

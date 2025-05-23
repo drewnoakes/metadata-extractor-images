@@ -76,6 +76,7 @@ TYPE: ORF
 
 [File Type - 0x0001] Detected File Type Name = ORF
 [File Type - 0x0002] Detected File Type Long Name = Olympus Camera Raw
+[File Type - 0x0003] Detected MIME Type = image/x-olympus-orf
 [File Type - 0x0004] Expected File Name Extension = orf
 
 [File - 0x0001] File Name = OM Sytem OM-1.orf

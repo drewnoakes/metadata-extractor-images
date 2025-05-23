@@ -43,7 +43,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x8827] ISO Speed Ratings = 200
 [Exif SubIFD - 0x9003] Date/Time Original = 2016:01:06 10:11:06
 [Exif SubIFD - 0x9004] Date/Time Digitized = 1970:01:01 00:03:26
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/646 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/647 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/2.2
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.2
 [Exif SubIFD - 0x920a] Focal Length = 4 mm

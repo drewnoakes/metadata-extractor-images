@@ -1,5 +1,5 @@
        FILE: f4bcc246f3471102a2dea2ee9153b372.tif
-       TYPE: ARW
+       TYPE: TIFF
        
        [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
        [Exif IFD0 - 0x0100] Image Width = 1336 pixels
@@ -84,9 +84,10 @@ DOTNET [Exif Image - 0x0128] Resolution Unit = Inch
 DOTNET [Exif Image - 0x0132] Date/Time = 06:01:1998
 DOTNET [Exif Image - 0x013b] Artist = Copyright Snowbound Software 1998
 DOTNET 
-       [File Type - 0x0001] Detected File Type Name = ARW
-       [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-       [File Type - 0x0004] Expected File Name Extension = arw
+       [File Type - 0x0001] Detected File Type Name = TIFF
+       [File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+       [File Type - 0x0003] Detected MIME Type = image/tiff
+       [File Type - 0x0004] Expected File Name Extension = tiff
        
        [File - 0x0001] File Name = f4bcc246f3471102a2dea2ee9153b372.tif
        [File - 0x0002] File Size = 214023 bytes

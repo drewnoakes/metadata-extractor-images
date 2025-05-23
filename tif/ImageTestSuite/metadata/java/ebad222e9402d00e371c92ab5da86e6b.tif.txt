@@ -274,7 +274,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2001:08:10 14:08:24
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 6 bits/pixel
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/179 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/180 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/5.6
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.7

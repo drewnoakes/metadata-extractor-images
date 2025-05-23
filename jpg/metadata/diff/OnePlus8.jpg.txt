@@ -65,7 +65,7 @@
        [Exif SubIFD - 0xa405] Focal Length 35 = Unknown
        [Exif SubIFD - 0x9292] Sub-Sec Time Digitized = 000343
        [Exif SubIFD - 0x9004] Date/Time Digitized = 2020:08:25 09:30:43
-       [Exif SubIFD - 0x9201] Shutter Speed Value = 1/2633 sec
+       [Exif SubIFD - 0x9201] Shutter Speed Value = 1/2634 sec
        [Exif SubIFD - 0x9207] Metering Mode = Center weighted average
 JAVA   [Exif SubIFD - 0x920a] Focal Length = 3 mm
 DOTNET [Exif SubIFD - 0x920a] Focal Length = 3.1 mm

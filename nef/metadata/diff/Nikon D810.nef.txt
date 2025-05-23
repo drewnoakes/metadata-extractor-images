@@ -1,5 +1,5 @@
        FILE: Nikon D810.nef
-       TYPE: ARW
+       TYPE: NEF
        
        [Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
        [Exif IFD0 - 0x0100] Image Width = 160 pixels
@@ -193,9 +193,10 @@ DOTNET [Nikon PictureControl 2 - 0x0041] Toning Saturation = 255
        
        [GPS - 0x0000] GPS Version ID = 2.300
        
-       [File Type - 0x0001] Detected File Type Name = ARW
-       [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-       [File Type - 0x0004] Expected File Name Extension = arw
+       [File Type - 0x0001] Detected File Type Name = NEF
+       [File Type - 0x0002] Detected File Type Long Name = Nikon Camera Raw
+       [File Type - 0x0003] Detected MIME Type = image/x-nikon-nef
+       [File Type - 0x0004] Expected File Name Extension = nef
        
        [File - 0x0001] File Name = Nikon D810.nef
        [File - 0x0002] File Size = 40667772 bytes

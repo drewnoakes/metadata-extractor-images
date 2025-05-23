@@ -1,5 +1,5 @@
        FILE: DJI Phantom 4 (2).dng
-       TYPE: ARW
+       TYPE: DNG
        
        [Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
        [Exif IFD0 - 0x0100] Image Width = 160 pixels
@@ -166,9 +166,10 @@ DOTNET [DJI Makernote - 0x000b] Camera Roll = 0
        [GPS - 0x0005] GPS Altitude Ref = Below sea level
        [GPS - 0x0006] GPS Altitude = 35.27 metres
        
-       [File Type - 0x0001] Detected File Type Name = ARW
-       [File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-       [File Type - 0x0004] Expected File Name Extension = arw
+       [File Type - 0x0001] Detected File Type Name = DNG
+       [File Type - 0x0002] Detected File Type Long Name = Digital Negative
+       [File Type - 0x0003] Detected MIME Type = image/x-adobe-dng
+       [File Type - 0x0004] Expected File Name Extension = dng
        
        [File - 0x0001] File Name = DJI Phantom 4 (2).dng
        [File - 0x0002] File Size = 24360947 bytes

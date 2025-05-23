@@ -25,7 +25,7 @@
        [Exif SubIFD - 0x9003] Date/Time Original = 2011:05:20 20:33:14
        [Exif SubIFD - 0x9004] Date/Time Digitized = 2011:05:20 20:33:14
        [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-       [Exif SubIFD - 0x9201] Shutter Speed Value = 1/331 sec
+       [Exif SubIFD - 0x9201] Shutter Speed Value = 1/332 sec
        [Exif SubIFD - 0x9202] Aperture Value = f/11.3
        [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
        [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
@@ -221,7 +221,7 @@ DOTNET [Exif Image - 0xc6c5] Unknown tag (0xc6c5) = 1
        
        [File Type - 0x0001] Detected File Type Name = CR2
        [File Type - 0x0002] Detected File Type Long Name = Canon Camera Raw
-DOTNET [File Type - 0x0003] Detected MIME Type = image/x-canon-cr2
+       [File Type - 0x0003] Detected MIME Type = image/x-canon-cr2
        [File Type - 0x0004] Expected File Name Extension = cr2
        
        [File - 0x0001] File Name = Canon EOS 7D.cr2

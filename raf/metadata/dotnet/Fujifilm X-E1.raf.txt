@@ -132,6 +132,7 @@ TYPE: RAF
 
 [File Type - 0x0001] Detected File Type Name = RAF
 [File Type - 0x0002] Detected File Type Long Name = FujiFilm Camera Raw
+[File Type - 0x0003] Detected MIME Type = image/x-fuji-raf
 [File Type - 0x0004] Expected File Name Extension = raf
 
 [File - 0x0001] File Name = Fujifilm X-E1.raf

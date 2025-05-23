@@ -1,5 +1,5 @@
 FILE: LG Nexus 5X.dng
-TYPE: ARW
+TYPE: DNG
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Full-resolution image
 [Exif IFD0 - 0x0100] Image Width = 4080 pixels
@@ -56,9 +56,10 @@ TYPE: ARW
 [Exif IFD0 - 0xc74e] Unknown tag (0xc74e) = 0 0 0 0
 [Exif IFD0 - 0xc761] Unknown tag (0xc761) = 0 0 0 0 0 0
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = DNG
+[File Type - 0x0002] Detected File Type Long Name = Digital Negative
+[File Type - 0x0003] Detected MIME Type = image/x-adobe-dng
+[File Type - 0x0004] Expected File Name Extension = dng
 
 [File - 0x0001] File Name = LG Nexus 5X.dng
 [File - 0x0002] File Size = 24738056 bytes

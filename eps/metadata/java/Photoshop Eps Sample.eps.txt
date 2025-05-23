@@ -86,7 +86,7 @@ TYPE: EPS
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2016:03:11 11:43:56
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2016:03:11 11:43:56
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/1999 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/2000 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/2.8
 [Exif SubIFD - 0x9204] Exposure Bias Value = 1/3 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.8
@@ -176,7 +176,7 @@ TYPE: EPS
 [Exif SubIFD - 0x9000] Exif Version = 2.30
 [Exif SubIFD - 0x9003] Date/Time Original = 2016:03:11 11:43:56
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2016:03:11 11:43:56
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/1999 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/2000 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/2.8
 [Exif SubIFD - 0x9204] Exposure Bias Value = 1/3 EV
 [Exif SubIFD - 0x9205] Max Aperture Value = f/2.8

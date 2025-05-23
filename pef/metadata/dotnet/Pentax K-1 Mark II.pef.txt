@@ -1,5 +1,5 @@
 FILE: Pentax K-1 Mark II.pef
-TYPE: ARW
+TYPE: PEF
 
 [Exif IFD0 - 0x0100] Image Width = 7392 pixels
 [Exif IFD0 - 0x0101] Image Height = 4950 pixels
@@ -207,9 +207,10 @@ TYPE: ARW
 [Exif Image - 0x0201] Unknown tag (0x0201) = 39287712
 [Exif Image - 0x0202] Unknown tag (0x0202) = 4609539
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = PEF
+[File Type - 0x0002] Detected File Type Long Name = Pentax Raw
+[File Type - 0x0003] Detected MIME Type = image/x-pentax-pef
+[File Type - 0x0004] Expected File Name Extension = pef
 
 [File - 0x0001] File Name = Pentax K-1 Mark II.pef
 [File - 0x0002] File Size = 43897251 bytes

@@ -113,7 +113,7 @@ TYPE: HEIF
 [Exif SubIFD - 0x9003] Date/Time Original = 2018:02:05 15:11:44
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2018:02:05 15:11:44
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/16 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/17 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/1.8
 [Exif SubIFD - 0x9203] Brightness Value = 1.448
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV

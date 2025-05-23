@@ -37,7 +37,7 @@ TYPE: TIFF
 [Exif SubIFD - 0x9000] Exif Version = 2.10
 [Exif SubIFD - 0x9003] Date/Time Original = 2006:09:12 21:04:57
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2006:09:12 21:04:57
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/59 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/60 sec
 
 [ICC Profile - 0x0000] Profile Size = 1080
 [ICC Profile - 0x0004] CMM Type = appl

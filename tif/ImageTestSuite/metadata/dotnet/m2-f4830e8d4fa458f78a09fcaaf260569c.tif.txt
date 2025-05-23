@@ -1,5 +1,5 @@
 FILE: m2-f4830e8d4fa458f78a09fcaaf260569c.tif
-TYPE: ARW
+TYPE: TIFF
 
 [ERROR: XMP] Error processing XMP data: Unsupported Encoding
 [ERROR: IPTC] Invalid IPTC tag marker at offset 7. Expected '0x1c' but got '0x27'.
@@ -65,7 +65,7 @@ TYPE: ARW
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2005:03:03 15:31:45
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
 [Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 3.2 bits/pixel
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/63 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/64 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/4.8
 [Exif SubIFD - 0x9203] Brightness Value = 1.0
 [Exif SubIFD - 0x9207] Metering Mode = 
@@ -90,9 +90,10 @@ TYPE: ARW
 [Exif SubIFD - 0xa40a] Sharpness = Hard
 [Exif SubIFD - 0xa40c] Subject Distance Range = Unknown
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = m2-f4830e8d4fa458f78a09fcaaf260569c.tif
 [File - 0x0002] File Size = 539640 bytes

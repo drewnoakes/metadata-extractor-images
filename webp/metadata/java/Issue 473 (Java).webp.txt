@@ -26,7 +26,7 @@ TYPE: WEBP
 [Exif SubIFD - 0x9003] Date/Time Original = 2018:08:27 12:20:23
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2018:08:27 12:20:23
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/32 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/33 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/1.8
 [Exif SubIFD - 0x9203] Brightness Value = 4.063
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV

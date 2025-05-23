@@ -1,5 +1,5 @@
 FILE: Pentax QS1.dng
-TYPE: ARW
+TYPE: DNG
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0100] Image Width = 160 pixels
@@ -128,7 +128,7 @@ TYPE: ARW
 [Exif SubIFD - 0x9000] Exif Version = 2.21
 [Exif SubIFD - 0x9003] Date/Time Original = 2015:01:10 13:28:54
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2015:01:10 13:28:54
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/249 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/250 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/4.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
@@ -149,9 +149,10 @@ TYPE: ARW
 [Exif SubIFD - 0xa433] Lens Make = PENTAX             
 [Exif SubIFD - 0xa434] Lens Model = 02 STANDARD ZOOM
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = DNG
+[File Type - 0x0002] Detected File Type Long Name = Digital Negative
+[File Type - 0x0003] Detected MIME Type = image/x-adobe-dng
+[File Type - 0x0004] Expected File Name Extension = dng
 
 [File - 0x0001] File Name = Pentax QS1.dng
 [File - 0x0002] File Size = 22643744 bytes

@@ -1,5 +1,5 @@
 FILE: Leica X VARIO (Typ 107).dng
-TYPE: ARW
+TYPE: DNG
 
 [Exif IFD0 - 0x00fe] New Subfile Type = Reduced-resolution image
 [Exif IFD0 - 0x0100] Image Width = 720 pixels
@@ -114,9 +114,10 @@ TYPE: ARW
 [Leica Makernote - 0x0500] Unknown tag (0x0500) = 48 48 48 48 48 48 48 48 48 48 48 48
 [Leica Makernote - 0x05ff] Unknown tag (0x05ff) = [4540 values]
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = DNG
+[File Type - 0x0002] Detected File Type Long Name = Digital Negative
+[File Type - 0x0003] Detected MIME Type = image/x-adobe-dng
+[File Type - 0x0004] Expected File Name Extension = dng
 
 [File - 0x0001] File Name = Leica X VARIO (Typ 107).dng
 [File - 0x0002] File Size = 24466014 bytes

@@ -34,7 +34,7 @@ TYPE: AVIF
 [Exif SubIFD - 0x9003] Date/Time Original = 2015:10:11 14:41:44
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2015:10:11 14:41:44
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/63 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/64 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/3.2
 [Exif SubIFD - 0x9204] Exposure Bias Value = 0 EV
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment

@@ -1,5 +1,5 @@
 FILE: 551adc8ce6c3c9cc59040903b0428f47.tif
-TYPE: ARW
+TYPE: TIFF
 
 [Exif IFD0 - 0x0100] Image Width = 190 pixels
 [Exif IFD0 - 0x0101] Image Height = 143 pixels
@@ -29,9 +29,10 @@ TYPE: ARW
 [GeoTIFF - 0x0c00] Projected Coordinate System Type = ETRS89 Poland CS92
 [GeoTIFF - 0x0c04] Projection Linear Units = Linear Meter
 
-[File Type - 0x0001] Detected File Type Name = ARW
-[File Type - 0x0002] Detected File Type Long Name = Sony Camera Raw
-[File Type - 0x0004] Expected File Name Extension = arw
+[File Type - 0x0001] Detected File Type Name = TIFF
+[File Type - 0x0002] Detected File Type Long Name = Tagged Image File Format
+[File Type - 0x0003] Detected MIME Type = image/tiff
+[File Type - 0x0004] Expected File Name Extension = tiff
 
 [File - 0x0001] File Name = 551adc8ce6c3c9cc59040903b0428f47.tif
 [File - 0x0002] File Size = 31357 bytes

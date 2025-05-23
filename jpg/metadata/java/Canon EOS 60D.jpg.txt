@@ -31,7 +31,7 @@ TYPE: JPEG
 [Exif SubIFD - 0x9003] Date/Time Original = 2010:11:08 18:33:13
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2010:11:08 18:33:13
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9201] Shutter Speed Value = 1/98 sec
+[Exif SubIFD - 0x9201] Shutter Speed Value = 1/99 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/8.0
 [Exif SubIFD - 0x9204] Exposure Bias Value = -2/3 EV
 [Exif SubIFD - 0x9207] Metering Mode = Multi-segment
