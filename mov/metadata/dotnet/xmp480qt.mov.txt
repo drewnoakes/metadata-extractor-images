@@ -36,6 +36,46 @@ TYPE: QUICKTIME
 [QuickTime Track Header - 0x000b] Height = 360
 [QuickTime Track Header - 0x000d] Rotation = 0
 
+[XMP - 0xffff] XMP Value Count = 37
+
+[XMPMeta - http://purl.org/dc/elements/1.1/] dc:format = QuickTime
+[XMPMeta - ] dc:description[1] = Baltic sea timelapse description
+[XMPMeta - http://www.w3.org/XML/1998/namespace] dc:description[1]/xml:lang = x-default
+[XMPMeta - ] dc:subject[1] = baltic
+[XMPMeta - ] dc:subject[2] = sea
+[XMPMeta - ] dc:subject[3] = timelapse
+[XMPMeta - http://ns.adobe.com/photoshop/1.0/] photoshop:Headline = Baltic sea timelapse title
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:CreatorTool = Adobe After Effects 2020 (Macintosh)
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:MetadataDate = 2020-01-05T13:20:49+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/] xmp:ModifyDate = 2020-01-05T11:19:47Z
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:startTimeSampleSize = 100
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:startTimeScale = 2997
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:videoFieldOrder = Progressive
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:videoFrameRate = 29.970030
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:videoPixelAspectRatio = 1/1
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:altTimecode/xmpDM:timeFormat = 2997NonDropTimecode
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:altTimecode/xmpDM:timeValue = 12:59:21:18
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] xmpDM:videoFrameSize/stDim:h = 2160
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] xmpDM:videoFrameSize/stDim:unit = pixel
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/Dimensions#] xmpDM:videoFrameSize/stDim:w = 3840
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:startTimecode/xmpDM:timeFormat = 2997NonDropTimecode
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:startTimecode/xmpDM:timeValue = 12:59:21:18
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:duration/xmpDM:scale = 1/30000
+[XMPMeta - http://ns.adobe.com/xmp/1.0/DynamicMedia/] xmpDM:duration/xmpDM:value = 30030
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:DocumentID = xmp.did:7e43e7d4-867d-4c5b-8c8d-2c615b893b41
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:InstanceID = xmp.iid:6eca81e8-329e-4cde-84ca-365b17410149
+[XMPMeta - http://ns.adobe.com/xap/1.0/mm/] xmpMM:OriginalDocumentID = xmp.did:7e43e7d4-867d-4c5b-8c8d-2c615b893b41
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:changed = /
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:instanceID = xmp.iid:29476fc4-c005-4db1-9c6c-b725b62f0e56
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:softwareAgent = Adobe After Effects 2020 (Macintosh)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[1]/stEvt:when = 2020-01-05T13:19:20+02:00
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:action = saved
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:changed = /metadata
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:instanceID = xmp.iid:6eca81e8-329e-4cde-84ca-365b17410149
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:softwareAgent = Adobe Bridge 2020 (Macintosh)
+[XMPMeta - http://ns.adobe.com/xap/1.0/sType/ResourceEvent#] xmpMM:History[2]/stEvt:when = 2020-01-05T13:20:49+02:00
+
 [File Type - 0x0001] Detected File Type Name = QuickTime
 [File Type - 0x0002] Detected File Type Long Name = QuickTime
 [File Type - 0x0003] Detected MIME Type = video/quicktime
@@ -48,6 +88,7 @@ TYPE: QUICKTIME
 - QuickTime File Type
 - QuickTime Movie Header
 - QuickTime Track Header
+- XMP
 - File Type
 - File
 
