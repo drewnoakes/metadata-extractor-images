@@ -1,0 +1,119 @@
+FILE: apple-livephoto-quicktime.mov
+TYPE: QUICKTIME
+
+[ERROR: QuickTime Metadata Header] Unsupported ilst key "com.apple.quicktime.location.accuracy.horizontal"
+[ERROR: QuickTime Metadata Header] Unsupported type indicator "22" for key "com.apple.quicktime.live-photo.auto"
+[ERROR: QuickTime Metadata Header] Unsupported ilst key "com.apple.quicktime.live-photo.vitality-score"
+[ERROR: QuickTime Metadata Header] Unsupported type indicator "21" for key "com.apple.quicktime.live-photo.vitality-scoring-version"
+
+[QuickTime Movie Header - 0x0001] Version = 0
+[QuickTime Movie Header - 0x0002] Flags = 0 0 0
+[QuickTime Movie Header - 0x0003] Created = Wed Aug 30 13:57:10 2023
+[QuickTime Movie Header - 0x0004] Modified = Wed Aug 30 13:57:11 2023
+[QuickTime Movie Header - 0x0005] TrackId = 600
+[QuickTime Movie Header - 0x0006] Duration = 00:00:02.8330000
+[QuickTime Movie Header - 0x0007] Preferred Rate = 1
+[QuickTime Movie Header - 0x0008] Preferred Volume = 1
+[QuickTime Movie Header - 0x0009] Matrix = [36 values]
+[QuickTime Movie Header - 0x000a] Preview Time = 0
+[QuickTime Movie Header - 0x000b] Preview Duration = 0
+[QuickTime Movie Header - 0x000c] Poster Time = 0
+[QuickTime Movie Header - 0x000d] Selection Time = 0
+[QuickTime Movie Header - 0x000e] Selection Duration = 0
+[QuickTime Movie Header - 0x000f] Current Time = 0
+[QuickTime Movie Header - 0x0010] Next Track Id = 6
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Wed Aug 30 13:57:11 2023
+[QuickTime Track Header - 0x0004] Modified = Wed Aug 30 13:57:11 2023
+[QuickTime Track Header - 0x0005] TrackId = 1
+[QuickTime Track Header - 0x0006] Duration = 1700
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 1920
+[QuickTime Track Header - 0x000b] Height = 1440
+[QuickTime Track Header - 0x000d] Rotation = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Wed Aug 30 13:57:11 2023
+[QuickTime Track Header - 0x0004] Modified = Wed Aug 30 13:57:11 2023
+[QuickTime Track Header - 0x0005] TrackId = 2
+[QuickTime Track Header - 0x0006] Duration = 1699
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 1
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Wed Aug 30 13:57:11 2023
+[QuickTime Track Header - 0x0004] Modified = Wed Aug 30 13:57:11 2023
+[QuickTime Track Header - 0x0005] TrackId = 3
+[QuickTime Track Header - 0x0006] Duration = 1700
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Wed Aug 30 13:57:11 2023
+[QuickTime Track Header - 0x0004] Modified = Wed Aug 30 13:57:11 2023
+[QuickTime Track Header - 0x0005] TrackId = 4
+[QuickTime Track Header - 0x0006] Duration = 1700
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Track Header - 0x0001] Version = 0
+[QuickTime Track Header - 0x0002] Flags = 0 0 15
+[QuickTime Track Header - 0x0003] Created = Wed Aug 30 13:57:11 2023
+[QuickTime Track Header - 0x0004] Modified = Wed Aug 30 13:57:11 2023
+[QuickTime Track Header - 0x0005] TrackId = 5
+[QuickTime Track Header - 0x0006] Duration = 881
+[QuickTime Track Header - 0x0007] Layer = 0
+[QuickTime Track Header - 0x0008] Alternate Group = 0
+[QuickTime Track Header - 0x0009] Volume = 0
+[QuickTime Track Header - 0x000c] Matrix = 1 0 0 0 1 0 0 0 1
+[QuickTime Track Header - 0x000a] Width = 0
+[QuickTime Track Header - 0x000b] Height = 0
+
+[QuickTime Metadata Header - 0x001f] Content Identifier = EE6D649E-788F-4E3A-BCD2-483651BF7B34
+[QuickTime Metadata Header - 0x000e] GPS Location = +32.4720-084.9952+073.827/
+[QuickTime Metadata Header - 0x0015] Make = Apple
+[QuickTime Metadata Header - 0x0016] Model = iPhone 14 Pro
+[QuickTime Metadata Header - 0x0011] Software = 17.0
+[QuickTime Metadata Header - 0x0007] Creation Date = Wed Aug 30 23:56:22 +10:00 2023
+
+[File Type - 0x0001] Detected File Type Name = QuickTime
+[File Type - 0x0002] Detected File Type Long Name = QuickTime
+[File Type - 0x0003] Detected MIME Type = video/quicktime
+[File Type - 0x0004] Expected File Name Extension = mov
+
+[File - 0x0001] File Name = apple-livephoto-quicktime.mov
+[File - 0x0002] File Size = 5217930 bytes
+[File - 0x0003] File Modified Date = <omitted for regression testing as checkout dependent>
+
+- QuickTime Movie Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Track Header
+- QuickTime Metadata Header
+- File Type
+- File
+
+Generated using metadata-extractor
+https://drewnoakes.com/code/exif/
