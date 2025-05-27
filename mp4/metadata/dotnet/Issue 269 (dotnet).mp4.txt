@@ -49,6 +49,8 @@ TYPE: MP4
 [QuickTime Track Header - 0x000a] Width = 0
 [QuickTime Track Header - 0x000b] Height = 0
 
+[QuickTime Metadata Header - 0x000e] GPS Location = +30.2627-097.9380/
+
 [File Type - 0x0001] Detected File Type Name = MP4
 [File Type - 0x0002] Detected File Type Long Name = MPEG-4 Part 14
 [File Type - 0x0003] Detected MIME Type = video/mp4
@@ -62,6 +64,7 @@ TYPE: MP4
 - QuickTime Movie Header
 - QuickTime Track Header
 - QuickTime Track Header
+- QuickTime Metadata Header
 - File Type
 - File
 
