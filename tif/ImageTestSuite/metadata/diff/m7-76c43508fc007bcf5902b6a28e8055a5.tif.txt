@@ -92,5 +92,5 @@ DOTNET [ICC Profile - 0x63707274] Profile Copyright = Copyright 2000 Adobe Syste
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

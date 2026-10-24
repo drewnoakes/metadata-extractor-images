@@ -85,5 +85,5 @@ DOTNET [PNG-zTXt - 0x000d] Textual Data = comment: Edited with LunaPic: http://l
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

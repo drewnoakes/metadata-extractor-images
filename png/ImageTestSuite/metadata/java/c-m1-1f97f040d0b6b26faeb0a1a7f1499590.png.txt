@@ -4,4 +4,4 @@ TYPE: PNG
 EXCEPTION: Unable to skip. Requested 1853095968 bytes but only 63 remained.
 
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor/

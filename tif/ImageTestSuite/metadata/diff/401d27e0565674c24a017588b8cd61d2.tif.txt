@@ -843,5 +843,5 @@ DOTNET   - Linked (0.193024337291718,0.182185471057892) (0.193024337291718,0.182
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

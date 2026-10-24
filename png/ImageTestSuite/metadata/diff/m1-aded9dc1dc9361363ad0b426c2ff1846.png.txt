@@ -84,5 +84,5 @@ DOTNET [ICC Profile - 0x62545243] Blue TRC = 0.0, 0.0000763, 0.0001526, 0.000228
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

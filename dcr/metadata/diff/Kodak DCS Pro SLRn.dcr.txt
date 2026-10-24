@@ -156,5 +156,5 @@ DOTNET [IPTC - 0x0246] Program Version = 2.2.2
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

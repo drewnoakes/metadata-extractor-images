@@ -6,5 +6,5 @@ JAVA   EXCEPTION: File format could not be determined
 DOTNET EXCEPTION: Arithmetic operation resulted in an overflow.
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

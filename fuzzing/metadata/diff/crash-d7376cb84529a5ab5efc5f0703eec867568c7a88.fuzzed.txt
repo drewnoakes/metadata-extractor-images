@@ -19,5 +19,5 @@ JAVA   [ERROR: AVI] Unable to skip. Requested 711271480 bytes but only 311 remai
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

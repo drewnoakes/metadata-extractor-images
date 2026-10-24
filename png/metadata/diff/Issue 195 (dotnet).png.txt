@@ -235,5 +235,5 @@ DOTNET [XMPMeta - http://ns.adobe.com/xap/1.0/rights/] xmpRights:Marked = False
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

@@ -61,5 +61,5 @@ DOTNET [ICC Profile - 0x637072f6] Unknown tag (0x637072f6) = Copyright 2004 Adob
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

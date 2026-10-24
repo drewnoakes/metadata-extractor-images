@@ -126,5 +126,5 @@ DOTNET [XMPMeta - http://ns.adobe.com/xmp/sType/Area#] mwg-rs:Regions/mwg-rs:Reg
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

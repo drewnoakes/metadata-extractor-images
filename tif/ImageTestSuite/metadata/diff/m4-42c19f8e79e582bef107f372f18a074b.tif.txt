@@ -44,5 +44,5 @@ DOTNET [Exif IFD0 - 0x0152] Extra Samples =
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

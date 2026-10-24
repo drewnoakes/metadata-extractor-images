@@ -4,4 +4,4 @@ TYPE: HEIF
 EXCEPTION: Sequence contains no matching element
 
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor-dotnet/

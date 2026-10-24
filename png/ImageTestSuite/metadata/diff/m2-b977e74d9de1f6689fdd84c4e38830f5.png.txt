@@ -53,5 +53,5 @@ DOTNET [ERROR: PNG-zTXt] Exception decompressing PNG zTXt chunk with keyword "So
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

@@ -38,5 +38,5 @@ DOTNET [Exif Thumbnail - 0xa302] CFA Pattern = [Unknown,Unknown][Unknown][Unknow
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

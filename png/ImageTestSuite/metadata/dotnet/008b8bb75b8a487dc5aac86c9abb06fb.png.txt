@@ -4,4 +4,4 @@ TYPE: PNG
 EXCEPTION: Observed multiple instances of PNG chunk 'sBIT', for which multiples are not allowed
 
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor-dotnet/

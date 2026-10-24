@@ -481,5 +481,5 @@ DOTNET   - Unlinked (0.531967520713806,0.738489031791687) (0.533776462078094,0.7
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

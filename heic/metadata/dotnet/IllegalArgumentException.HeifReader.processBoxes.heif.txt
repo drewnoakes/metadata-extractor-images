@@ -4,4 +4,4 @@ TYPE: HEIF
 EXCEPTION: Pointer size must be 0, 4, or 8 bytes
 
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor-dotnet/

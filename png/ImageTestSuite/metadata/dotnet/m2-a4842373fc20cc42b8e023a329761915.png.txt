@@ -4,4 +4,4 @@ TYPE: PNG
 EXCEPTION: PNG chunk type identifier may only contain alphabet characters
 
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor-dotnet/

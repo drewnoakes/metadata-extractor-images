@@ -154,5 +154,5 @@ DOTNET [Exif SubIFD - 0xa404] Digital Zoom Ratio = 2
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

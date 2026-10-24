@@ -56,5 +56,5 @@ DOTNET [ICC Profile - 0x7258595a] Red Colorant = (0.384, 0.216, 16128.05)
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

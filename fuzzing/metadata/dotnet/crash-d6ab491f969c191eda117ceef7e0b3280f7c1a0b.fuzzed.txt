@@ -15,4 +15,4 @@ TYPE: RW2
 [PanasonicRaw DistortionInfo - 0x0002] Distortion Param 2 = 11568/32678
 [PanasonicRaw DistortionInfo - 0x0004] Distortion Param 4 = -257/32678
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor-dotnet/

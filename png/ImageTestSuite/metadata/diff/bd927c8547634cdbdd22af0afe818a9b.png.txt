@@ -82,5 +82,5 @@ DOTNET [PNG-zTXt - 0x000d] Textual Data = Software: ImageMagick 6.2.8 06/16/06 Q
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

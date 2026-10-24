@@ -60,5 +60,5 @@ DOTNET [ICC Profile - 0x6b545243] Gray TRC = 0.0085908
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

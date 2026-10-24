@@ -44,4 +44,4 @@ TYPE: TIFF
 [ICC Profile - 0x6e64336e] Unknown tag (0x6e64336e) = ndin (0x6E64696E): 446 bytes
 [ICC Profile - 0x64657363] Profile Description = Color�LCD
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor-dotnet/

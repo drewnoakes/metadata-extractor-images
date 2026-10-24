@@ -210,5 +210,5 @@ DOTNET [Nikon Makernote - 0x00b6] Power Up Time = 56839:02:04 15:28:55
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

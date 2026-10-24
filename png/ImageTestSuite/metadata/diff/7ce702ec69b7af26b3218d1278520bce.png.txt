@@ -30,5 +30,5 @@ DOTNET [PNG-IHDR - 0x0006] Filter Method = Unknown (128)
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

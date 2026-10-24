@@ -233,4 +233,4 @@ AmsterdamSnowsuitDoubleZipAW19_DarkGreen_Set_01
 - File
 
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor-dotnet/

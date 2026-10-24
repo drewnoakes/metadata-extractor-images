@@ -66,4 +66,4 @@ LOCID: 0054012NNN01
 - File
 
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor-dotnet/

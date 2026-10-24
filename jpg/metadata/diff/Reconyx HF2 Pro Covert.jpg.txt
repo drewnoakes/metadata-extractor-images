@@ -83,5 +83,5 @@ DOTNET [Reconyx HyperFire 2 Makernote - 0x0068] User Label = HF2 PRO COVERT
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

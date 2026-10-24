@@ -5,4 +5,4 @@ EXCEPTION: Index and length must refer to a location within the string.
 Parameter name: length
 
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor-dotnet/

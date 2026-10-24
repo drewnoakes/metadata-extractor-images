@@ -62,5 +62,5 @@ JAVA   [PNG-zTXt - 0x000d] Textual Data = Tumb::URï:
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

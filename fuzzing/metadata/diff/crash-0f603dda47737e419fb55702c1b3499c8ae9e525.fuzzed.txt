@@ -27,5 +27,5 @@ DOTNET [AVI - 0x0008] Stream Count = -1
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

@@ -150,5 +150,5 @@ DOTNET [GPS - 0x0006] GPS Altitude = 324.15 metres
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

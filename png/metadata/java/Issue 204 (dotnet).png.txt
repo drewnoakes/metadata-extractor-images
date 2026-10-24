@@ -97,4 +97,4 @@ efbbbf3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d22757466
 - File
 
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor/

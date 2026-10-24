@@ -30,5 +30,5 @@ DOTNET - File Type
 DOTNET - File
 DOTNET 
 DOTNET Generated using metadata-extractor
-DOTNET https://drewnoakes.com/code/exif/
+DOTNET https://github.com/drewnoakes/metadata-extractor/
 DOTNET 

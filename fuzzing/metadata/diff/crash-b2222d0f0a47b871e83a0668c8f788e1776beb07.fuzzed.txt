@@ -22,5 +22,5 @@ JAVA   [ERROR: AVI] Invalid chunk size: 0
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

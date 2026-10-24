@@ -117,5 +117,5 @@ DOTNET [Exif SubIFD - 0x920a] Focal Length = 3.1 mm
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

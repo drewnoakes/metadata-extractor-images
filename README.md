@@ -1,4 +1,4 @@
-This is a collection of media (images and video) gathered during the development of the [metadata-extractor](https://drewnoakes.com/code/exif) project. It is used for research purposes and for regression testing.
+This is a collection of media (images and video) gathered during the development of the [metadata-extractor](https://github.com/drewnoakes/metadata-extractor/) project. It is used for research purposes and for regression testing.
 
 You are free to use these media files however you wish.
 

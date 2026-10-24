@@ -27,5 +27,5 @@ DOTNET [Exif IFD0 - 0xa302] CFA Pattern = [Red,Unknown,Red,Red,Red,]
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

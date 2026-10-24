@@ -5,5 +5,5 @@ JAVA   EXCEPTION: null
 DOTNET EXCEPTION: Reader for box with type pitm read beyond end of allocated space.
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

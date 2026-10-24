@@ -73,5 +73,5 @@ DOTNET [IPTC - 0x0246] Program Version = Pixelmator 1.1.4
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

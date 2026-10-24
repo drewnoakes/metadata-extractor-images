@@ -133,5 +133,5 @@ DOTNET [Apple Makernote - 0x0014] Image Capture Type = 4
        - File
        
        Generated using metadata-extractor
-       https://drewnoakes.com/code/exif/
+       https://github.com/drewnoakes/metadata-extractor/
        

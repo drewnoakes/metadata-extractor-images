@@ -4,4 +4,4 @@ TYPE: NETPBM
 EXCEPTION: MaxValue is not parseable as an integer.
 
 Generated using metadata-extractor
-https://drewnoakes.com/code/exif/
+https://github.com/drewnoakes/metadata-extractor-dotnet/
