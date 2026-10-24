@@ -9,6 +9,10 @@ Keep this corpus as a **sibling checkout**, not a submodule of either library.
 Reuse existing checkouts and choose paths explicitly when the library under test
 is in a worktree. Clone a missing sibling only with approval.
 
+The corpus is multi-gigabyte (over 2 GB), with substantial disk-space and bandwidth
+costs for cloning or copying. Do not duplicate it for each worktree or validation
+run: reuse existing inputs and prefer focused subsets or input-only hard links.
+
 ## Related implementations and shared guidance
 
 | Checkout | Repository | Agent guidance |
