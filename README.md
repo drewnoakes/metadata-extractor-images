@@ -2,6 +2,9 @@ This is a collection of media (images and video) gathered during the development
 
 You are free to use these media files however you wish.
 
+See [AGENTS.md](AGENTS.md) for sibling implementation checkouts, agent guidance,
+and safe baseline-versus-change regression workflows.
+
 See also:
 
 * [Summary of contained metadata](https://github.com/drewnoakes/metadata-extractor/wiki/ImageDatabaseSummary)
